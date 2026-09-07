@@ -1,6 +1,7 @@
 # ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?
 
 <p>
+  <a href="https://holi-lab.github.io/ArcANE/"><img src="https://img.shields.io/badge/Project-Page-0f766e" alt="Project page"></a>
   <a href="https://arxiv.org/abs/2606.05553"><img src="https://img.shields.io/badge/Paper-arXiv%3A2606.05553-B31B1B?logo=arxiv&logoColor=white" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/holi-lab/ArcANE-Data"><img src="https://img.shields.io/badge/🤗%20Dataset-ArcANE--Data-FFD21E" alt="Dataset"></a>
   <a href="https://huggingface.co/collections/holi-lab/arcane"><img src="https://img.shields.io/badge/🤗%20Models-ArcANE-FFD21E" alt="ArcANE collection"></a>
@@ -10,6 +11,8 @@
 </p>
 
 **🏆 Accepted to EMNLP 2026 Main Conference**
+
+🌐 **Project page and results explorer:** [holi-lab.github.io/ArcANE](https://holi-lab.github.io/ArcANE/) — browse every novel, character, arc, and probe, with the phase-keyed references, judge scores, and model responses.
 
 **ArcANE** evaluates and trains role-playing language agents as **dynamic characters**. It builds a character arc per psychological axis, generates phase-keyed probes, and scores whether an agent's response matches the character's state at the queried narrative point.
 
@@ -188,6 +191,15 @@ ARCANE_REWARD_URL=http://127.0.0.1:8000/score bash scripts/run_grpo.sh
 ~~~
 
 The launcher uses the published ArcANE-32B-DPO checkpoint and requires a reward-service URL. See [the RLVR setup](training/rl/README.md) for the reward interface and local-adapter options.
+
+## Project Page
+
+[`project_page/`](project_page/) holds the static site deployed to [holi-lab.github.io/ArcANE](https://holi-lab.github.io/ArcANE/) by [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml). Its data bundle (`project_page/data/`) is generated from the released arcs, probes, and judge outputs; model responses shown in the explorer come from the raw inference files, which are not tracked in this repository.
+
+~~~bash
+python project_page/build/build_data.py                       # scores, arcs, probes only
+python project_page/build/build_data.py --responses-root DIR  # DIR holds {novel}/{character}/{mode}__{model}.jsonl
+~~~
 
 ## Citation
 

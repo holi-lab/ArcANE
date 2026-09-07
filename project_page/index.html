@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?</title>
+
+  <meta name="description" content="EMNLP 2026 (Main). ArcANE (Arc-Aware Narrative Evaluation) tests whether a role-playing language agent's response fits the character's state at that point in the story: 570 Character Arcs and 4,854 phase-keyed probes over 87 characters in 19 novels.">
+  <meta name="keywords" content="role-playing language agents, character arc, narrative evaluation, benchmark, LLM judge, persona, phase fidelity, DPO, RLVR, EMNLP 2026">
+  <meta name="author" content="Woojung Song, Nalim Kim, Sangjun Song, Chaewon Heo, Jongwon Lim, Yohan Jo">
+
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Holi Lab, Seoul National University">
+  <meta property="og:title" content="ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?">
+  <meta property="og:description" content="A benchmark for whether a role-playing language agent follows a character's development across a narrative. Arc context is the best mode for all six models in the main comparison. EMNLP 2026 Main Conference.">
+  <meta property="og:url" content="https://holi-lab.github.io/ArcANE/">
+  <meta property="og:image" content="https://holi-lab.github.io/ArcANE/static/images/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?">
+  <meta name="twitter:description" content="A benchmark for whether a role-playing language agent follows a character's development across a narrative. Arc context is the best mode for all six models in the main comparison. EMNLP 2026 Main Conference.">
+  <meta name="twitter:image" content="https://holi-lab.github.io/ArcANE/static/images/og.png">
+
+  <meta name="citation_title" content="ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?">
+  <meta name="citation_author" content="Song, Woojung">
+  <meta name="citation_author" content="Kim, Nalim">
+  <meta name="citation_author" content="Song, Sangjun">
+  <meta name="citation_author" content="Heo, Chaewon">
+  <meta name="citation_author" content="Lim, Jongwon">
+  <meta name="citation_author" content="Jo, Yohan">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_conference_title" content="Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)">
+  <meta name="citation_arxiv_id" content="2606.05553">
+  <meta name="citation_pdf_url" content="https://arxiv.org/pdf/2606.05553">
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23171B26'/%3E%3Cpath d='M6 25C11 24 14 18 17 14S23 8 26 7' fill='none' stroke='%23E2B24E' stroke-width='2.2' stroke-linecap='round'/%3E%3Ccircle cx='8' cy='24.5' r='2.4' fill='%23E2B24E'/%3E%3Ccircle cx='17' cy='14.5' r='2.4' fill='%23E2B24E'/%3E%3Ccircle cx='25.5' cy='7.5' r='2.4' fill='%23E2B24E'/%3E%3C/svg%3E">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&amp;display=swap">
+  <link rel="stylesheet" href="static/css/site.css">
+
+  <style>
+    [hidden] { display: none !important; }
+    @media (max-width: 820px) { .topnav a.optional { display: none; } }
+    @media (max-width: 480px) { .venue .conf { display: none; } }
+    @media (min-width: 901px) { table.data td.wrap, table.data th.wrap { min-width: 16em; } }
+    h1 { max-width: 30ch; }
+    .thesis { padding: 8px 0 0; }
+    #overview h3 { margin-top: 18px; }
+
+    /* ── hero probe panel ── */
+    .hp-meta { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; font-size: 13.5px; color: var(--ink-2); margin: 0 0 10px; }
+    .hp-meta .axis { color: var(--ink); font-weight: 600; }
+    .hp-meta .dot::before { content: "·"; color: var(--muted); font-weight: 400; margin-right: 8px; }
+    @media (max-width: 960px) { .hp-meta { display: block; } .hp-meta > * { display: block; margin: 2px 0; } .hp-meta .dot::before { content: none; } }
+    .seg button:focus-visible, .resp .more:focus-visible { outline: 2px solid var(--focus); outline-offset: -3px; }
+    .badge { font-size: 12px; }
+    #heroPanel .probe-box { margin: 0 0 12px; }
+    .phase-nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; }
+    .phase-nav button { display: inline-flex; align-items: center; gap: 7px; font-family: var(--sans); font-size: 12.5px; font-weight: 600; line-height: 1.3; cursor: pointer; border: 1px solid var(--rule); border-radius: 999px; padding: 3px 11px 3px 4px; background: var(--surface-2); color: var(--ink-2); }
+    .phase-nav button .n { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; color: #fff; font-size: 11px; background: var(--p2); }
+    .phase-nav button .ch { font-weight: 400; font-size: 12.5px; color: var(--muted); }
+    .phase-nav button:hover { border-color: var(--ink-2); color: var(--ink); }
+    .phase-nav button.p0 .n { background: var(--p0); } .phase-nav button.p1 .n { background: var(--p1); } .phase-nav button.p2 .n { background: var(--p2); }
+    .phase-nav button.p3 .n { background: var(--p3); } .phase-nav button.p4 .n { background: var(--p4); } .phase-nav button.p5 .n { background: var(--p5); }
+    .phase-nav button[aria-pressed="true"] { color: #fff; border-color: transparent; }
+    .phase-nav button[aria-pressed="true"] .ch { color: rgba(255,255,255,0.8); }
+    .phase-nav button[aria-pressed="true"] .n { background: rgba(255,255,255,0.25); }
+    .phase-nav button.p0[aria-pressed="true"] { background: var(--p0); } .phase-nav button.p1[aria-pressed="true"] { background: var(--p1); }
+    .phase-nav button.p2[aria-pressed="true"] { background: var(--p2); } .phase-nav button.p3[aria-pressed="true"] { background: var(--p3); }
+    .phase-nav button.p4[aria-pressed="true"] { background: var(--p4); } .phase-nav button.p5[aria-pressed="true"] { background: var(--p5); }
+    .hp-grid { display: grid; grid-template-columns: minmax(0, 4fr) minmax(0, 8fr); gap: 16px 20px; align-items: start; }
+    @media (max-width: 960px) { .hp-grid { grid-template-columns: 1fr; } }
+    .hp-grid > * { min-width: 0; }
+    .hp-ref .ref { margin: 0; }
+    .hp-ref .ref .head { justify-content: space-between; }
+    .hp-ref .tnote { margin-top: 8px; }
+    .hp-resps .compare { margin: 0; }
+    .hp-resps .compare.single { grid-template-columns: 1fr; }
+    .resp .rhead .scores { margin-left: auto; }
+    .resp .rhead .model { color: var(--muted); font-weight: 400; }
+    .panel-foot .stat b { font-weight: 700; }
+    .panel-foot .stat .sub { color: var(--muted); font-size: 12.5px; }
+
+    /* ── results table ── */
+    table.data th.on { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+    table.data .fam { font-weight: 600; color: var(--ink); vertical-align: top; }
+    table.data td.lift { font-weight: 700; }
+    #mainPanel .tablewrap { margin: 0; }
+    #mainPanel .panel-body { padding: 0; }
+    #mainPanel table.data { border: 0; border-radius: 0; }
+    #mainPanel .loading, #mainPanel .error { margin: 14px 16px; }
+
+    /* ── pipeline stage lists ── */
+    .stage-head { font-weight: 700; font-size: 14.5px; margin: 0 0 8px; padding-bottom: 6px; border-bottom: 3px solid var(--rule); }
+    .stage-head.arc { border-bottom-color: var(--arc); color: var(--arc-ink); }
+    .stage-head.base { border-bottom-color: var(--base); color: var(--base-ink); }
+    ol.stages { list-style: none; margin: 0 0 8px; padding: 0; display: grid; gap: 8px; counter-reset: st; }
+    ol.stages li { position: relative; padding: 9px 12px 9px 40px; border: 1px solid var(--rule); border-radius: var(--radius-sm); background: var(--surface); font-size: 14px; line-height: 1.5; counter-increment: st; }
+    ol.stages li::before { content: counter(st); position: absolute; left: 12px; top: 10px; width: 20px; height: 20px; border-radius: 50%; background: var(--ink); color: var(--bg); font-size: 12.5px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
+    ol.stages li > b:first-child { display: block; margin-bottom: 1px; }
+    ol.stages li .dim { color: var(--muted); font-size: 13px; }
+    .grid2.stages-grid { margin-top: 14px; }
+
+    /* ── figures & cards ── */
+    .evidence { margin-bottom: 16px; }
+    .evidence figure { margin: 0; }
+    .caption + .finding { margin-top: 18px; }
+    .evidence figure .frame { padding: 10px 12px; }
+    figure.wide .frame { padding: 10px; }
+    .cards.novels { margin: 12px 0 4px; }
+    .card .meta .num { font-variant-numeric: tabular-nums; }
+    ul.plain li b { font-weight: 600; }
+    .hf { font-style: normal; }
+
+    /* ── page-level overrides (site.css is shared and left untouched) ── */
+    /* row-header cells (th scope="row"/"rowgroup") read like body cells */
+    table.data tbody th { font-weight: inherit; font-size: inherit; color: inherit; background: transparent; text-align: left; }
+    table.data tbody th b { font-weight: 700; }
+    table.data tr.arc th { background: var(--arc-band); color: var(--arc-ink); font-weight: 600; }
+    table.data tr.sep th { border-top: 2px solid var(--rule); }
+    table.data tbody tr:last-child th { border-bottom: 0; }
+    table.data .rg { font-weight: 600; vertical-align: top; }
+    /* metrics table: stack each row as a definition card on phones */
+    @media (max-width: 600px) {
+      table.data.defs, table.data.defs tbody, table.data.defs tr, table.data.defs th, table.data.defs td { display: block; }
+      table.data.defs thead { display: none; }
+      table.data.defs tr { border-bottom: 1px solid var(--rule); padding: 6px 0; }
+      table.data.defs tbody tr:last-child { border-bottom: 0; }
+      table.data.defs th, table.data.defs td { text-align: left; white-space: normal; border: 0; padding: 3px 10px; }
+      table.data.defs td[data-lab]::before { content: attr(data-lab) ": "; font-weight: 600; color: var(--muted); font-size: 12.5px; }
+    }
+    /* the two lightest phase colours get ink text: white on --p0/--p1 is 2.6:1 / 3.8:1 */
+    .phase-pill.p0, .phase-pill.p1, .phase-nav button.p0[aria-pressed="true"], .phase-nav button.p1[aria-pressed="true"] { color: #14151A; }
+    .phase-nav button.p0 .n, .phase-nav button.p1 .n { color: #14151A; }
+    .phase-nav button.p0[aria-pressed="true"] .ch, .phase-nav button.p1[aria-pressed="true"] .ch { color: #14151A; }
+    .phase-pill.p0 .n, .phase-pill.p1 .n, .phase-nav button.p0[aria-pressed="true"] .n, .phase-nav button.p1[aria-pressed="true"] .n { background: rgba(255,255,255,0.4); }
+    /* accent button: darker amber in light mode (5.1:1 with white); ink on amber in dark mode (9.3:1) */
+    .btn.accent, .chips button.arc[aria-pressed="true"] { background: #9C6109; border-color: #9C6109; }
+    .callout a { color: var(--base-ink); }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) .btn.accent, :root:not([data-theme="light"]) .chips button.arc[aria-pressed="true"] { background: var(--arc); border-color: var(--arc); color: #14151A; }
+      :root:not([data-theme="light"]) .phase-pill.p2, :root:not([data-theme="light"]) .phase-nav button.p2[aria-pressed="true"], :root:not([data-theme="light"]) .phase-nav button.p2 .n, :root:not([data-theme="light"]) .phase-nav button.p2[aria-pressed="true"] .ch { color: #14151A; }
+      :root:not([data-theme="light"]) .phase-pill.p2 .n, :root:not([data-theme="light"]) .phase-nav button.p2[aria-pressed="true"] .n { background: rgba(255,255,255,0.4); }
+    }
+    :root[data-theme="dark"] .btn.accent, :root[data-theme="dark"] .chips button.arc[aria-pressed="true"] { background: var(--arc); border-color: var(--arc); color: #14151A; }
+    :root[data-theme="dark"] .phase-pill.p2, :root[data-theme="dark"] .phase-nav button.p2[aria-pressed="true"], :root[data-theme="dark"] .phase-nav button.p2 .n, :root[data-theme="dark"] .phase-nav button.p2[aria-pressed="true"] .ch { color: #14151A; }
+    :root[data-theme="dark"] .phase-pill.p2 .n, :root[data-theme="dark"] .phase-nav button.p2[aria-pressed="true"] .n { background: rgba(255,255,255,0.4); }
+    /* raster figures: link to the full-size file; let the wide pipeline figure pan on phones */
+    figure .frame > a { display: block; }
+    figure .panhint { display: none; }
+    @media (max-width: 600px) {
+      figure.wide .frame { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      figure.wide .frame img { min-width: 900px; }
+      figure .panhint { display: inline; }
+    }
+    /* novel cards: slice badge on its own line */
+    .card .tags { margin: 0 0 8px; }
+
+    /* TL;DR contribution cards */
+    .contribs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 14px 0 12px; }
+    @media (max-width: 720px) { .contribs { grid-template-columns: 1fr; } }
+    .contrib { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border: 1px solid var(--rule); border-top: 3px solid var(--arc); border-radius: var(--radius); background: var(--surface); color: var(--ink); min-width: 0; }
+    .contrib:nth-child(2) { border-top-color: var(--base); }
+    .contrib:nth-child(3) { border-top-color: var(--good); }
+    .contrib:nth-child(4) { border-top-color: var(--line-weak); }
+    .contrib:hover { text-decoration: none; background: var(--surface-2); border-color: var(--ink-2); }
+    .contrib:hover .head { text-decoration: underline; }
+    .contrib .kicker { margin: 0; }
+    .contrib .head { font-weight: 700; font-size: 16px; line-height: 1.35; }
+    .contrib .body { font-size: 14px; color: var(--ink-2); line-height: 1.55; }
+    .released { gap: 6px 14px; color: var(--muted); margin: 0 0 6px; }
+    .released a { color: var(--ink-2); border-bottom: 1px solid var(--rule); }
+    .released a:hover { color: var(--ink); text-decoration: none; border-bottom-color: var(--ink); }
+
+    /* venue line under the authors, as on the TimeChara page */
+    .venue-line { font-size: 19px; font-weight: 700; color: var(--ink); margin: -8px 0 22px; }
+    /* collapsed detail blocks */
+    details.more { border: 1px solid var(--rule); border-radius: var(--radius-sm); padding: 8px 14px; margin: 12px 0 16px; background: var(--surface); }
+    details.more summary { cursor: pointer; font-weight: 600; font-size: 14px; color: var(--ink-2); }
+    details.more summary:hover { color: var(--ink); }
+    details.more[open] summary { margin-bottom: 10px; }
+    details.more > :last-child { margin-bottom: 4px; }
+    figure + p { margin-top: 14px; }
+  </style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <div class="venue">EMNLP 2026<span class="conf"> <span class="sep">·</span> Main Conference</span></div>
+    <nav class="topnav" aria-label="Page">
+      <a href="#overview" class="optional">Overview</a>
+      <a href="#benchmark" class="optional">Benchmark</a>
+      <a href="#results">Results</a>
+      <a href="#analysis">Analysis</a>
+      <a href="#training">Training</a>
+      <a href="explore.html" class="accent keep">Explorer</a>
+      <a href="#bibtex" class="keep">BibTeX</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <h1><span class="name">ArcANE</span>: Do Role-Playing Language Agents Stay in Character at the Right Time?</h1>
+      <p class="authors">
+        <a href="https://github.com/opusdeisong">Woojung Song</a><sup>*</sup>,
+        Nalim Kim<sup>*</sup>,
+        Sangjun Song,
+        Chaewon Heo,
+        Jongwon Lim,
+        <a href="https://yohanjo.github.io/">Yohan Jo</a><sup>†</sup>
+      </p>
+      <p class="affils">Graduate School of Data Science, Seoul National University</p>
+      <p class="marks">* Equal contribution &nbsp;·&nbsp; † Corresponding author</p>
+      <p class="venue-line">Accepted to EMNLP 2026 (Main Conference)</p>
+      <div class="links">
+        <a class="btn" href="https://arxiv.org/pdf/2606.05553">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/><path d="M8 13h8M8 17h8"/></svg>
+          Paper
+        </a>
+        <a class="btn" href="https://arxiv.org/abs/2606.05553">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16M12 4v16"/></svg>
+          arXiv
+        </a>
+        <a class="btn" href="https://github.com/holi-lab/ArcANE">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 4l-5 8 5 8M16 4l5 8-5 8"/></svg>
+          Code
+        </a>
+        <a class="btn" href="https://huggingface.co/datasets/holi-lab/ArcANE-Data"><span class="hf" aria-hidden="true">🤗</span> Dataset</a>
+        <a class="btn" href="https://huggingface.co/collections/holi-lab/arcane"><span class="hf" aria-hidden="true">🤗</span> Models</a>
+        <a class="btn accent" href="explore.html">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5M4 19h16"/><path d="M7 15l4-5 3 3 5-7"/></svg>
+          Explore results
+        </a>
+        <a class="btn ghost" href="#bibtex">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4h10v16H7z"/><path d="M10 9h4M10 13h4"/></svg>
+          BibTeX
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="overview">
+    <div class="wrap">
+      <h2>TL;DR</h2>
+      <p>Characters change over a story, but existing role-play benchmarks treat them as fixed personas. <b>ArcANE</b> (Arc-Aware Narrative Evaluation) builds a <b>Character Arc</b> that tracks how a character's values and relationships shift across a novel, then asks whether a role-playing language agent (RPLA) answers the same scenario differently at each phase of that arc. Across six models and six ways of supplying narrative context, conditioning on the Arc is the best mode for every model, and training on ArcANE pushes a 32B model past DeepSeek-V4-Pro.</p>
+      <div class="contribs">
+        <a class="contrib" href="#benchmark">
+          <span class="kicker">Benchmark</span>
+          <span class="head">570 Character Arcs, 4,854 probes</span>
+          <span class="body">87 characters in 19 novels; probes in three scenario types and four judge metrics.</span>
+        </a>
+        <a class="contrib" href="#results">
+          <span class="kicker">Finding</span>
+          <span class="head">Arc context wins on every model</span>
+          <span class="body">+2.2 to +8.4 Overall over the best non-Arc context, largest beyond the source text.</span>
+        </a>
+        <a class="contrib" href="#training">
+          <span class="kicker">Models</span>
+          <span class="head">ArcANE-8B and ArcANE-32B</span>
+          <span class="body">SFT → DPO → RLVR lifts Qwen3-32B to 68.2 Overall, above DeepSeek-V4-Pro (62.3).</span>
+        </a>
+        <a class="contrib" href="#judge">
+          <span class="kicker">Validation</span>
+          <span class="head">Open data, validated judge</span>
+          <span class="body">Annotators rate 87.1% of judge verdicts plausible; four judges agree on the top system.</span>
+        </a>
+      </div>
+      <details class="more">
+        <summary>Full abstract</summary>
+        <p>Role-playing language agents (RPLAs) simulate specific characters and personas across applications such as entertainment, companionship, interactive storytelling, and education. Faithful role-play requires more than producing plausible, in-character responses: as a character's values and behavior change over a narrative, an RPLA should reflect the character's state at the relevant stage. However, existing benchmarks largely treat characters as fixed personas or test only what they know at a given point in the narrative.</p>
+        <p>We introduce <b>ArcANE</b> (Arc-Aware Narrative Evaluation), a benchmark for evaluating whether an RPLA follows a character's development across a narrative. ArcANE first builds an Arc that maps how a character's values, motivations, or relationships change over the story. The benchmark then scores how well an RPLA's responses fit the corresponding stages of the Arc, covering three distinct scenario types: scenes from the novel, new situations within its world, and situations outside that world. We evaluate six models under six ways of providing narrative context. In every model, using the Arc up to the queried chapter yields the best performance, outperforming the strongest non-Arc context by 2.2–8.4 points. These results suggest that faithful role-play requires evolving character states and tracking their trajectory, rather than merely retrieving relevant episodic evidence.</p>
+      </details>
+    </div>
+  </section>
+
+  <section class="thesis">
+    <div class="wrap">
+      <div class="panel" id="heroPanel">
+        <div class="panel-head">
+          <h2 class="panel-title">Same scenario, four phases: does the answer move with the character?</h2>
+          <div class="controls">
+            <div class="seg" role="group" aria-label="Context mode" id="heroModeSeg">
+              <button type="button" data-mode="both" aria-pressed="true">Arc vs Vanilla</button>
+              <button type="button" data-mode="arc" aria-pressed="false">Arc</button>
+              <button type="button" data-mode="vanilla" aria-pressed="false">Vanilla</button>
+            </div>
+            <div class="chips" id="heroModelChips" role="group" aria-label="Model"></div>
+          </div>
+        </div>
+        <div class="panel-body" id="heroBody"><div class="loading">Loading the probe and the archived responses…</div></div>
+        <div class="panel-foot" id="heroFoot"><span class="muted">PTF appears here once the probe is loaded.</span></div>
+      </div>
+      <p class="caption">One Out-of-World probe from <i>Anna Karenina</i> (Anna's arc toward Karenin), asked at each of its four phases. Left: the phase-specific reference. Right: the same model's response under <b>Arc</b> context and under <b>Vanilla</b> context, with per-phase judge scores; PTF at the foot grades all four responses as one sequence. <a href="explore.html#/n/anna-karenina/c/anna_karenina/p/anna_karenina_final_rel_02_outworld_a0">Open this probe in the Explorer</a> to compare every model and mode.</p>
+    </div>
+  </section>
+
+  <section class="block" id="benchmark">
+    <div class="wrap">
+      <h2>What ArcANE measures</h2>
+      <p>Prior benchmarks check whether a response is <i>in character</i>. ArcANE checks whether it is in character <i>at that point in the story</i>: the same scenario is asked at every phase of a Character Arc, and the model must answer from the right phase.</p>
+      <figure>
+        <div class="frame">
+          <a href="static/images/main_figure.png" target="_blank" rel="noopener" title="Open the full-size figure">
+          <picture>
+            <source srcset="static/images/main_figure.webp" type="image/webp">
+            <img src="static/images/main_figure.png" width="1600" height="1563" alt="Figure 1. An Out-of-World probe asks Harry Potter whether he would help a former bully who contacts him ten years later. At Book 1, Chapter 10 (phase Punitive Justice) the answer is no; at Book 5, Chapter 130 (phase Empathic Forgiveness) the answer is yes. Below, the Harry Potter arc runs from Punitive Justice to Empathic Forgiveness, with Sirius's death and Snape's memories as the turning event." loading="lazy">
+          </picture>
+          </a>
+        </div>
+        <figcaption><b>Figure 1.</b> An Out-of-World probe elicits different answers from Harry across his Character Arc, from <i>Punitive Justice</i> in Book 1 to <i>Empathic Forgiveness</i> in Book 5.</figcaption>
+      </figure>
+
+      <h3>Character Arcs and probes</h3>
+      <p>A <b>Character Arc</b> segments a character's trajectory along one psychological axis (intrapersonal or relational) into <b>phases</b>, each with a chapter range, a state description, and anchoring events. A <b>probe</b> pairs one (scenario, question) with one reference response per phase, each carrying an action, a short thought, and a knowledge cutoff. Scenarios come in three types at increasing distance from the source text.</p>
+      <div class="tablewrap">
+        <table class="data defs">
+          <thead><tr><th scope="col" class="l">Probe type</th><th scope="col" class="l">Scenario</th><th scope="col" class="l">Can be answered from</th></tr></thead>
+          <tbody>
+            <tr><th scope="row" class="l"><span class="badge type-in_text">In-Scenario</span></th><td class="l wrap" data-lab="Scenario">A scene lifted from a passage of the novel.</td><td class="l wrap" data-lab="Can be answered from">The source passage</td></tr>
+            <tr><th scope="row" class="l"><span class="badge type-in_world">In-World</span></th><td class="l wrap" data-lab="Scenario">An unwritten situation inside the novel's setting.</td><td class="l wrap" data-lab="Can be answered from">The source's setting</td></tr>
+            <tr><th scope="row" class="l"><span class="badge type-out_of_world">Out-of-World</span></th><td class="l wrap" data-lab="Scenario">The scenario transposed to another era, such as a modern city or a pre-modern court.</td><td class="l wrap" data-lab="Can be answered from">The arc itself</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Construction pipeline</h3>
+      <figure class="wide">
+        <div class="frame">
+          <a href="static/images/pipeline.png" target="_blank" rel="noopener" title="Open the full-size figure">
+          <picture>
+            <source srcset="static/images/pipeline.webp" type="image/webp">
+            <img src="static/images/pipeline.png" width="2400" height="966" alt="Figure 2. Top, Character Arc construction: candidate axis production from an event stream and a state stream; cross-stream reconciliation into merged axes; external validation by an LLM-critic ensemble (training arcs) and human annotators (evaluation arcs). Bottom, probe generation: per-arc scaffolding (behavioral contrast, life-stage tags, era-agnostic axis); probe drafting of In-Scenario, In-World and Out-of-World probes with one reference per phase; validation with Q-Voice, Q-PhaseFit, Q-Anchor/Q-World and Q-Discrim, dropping failed probes." loading="lazy">
+          </picture>
+          </a>
+        </div>
+        <figcaption><b>Figure 2.</b> Constructing Character Arcs (top) and probes (bottom). <span class="panhint">Pan sideways, or tap the figure to open it full size.</span></figcaption>
+      </figure>
+      <p>Two chapter-level LLM streams (events and psychological states) propose candidate axes, which are reconciled, screened by an LLM-critic ensemble, and, for evaluation novels, validated by three human annotators (205 of 223 axes pass). A designer LLM then drafts one probe per (target phase, category) with phase-specific references, and each probe passes two validation rounds before entering the benchmark.</p>
+      <details class="more">
+        <summary>Pipeline stages in detail</summary>
+        <div class="grid2 stages-grid">
+          <div>
+            <p class="stage-head arc">Character Arc construction</p>
+            <ol class="stages">
+              <li><b>Candidate generation.</b> Each stream induces intrapersonal axes (beliefs, motives, coping) and relational axes (trust, esteem, intimacy, antagonism), grounded in literary or psychological scholarship.</li>
+              <li><b>Reconciliation.</b> Axes proposed by both streams are merged with a direction label; unmatched candidates are kept, flagged, or discarded.</li>
+              <li><b>Validation.</b> Training arcs are kept if two of three LLM critics judge them grounded. Evaluation arcs are re-assessed by three human annotators and kept only with a majority vote.</li>
+            </ol>
+          </div>
+          <div>
+            <p class="stage-head base">Probe generation</p>
+            <ol class="stages">
+              <li><b>Per-arc preparation.</b> A <i>behavioral contrast</i> (one yes/no decision whose answer differs across phases), per-phase <i>life-stage tags</i>, and, for Out-of-World, an <i>era-agnostic axis</i>.</li>
+              <li><b>Probe drafting.</b> One probe per (target phase, category), with <i>N</i> references: one for the target phase and <i>N</i>−1 projecting the other phases onto the same scenario.</li>
+              <li><b>Validation.</b> Q-Voice (in character, no anachronism, cutoff respected) and Q-PhaseFit (a blind judge recovers the phase) gate each reference; Q-Anchor / Q-World gate the scenario; Q-Discrim annotates weakly separated phase pairs.</li>
+            </ol>
+          </div>
+        </div>
+      </details>
+
+      <h3>Dataset</h3>
+      <div class="tablewrap narrow"><table class="data"><thead><tr><th scope="col" class="l">Split</th><th scope="col">Novels</th><th scope="col">Characters</th><th scope="col">Arcs</th><th scope="col">Probes</th></tr></thead><tbody><tr><th scope="row" class="l">Train (SFT and DPO)</th><td class="num">12</td><td class="num">55</td><td class="num">339</td><td class="num">2,847</td></tr><tr><th scope="row" class="l">Test (validated)</th><td class="num">5</td><td class="num">25</td><td class="num">205</td><td class="num">1,754</td></tr><tr><th scope="row" class="l">Test (unvalidated, low-popularity)</th><td class="num">2</td><td class="num">7</td><td class="num">26</td><td class="num">253</td></tr><tr class="sep"><th scope="row" class="l"><b>Total</b></th><td class="num"><b>19</b></td><td class="num"><b>87</b></td><td class="num"><b>570</b></td><td class="num"><b>4,854</b></td></tr></tbody></table></div>
+      <p class="tnote">Validated novels: <i>Harry Potter</i>, <i>Anna Karenina</i>, <i>Don Quixote</i>, <i>The Count of Monte Cristo</i>, <i>The Autobiography of Benjamin Franklin</i>. <i>Harry Potter</i> is not on Project Gutenberg, so its artifacts are omitted from the public release.</p>
+      <details class="more">
+        <summary>More dataset statistics</summary>
+        <ul class="plain small">
+          <li>Validated slice: 205 of 223 candidate axes retained (147 unanimously, 58 over one dissent); 199 are probe-bearing.</li>
+          <li>Arcs carry 2 to 6 phases (mean 3.51): 93 intrapersonal and 112 relational axes.</li>
+          <li>Of 6,567 phase slots, 637 (9.7%) are marked <code>unavailable</code> and excluded. Final Q-PhaseFit verdicts on available references: 91.7% <code>pass</code>, 8.3% <code>adjacent</code>.</li>
+        </ul>
+      </details>
+
+      <h3 id="metrics">Evaluation protocol</h3>
+      <p>An LLM judge (DeepSeek-V4-Flash) scores each response against the phase reference on a 1–100 scale. Novels are averaged with equal weight, and <b>Overall</b> is the mean over the twelve probe-type × metric cells.</p>
+      <div class="tablewrap">
+        <table class="data defs">
+          <thead><tr><th scope="col" class="l">Metric</th><th scope="col" class="l">Level</th><th scope="col" class="l">What it grades</th></tr></thead>
+          <tbody>
+            <tr><th scope="row" class="l"><b>APF</b><br><span class="muted small">Action Phase-Fidelity</span></th><td class="l" data-lab="Level">per phase</td><td class="l wrap" data-lab="What it grades">The response's action against the reference action (strategy, valence, target).</td></tr>
+            <tr><th scope="row" class="l"><b>RPF</b><br><span class="muted small">Reasoning Phase-Fidelity</span></th><td class="l" data-lab="Level">per phase</td><td class="l wrap" data-lab="What it grades">The response's reasoning against the reference thought (trigger, appraisal, goal, strategy).</td></tr>
+            <tr><th scope="row" class="l"><b>RAE</b><br><span class="muted small">Reasoning–Action Entailment</span></th><td class="l" data-lab="Level">per phase</td><td class="l wrap" data-lab="What it grades">Whether the reference thought would license the response's action.</td></tr>
+            <tr><th scope="row" class="l"><b>PTF</b><br><span class="muted small">Phase Trajectory Fidelity</span></th><td class="l" data-lab="Level">per trajectory</td><td class="l wrap" data-lab="What it grades">All <i>N</i> phase responses as one sequence: alignment, direction, and shape against the reference trajectory.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Context modes</h3>
+      <p>All six modes share the same prompt and differ only in the context block, truncated at the query chapter.</p>
+      <div class="tablewrap">
+        <table class="data">
+          <thead><tr><th scope="col" class="l">Mode</th><th scope="col" class="l">Context supplied</th></tr></thead>
+          <tbody>
+            <tr><th scope="row" class="l">Vanilla</th><td class="l wrap">Character identity and query chapter only.</td></tr>
+            <tr><th scope="row" class="l">Summary</th><td class="l wrap">The most recent five chapter summaries.</td></tr>
+            <tr><th scope="row" class="l">RAG</th><td class="l wrap">Top-6 retrieved source-text chunks.</td></tr>
+            <tr><th scope="row" class="l">LifeChoice</th><td class="l wrap">CHARMAP-style character description plus retrieved memory.</td></tr>
+            <tr><th scope="row" class="l">TimeChara</th><td class="l wrap">Narrative-experts pipeline: predicted chapter and presence as inline hints.</td></tr>
+            <tr class="arc"><th scope="row" class="l">Arc (ours)</th><td class="l wrap">The automatically constructed Character Arc, truncated at the query phase. References are never shown.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="results">
+    <div class="wrap">
+      <h2>Results</h2>
+      <p class="finding">Arc context gives the best Overall score on every one of the six models.</p>
+      <p>Six models × six context modes on the validated slice (5 novels, 25 characters, 205 arcs, 1,754 probes). Switch the view by probe type, then pick the metric for the Arc lift.</p>
+      <div class="panel" id="mainPanel">
+        <div class="panel-head">
+          <h3 class="panel-title" style="margin:0">Main results, validated slice</h3>
+          <div class="controls">
+            <div class="seg" role="group" aria-label="View" id="mainViewSeg">
+              <button type="button" data-view="overall" aria-pressed="true">Overall</button>
+              <button type="button" data-view="in_text" aria-pressed="false">In-Scenario</button>
+              <button type="button" data-view="in_world" aria-pressed="false">In-World</button>
+              <button type="button" data-view="out_of_world" aria-pressed="false">Out-of-World</button>
+            </div>
+            <div class="seg" role="group" aria-label="Lift metric" id="mainMetricSeg" hidden>
+              <button type="button" data-metric="apf" aria-pressed="false">APF</button>
+              <button type="button" data-metric="rpf" aria-pressed="false">RPF</button>
+              <button type="button" data-metric="rae" aria-pressed="false">RAE</button>
+              <button type="button" data-metric="ptf" aria-pressed="false">PTF</button>
+              <button type="button" data-metric="all" aria-pressed="true">Mean</button>
+            </div>
+          </div>
+        </div>
+        <div class="panel-body" id="mainBody"><div class="loading">Loading the results table…</div></div>
+        <div class="panel-foot" id="mainFoot"></div>
+      </div>
+      <p class="caption">Table 2 of the paper. Arc rows are shaded, the best mode per column is bold, and <b>Arc lift</b> is Arc minus the strongest non-Arc mode on the underlined column.</p>
+
+      <ul class="plain">
+        <li><b>Arc leads everywhere.</b> +2.2 to +8.4 Overall over each model's best non-Arc mode; top mode on 29 of 30 (model, novel) cells, all 30 bootstrap intervals exclude zero.</li>
+        <li><b>The lift grows with distance from the text.</b> For DeepSeek-V4-Pro: +0.5 In-Scenario, +5.2 In-World, +7.7 Out-of-World. Retrieval already covers In-Scenario; only Arc supplies the phase elsewhere.</li>
+        <li><b>The lift is largest on the trajectory metric.</b> Per-phase metrics can be gamed phase by phase; PTF rewards only sequences that move along the arc, and its Arc gap is at least as large in every category.</li>
+      </ul>
+
+      <h3>Low-popularity novels</h3>
+      <p>On two low-popularity titles outside the training pool (<i>He Knew He Was Right</i>, <i>The Odd Women</i>), Arc is again the top mode for all six models, by +3.8 to +12.5.</p>
+      <div class="tablewrap"><table class="data"><thead><tr><th scope="col" class="l" rowspan="2" style="vertical-align:bottom">Model</th><th scope="colgroup" colspan="7" class="c">Overall by context mode</th><th scope="colgroup" colspan="3" class="c">Arc lift by probe type</th></tr><tr><th scope="col">Vanilla</th><th scope="col">Summary</th><th scope="col">RAG</th><th scope="col">LifeChoice</th><th scope="col">TimeChara</th><th scope="col">Arc</th><th scope="col">Gap</th><th scope="col">In-Scenario</th><th scope="col">In-World</th><th scope="col">Out-of-World</th></tr></thead><tbody><tr><th scope="row" class="l">DeepSeek-V4-Flash</th><td class="num">51.59</td><td class="num">52.91</td><td class="num">52.50</td><td class="num">53.70</td><td class="num">51.86</td><td class="num"><b>60.32</b></td><td class="num pos">+6.62</td><td class="num pos">+2.58</td><td class="num pos">+8.64</td><td class="num pos">+6.41</td></tr><tr><th scope="row" class="l">DeepSeek-V4-Pro</th><td class="num">49.61</td><td class="num">53.15</td><td class="num">51.14</td><td class="num">53.27</td><td class="num">50.26</td><td class="num"><b>60.56</b></td><td class="num pos">+7.29</td><td class="num pos">+3.61</td><td class="num pos">+8.78</td><td class="num pos">+7.44</td></tr><tr><th scope="row" class="l">Qwen3-8B</th><td class="num">35.02</td><td class="num">39.30</td><td class="num">38.78</td><td class="num">39.68</td><td class="num">35.75</td><td class="num"><b>43.49</b></td><td class="num pos">+3.81</td><td class="num pos">+1.40</td><td class="num pos">+3.77</td><td class="num pos">+4.88</td></tr><tr><th scope="row" class="l">Qwen3-32B</th><td class="num">39.47</td><td class="num">47.14</td><td class="num">46.14</td><td class="num">47.62</td><td class="num">40.30</td><td class="num"><b>51.50</b></td><td class="num pos">+3.87</td><td class="num neg">−1.15</td><td class="num pos">+4.62</td><td class="num pos">+7.09</td></tr><tr><th scope="row" class="l">ArcANE-8B-DPO</th><td class="num">40.82</td><td class="num">45.48</td><td class="num">46.69</td><td class="num">46.62</td><td class="num">40.05</td><td class="num"><b>59.23</b></td><td class="num pos">+12.54</td><td class="num pos">+1.66</td><td class="num pos">+15.52</td><td class="num pos">+16.54</td></tr><tr><th scope="row" class="l">ArcANE-32B-DPO</th><td class="num">46.69</td><td class="num">49.43</td><td class="num">48.42</td><td class="num">52.88</td><td class="num">46.17</td><td class="num"><b>65.21</b></td><td class="num pos">+12.33</td><td class="num neg">−1.04</td><td class="num pos">+16.30</td><td class="num pos">+19.56</td></tr></tbody></table></div>
+      <p class="tnote">Gap and lift are Arc minus the strongest non-Arc mode, reselected per cell. Probes pass the same validators as the main slice but are not annotator-audited.</p>
+
+      <h3>Other role-playing models</h3>
+      <div class="evidence">
+        <figure>
+          <div class="frame"><img src="static/images/added_models.svg" width="965" height="649" alt="Grouped bars of the Arc lift over the best non-Arc mode, in points, for HER-32B, CoSER-8B, CoSER-70B, ArcANE-SFT-8B, ArcANE-DPO-8B, ArcANE-SFT-32B and ArcANE-DPO-32B, split by probe type. In-World and Out-of-World bars are positive for every model and largest for the DPO models (about +12 to +13); In-Scenario bars are negative for HER, CoSER, DPO-8B and both 32B ArcANE models; only SFT-8B is slightly positive, and the CoSER-70B In-Scenario bar runs past the bottom of the axis." loading="lazy"></div>
+          <figcaption><b>Per-category Arc lift</b> for added RPLA baselines and the ArcANE models. The CoSER-70B In-Scenario bar (−9.3) extends below the axis floor.</figcaption>
+        </figure>
+        <div>
+          <p class="finding">The pattern holds for HER-32B and CoSER-8B/70B: every model gains on In-World and Out-of-World, and In-Scenario stays mixed.</p>
+          <p>Inside ArcANE, SFT raises Arc Overall from 50.1 to 58.4 at 32B, while DPO is what widens the In-World and Out-of-World lift (from +7.3 to +12.5).</p>
+        </div>
+      </div>
+
+      <details class="more">
+        <summary>Paired confidence intervals (all 30 Arc-versus-baseline contrasts exclude zero)</summary>
+        <p class="small">Arc-clustered bootstrap over the 199 contributing (novel, character, axis) clusters, 10,000 replicates. All 30 intervals exclude zero, and all 30 leave-one-novel-out differences stay positive.</p>
+        <div class="tablewrap"><table class="data"><thead><tr><th scope="col" class="l">Model</th><th scope="col">vs. Vanilla</th><th scope="col">vs. Summary</th><th scope="col">vs. RAG</th><th scope="col">vs. LifeChoice</th><th scope="col">vs. TimeChara</th><th scope="col">Min. LOO</th></tr></thead><tbody><tr><th scope="row" class="l">DeepSeek-V4-Flash</th><td class="num"><b>+6.87</b> <span class="muted">[6.06, 7.70]</span></td><td class="num"><b>+3.95</b> <span class="muted">[2.97, 4.92]</span></td><td class="num"><b>+4.85</b> <span class="muted">[4.04, 5.60]</span></td><td class="num"><b>+3.60</b> <span class="muted">[2.79, 4.38]</span></td><td class="num"><b>+6.61</b> <span class="muted">[5.80, 7.40]</span></td><td class="num">+3.41</td></tr><tr><th scope="row" class="l">DeepSeek-V4-Pro</th><td class="num"><b>+10.02</b> <span class="muted">[9.20, 10.84]</span></td><td class="num"><b>+5.20</b> <span class="muted">[4.34, 6.07]</span></td><td class="num"><b>+5.69</b> <span class="muted">[4.77, 6.61]</span></td><td class="num"><b>+4.66</b> <span class="muted">[3.80, 5.51]</span></td><td class="num"><b>+10.25</b> <span class="muted">[9.45, 11.06]</span></td><td class="num">+4.34</td></tr><tr><th scope="row" class="l">Qwen3-8B</th><td class="num"><b>+5.90</b> <span class="muted">[5.01, 6.77]</span></td><td class="num"><b>+4.41</b> <span class="muted">[3.58, 5.26]</span></td><td class="num"><b>+2.18</b> <span class="muted">[1.36, 3.04]</span></td><td class="num"><b>+3.24</b> <span class="muted">[2.44, 4.10]</span></td><td class="num"><b>+5.65</b> <span class="muted">[4.85, 6.50]</span></td><td class="num">+1.79</td></tr><tr><th scope="row" class="l">Qwen3-32B</th><td class="num"><b>+6.43</b> <span class="muted">[5.68, 7.19]</span></td><td class="num"><b>+4.54</b> <span class="muted">[3.76, 5.37]</span></td><td class="num"><b>+2.89</b> <span class="muted">[2.01, 3.78]</span></td><td class="num"><b>+2.71</b> <span class="muted">[1.93, 3.50]</span></td><td class="num"><b>+5.69</b> <span class="muted">[4.90, 6.48]</span></td><td class="num">+2.33</td></tr><tr><th scope="row" class="l">ArcANE-8B-DPO</th><td class="num"><b>+13.91</b> <span class="muted">[12.64, 15.16]</span></td><td class="num"><b>+9.69</b> <span class="muted">[8.40, 11.07]</span></td><td class="num"><b>+8.41</b> <span class="muted">[7.15, 9.71]</span></td><td class="num"><b>+9.26</b> <span class="muted">[8.13, 10.46]</span></td><td class="num"><b>+13.21</b> <span class="muted">[12.07, 14.36]</span></td><td class="num">+7.96</td></tr><tr><th scope="row" class="l">ArcANE-32B-DPO</th><td class="num"><b>+10.52</b> <span class="muted">[9.05, 12.01]</span></td><td class="num"><b>+11.10</b> <span class="muted">[9.65, 12.60]</span></td><td class="num"><b>+8.41</b> <span class="muted">[6.93, 9.89]</span></td><td class="num"><b>+8.35</b> <span class="muted">[6.91, 9.86]</span></td><td class="num"><b>+10.44</b> <span class="muted">[8.96, 11.95]</span></td><td class="num">+7.30</td></tr></tbody></table></div>
+        <p class="tnote">Paired Arc-versus-baseline differences in Overall with 95% bootstrap intervals. Min. LOO: smallest difference against the reselected strongest baseline after omitting each novel in turn.</p>
+      </details>
+
+      <div class="callout">Every judged response, broken down by novel, character, arc, and probe, is in the <a href="explore.html"><b>Explorer</b></a> (4 of 5 validated novels; <i>Harry Potter</i> is not distributed, so its numbers differ slightly from the table above).</div>
+      <nav class="cards novels" id="novelCards" aria-label="Novels in the released data"></nav>
+    </div>
+  </section>
+
+  <section class="block" id="analysis">
+    <div class="wrap">
+      <h2>Analysis</h2>
+
+      <h3>What in the Arc matters?</h3>
+      <div class="evidence">
+        <div>
+          <p class="finding">Format alone is not enough: another character's arc in the same schema loses the gain, and the trained model needs the full phase descriptions.</p>
+          <p><b>MixedArc</b> swaps in another character's arc from the same novel and fails to beat Vanilla on Qwen3-32B and ArcANE-32B-DPO. <b>ArcHint</b> keeps only axis names and the current phase label (about 40× shorter): within ±2.6 of the full Arc for untrained models, but only half the gain for ArcANE-32B-DPO.</p>
+        </div>
+        <figure>
+          <div class="frame"><img src="static/images/leakage_bars.svg" width="1878" height="712" alt="Two bar charts, per-phase average (left) and PTF (right), for DeepSeek-V4-Flash, Qwen3-32B and ArcANE-32B-DPO under Vanilla, MixedArc, ArcHint and Arc. MixedArc is at or below Vanilla for Qwen3-32B and ArcANE-32B-DPO. ArcHint nearly matches Arc for the two untrained models but sits well below Arc for ArcANE-32B-DPO." loading="lazy"></div>
+          <figcaption><b>Arc ablation</b> on about 120 validated probes per model. Left: mean of APF, RPF, RAE; right: PTF.</figcaption>
+        </figure>
+      </div>
+
+      <h3>Memorization and character class</h3>
+      <div class="evidence">
+        <div>
+          <p class="finding">The Arc lift is smallest on the most popular title and larger on supporting characters than on central ones, the opposite of what memorization would predict.</p>
+          <p>The Arc gap is smallest on <i>Harry Potter</i> (+3.0) and largest on <i>Anna Karenina</i> (+5.6) and <i>Don Quixote</i> (+5.1). Supporting characters gain +0.3 to +2.2 more than central characters on every model.</p>
+        </div>
+        <figure>
+          <div class="frame"><img src="static/images/per_character_lift.svg" width="922" height="649" alt="Paired bars of the Arc-over-Vanilla Overall lift for central and supporting characters across six models. The supporting bar is higher than the central bar for every model; ArcANE-8B-DPO has the tallest bars, about 13 and 15 points." loading="lazy"></div>
+          <figcaption><b>Arc-over-Vanilla Overall lift,</b> central (N = 6) vs. supporting (N = 19) characters.</figcaption>
+        </figure>
+      </div>
+
+      <h3 id="judge">Is the judge trustworthy?</h3>
+      <p class="finding">Annotators rate 87.1% of judge verdicts plausible, human re-scores track the judge at r = 0.96, three cross-judges agree on the ranking, and PTF drops sharply when responses are shuffled or reversed.</p>
+      <details class="more">
+        <summary>Judge validation tables</summary>
+        <p class="aside-lab">Judge vs. human re-score (n = 50 cells, human average over 3)</p>
+        <div class="tablewrap narrow"><table class="data"><thead><tr><th scope="col" class="l">Dimension</th><th scope="col">Pearson</th><th scope="col">Spearman</th><th scope="col">α (interval)</th><th scope="col">MAD</th><th scope="col">Δ judge − human</th></tr></thead><tbody><tr><th scope="row" class="l">APF</th><td class="num">0.920</td><td class="num">0.915</td><td class="num">0.877</td><td class="num">7.1</td><td class="num">+6.1</td></tr><tr><th scope="row" class="l">RPF</th><td class="num">0.961</td><td class="num">0.957</td><td class="num">0.944</td><td class="num">4.6</td><td class="num">+3.0</td></tr><tr><th scope="row" class="l">RAE</th><td class="num">0.967</td><td class="num">0.962</td><td class="num">0.965</td><td class="num">4.2</td><td class="num">+0.2</td></tr><tr class="sep"><th scope="row" class="l"><b>Overall</b></th><td class="num"><b>0.962</b></td><td class="num"><b>0.958</b></td><td class="num"><b>0.947</b></td><td class="num"><b>4.7</b></td><td class="num"><b>+3.1</b></td></tr></tbody></table></div>
+        <p class="tnote" style="margin-bottom:16px">The re-score is anchored to the judge verdict, so this measures how much humans adjust the judge, not a blind human baseline.</p>
+        <p class="aside-lab">System ranking by each judge (300-cell sample; mean per-cell Overall in parentheses)</p>
+        <div class="tablewrap"><table class="data"><thead><tr><th scope="col">Rank</th><th scope="col" class="l">DeepSeek-V4-Flash</th><th scope="col" class="l">Claude Opus 4.5</th><th scope="col" class="l">GPT-5.5</th><th scope="col" class="l">Claude Sonnet 4.5</th></tr></thead><tbody><tr><td class="num">1</td><td class="l"><b>ArcANE-32B-DPO/Arc (66.0)</b></td><td class="l"><b>ArcANE-32B-DPO/Arc (62.2)</b></td><td class="l"><b>ArcANE-32B-DPO/Arc (69.9)</b></td><td class="l"><b>ArcANE-32B-DPO/Arc (57.5)</b></td></tr><tr><td class="num">2</td><td class="l">DeepSeek-V4-Flash/Arc (58.3)</td><td class="l">DeepSeek-V4-Flash/Arc (51.9)</td><td class="l">Qwen3-32B/Arc (55.3)</td><td class="l">Qwen3-32B/Arc (39.5)</td></tr><tr><td class="num">3</td><td class="l">Qwen3-32B/Arc (53.7)</td><td class="l">Qwen3-32B/Arc (48.7)</td><td class="l">DeepSeek-V4-Flash/Arc (54.2)</td><td class="l">DeepSeek-V4-Flash/Arc (39.0)</td></tr><tr><td class="num">4</td><td class="l">Qwen3-32B/Vanilla (44.5)</td><td class="l">Qwen3-32B/Vanilla (41.9)</td><td class="l">Qwen3-32B/Vanilla (47.1)</td><td class="l">Qwen3-32B/Vanilla (31.8)</td></tr></tbody></table></div>
+        <p class="aside-lab" style="margin-top:16px">PTF under perturbation (N = 75 probes per model under Arc context; paired deltas vs. the original order)</p>
+        <div class="tablewrap narrow"><table class="data"><thead><tr><th scope="col" class="l" rowspan="2" style="vertical-align:bottom">Condition</th><th scope="colgroup" colspan="3" class="c">ArcANE-32B-DPO</th><th scope="colgroup" colspan="3" class="c">DeepSeek-V4-Pro</th></tr><tr><th scope="col">Align</th><th scope="col">Dir</th><th scope="col">Avg</th><th scope="col">Align</th><th scope="col">Dir</th><th scope="col">Avg</th></tr></thead><tbody><tr><th scope="row" class="l">Original order</th><td class="num">56.0</td><td class="num">54.8</td><td class="num">53.5</td><td class="num">57.9</td><td class="num">55.3</td><td class="num">54.5</td></tr><tr><th scope="row" class="l">Responses shuffled</th><td class="num">47.7</td><td class="num">45.3</td><td class="num">44.7</td><td class="num">56.2</td><td class="num">54.4</td><td class="num">53.2</td></tr><tr><th scope="row" class="l">Responses reversed</th><td class="num">34.1</td><td class="num">30.0</td><td class="num">30.5</td><td class="num">52.2</td><td class="num">48.3</td><td class="num">48.2</td></tr><tr><th scope="row" class="l">Blocks shuffled (diagnostic only)</th><td class="num">43.3</td><td class="num">42.7</td><td class="num">41.0</td><td class="num">53.7</td><td class="num">50.2</td><td class="num">49.8</td></tr><tr class="sep"><th scope="row" class="l">Δ shuffle</th><td class="num neg">−8.3</td><td class="num neg">−9.4</td><td class="num neg">−8.8</td><td class="num neg">−1.7</td><td class="num neg">−0.9</td><td class="num neg">−1.3</td></tr><tr><th scope="row" class="l">Δ reverse</th><td class="num neg">−21.9</td><td class="num neg">−24.7</td><td class="num neg">−23.0</td><td class="num neg">−5.7</td><td class="num neg">−7.0</td><td class="num neg">−6.3</td></tr><tr><th scope="row" class="l">Δ block-shuffle</th><td class="num neg">−12.8</td><td class="num neg">−12.1</td><td class="num neg">−12.5</td><td class="num neg">−4.2</td><td class="num neg">−5.1</td><td class="num neg">−4.7</td></tr></tbody></table></div>
+        <p class="tnote">Avg is PTF, the mean of alignment, direction, and the shape sub-score (not shown). Block-shuffle is a diagnostic only.</p>
+      </details>
+
+      <h3>Why does training help?</h3>
+      <p class="finding">Not a register artifact: forcing Qwen3-32B into ArcANE's first-person style <em>lowers</em> its score (53.8 → 50.0), while ArcANE-32B-DPO holds at 56.7. DPO's adjacent-phase contrast is what sharpens phase separation.</p>
+      <details class="more">
+        <summary>Training-effect tables</summary>
+        <div class="evidence">
+          <div>
+            <p class="aside-lab">Pair-trace counts (per-probe Overall under Arc, 1,750 validated probes)</p>
+            <div class="tablewrap"><table class="data"><thead><tr><th scope="col" class="l">Comparison</th><th scope="col">Wins</th><th scope="col">Losses</th><th scope="col">Mean Δ</th></tr></thead><tbody><tr><th scope="row" class="l">ArcANE-32B-DPO vs. Qwen3-32B</th><td class="num">1,198</td><td class="num">468</td><td class="num pos">+9.49</td></tr><tr><th scope="row" class="l">ArcANE-32B-DPO vs. ArcANE-32B-SFT</th><td class="num">940</td><td class="num">702</td><td class="num pos">+1.89</td></tr></tbody></table></div>
+            <p class="tnote" style="margin-bottom:14px">Wins and losses are probes with |Δ| &gt; 1 on the 0–100 scale; the remainder are ties.</p>
+            <p class="aside-lab">POV control (150 stratified probes, per-probe Overall)</p>
+            <div class="tablewrap"><table class="data"><thead><tr><th scope="col" class="l">System</th><th scope="col">Overall</th></tr></thead><tbody><tr><th scope="row" class="l">Qwen3-32B</th><td class="num">53.8</td></tr><tr><th scope="row" class="l">Qwen3-32B + first-person instruction (POV-Qwen)</th><td class="num">50.0</td></tr><tr><th scope="row" class="l">ArcANE-32B-DPO</th><td class="num"><b>56.7</b></td></tr></tbody></table></div>
+          </div>
+          <div>
+            <p class="aside-lab">Proposition coding, Overall yes-rates (n = 150 probes)</p>
+            <div class="tablewrap"><table class="data"><thead><tr><th scope="col" class="l">Proposition (yes-rate, %)</th><th scope="col">Qwen3-32B</th><th scope="col">POV-Qwen</th><th scope="col">ArcANE-32B-DPO</th></tr></thead><tbody><tr><th scope="row" class="l">P1 Phase distinctness</th><td class="num">10.5</td><td class="num">62.2</td><td class="num">65.3</td></tr><tr><th scope="row" class="l">P2 Canonical specificity</th><td class="num">10.7</td><td class="num">60.7</td><td class="num">12.7</td></tr><tr><th scope="row" class="l">P4 Phase register switch</th><td class="num">11.2</td><td class="num">63.6</td><td class="num">65.3</td></tr></tbody></table></div>
+            <p class="tnote">P1: per-phase content differs across phases. P2: the response names source-novel characters, places, or scenes. P4: voice and register shift with the phase. POV-Qwen's high P2 rate is mostly canon-drop into out-of-world scenarios, which the rubric penalizes. Coder: DeepSeek-V4-Pro.</p>
+          </div>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <section class="block" id="training">
+    <div class="wrap">
+      <h2>Training arc-aware RPLAs</h2>
+      <p class="finding">SFT → DPO → RLVR lifts Qwen3-32B from 50.0 to 68.2 Overall under Arc context, above DeepSeek-V4-Pro (62.3). All five checkpoints are released.</p>
+      <ol class="stages">
+        <li><b>SFT.</b> Imitation targets from <code>gpt-5.4-mini</code> under Arc context; the teacher sees the phase reference privately, so nothing leaks into the input.</li>
+        <li><b>DPO.</b> The anchor-phase response is chosen and an adjacent-phase response to the same scenario is rejected (14,671 pairs over 2,516 probes).</li>
+        <li><b>RLVR.</b> GRPO on the 32B DPO model with reward mean(APF, RPF, RAE)/100 from Qwen3.6-27B; evaluation uses a separate judge on the disjoint validated slice.</li>
+      </ol>
+      <div class="evidence">
+        <figure>
+          <div class="frame"><img src="static/images/rlvr_stages.svg" width="962" height="655" alt="Grouped bars of In-Scenario, In-World, Out-of-World and Overall scores for the Qwen3-32B base model, +SFT, +DPO, +RLVR and DeepSeek-V4-Pro under Arc context. Overall rises from 50.0 to 57.3 to 60.2 to 68.2; DeepSeek-V4-Pro scores 62.3." loading="lazy"></div>
+          <figcaption><b>ArcANE-32B training stages</b> by probe category under Arc context on the validated slice.</figcaption>
+        </figure>
+        <div>
+          <p>RLVR improves all three probe categories, recovering DPO's In-Scenario loss while keeping its In-World and Out-of-World gains. The rewarded per-phase metrics rise under all three judges; PTF does not, since each reward covers a single phase.</p>
+          <p class="aside-lab">Released checkpoints (Hugging Face, merged weights)</p>
+          <div class="tablewrap">
+            <table class="data">
+              <thead><tr><th scope="col" class="l">Stage</th><th scope="col" class="l">8B</th><th scope="col" class="l">32B</th></tr></thead>
+              <tbody>
+                <tr><th scope="row" class="l">SFT</th><td class="l"><a href="https://huggingface.co/holi-lab/ArcANE-8B-SFT">ArcANE-8B-SFT</a></td><td class="l"><a href="https://huggingface.co/holi-lab/ArcANE-32B-SFT">ArcANE-32B-SFT</a></td></tr>
+                <tr><th scope="row" class="l">DPO</th><td class="l"><a href="https://huggingface.co/holi-lab/ArcANE-8B-DPO">ArcANE-8B-DPO</a></td><td class="l"><a href="https://huggingface.co/holi-lab/ArcANE-32B-DPO">ArcANE-32B-DPO</a></td></tr>
+                <tr><th scope="row" class="l">RLVR</th><td class="l muted">not trained</td><td class="l"><a href="https://huggingface.co/holi-lab/ArcANE-32B-RLVR">ArcANE-32B-RLVR</a></td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="tnote">Training data: <a href="https://huggingface.co/datasets/holi-lab/ArcANE-Data">ArcANE-Data</a> (SFT, DPO, and RL configurations).</p>
+        </div>
+      </div>
+      <details class="more">
+        <summary>DPO to RLVR under three judges, and training configuration</summary>
+        <div class="tablewrap narrow"><table class="data"><thead><tr><th scope="col" class="l">Metric</th><th scope="col" class="l">Stage</th><th scope="col">DeepSeek-V4-Flash<br><span class="muted">(evaluation judge)</span></th><th scope="col">Qwen3.5<br><span class="muted">(cross-judge)</span></th><th scope="col">Qwen3.6-27B<br><span class="muted">(reward judge)</span></th></tr></thead><tbody><tr><th scope="row" class="l rg" rowspan="3">Overall</th><th scope="row" class="l">DPO</th><td class="num">60.2</td><td class="num">50.3</td><td class="num">45.5</td></tr><tr><th scope="row" class="l">RLVR</th><td class="num">68.2</td><td class="num">56.0</td><td class="num">50.6</td></tr><tr><th scope="row" class="l">Δ</th><td class="num pos"><b>+8.0</b></td><td class="num pos"><b>+5.7</b></td><td class="num pos"><b>+5.2</b></td></tr><tr class="sep"><th scope="row" class="l rg" rowspan="3">Rewarded</th><th scope="row" class="l">DPO</th><td class="num">62.3</td><td class="num">51.3</td><td class="num">49.6</td></tr><tr><th scope="row" class="l">RLVR</th><td class="num">71.1</td><td class="num">60.6</td><td class="num">58.4</td></tr><tr><th scope="row" class="l">Δ</th><td class="num pos"><b>+8.8</b></td><td class="num pos"><b>+9.3</b></td><td class="num pos"><b>+8.8</b></td></tr><tr class="sep"><th scope="row" class="l rg" rowspan="3">PTF</th><th scope="row" class="l">DPO</th><td class="num">53.7</td><td class="num">47.1</td><td class="num">33.1</td></tr><tr><th scope="row" class="l">RLVR</th><td class="num">59.4</td><td class="num">42.2</td><td class="num">27.3</td></tr><tr><th scope="row" class="l">Δ</th><td class="num pos"><b>+5.7</b></td><td class="num neg"><b>−5.0</b></td><td class="num neg"><b>−5.8</b></td></tr></tbody></table></div>
+        <p class="tnote"><i>Rewarded</i> is the mean of APF, RPF, and RAE. Values are comparable down a column, not across columns. Under the evaluation judge the base and DeepSeek-V4-Pro sweeps lack <i>Benjamin Franklin</i>, so stage figures cover four of the five validated novels.</p>
+        <p class="tnote">Configuration: SFT for 1 epoch at LR 1e-5 (8B, full fine-tuning) / 1e-4 (32B, LoRA r = 64, α = 128), effective batch 64 / 32, max length 8192; DPO for 1 epoch at LR 5e-6 / 1e-5, batch 64; RLVR (32B) for 86 steps / 2 epochs at LR 1e-5, KL β = 0.001, clip ε = 0.2, 8 rollouts per prompt, 2,812 training and 757 validation prompts. SFT and DPO ran on one NVIDIA B200; RLVR used two B200s plus one serving the reward judge.</p>
+      </details>
+    </div>
+  </section>
+
+  <section class="block" id="takeaways">
+    <div class="wrap">
+      <h2>Takeaways</h2>
+      <ul class="plain">
+        <li>Faithful role-play means being in character <i>at that point in the story</i>. ArcANE makes this phase fidelity measurable.</li>
+        <li>Arc-grounded context beats retrieval and summaries on every model, most of all beyond the source text where retrieval has nothing to return.</li>
+        <li>Training on ArcANE's contrastive phase pairs teaches models to track a character's trajectory, not just their traits.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="block" id="bibtex">
+    <div class="wrap">
+      <div class="bibhead">
+        <h2 style="margin:0">BibTeX</h2>
+        <button type="button" class="copy" id="copyBib" aria-label="Copy BibTeX">Copy</button><span class="visually-hidden" role="status" aria-live="polite" id="copyStatus"></span>
+      </div>
+<pre class="bib" id="bib">@misc{song2026arcaneroleplayinglanguageagents,
+      title={ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?},
+      author={Woojung Song and Nalim Kim and Sangjun Song and Chaewon Heo and Jongwon Lim and Yohan Jo},
+      year={2026},
+      eprint={2606.05553},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.05553},
+}</pre>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p><a href="https://github.com/holi-lab">Holi Lab</a>, Graduate School of Data Science, Seoul National University.</p>
+    <p>This work was supported by the National Research Foundation of Korea (NRF) grants funded by the Korean government (MSIT) (RS-2024-00333484, RS-2024-00414981), and by the Institute of Information &amp; Communications Technology Planning &amp; Evaluation (IITP) grant (No. RS-2026-25551943, Military-Industry-Academia Cooperation Center (Seoul (Yongsan))) funded by the Korean government (MND). This work was also supported by the National Supercomputing Center with supercomputing resources including technical support (KSC-2025-CRE-0514).</p>
+    <p>Annotations (arcs, probes, validator verdicts, judge outputs) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; code under <a href="https://github.com/holi-lab/ArcANE/blob/main/LICENSE">MIT</a>. Source novels are Project Gutenberg editions; quoted passages are excluded from the data license.</p>
+  </div>
+</footer>
+
+<script src="static/js/data.js"></script>
+<script src="static/js/index.js"></script>
+</body>
+</html>
