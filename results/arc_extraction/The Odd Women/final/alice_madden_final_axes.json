@@ -1,0 +1,554 @@
+{
+  "character": "Alice Madden",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From sheltered dependence to duty-bound caregiving agency",
+          "set_b_axis": "From sheltered relational dependence to purposeful caregiving agency",
+          "overlap_description": "Both identify Alice’s core movement from protected family dependence into a more active, caregiving form of agency rooted in duty rather than individualist self-assertion."
+        },
+        {
+          "set_a_axis": "From conventional moralism to tempered, crisis-tested moral responsibility",
+          "set_b_axis": "From conventional self-denial to practical compassion",
+          "overlap_description": "Both describe a shift from inherited respectability and self-denial toward a more humane, interventionist morality shaped by suffering and practical necessity."
+        },
+        {
+          "set_a_axis": "From fragile dependent to capable moral caretaker",
+          "set_b_axis": "From unreflective dutifulness to modest vocational self-recognition",
+          "overlap_description": "Both track Alice’s growing self-understanding as someone who can do meaningful work and bear responsibility, though Set A emphasizes caretaker competence and Set B emphasizes vocational self-recognition."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From sheltered dependence to duty-bound caregiving agency",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From conventional moralism to tempered, crisis-tested moral responsibility",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From fragile dependent to capable moral caretaker",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From sheltered relational dependence to purposeful caregiving agency",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From conventional self-denial to practical compassion",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From unreflective dutifulness to modest vocational self-recognition",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From cherished confidante to irrevocable loss",
+          "set_b_axis": "From intimate trust to traumatic loss",
+          "overlap_description": "Both capture the same foundational rupture: Alice’s intimate bond with Dr. Madden ends in sudden death, leaving grief, vulnerability, and a lasting structural absence."
+        },
+        {
+          "set_a_axis": "From curious admiration to ideological sisterhood",
+          "set_b_axis": "From cautious curiosity to appreciative solidarity",
+          "overlap_description": "Both describe Alice’s relationship with Rhoda as moving from intrigued respect toward a stronger alliance grounded in shared ideals and women’s work."
+        },
+        {
+          "set_a_axis": "From mutual support to protective caregiving",
+          "set_b_axis": "From shared dependence to reciprocal practical partnership",
+          "overlap_description": "Both identify the Alice-Virginia bond as intimate and mutually sustaining, with a later shift toward Alice taking more responsibility amid crisis; Set B softens this into a more collaborative endpoint."
+        },
+        {
+          "set_a_axis": "From affectionate concern to moralized guardianship",
+          "set_b_axis": "From conventional protectiveness to deeper pity and practical devotion",
+          "overlap_description": "Both track Alice’s relation to Monica from sisterly concern into more intense, crisis-driven care, though Set A stresses authority and Set B stresses pity and sacrificial devotion."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From grateful reception to trusted humane ally",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From fixed condemnation to wary, conflicted judgment",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From shared dependence to reciprocal practical partnership",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From sheltered dependence to purposeful caregiving agency",
+      "pole_start": "Communion-leaning dependence: Alice begins as a warm daughter and sister whose identity is organized around family intimacy, deference, and shared domestic security rather than self-assertion.",
+      "pole_end": "Agentic communion: Alice ends as a practical caretaker and organizer who acts decisively for others’ welfare while remaining grounded in duty, relationship, and service rather than pure autonomy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Sheltered intimacy and family belonging",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Alice is emotionally centered in paternal and sibling attachment. Dr. Madden’s confidence flatters her, and after his death she is forced into anxious household survival with Virginia.",
+          "key_moments": [
+            "Dr. Madden confides in Alice during their walk",
+            "Dr. Madden’s sudden death ends the sheltered family structure",
+            "Alice and Virginia adjust to poverty and domestic insecurity"
+          ]
+        },
+        {
+          "phase": "Constrained endurance and self-denial",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "Alice remains largely passive and physically vulnerable, with illness and scarcity limiting her agency. She manages thrift and endurance, but her role is still primarily reactive and dependent.",
+          "key_moments": [
+            "Bedridden illness and weakness",
+            "Conserving money and preserving respectability",
+            "Reliance on Virginia and outside help"
+          ]
+        },
+        {
+          "phase": "Tentative self-assertion through work and reform",
+          "chapter_range": [
+            7,
+            11
+          ],
+          "position_description": "Alice begins to see work as a source of dignity and purpose. She grows more purposeful through the school project, Yatton-related prospects, and her alignment with reform-minded women.",
+          "key_moments": [
+            "Excitement about the school plan",
+            "Taking or considering the Yatton post",
+            "Investigation of openings and practical future-making"
+          ]
+        },
+        {
+          "phase": "Mature caregiving agency",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Crisis confirms Alice as the one who must act. She mediates, arranges, judges, and cares, taking responsibility for Virginia’s treatment and Monica’s child while imagining a future shaped by service.",
+          "key_moments": [
+            "Intervening in Virginia and Monica’s crisis",
+            "Seeking treatment and order for Virginia",
+            "Taking charge of Monica’s baby",
+            "Planning a shared future of work and care"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice moves from sheltered family dependence into a more agentic form of communion. The change is not toward radical independence, but toward practical leadership, caregiving, and organized responsibility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral framework",
+      "axis_name": "From conventional self-denial to practical compassion",
+      "pole_start": "Rigid conventional morality: Alice begins by accepting respectability, duty, thrift, and inherited assumptions about women’s proper roles.",
+      "pole_end": "Compassionate reformism: Alice ends with the same moral seriousness, but it is broadened by pity, practical sympathy, and a willingness to intervene constructively in suffering.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Inherited moral certainty",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Alice treats endurance and economy as virtues and initially accepts the social order rather than questioning it.",
+          "key_moments": [
+            "Acceptance of family norms and paternal worldview",
+            "Fear of poverty and insistence on thrift"
+          ]
+        },
+        {
+          "phase": "Moral discipline under pressure",
+          "chapter_range": [
+            7,
+            29
+          ],
+          "position_description": "Her morality becomes more active and interventionist. She urges obedience, abstinence, proper arrangements, and reform, but now in response to concrete crises rather than abstract propriety alone.",
+          "key_moments": [
+            "Support for educational and reform ideals",
+            "Pressing Monica toward reconciliation and order",
+            "Responding to Virginia’s drinking with disapproval and rescue"
+          ]
+        },
+        {
+          "phase": "Compassionate moral action",
+          "chapter_range": [
+            31,
+            31
+          ],
+          "position_description": "Alice’s moral seriousness becomes constructive: she combines judgment with care, grief with service, and correction with future-oriented responsibility.",
+          "key_moments": [
+            "Comforting Monica in her final illness",
+            "Taking responsibility for Monica’s child",
+            "Planning care and education as moral action"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice never abandons conventional morality, but it becomes less defensive and more humane. Her ethics shift from self-denying respectability toward practical compassion and reform-minded care."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "self-recognition",
+      "axis_name": "From unreflective dutifulness to modest vocational self-recognition",
+      "pole_start": "Unreflective duty-bearer: Alice initially sees herself mainly as a compliant family member whose role is to endure and help.",
+      "pole_end": "Quietly self-aware caretaker: Alice ends with a clearer sense that she has a vocation and a meaningful place in the world through care, work, and organization.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Limited self-analysis",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Alice shows little explicit self-reflection beyond shyness, dependence, and practical endurance under scarcity.",
+          "key_moments": [
+            "Shock after Dr. Madden’s death",
+            "Bedridden endurance and financial calculation"
+          ]
+        },
+        {
+          "phase": "Emerging confidence through usefulness",
+          "chapter_range": [
+            7,
+            11
+          ],
+          "position_description": "She begins to feel more useful and purposeful through work and the school project, though she still frames this in moral and relational terms rather than personal ambition.",
+          "key_moments": [
+            "Excitement over the school venture",
+            "Taking a practical role in arranging the future"
+          ]
+        },
+        {
+          "phase": "Vocation recognized in crisis",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Alice seems to recognize that caring for the child and helping build a school are not merely duties but a meaningful life direction.",
+          "key_moments": [
+            "Becoming guardian of Monica’s baby",
+            "Imagining a school as a shared purpose with Virginia"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice’s self-awareness remains modest, but it deepens from passive dutifulness into a clearer recognition of vocation: she can serve, organize, and build a life of meaningful responsibility."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Alice Madden",
+      "target_character": "Dr. Madden",
+      "dimension_label": "paternal trust",
+      "axis_name": "From intimate trust to traumatic loss",
+      "pole_start": "High trust and intimacy: Alice begins as a specially trusted daughter who feels honored by her father’s confidence and emotionally close to him.",
+      "pole_end": "Irreversible loss: his death leaves Alice emotionally destabilized and materially vulnerable, becoming the background wound that shapes her later caution and duty.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Warm intimacy",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Alice feels flattered and warmed by her father’s confidence during their walk.",
+          "key_moments": [
+            "Private conversation with Dr. Madden",
+            "His sudden accident and death"
+          ]
+        },
+        {
+          "phase": "Aftermath and reorientation",
+          "chapter_range": [
+            2,
+            31
+          ],
+          "position_description": "The relationship is no longer active, but its loss structures Alice’s anxiety, poverty, and sense of duty. His absence remains a formative emotional fact.",
+          "key_moments": [
+            "Financial precarity after his death",
+            "Alice’s continued self-denying household role"
+          ]
+        }
+      ],
+      "evidence_summary": "Dr. Madden’s death is the foundational rupture in Alice’s life: a shift from sheltered daughterhood to anxious, duty-bound survival."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Alice Madden",
+      "target_character": "Rhoda Nunn",
+      "dimension_label": "ideological alliance",
+      "axis_name": "From curious admiration to ideological sisterhood",
+      "pole_start": "Respectful curiosity: Alice initially admires Rhoda as remarkable and intellectually unusual, but still views her through a conventional, slightly cautious lens.",
+      "pole_end": "Deep alliance: by the end Alice treats Rhoda as a trusted ideological companion and symbol of women’s collective emancipation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "First impression and fascination",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Rhoda stands out as a memorable alternative to conventional girlhood, and Alice is intrigued, amused, and impressed.",
+          "key_moments": [
+            "First impressions of Rhoda’s confidence and unconventionality",
+            "Rhoda’s letter renewing contact"
+          ]
+        },
+        {
+          "phase": "Practical trust and shared possibility",
+          "chapter_range": [
+            3,
+            11
+          ],
+          "position_description": "Rhoda becomes a concrete source of help and future possibility, especially through Monica’s prospects and the school idea.",
+          "key_moments": [
+            "Sending Virginia to meet Rhoda",
+            "Rhoda’s help for Monica",
+            "Practical support for the school and work prospects"
+          ]
+        },
+        {
+          "phase": "Intellectual and emotional solidarity",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "Alice’s admiration intensifies into shared cause and mutual affirmation; she sees herself as part of a women’s movement alongside Rhoda.",
+          "key_moments": [
+            "Debates about reform and women’s independence",
+            "Private discussion deepening intimacy",
+            "Rhapsodic solidarity and laughter"
+          ]
+        }
+      ],
+      "evidence_summary": "Rhoda is the most important positive relational influence on Alice’s development, moving from admired oddity to trusted ally and ideological sister."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Alice Madden",
+      "target_character": "Virginia Madden",
+      "dimension_label": "sisterly care",
+      "axis_name": "From mutual support to protective caregiving partnership",
+      "pole_start": "Reciprocal sisterly reliance: Alice and Virginia begin as close partners in household survival, sharing fear, thrift, and emotional intimacy.",
+      "pole_end": "Protective partnership: Alice ends as the more managerial sister, but the bond remains intimate and increasingly collaborative around care, treatment, and future work.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Shared survival",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "The sisters calculate money together, endure illness together, and sustain one another under pressure, with Alice often dependent on Virginia’s mobility and care.",
+          "key_moments": [
+            "Joint budgeting and survival planning",
+            "Virginia caring for bedridden Alice",
+            "Shared household endurance after Dr. Madden’s death"
+          ]
+        },
+        {
+          "phase": "Shared reform hopes",
+          "chapter_range": [
+            7,
+            11
+          ],
+          "position_description": "Their bond is strengthened by common hopes for Monica and the school, though Alice increasingly looks to Virginia as the practical intermediary.",
+          "key_moments": [
+            "Visit to Mary Barfoot together",
+            "School plan shared",
+            "Public enthusiasm for educational ideals"
+          ]
+        },
+        {
+          "phase": "Crisis and caretaking",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Virginia’s drinking crisis reverses the balance: Alice becomes the one who interprets, judges, and tries to save her sister through intervention, treatment, and later planned cohabitation.",
+          "key_moments": [
+            "Discovering Virginia’s hidden drinking",
+            "Praying after the confrontation",
+            "Urging abstinence and removal",
+            "Seeking treatment and planning to house Virginia"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice and Virginia remain emotionally close throughout, but the relationship shifts from mutual dependence to Alice’s more explicit caretaking authority once Virginia’s alcoholism is revealed."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Alice Madden",
+      "target_character": "Monica Madden",
+      "dimension_label": "protective concern",
+      "axis_name": "From conventional protectiveness to sacrificial devotion",
+      "pole_start": "Affectionate, conventional protectiveness: Alice initially sees Monica as a cherished younger sister whose future should be safe, respectable, and properly managed.",
+      "pole_end": "Deep pity and practical devotion: by the end, Alice’s concern for Monica becomes emotionally complex and sacrificial, extending into care for Monica’s child and the aftermath of her death.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Conventional sisterly care",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Alice is affectionate and solicitous, but her concern for Monica is still framed by conventional hopes about marriage, propriety, and family stability.",
+          "key_moments": [
+            "Buying Monica a birthday present",
+            "Discussing Monica’s future in conventional terms"
+          ]
+        },
+        {
+          "phase": "Moral pressure and misreading",
+          "chapter_range": [
+            28,
+            29
+          ],
+          "position_description": "Alice becomes more interventionist, urging Monica toward confession and reconciliation. She misreads Monica at first, but her concern is intense and sincere.",
+          "key_moments": [
+            "Pressing Monica toward Widdowson",
+            "Believing Monica guilty before understanding her situation"
+          ]
+        },
+        {
+          "phase": "Tenderness after suffering",
+          "chapter_range": [
+            31,
+            31
+          ],
+          "position_description": "Alice’s relationship to Monica becomes one of grief-inflected devotion. She comforts her, helps manage the final illness, and then turns that love into care for Monica’s child.",
+          "key_moments": [
+            "Comforting Monica during childbirth and death",
+            "Taking responsibility for the baby"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice’s bond with Monica deepens from conventional protectiveness into sacrificial, practical devotion, especially after Monica’s suffering and death."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Alice Madden",
+      "target_character": "Mary Barfoot",
+      "dimension_label": "practical trust",
+      "axis_name": "From grateful reception to trusted humane ally",
+      "pole_start": "Initial gratitude and hope: Alice first encounters Mary Barfoot as a warm, practical benefactor whose kindness makes rescue feel possible.",
+      "pole_end": "Stable trust in humane support: Mary remains a reassuring, compassionate ally whose help Alice values as morally and materially reliable.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "First welcome",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "Alice is softened by Barfoot’s warmth and practical generosity, especially the offer of a loan and training route for Monica.",
+          "key_moments": [
+            "Visit to Mary Barfoot and concrete help for Monica"
+          ]
+        },
+        {
+          "phase": "Reinforced compassion",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "Barfoot’s humane stance in reformist discussion shows Alice that Mary is a reliable compassionate force in the circle.",
+          "key_moments": [
+            "Hearing Barfoot’s compassionate position"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary Barfoot functions as a steady source of humane practical aid; Alice’s trust in her is clear and durable, though not as emotionally charged as her bond with Rhoda."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Alice Madden",
+      "target_character": "Everard Barfoot",
+      "dimension_label": "moral suspicion",
+      "axis_name": "From fixed condemnation to wary, conflicted judgment",
+      "pole_start": "Settled moral disapproval: Alice initially condemns Everard as morally suspect and emotionally untrustworthy.",
+      "pole_end": "Wary complexity: after meeting him, she recognizes his polish and intelligence, but retains a fundamentally critical stance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Preexisting condemnation challenged",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Everard’s arrival unsettles Alice’s certainty because his manners and attractiveness complicate the moral picture she had formed.",
+          "key_moments": [
+            "Reassessing him in person"
+          ]
+        },
+        {
+          "phase": "Debate without reconciliation",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Dinner conversation sharpens ideological difference; Alice remains defensive and morally anchored, even while intellectually engaged.",
+          "key_moments": [
+            "Debating individual freedom and women’s limitations"
+          ]
+        },
+        {
+          "phase": "Nuanced but unreconciled judgment",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Her later discussion with Rhoda allows her to refine her view, but not to forgive him; suspicion remains, now with more nuance.",
+          "key_moments": [
+            "Revisiting his history and partially reframing him"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice never becomes close to Everard; the change is mainly from simple moral rejection to a more intellectually informed, still distrustful assessment."
+    }
+  ]
+}

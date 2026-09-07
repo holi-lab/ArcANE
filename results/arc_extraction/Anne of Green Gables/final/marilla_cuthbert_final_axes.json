@@ -1,0 +1,465 @@
+{
+  "character": "Marilla Cuthbert",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From stern self-sufficiency to maternal interdependence",
+          "set_b_axis": "From guarded self-sufficiency to reluctant maternal communion",
+          "overlap_description": "Both describe Marilla's movement from emotionally guarded, duty-centered independence toward a deeply relational, maternal attachment to Anne and a more interdependent sense of self."
+        },
+        {
+          "set_a_axis": "From corrective severity to humane discernment",
+          "set_b_axis": "From strict utilitarian judgment to compassionate moral discernment",
+          "overlap_description": "Both track the same moral softening: Marilla shifts from rigid, utility-based judgment and harsh correction toward context-sensitive, compassionate, and self-correcting moral reasoning."
+        },
+        {
+          "set_a_axis": "From emotional repression to admitted tenderness",
+          "set_b_axis": "From emotional repression to partial emotional candor",
+          "overlap_description": "Both capture Marilla's emotional thaw, from tightly controlled reserve to a more legible capacity for affection, grief, pride, and occasional direct emotional expression."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From reluctant guardian to devoted mother-figure",
+          "set_b_axis": "From wary guardian to devoted mother-figure",
+          "overlap_description": "Both identify Marilla's central relationship with Anne as a progression from suspicion, control, and reluctance to deep maternal attachment, pride, grief, and support."
+        },
+        {
+          "set_a_axis": "From sole household authority to shared parental partnership",
+          "set_b_axis": "From dutiful deference to emotionally equal companionship",
+          "overlap_description": "Both describe the same broad shift in Marilla's relationship with Matthew: from asymmetrical household authority toward a more collaborative, emotionally mutual partnership."
+        },
+        {
+          "set_a_axis": "From habitual deference to selective mutual recognition",
+          "set_b_axis": "From deference to community judgment to independent moral confidence",
+          "overlap_description": "Both treat Marilla's relationship with Rachel Lynde as moving away from social deference and toward greater independence, selective trust, and reciprocal recognition."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From guarded self-sufficiency to maternal interdependence",
+      "pole_start": "Marilla begins as a self-contained, duty-driven household authority who values control, usefulness, and emotional restraint. Her care is real but mediated through practicality, distance, and self-command.",
+      "pole_end": "Marilla ends as a deeply interdependent guardian whose identity is bound up with Anne's presence, welfare, and future. She remains disciplined, but her center of gravity has shifted toward warmth, attachment, and relational belonging.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Guarded authority",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Marilla starts strongly agency-leaning: she frames adoption as a practical problem, treats Anne as a mistake to manage, and keeps emotion subordinated to duty and control.",
+          "key_moments": [
+            "Agrees to the adoption out of duty and household utility",
+            "Sees Anne as the wrong child and initially plans to send her away",
+            "Maintains emotional distance even when pity begins to surface"
+          ]
+        },
+        {
+          "phase": "Reluctant opening",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "Anne's vulnerability, gratitude, and emotional candor begin to break Marilla's defenses. She starts acting less like a manager and more like a guardian who must nurture.",
+          "key_moments": [
+            "Responds to Anne's prayer and ignorance with corrective care rather than dismissal",
+            "Plans Anne's education and social development as part of her responsibility",
+            "The hand-in-hand moment and the brooch apology deepen maternal feeling"
+          ]
+        },
+        {
+          "phase": "Integrated attachment",
+          "chapter_range": [
+            13,
+            23
+          ],
+          "position_description": "Marilla remains stern, but affection, pride, and protectiveness now coexist with discipline. She is emotionally invested in Anne's friendships, talents, and future.",
+          "key_moments": [
+            "Laughs at Anne's grief over Diana and supports her social belonging",
+            "Admits fondness to Matthew and shows private tenderness toward Anne",
+            "Begins imagining Anne's future at Queen's as something she must support"
+          ]
+        },
+        {
+          "phase": "Mature interdependence",
+          "chapter_range": [
+            24,
+            36
+          ],
+          "position_description": "By the later chapters, Marilla's attachment is unmistakable: she loves Anne deeply, grieves her absence, and supports her independence as an act of love rather than control.",
+          "key_moments": [
+            "Alternates between criticism and tenderness while recognizing Anne as part of home",
+            "Privately grieves Anne's departure for Queen's",
+            "Supports Anne's education and future while hoping she remains near Green Gables"
+          ]
+        }
+      ],
+      "evidence_summary": "Marilla's core change is a movement from emotionally guarded self-sufficiency toward mature maternal interdependence. She never stops being practical or disciplined, but the novel repeatedly shows her becoming more relational, affectionate, and inwardly anchored in Anne."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Judgment-Compassion",
+      "axis_name": "From rigid correction to humane discernment",
+      "pole_start": "Marilla begins with a narrow, rule-bound moral framework: children should be useful, obedience matters most, and mistakes should be corrected decisively. Her judgments are often harsh and suspicious.",
+      "pole_end": "Marilla ends with a more humane and self-correcting moral intelligence: she still values discipline, but now recognizes innocence, admits error, and understands that justice requires sympathy and context.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Rule-bound certainty",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Marilla judges Anne through utility and manageability, assuming the adoption should serve household needs and that the wrong child should simply be corrected or returned.",
+          "key_moments": [
+            "Prefers a boy for practical reasons",
+            "Treats Anne as an adoption error",
+            "Interprets behavior through suspicion and usefulness"
+          ]
+        },
+        {
+          "phase": "Moral widening",
+          "chapter_range": [
+            5,
+            8
+          ],
+          "position_description": "Her framework begins to widen as she refuses to hand Anne to Mrs. Blewett, becomes protective, and starts to see neglect and vulnerability as morally relevant.",
+          "key_moments": [
+            "Cannot bring herself to send Anne to Mrs. Blewett",
+            "Begins Anne's religious and practical training",
+            "Feels pity during Anne's humiliation and deprivation"
+          ]
+        },
+        {
+          "phase": "Corrective humility",
+          "chapter_range": [
+            9,
+            12
+          ],
+          "position_description": "Marilla confronts her own fallibility, especially when she wrongly accuses Anne over the brooch. Severity is no longer automatically equated with justice.",
+          "key_moments": [
+            "Anne's blunt honesty unsettles her assumptions",
+            "She misjudges Anne in the brooch episode",
+            "She admits error and apologizes"
+          ]
+        },
+        {
+          "phase": "Compassionate discipline",
+          "chapter_range": [
+            13,
+            25
+          ],
+          "position_description": "She remains strict, but discipline is increasingly tempered by tact, humor, and an understanding that Anne's feelings matter. Correction becomes more educative than punitive.",
+          "key_moments": [
+            "Uses patience after school and social crises",
+            "Laughs at Anne's dramatics instead of only condemning them",
+            "Lets affection shape her corrections"
+          ]
+        },
+        {
+          "phase": "Forgiving wisdom",
+          "chapter_range": [
+            26,
+            36
+          ],
+          "position_description": "Marilla's moral judgment becomes openly humane: she values Anne's growth, defends her education, and recognizes the importance of love and forgiveness before loss makes them impossible.",
+          "key_moments": [
+            "Supports Anne's education against criticism",
+            "Confesses love after Matthew's death",
+            "Reflects on regret and the need to speak affection while it can still be heard"
+          ]
+        }
+      ],
+      "evidence_summary": "Marilla does not become permissive, but she becomes morally wiser. The arc moves from rigid external judgment toward compassionate discernment that can admit error, trust Anne, and prioritize fairness over severity."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Reserve-Expressiveness",
+      "axis_name": "From emotional repression to partial emotional candor",
+      "pole_start": "Marilla begins as someone who suppresses feeling, translates emotion into practicality, and avoids overt sentiment. Her self-image is that of a stern, controlled woman who does not indulge in display.",
+      "pole_end": "Marilla ends as someone who remains reserved in style but now allows grief, love, pride, and loneliness to surface openly when circumstances demand it. She is no longer emotionally sealed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Repressed composure",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Marilla keeps emotion tightly managed, expressing care through duty and correction rather than direct affection.",
+          "key_moments": [
+            "Frames adoption as duty",
+            "Masks pity with sternness",
+            "Uses practical instruction instead of emotional reassurance"
+          ]
+        },
+        {
+          "phase": "Cracks in composure",
+          "chapter_range": [
+            8,
+            12
+          ],
+          "position_description": "Her composure begins to fail in small ways: she laughs, feels embarrassed, and admits guilt, showing that feeling is breaking through habit.",
+          "key_moments": [
+            "Laughs at Anne's outburst and the surrounding absurdity",
+            "Feels embarrassed by public scenes",
+            "Admits she misjudged Anne"
+          ]
+        },
+        {
+          "phase": "Warm restraint",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "She remains outwardly dry, but affection is increasingly visible in her tone, permissions, and quiet pride. Emotion is present, though still filtered through reserve.",
+          "key_moments": [
+            "Admits she is glad Anne stayed",
+            "Supports Anne's social life and school progress",
+            "Shows pride while trying to hide it"
+          ]
+        },
+        {
+          "phase": "Open grief and love",
+          "chapter_range": [
+            21,
+            36
+          ],
+          "position_description": "Marilla becomes capable of direct emotional speech and visible grief. She confesses love, cries, and acknowledges loneliness and dependence, even if she still feels awkward doing so.",
+          "key_moments": [
+            "Says Anne is dearer than anything else on earth",
+            "Cries over Anne leaving for Queen's",
+            "Breaks down after Matthew's death and accepts Anne's support"
+          ]
+        }
+      ],
+      "evidence_summary": "Marilla's emotional life does not become flamboyant, but it becomes legible. The arc is from repression to selective candor, with love and grief eventually overriding her habitual self-control."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Marilla Cuthbert",
+      "target_character": "Anne Shirley",
+      "dimension_label": "Suspicion-Attachment",
+      "axis_name": "From wary guardian to devoted mother-figure",
+      "pole_start": "Marilla begins by seeing Anne as a mistaken, risky, and potentially troublesome child whose presence must be managed or corrected.",
+      "pole_end": "Marilla ends as deeply attached to Anne, emotionally dependent on her presence, and invested in her future with maternal love and pride.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial suspicion",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Marilla is low-trust and low-intimacy, treating Anne as an adoption error and a practical burden, though pity begins to emerge.",
+          "key_moments": [
+            "Plans to send Anne back",
+            "Judges her by usefulness",
+            "Refuses to give her to Mrs. Blewett"
+          ]
+        },
+        {
+          "phase": "Protective correction",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "She begins to care for Anne as a neglected child, not merely a nuisance. Trust remains limited, but esteem and concern rise.",
+          "key_moments": [
+            "Starts religious and moral training",
+            "Feels maternal warmth when Anne takes her hand",
+            "Apologizes after the brooch misunderstanding"
+          ]
+        },
+        {
+          "phase": "Fond guardianship",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "Marilla is now openly invested in Anne's happiness and success, though she still corrects her constantly. Intimacy grows through shared domestic life.",
+          "key_moments": [
+            "Laughs at Anne's grief and antics",
+            "Supports Anne's friendship with Diana",
+            "Feels proud of Anne's competence"
+          ]
+        },
+        {
+          "phase": "Maternal attachment",
+          "chapter_range": [
+            21,
+            32
+          ],
+          "position_description": "Marilla's attachment becomes unmistakably maternal: she fears for Anne, misses her, and grieves her departure. Trust and esteem are now high.",
+          "key_moments": [
+            "Realizes Anne is dearer than anything else on earth",
+            "Feels lonely when Anne is away",
+            "Cries over Anne leaving for Queen's"
+          ]
+        },
+        {
+          "phase": "Love under loss",
+          "chapter_range": [
+            34,
+            36
+          ],
+          "position_description": "Anne becomes Marilla's emotional anchor after Matthew's death and her own health crisis. The relationship is now one of mutual dependence and deep love.",
+          "key_moments": [
+            "Defends Anne's education",
+            "Confesses love after Matthew's death",
+            "Finds hope when Anne stays"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Marilla's central relational arc. She moves from suspicion and control to profound maternal attachment, with trust, esteem, and intimacy all rising substantially."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Marilla Cuthbert",
+      "target_character": "Matthew Cuthbert",
+      "dimension_label": "Deference-Partnership",
+      "axis_name": "From practical deference to emotionally equal companionship",
+      "pole_start": "Marilla begins as the more forceful household partner, yielding to Matthew's rare wishes out of duty and affection but still occupying the dominant practical role.",
+      "pole_end": "Marilla ends in a deeply shared emotional partnership with Matthew, where their mutual love for Anne and their long companionship are fully acknowledged, even in grief.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical deference",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Marilla respects Matthew and yields to him, but she remains the decisive one in household matters.",
+          "key_moments": [
+            "Agrees to the adoption because Matthew wants it",
+            "Is irritated by his sympathy for Anne",
+            "Still manages the household"
+          ]
+        },
+        {
+          "phase": "Quiet alignment",
+          "chapter_range": [
+            6,
+            20
+          ],
+          "position_description": "Their relationship becomes more collaborative around Anne. Matthew's tenderness and Marilla's discipline complement each other, even when they disagree.",
+          "key_moments": [
+            "Matthew supports Anne staying",
+            "Marilla laughs with him over Anne's antics",
+            "They share pride in Anne's progress"
+          ]
+        },
+        {
+          "phase": "Shared devotion and grief",
+          "chapter_range": [
+            21,
+            35
+          ],
+          "position_description": "Matthew becomes not just a partner but a beloved emotional equal. Marilla's grief at his death reveals the depth of their lifelong intimacy.",
+          "key_moments": [
+            "Matthew's death shatters her reserve",
+            "She confesses love and dependence to Anne",
+            "She mourns the loss of their shared life"
+          ]
+        },
+        {
+          "phase": "After Matthew",
+          "chapter_range": [
+            36,
+            36
+          ],
+          "position_description": "Matthew's absence leaves Marilla more vulnerable, but his role persists as a source of memory and shared household identity.",
+          "key_moments": [
+            "Anne stays to support Marilla after Matthew's death",
+            "Marilla faces the future without him"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew is Marilla's most stable and intimate adult relationship. The arc deepens from deference into full companionship and shared emotional life, with his death exposing how central that bond had become."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Marilla Cuthbert",
+      "target_character": "Mrs. Rachel Lynde",
+      "dimension_label": "Social Reliance",
+      "axis_name": "From deference to community judgment to independent moral confidence",
+      "pole_start": "Marilla begins as someone who values Rachel's practical social judgment and is influenced by her alarm and criticism.",
+      "pole_end": "Marilla ends as someone who still respects Rachel's usefulness but no longer lets her judgments govern her own moral and emotional decisions.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Social deference",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Marilla listens to Rachel and is affected by her alarm, though she does not fully submit to her.",
+          "key_moments": [
+            "Rachel amplifies Marilla's doubts about the adoption",
+            "Marilla is relieved when Rachel leaves",
+            "Rachel serves as a practical social reference point"
+          ]
+        },
+        {
+          "phase": "Respectful resistance",
+          "chapter_range": [
+            6,
+            18
+          ],
+          "position_description": "Marilla continues to consult Rachel, but increasingly filters her advice through her own judgment and Anne's needs.",
+          "key_moments": [
+            "Accepts Rachel's advice about Anne's school crisis",
+            "Corrects Rachel when she is too harsh",
+            "Grows less governed by Rachel's opinions"
+          ]
+        },
+        {
+          "phase": "Independent confidence",
+          "chapter_range": [
+            19,
+            36
+          ],
+          "position_description": "Marilla still values Rachel as a community presence, but she is more self-trusting and less dependent on Rachel's approval or criticism.",
+          "key_moments": [
+            "Hears Rachel's opinions on education and Anne",
+            "Defends Anne's worth and future",
+            "Acts from her own love and judgment rather than social pressure"
+          ]
+        }
+      ],
+      "evidence_summary": "Rachel remains important as a social mirror, but Marilla gradually becomes less deferential and more morally self-directed."
+    }
+  ]
+}

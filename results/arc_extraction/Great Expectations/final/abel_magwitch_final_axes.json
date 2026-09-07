@@ -1,0 +1,414 @@
+{
+  "character": "Abel Magwitch",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From hunted self-assertion to devoted relational fusion",
+          "set_b_axis": "From self-protective outlaw agency to devoted relational communion",
+          "overlap_description": "Both describe Magwitch moving from hardened survival-oriented self-protection toward an identity organized around attachment to Pip, with agency increasingly redirected into care and relational meaning."
+        },
+        {
+          "set_a_axis": "From condemned criminality to self-authored redemption",
+          "set_b_axis": "From criminal shame to benefactor self-justification",
+          "overlap_description": "Both track a moral re-framing of Magwitch's criminal past: he does not become innocent, but interprets his labor and sacrifice as meaningful, redeemed, and morally justified through his benefaction to Pip."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From wounded grievance to sought-for moral recognition",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guarded triumph to wounded fatalism",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From claiming paternal possession to seeking fragile mutual bond",
+          "set_b_axis": "From secret benefactor devotion to vulnerable fatherly dependence",
+          "overlap_description": "Both capture the Magwitch-Pip bond as a paternal, asymmetrical attachment that becomes more emotionally exposed and dependent after revelation and rejection/collapse."
+        },
+        {
+          "set_a_axis": "From historical betrayal to renewed mortal enmity",
+          "set_b_axis": "From enduring enmity to enduring enmity under renewed threat",
+          "overlap_description": "Both treat Compeyson as the fixed betrayer and enemy whose presence or renewed relevance reactivates Magwitch's hostility and danger."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From hidden fatherhood to tragic estrangement",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From indirect cooperation to warmer alliance",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From hunted self-protection to devoted relational communion",
+      "pole_start": "A hardened survivor orientation: secretive, self-protective, and defined by control, concealment, and endurance under threat.",
+      "pole_end": "A deeply relational orientation: emotionally invested in Pip, seeking paternal recognition, loyalty, and meaningful attachment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Latent survival mode",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Before direct appearance, Magwitch is only inferable as a hidden, hunted figure whose life is organized around survival and concealment.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "Background condition of secrecy and pursuit"
+          ]
+        },
+        {
+          "phase": "Benefactor revelation",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He reveals himself as Pip's secret benefactor and second father, shifting decisively toward communion while still retaining practical agency and caution.",
+          "key_moments": [
+            "Reveals himself to Pip",
+            "Explains years of labor and risk on Pip's behalf",
+            "Asserts paternal devotion"
+          ]
+        },
+        {
+          "phase": "Defiant attachment",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "After Pip's shock and rejection, he persists in attachment, showing that relational commitment now outweighs mere self-preservation.",
+          "key_moments": [
+            "Pip's horror and rejection",
+            "Magwitch remains determined to stay and support Pip",
+            "Danger of discovery does not sever the bond"
+          ]
+        },
+        {
+          "phase": "Vulnerable dependence",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "As escape fails and injury/capture follow, his agency narrows into endurance and trust, making his dependence on Pip's loyalty more explicit.",
+          "key_moments": [
+            "Escape attempt fails",
+            "He is injured and resigned",
+            "Desire narrows to companionship and not being abandoned"
+          ]
+        }
+      ],
+      "evidence_summary": "Magwitch moves from a covert, self-preserving outlaw posture toward a life organized around paternal attachment to Pip. The arc is strongly positive in relational maturity, though it remains shadowed by danger and dependence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Criminality-Redemption",
+      "axis_name": "From condemned criminality to benefactor self-redemption",
+      "pole_start": "A socially condemned criminal identity marked by shame, exclusion, and the need to survive through concealment.",
+      "pole_end": "A self-authored redemptive identity in which suffering, labor, and sacrifice are made morally meaningful.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Buried condemnation",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "His criminal identity remains offstage, but the background condition is one of stigma, invisibility, and social erasure.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "No psychologically significant event yet"
+          ]
+        },
+        {
+          "phase": "Moral re-framing",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He explicitly reinterprets his past as already paid for and casts his benefaction to Pip as proof of moral purpose.",
+          "key_moments": [
+            "Reveals himself as Pip's benefactor",
+            "Frames his criminal past as paid for",
+            "Treats his labor as meaningful sacrifice"
+          ]
+        },
+        {
+          "phase": "Narrative of wronged endurance",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "His account of Compeyson and his life history shifts redemption away from legal innocence and toward moral vindication through suffering and class injustice.",
+          "key_moments": [
+            "Tells the story of Compeyson",
+            "Reveals imprisonment and exploitation",
+            "Frames himself as wronged rather than innately depraved"
+          ]
+        },
+        {
+          "phase": "Redemption under threat",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Even as danger intensifies, he continues to treat persistence and loyalty as morally significant, implying that redemption lies in action rather than social approval.",
+          "key_moments": [
+            "Capture and injury test his hopes",
+            "He still values Pip and the sacrifice made for him",
+            "Endurance replaces any return to self-condemnation"
+          ]
+        }
+      ],
+      "evidence_summary": "Magwitch consistently converts a stigmatized criminal identity into a redemptive self-story centered on sacrifice, labor, and paternal devotion. The arc is not toward innocence, but toward moral meaning."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Recognition-Resignation",
+      "axis_name": "From grievance and hope to wounded recognition-seeking resignation",
+      "pole_start": "A wounded, hopeful stance that seeks moral recognition from a world that has exploited and misread him.",
+      "pole_end": "A resigned but still recognition-seeking stance in which he wants his life understood as meaningful despite criminal stigma and defeat.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Latent grievance",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "His resentment is not yet voiced, but the later revelations imply a long-standing structure of injury, exclusion, and unmet recognition.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "Background of social injury and misreading"
+          ]
+        },
+        {
+          "phase": "Open bitterness and hope",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He speaks bitterly about class injustice and betrayal, yet also hopes that Pip will recognize the moral meaning of his sacrifice.",
+          "key_moments": [
+            "Tells the story of Compeyson and his own suffering",
+            "Makes his benefaction explicit",
+            "Seeks acknowledgment as a 'second father'"
+          ]
+        },
+        {
+          "phase": "Recognition under collapse",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "After capture and injury, hope narrows into endurance; he remains oriented toward being understood and not abandoned, even as practical control is lost.",
+          "key_moments": [
+            "Escape fails",
+            "He becomes physically vulnerable",
+            "Desire narrows to comfort, companionship, and recognition"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures the tension between Magwitch's bitterness at injustice and his persistent wish to be morally legible to Pip and others. The trajectory is mixed: recognition is sought, but never fully secured."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Abel Magwitch",
+      "target_character": "Pip",
+      "dimension_label": "Paternal Bond",
+      "axis_name": "From possessive benefaction to vulnerable paternal dependence",
+      "pole_start": "A proud, possessive benefactor who sees Pip as the meaning of his sacrifice and expects gratitude, closeness, and filial acceptance.",
+      "pole_end": "A wounded, dependent father-figure who still loves Pip but now needs his care, loyalty, and emotional reassurance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Hidden benefaction",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "The bond is invisible on the surface, but Magwitch's hidden support already creates a one-way paternal relation in which Pip is the recipient of his labor.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "Background one-way support"
+          ]
+        },
+        {
+          "phase": "Open paternal claim",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He reveals himself as Pip's benefactor and second father, asserting emotional and symbolic claim through sacrifice and provision.",
+          "key_moments": [
+            "Reveals himself as the secret benefactor",
+            "Asks Pip to accept him as a second father",
+            "Frames the bond as meaningful and filial"
+          ]
+        },
+        {
+          "phase": "One-sided devotion",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Pip's horror makes the relationship sharply asymmetrical: Magwitch continues to give loyalty and protection while receiving fear and rejection.",
+          "key_moments": [
+            "Pip's shock and rejection",
+            "Magwitch persists in support despite danger",
+            "The bond becomes emotionally exposed and unstable"
+          ]
+        },
+        {
+          "phase": "Flight, capture, dependence",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "After the escape fails, his attachment becomes more vulnerable and dependent; he wants Pip not to abandon him and to preserve the bond despite ruin.",
+          "key_moments": [
+            "Escape attempt ends in capture",
+            "He is injured and resigned",
+            "Desire narrows to comfort and companionship"
+          ]
+        }
+      ],
+      "evidence_summary": "Magwitch's bond with Pip moves from hidden, unilateral benefaction to an openly declared paternal claim, then into a painful but persistent need for reciprocal recognition and care. The relationship remains unequal, but it becomes increasingly intimate and vulnerable."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Abel Magwitch",
+      "target_character": "Compeyson",
+      "dimension_label": "Betrayal-Enmity",
+      "axis_name": "From historical betrayal to renewed mortal enmity",
+      "pole_start": "A past defined by exploitation, betrayal, and class-based injustice at Compeyson's hands.",
+      "pole_end": "A sharpened, immediate hostility in which Compeyson remains an active and dangerous enemy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Stored grievance",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "The enmity is not yet narrated, but later revelations show it has long been latent and unresolved.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "Background hostility not yet voiced"
+          ]
+        },
+        {
+          "phase": "Narrated betrayal",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "His life story frames Compeyson as the central betrayer who helped produce Magwitch's criminal identity and suffering.",
+          "key_moments": [
+            "Compeyson is identified as the betrayer",
+            "Magwitch recounts imprisonment and exploitation"
+          ]
+        },
+        {
+          "phase": "Reactivated threat",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Learning that Compeyson is alive in London makes the hostility immediate and dangerous again, turning memory into present threat.",
+          "key_moments": [
+            "Compeyson is alive in London",
+            "The threat becomes immediate and practical"
+          ]
+        },
+        {
+          "phase": "Failure-confirmed hostility",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "The failed escape and surrounding danger reinforce Compeyson as the force that continues to ruin Magwitch's hopes.",
+          "key_moments": [
+            "Escape attempt fails",
+            "Compeyson remains the embodiment of betrayal"
+          ]
+        }
+      ],
+      "evidence_summary": "Compeyson functions as Magwitch's defining antagonist: the source of betrayal, class humiliation, and ongoing danger. The relationship intensifies from remembered wrong to active menace."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Abel Magwitch",
+      "target_character": "Estella",
+      "dimension_label": "Hidden Paternity",
+      "axis_name": "From concealed fatherhood to tragic estrangement",
+      "pole_start": "A concealed paternal connection, with Magwitch linked to Estella through a child he once fathered or lost.",
+      "pole_end": "A relationship defined by distance, loss, and irrecoverable separation rather than direct intimacy.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Buried connection",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "The relationship is not yet active, but the later revelation implies a hidden paternal bond already severed by circumstance and secrecy.",
+          "key_moments": [
+            "No direct appearance in the early chapters",
+            "Background implication of hidden parentage"
+          ]
+        },
+        {
+          "phase": "Tragic clarification",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "The revelation about the murdered child deepens the sense that Estella's origin is bound to Magwitch's loss, but without restoring any direct relationship.",
+          "key_moments": [
+            "Wemmick's account identifies the murdered child connection",
+            "The bond remains indirect and unrecovered"
+          ]
+        }
+      ],
+      "evidence_summary": "Magwitch's connection to Estella is important but indirect in these events: it is a hidden paternal tie marked more by loss and severance than by interaction. The arc is real but limited."
+    }
+  ]
+}

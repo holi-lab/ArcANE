@@ -1,0 +1,539 @@
+{
+  "character": "Edward Rochester",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From guarded mastery to humbled interdependence",
+          "set_b_axis": "From commanding self-mastery to mutual interdependence",
+          "overlap_description": "Both describe Rochester moving from dominance, secrecy, and control toward a more reciprocal, dependent, and humble mode of relating by the novel's end."
+        },
+        {
+          "set_a_axis": "From self-justifying fatalism to penitential acceptance",
+          "set_b_axis": "From guarded concealment to repentant disclosure",
+          "overlap_description": "Both capture Rochester's shift away from defensive self-protection toward moral openness, confession, and acceptance of guilt and suffering."
+        },
+        {
+          "set_a_axis": "From ironic control to exposed vulnerability",
+          "set_b_axis": "From restless self-ruin to redeemed domestic peace",
+          "overlap_description": "Both track the collapse of Rochester's emotional defenses and his movement from turbulence and concealment toward a quieter, more vulnerable, and settled end-state."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-justifying fatalism to penitential acceptance",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guarded concealment to repentant disclosure",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From restless self-ruin to redeemed domestic peace",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From testing authority to humbled reciprocity",
+          "set_b_axis": "From testing authority to mutual, though unequal, intimacy",
+          "overlap_description": "Both describe the Rochester-Jane relationship moving from scrutiny, asymmetry, and control toward intimacy, dependence, and a more mutual bond."
+        },
+        {
+          "set_a_axis": "From hidden burden to acknowledged moral catastrophe",
+          "set_b_axis": "From hidden burden to openly acknowledged catastrophe",
+          "overlap_description": "Both track Bertha Mason as a concealed marital fact that becomes public catastrophe and a central source of Rochester's ruin and moral reckoning."
+        },
+        {
+          "set_a_axis": "From performative courtship to instrumental deception",
+          "set_b_axis": "From social flirtation to exposed instrumentalism",
+          "overlap_description": "Both identify Rochester's relation to Blanche Ingram as a social performance that is later revealed to be strategic, manipulative, and non-genuine."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From uneasy acquaintance to hostile witness",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guarded reliance to secretive containment",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From guarded mastery to mutual interdependence",
+      "pole_start": "Rochester begins as a highly agentic, self-assertive, controlling figure who values secrecy, mastery, and emotional independence, using authority and performance to dominate his household and relationships.",
+      "pole_end": "He ends as a humbled, receptive, and still-active partner who accepts care, dependence, intimacy, and shared life with Jane without needing to dominate the bond.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Mastery and control",
+          "chapter_range": [
+            11,
+            20
+          ],
+          "position_description": "Rochester is introduced as a commanding household presence: brusque, testing, secretive, and invested in controlling information, social scenes, and emotional distance.",
+          "key_moments": [
+            "First encounter on the lane after the horse slips",
+            "Drawing-room questioning of Jane",
+            "Late-night probing conversations and confessional fragments",
+            "Gipsy disguise and management of the Mason crisis"
+          ]
+        },
+        {
+          "phase": "Possessive intimacy",
+          "chapter_range": [
+            21,
+            25
+          ],
+          "position_description": "His agency becomes fused with attachment. He seeks Jane's confidence and love, but also tries to shape her future, manage her appearance, and keep relational power through secrecy and emotional pressure.",
+          "key_moments": [
+            "Pressing Jane to accept money and future support",
+            "Testing her with the Blanche Ingram courtship",
+            "Open proposal and engagement",
+            "Attempts to dress and arrange Jane according to his wishes",
+            "Concealment of Bertha and the veil incident"
+          ]
+        },
+        {
+          "phase": "Collapse and chastening",
+          "chapter_range": [
+            26,
+            27
+          ],
+          "position_description": "Public exposure destroys his controlling self-image. He is forced into anguish, remorse, and recognition that he cannot possess Jane through deception or force.",
+          "key_moments": [
+            "Briggs exposes the existing marriage at the church",
+            "Jane refuses to become his mistress",
+            "Jane leaves and Rochester is left in anguish"
+          ]
+        },
+        {
+          "phase": "Humbled dependence and renewed mutuality",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "After bodily ruin and Jane's return, Rochester is no longer the masterful controller. He accepts dependence, repentance, and care, and the relationship becomes reciprocal and spiritually softened.",
+          "key_moments": [
+            "Loss of eye and hand, then full blindness",
+            "Jane's return to Ferndean and his ecstatic recognition of her",
+            "Repentance and interpretation of suffering as divine chastening",
+            "Partial recovery of sight and shared future with Jane"
+          ]
+        }
+      ],
+      "evidence_summary": "Rochester's arc is defined by the tension between dominance and attachment. He begins controlling and self-protective, moves into possessive emotional dependence, is broken by exposure and loss, and ends in a more humbled, interdependent mode of being."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "secrecy-honesty",
+      "axis_name": "From guarded concealment to repentant disclosure",
+      "pole_start": "Rochester begins deeply secretive and compartmentalized, withholding the truth about his past, his household, and his intentions while managing others through performance and selective revelation.",
+      "pole_end": "He ends more open, morally candid, and confessionally oriented, able to name guilt, accept judgment, and live without the same need for concealment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Controlled opacity",
+          "chapter_range": [
+            11,
+            20
+          ],
+          "position_description": "He conceals his inner life and domestic secrets, revealing only fragments to Jane while keeping Bertha, Grace Poole, and his marital history hidden.",
+          "key_moments": [
+            "Enigmatic offstage presence at Thornfield",
+            "Late-night partial confessions",
+            "Fire secrecy",
+            "Gipsy disguise",
+            "Mason crisis managed in private"
+          ]
+        },
+        {
+          "phase": "Strategic deception",
+          "chapter_range": [
+            22,
+            26
+          ],
+          "position_description": "His secrecy hardens into active deception: he stages the Blanche Ingram courtship, withholds the truth from Jane, and tries to force the marriage forward before disclosure becomes unavoidable.",
+          "key_moments": [
+            "Maintains ambiguity about Blanche",
+            "Proposes to Jane while concealing the legal truth",
+            "Attempts to proceed with wedding despite bigamy"
+          ]
+        },
+        {
+          "phase": "Forced confession",
+          "chapter_range": [
+            26,
+            27
+          ],
+          "position_description": "When exposed, he is compelled into direct admission of the truth. He can no longer sustain concealment and begins to speak more openly about his past and guilt.",
+          "key_moments": [
+            "Bertha revealed at the altar",
+            "Admits the marriage is invalid",
+            "Explains his past and ruined hopes to Jane"
+          ]
+        },
+        {
+          "phase": "Repentant openness",
+          "chapter_range": [
+            37,
+            38
+          ],
+          "position_description": "At Ferndean he is no longer defined by concealment; he accepts vulnerability, speaks with moral clarity, and lives within a more transparent emotional and spiritual frame.",
+          "key_moments": [
+            "Acknowledges divine chastisement",
+            "Accepts Jane's knowledge of his broken state",
+            "Lives in settled domestic openness"
+          ]
+        }
+      ],
+      "evidence_summary": "A major throughline of Rochester's arc is the collapse of secrecy. He moves from manipulation and compartmentalization to confession, repentance, and a more honest relational life."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "self-judgment",
+      "axis_name": "From self-justifying fatalism to humbled repentance",
+      "pole_start": "Rochester begins by minimizing wrongdoing, framing his conduct as error, fate, or circumstance, and protecting his self-image through wit, fatalism, and blame-shifting.",
+      "pole_end": "He ends in genuine repentance, interpreting suffering as deserved correction and accepting moral accountability before God and Jane.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Partial self-critique",
+          "chapter_range": [
+            14,
+            20
+          ],
+          "position_description": "He admits regret and shame, but still turns self-criticism into self-dramatization and excuses his conduct as shaped by destiny or bad luck.",
+          "key_moments": [
+            "Calls his past a misuse of life",
+            "Describes himself as worldly and restless",
+            "Frames wrongdoing as an error rather than a crime"
+          ]
+        },
+        {
+          "phase": "Defensive escalation",
+          "chapter_range": [
+            23,
+            27
+          ],
+          "position_description": "His rationalization hardens under pressure. He insists his love for Jane justifies exceptional action, blames Bertha and circumstance, and resists full moral reckoning even after the wedding collapses.",
+          "key_moments": [
+            "Claims Jane is his equal and therefore his rightful partner",
+            "Justifies the Blanche deception",
+            "Blames Bertha and social fraud for his ruin"
+          ]
+        },
+        {
+          "phase": "Repentant humility",
+          "chapter_range": [
+            37,
+            38
+          ],
+          "position_description": "He finally accepts suffering as morally meaningful, not merely unfortunate. He speaks in the language of chastisement, mercy, and gratitude, showing a more stable repentance than earlier self-reproach.",
+          "key_moments": [
+            "Interprets blindness and loss as divine correction",
+            "Expresses gratitude and moral humility",
+            "Accepts dependence without shame"
+          ]
+        }
+      ],
+      "evidence_summary": "Rochester's self-understanding evolves from defensive rationalization to genuine repentance. The shift is incomplete in the middle of the novel but becomes clear and durable by the end."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "despair-renewal",
+      "axis_name": "From restless self-ruin to redeemed domestic peace",
+      "pole_start": "Rochester begins emotionally restless, brooding, and inwardly damaged, with his life marked by shame, jealousy, and unresolved burden.",
+      "pole_end": "He ends in stable, grateful contentment, with suffering transformed into a basis for intimacy, humility, and peace.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Restless dissatisfaction",
+          "chapter_range": [
+            14,
+            20
+          ],
+          "position_description": "He is emotionally volatile, brooding, and dissatisfied with his past and present, even when witty or affectionate.",
+          "key_moments": [
+            "Confessional late-night talk",
+            "Fire scene",
+            "Mason crisis"
+          ]
+        },
+        {
+          "phase": "Crisis and collapse",
+          "chapter_range": [
+            26,
+            36
+          ],
+          "position_description": "His emotional world breaks apart after the failed wedding and Thornfield's destruction. He is left in grief, isolation, blindness, and likely despair.",
+          "key_moments": [
+            "Wedding exposed as invalid",
+            "Jane leaves",
+            "Thornfield burns",
+            "Rochester is left blind at Ferndean"
+          ]
+        },
+        {
+          "phase": "Renewed peace",
+          "chapter_range": [
+            37,
+            38
+          ],
+          "position_description": "Jane's return reanimates him, and the novel closes with a settled, grateful happiness that replaces earlier turbulence.",
+          "key_moments": [
+            "Jane returns to Ferndean",
+            "He is joyfully revived",
+            "Marriage becomes a stable domestic reality"
+          ]
+        }
+      ],
+      "evidence_summary": "Rochester's emotional arc is not linear improvement but a collapse followed by renewal. The ending is quieter and more integrated than the beginning, with suffering converted into peace."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Edward Rochester",
+      "target_character": "Jane Eyre",
+      "dimension_label": "control-mutuality",
+      "axis_name": "From testing authority to mutual intimacy",
+      "pole_start": "Rochester begins by treating Jane as a subordinate to be assessed, tested, and managed, with curiosity but little emotional openness.",
+      "pole_end": "He ends in a deeply intimate marriage marked by affection, trust, dependence, and shared domestic life, with his possessive streak reduced though not erased.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Testing curiosity",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "He questions Jane's background and drawings, using authority and scrutiny rather than vulnerability.",
+          "key_moments": [
+            "First direct meeting",
+            "Questions Jane about her life and art"
+          ]
+        },
+        {
+          "phase": "Confessional attachment",
+          "chapter_range": [
+            14,
+            20
+          ],
+          "position_description": "He increasingly trusts Jane as a confidante and moral witness, drawing her into private conversation and relying on her emotional steadiness.",
+          "key_moments": [
+            "Late-night confession",
+            "Fire rescue",
+            "Mason crisis and gipsy disguise"
+          ]
+        },
+        {
+          "phase": "Possessive courtship",
+          "chapter_range": [
+            22,
+            27
+          ],
+          "position_description": "His attachment becomes openly romantic and possessive. He seeks to bind Jane to him through marriage, but also tries to control the terms of her knowledge and consent.",
+          "key_moments": [
+            "Open proposal",
+            "Wedding interruption",
+            "Attempts to persuade Jane to stay after the revelation"
+          ]
+        },
+        {
+          "phase": "Mutual domesticity",
+          "chapter_range": [
+            37,
+            38
+          ],
+          "position_description": "Their relationship settles into reciprocal love and care. He depends on Jane physically and emotionally, while she freely chooses him as husband and companion.",
+          "key_moments": [
+            "Jane returns to Ferndean",
+            "He accepts her guidance",
+            "Stable married life"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Rochester's central relational arc: Jane moves from being an object of scrutiny and desire to a chosen partner whose presence reorganizes his emotional and moral life."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Edward Rochester",
+      "target_character": "Bertha Mason",
+      "dimension_label": "concealment-confrontation",
+      "axis_name": "From hidden burden to openly acknowledged catastrophe",
+      "pole_start": "Bertha begins as a concealed, managed secret: Rochester treats her as something to hide, contain, and keep out of public and moral view.",
+      "pole_end": "She ends as the openly acknowledged catastrophe at the center of his ruined marriage and destroyed life, though he still frames her in dehumanizing terms.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hidden containment",
+          "chapter_range": [
+            15,
+            25
+          ],
+          "position_description": "Bertha is kept secret through Grace Poole, locked spaces, and Rochester's evasions. She is a source of fear and concealment rather than direct confrontation.",
+          "key_moments": [
+            "Fire at Thornfield",
+            "Grace Poole's suspicious role",
+            "Veil incident",
+            "Repeated evasions about the third storey"
+          ]
+        },
+        {
+          "phase": "Public revelation",
+          "chapter_range": [
+            26,
+            27
+          ],
+          "position_description": "At the altar, Bertha is revealed as the legal obstacle to marriage and the embodied truth Rochester can no longer suppress.",
+          "key_moments": [
+            "Mr. Mason and Mr. Briggs expose the marriage",
+            "Bertha is brought into view",
+            "Rochester admits the bigamy"
+          ]
+        },
+        {
+          "phase": "Tragic aftermath",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "After Thornfield's destruction, Bertha becomes the catastrophic force that has ended his former life. Rochester's relation to her is now one of tragic consequence and moral ruin.",
+          "key_moments": [
+            "Thornfield burns",
+            "Rochester is blinded and maimed",
+            "His life is reconstituted only after her death"
+          ]
+        }
+      ],
+      "evidence_summary": "Bertha's relation to Rochester is defined by concealment, then revelation, then catastrophic aftermath. The arc is less about emotional development than about the collapse of a secret structure of control."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Edward Rochester",
+      "target_character": "Blanche Ingram",
+      "dimension_label": "performance-deception",
+      "axis_name": "From social flirtation to exposed instrumentalism",
+      "pole_start": "Rochester begins by appearing publicly flirtatious and potentially interested, using Blanche as part of his social performance and as a possible cover for his private life.",
+      "pole_end": "He ends as clearly detached and instrumental, with Blanche revealed as a decoy or social mask rather than a genuine romantic attachment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Public courtship performance",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "He courts Blanche in company, apparently as a serious suitor, while Jane and the reader suspect a strategic or theatrical purpose.",
+          "key_moments": [
+            "Socializing at the Leas",
+            "Flirtation in front of guests",
+            "Jane's growing jealousy"
+          ]
+        },
+        {
+          "phase": "Strategic deception",
+          "chapter_range": [
+            19,
+            23
+          ],
+          "position_description": "The Blanche courtship is increasingly revealed as a performance designed to test Jane, manage society, and conceal his true attachment.",
+          "key_moments": [
+            "Gipsy disguise",
+            "Continued ambiguity about engagement",
+            "Open proposal to Jane reveals Blanche is not the true intended bride"
+          ]
+        },
+        {
+          "phase": "Discarded mask",
+          "chapter_range": [
+            24,
+            26
+          ],
+          "position_description": "Blanche loses all romantic centrality once Jane accepts him and the marriage plot collapses. She is exposed as part of the machinery of deception rather than a real beloved.",
+          "key_moments": [
+            "Wedding preparations with Jane",
+            "Marriage interruption",
+            "Blanche no longer matters after exposure"
+          ]
+        }
+      ],
+      "evidence_summary": "Rochester's relation to Blanche is not a true love arc but a performance arc. It moves from apparent courtship to revealed instrumental use."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Edward Rochester",
+      "target_character": "Mr. Mason",
+      "dimension_label": "threat-management",
+      "axis_name": "From latent threat to hostile witness",
+      "pole_start": "Mason begins as a socially distant figure whose arrival signals the return of Rochester's buried past.",
+      "pole_end": "He ends as a hostile witness and source of exposure, associated with dread, injury, and the collapse of Rochester's secrecy.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Latent threat",
+          "chapter_range": [
+            18,
+            19
+          ],
+          "position_description": "Mason's arrival unsettles Rochester because it signals that the past is returning in embodied form.",
+          "key_moments": [
+            "Mason arrives from Jamaica",
+            "Rochester's shock when Jane mentions Mason"
+          ]
+        },
+        {
+          "phase": "Containment and confrontation",
+          "chapter_range": [
+            19,
+            26
+          ],
+          "position_description": "Rochester tries to control Mason privately, but Mason's presence ultimately contributes to the public exposure of Rochester's marriage and disgrace.",
+          "key_moments": [
+            "Private summoning of Mason",
+            "Nocturnal crisis and injury",
+            "Wedding interruption and testimony"
+          ]
+        }
+      ],
+      "evidence_summary": "Mason functions as the living return of Rochester's past and a catalyst for his collapse."
+    }
+  ]
+}

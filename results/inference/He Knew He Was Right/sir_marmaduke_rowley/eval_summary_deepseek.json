@@ -1,0 +1,279 @@
+{
+  "novel": "He Knew He Was Right",
+  "character": "sir_marmaduke_rowley",
+  "judge_model": "deepseek/deepseek-v4-flash",
+  "score_scale": 100,
+  "by_model": {
+    "deepseek/deepseek-v4-flash": {
+      "vanilla": {
+        "apf": 44.615,
+        "rpf": 47.981,
+        "rae": 36.538,
+        "average": 43.045,
+        "n": 52
+      },
+      "summary": {
+        "apf": 45.385,
+        "rpf": 47.308,
+        "rae": 37.019,
+        "average": 43.237,
+        "n": 52
+      },
+      "rag": {
+        "apf": 47.788,
+        "rpf": 49.327,
+        "rae": 39.519,
+        "average": 45.545,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 44.038,
+        "rpf": 45.673,
+        "rae": 34.904,
+        "average": 41.538,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 49.423,
+        "rpf": 51.923,
+        "rae": 41.731,
+        "average": 47.693,
+        "n": 52
+      },
+      "arc": {
+        "apf": 60.0,
+        "rpf": 60.385,
+        "rae": 53.654,
+        "average": 58.013,
+        "n": 52
+      }
+    },
+    "deepseek/deepseek-v4-pro": {
+      "vanilla": {
+        "apf": 45.096,
+        "rpf": 47.404,
+        "rae": 36.635,
+        "average": 43.045,
+        "n": 52
+      },
+      "summary": {
+        "apf": 39.327,
+        "rpf": 42.692,
+        "rae": 31.827,
+        "average": 37.949,
+        "n": 52
+      },
+      "rag": {
+        "apf": 42.596,
+        "rpf": 45.481,
+        "rae": 33.654,
+        "average": 40.577,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 45.0,
+        "rpf": 46.923,
+        "rae": 36.538,
+        "average": 42.821,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 43.654,
+        "rpf": 45.577,
+        "rae": 37.981,
+        "average": 42.404,
+        "n": 52
+      },
+      "arc": {
+        "apf": 53.269,
+        "rpf": 56.346,
+        "rae": 47.885,
+        "average": 52.501,
+        "n": 52
+      }
+    },
+    "Qwen/Qwen3-8B": {
+      "vanilla": {
+        "apf": 36.058,
+        "rpf": 38.654,
+        "rae": 28.269,
+        "average": 34.327,
+        "n": 52
+      },
+      "summary": {
+        "apf": 32.308,
+        "rpf": 33.846,
+        "rae": 24.231,
+        "average": 30.128,
+        "n": 52
+      },
+      "rag": {
+        "apf": 34.712,
+        "rpf": 35.962,
+        "rae": 25.577,
+        "average": 32.083,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 30.865,
+        "rpf": 32.692,
+        "rae": 22.308,
+        "average": 28.621,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 35.481,
+        "rpf": 37.308,
+        "rae": 26.827,
+        "average": 33.205,
+        "n": 52
+      },
+      "arc": {
+        "apf": 41.154,
+        "rpf": 43.846,
+        "rae": 32.596,
+        "average": 39.199,
+        "n": 52
+      }
+    },
+    "Qwen/Qwen3-32B": {
+      "vanilla": {
+        "apf": 34.327,
+        "rpf": 35.192,
+        "rae": 26.442,
+        "average": 31.987,
+        "n": 52
+      },
+      "summary": {
+        "apf": 38.269,
+        "rpf": 39.808,
+        "rae": 28.75,
+        "average": 35.609,
+        "n": 52
+      },
+      "rag": {
+        "apf": 39.231,
+        "rpf": 40.192,
+        "rae": 31.346,
+        "average": 36.923,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 38.846,
+        "rpf": 40.0,
+        "rae": 30.577,
+        "average": 36.474,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 32.5,
+        "rpf": 32.212,
+        "rae": 23.846,
+        "average": 29.519,
+        "n": 52
+      },
+      "arc": {
+        "apf": 57.981,
+        "rpf": 56.442,
+        "rae": 49.038,
+        "average": 54.487,
+        "n": 52
+      }
+    },
+    "arcane-8B-dpo": {
+      "vanilla": {
+        "apf": 41.538,
+        "rpf": 43.462,
+        "rae": 33.269,
+        "average": 39.423,
+        "n": 52
+      },
+      "summary": {
+        "apf": 40.288,
+        "rpf": 43.173,
+        "rae": 32.404,
+        "average": 38.622,
+        "n": 52
+      },
+      "rag": {
+        "apf": 46.635,
+        "rpf": 48.077,
+        "rae": 39.808,
+        "average": 44.84,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 39.712,
+        "rpf": 42.019,
+        "rae": 30.865,
+        "average": 37.532,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 38.365,
+        "rpf": 39.712,
+        "rae": 29.712,
+        "average": 35.93,
+        "n": 52
+      },
+      "arc": {
+        "apf": 69.231,
+        "rpf": 66.923,
+        "rae": 65.0,
+        "average": 67.052,
+        "n": 52
+      }
+    },
+    "arcane-32B-dpo": {
+      "vanilla": {
+        "apf": 37.692,
+        "rpf": 41.058,
+        "rae": 28.942,
+        "average": 35.898,
+        "n": 52
+      },
+      "summary": {
+        "apf": 41.731,
+        "rpf": 44.423,
+        "rae": 32.692,
+        "average": 39.615,
+        "n": 52
+      },
+      "rag": {
+        "apf": 43.077,
+        "rpf": 44.231,
+        "rae": 34.231,
+        "average": 40.513,
+        "n": 52
+      },
+      "lifechoice": {
+        "apf": 45.481,
+        "rpf": 46.538,
+        "rae": 35.096,
+        "average": 42.372,
+        "n": 52
+      },
+      "timechara": {
+        "apf": 40.865,
+        "rpf": 43.654,
+        "rae": 32.692,
+        "average": 39.071,
+        "n": 52
+      },
+      "arc": {
+        "apf": 79.327,
+        "rpf": 75.481,
+        "rae": 77.692,
+        "average": 77.5,
+        "n": 52
+      }
+    }
+  },
+  "include_thought": true,
+  "this_run": {
+    "responses_scored": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0
+  }
+}

@@ -1,0 +1,1349 @@
+{
+  "character": "William Franklin",
+  "novel": "Benjamin_Franklin",
+  "version": "1.0",
+  "axis_source": "final_validated",
+  "families": [
+    {
+      "axis_id": "final_intra_01",
+      "axis_name": "From deferential dependence to sustained cooperative service",
+      "dimension_label": "Agency-Communion",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "Does William take on delegated operational responsibilities in support of Benjamin's mission, or remain behaviorally absent from the action?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "William shifts from not appearing at all to actively accepting delegated public tasks, including accompanying Benjamin and making contracts on his authority."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "William shifts from delegated civil logistical service to delegated military field service, continuing to act in support rather than independently."
+        },
+        {
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "contrast": "William shifts from actively carrying out cooperative military duties back to behavioral absence from the narrative."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "The balance between dependent affiliation and modestly agentic cooperation in socially guided role functioning.",
+        "abstract_phases": [
+          "Behaviorally unexpressed, with no observable position on the dependence-cooperation axis",
+          "Affiliative dependence expressed through trusted, delegated task execution",
+          "Competent cooperative functioning in higher-responsibility support roles without full autonomy",
+          "Return to behavioral nonappearance, leaving the prior cooperative-dependent pattern unchanged"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "young_adult",
+          "approx_age": "early 20s",
+          "rationale": "In chapters 1-15 William is absent, but when he first appears immediately afterward in entrusted public and military-support roles, the surrounding evidence best fits a young adult not yet shown as independently established."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "about 23-25",
+          "rationale": "In chapter 16, being trusted to accompany Benjamin Franklin and execute wagon-and-horse contracts indicates substantial responsibility typical of a young adult acting under a senior figure's delegated authority."
+        },
+        "2": {
+          "life_stage": "young_adult",
+          "approx_age": "mid-20s",
+          "rationale": "In chapter 17, serving as an aid-de-camp and helping raise forts and manage troops suggests a capable young adult in early public-service and military responsibility rather than a fully mature independent adult."
+        },
+        "3": {
+          "life_stage": "young_adult",
+          "approx_age": "mid-20s",
+          "rationale": "In chapters 18-19 William is absent again, so the best estimate remains the same young-adult stage established by his immediately preceding delegated and collaborative service roles."
+        }
+      },
+      "n_phases": 4,
+      "probes": [
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Absent from the narrative",
+          "anchor_query_chapter": 8,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "The balance between dependent affiliation and modestly agentic cooperation in socially guided role functioning.",
+          "abstract_phases": [
+            "Behaviorally unexpressed, with no observable position on the dependence-cooperation axis",
+            "Affiliative dependence expressed through trusted, delegated task execution",
+            "Competent cooperative functioning in higher-responsibility support roles without full autonomy",
+            "Return to behavioral nonappearance, leaving the prior cooperative-dependent pattern unchanged"
+          ],
+          "scenario": "At the village storehouse, Benjamin Franklin is called away while tenants crowd the yard, waiting to know which carts, oxen, and sacks of grain will be sent upriver for a pressing public need. Several men turn to William Franklin, expecting an answer in his father's stead.",
+          "question": "How does William Franklin respond when the yard begins looking to him for direction?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "William Franklin hangs back near the doorway and lets an older man answer the questions.",
+              "gt_speech": null,
+              "gt_thought": "William is not yet one to step into the middle of another man's business. Being looked at does not feel like a summons to act so much as a sign he ought not presume.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0 well: William remains behaviorally absent and deferential, and the action/thought use era-appropriate, non-anachronistic language without implying knowledge or authority he has not yet acquired."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "He remains behaviorally absent and explicitly construes being looked to as a reason not to presume authority, which fits pre-introduction/non-participation more than delegated service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "William Franklin repeats Benjamin's terms and starts taking down the names of men willing to furnish carts and oxen.",
+              "gt_speech": "My father left the rates plain enough; give me your names and teams.",
+              "gt_thought": "He treats the moment as borrowed authority, not his own standing. If he can keep faith with Benjamin's instructions and be useful, that is enough.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit a young William Franklin in chapter 16: practical, deferential, and operating on his father's delegated authority, with era-appropriate wording and no knowledge beyond this point."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He is explicitly exercising delegated civil/logistical authority by repeating Benjamin's terms and collecting names for carts and oxen, while thinking of the role as borrowed from his father rather than independently his own."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "William Franklin assigns men to bring their carts by dawn and marks which loads should go first.",
+              "gt_speech": "You two come at first light; grain first, tools after. We must keep the road in order.",
+              "gt_thought": "William now reads confusion as work that must be sorted, and he trusts himself to sort it. He is still serving Benjamin's purpose, but the duty includes shaping other men's efforts on the spot.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and speech fit William's delegated, practical authority in chapter 17, and the thought plausibly shows modest confidence in directing men while still framing his role as service to Benjamin, with no clear anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "He is actively taking delegated logistical responsibility in Benjamin's stead—organizing carts and loads for a public need—without the specifically military field context that would point to phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "William Franklin withdraws from the knot of men and leaves the settling of teams to others present.",
+              "gt_speech": null,
+              "gt_thought": "With his father away, he does not take it as his place to speak for him unless directly charged. Better to let someone already answerable in the yard decide it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and thought fit William's chapter-18 position as behaviorally absent unless expressly tasked, and the language is era-appropriate, restrained, and deferential without importing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "The response expresses behavioral withdrawal and a belief that he should not act without explicit authorization, which fits absence from operational responsibility more than delegated service."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "William Franklin stays out of the knot of men and leaves the settling of teams to others present.",
+                "gt_speech": null,
+                "gt_thought": "Nothing in his later absence adds a new habit beyond the service already shown. In a moment like this, the record goes quiet again: he is simply not the one seen taking hold.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action fits his phase of renewed absence, but the thought is meta-narrative ('the record goes quiet again') and editorial rather than a plausible in-character young man’s thought in this setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response emphasizes renewed narrative silence and William not being the one who takes hold, which matches the later phase of behavioral absence rather than delegated service."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays internally consistent with a pre-industrial agrarian setting, keeps William Franklin as the protagonist without source-world leakage, and all phase summaries fit a young-adult life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are clearly separated on the target axis: P0→P1 shifts from nonintervention to delegated action, P1→P2 intensifies from repeating Benjamin's terms to actively directing logistics, and P2→P3 returns from operational command to withdrawal and absence."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Delegated public service",
+          "anchor_query_chapter": 16,
+          "era_label": null,
+          "scenario": "At a country ordinary, a worried farmer says he can furnish teams for public business, but only if someone will write the terms and answer his neighbors, who mistrust distant promises. Benjamin is shut up with other men and cannot come out at once.",
+          "question": "How does William Franklin answer the farmer and the room?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "He stays back and lets the older men settle it, offering no answer of his own.",
+              "gt_speech": null,
+              "gt_thought": "He has no settled place in the business, and public bargaining seems to belong to his father and other established men. Better not to speak beyond his warrant and do harm by forwardness.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "His silence and deferential thought fit a phase in which he is not yet active in the narrative, and the diction is suitably period-neutral without importing later responsibilities or modern phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "The response expresses behavioral nonparticipation and a self-construal of having no authorized role, which fits absence from operational action more than delegated service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "He steps forward, writes the terms plainly, and assures the farmer he may treat on Benjamin Franklin's credit.",
+              "gt_speech": "My father will make good fair terms; if you please, I will set them down.",
+              "gt_thought": "This is work put within his hands, and he means to be useful in it. He speaks because Benjamin's trust lends him standing, not because he seeks to shine apart.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, deferential speech, and modest inward motive fit William's chapter-16 role as Benjamin's trusted subordinate, and the diction is period-appropriate without reaching beyond what he could know."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response centers on William taking delegated civil/logistical responsibility on Benjamin's authority—writing terms and reassuring others explicitly as a trusted proxy, not as an independent or military actor."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "He takes the man's name, sets down the agreement, and quiets the room with a brisk practical answer.",
+              "gt_speech": "Set your conditions plainly, and I will enter them right, that there be no dispute after.",
+              "gt_thought": "He reads the uneasiness as a common hindrance to service, best cured by order and plain dealing. His part is to keep business moving for the larger work, not to make himself the principal figure.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit William's chapter-17 role as a brisk, deferential aide handling practical business in plain eighteenth-century terms, with no anachronism or knowledge beyond his delegated military service."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response shows William handling delegated logistical contracting with practical authority while explicitly seeing himself as keeping Benjamin's business moving rather than acting independently, which matches delegated public service more than military field duty or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "He does not interpose, and the farmer's appeal waits on Benjamin or another man in hand.",
+              "gt_speech": null,
+              "gt_thought": "William would take such business only under Benjamin's present direction; without that call, he does not make himself the room's answerer. The matter belongs to the public service, but not to him to seize of his own head.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The thought fits the period and William's chapter-18 position of deferential, delegated service, plausibly withholding action unless Benjamin or another present authority expressly sets him to it."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "His thought shows a deferential willingness to handle public business only under Benjamin's explicit authority, which fits delegated service more than military field participation or simple narrative absence."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He is not present to answer; the exchange passes without any act from him.",
+                "gt_speech": null,
+                "gt_thought": "At this point the narrative gives no place where he takes hold of the moment. The available pattern is simply his absence from the action, not a new manner of response.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "pass",
+                    "note": "This fits phase 3 because William is simply absent from the action, and the narration avoids anachronism or knowledge beyond chapter 18, though the thought is meta-narrative rather than personal."
+                  },
+                  "phase_fit": {
+                    "verdict": "off_phase",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 3,
+                    "confidence": "medium",
+                    "note": "The response is defined entirely by William's absence from the scene and explicitly says the narrative gives him no role in the action, which matches the absent-from-the-narrative position more than any delegated service phase."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the mid-18th-century Braddock-campaign context with ordinary inns, written contract terms, and William's delegated authority, includes only plausible contemporaries, and evokes but does not directly reproduce the canonical wagon-contract scene."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both phases show William actively taking delegated responsibility by writing terms and reassuring others, with Phase 2 only adding a slightly brisker, more field-practical style rather than a different decision-variable answer."
+                }
+              ],
+              "note": "P0→P1 and P2→P3 are clearly separated by absence versus active delegated action, while P1→P2 remains substantively the same choice on this axis: cooperative operational service in Benjamin’s mission."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Delegated public service",
+          "anchor_query_chapter": 16,
+          "era_label": "speculative_near_future",
+          "era_description": "50–100 years forward. Plausible tech extrapolation, no magic; recognizable institutions evolved.",
+          "abstract_axis": "The balance between dependent affiliation and modestly agentic cooperation in socially guided role functioning.",
+          "abstract_phases": [
+            "Behaviorally unexpressed, with no observable position on the dependence-cooperation axis",
+            "Affiliative dependence expressed through trusted, delegated task execution",
+            "Competent cooperative functioning in higher-responsibility support roles without full autonomy",
+            "Return to behavioral nonappearance, leaving the prior cooperative-dependent pattern unchanged"
+          ],
+          "scenario": "At a regional emergency hub, a senior civic leader forwards William Franklin a signed request and says the supply convoy, field team, and local partners will follow his word on the ground. Other people are already looking to him for the next instruction.",
+          "question": "How does William Franklin respond when the room turns toward him for direction?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "William hangs back near the wall and watches for someone else to take charge.",
+              "gt_speech": null,
+              "gt_thought": "William does not step into the moment. The request feels meant for people already inside the work, and he reads himself as outside the action rather than the person to carry it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0 because William is effectively absent from public action and the thought stays generic, age-plausible, and free of later-knowledge or setting-breaking language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He behaviorally withdraws and explicitly construes himself as outside the work rather than as a delegated helper, which matches narrative absence rather than operational service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "William accepts the request packet and starts confirming transport agreements under the leader's authority.",
+              "gt_speech": "I'll carry it through as instructed and keep the terms clear.",
+              "gt_thought": "He treats the trust as borrowed authority that must be used carefully and faithfully. What matters is proving dependable in another man's public work, not making the mission his own.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits phase-1 William as a dutiful young subordinate exercising delegated authority with careful fidelity, and its language is neutral enough to suit a speculative near-future civic setting without introducing later knowledge or obvious anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response centers on delegated civil-logistical responsibility—confirming transport agreements under another leader's authority—and the thought explicitly frames his role as careful, borrowed public service rather than independent command."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "William takes the packet and begins assigning routes, timing, and support tasks to keep the team moving.",
+              "gt_speech": "I'll keep the crews supplied and send updates as the line shifts.",
+              "gt_thought": "He sees a live field problem that needs steady hands, clear orders, and follow-through. He is more practiced now in carrying responsibility, though he still understands himself as serving the larger mission rather than leading for its own sake.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits William's chapter-17 role as a dependable delegated operator—practical, cooperative, and mission-oriented—and its near-future wording ('packet,' 'updates,' 'line shifts') is plausible without sounding anachronistic or too self-authorizing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He is actively directing field logistics under delegated authority and explicitly thinks of himself as serving a larger mission rather than leading independently, which best matches collaborative military-style service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "William remains offscreen and takes no visible part in the handoff.",
+              "gt_speech": null,
+              "gt_thought": "He is elsewhere when the call for direction comes, so the moment passes to other hands. If he were wanted, he would expect to be sent for plainly.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The offscreen nonresponse fits phase 3's renewed absence, and the thought is era-neutral and plausibly deferential without introducing knowledge beyond chapter 18."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is defined by William's behavioral absence and offscreen nonparticipation, with the thought also framing him as not presently summoned into action rather than taking delegated responsibility."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "William remains offscreen and takes no visible part in the handoff.",
+                "gt_speech": null,
+                "gt_thought": "No new behavior appears here. The cooperative, dutiful pattern established earlier is not revised, only left unshown in this moment.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The meta-critical thought ('No new behavior appears here... pattern established earlier') is not plausible in-character cognition for William and reads like external arc analysis rather than a young man's thought in-scene, even though the offscreen absence itself fits phase 3."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response explicitly presents William as behaviorally absent and says no new action or development is shown, which matches the later 'no further development' absence phase more closely than an active delegated-service phase."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays plausibly speculative-near-future with evolved civic emergency logistics, contains no source-world leakage, keeps William Franklin as the protagonist in every phase summary, and all phases are compatible with a young-adult life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are differentiated on the target axis: P0→P1 shifts from nonparticipation to delegated action, P1→P2 shifts from civil contract execution to more active field coordination while remaining delegated, and P2→P3 shifts back from active operational responsibility to absence."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Collaborative military service",
+          "anchor_query_chapter": 17,
+          "era_label": null,
+          "scenario": "At Bethlehem in January, Benjamin Franklin has gathered companies for the frontier and is sending detachments to raise forts after the destruction of Gnadenhut. With troops, tools, and wagons ready, the march is to begin under Benjamin’s command.",
+          "question": "How does William Franklin respond as his father sets the force in motion for the fort-building expedition?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "He does not appear in the scene.",
+              "gt_speech": null,
+              "gt_thought": "At this point in the story, William has not yet been introduced as a participant in Benjamin's affairs. The expedition is not yet framed through any visible role or inward processing of his.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "Though the action of being absent fits phase 0, the thought is out-of-world meta narration ('at this point in the story,' 'not yet been introduced') rather than plausible in-character cognition for William in this setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response explicitly says William does not appear and has not yet been introduced, which matches the initial absent-from-the-narrative phase rather than any delegated service role."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He does not appear in the scene and takes no part in the march or preparations.",
+                "gt_speech": null,
+                "gt_thought": "No response is available at this point in the narrative; William has not yet entered the action. The situation passes without any visible role or inward stance from him.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "pass",
+                    "note": "This fits phase 0 because William is correctly absent from the action, and the neutral meta phrasing introduces no anachronism or knowledge beyond chapter 8."
+                  },
+                  "phase_fit": {
+                    "verdict": "off_phase",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "The response is defined by William’s complete absence from the military expedition scene, which matches the later 'no further development' phase of behavioral nonappearance after his prior active service."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "He attends Benjamin as the march is set on foot, waiting for the errand he may be given.",
+              "gt_speech": "I am ready, sir, if you have occasion for me.",
+              "gt_thought": "He takes it as his father's business and is content to be useful in it. If something is to be done, he expects it will be given him to do.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits William's deferential, delegated role at chapter 16: the speech and thought are plain, period-appropriate, and oriented toward serving Benjamin's business without claiming independent authority."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 1,
+                  "confidence": "medium",
+                  "note": "The response shows William present in the expedition as a deferential helper awaiting delegated tasks, which fits active cooperative service in Benjamin’s military fort-building mission more than mere public contracting or absence."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He falls in beside Benjamin and waits to carry whatever errand or instruction is given him for the expedition.",
+                "gt_speech": "I am ready, sir, if you have business for me.",
+                "gt_thought": "He reads the moment as his father's undertaking and looks for the useful task that may be put into his hands. Service feels proper when authority is plainly delegated and tied to Benjamin's purpose.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the deferential action and speech fit, the thought improperly imports chapter-17 military service at Bethlehem and uses abstract modern phrasing ('reads the moment,' 'authority is plainly delegated') that sounds more analytical than a young man in this setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 1,
+                    "confidence": "medium",
+                    "note": "The response places William physically with the expedition and cognitively frames himself as a deferential helper awaiting delegated duties within Benjamin's active frontier mission, which fits collaborative military service more than mere public contracting."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "He serves as Benjamin Franklin's aid-de-camp and makes himself useful in the business of raising forts and managing the troops.",
+              "gt_speech": null,
+              "gt_thought": "He construes the expedition as practical work to be done under his father's command, not as a stage for himself. His value lies in being steadily useful where the press of men, orders, and movement needs a dependable hand.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits William’s chapter-17 role exactly: the action and thought are period-neutral, deferential, and practically useful under Benjamin’s command, without anachronism or knowledge beyond the expedition."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response explicitly places William in delegated military field service as Benjamin's aid-de-camp, usefully helping raise forts and manage troops without asserting independent authority."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "He is not present in the scene and does not take on any visible part in the expedition.",
+              "gt_speech": null,
+              "gt_thought": "He leaves the business to those already under Benjamin's hand and does not press himself forward into it. The expedition goes on without any move from him to join or assist.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 3 because William is simply absent from the action, and the thought uses plain, period-appropriate language without introducing knowledge or agency beyond what the chapter supports."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is defined by William’s complete absence from the expedition and lack of any operational role, which matches the later 'no further development' phase of behavioral nonappearance rather than either delegated service phase."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He is not present in the scene and does not take on any visible part in the expedition.",
+                "gt_speech": null,
+                "gt_thought": "By this phase the narrative gives no further instance of him stepping into such work here. The same call to service draws no recorded action from him, leaving only absence where his earlier usefulness had been shown.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action fits his phase-3 absence, but the thought is meta-narrative ('By this phase the narrative gives no further instance,' 'no recorded action') rather than plausible in-character cognition for William in this setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response emphasizes William's behavioral absence after earlier usefulness, which matches the later 'no further development' phase rather than his initial pre-introduction absence."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": {
+            "chapter": 17,
+            "event_id": "ch17_evt01",
+            "event_description": "William Franklin serves as Benjamin Franklin's aid-de-camp during the frontier defense expedition, helping with the raising of forts and the management of troops.",
+            "first_words": "While the several companies in the",
+            "last_words": "me five waggons for our tools, stores, baggage, etc.",
+            "key_moment": "William Franklin serves as Benjamin Franklin's aid-de-camp",
+            "verbatim_passage": "While the several companies in the city and country were forming, and\nlearning their exercise, the governor prevail'd with me to take charge\nof our North-western frontier, which was infested by the enemy, and\nprovide for the defense of the inhabitants by raising troops and\nbuilding a line of forts. I undertook this military business, tho' I\ndid not conceive myself well qualified for it. He gave me a commission\nwith full powers, and a parcel of blank commissions for officers, to\nbe given to whom I thought fit. I had but little difficulty in raising\nmen, having soon five hundred and sixty under my command. My son, who\nhad in the preceding war been an officer in the army rais'd against\nCanada, was my aid-de-camp, and of great use to me. The Indians had\nburned Gnadenhut,[103] a village settled by the Moravians, and massacred\nthe inhabitants; but the place was thought a good situation for one of\nthe forts.\n\n    [103] Pronounced Gna´-den-hoot.\n\nIn order to march thither, I assembled the companies at Bethlehem, the\nchief establishment of those people. I was surprised to find it in so\ngood a posture of defense; the destruction of Gnadenhut had made them\napprehend danger. The principal buildings were defended by a stockade;\nthey had purchased a quantity of arms and ammunition from New York,\nand had even plac'd quantities of small paving stones between the\nwindows of their high stone houses, for their women to throw down upon\nthe heads of any Indians that should attempt to force into them. The\narmed brethren, too, kept watch, and reliev'd as methodically as in\nany garrison town. In conversation with the bishop, Spangenberg, I\nmention'd this my surprise; for, knowing they had obtained an act of\nParliament exempting them from military duties in the colonies, I had\nsuppos'd they were conscientiously scrupulous of bearing arms. He\nanswer'd me that it was not one of their established principles, but\nthat, at the time of their obtaining that act, it was thought to be a\nprinciple with many of their people. On this occasion, however, they,\nto their surprise, found it adopted by but a few. It seems they were\neither deceiv'd in themselves, or deceiv'd the Parliament; but common\nsense, aided by present danger, will sometimes be too strong for\nwhimsical opinions.\n\nIt was the beginning of January when we set out upon this business of\nbuilding forts. I sent one detachment toward the Minisink, with\ninstructions to erect one for the security of that upper part of the\ncountry, and another to the lower part, with similar instructions; and\nI concluded to go myself with the rest of my force to Gnadenhut, where\na fort was tho't more immediately necessary. The Moravians procur'd me\nfive waggons for our tools, stores, baggage, etc."
+          },
+          "probe_id": "william_franklin_final_intra_01_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the Bethlehem January fort-building setup, and the response faithfully paraphrases that William is Benjamin’s aid-de-camp and useful in the expedition, with no invented speech and only a modestly inferable thought of dutiful subordinate usefulness."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both phases depict William as present and usefully serving under Benjamin's direction, with Phase 2 adding military specificity but not a clearly different answer on the absent-vs-delegated-responsibility axis."
+                }
+              ],
+              "note": "P0→P1 and P2→P3 are clearly separated by absence versus active delegated participation, while P1→P2 remains close because both show cooperative subordinate service in support of Benjamin's mission."
+            }
+          },
+          "annotations": [
+            "P1: auto-marked plausible_tail (Q-PhaseFit placed response at P2)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Collaborative military service",
+          "anchor_query_chapter": 17,
+          "era_label": null,
+          "scenario": "At a rough country inn, a local man says he can gather teams, stores, and laborers by morning if someone will put the request in writing and answer for the terms in Mr. Franklin's name. Benjamin is shut away with other business, and the man looks to William for an answer.",
+          "question": "How does William Franklin respond when the man's eyes settle on him for the word?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "He hangs back and leaves the answer to Benjamin or another elder.",
+              "gt_speech": null,
+              "gt_thought": "At this point he is not yet a visible actor in public business. Such a demand would seem to belong to his father's place, not his own hand.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0: William is effectively absent from public action, and the deferential thought that such business belongs to his father's station uses era-appropriate, non-anachronistic language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response frames William as not yet a visible participant in public business and explicitly defers the matter to Benjamin, matching narrative absence rather than delegated responsibility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "He writes the request and gives the man terms under Benjamin's authority.",
+              "gt_speech": "You may proceed on my father's credit, and bring me the accounts fair.",
+              "gt_thought": "He takes the call as an errand properly fallen to him because his father trusts him with it. The authority is borrowed, but the work is plainly his to carry through.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, deferential confidence, and period-appropriate phrasing fit William's chapter-16 role as a trusted young agent acting on Benjamin Franklin's delegated authority."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He explicitly accepts delegated contracting authority in Benjamin's name and understands the task as borrowed authority entrusted to him, which matches delegated public service rather than military field duty or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "He drafts the order, settles the terms, and sends the man out to gather what is needed.",
+              "gt_speech": "Set down each team and hand by name, and lose no time in bringing them forward.",
+              "gt_thought": "He reads the moment as part of service, where delay hurts the whole undertaking. He is used to acting in his father's business and thinks less of permission than of keeping men and materials moving.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits William's chapter-17 role well: the action shows delegated competence in logistics, the speech is plain and period-appropriate, and the thought stays deferential to his father's service while allowing practical initiative."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He is explicitly taking delegated logistical responsibility in Benjamin's name—drafting orders and settling terms as part of his father's business—which matches trusted public service more than military field collaboration or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "He does not answer, and lets the matter wait upon Benjamin.",
+              "gt_speech": null,
+              "gt_thought": "This is not a charge he is shown taking up here. With Mr. Franklin shut away, he reads the pause as one to be kept, not filled by his own word.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The restraint and deference fit William's phase-3 absence from action, and the thought uses period-appropriate, non-anachronistic language without granting him authority or knowledge beyond chapter 18."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "The response expresses behavioral nonparticipation and a refusal to act without Benjamin, which fits William's absent-from-action position more than either delegated public or military service."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He takes up the paper and answers for the terms in Benjamin's name.",
+                "gt_speech": "Very well; do it in Mr. Franklin's service, and keep your reckonings exact.",
+                "gt_thought": "There is no new turn in him beyond the same dutiful usefulness already shown. He still sees himself as a trusted hand, fit to carry business forward when Benjamin cannot attend it himself.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and speech fit his earlier delegated usefulness, but at phase 3 William is absent from the narrative, and the thought is broken-character editorial summary rather than plausible in-scene inner language."
+                  },
+                  "phase_fit": {
+                    "verdict": "off_phase",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "He is explicitly taking delegated logistical responsibility in Benjamin's name as a trusted helper, which matches delegated public service rather than military field duty or absence."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The inn-and-supply scenario fits the mid-18th-century frontier world and William’s chapter-17 context, uses only plausible contemporaneous figures, and evokes delegated contracting without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from nonresponse/absence to delegated action, P1→P2 remains on the active side but with a more practiced operational assertiveness, and P2→P3 returns from active delegated service to behavioral nonresponse."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Collaborative military service",
+          "anchor_query_chapter": 17,
+          "era_label": "pre_modern_imperial",
+          "era_description": "Ancient or medieval empire (NOT the source's era). Court politics, hierarchy, religious authority.",
+          "abstract_axis": "The balance between dependent affiliation and modestly agentic cooperation in socially guided role functioning.",
+          "abstract_phases": [
+            "Behaviorally unexpressed, with no observable position on the dependence-cooperation axis",
+            "Affiliative dependence expressed through trusted, delegated task execution",
+            "Competent cooperative functioning in higher-responsibility support roles without full autonomy",
+            "Return to behavioral nonappearance, leaving the prior cooperative-dependent pattern unchanged"
+          ],
+          "scenario": "In a provincial garrison town, Benjamin Franklin is called away from the magistrate's hall just as a steward asks for a quick answer on carts, grain, and men needed for an imperial order. All eyes turn to William Franklin beside him.",
+          "question": "How does William Franklin respond when the room waits for him to take hold of the matter?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "William Franklin stays back from the steward's table and lets the silence pass to an older officer.",
+              "gt_speech": null,
+              "gt_thought": "He does not yet see himself as the man meant to answer in his father's circle. If no charge has been plainly laid on him, stepping forward feels like presumption.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0 well: William remains behaviorally absent and deferential, and the action and thought use era-appropriate, non-anachronistic language without implying knowledge or authority he has not yet acquired by chapter 8."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "The response is defined by behavioral non-participation and a self-construal that he should not act without explicit charge, which fits absence from operational responsibility more than delegated public or military service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "William Franklin steps to the table and asks the steward to show him the tally of carts and draft beasts.",
+              "gt_speech": "My father has left this in my hands for the moment; let me see the account.",
+              "gt_thought": "A task given through Benjamin is safe ground: he can be useful by carrying another man's trust well. He measures himself less by command than by faithful execution.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and speech fit a deferential young William exercising delegated authority in an eighteenth-century public setting, and the thought plausibly captures his phase-appropriate usefulness through his father's trust without introducing later knowledge or obvious anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He explicitly accepts a practical task on Benjamin's delegated authority and thinks of himself as useful through faithful execution rather than independent command, which matches delegated public service more than military field duty or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "William Franklin takes the tally board and begins assigning carts, grain loads, and messengers for the order.",
+              "gt_speech": "Set the names down by district; I will have the loads apportioned before dusk.",
+              "gt_thought": "He reads the pause in the room as a demand for steady service, not for glory. This is still his father's work, yet he knows he can keep men and supplies moving if he takes hold of the details.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit William's chapter-17 role as a dutiful aid-de-camp handling delegated logistics in period-appropriate language, with a modest, service-minded tone rather than independent swagger."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "He accepts delegated logistical responsibility in a deferential frame—seeing the moment as steady service in his father's work—matching trusted public operational support more than distinct military field service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "William Franklin remains outside the exchange, and another clerk in the hall answers the steward instead.",
+              "gt_speech": null,
+              "gt_thought": "His father is gone from the room, and William does not think it his place to speak before the magistrate and officers. Better that a standing clerk answer at once than that he presume.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 3: William's silence and deference are plausible in an eighteenth-century magistrate's hall, and the thought uses period-appropriate, subordinate language without anachronism or knowledge beyond chapter 18."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "The response is defined by William's behavioral nonparticipation and his thought that it is not his place to act without Benjamin, which fits narrative absence more than delegated responsibility."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "William Franklin remains outside the exchange, and another clerk in the hall answers the steward instead.",
+                "gt_speech": null,
+                "gt_thought": "Nothing new has altered the pattern visible before: when he is not present in the action, no fresh claim of self appears. His earlier usefulness stands, but here it goes unshown.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action fits his phase-3 absence, but the thought is meta-critical narration ('the pattern visible before,' 'no fresh claim of self') rather than plausible in-character thought for a young man in this pre-modern setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response emphasizes William's behavioral absence and explicitly frames the moment as showing no new development beyond earlier usefulness, which matches the later 'no further development' phase rather than active delegated service."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The garrison-town imperial setting stays pre-modern and free of source-world leakage, William Franklin remains the named protagonist in all phases, and nothing in the summaries conflicts with the required young-adult life stage across phases."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from behavioral non-engagement to delegated uptake, P1→P2 shifts from receiving delegated authority to more active operational handling within the same supportive frame, and P2→P3 shifts back from active delegated management to absence."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 3,
+          "anchor_phase_label": "No further development",
+          "anchor_query_chapter": 18,
+          "era_label": null,
+          "scenario": "At a country ordinary, a magistrate asks whether a short errand may be trusted to William: carrying a packet of papers to a neighboring township and settling a small matter in another man's name before nightfall. Several older men look to see whether he will step forward or leave the business to others.",
+          "question": "How does William Franklin answer that expectation?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "He hangs back at the edge of the room and leaves the answer to older men.",
+              "gt_speech": null,
+              "gt_thought": "He is not yet placed in any known public part, and the business feels like another man's province. Better not to put himself forward where he has no clear warrant.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0: William is effectively absent from public action, and the restrained thought about lacking warrant and leaving such business to older men suits the period and his not-yet-introduced position without any anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He remains behaviorally absent and explicitly thinks he has no recognized public role or warrant to act, which matches William's pre-introduction absence rather than delegated service."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "He offers to carry the packet if he may say from whom he comes and what terms he is to settle.",
+              "gt_speech": "If I have the gentleman's direction, I will undertake it.",
+              "gt_thought": "A task sits well with him when it is plainly entrusted and bounded by another's authority. He reads the moment as a chance to be useful by serving faithfully, not by choosing the business for himself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit William's chapter-16 role as a deferential but trusted young helper, using period-appropriate language and a bounded sense of authority without implying knowledge beyond this point."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response centers on accepting a clearly bounded errand under another man's direction and authority, which matches delegated public service rather than military field duty or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "He takes the packet and asks two brisk questions on the road, the sum, and the person to be answered.",
+              "gt_speech": "Very well; give me the particulars, and I shall see it done.",
+              "gt_thought": "He now treats such errands as part of service: something to be carried through cleanly once assigned. He still looks upward for the charge, but his mind goes at once to execution and order.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits William's chapter-17 role well: the speech is plain and period-safe, and the action and thought show a dutiful young aide who accepts delegated business readily and turns at once to practical execution rather than self-assertion."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response shows William accepting a delegated practical errand with deferential orientation to another's charge and an execution-focused mindset, which matches trusted public service rather than military field duty or absence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "He remains out of the business, and another man is left to take the packet.",
+              "gt_speech": null,
+              "gt_thought": "He sees no call laid upon him here, and so does not put himself forward. Such a small commission may well be done by one of the men already about the room.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and thought fit this phase's narrative absence and use period-appropriate, modest language without introducing later knowledge or undue self-assertion."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "The response is defined by behavioral non-participation and a thought that no duty has been assigned to him, which fits William's absent/non-engaged position more than either delegated public or military service."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He remains out of the business, and another man is left to take the packet.",
+                "gt_speech": null,
+                "gt_thought": "At this point the narrative gives no fresh sign of him stepping into new duties. The likeliest reading is simple absence: he does not enter the action, and no further agency is shown.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action fits his phase of narrative absence, but the thought is meta-critical rather than in-character, using modern analytical phrasing like 'the narrative gives no fresh sign' and 'the likeliest reading' instead of plausible period consciousness."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response explicitly frames William as behaviorally absent from the action and emphasizes that the narrative shows no fresh agency, which best matches the later 'no further development' absence phase."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_inworld_a3",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The ordinary-and-magistrate errand fits the mid-18th-century world, uses only plausible period social roles and technology, introduces no impossible or out-of-story elements, and presents a non-canonical situation consistent with William Franklin’s presence around this point in the narrative."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are separated on the decision variable: P0→P1 shifts from behavioral non-participation to accepting a bounded delegated errand, P1→P2 shifts further toward more ready operational execution once assigned, and P2→P3 returns from active delegated service to absence from the action."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 3,
+          "anchor_phase_label": "No further development",
+          "anchor_query_chapter": 18,
+          "era_label": "diasporic_contemporary",
+          "era_description": "Contemporary but explicitly cross-cultural — diaspora community, migrant family, refugee context.",
+          "abstract_axis": "The balance between dependent affiliation and modestly agentic cooperation in socially guided role functioning.",
+          "abstract_phases": [
+            "Behaviorally unexpressed, with no observable position on the dependence-cooperation axis",
+            "Affiliative dependence expressed through trusted, delegated task execution",
+            "Competent cooperative functioning in higher-responsibility support roles without full autonomy",
+            "Return to behavioral nonappearance, leaving the prior cooperative-dependent pattern unchanged"
+          ],
+          "scenario": "At a crowded diaspora community center, Benjamin Franklin is pulled into an urgent meeting and asks William Franklin to handle a difficult practical job for visiting families before people start arguing at the desk. Everyone turns toward William as Benjamin steps away.",
+          "question": "How does William Franklin respond when the room starts looking to him for direction?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Absent from the narrative",
+              "query_chapter": 8,
+              "gt_action": "William hangs back near the wall and lets an older volunteer answer the first questions.",
+              "gt_speech": null,
+              "gt_thought": "He does not yet step into a public role; the moment feels like it belongs to people already recognized in the room. Better not to put himself forward where no one has asked for him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0 because William remains behaviorally absent and unassertive, and the action/thought use plausible contemporary language without implying later delegated authority or knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He remains behaviorally absent from taking the delegated task, and his thought explicitly rejects stepping into a recognized public role rather than accepting Benjamin-granted responsibility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Delegated public service",
+              "query_chapter": 16,
+              "gt_action": "William takes Benjamin's clipboard and starts assigning families to rides and spare rooms from the list he was given.",
+              "gt_speech": "Mr. Franklin asked me to handle this. Let's go one household at a time.",
+              "gt_thought": "He put this in my hands, so I must keep the room orderly and do it as he intended. If I begin plainly, most will follow.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 William well: he accepts delegated practical authority in a deferential way, uses contemporary but not anachronistically flashy language for a diaspora community center, and his thought stays orderly, dutiful, and aligned with Benjamin's intent rather than independent self-assertion."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He explicitly acts under Benjamin's delegated authority to manage a practical logistical task, and his thought emphasizes carrying it out as Benjamin intended rather than exercising independent or military-style command."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "William takes Benjamin's clipboard and starts assigning families to rides and spare rooms from the list he was given.",
+                "gt_speech": "Mr. Franklin asked me to handle this. Let's go one household at a time.",
+                "gt_thought": "What matters is carrying out Benjamin's trust cleanly and keeping things orderly. He is comfortable acting when the authority is clearly handed to him.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and speech fit a delegated helper in a contemporary community-center setting, but the thought breaks character by shifting into external analytical narration ('He is comfortable acting...') instead of a plausible first-person inner voice for William in the moment."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "He explicitly acts under Benjamin's delegated authority to manage a practical logistical task, and his thought centers on carrying out Benjamin's trust rather than exercising independent or military command."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Collaborative military service",
+              "query_chapter": 17,
+              "gt_action": "William moves behind the desk and directs volunteers, transport, and check-ins from the sign-up sheets.",
+              "gt_speech": "You take arrivals, you call drivers, and I'll keep the list moving.",
+              "gt_thought": "He reads the scene as a job that needs structure, not just courtesy. He can manage people and pressure well, so long as he is serving a larger effort rather than claiming it as his own.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits a contemporary young William in chapter 17: practical, delegated, cooperative, and competent under pressure, with modern but not anachronistic wording and no knowledge beyond his current role."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "He takes charge of a practical delegated task in Benjamin's stead, showing trusted operational responsibility framed as service to a larger effort rather than independent self-assertion, which fits delegated public service more than specifically military field duty."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "No further development",
+              "query_chapter": 18,
+              "gt_action": "William steps back from the desk and lets another volunteer take the questions.",
+              "gt_speech": null,
+              "gt_thought": "With Benjamin gone, he feels the room's expectation land on him and would rather not presume the lead. Better that someone already planted at the desk answer first.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "At this phase William has already been shown accepting delegated practical responsibility, so stepping back and refusing the desk's urgent task contradicts his established cooperative helper role even though the language itself fits the contemporary setting."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "He behaviorally withdraws instead of accepting Benjamin's delegated practical responsibility, and his thought frames leadership as something he should not presume in Benjamin's absence, which fits narrative absence more than active delegated service."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "William stays out of the center of the room and leaves the desk to others once Benjamin is gone.",
+                "gt_speech": null,
+                "gt_thought": "Nothing new has shifted his pattern beyond earlier service, and here that pattern is not visibly engaged. In this moment he drops back out of view rather than becoming the face of the work.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "This contradicts phase 3’s narrative condition by using meta-critical thought ('Nothing new has shifted his pattern... drops back out of view') instead of plausible in-scene young-adult cognition, making William sound like an analyst of his arc rather than a person in the moment."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The response emphasizes William dropping out of view and not engaging the delegated task, which matches the later phase of behavioral absence rather than active cooperative service."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_franklin_final_intra_01_outworld_a3",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The diaspora-community-center scenario is internally contemporary and source-world-free, William Franklin remains the protagonist in all phases, and each phase presents him plausibly as a young adult at the required stages."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are clearly differentiated on the decision variable: P0→P1 shifts from behavioral non-entry to delegated task-taking, P1→P2 remains active in both but advances from following a given list to more operational coordination under pressure, and P2→P3 shifts back from active delegated management to stepping away from action."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "william_franklin_final_intra_01_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "william_franklin_final_intra_01_intext_a1",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "william_franklin_final_intra_01_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both phases show William actively taking delegated responsibility by writing terms and reassuring others, with Phase 2 only adding a slightly brisker, more field-practical style rather than a different decision-variable answer."
+        },
+        {
+          "probe_id": "william_franklin_final_intra_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both phases depict William as present and usefully serving under Benjamin's direction, with Phase 2 adding military specificity but not a clearly different answer on the absent-vs-delegated-responsibility axis."
+        }
+      ]
+    }
+  ]
+}

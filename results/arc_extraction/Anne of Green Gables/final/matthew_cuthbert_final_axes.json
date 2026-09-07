@@ -1,0 +1,508 @@
+{
+  "character": "Matthew Cuthbert",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From shy practical reserve to protective relational devotion",
+          "set_b_axis": "From habitual passivity to tender relational commitment",
+          "overlap_description": "Both describe Matthew's movement from quiet, low-agency reserve into active, protective, emotionally invested communion centered on Anne."
+        },
+        {
+          "set_a_axis": "From practical suspicion to charitable trust",
+          "set_b_axis": "From procedural correctness to compassionate moral judgment",
+          "overlap_description": "Both track a shift from utilitarian or rule-bound evaluation toward mercy, generosity, and trust in Anne's character."
+        },
+        {
+          "set_a_axis": "From self-effacing timidity to quiet moral confidence",
+          "set_b_axis": "From silent restraint to shy but meaningful emotional expression",
+          "overlap_description": "Both capture Matthew's growth in inward assurance and his increasingly legible, though still restrained, expressions of care and pride."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-effacing timidity to quiet moral confidence",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From unexamined habit to partial awareness of attachment and aging",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From accidental responsibility to fatherly devotion",
+          "set_b_axis": "From shy curiosity to paternal devotion",
+          "overlap_description": "Both describe the same central arc: Matthew's relationship with Anne evolves from a practical, uncertain encounter into deep paternal love, protection, pride, and emotional centrality."
+        },
+        {
+          "set_a_axis": "From deferential partnership to gently differentiated co-parenting",
+          "set_b_axis": "From habitual deference to intimate domestic alliance",
+          "overlap_description": "Both show Matthew and Marilla moving from a hierarchy of deference toward a more balanced, mutually trusting domestic partnership."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social distance to practical trust",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From social distance to practical trust",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From habitual passivity to tender relational commitment",
+      "pole_start": "Quietly passive, self-effacing, and routine-bound: Matthew begins as a shy man who avoids assertion and relies on habit, duty, and Marilla's decisiveness.",
+      "pole_end": "Still gentle and non-dominating, but now actively communal and self-authorizing: by the end he is a protective, affectionate father-figure whose care for Anne shapes his choices and voice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial hesitation and duty",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Matthew goes to Bright River in a practical, duty-driven frame, anxious and socially awkward, expecting a boy and unprepared for the emotional disruption of Anne's arrival.",
+          "key_moments": [
+            "goes to Bright River to meet the adopted child",
+            "is startled by the adoption mistake",
+            "wishes Marilla were present to manage the crisis"
+          ]
+        },
+        {
+          "phase": "Reluctant emotional opening",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "Anne's talkativeness, wonder, and vulnerability draw him out of passivity. He begins acting from tenderness rather than routine, quietly siding with Anne against harshness and inconvenience.",
+          "key_moments": [
+            "is charmed by Anne's conversation on the drive home",
+            "delays correcting the mistake to spare her feelings",
+            "advocates keeping Anne at Green Gables"
+          ]
+        },
+        {
+          "phase": "Quiet advocacy and growing confidence",
+          "chapter_range": [
+            6,
+            24
+          ],
+          "position_description": "Matthew becomes more willing to assert himself for Anne's sake while remaining shy. His restraint now serves care: he buys gifts, supports her pleasures, and defends her against unfair judgment.",
+          "key_moments": [
+            "buys chocolate sweeties",
+            "defends Anne after the Mrs. Lynde quarrel and other criticisms",
+            "insists Anne should attend the concert",
+            "helps with practical care during crises"
+          ]
+        },
+        {
+          "phase": "Confident paternal communion",
+          "chapter_range": [
+            25,
+            35
+          ],
+          "position_description": "Matthew's identity settles into warm fatherhood. He actively nurtures Anne's future, takes pride in her achievements, and expresses love through gifts, reassurance, and final devotion even as his health declines.",
+          "key_moments": [
+            "buys the puffed-sleeve dress and pearl beads",
+            "supports Anne's education and Queen's ambitions",
+            "calls Anne 'my girl'",
+            "dies with his attachment fully established"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew moves from shy, duty-bound passivity into active, protective communion. He never becomes forceful or dominant, but he does become self-authorizing in service of Anne, with his agency increasingly expressed through care, advocacy, and paternal devotion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Judgment Style",
+      "axis_name": "From practical suspicion to compassionate moral judgment",
+      "pole_start": "Matthew initially thinks in terms of utility, procedure, and avoiding inconvenience, evaluating the adoption through household needs rather than emotional reality.",
+      "pole_end": "By the end he consistently privileges kindness, context, and humane allowance over strict correctness, trusting Anne's goodness and promise.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical baseline",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Matthew begins with a utilitarian model of judgment: the child should fit the farm's needs and the adoption should be handled efficiently and quietly.",
+          "key_moments": [
+            "expects an adopted boy who can help on the farm",
+            "is disoriented when the orphan is a girl",
+            "goes to fetch the child as a practical household solution"
+          ]
+        },
+        {
+          "phase": "Moral revision through Anne",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "Anne's distress repeatedly forces him to revise his priorities. He comes to believe that a child's feelings and dignity matter more than procedural correction or convenience.",
+          "key_moments": [
+            "refuses to immediately correct the adoption mistake",
+            "objects to Mrs. Blewett as cruel",
+            "supports keeping Anne at Green Gables",
+            "urges leniency after Anne's punishments"
+          ]
+        },
+        {
+          "phase": "Established merciful trust",
+          "chapter_range": [
+            10,
+            34
+          ],
+          "position_description": "His judgment becomes consistently charitable. He interprets Anne's mistakes through context and deprivation, gives her the benefit of the doubt, and treats her promise as proven and worth investing in.",
+          "key_moments": [
+            "defends Anne after the Mrs. Lynde quarrel",
+            "is relieved when the brooch misunderstanding is cleared up",
+            "buys chocolate sweeties and other gifts",
+            "supports her academic and social success"
+          ]
+        },
+        {
+          "phase": "Mercy under strain",
+          "chapter_range": [
+            35,
+            35
+          ],
+          "position_description": "Even in his final decline, Matthew's moral center remains unchanged: Anne's happiness and security matter most, and his last choices continue to reflect humane care rather than rule-bound correctness.",
+          "key_moments": [
+            "calls Anne 'my girl'",
+            "continues to support her future despite failing health",
+            "dies after a life organized around her welfare"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew's arc repeatedly moves away from narrow practicality and toward compassionate interpretation. He learns to read Anne through context, deprivation, and promise, and this becomes one of the novel's clearest moral developments in him."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Reserve-Expression",
+      "axis_name": "From silent restraint to shy but meaningful emotional expression",
+      "pole_start": "Nearly inexpressive, habitually silent, and emotionally opaque: Matthew begins with feelings that are present but mostly unreadable.",
+      "pole_end": "Still reserved, but capable of clear, brief expressions of affection, pride, and reassurance that make his love unmistakable.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Near-silence",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Matthew's default mode is silence and minimal social expression. He communicates more through action than speech and is anxious but restrained.",
+          "key_moments": [
+            "anxious journey to Bright River",
+            "communicates more through action than speech"
+          ]
+        },
+        {
+          "phase": "Indirect tenderness",
+          "chapter_range": [
+            3,
+            17
+          ],
+          "position_description": "He begins to express feeling through small acts and hesitant interventions rather than direct declaration. His behavior becomes legible as care even when his speech remains sparse.",
+          "key_moments": [
+            "keeps Anne from immediate rejection",
+            "gives her sweeties",
+            "repeats his opinion until Marilla allows the concert",
+            "quietly urges Anne toward reconciliation"
+          ]
+        },
+        {
+          "phase": "Briefly explicit affection",
+          "chapter_range": [
+            23,
+            34
+          ],
+          "position_description": "Matthew becomes more openly affectionate in short, characteristic bursts. He still does not become talkative, but he now says and does things that unmistakably reveal love and pride.",
+          "key_moments": [
+            "buys the dress and pearl beads",
+            "shows pride in Anne's success",
+            "calls Anne 'my girl'",
+            "offers reassurance after criticism"
+          ]
+        },
+        {
+          "phase": "Final silence made legible",
+          "chapter_range": [
+            35,
+            35
+          ],
+          "position_description": "His death ends further expression, but the novel retrospectively makes his long-suppressed affection fully visible through Anne's grief and the household's mourning.",
+          "key_moments": [
+            "sudden death after the bank news",
+            "Anne's grief confirms the emotional meaning of his silence"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew never becomes verbally expansive, but he does move from near-total reserve to a pattern of shy, unmistakable emotional expression. His affection is increasingly visible in gifts, interventions, and brief endearments."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Self-Knowledge",
+      "axis_name": "From unexamined habit to partial awareness of attachment and aging",
+      "pole_start": "He begins with little explicit self-reflection and little awareness of how unusual his choices are.",
+      "pole_end": "He ends with partial but real awareness of his emotional investment in Anne and of his own physical decline.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unreflective beginning",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Matthew acts before he analyzes. He is not yet conscious of how deeply Anne is affecting him, and he does not reflect on his own motives.",
+          "key_moments": [
+            "goes to meet the child without much verbal explanation",
+            "quietly sides with Anne before fully understanding why"
+          ]
+        },
+        {
+          "phase": "Growing but unarticulated awareness",
+          "chapter_range": [
+            6,
+            24
+          ],
+          "position_description": "He increasingly behaves as though he knows Anne matters, but he still does not fully name the emotional significance of that fact. His self-knowledge remains indirect.",
+          "key_moments": [
+            "continues to support Anne in small ways",
+            "shows sheepishness when indulging her",
+            "acts as if her happiness is central without analyzing why"
+          ]
+        },
+        {
+          "phase": "Awareness of age and attachment",
+          "chapter_range": [
+            29,
+            34
+          ],
+          "position_description": "Matthew becomes more aware of his own aging and frailty, and he also seems to recognize, at least dimly, how central Anne has become to his life and home.",
+          "key_moments": [
+            "admits he is getting old",
+            "speaks with pride and tenderness about Anne",
+            "shows a quiet sense that keeping her was providential"
+          ]
+        },
+        {
+          "phase": "Interrupted selfhood",
+          "chapter_range": [
+            35,
+            35
+          ],
+          "position_description": "Death cuts off further self-understanding. What remains is the completed picture of a man whose feelings were larger than his self-description.",
+          "key_moments": [
+            "sudden death prevents further reflection",
+            "posthumous remembrance reveals the depth of his attachment"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew's self-knowledge is limited but real. Over time he becomes more aware of his age, frailty, and the emotional importance of Anne, though he never fully theorizes his own transformation."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Matthew Cuthbert",
+      "target_character": "Anne Shirley",
+      "dimension_label": "Affection-Protection",
+      "axis_name": "From shy curiosity to paternal devotion",
+      "pole_start": "He begins as a nervous adult meeting a strange child on a practical errand, with only tentative curiosity and no established bond.",
+      "pole_end": "He ends as a deeply affectionate, proud, and protective father-figure whose emotional life is organized around Anne's happiness and future.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "First encounter and surprise",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Matthew is initially anxious and socially awkward, but Anne's talkativeness and vulnerability quickly charm him. The relationship begins in surprise and soft fascination.",
+          "key_moments": [
+            "meets Anne at Bright River",
+            "is soothed and amused by her conversation",
+            "delays correcting the adoption mistake to protect her feelings"
+          ]
+        },
+        {
+          "phase": "Protective advocacy",
+          "chapter_range": [
+            3,
+            8
+          ],
+          "position_description": "He moves from fascination to active protectiveness. He wants Anne spared humiliation, punishment, and harsh treatment, and he quietly advocates for her staying at Green Gables.",
+          "key_moments": [
+            "opposes sending Anne to Mrs. Blewett",
+            "supports keeping Anne at Green Gables",
+            "urges her to apologize so she can rejoin the household"
+          ]
+        },
+        {
+          "phase": "Everyday affection",
+          "chapter_range": [
+            10,
+            27
+          ],
+          "position_description": "The bond becomes habitual and warm. Matthew expresses care through gifts, listening, practical help, and quiet encouragement, while Anne increasingly trusts him as a safe emotional presence.",
+          "key_moments": [
+            "gives Anne chocolate sweeties",
+            "helps with crises and social situations",
+            "buys the Christmas dress and pearl beads",
+            "encourages her imagination and ambitions"
+          ]
+        },
+        {
+          "phase": "Proud fatherhood and loss",
+          "chapter_range": [
+            30,
+            35
+          ],
+          "position_description": "Matthew's attachment is fully paternal: he is proud of Anne's achievements, moved by her growth, and dies before seeing her future unfold. His love is confirmed by his final role in her life and by the grief that follows.",
+          "key_moments": [
+            "takes joy in Anne's academic success",
+            "calls Anne 'my girl'",
+            "supports her move toward Queen's",
+            "dies, leaving Anne to grieve him at his grave"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Matthew's central relational arc. He moves from a practical errand-based connection to a stable, deeply affectionate paternal bond, expressed through protection, gifts, pride, and quiet emotional dependence."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Matthew Cuthbert",
+      "target_character": "Marilla Cuthbert",
+      "dimension_label": "Deference-Alliance",
+      "axis_name": "From habitual deference to intimate domestic alliance",
+      "pole_start": "He begins as a deferential brother who relies on Marilla's practical judgment and lets her manage the household.",
+      "pole_end": "He ends as a deeply trusted companion whose bond with Marilla is intimate, steady, and emotionally mutual, even when they differ over Anne.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Established household deference",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Matthew starts from a long-standing pattern of quiet reliance on Marilla. She handles practical matters, while he provides rare initiative and then yields to her management.",
+          "key_moments": [
+            "Marilla is astonished by his errand",
+            "he depends on her to handle the social and practical fallout"
+          ]
+        },
+        {
+          "phase": "Gentle disagreement over Anne",
+          "chapter_range": [
+            3,
+            12
+          ],
+          "position_description": "He remains deferential but begins to diverge emotionally from Marilla's severity. Their relationship becomes more intimate because he can quietly oppose her while still trusting her.",
+          "key_moments": [
+            "hesitates over correcting the adoption mistake",
+            "supports keeping Anne",
+            "cautiously resists harsh punishment"
+          ]
+        },
+        {
+          "phase": "Shared domestic warmth",
+          "chapter_range": [
+            13,
+            32
+          ],
+          "position_description": "Their bond settles into a warm alliance. They share pride in Anne, household routines, and a growing emotional openness, even if Matthew remains the quieter partner.",
+          "key_moments": [
+            "Marilla's laughter surprises him",
+            "they jointly support Anne's education and success",
+            "he comforts Marilla in moments of sadness"
+          ]
+        },
+        {
+          "phase": "Final mutual dependence",
+          "chapter_range": [
+            34,
+            35
+          ],
+          "position_description": "As Matthew weakens and dies, the relationship becomes one of profound mutual dependence and shared grief. Their long companionship is fully visible in the emotional aftermath.",
+          "key_moments": [
+            "Matthew acknowledges aging and frailty",
+            "Marilla grieves his death deeply",
+            "their shared life at Green Gables is emotionally foregrounded"
+          ]
+        }
+      ],
+      "evidence_summary": "Matthew and Marilla begin as a quiet, functional pair and end as emotionally intertwined companions. The arc is less about conflict than about the deepening visibility of a lifelong alliance shaped by trust, intimacy, and shared care for Anne."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Matthew Cuthbert",
+      "target_character": "Mrs. Rachel Lynde",
+      "dimension_label": "Practical Trust",
+      "axis_name": "From social distance to practical trust",
+      "pole_start": "Matthew begins with little social engagement and some discomfort around Mrs. Lynde's judgmental presence.",
+      "pole_end": "He ends by trusting her practical help and relying on her for Anne's dress, even if he still finds her socially intrusive.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Mild social discomfort",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Matthew is aligned against Mrs. Lynde when she criticizes Anne, treating her as meddlesome rather than authoritative.",
+          "key_moments": [
+            "calls Mrs. Lynde meddlesome"
+          ]
+        },
+        {
+          "phase": "Practical enlistment",
+          "chapter_range": [
+            23,
+            23
+          ],
+          "position_description": "Despite earlier irritation, Matthew turns to Mrs. Lynde for help with Anne's dress, showing that he trusts her competence and judgment in a practical matter.",
+          "key_moments": [
+            "seeks Mrs. Lynde's help after the shopping trip",
+            "asks for the dress to be made in the newest style with puffed sleeves"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a minor but real relational shift: Matthew moves from dismissing Mrs. Lynde's interference to relying on her as a practical ally in caring for Anne."
+    }
+  ]
+}

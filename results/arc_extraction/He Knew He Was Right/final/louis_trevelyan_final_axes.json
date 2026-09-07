@@ -1,0 +1,698 @@
+{
+  "character": "Louis Trevelyan",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From possessive marital mastery to exhausted, partial relational surrender",
+          "set_b_axis": "From possessive mastery to broken, sacrificial attachment",
+          "overlap_description": "Both describe Louis's movement from coercive marital control toward a weakened, late-life yielding that is only partially reconciliatory."
+        },
+        {
+          "set_a_axis": "From jealous certainty to fragile, late trust",
+          "set_b_axis": "From denial of jealousy to belated, partial trust",
+          "overlap_description": "Both track the same jealousy-to-trust arc: Louis begins in denial and suspicion, then ends with a minimal, nonverbal trust gesture toward Emily."
+        },
+        {
+          "set_a_axis": "From self-justifying pride to degraded self-knowledge",
+          "set_b_axis": "From moral certainty to degraded self-reproach",
+          "overlap_description": "Both capture the erosion of Louis's self-righteousness into shame, humiliation, and a late awareness of his own ruin."
+        },
+        {
+          "set_a_axis": "From compulsive management to exhausted relinquishment",
+          "set_b_axis": "From coercive command to reluctant relinquishment",
+          "overlap_description": "Both identify a control-to-surrender pattern, with Louis's need to manage people and events collapsing into inability and reluctant yielding."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From possessive marital mastery to exhausted, partial relational surrender",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From jealous certainty to fragile, late trust",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From self-justifying pride to degraded self-knowledge",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From compulsive management to exhausted relinquishment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From possessive mastery to broken, sacrificial attachment",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From denial of jealousy to belated, partial trust",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From moral certainty to degraded self-reproach",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From coercive command to reluctant relinquishment",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From marital trust to accusatory estrangement and partial final release",
+          "set_b_axis": "From wounded love to final, fragile trust",
+          "overlap_description": "Both describe the Louis-Emily relationship as moving from compromised marital intimacy into suspicion, estrangement, and a final but incomplete softening."
+        },
+        {
+          "set_a_axis": "From social dislike to obsessive rival hatred",
+          "set_b_axis": "From social suspicion to obsessive enemy-making",
+          "overlap_description": "Both treat Osborne as the external rival who becomes the symbolic center of Louis's jealousy and hostility."
+        },
+        {
+          "set_a_axis": "From possible confidant to rejected mediator and finally uneasy ally",
+          "set_b_axis": "From possible confidant to rejected mediator and finally uneasy ally",
+          "overlap_description": "These are effectively the same arc: Stanbury moves from potential confidant to rebuffed intermediary, then to a practical but emotionally limited ally."
+        },
+        {
+          "set_a_axis": "From instrumental suspicion to degrading dependence",
+          "set_b_axis": "From disgusted use to desperate reliance",
+          "overlap_description": "Both describe Louis's relationship to Bozzle as a degrading instrumental dependence that deepens as his isolation grows."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From marital trust to accusatory estrangement and partial final release",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From social dislike to obsessive rival hatred",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From possible confidant to rejected mediator and finally uneasy ally",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From instrumental suspicion to degrading dependence",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wounded love to final, fragile trust",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From social suspicion to obsessive enemy-making",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From disgusted use to desperate reliance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From possessive paternal control to wounded love",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From possessive mastery to broken, sacrificial attachment",
+      "pole_start": "Begins strongly on the agency side: self-assertive, controlling, possessive, and intent on mastering Emily's conduct and the marriage through authority, surveillance, and exclusion.",
+      "pole_end": "Ends closer to communion, but in a damaged and exhausted form: emotionally dependent, briefly tender, and willing to yield in a final act of reparation, though without full reconciliation or stable mutuality.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial possessive assertion",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Louis begins by asserting dominance over Emily's conduct, insisting on obedience and treating marital harmony as something to be secured by authority rather than mutuality.",
+          "key_moments": [
+            "First suspicion of Osborne and insistence he is not jealous",
+            "Ultimatum that Emily must never see Osborne again",
+            "Drafting a controlling letter that demands submission"
+          ]
+        },
+        {
+          "phase": "Coercive control and surveillance",
+          "chapter_range": [
+            9,
+            33
+          ],
+          "position_description": "His agency hardens into punitive control: he uses letters, intermediaries, legal pressure, and Bozzle to preserve mastery while intimacy collapses.",
+          "key_moments": [
+            "Rejecting outside interference and preparing stern confrontation",
+            "Using Lady Milborough, Hugh, and Bozzle as instruments",
+            "Formal separation and threats of legal retaliation"
+          ]
+        },
+        {
+          "phase": "Collapse of mastery",
+          "chapter_range": [
+            37,
+            93
+          ],
+          "position_description": "Control erodes under separation, illness, fear of confinement, and emotional exhaustion. He becomes increasingly dependent and unable to govern events, though he still clings to the child as a residual site of authority.",
+          "key_moments": [
+            "Grieving separation from wife and child",
+            "Dependence on Bozzle and the failure of legal mastery",
+            "Physical and emotional deterioration in Italy",
+            "Brief moments of tenderness toward Emily and Louey"
+          ]
+        },
+        {
+          "phase": "Final partial surrender",
+          "chapter_range": [
+            93,
+            99
+          ],
+          "position_description": "By the end, agency is largely spent; he can no longer sustain accusation with full force and yields through gesture rather than argument, offering a weak but real movement toward reparation.",
+          "key_moments": [
+            "Saying 'Yes; yes; yes.' to Emily",
+            "Allowing the kiss on his hand",
+            "Deathbed gesture of acquittal/reparation"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Louis's arc is a clear collapse of coercive mastery into exhausted, damaged attachment. The ending is not full reconciliation, but it does mark a real shift from domination toward yielding and partial communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Jealousy-Trust",
+      "axis_name": "From denial of jealousy to belated, partial trust",
+      "pole_start": "Starts in denial and misrecognition: he insists he is not jealous even while acting from jealousy, suspicion, and possessiveness.",
+      "pole_end": "Ends with a minimal but meaningful act of trust toward Emily, though only at the point of death and without a full intellectual conversion.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Jealous denial",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "He is already jealous, but cannot admit it. He frames distress as principle, duty, and wounded dignity rather than mistrust.",
+          "key_moments": [
+            "Calling Osborne a snake in the grass while denying jealousy",
+            "Interpreting secrecy as proof of guilt",
+            "Issuing an ultimatum to Emily"
+          ]
+        },
+        {
+          "phase": "Obsessive suspicion",
+          "chapter_range": [
+            19,
+            45
+          ],
+          "position_description": "Jealousy becomes the organizing principle of his mind. He relies on surveillance, Bozzle, and rumor, and his suspicion hardens into near-certainty.",
+          "key_moments": [
+            "Bozzle surveillance and detective work",
+            "Treating Osborne's letters and visits as incriminating evidence",
+            "Accepting accusations as confirmation of betrayal"
+          ]
+        },
+        {
+          "phase": "Exhausted doubt",
+          "chapter_range": [
+            59,
+            93
+          ],
+          "position_description": "His jealousy remains, but physical collapse and emotional exhaustion weaken its absolute grip. He becomes more vulnerable to Emily's care and less able to sustain total certainty.",
+          "key_moments": [
+            "Physical decline and isolation in Italy",
+            "Brief tenderness toward Emily and Louey",
+            "Fear of confinement and persecution",
+            "Reluctant acceptance of the journey home"
+          ]
+        },
+        {
+          "phase": "Final trust gesture",
+          "chapter_range": [
+            93,
+            99
+          ],
+          "position_description": "At the end, he gives Emily a faint sign of trust, which is not a full renunciation of jealousy but a final collapse of resistance and a posthumous acknowledgment of her innocence.",
+          "key_moments": [
+            "Final kiss interpreted as trust",
+            "Death followed by retrospective reading of reparation"
+          ]
+        }
+      ],
+      "evidence_summary": "Louis's arc is not a clean conversion from jealousy to trust, but it does move from denial and obsessive suspicion toward a final, minimal trust gesture. The ending matters because it reverses the absolute mistrust that governed most of the novel."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Justification-Shame",
+      "axis_name": "From moral certainty to degraded self-reproach",
+      "pole_start": "Begins with strong self-justification: he sees himself as rational, principled, and morally entitled to govern the marriage.",
+      "pole_end": "Ends in self-lacerating awareness of his own ruin, with shame, exhaustion, and a sense that he has become degraded and unworthy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Principled self-image",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "He repeatedly frames his conduct as duty, justice, and husbandly responsibility, refusing to see jealousy as the real motive.",
+          "key_moments": [
+            "Calling his objections principled rather than jealous",
+            "Seeking validation from Bideawhile and Lady Milborough",
+            "Treating obedience as the basis of marriage"
+          ]
+        },
+        {
+          "phase": "Humiliation and exposure",
+          "chapter_range": [
+            23,
+            45
+          ],
+          "position_description": "His reliance on Bozzle and surveillance begins to feel sordid. He still justifies himself, but shame and disgust increasingly accompany his actions.",
+          "key_moments": [
+            "Feeling degraded by Bozzle",
+            "Recognizing the filthiness of evidence-gathering",
+            "Becoming more isolated and publicly judged"
+          ]
+        },
+        {
+          "phase": "Self-lacerating collapse",
+          "chapter_range": [
+            59,
+            86
+          ],
+          "position_description": "He becomes aware of his own deterioration: ill-dressed, haggard, feverish, and mentally unstable. He begins to see himself as ruined, though not yet morally repentant.",
+          "key_moments": [
+            "Describing himself as degraded and dependent on brandy",
+            "Thinking of his suffering as expiation",
+            "Calling attention to his own physical and mental decline"
+          ]
+        },
+        {
+          "phase": "Fatalistic remorse",
+          "chapter_range": [
+            91,
+            99
+          ],
+          "position_description": "At the end, self-reproach becomes more explicit, though still incomplete. He is no longer merely self-justifying; he is a broken figure whose final gesture implies regret and reparation.",
+          "key_moments": [
+            "Withering away at Casalunga",
+            "Final softening toward Emily",
+            "Posthumous framing of his last act as reparation"
+          ]
+        }
+      ],
+      "evidence_summary": "Louis never fully abandons self-justification in life, but he does move toward shame and self-reproach. The late chapters make his own degradation impossible to ignore, and the ending converts that degradation into a muted form of remorse."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Control-Surrender",
+      "axis_name": "From coercive command to reluctant relinquishment",
+      "pole_start": "Starts with a need to command Emily, exclude Osborne, and regulate every aspect of the marriage.",
+      "pole_end": "Ends with reluctant surrender: he gives up control over the child, weakly yields to Emily's care, and dies having partially relinquished his claim to mastery.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Commanding control",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "He tries to dictate Emily's conduct through ultimatums, letters, and social pressure.",
+          "key_moments": [
+            "Demanding Osborne's exclusion",
+            "Drafting controlling correspondence",
+            "Arranging separation and relocation"
+          ]
+        },
+        {
+          "phase": "Legal and paternal coercion",
+          "chapter_range": [
+            26,
+            61
+          ],
+          "position_description": "Control becomes formalized through surveillance, legal threats, and custody claims. He tries to dominate through institutions when direct authority fails.",
+          "key_moments": [
+            "Using Bozzle to gather evidence",
+            "Threatening separation and custody loss",
+            "Attempting to retain Louey"
+          ]
+        },
+        {
+          "phase": "Control breaking down",
+          "chapter_range": [
+            69,
+            93
+          ],
+          "position_description": "His body and mind fail him, and control becomes increasingly impossible. He resists intervention but is forced into movement, medical scrutiny, and dependence.",
+          "key_moments": [
+            "Fear of being declared mad",
+            "Plan to flee to America",
+            "Reluctant return and acceptance of care"
+          ]
+        },
+        {
+          "phase": "Relinquishment",
+          "chapter_range": [
+            94,
+            99
+          ],
+          "position_description": "He no longer meaningfully controls the situation. His final act is a weak trust gesture, and the narrative closes on his death rather than mastery.",
+          "key_moments": [
+            "Final kiss to Emily",
+            "Death and retrospective absolution"
+          ]
+        }
+      ],
+      "evidence_summary": "The novel traces a clear collapse of Louis's controlling will. He begins as a coercive husband and ends unable to sustain control, with his last meaningful act being a surrender of resistance."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Louis Trevelyan",
+      "target_character": "Emily Trevelyan",
+      "dimension_label": "Trust-Suspicion",
+      "axis_name": "From wounded love to final, fragile trust",
+      "pole_start": "Begins with love mixed with suspicion, possessiveness, and a need for Emily's submission; he does not trust her independence or her explanations.",
+      "pole_end": "Ends with a faint but meaningful gesture of trust and posthumous reparation, though the relationship never fully heals in life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early marital fracture",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "He loves Emily but immediately interprets her defense of Osborne as a threat. Trust is already compromised by wounded pride.",
+          "key_moments": [
+            "Insulted by Emily's defense of Osborne",
+            "Ultimatum that she must not receive him",
+            "Attempts at apology blocked by pride"
+          ]
+        },
+        {
+          "phase": "Open suspicion and coercion",
+          "chapter_range": [
+            9,
+            29
+          ],
+          "position_description": "Trust collapses into suspicion. He treats Emily's secrecy and correspondence as proof of guilt and uses intermediaries to pressure her.",
+          "key_moments": [
+            "Demanding promises never to see Osborne",
+            "Bozzle surveillance",
+            "Threatening separation and banishment"
+          ]
+        },
+        {
+          "phase": "Conditional dependence",
+          "chapter_range": [
+            59,
+            86
+          ],
+          "position_description": "He still mistrusts her, but physical collapse makes him dependent on her care. Brief tenderness appears, though always under the condition that she confess and submit.",
+          "key_moments": [
+            "Brief reunion with Emily and Louey",
+            "Momentary tenderness followed by renewed demands",
+            "Self-punishing longing for reconciliation"
+          ]
+        },
+        {
+          "phase": "Final trust gesture",
+          "chapter_range": [
+            98,
+            99
+          ],
+          "position_description": "At the end, he gives Emily a final sign of trust, which functions as a belated acknowledgment of her innocence and a last act of repair.",
+          "key_moments": [
+            "Final kiss interpreted as trust",
+            "Death and retrospective absolution"
+          ]
+        }
+      ],
+      "evidence_summary": "This is the central relational arc in the novel. Louis moves from mistrustful love into obsessive suspicion, then into exhausted dependence, and finally into a dying gesture of trust."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Louis Trevelyan",
+      "target_character": "Colonel Osborne",
+      "dimension_label": "Rivalry-Hostility",
+      "axis_name": "From social suspicion to obsessive enemy-making",
+      "pole_start": "Begins with suspicion and moral dislike, but not yet total fixation.",
+      "pole_end": "Ends in entrenched hostility, with Osborne functioning as the symbolic cause of Louis's humiliation and jealousy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial suspicion",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Osborne is already unwelcome and morally suspect, but Louis still frames his concern as principled concern rather than full rivalry.",
+          "key_moments": [
+            "Calling Osborne a snake in the grass",
+            "Insisting he is not jealous"
+          ]
+        },
+        {
+          "phase": "Rival becomes contaminant",
+          "chapter_range": [
+            5,
+            26
+          ],
+          "position_description": "Osborne becomes the central rival and contaminating presence whose letters, visits, and proximity to Emily justify Louis's anger.",
+          "key_moments": [
+            "Demanding Osborne's exclusion",
+            "Treating correspondence as proof of guilt",
+            "Using surveillance to track Osborne"
+          ]
+        },
+        {
+          "phase": "Fixed symbolic enemy",
+          "chapter_range": [
+            38,
+            61
+          ],
+          "position_description": "Osborne is now the imagined adulterer and embodiment of dishonor. Louis's hatred is less about evidence than about the need to stabilize his grievance.",
+          "key_moments": [
+            "Bozzle reports intensify suspicion",
+            "Louis treats Osborne as the source of ruin",
+            "Custody and separation are justified by Osborne's supposed influence"
+          ]
+        },
+        {
+          "phase": "Persistent post-collapse hostility",
+          "chapter_range": [
+            67,
+            99
+          ],
+          "position_description": "Even as Louis weakens, Osborne remains the enemy figure in his mind. The hostility does not disappear; it simply becomes part of the tragic residue of his breakdown.",
+          "key_moments": [
+            "Continued references to Osborne as corrupter",
+            "Final unresolved grievance before death"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne never becomes a nuanced rival in Louis's mind; he becomes a fixed symbolic enemy. The relationship is one of escalating hostility with no real reversal."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Louis Trevelyan",
+      "target_character": "Hugh Stanbury",
+      "dimension_label": "Trust-Isolation",
+      "axis_name": "From possible confidant to rejected mediator and finally uneasy ally",
+      "pole_start": "Begins with the possibility of friendship and confession; Stanbury is a trusted listener Louis might have relied on.",
+      "pole_end": "Ends in a strained, partial trust: Stanbury helps him practically, but Louis remains suspicious and emotionally isolated.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Confidential possibility",
+          "chapter_range": [
+            4,
+            6
+          ],
+          "position_description": "Louis considers telling Stanbury the whole story, but pride and shame prevent full disclosure.",
+          "key_moments": [
+            "Decides not to confide in Stanbury",
+            "Speaks coldly and formally to him"
+          ]
+        },
+        {
+          "phase": "Rejection of mediation",
+          "chapter_range": [
+            9,
+            32
+          ],
+          "position_description": "Stanbury repeatedly tries to mediate, but Louis rejects interference and eventually quarrels with him, breaking the friendship's trust.",
+          "key_moments": [
+            "Cuts short Stanbury's attempt at conciliation",
+            "Refuses softening of the matter",
+            "Quarrels with Stanbury and leaves for Paris"
+          ]
+        },
+        {
+          "phase": "Practical dependence without intimacy",
+          "chapter_range": [
+            37,
+            93
+          ],
+          "position_description": "Stanbury becomes useful as organizer, witness, and escort, but Louis never fully reopens trust; the relationship is functional rather than intimate.",
+          "key_moments": [
+            "Feels intruded upon by the wider social circle",
+            "Infers legal danger and plans escape",
+            "Submits to Stanbury's plan to return to England"
+          ]
+        }
+      ],
+      "evidence_summary": "Stanbury is the main relational counterweight to Louis's isolation. The arc moves from potential confidant to rejected mediator, then to a grudging practical ally whose trust is never fully restored."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Louis Trevelyan",
+      "target_character": "Samuel Bozzle",
+      "dimension_label": "Contempt-Dependence",
+      "axis_name": "From disgusted use to desperate reliance",
+      "pole_start": "Begins with reluctance and moral distaste; Bozzle is useful but degrading.",
+      "pole_end": "Ends in near-exclusive dependence, with Bozzle as the only trusted ally in Louis's isolated world.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Reluctant instrument",
+          "chapter_range": [
+            19,
+            23
+          ],
+          "position_description": "Louis uses Bozzle for surveillance but feels contaminated by the association and ashamed of the method.",
+          "key_moments": [
+            "Private-detective surveillance",
+            "Feeling degraded by Bozzle's vulgarity"
+          ]
+        },
+        {
+          "phase": "Necessary evil",
+          "chapter_range": [
+            26,
+            45
+          ],
+          "position_description": "Bozzle becomes indispensable because he supplies the facts Louis craves. Contempt remains, but utility dominates.",
+          "key_moments": [
+            "Bozzle's reports intensify jealousy",
+            "Louis relies on him for evidence against Emily and Osborne"
+          ]
+        },
+        {
+          "phase": "Only loyal ally",
+          "chapter_range": [
+            59,
+            76
+          ],
+          "position_description": "As Louis becomes isolated, Bozzle is the only person he still trusts. This is not warmth but desperate dependence.",
+          "key_moments": [
+            "Bozzle as sole trusted ally",
+            "Keeping his address known only to Bozzle",
+            "Using Bozzle in legal and custodial pressure"
+          ]
+        },
+        {
+          "phase": "Residual dependence under collapse",
+          "chapter_range": [
+            78,
+            99
+          ],
+          "position_description": "Even as Louis weakens, Bozzle remains the practical extension of his will. The relationship is still instrumental and morally degrading.",
+          "key_moments": [
+            "Bozzle used in custody attempts",
+            "Continued reliance on surveillance and enforcement"
+          ]
+        }
+      ],
+      "evidence_summary": "Bozzle is the clearest sign of Louis's moral and psychological degradation. The relationship moves from shameful utility to desperate dependence, with no genuine intimacy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Louis Trevelyan",
+      "target_character": "Louey",
+      "dimension_label": "Possession-Tenderness",
+      "axis_name": "From paternal leverage to wounded love",
+      "pole_start": "Begins with possessive paternal control: the child is part of Louis's claim over Emily and the marriage.",
+      "pole_end": "Ends with a more openly tender but still wounded attachment, though the child remains entangled in control and loss.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Child as leverage",
+          "chapter_range": [
+            52,
+            61
+          ],
+          "position_description": "Louis treats Louey as an object of rightful recovery and a means of pressuring Emily.",
+          "key_moments": [
+            "Attempt to recover custody through Bozzle",
+            "Child used as leverage in the marital struggle"
+          ]
+        },
+        {
+          "phase": "Emotional injury through the child",
+          "chapter_range": [
+            67,
+            86
+          ],
+          "position_description": "His attachment becomes more visibly emotional. He is hurt by the child's fear and preference for Emily, and this deepens his sense of rejection.",
+          "key_moments": [
+            "Weeping over Louey",
+            "Child's reluctance and fear",
+            "Decision to surrender the boy bitterly"
+          ]
+        },
+        {
+          "phase": "Final separation and loss",
+          "chapter_range": [
+            91,
+            99
+          ],
+          "position_description": "Louey remains central to Louis's longing, but the relationship is now defined by loss rather than control. The child is no longer a tool alone; he is a source of grief and final vulnerability.",
+          "key_moments": [
+            "Physical decline while separated from the child",
+            "Final emotional collapse and death"
+          ]
+        }
+      ],
+      "evidence_summary": "Louis never stops being possessive of his son, but the relationship acquires genuine tenderness and grief as the novel progresses. The child becomes both leverage and wound."
+    }
+  ]
+}

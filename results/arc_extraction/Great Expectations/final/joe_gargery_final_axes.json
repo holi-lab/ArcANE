@@ -1,0 +1,386 @@
+{
+  "character": "Joe Gargery",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-effacing caretaker to dignified self-boundary keeper",
+          "set_b_axis": "From self-effacing support to enduring relational communion",
+          "overlap_description": "Both describe Joe as fundamentally self-effacing and communion-oriented, with only a modest late-stage shift toward dignity and boundedness rather than a major move into agency."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From humble decency to self-conscious moral authority",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From social embarrassment to quiet dignity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "None beyond the matched communion axis",
+          "assessment": "artifact"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From intimate protector to loving outsider",
+          "set_b_axis": "From unguarded paternal affection to wounded but dignified distance",
+          "overlap_description": "Both capture the same core Joe-Pip relationship arc: deep protective affection that is strained by Pip's shame and ends in dignified emotional distance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From passive submission to caregiving coexistence",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From social deference to quiet resistance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From vulnerable recipient to dignified resister",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From incidental acquaintance to warm practical trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From self-effacing caretaker to dignified relationally bounded communion",
+      "pole_start": "Joe begins as strongly communion-dominant: warm, yielding, protective, and defined by care for others rather than self-assertion or status.",
+      "pole_end": "He remains communion-oriented, but with a modestly stronger sense of agency and boundary: he preserves warmth and loyalty while accepting separation and refusing to force himself where he is unwelcome.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early protective communion",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Joe is introduced as instinctively protective and relationally centered, shielding Pip and absorbing domestic pressure without open self-assertion.",
+          "key_moments": [
+            "Joe comforts and protects Pip in the household",
+            "Joe endures Mrs. Joe's dominance without becoming domineering"
+          ]
+        },
+        {
+          "phase": "Communion under strain",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Joe's self-effacing care continues through apprenticeship, social embarrassment, and Pip's rising shame, but the strain begins to clarify his own dignity and limits.",
+          "key_moments": [
+            "Joe accompanies Pip despite embarrassment",
+            "Joe supports Pip's prospects without complaint",
+            "Joe is hurt by Pip's social distancing"
+          ]
+        },
+        {
+          "phase": "Dignified withdrawal",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Joe accepts exclusion without resentment, choosing a restrained, self-respecting withdrawal that preserves both his affection and his boundaries.",
+          "key_moments": [
+            "Joe visits Pip in London and is awkward in gentility",
+            "Joe leaves without retaliation or pleading",
+            "Joe maintains warmth while refusing intrusion"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Joe remains fundamentally communion-centered, but the arc is not static: he gains a limited, dignified agency that lets him preserve selfhood without abandoning care."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Worth",
+      "axis_name": "From humble decency to self-conscious moral authority",
+      "pole_start": "Joe begins as plainly good-hearted and useful, with his moral value shown more in action than in self-understanding.",
+      "pole_end": "He comes to embody and recognize himself as a morally reliable guide whose worth lies in honesty, restraint, and principled kindness rather than polish or status.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Implicit goodness",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Joe's decency is evident before it is articulated: he protects, comforts, and endures without self-display.",
+          "key_moments": [
+            "Joe shields Pip from domestic harshness",
+            "Joe acts patiently and kindly without claiming moral superiority"
+          ]
+        },
+        {
+          "phase": "Moral articulation",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Joe's plain honesty and ethical steadiness become more legible as a positive moral stance, not merely a lack of sophistication.",
+          "key_moments": [
+            "Joe frames straight dealing and honesty as important",
+            "Joe functions as a moral counterweight to social pretension"
+          ]
+        },
+        {
+          "phase": "Confirmed moral center",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "His refusal of compensation and his final dignified conduct confirm that he values moral integrity over recognition or reward.",
+          "key_moments": [
+            "Joe refuses to be bought off by Jaggers",
+            "Joe blesses Pip rather than demanding repayment",
+            "Joe withdraws with dignity"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A adds an important layer absent from the psychological summary: Joe does not merely remain good, he increasingly understands goodness as a deliberate ethical identity grounded in honesty and restraint."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Shame-Dignity",
+      "axis_name": "From social embarrassment to quiet dignity",
+      "pole_start": "Joe is vulnerable to humiliation in elite or judgmental settings, awkward and out of place, though still good-humored.",
+      "pole_end": "He ends with steadier dignity, able to accept exclusion without self-abasement or resentment.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Social awkwardness",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Joe is made to feel inferior in gentility-coded spaces and by Pip's changing expectations, but he does not become bitter.",
+          "key_moments": [
+            "Joe appears awkward in refined settings",
+            "Joe is exposed to Pip's rising shame"
+          ]
+        },
+        {
+          "phase": "Wounded composure",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He is hurt by Pip's distancing and the household's upheaval, yet remains restrained and self-possessed.",
+          "key_moments": [
+            "Joe absorbs emotional injury without retaliation",
+            "Joe continues to act with patience"
+          ]
+        },
+        {
+          "phase": "Self-respecting withdrawal",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Joe's final leave-taking shows him refusing humiliation: he names his place in the world and exits with dignity rather than pleading for inclusion.",
+          "key_moments": [
+            "Joe leaves Pip without complaint",
+            "Joe preserves dignity in separation"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a narrower but valid refinement of Joe's late-stage composure: shame is not erased, but transformed into quiet dignity."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Joe Gargery",
+      "target_character": "Pip",
+      "dimension_label": "Care-Shame",
+      "axis_name": "From intimate protector to loving outsider",
+      "pole_start": "Joe begins as Pip's safe refuge, ally, and moral anchor: affectionate, protective, and willing to sacrifice his own comfort for Pip's welfare.",
+      "pole_end": "He remains loving but becomes socially and emotionally distant, accepting Pip's new world without forcing intimacy or demanding recognition.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Protective intimacy",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Joe's shielding, comforting, and practical care establish deep trust and paternal warmth.",
+          "key_moments": [
+            "Joe protects and comforts Pip",
+            "Joe provides a stable emotional refuge"
+          ]
+        },
+        {
+          "phase": "Formal responsibility and hurt",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "As guardian and apprentice-master, Joe continues to support Pip, but Pip's shame and departure strain the bond.",
+          "key_moments": [
+            "Joe supports Pip's apprenticeship",
+            "Joe is hurt by Pip's embarrassment and distancing"
+          ]
+        },
+        {
+          "phase": "Resigned distance",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Joe visits Pip in London, experiences the pain of social exclusion, and withdraws with blessing rather than protest.",
+          "key_moments": [
+            "Joe is awkward in London gentility",
+            "Joe leaves without complaint",
+            "Joe preserves affection through restraint"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Joe's love for Pip persists unchanged, while Pip's shame creates a real but dignified distance. The arc is one of affectionate loss without bitterness."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Joe Gargery",
+      "target_character": "Mrs. Joe Gargery",
+      "dimension_label": "Subordination-Care",
+      "axis_name": "From passive submission to caregiving coexistence",
+      "pole_start": "Joe lives under Mrs. Joe's domination and avoids open resistance, remaining gentle and deferential.",
+      "pole_end": "After her injury, he becomes her caretaker, shifting the relationship from conflict toward practical care and endurance.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Domestic subordination",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Joe is deferential under Mrs. Joe's harshness, intervening only indirectly to protect Pip.",
+          "key_moments": [
+            "Joe endures Mrs. Joe's domination",
+            "Joe protects Pip indirectly"
+          ]
+        },
+        {
+          "phase": "Care under crisis",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "After her injury, Joe manages the household and tends her, converting a hostile marriage into one structured by care and endurance.",
+          "key_moments": [
+            "Joe cares for Mrs. Joe after her injury",
+            "Joe assumes practical household responsibility"
+          ]
+        }
+      ],
+      "evidence_summary": "Joe does not become equal to Mrs. Joe, but the relationship meaningfully changes from domination to caregiving responsibility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Joe Gargery",
+      "target_character": "Mr. Jaggers",
+      "dimension_label": "Dignity-Pressure",
+      "axis_name": "From vulnerable recipient to dignified resister",
+      "pole_start": "Joe is vulnerable to being managed or bought off by Jaggers's legal authority.",
+      "pole_end": "He resists Jaggers's attempt to compensate him and preserves his dignity against institutional pressure.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Exposure to authority",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Jaggers's presence marks Joe as socially and institutionally subordinate.",
+          "key_moments": [
+            "Joe encounters Jaggers's legal authority"
+          ]
+        },
+        {
+          "phase": "Refusal of purchase",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Joe refuses compensation, asserting that his love for Pip cannot be reduced to money.",
+          "key_moments": [
+            "Joe refuses Jaggers's compensation"
+          ]
+        }
+      ],
+      "evidence_summary": "Joe's brief interaction with Jaggers is significant because it shows him refusing to let institutional power redefine his love or worth."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Joe Gargery",
+      "target_character": "Biddy",
+      "dimension_label": "Trust-Reliance",
+      "axis_name": "From incidental acquaintance to warm practical trust",
+      "pole_start": "Joe begins with Biddy as a helpful presence, but not yet a fully established emotional support.",
+      "pole_end": "He ends with Biddy as a trusted, appreciated source of steadiness and mediation.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Growing reliance",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Joe values Biddy's help and steadiness, especially in managing communication and household stability.",
+          "key_moments": [
+            "Joe appreciates Biddy's sensible mediation",
+            "Joe relies on Biddy for practical support"
+          ]
+        },
+        {
+          "phase": "Stable trust",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Joe continues to treat Biddy as dependable and respectful, with no sign of conflict or distrust.",
+          "key_moments": [
+            "Joe remains appreciative of Biddy's help and judgment"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a smaller but valid relational arc: Joe's trust in Biddy grows into steady appreciation, though it is less central than his bond with Pip."
+    }
+  ]
+}

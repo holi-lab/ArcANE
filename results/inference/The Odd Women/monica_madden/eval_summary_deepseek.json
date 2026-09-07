@@ -1,0 +1,279 @@
+{
+  "novel": "The Odd Women",
+  "character": "monica_madden",
+  "judge_model": "deepseek/deepseek-v4-flash",
+  "score_scale": 100,
+  "by_model": {
+    "deepseek/deepseek-v4-flash": {
+      "vanilla": {
+        "apf": 54.677,
+        "rpf": 56.154,
+        "rae": 47.897,
+        "average": 52.91,
+        "n": 195
+      },
+      "summary": {
+        "apf": 54.538,
+        "rpf": 56.205,
+        "rae": 46.564,
+        "average": 52.436,
+        "n": 195
+      },
+      "rag": {
+        "apf": 51.641,
+        "rpf": 53.974,
+        "rae": 44.179,
+        "average": 49.932,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 55.933,
+        "rpf": 57.477,
+        "rae": 48.179,
+        "average": 53.863,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 54.103,
+        "rpf": 56.103,
+        "rae": 46.677,
+        "average": 52.295,
+        "n": 195
+      },
+      "arc": {
+        "apf": 56.641,
+        "rpf": 58.256,
+        "rae": 49.621,
+        "average": 54.84,
+        "n": 195
+      }
+    },
+    "deepseek/deepseek-v4-pro": {
+      "vanilla": {
+        "apf": 48.615,
+        "rpf": 51.308,
+        "rae": 40.744,
+        "average": 46.889,
+        "n": 195
+      },
+      "summary": {
+        "apf": 54.051,
+        "rpf": 55.718,
+        "rae": 46.036,
+        "average": 51.935,
+        "n": 195
+      },
+      "rag": {
+        "apf": 53.523,
+        "rpf": 54.887,
+        "rae": 46.282,
+        "average": 51.564,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 52.441,
+        "rpf": 54.21,
+        "rae": 45.195,
+        "average": 50.615,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 51.564,
+        "rpf": 53.462,
+        "rae": 44.41,
+        "average": 49.812,
+        "n": 195
+      },
+      "arc": {
+        "apf": 61.046,
+        "rpf": 62.133,
+        "rae": 55.0,
+        "average": 59.393,
+        "n": 195
+      }
+    },
+    "Qwen/Qwen3-8B": {
+      "vanilla": {
+        "apf": 37.821,
+        "rpf": 39.923,
+        "rae": 29.179,
+        "average": 35.641,
+        "n": 195
+      },
+      "summary": {
+        "apf": 42.949,
+        "rpf": 44.615,
+        "rae": 33.205,
+        "average": 40.256,
+        "n": 195
+      },
+      "rag": {
+        "apf": 43.154,
+        "rpf": 44.744,
+        "rae": 34.333,
+        "average": 40.744,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 44.308,
+        "rpf": 45.538,
+        "rae": 34.513,
+        "average": 41.453,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 40.256,
+        "rpf": 42.462,
+        "rae": 32.051,
+        "average": 38.257,
+        "n": 195
+      },
+      "arc": {
+        "apf": 44.051,
+        "rpf": 45.872,
+        "rae": 33.949,
+        "average": 41.291,
+        "n": 195
+      }
+    },
+    "Qwen/Qwen3-32B": {
+      "vanilla": {
+        "apf": 41.256,
+        "rpf": 42.103,
+        "rae": 32.308,
+        "average": 38.555,
+        "n": 195
+      },
+      "summary": {
+        "apf": 49.744,
+        "rpf": 50.795,
+        "rae": 40.821,
+        "average": 47.12,
+        "n": 195
+      },
+      "rag": {
+        "apf": 47.744,
+        "rpf": 49.718,
+        "rae": 40.308,
+        "average": 45.923,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 49.928,
+        "rpf": 51.082,
+        "rae": 41.226,
+        "average": 47.412,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 43.026,
+        "rpf": 44.231,
+        "rae": 33.923,
+        "average": 40.393,
+        "n": 195
+      },
+      "arc": {
+        "apf": 50.241,
+        "rpf": 51.041,
+        "rae": 40.667,
+        "average": 47.316,
+        "n": 195
+      }
+    },
+    "arcane-8B-dpo": {
+      "vanilla": {
+        "apf": 47.692,
+        "rpf": 48.41,
+        "rae": 39.385,
+        "average": 45.162,
+        "n": 195
+      },
+      "summary": {
+        "apf": 48.215,
+        "rpf": 49.333,
+        "rae": 38.897,
+        "average": 45.482,
+        "n": 195
+      },
+      "rag": {
+        "apf": 50.974,
+        "rpf": 51.462,
+        "rae": 42.964,
+        "average": 48.467,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 49.385,
+        "rpf": 50.333,
+        "rae": 40.667,
+        "average": 46.795,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 45.436,
+        "rpf": 46.385,
+        "rae": 36.81,
+        "average": 42.877,
+        "n": 195
+      },
+      "arc": {
+        "apf": 57.718,
+        "rpf": 57.436,
+        "rae": 49.508,
+        "average": 54.887,
+        "n": 195
+      }
+    },
+    "arcane-32B-dpo": {
+      "vanilla": {
+        "apf": 53.256,
+        "rpf": 54.205,
+        "rae": 45.026,
+        "average": 50.829,
+        "n": 195
+      },
+      "summary": {
+        "apf": 54.267,
+        "rpf": 54.708,
+        "rae": 45.231,
+        "average": 51.402,
+        "n": 195
+      },
+      "rag": {
+        "apf": 55.462,
+        "rpf": 56.103,
+        "rae": 47.205,
+        "average": 52.923,
+        "n": 195
+      },
+      "lifechoice": {
+        "apf": 56.703,
+        "rpf": 56.938,
+        "rae": 48.81,
+        "average": 54.15,
+        "n": 195
+      },
+      "timechara": {
+        "apf": 52.103,
+        "rpf": 53.513,
+        "rae": 44.015,
+        "average": 49.877,
+        "n": 195
+      },
+      "arc": {
+        "apf": 68.103,
+        "rpf": 66.231,
+        "rae": 61.569,
+        "average": 65.301,
+        "n": 195
+      }
+    }
+  },
+  "include_thought": true,
+  "this_run": {
+    "responses_scored": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0
+  }
+}

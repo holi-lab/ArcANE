@@ -1,0 +1,2118 @@
+{
+  "Dorian Gray": {
+    "character": "Dorian Gray",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From relational dependence to isolated self-assertion",
+            "set_b_axis": "From relational receptivity to self-sealing dominance",
+            "overlap_description": "Both describe Dorian's movement from openness to others' influence toward increasing isolation, control, secrecy, and self-protective agency."
+          },
+          {
+            "set_a_axis": "From moral responsiveness to aestheticized corruption",
+            "set_b_axis": "From aesthetic innocence to divided moral self-knowledge",
+            "overlap_description": "Both track Dorian's conscience awakening and then becoming split, displaced, and unusable as he turns guilt into concealment and aesthetic experience."
+          },
+          {
+            "set_a_axis": "From beautiful innocence to split, corrupt self-knowledge",
+            "set_b_axis": "From trusting surfaces to living by concealment",
+            "overlap_description": "Both focus on the split between outward appearance and inward truth, ending with Dorian recognizing his beauty as a mask for corruption."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From immediate sensation to self-deceptive aestheticization",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From romantic idealization to compulsive appetite",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From fascinated disciple to wary dependent",
+            "set_b_axis": "From fascinated pupil to selective, internalized dependence",
+            "overlap_description": "Both show Dorian beginning as Henry's captivated admirer and ending still shaped by Henry's influence, but more defensive, selective, and internally mediated."
+          },
+          {
+            "set_a_axis": "From cherished intimacy to hostile secrecy",
+            "set_b_axis": "From cherished intimacy to hostile concealment",
+            "overlap_description": "Both describe the collapse of Dorian's bond with Basil from affectionate closeness into secrecy, confrontation, and finally murder and erasure."
+          },
+          {
+            "set_a_axis": "From salvational idealization to cruel dismissal",
+            "set_b_axis": "From worshipful romance to guilt-haunted detachment",
+            "overlap_description": "Both capture Dorian's rapid shift from idealizing Sibyl as redemptive and transcendent to rejecting her, then carrying her death as a detached, aestheticized burden."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From distant indifference to hunted terror",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From relational receptivity to self-sealing dominance",
+        "pole_start": "Dorian begins emotionally receptive, impressionable, and defined through others' admiration and influence, especially Basil's idealization and Lord Henry's seduction.",
+        "pole_end": "Dorian ends self-protective, controlling, and isolated, using secrecy, manipulation, and destruction to preserve autonomy and concealment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial receptivity and being-shaped",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Dorian is primarily a recipient of others' projections and ideas. He is admired by Basil, fascinated by Henry, and psychologically awakened through external voices rather than self-directed agency.",
+            "key_moments": [
+              "Basil's idealization of Dorian in chapter 1",
+              "Lord Henry's rhetoric awakening Dorian in chapter 2",
+              "Dorian seeking Henry's company in chapter 3"
+            ]
+          },
+          {
+            "phase": "Romantic fusion and dependent communion",
+            "chapter_range": [
+              4,
+              7
+            ],
+            "position_description": "He briefly moves toward communion through romantic idealization of Sibyl, wanting fusion, possession, and emotional mutuality, but this quickly becomes possessive and unstable.",
+            "key_moments": [
+              "Infatuation with Sibyl Vane in chapter 4",
+              "Engagement and idealized love in chapter 5",
+              "Rejection after Sibyl's bad performance in chapter 6",
+              "Sibyl's death and the portrait bargain in chapter 7"
+            ]
+          },
+          {
+            "phase": "Secrecy, control, and isolation",
+            "chapter_range": [
+              8,
+              13
+            ],
+            "position_description": "Dorian increasingly privileges agency as concealment, manipulation, and domination. He hides the portrait, instrumentalizes others, and turns his secret life into a controlled private system.",
+            "key_moments": [
+              "Moving the portrait and managing secrecy in chapter 8",
+              "Aestheticizing corruption in chapter 9",
+              "Forcing Basil to see the portrait in chapter 10",
+              "Murdering Basil in chapter 11",
+              "Coercing Alan Campbell in chapter 12",
+              "Maintaining a flawless social mask in chapter 13"
+            ]
+          },
+          {
+            "phase": "Fearful self-preservation and final self-assertion",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "His agency becomes defensive rather than expansive: he acts to erase memory, evade punishment, and survive. Communion is nearly absent except as fleeting pity or social performance, and the novel ends with violent self-assertion against all relational claims.",
+            "key_moments": [
+              "Seeking oblivion in opium dens in chapter 14",
+              "James Vane's threat and Dorian's panic in chapters 15-16",
+              "Tentative reform language in chapter 17",
+              "Decision to destroy the portrait rather than confess in chapter 18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian moves from being shaped by others and seeking fusion with them to becoming increasingly isolated, controlling, and self-protective. Even his brief relational openings are absorbed into a final posture of dominance over his own secret and over the evidence of his soul."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Conscience",
+        "axis_name": "From moral responsiveness to divided self-knowledge",
+        "pole_start": "Dorian begins with a fragile but real capacity for conscience, remorse, and moral repair, though it is easily swayed by beauty and influence.",
+        "pole_end": "Dorian ends with clear awareness of sin and inner corruption, but this knowledge remains split off from genuine repentance and is redirected into self-protection and erasure.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial moral susceptibility",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Dorian has little stable ethical framework at first, but the wish that the portrait bear age and corruption, followed by Sibyl's collapse, creates the first serious stirrings of guilt and fear.",
+            "key_moments": [
+              "Wish that the portrait would age instead of him in chapter 2",
+              "Horror at Sibyl's failure and suicide in chapters 6-7",
+              "Brief resolve to apologize and reform"
+            ]
+          },
+          {
+            "phase": "Moral relapse into aesthetic detachment",
+            "chapter_range": [
+              7,
+              10
+            ],
+            "position_description": "Remorse is displaced by Henry's aesthetic framing and Dorian's own tendency to treat suffering as art. He begins to deny responsibility, hide evidence, and see morality as secondary to beauty and sensation.",
+            "key_moments": [
+              "Accepting Henry's interpretation of Sibyl's death",
+              "Choosing the bargain of eternal youth and secret guilt",
+              "Tearing up the inquest report",
+              "Reading the yellow book and turning corruption into a philosophy"
+            ]
+          },
+          {
+            "phase": "Corruption stabilized as worldview",
+            "chapter_range": [
+              11,
+              17
+            ],
+            "position_description": "Dorian no longer merely sins; he manages sin. Murder, concealment, and manipulation become normalized, though flashes of conscience still appear and briefly challenge his self-image.",
+            "key_moments": [
+              "Arranging concealment after Basil's murder",
+              "Living a double life and enjoying its terrible pleasure",
+              "Burning evidence and evading scrutiny",
+              "Speaking of being good and of the soul as real"
+            ]
+          },
+          {
+            "phase": "Late remorse and failed repentance",
+            "chapter_range": [
+              18,
+              18
+            ],
+            "position_description": "At the end, he briefly condemns his beauty and seeks purification, but this moral awakening is unstable and collapses into a final attempt at erasure rather than true confession.",
+            "key_moments": [
+              "Despising his beauty and smashing the mirror",
+              "Resolving to destroy the portrait as the last evidence against him",
+              "Stabbing the painting instead of facing judgment"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian repeatedly oscillates between remorse and evasion, but the long-term movement is clear: conscience is awakened, then aestheticized, then suppressed, and finally replaced by a desperate wish to erase consequences."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Appearance-Reality",
+        "axis_name": "From trusting surfaces to living by concealment",
+        "pole_start": "Dorian initially inhabits beauty and social ease without much awareness of hidden corruption or the need to manage appearances.",
+        "pole_end": "Dorian ends as someone who lives through masks, alibis, hidden evidence, and strategic performance, treating appearance as a weapon.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Naive surface existence",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "At first, beauty is simply a fact of life. The portrait's significance is shocking precisely because it reveals a split between surface and inner life.",
+            "key_moments": [
+              "Portrait completed in chapter 2",
+              "Dorian's horror at aging and loss of beauty"
+            ]
+          },
+          {
+            "phase": "Discovery of the hidden self",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "The portrait becomes a secret moral record, and Dorian begins actively hiding it. He learns that concealment can preserve his public self while containing corruption elsewhere.",
+            "key_moments": [
+              "Portrait changes after Sibyl's death in chapter 6",
+              "Keeping the portrait hidden in chapter 8",
+              "Basil's partial discovery and Dorian's anxiety in chapter 8"
+            ]
+          },
+          {
+            "phase": "Strategic double life",
+            "chapter_range": [
+              9,
+              13
+            ],
+            "position_description": "He fully embraces the split between public innocence and private corruption. Social charm, servants, and ritual become tools for maintaining the mask.",
+            "key_moments": [
+              "Cultivated aesthetic corruption in chapter 9",
+              "Managing Basil and the portrait in chapter 10",
+              "Covering up Basil's murder in chapters 11-12",
+              "Performing normalcy at dinner in chapter 13"
+            ]
+          },
+          {
+            "phase": "Mask under pressure",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "The mask remains necessary but increasingly fragile. Dorian uses opium, social performance, and finally destruction of the portrait to try to erase the gap between surface and truth.",
+            "key_moments": [
+              "Seeking oblivion in chapter 14",
+              "Fear of James Vane in chapters 15-16",
+              "Trying to reform in chapter 17",
+              "Destroying the portrait in chapter 18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian's arc is organized around the split between appearance and reality. He moves from shock at hidden corruption to a sophisticated life of concealment, ending by trying to eliminate the visible sign of his inner truth."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Desire Regulation",
+        "axis_name": "From romantic idealization to compulsive appetite",
+        "pole_start": "Dorian begins by desiring beauty, love, and aesthetic intensity in a way that still seems elevated and enchanted.",
+        "pole_end": "Dorian ends driven by fear, sensation-seeking, and the urge to erase discomfort rather than pursue any stable good.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Idealized longing",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "His desires are initially lofty and romantic: he wants beauty preserved, Henry's attention, and Sibyl's transcendent love.",
+            "key_moments": [
+              "Wish for eternal youth in chapter 2",
+              "Seeking Henry's company in chapter 3",
+              "Infatuation and engagement with Sibyl in chapters 4-5"
+            ]
+          },
+          {
+            "phase": "Desire shattered and redirected",
+            "chapter_range": [
+              6,
+              10
+            ],
+            "position_description": "After Sibyl's failure and death, desire becomes less ideal and more defensive. He wants concealment, relief, and control, while still chasing aesthetic stimulation.",
+            "key_moments": [
+              "Rejection of Sibyl in chapter 6",
+              "Choosing the portrait as a secret burden in chapter 7",
+              "Yellow book and sensory refinement in chapters 8-9",
+              "Turning Basil into a witness in chapter 10"
+            ]
+          },
+          {
+            "phase": "Addictive escape",
+            "chapter_range": [
+              11,
+              18
+            ],
+            "position_description": "Desire becomes compulsive: he wants to avoid feeling, to anesthetize guilt, and to preserve his pleasures at any cost. Even reform is desired mainly as relief.",
+            "key_moments": [
+              "Murder cover-up in chapters 11-12",
+              "Opium dens in chapter 14",
+              "Fear-driven survival in chapters 15-16",
+              "Hope of being good in chapters 17-18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian's wanting shifts from romantic and aesthetic idealization into a compulsive cycle of concealment, sensation, and escape. By the end, desire is less about fulfillment than about avoiding pain and preserving the self."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Dorian Gray",
+        "target_character": "Lord Henry Wotton",
+        "dimension_label": "Influence-Dependence",
+        "axis_name": "From fascinated pupil to selective, internalized dependence",
+        "pole_start": "Dorian begins as a captivated listener, intellectually and emotionally open to Henry's worldview, with little resistance and strong admiration.",
+        "pole_end": "Dorian ends still dependent on Henry's ideas, but more selectively and defensively, using Henry as an internalized voice rather than a fully trusted guide.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Seduction and awakening",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "Henry is the primary catalyst of Dorian's self-consciousness and hedonistic worldview. Dorian seeks his company, trusts his wit, and is intellectually seduced by him.",
+            "key_moments": [
+              "Henry's speeches in chapter 2",
+              "Dorian asking to accompany Henry in chapter 3",
+              "Henry's continued presence during the Sibyl courtship in chapters 4-5"
+            ]
+          },
+          {
+            "phase": "Partial resistance, deeper internalization",
+            "chapter_range": [
+              6,
+              13
+            ],
+            "position_description": "Dorian briefly fears Henry's cynicism after Sibyl's death, but soon absorbs Henry's language to justify concealment, pleasure, and moral evasion.",
+            "key_moments": [
+              "Brief resolve to avoid Henry in chapter 6",
+              "Henry's framing of Sibyl's death in chapter 7",
+              "Yellow book and aesthetic philosophy in chapter 8-9",
+              "Repeated use of Henry-like irony and detachment in chapters 10-13"
+            ]
+          },
+          {
+            "phase": "Dependence under strain",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "Henry remains a psychological shield, but Dorian is increasingly isolated in his fear and guilt. He still relies on Henry's aphorisms, yet Henry cannot fully stabilize him.",
+            "key_moments": [
+              "Using Henry's aphorism about curing the soul in chapter 14",
+              "Fear and performance in chapters 15-16",
+              "Henry's skepticism during Dorian's reform talk in chapters 17-18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian never escapes Henry's influence; instead, he internalizes it. The relationship shifts from overt fascination to a more defensive dependence in which Henry becomes both model and alibi."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Dorian Gray",
+        "target_character": "Basil Hallward",
+        "dimension_label": "Affection-Contempt",
+        "axis_name": "From cherished intimacy to hostile concealment",
+        "pole_start": "Dorian begins with affectionate dependence and gratitude toward Basil, who loves him, paints him, and represents a warm, admiring bond.",
+        "pole_end": "Dorian ends in alienation, contempt, and fatal concealment, with Basil functioning as a dead witness and moral threat rather than a loved friend.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Warm but displaced attachment",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Basil remains important, but Dorian is increasingly drawn toward Henry and away from Basil's moral seriousness. The bond is still affectionate, though less central.",
+            "key_moments": [
+              "Basil's idealization in chapter 1",
+              "Dorian's mixed feelings in chapters 2-5"
+            ]
+          },
+          {
+            "phase": "Moral threat and exposure",
+            "chapter_range": [
+              6,
+              10
+            ],
+            "position_description": "Basil becomes associated with conscience, the portrait, and the possibility of exposure. Dorian feels guilt, anxiety, and then resentment toward him.",
+            "key_moments": [
+              "Basil's concern after Sibyl's death in chapters 6-8",
+              "Basil's confession of admiration in chapter 8",
+              "Dorian leading Basil to the portrait in chapter 10"
+            ]
+          },
+          {
+            "phase": "Murder and erasure",
+            "chapter_range": [
+              11,
+              18
+            ],
+            "position_description": "The relationship ends in murder and concealment. Basil is no longer a person in Dorian's emotional world but a contaminating secret to be managed.",
+            "key_moments": [
+              "Basil's murder in chapter 11",
+              "Body disposal in chapter 12",
+              "Lingering guilt and minimization in chapters 13-18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian's relation to Basil moves from being loved and admired to being threatened by Basil's conscience, and finally to violent erasure. The arc is one of intimacy destroyed by secrecy and moral refusal."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Dorian Gray",
+        "target_character": "Sibyl Vane",
+        "dimension_label": "Idealization-Estrangement",
+        "axis_name": "From worshipful romance to guilt-haunted detachment",
+        "pole_start": "Dorian begins by idealizing Sibyl as a transcendent artistic and romantic figure, wanting union, possession, and elevation through her.",
+        "pole_end": "Dorian ends with Sibyl as a tragic memory and moral wound, emotionally distant from her reality and using her death as part of his private aesthetic burden.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Worshipful infatuation",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "He sees Sibyl as genius, beauty, and love fused together, and wants to make her his wife and artistic ideal.",
+            "key_moments": [
+              "First intense attraction in chapter 4",
+              "Engagement and public romantic certainty in chapter 5"
+            ]
+          },
+          {
+            "phase": "Collapse into contempt",
+            "chapter_range": [
+              6,
+              7
+            ],
+            "position_description": "Her bad performance destroys the ideal, and Dorian responds with cruelty, then guilt when the portrait changes and she dies.",
+            "key_moments": [
+              "Rejection after the performance in chapter 6",
+              "Remorse and attempted reconciliation in chapter 6",
+              "Sibyl's death and Dorian's grief in chapter 7"
+            ]
+          },
+          {
+            "phase": "Aestheticized memory",
+            "chapter_range": [
+              8,
+              18
+            ],
+            "position_description": "Sibyl becomes less a loved person than a symbol of lost beauty, guilt, and artistic tragedy. Dorian's relation to her is mediated through memory, not living attachment.",
+            "key_moments": [
+              "Muted guilt in chapter 8",
+              "Sibyl as part of his corrupted aesthetic life in chapters 9-18"
+            ]
+          }
+        ],
+        "evidence_summary": "Dorian's bond with Sibyl is the clearest example of his movement from idealizing communion to estranged self-protection. He loves the image, destroys the person, and then carries the death as an aestheticized wound."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Dorian Gray",
+        "target_character": "James Vane",
+        "dimension_label": "Invulnerability-Fear",
+        "axis_name": "From distant indifference to hunted terror",
+        "pole_start": "Dorian begins with no real personal relation, only the abstract consequences of Sibyl's death and the possibility of retribution.",
+        "pole_end": "Dorian ends with acute fear and bodily panic, as James becomes the living embodiment of Dorian's inescapable past.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Abstract threat",
+            "chapter_range": [
+              7,
+              13
+            ],
+            "position_description": "James exists mostly as a background possibility of consequence. Dorian is not yet directly confronted, so the threat remains theoretical.",
+            "key_moments": [
+              "Dorian continues to evade moral reckoning after Sibyl's death",
+              "He lives in secrecy and social insulation"
+            ]
+          },
+          {
+            "phase": "Physicalized fear",
+            "chapter_range": [
+              14,
+              16
+            ],
+            "position_description": "James becomes a concrete danger. Dorian survives by chance, then faints when he sees James at the conservatory window and becomes visibly terrified.",
+            "key_moments": [
+              "James is misled and Dorian escapes",
+              "Dorian sees James's face at the window",
+              "He faints and asks Henry if he is safe"
+            ]
+          }
+        ],
+        "evidence_summary": "James Vane functions as the embodiment of retribution, turning Dorian's abstract guilt into embodied fear and destabilizing his sense of invulnerability."
+      }
+    ]
+  },
+  "Lord Henry Wotton": {
+    "character": "Lord Henry Wotton",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From detached self-assertion to implicated social control",
+            "set_b_axis": "From detached social mastery to faintly vulnerable self-reflection",
+            "overlap_description": "Both track Henry as fundamentally agentic and socially dominant, with only a slight late-stage softening or complication rather than a true moral transformation."
+          },
+          {
+            "set_a_axis": "From playful cynicism to implicated detachment",
+            "set_b_axis": "From amused cynicism to slightly more candid existential unease",
+            "overlap_description": "Both describe Henry's cynicism as remaining intact while becoming less carefree and more shadowed by mortality, consequence, and self-awareness."
+          },
+          {
+            "set_a_axis": "From brilliant conversationalist to author of another’s ruin",
+            "set_b_axis": "From playful curiosity about influence to confirmed self-image as Dorian's shaping force",
+            "overlap_description": "Both emphasize Henry's growing self-conception as the source of Dorian's corruption and the destabilization of his harmless-wit self-image."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From brilliant conversationalist to author of another’s ruin",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From detached social mastery to faintly vulnerable self-reflection",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From fascinated acquaintance to proprietary influence",
+            "set_b_axis": "From fascinated observer to absent intellectual corrupter",
+            "overlap_description": "Both describe Henry's central bond with Dorian as moving from fascination to asymmetrical possession and long-distance shaping influence."
+          },
+          {
+            "set_a_axis": "From polite obstruction to moral rivalry",
+            "set_b_axis": "From teasing intimacy to stable moral opposition",
+            "overlap_description": "Both capture the Henry-Basil relationship as a shift from socially managed tension to a durable ethical and relational opposition."
+          },
+          {
+            "set_a_axis": "From intrigued spectator to dismissive reducer",
+            "set_b_axis": "From curious interest to detached aestheticization",
+            "overlap_description": "Both identify Henry's relation to Sibyl as moving from indirect curiosity to dehumanizing aesthetic judgment after her failure and death."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From witty acquaintance to admired dangerous thinker",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From curious interest to detached aestheticization",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From detached social mastery to faintly vulnerable implicated control",
+        "pole_start": "Highly agentic: self-assertive, dominant in conversation, psychologically controlling, and oriented toward mastery over others from a position of emotional distance.",
+        "pole_end": "Still strongly agentic, but with a slight softening toward self-awareness and vulnerability; he remains dominant, yet his control is increasingly implicated in relational consequences and personal fragility.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Predatory social mastery",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Henry begins as a socially sovereign observer who uses wit, selection, and conversational force to orient himself toward Dorian as an object of fascination and influence. Communion is minimal and instrumental.",
+            "key_moments": [
+              "He insists on meeting Dorian immediately and outmaneuvers Basil for access.",
+              "He performs brilliantly in social settings and treats speech as a tool of shaping identity.",
+              "He reframes Sibyl's crisis and death as material for interpretation rather than mutual concern."
+            ]
+          },
+          {
+            "phase": "Remote influence and implicated control",
+            "chapter_range": [
+              8,
+              16
+            ],
+            "position_description": "Henry becomes more offstage, but his agency persists through books, epigrams, and indirect cultural pressure. His dominance is less carefree now: the consequences of his influence become visible in Dorian's corruption, panic, and concealment.",
+            "key_moments": [
+              "He sends the yellow book as an extension of his worldview.",
+              "He sees Dorian's life increasingly structured by his ideas at a distance.",
+              "He responds to Dorian's fear and crisis with management rather than reciprocity."
+            ]
+          },
+          {
+            "phase": "Controlled vulnerability",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "Henry remains outwardly ironic and dominant, but the late chapters introduce a modest inwardness: he acknowledges fear of age, death, and loneliness without abandoning his detached stance.",
+            "key_moments": [
+              "He speaks more candidly about mortality and emotional limits.",
+              "The narrative leaves his slight vulnerability unexpanded, preserving his agentic core."
+            ]
+          }
+        ],
+        "evidence_summary": "Henry does not move toward communion in any substantial way. The merged arc preserves his dominant agency while integrating both the event-based emphasis on implicated social control and the psychological-summary emphasis on a faint late vulnerability."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Detachment",
+        "axis_name": "From amused cynicism to existentially shadowed detachment",
+        "pole_start": "Detached cynicism: he treats morality as a social inconvenience and suffering as aesthetic material, believing wit can stand above judgment.",
+        "pole_end": "Still detached, but with a faintly more candid awareness of mortality, emotional limits, and the harm his ideas have helped produce.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Confident aesthetic cynicism",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Henry consistently interprets people and events through beauty, style, and psychological experiment. His detachment is triumphant rather than troubled, and he repeatedly converts suffering into epigrammatic material.",
+            "key_moments": [
+              "He aestheticizes Dorian's romance and Sibyl's collapse.",
+              "He restores social ease after tragedy by reframing events as lessons or curiosities.",
+              "He remains confident that his wit places him above moral judgment."
+            ]
+          },
+          {
+            "phase": "Briefly punctured composure",
+            "chapter_range": [
+              15,
+              17
+            ],
+            "position_description": "His detachment remains intact, but it is no longer entirely effortless. Dorian's collapse and Henry's own reflections on age and death introduce a slight crack in the performance of total irony.",
+            "key_moments": [
+              "He shows a fleeting alarm when Dorian collapses.",
+              "He quickly reasserts composure and cynicism.",
+              "He speaks more openly about fear of death and loneliness."
+            ]
+          },
+          {
+            "phase": "Retrospective moral implication",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "Henry does not become morally serious, but the narrative increasingly frames his detachment as complicit in catastrophe. The worldview survives, yet its innocence is gone.",
+            "key_moments": [
+              "He hears Dorian's reform claim with irony.",
+              "Dorian's final destruction of the portrait retroactively condemns the philosophy Henry has long embodied."
+            ]
+          }
+        ],
+        "evidence_summary": "The merged reading keeps Henry's moral detachment as the core trait, while combining A's emphasis on ethical implication with B's emphasis on late existential unease. The result is not moral growth, but a darker, more self-aware detachment."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Influence Certainty",
+        "axis_name": "From playful curiosity about influence to confirmed self-image as Dorian's corrupter",
+        "pole_start": "Tentative fascination: he is curious about whether Dorian can be influenced and enjoys the possibility of shaping him.",
+        "pole_end": "Confirmed self-conception as the intellectual originator of Dorian's corruption and the absent center of Dorian's worldview.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Testing the effect",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Henry begins by probing Dorian and quickly sees that his words have an effect. Curiosity turns into confidence as he recognizes Dorian's receptivity.",
+            "key_moments": [
+              "He becomes intrigued by Dorian as a possible object of influence.",
+              "He recognizes that Dorian is responsive to his ideas.",
+              "He feels triumphant that his philosophy is taking root."
+            ]
+          },
+          {
+            "phase": "Sustained cultivation",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "He increasingly treats Dorian as a psychological experiment and a living embodiment of his worldview. Influence becomes central to his self-concept, not merely a possibility.",
+            "key_moments": [
+              "He sees Dorian's passion as evidence of his own shaping power.",
+              "He reframes grief as a lesson to keep Dorian aligned with him.",
+              "He sends the yellow book as a deliberate extension of his influence."
+            ]
+          },
+          {
+            "phase": "Indirect dominance",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "Even when absent, Henry remains the interpretive center of Dorian's life. His confidence in his own shaping power is effectively confirmed by Dorian's continued internalization of his ideas.",
+            "key_moments": [
+              "Dorian continues to live through Henry's philosophy in Henry's absence.",
+              "Henry still tries to pull Dorian back into his orbit.",
+              "No reversal of Henry's influence is shown."
+            ]
+          }
+        ],
+        "evidence_summary": "This axis synthesizes both sets' strongest shared claim: Henry moves from curiosity to triumph to a stable self-image as the source of Dorian's aesthetic and moral corruption."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Lord Henry Wotton",
+        "target_character": "Dorian Gray",
+        "dimension_label": "Possessive Influence",
+        "axis_name": "From fascinated observer to absent intellectual corrupter",
+        "pole_start": "Curious, admiring, and opportunistically interested in Dorian as a beautiful and impressionable subject.",
+        "pole_end": "Possessive, mentoring, and psychologically shaping Dorian through direct conversation and indirect cultural influence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial fascination",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Henry first sees Dorian as a uniquely significant object of aesthetic and psychological interest, then quickly realizes he can influence him.",
+            "key_moments": [
+              "Dorian becomes a source of fascination and possible influence.",
+              "Henry confirms Dorian's receptivity and feels triumphant."
+            ]
+          },
+          {
+            "phase": "Active cultivation",
+            "chapter_range": [
+              3,
+              7
+            ],
+            "position_description": "The relationship becomes more possessive and experimental. Henry enjoys Dorian's responsiveness and deepens his dependence on Henry's interpretations.",
+            "key_moments": [
+              "Henry experiences his wit as successful domination.",
+              "Dorian's love for Sibyl becomes another experiment in Henry's hands.",
+              "Henry calms Dorian after Sibyl's death and keeps him in orbit."
+            ]
+          },
+          {
+            "phase": "Indirect domination",
+            "chapter_range": [
+              8,
+              18
+            ],
+            "position_description": "Henry's influence persists even when he is absent. The yellow book, repeated epigrams, and Dorian's internalized worldview show that the relationship has become asymmetrical and enduring.",
+            "key_moments": [
+              "The yellow book extends Henry's influence at a distance.",
+              "Dorian continues to act under Henry's philosophical spell.",
+              "Henry still tries to draw Dorian back into social and emotional proximity."
+            ]
+          }
+        ],
+        "evidence_summary": "This is Henry's central relationship arc. It moves from fascination to possession, with intimacy increasing but never becoming mutual or caring in an equal sense."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Lord Henry Wotton",
+        "target_character": "Basil Hallward",
+        "dimension_label": "Moral Opposition",
+        "axis_name": "From teasing intimacy to stable moral opposition",
+        "pole_start": "Affectionate, teasing, and intellectually superior, with some medium intimacy but little genuine mutuality.",
+        "pole_end": "A stable foil relationship marked by distance, low trust, and Henry's continued superiority over Basil's sincerity and conscience.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Teasing engagement",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Henry enjoys Basil's seriousness and vulnerability, probing his attachment to Dorian while keeping the interaction playful and asymmetrical.",
+            "key_moments": [
+              "Henry draws Basil out about Dorian.",
+              "Basil serves as a foil in the social triangle.",
+              "Henry continues to unsettle Basil during the engagement discussion."
+            ]
+          },
+          {
+            "phase": "Moral contrast hardens",
+            "chapter_range": [
+              6,
+              17
+            ],
+            "position_description": "Basil becomes less a companion than a moral counterweight. Henry's stance remains dismissive and superior, while Basil's concern increasingly confirms Henry's role as the anti-Basil.",
+            "key_moments": [
+              "Henry remains companionable but contemptuous.",
+              "Basil's accusation sharpens the sense of opposition.",
+              "Henry treats Basil as a topic for irony rather than grief."
+            ]
+          }
+        ],
+        "evidence_summary": "Henry and Basil do not undergo a dramatic relational transformation, but their relationship settles into a clear pattern: teasing asymmetry at first, then stable moral opposition. The net movement is limited, so the arc is best treated as largely flat with hardened contrast."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Lord Henry Wotton",
+        "target_character": "Sibyl Vane",
+        "dimension_label": "Aesthetic Objectification",
+        "axis_name": "From curious catalyst to detached aestheticizer",
+        "pole_start": "Indirectly curious and intrigued by Sibyl as part of Dorian's emotional life.",
+        "pole_end": "Detached, aestheticizing, and emotionally uninvested, treating her as a dramatic element rather than a person.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Curious catalyst",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Henry is interested in Sibyl mainly because she adds complexity to Dorian's development and provides a test case for his theories.",
+            "key_moments": [
+              "He wants to witness the relationship firsthand.",
+              "He encourages the drama because it makes Dorian more interesting."
+            ]
+          },
+          {
+            "phase": "Detached aesthetic judgment",
+            "chapter_range": [
+              6,
+              7
+            ],
+            "position_description": "Sibyl's failure and death are absorbed into Henry's worldview as beautiful tragedy and evidence for his aesthetic philosophy, not as a source of grief.",
+            "key_moments": [
+              "He finds her beauty and failure aesthetically revealing.",
+              "He reframes her death as a tragic but useful event."
+            ]
+          }
+        ],
+        "evidence_summary": "Henry's relation to Sibyl is not emotionally deep, but it changes in a trackable way: from curiosity about her role in Dorian's life to full aesthetic objectification after her failure and death."
+      }
+    ]
+  },
+  "Basil Hallward": {
+    "character": "Basil Hallward",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-contained artist to fused guardian-devotee",
+            "set_b_axis": "From guarded artistic self-protection to engulfed relational devotion",
+            "overlap_description": "Both track Basil's movement from secrecy, control, and artistic self-containment toward intense relational fusion with Dorian, especially as protectiveness becomes devotion and self-boundaries erode."
+          },
+          {
+            "set_a_axis": "From worshipful admiration to moral horror",
+            "set_b_axis": "From aesthetic idealization to moral horror",
+            "overlap_description": "Both describe Basil's shift from idealizing Dorian as beautiful and elevating to confronting him as morally ruined, dangerous, and horrifying."
+          },
+          {
+            "set_a_axis": "From guarded concealment to remorseful confession",
+            "set_b_axis": "From artistic rationalization to painful self-recognition",
+            "overlap_description": "Both capture Basil's late-stage self-disclosure: he stops translating his feelings into art alone and explicitly recognizes and admits the truth and moral weight of his attachment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From artistic control to moral burden",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From aesthetic idealization to moral horror",
+            "assessment": "artifact"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From worshipful attachment to betrayed moral witness",
+            "set_b_axis": "From idealizing muse-love to tragic posthumous witness",
+            "overlap_description": "Both describe the Basil-Dorian bond as beginning in intimate, possessive admiration and ending in murder, guilt, and Basil's survival only as a haunting moral presence in Dorian's conscience."
+          },
+          {
+            "set_a_axis": "From wary civility to active antagonism",
+            "set_b_axis": "From wary fascination to moral hostility",
+            "overlap_description": "Both track Basil's increasingly negative stance toward Henry, from caution and suspicion to settled moral hostility as Henry's influence on Dorian becomes destructive."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From worshipful attachment to betrayed moral witness",
+            "assessment": "artifact"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From wary outsider to admiring moral ally",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From guarded artistic self-protection to engulfed relational devotion",
+        "pole_start": "More agency-leaning: Basil begins by trying to preserve separateness, secrecy, and control over the portrait and over Dorian's exposure to others, even while already emotionally invested.",
+        "pole_end": "Strongly communion-leaning: Basil ends as profoundly fused with Dorian's welfare, defined by protectiveness, confession, moral caretaking, and a willingness to subordinate his own boundaries to Dorian's fate.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Protective secrecy and artistic containment",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil tries to manage his attachment through concealment and control, keeping the portrait hidden and Dorian protected from Lord Henry while translating feeling into art rather than open confession.",
+            "key_moments": [
+              "He fears the portrait contains too much of himself to be shown",
+              "He tries to prevent Lord Henry from influencing Dorian",
+              "He frames attachment as artistic inspiration rather than direct emotional disclosure"
+            ]
+          },
+          {
+            "phase": "Anxious possessiveness and displacement",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "His attachment becomes more openly relational and less controllable. He feels excluded by Henry and Dorian's shifting loyalties, yet his concern deepens into protectiveness over Dorian's happiness and moral future.",
+            "key_moments": [
+              "Dorian's engagement makes Basil feel older and displaced",
+              "He worries Henry has become Dorian's confidant",
+              "He is pained by Dorian's rejection and emotional distance"
+            ]
+          },
+          {
+            "phase": "Confessional fusion and moral caretaking",
+            "chapter_range": [
+              8,
+              11
+            ],
+            "position_description": "Basil's devotion becomes fully explicit and morally charged. He admits worship, recognizes his own implication in Dorian's fate, and tries to save him through truth, prayer, and repentance rather than control.",
+            "key_moments": [
+              "He admits he worshipped Dorian",
+              "He confronts the portrait as a moral revelation",
+              "He pleads for repentance and prayer"
+            ]
+          },
+          {
+            "phase": "Posthumous moral residue",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "After Basil's death, his relational identity persists only as a haunting witness in Dorian's conscience, with communion surviving as guilt, memory, and accusation rather than reciprocal relation.",
+            "key_moments": [
+              "Dorian fears the dead Basil upstairs",
+              "Basil becomes a buried moral witness",
+              "His memory continues to function as conscience and indictment"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Basil moves from guarded self-protection toward total relational investment in Dorian. The arc is not toward independence but toward deeper communion, culminating in confession, moral responsibility, and a posthumous afterlife as conscience."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Idealization-Disillusionment",
+        "axis_name": "From worshipful idealization to moral horror",
+        "pole_start": "Idealizing: Basil initially sees Dorian as the source of artistic renewal, beauty, and spiritual elevation, and treats his attachment as reverent admiration.",
+        "pole_end": "Disillusioned and horrified: Basil ends by seeing Dorian as morally ruined, dangerous, and capable of murder, with admiration collapsing into revulsion, grief, and fear.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Worshipful elevation",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil idealizes Dorian as the indispensable source of his art and as a singular revelation, while sensing the danger of that devotion.",
+            "key_moments": [
+              "Basil says Dorian has transformed his art",
+              "Basil admits he has given away his whole soul to Dorian"
+            ]
+          },
+          {
+            "phase": "Cracks in the ideal",
+            "chapter_range": [
+              2,
+              8
+            ],
+            "position_description": "Basil begins to see that Dorian can be influenced, can wound others, and can withhold himself; the ideal image becomes unstable but is not yet fully destroyed.",
+            "key_moments": [
+              "Basil is alarmed by Dorian's changed tone after Henry's influence",
+              "Basil is distressed by Dorian's jealousy of the portrait",
+              "Basil confesses that his worship of Dorian was excessive"
+            ]
+          },
+          {
+            "phase": "Catastrophic disillusionment",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "The hidden portrait forces Basil to confront Dorian's corruption directly; admiration gives way to horror, disgust, pity, and fear.",
+            "key_moments": [
+              "Basil sees the grotesque portrait and realizes it embodies Dorian's corruption",
+              "Basil pleads for repentance, acknowledging his own idolatry"
+            ]
+          },
+          {
+            "phase": "Aftermath of moral collapse",
+            "chapter_range": [
+              11,
+              14
+            ],
+            "position_description": "After Basil's murder, Dorian's memories and guilt confirm Basil's final status as the ruined witness to Dorian's moral decay.",
+            "key_moments": [
+              "Dorian kills Basil",
+              "Dorian later thinks of Basil as the murdered man and as a haunting moral presence"
+            ]
+          }
+        ],
+        "evidence_summary": "Basil's emotional relation to Dorian moves from reverent idealization to painful recognition of corruption. The portrait revelation is the decisive turning point, but the arc is prepared by earlier signs of anxiety, exclusion, and loss of control."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Secrecy-Confession",
+        "axis_name": "From guarded concealment to remorseful confession",
+        "pole_start": "Secretive and guarded: Basil initially believes his inner life must be hidden, and he protects the portrait because it would expose too much of himself.",
+        "pole_end": "Confessional and morally explicit: Basil ends by naming his idolatry, admitting guilt, and urging repentance as the proper response to sin.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Protective concealment",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil hides the portrait and resists public exposure because he experiences it as a confession of his soul.",
+            "key_moments": [
+              "Basil says he cannot exhibit the portrait because he has put too much of himself into it",
+              "Basil refuses to let Henry meet Dorian"
+            ]
+          },
+          {
+            "phase": "Partial disclosure under pressure",
+            "chapter_range": [
+              8,
+              8
+            ],
+            "position_description": "Basil begins to speak more openly about his worship of Dorian, but the confession is still anxious and self-protective.",
+            "key_moments": [
+              "Basil confesses to Dorian that he had once worshipped him",
+              "Basil explains why he hid the portrait"
+            ]
+          },
+          {
+            "phase": "Full moral confession",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "Basil explicitly admits his excessive devotion as a moral failure and frames the crisis in terms of sin, punishment, and repentance.",
+            "key_moments": [
+              "Basil pleads with Dorian to pray, repent, and seek forgiveness",
+              "Basil says he worshipped Dorian too much and is punished for it"
+            ]
+          }
+        ],
+        "evidence_summary": "Basil's arc moves clearly from secrecy toward confession. He begins by hiding the portrait as a defense of the self, then gradually speaks the truth about his devotion, and finally turns that truth into a moral appeal for repentance."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Control-Responsibility",
+        "axis_name": "From artistic control to moral burden",
+        "pole_start": "More control-oriented: Basil initially thinks in terms of managing his art, protecting the portrait, and preserving the conditions of his creative work.",
+        "pole_end": "More responsibility-oriented: Basil ends by feeling morally accountable for Dorian's ruin and by trying to act as a redemptive witness rather than a controlling artist.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Artistic management",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil tries to control access to the portrait and to Dorian, treating both as things that must be protected from interference.",
+            "key_moments": [
+              "Basil refuses to exhibit the portrait",
+              "Basil tries to remove Henry from the studio"
+            ]
+          },
+          {
+            "phase": "Recognition of unintended harm",
+            "chapter_range": [
+              2,
+              8
+            ],
+            "position_description": "He increasingly sees that his art has consequences beyond his control and that he bears some responsibility for Dorian's psychological state.",
+            "key_moments": [
+              "Basil is shocked by Dorian's fear of aging and desire to remain young",
+              "Basil recognizes the portrait has become dangerous",
+              "Basil is excluded from the portrait and from Dorian's inner life"
+            ]
+          },
+          {
+            "phase": "Moral responsibility and attempted repair",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "Basil explicitly accepts blame and tries to repair the damage through repentance and prayer, shifting from control to ethical witness.",
+            "key_moments": [
+              "Basil sees the corrupted portrait and feels implicated in Dorian's downfall",
+              "Basil urges Dorian to repent and seek forgiveness"
+            ]
+          }
+        ],
+        "evidence_summary": "Basil's relation to his art changes from controlling it as a private masterpiece to feeling burdened by its consequences. The final stage is not mastery but responsibility, with a strong moral dimension."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Basil Hallward",
+        "target_character": "Dorian Gray",
+        "dimension_label": "Protective Fusion",
+        "axis_name": "From idealizing muse-love to tragic posthumous witness",
+        "pole_start": "Basil begins in intense admiration, emotional dependence, and possessive protectiveness; Dorian is muse, beloved object, and the center of Basil's private emotional world.",
+        "pole_end": "Basil ends as a dead but morally potent witness in Dorian's conscience: still beloved in memory, but now associated with guilt, accusation, and irreversible rupture.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Private adoration",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil is deeply attached and protective, trying to keep Dorian private and safe from Lord Henry's influence. The relationship is intimate, warm, and possessive.",
+            "key_moments": [
+              "He tries to prevent Henry from meeting Dorian",
+              "He fears public exposure of the portrait",
+              "He reacts painfully to Dorian's responsiveness to Henry"
+            ]
+          },
+          {
+            "phase": "Anxious displacement",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "Basil feels Dorian slipping away as Henry becomes the privileged confidant and Sibyl enters Dorian's life. Basil remains loving, but the relationship is increasingly marked by exclusion and alarm.",
+            "key_moments": [
+              "Dorian's engagement shocks him",
+              "He feels older and displaced",
+              "He is hurt by Dorian's rejection in chapter 8"
+            ]
+          },
+          {
+            "phase": "Confessional confrontation",
+            "chapter_range": [
+              10,
+              11
+            ],
+            "position_description": "Basil confronts Dorian directly, trying to save him through truth, repentance, and prayer. The relationship becomes openly moralized and tragic, with love persisting inside horror.",
+            "key_moments": [
+              "He demands a moral reckoning",
+              "He confesses that he worshipped Dorian",
+              "He pleads for repentance before the portrait"
+            ]
+          },
+          {
+            "phase": "Murder and haunting",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "After Basil's death, the relationship becomes one-sided and spectral. Basil survives only as a haunting moral presence, the murdered friend Dorian cannot escape.",
+            "key_moments": [
+              "Dorian fears the dead Basil upstairs",
+              "Basil's body must be concealed and destroyed",
+              "His memory continues to accuse Dorian"
+            ]
+          }
+        ],
+        "evidence_summary": "Basil's central relationship with Dorian moves from intimate artistic devotion to protective anxiety, then to moral confrontation, and finally to posthumous accusation after murder."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Basil Hallward",
+        "target_character": "Lord Henry Wotton",
+        "dimension_label": "Trust-Hostility",
+        "axis_name": "From wary fascination to moral hostility",
+        "pole_start": "Basil begins fascinated but cautious: he enjoys Henry's conversation but distrusts his cynicism and influence.",
+        "pole_end": "Basil ends firmly hostile in moral terms, seeing Henry as a corrupting, invasive force responsible for Dorian's damage.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Wary engagement",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Basil is willing to talk with Henry but tries to keep him away from Dorian. He senses Henry's danger before it becomes fully explicit.",
+            "key_moments": [
+              "He is anxious when Henry presses him about Dorian",
+              "He tries to prevent Henry from meeting Dorian",
+              "He resents Henry's presence at the portrait sitting"
+            ]
+          },
+          {
+            "phase": "Confirmed suspicion",
+            "chapter_range": [
+              5,
+              10
+            ],
+            "position_description": "Henry's influence is increasingly associated with Dorian's emotional displacement and moral drift. Basil's suspicion hardens into resentment and blame.",
+            "key_moments": [
+              "He sees Henry as Dorian's confidant",
+              "He blames Henry for Dorian's coldness and corruption",
+              "He confronts the atmosphere of cynicism around Dorian"
+            ]
+          },
+          {
+            "phase": "Moral condemnation",
+            "chapter_range": [
+              11,
+              18
+            ],
+            "position_description": "Even when Henry is absent, Basil's worldview remains opposed to him. Henry becomes the emblem of the corrupting social and psychological force Basil fears, and Basil's hostility is effectively settled.",
+            "key_moments": [
+              "Basil interprets the portrait as evidence of corruption",
+              "Henry is implicitly opposed to Basil's plea for repentance",
+              "Basil's memory persists as the ethical counterpoint to Henry's cynicism"
+            ]
+          }
+        ],
+        "evidence_summary": "Basil's relationship to Henry is consistently negative and becomes more so as Henry's influence on Dorian proves destructive. The arc is less about surprise than about hardening suspicion into moral hostility."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Basil Hallward",
+        "target_character": "Sibyl Vane",
+        "dimension_label": "Idealizing Regard",
+        "axis_name": "From wary outsider to admiring moral ally",
+        "pole_start": "Basil begins with no direct relationship to Sibyl and only indirect concern that she may affect Dorian's life.",
+        "pole_end": "Basil ends admiring and compassionate toward Sibyl, seeing her as noble, beautiful, and spiritually worthy of Dorian's love.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Indirect wariness",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Before meeting her directly, Basil sees Sibyl as another force that could destabilize Dorian. His stance is cautious rather than hostile.",
+            "key_moments": [
+              "Dorian's romantic fixation develops",
+              "Basil worries about Dorian's innocence and stability"
+            ]
+          },
+          {
+            "phase": "Admiring endorsement",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "At the theatre, Basil warmly approves of Sibyl and idealizes her as spiritually elevating. He believes she is worthy of Dorian and can help preserve his goodness.",
+            "key_moments": [
+              "He reacts warmly to Sibyl's entrance",
+              "He explicitly endorses the engagement",
+              "He tries to comfort Dorian after the performance"
+            ]
+          },
+          {
+            "phase": "Compassionate aftermath",
+            "chapter_range": [
+              8,
+              8
+            ],
+            "position_description": "After Sibyl's death, Basil's regard becomes sorrowful compassion. He mourns her and treats her death as a moral tragedy.",
+            "key_moments": [
+              "He is grief-stricken by Sibyl's death",
+              "He feels horror at Dorian's apparent coldness"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl is not a major long-term relational axis for Basil, but the summaries show a clear shift from indirect wariness to admiration and then pity. This is a meaningful secondary relational arc."
+      }
+    ]
+  },
+  "Sibyl Vane": {
+    "character": "Sibyl Vane",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-effacing theatrical dependence to total romantic fusion",
+            "set_b_axis": "From self-effacing romantic fusion to post-romantic self-erasure",
+            "overlap_description": "Both describe Sibyl as communion-dominant, emotionally surrendered, and increasingly defined by her bond with Dorian rather than by independent agency."
+          },
+          {
+            "set_a_axis": "From theatrical selfhood to romanticized anti-art certainty",
+            "set_b_axis": "From theatrical faith to love-as-true-reality",
+            "overlap_description": "Both track the same reversal: Sibyl moves from identifying with performance/art to treating love as more real and art as hollow or false."
+          },
+          {
+            "set_a_axis": "From hopeful elevation to collapsed worthlessness",
+            "set_b_axis": "From romantic innocence to tragic recognition",
+            "overlap_description": "Both capture the collapse of Sibyl's inner standing after rejection, though A emphasizes self-worth and shame while B emphasizes innocence, partial insight, and tragic incompletion."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From hopeful elevation to collapsed worthlessness",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From romantic innocence to tragic recognition",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From worshipful devotion to shattered conditional attachment",
+            "set_b_axis": "From adoring trust to fatal abandonment",
+            "overlap_description": "Both describe Sibyl's relationship with Dorian as beginning in total idealization and ending in rejection, abandonment, and irreversible loss."
+          },
+          {
+            "set_a_axis": "From reciprocal artistic recognition to hostile estrangement",
+            "set_b_axis": "From theatrical devotion to artistic estrangement",
+            "overlap_description": "Both track Sibyl's relationship to the theatre/audience as a performer-recognition bond that breaks when her acting collapses, turning admiration into estrangement or hostility."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From affectionate openness to dismissive disbelief",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From adoring trust to fatal abandonment",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-effacing romantic fusion to post-romantic self-erasure",
+        "pole_start": "Communion-dominant: Sibyl begins emotionally merged with love, art, and the fantasy of being chosen by Dorian; her identity is organized around relational surrender rather than independent self-assertion.",
+        "pole_end": "Communion remains dominant but collapses into self-erasure: after rejection and death, she has no stable independent agency left, and her subjectivity disappears from the narrative.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Idealized romantic communion",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Sibyl is wholly oriented toward Dorian and the fantasy of union; she appears radiant, trusting, and emotionally surrendered rather than self-assertive.",
+            "key_moments": [
+              "Dorian's intense idealization of Sibyl",
+              "The kiss and engagement-like intimacy",
+              "Her adoration and emotional surrender"
+            ]
+          },
+          {
+            "phase": "Communion under strain",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "Dorian's rejection does not produce agency; instead Sibyl intensifies dependence, pleading for forgiveness and reunion while remaining organized around restoring the bond.",
+            "key_moments": [
+              "Dorian's rejection after the failed performance",
+              "Sibyl's desperate explanations",
+              "Her pleas to be forgiven and taken back"
+            ]
+          },
+          {
+            "phase": "Posthumous disappearance",
+            "chapter_range": [
+              7,
+              18
+            ],
+            "position_description": "After death, Sibyl no longer has active agency or relational presence. She becomes memory, symbol, or moral/aesthetic object in others' minds.",
+            "key_moments": [
+              "Her death in chapter 7",
+              "Later chapters treating her as memory or guilt",
+              "No further direct consciousness or self-assertion"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl's arc is a collapse of relationally oriented selfhood: she begins in romantic fusion, deepens into desperate dependence when rejected, and ends in narrative erasure after death."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "art-reality",
+        "axis_name": "From theatrical identity to love-as-true-reality",
+        "pole_start": "Sibyl initially identifies with the theatre and performance as the meaningful structure of her life, with art functioning as her reality and source of selfhood.",
+        "pole_end": "She comes to regard art as hollow and false, and love for Dorian as the only authentic reality worth living for, though this reordering is later exposed as tragically unstable.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Art as identity",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Sibyl remains bound to performance and the theatrical world; her identity is still organized around acting, admiration, and aesthetic self-display.",
+            "key_moments": [
+              "Her actress identity in the narrative context",
+              "Chapter 5's theatrical and romantic framing",
+              "Her life still tied to performance"
+            ]
+          },
+          {
+            "phase": "Art collapses under love",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "After the disastrous performance, Sibyl explicitly reinterprets acting as unreal and inferior. She says she can no longer act because she has discovered a deeper truth in love.",
+            "key_moments": [
+              "Her failed performance in chapter 6",
+              "Her confession that she cannot act convincingly",
+              "Her declaration that Dorian's love has made art hollow"
+            ]
+          },
+          {
+            "phase": "Art displaced by posthumous meaning",
+            "chapter_range": [
+              7,
+              18
+            ],
+            "position_description": "Once dead, Sibyl's artistic identity is no longer self-directed; it is overwritten by others' interpretations, turning her from actress into tragic symbol.",
+            "key_moments": [
+              "Dorian's aestheticized grief after her death",
+              "Basil's pity and moral response",
+              "Later references to Sibyl as memory rather than performer"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl moves from living through art to rejecting art in favor of love, only for both identities to be lost after her death; the axis is a disillusioning reversal rather than a stable conversion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-worth",
+        "axis_name": "From romantic innocence to collapsed worthlessness",
+        "pole_start": "Sibyl begins in trusting innocence and elevated self-regard, assuming she is chosen, loved, and lifted into a grand future through Dorian's affection.",
+        "pole_end": "She ends in shame and worthlessness, internalizing failure as lover and actress and unable to recover dignity after humiliation and abandonment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Romantic exaltation",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Her engagement produces a sense of being specially selected and emotionally secure, with little suspicion that the bond is conditional.",
+            "key_moments": [
+              "Her adoring response to Dorian",
+              "The kiss and romantic promise",
+              "Her sense of being transformed by love"
+            ]
+          },
+          {
+            "phase": "Conditional worth and partial recognition",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "After the failed performance and Dorian's condemnation, she briefly recognizes that something has changed, but her self-esteem becomes conditional on pleasing him and regaining his approval.",
+            "key_moments": [
+              "Her failed Juliet performance",
+              "Her attempts to explain herself",
+              "Her pleas for forgiveness and reunion"
+            ]
+          },
+          {
+            "phase": "Terminal collapse",
+            "chapter_range": [
+              7,
+              18
+            ],
+            "position_description": "Her death seals the collapse of self-worth; the narrative frames her as unable to recover dignity after rejection, and later memory cannot restore her standing.",
+            "key_moments": [
+              "Her death in chapter 7",
+              "Retrospective pity and guilt in later chapters",
+              "The finality of abandonment"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl moves from feeling ennobled by love to internalizing Dorian's contempt, which destroys her sense of value and leaves her with no stable self-regard."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Sibyl Vane",
+        "target_character": "Dorian Gray",
+        "dimension_label": "trust-intimacy",
+        "axis_name": "From adoring trust to fatal abandonment",
+        "pole_start": "High trust, high intimacy, and romantic surrender: Sibyl believes Dorian loves her and experiences the bond as sacred and exclusive.",
+        "pole_end": "The relationship ends in rejection and irreversible loss: Dorian withdraws love, Sibyl is abandoned, and the bond survives only as memory and guilt.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Idealized attachment",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Sibyl is positioned as Dorian's adored beloved, trusting him completely and emotionally yielding to the romance.",
+            "key_moments": [
+              "Dorian's worshipful idealization",
+              "The kiss and romantic promise",
+              "Sibyl's adoration and vulnerability"
+            ]
+          },
+          {
+            "phase": "Rejection and pleading",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "Dorian's rejection shatters the bond. Sibyl remains trusting for a moment, then becomes desperate, pleading for forgiveness and reunion even as the relationship collapses.",
+            "key_moments": [
+              "Dorian condemns her performance",
+              "Sibyl begs him to stay and forgive her",
+              "Her inability to grasp the finality of his withdrawal"
+            ]
+          },
+          {
+            "phase": "Posthumous fixation",
+            "chapter_range": [
+              7,
+              18
+            ],
+            "position_description": "After her death, the relationship is no longer reciprocal. Sibyl exists only as the lost beloved in Dorian's memory and moral burden.",
+            "key_moments": [
+              "Her death in chapter 7",
+              "Dorian's grief and aestheticization",
+              "Later references to Sibyl as a memory of guilt"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl's relationship with Dorian moves from complete romantic trust to abandonment and irreversible loss, then persists only as tragic memory and guilt."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Sibyl Vane",
+        "target_character": "Theatre / Art",
+        "dimension_label": "attachment-disillusionment",
+        "axis_name": "From theatrical devotion to artistic estrangement",
+        "pole_start": "Strong attachment to the stage as the center of identity, value, and self-expression.",
+        "pole_end": "Estrangement from acting: art is experienced as false, hollow, and no longer inhabitable.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Embedded in performance",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "Sibyl remains identified with theatrical life; performance is still part of her self-concept and social world.",
+            "key_moments": [
+              "Her actress identity in the narrative",
+              "Chapter 5's emphasis on her radiant, performative presence"
+            ]
+          },
+          {
+            "phase": "Break with the stage",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "After failing to act, she explicitly rejects the stage as her true reality and treats love as superior to art.",
+            "key_moments": [
+              "Her disastrous performance",
+              "Her confession that she can no longer act",
+              "Her claim that love has made art unreal"
+            ]
+          },
+          {
+            "phase": "Artistic identity overwritten",
+            "chapter_range": [
+              7,
+              18
+            ],
+            "position_description": "Following her death, art no longer belongs to Sibyl as a lived practice; she is transformed into a tragic image in others' narratives.",
+            "key_moments": [
+              "Dorian's and Basil's retrospective interpretations",
+              "Sibyl as symbol rather than performer"
+            ]
+          }
+        ],
+        "evidence_summary": "Sibyl's relationship to art changes decisively in chapter 6: love displaces art, and death removes her from both lived performance and self-authored identity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Sibyl Vane",
+        "target_character": "James Vane",
+        "dimension_label": "trust-dismissal",
+        "axis_name": "From sibling concern to dismissed warning",
+        "pole_start": "Sibyl begins with ordinary sibling affection and some openness to James's concern and protective skepticism.",
+        "pole_end": "She ends by treating his warnings as irrelevant, with his judgment losing force against her romantic fixation on Dorian.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Sibling concern",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "James's warnings are present, but Sibyl remains affectionate and only partially responsive to his skepticism.",
+            "key_moments": [
+              "James's protective concern",
+              "Sibyl's affectionate response",
+              "Her limited attention to his warnings"
+            ]
+          },
+          {
+            "phase": "Romantic override",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Her trust in James's caution erodes as she prioritizes Dorian and dismisses practical or protective advice.",
+            "key_moments": [
+              "Her focus on Dorian",
+              "The diminishing force of James's caution",
+              "Her romantic absorption"
+            ]
+          },
+          {
+            "phase": "Warning becomes irrelevant",
+            "chapter_range": [
+              6,
+              7
+            ],
+            "position_description": "James's skepticism becomes emotionally secondary; Sibyl is too absorbed in Dorian and later too devastated to use his warnings constructively.",
+            "key_moments": [
+              "Dorian's rejection",
+              "Sibyl's desperate pleading",
+              "Her inability to act on James's warnings"
+            ]
+          }
+        ],
+        "evidence_summary": "This is a plausible but secondary relational axis: James functions as a countervoice to romance, but Sibyl's attachment to Dorian steadily overwhelms his protective influence."
+      }
+    ]
+  },
+  "James Vane": {
+    "character": "James Vane",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From protective attachment to isolated vengeance",
+            "set_b_axis": "From protective fusion to isolated pursuit",
+            "overlap_description": "Both describe the same core shift: James begins as a relationally defined protector of Sibyl and ends as a solitary avenger pursuing Dorian through surveillance and threat."
+          },
+          {
+            "set_a_axis": "From moral certainty to destabilized uncertainty",
+            "set_b_axis": "From absolute righteous certainty to shaken but unreformed doubt",
+            "overlap_description": "Both track James's erosion of certainty when his assumptions about Dorian are challenged, especially by the archway encounter and the uncanny testimony about Dorian's unchanged appearance."
+          },
+          {
+            "set_a_axis": "From righteous avenger to near-murderous self-recognition",
+            "set_b_axis": "From anxious protectiveness to fixed vengeance",
+            "overlap_description": "Both capture the same vengeance arc from protective concern into punitive violence, with Set A emphasizing moral self-recognition and Set B emphasizing the hardening of protectiveness into fixed revenge."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From righteous avenger to near-murderous self-recognition",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From anxious protectiveness to fixed vengeance",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From brotherly care to sacrificial guardianship",
+            "set_b_axis": "From familial tenderness to posthumous idealization",
+            "overlap_description": "Both describe James's bond with Sibyl as beginning in genuine affection and ending as a grief-frozen, duty-bound attachment that fuels revenge."
+          },
+          {
+            "set_a_axis": "From suspected predator to uncanny hunted enemy",
+            "set_b_axis": "From suspicious rival to hunted enemy",
+            "overlap_description": "Both trace the same hostility toward Dorian: initial suspicion becomes lethal vendetta, then covert pursuit and fearful vigilance."
+          },
+          {
+            "set_a_axis": "From filial anger to strained pity",
+            "set_b_axis": "From filial dependence to contemptuous distrust",
+            "overlap_description": "Both identify a damaged relationship with Mrs. Vane marked by distrust, disappointment, and some residual pity, though Set A stresses reconciliation more than Set B."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From filial anger to strained pity",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From filial dependence to contemptuous distrust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From protective fusion to isolated pursuit",
+        "pole_start": "Communion-dominant protectiveness: James begins oriented toward Sibyl's welfare, family duty, and relational loyalty, defining himself through care and guardianship.",
+        "pole_end": "Agency-dominant isolation: he ends as a solitary avenger, acting through surveillance, confrontation, and punitive self-assertion rather than mutual care.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Protective communion",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "James is strongly relationally oriented, with tenderness and alarm for Sibyl shaping his identity and behavior.",
+            "key_moments": [
+              "Warns Sibyl about her suitor",
+              "Feels protective concern for her safety",
+              "Frames his departure and return in terms of her welfare"
+            ]
+          },
+          {
+            "phase": "Protective duty hardens",
+            "chapter_range": [
+              4,
+              14
+            ],
+            "position_description": "After Sibyl's death and the revelation about his family, his care for her is increasingly routed through anger and solitary purpose.",
+            "key_moments": [
+              "Learns of Sibyl's death",
+              "Learns of his mother's compromised marriage history",
+              "Fixes his identity on avenging Sibyl"
+            ]
+          },
+          {
+            "phase": "Predatory pursuit",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "He becomes a watchful, forceful pursuer of Dorian, with communion narrowed to a single grievance and agency expressed as control and threat.",
+            "key_moments": [
+              "Confronts Dorian in the archway",
+              "Stalks Dorian after the opium-house testimony",
+              "Observes Dorian from concealment at Selby Royal",
+              "His pursuit ends in death"
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses agree that James moves from relational protectiveness toward isolated vengeance. The merged reading emphasizes that this is not a full moral conversion but a hardening of care into solitary, punitive agency."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Certainty-Doubt",
+        "axis_name": "From moral certainty to shaken suspicion",
+        "pole_start": "Certain moral judgment: James begins convinced that he can identify danger clearly and that violence is justified if Sibyl is harmed.",
+        "pole_end": "Shaken suspicion: he loses simple certainty about Dorian and must operate from unstable, uncanny doubt rather than confident moral clarity.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Initial certainty",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He treats the suitor as dangerous and trusts his own judgment as morally reliable.",
+            "key_moments": [
+              "Warns Sibyl about the stranger",
+              "Vows revenge if Dorian harms her"
+            ]
+          },
+          {
+            "phase": "Certainty damaged",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "The revelation about his mother's marriage destabilizes his confidence in family truth and moral order, though not yet his judgment about Dorian.",
+            "key_moments": [
+              "Confronts Mrs. Vane",
+              "Learns of his illegitimacy"
+            ]
+          },
+          {
+            "phase": "Moral shock and suspicion",
+            "chapter_range": [
+              14,
+              15
+            ],
+            "position_description": "The archway encounter and the opium-house testimony force him into uncertainty, making him more tactical and less certain about who deserves punishment.",
+            "key_moments": [
+              "Nearly kills the wrong man",
+              "Hears testimony that Dorian has not aged normally",
+              "Watches Dorian from concealment and recalibrates his pursuit"
+            ]
+          }
+        ],
+        "evidence_summary": "James's certainty is repeatedly undermined, but the result is not ethical growth so much as a shift from confident judgment to unstable suspicion. He becomes less sure, not more humane."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Protective Rage",
+        "axis_name": "From anxious protectiveness to fixed vengeance",
+        "pole_start": "Anxious protectiveness: James begins with fear for Sibyl's safety, jealousy, and a desire to shield her from exploitation.",
+        "pole_end": "Fixed vengeance: his protective feeling hardens into a singular punitive obsession with punishing the man he believes destroyed her.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Alarm and jealousy",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "His concern for Sibyl is emotionally mixed with jealousy and humiliation, but the dominant impulse is still to protect her.",
+            "key_moments": [
+              "Feels alarm about Sibyl's vulnerability",
+              "Suspects the suitor",
+              "Wants to keep her safe"
+            ]
+          },
+          {
+            "phase": "Grief-driven fixation",
+            "chapter_range": [
+              14,
+              15
+            ],
+            "position_description": "After Sibyl's death, protectiveness no longer has a living object and becomes vengeance; his emotional energy is redirected into tracking and punishing Dorian.",
+            "key_moments": [
+              "Learns of Sibyl's death",
+              "Pursues Dorian with lethal intent",
+              "Appears as a looming threat at the conservatory"
+            ]
+          }
+        ],
+        "evidence_summary": "James's violence is rooted in care for Sibyl, but that care becomes increasingly indistinguishable from punitive obsession. This axis captures the emotional fuel of his revenge most directly."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "James Vane",
+        "target_character": "Sibyl Vane",
+        "dimension_label": "Protective Bond",
+        "axis_name": "From familial tenderness to posthumous idealization",
+        "pole_start": "Warm sibling loyalty: James begins with deep affection, trust, and protective concern for Sibyl as a vulnerable younger sister.",
+        "pole_end": "Frozen idealization: by the end, Sibyl remains the emotional center of his identity only as memory and moral cause rather than as a living relationship.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Living protectiveness",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "James is emotionally close to Sibyl, worried for her safety, and motivated by a desire to shield her from harm.",
+            "key_moments": [
+              "Warns about her suitor",
+              "Feels tenderness and alarm",
+              "Considers staying connected to her welfare"
+            ]
+          },
+          {
+            "phase": "Grief and fixation",
+            "chapter_range": [
+              14,
+              15
+            ],
+            "position_description": "Sibyl becomes the wound that organizes James's vengeance; the relationship is no longer reciprocal but memorial and obsessive.",
+            "key_moments": [
+              "Sibyl's death drives his rage",
+              "He pursues Dorian as her avenger"
+            ]
+          },
+          {
+            "phase": "Afterlife of loyalty",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "The relationship persists only as narrative residue: his loyalty to Sibyl is completed in death and no longer develops psychologically.",
+            "key_moments": [
+              "James is dead",
+              "Sibyl remains the basis of his avenger identity"
+            ]
+          }
+        ],
+        "evidence_summary": "James's bond with Sibyl is emotionally constant even as its form changes: affection becomes protective fixation, then grief-frozen idealization that fuels revenge."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "James Vane",
+        "target_character": "Dorian Gray",
+        "dimension_label": "Hostility-Vengeance",
+        "axis_name": "From suspicious rival to hunted enemy",
+        "pole_start": "Suspicious hostility: James initially sees Dorian as a dangerous, socially powerful suitor and possible corrupter of Sibyl.",
+        "pole_end": "Deadly vendetta: Dorian becomes the fixed object of James's pursuit, moral condemnation, and attempted murder.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial suspicion",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "James imagines the unknown suitor as morally suspect and threatening to Sibyl.",
+            "key_moments": [
+              "Distrusts the gentleman caller",
+              "Interprets him as a threat"
+            ]
+          },
+          {
+            "phase": "Vengeful pursuit",
+            "chapter_range": [
+              14,
+              15
+            ],
+            "position_description": "After Sibyl's death, Dorian is no longer merely suspicious but the target of lethal revenge; James stalks him and seeks confrontation.",
+            "key_moments": [
+              "Mistakenly confronts Dorian",
+              "Feels horror at possible misidentification",
+              "Continues pursuit after the opium-house testimony",
+              "Dorian sees his face at the conservatory window"
+            ]
+          },
+          {
+            "phase": "Extinguished threat",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "James's hostility ends with his death; the relationship ceases to be active from his side, though it remains consequential for Dorian.",
+            "key_moments": [
+              "James is found dead in the stable",
+              "Pursuit ends"
+            ]
+          }
+        ],
+        "evidence_summary": "James's relationship to Dorian externalizes his internal moral rigidity: it moves from suspicion to obsession to fatal pursuit, with no reconciliation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "James Vane",
+        "target_character": "Mrs. Vane",
+        "dimension_label": "Trust-Esteem",
+        "axis_name": "From filial anger to strained pity",
+        "pole_start": "Distrust and wounded esteem: James begins angry at his mother for secrecy and morally compromised family history.",
+        "pole_end": "Partial pity without restored trust: he softens toward her vulnerability, but the relationship remains damaged and morally uneasy.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Confrontation and accusation",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He reacts to the revelation of illegitimacy with anger and a sense that his family has deceived him.",
+            "key_moments": [
+              "Confronts Mrs. Vane after learning she was never legally married"
+            ]
+          },
+          {
+            "phase": "Pity and partial softening",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "His anger is moderated by pity for his mother, but the relationship remains damaged rather than restored.",
+            "key_moments": [
+              "Is briefly softened by her vulnerability"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship changes only modestly, but it reinforces James's distrust of moral concealment and his sense of family injury, with pity never fully overcoming resentment."
+      }
+    ]
+  }
+}

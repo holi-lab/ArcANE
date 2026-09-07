@@ -1,0 +1,433 @@
+{
+  "character": "Lady Russell",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From protective moral authority to benevolent relational attachment",
+          "set_b_axis": "From socially directive guardianship to reconciled relational support",
+          "overlap_description": "Both describe Lady Russell moving from directive, protective moral authority toward a warmer, less controlling, more affectionate support of Anne, with her authority softened by humility and attachment."
+        },
+        {
+          "set_a_axis": "From confident prudence to chastened self-knowledge",
+          "set_b_axis": "From confidence in appearances to chastened moral realism",
+          "overlap_description": "Both track a correction of Lady Russell's judgment: she begins confident in prudential/social standards and ends more humbled, recognizing that appearances can mislead and that her own discernment is fallible."
+        },
+        {
+          "set_a_axis": "From settled guardianship to anxious vigilance and then softened concern",
+          "set_b_axis": "From untroubled confidence to chastened self-questioning",
+          "overlap_description": "Both capture the same pressure arc: Lady Russell's initial composure gives way to anxiety and self-protective uncertainty, then to a more yielding, less controlling stance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From preserving hierarchy to accepting emotional truth",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From socially secure moral adviser to benevolent relational attachment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From confidence in appearances to chastened moral realism",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From authoritative guardian to affectionate equal supporter",
+          "set_b_axis": "From authoritative guardianship to humbled companionship",
+          "overlap_description": "Both describe the Anne relationship as moving from asymmetrical guardianship toward a more companionate, humbled affection in which Lady Russell accepts Anne's independent judgment."
+        },
+        {
+          "set_a_axis": "From rejected suitor to accepted son-in-law",
+          "set_b_axis": "From principled suspicion to reluctant respect",
+          "overlap_description": "Both track Lady Russell's relationship with Wentworth from disapproval and suspicion toward eventual acceptance, though Set A emphasizes full familial attachment while Set B stresses more restrained respect."
+        },
+        {
+          "set_a_axis": "From ideal prospect to discredited suitor",
+          "set_b_axis": "From idealized approval to disillusioned rejection",
+          "overlap_description": "Both identify Lady Russell's trust in Mr Elliot as a major failed judgment that collapses after his duplicity is revealed."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From rejected suitor to accepted son-in-law",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wary disapproval to confirmed distrust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From protective moral authority to benevolent relational attachment",
+      "pole_start": "Begins as a socially secure, self-possessed moral adviser who exercises agency through judgment, correction, and protective intervention in Anne's life.",
+      "pole_end": "Ends still morally serious, but more communion-oriented: she subordinates her own judgment to Anne's happiness and attaches herself warmly to Anne and Wentworth as family.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Established guardian authority",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Lady Russell is a trusted family confidante whose agency is expressed through prudent guidance, moral management, and protective care for Anne and the Elliots.",
+          "key_moments": [
+            "Helps manage retrenchment and preserve family dignity",
+            "Acts as Anne's moral adviser and surrogate maternal guide",
+            "Exercises social authority on Anne's behalf"
+          ]
+        },
+        {
+          "phase": "Protective intervention and social authority",
+          "chapter_range": [
+            4,
+            18
+          ],
+          "position_description": "Her authority remains strong but becomes more costly and defensive as she opposes Wentworth, favors Mr Elliot, and tries to shape Anne's future according to her own standards.",
+          "key_moments": [
+            "Strongly opposes Anne's engagement to Wentworth",
+            "Worries Anne may make another unsuitable attachment",
+            "Becomes increasingly favorable toward Mr Elliot",
+            "Imagines Anne restored to Kellynch and family continuity"
+          ]
+        },
+        {
+          "phase": "Humbling revision and relational acceptance",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Her agency is checked by events and corrected by reality; she yields pride to Anne's happiness and becomes a warmer, less controlling supporter of Anne and Wentworth.",
+          "key_moments": [
+            "Mr Elliot's duplicity undermines her confidence",
+            "Wentworth's self-criticism redistributes blame for the broken engagement",
+            "Anne recognizes Lady Russell must revise her judgments",
+            "She attaches herself benevolently to Wentworth as family"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Russell begins as a highly agentic moral guardian and ends as a more communal, affectionate, and humbled relation. The arc is not a loss of seriousness but a redefinition of authority through attachment, humility, and Anne's happiness."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Judgment-Humility",
+      "axis_name": "From confident prudence to chastened self-knowledge",
+      "pole_start": "Starts with strong confidence that her moral and social judgment is sound, especially regarding rank, propriety, and suitable matches.",
+      "pole_end": "Ends with a humbler self-understanding: she recognizes that appearances misled her and that Anne's happiness matters more than vindicating her own discernment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Confident prudential worldview",
+          "chapter_range": [
+            1,
+            15
+          ],
+          "position_description": "She assumes her standards are reliable and useful, reinforcing her identity as a prudent adviser and social judge.",
+          "key_moments": [
+            "Supports retrenchment and respectable relocation",
+            "Distrusts Mrs Clay as socially improper",
+            "Approves Mr Elliot and imagines him as a proper match",
+            "Feels justified by her own standards"
+          ]
+        },
+        {
+          "phase": "Anxiety and defensive watchfulness",
+          "chapter_range": [
+            6,
+            20
+          ],
+          "position_description": "Wentworth's return, his social success, and her investment in Mr Elliot pressure her confidence, while the exposure of Mr Elliot makes her judgment visibly vulnerable.",
+          "key_moments": [
+            "Wentworth's return becomes socially validated",
+            "Louisa's remark revives the broken engagement story",
+            "Wentworth's heroism at Lyme complicates condemnation",
+            "Mr Elliot's duplicity destabilizes her confidence"
+          ]
+        },
+        {
+          "phase": "Correction and revision",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Her certainty is finally broken open: she is forced to revise her judgments of Wentworth and Mr Elliot and accept the limits of her discernment.",
+          "key_moments": [
+            "Wentworth's conversation reduces her share of blame",
+            "Anne recognizes Lady Russell must revise her judgments",
+            "Narrative implies she is less gifted than Anne in character discernment",
+            "She accepts Anne's happiness over her own pride"
+          ]
+        }
+      ],
+      "evidence_summary": "A major internal arc runs from confidence in prudential judgment to chastened humility. The novel does not make her foolish; it makes her corrigible, and that correction is central to her psychological movement."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Propriety-Truth",
+      "axis_name": "From preserving hierarchy to accepting emotional truth",
+      "pole_start": "Starts with a strong investment in rank, propriety, family continuity, and socially fitting matches.",
+      "pole_end": "Ends with those values still present, but subordinated to emotional truth and Anne's actual happiness.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Order-preserving outlook",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "She tries to preserve dignity in retrenchment, dislikes disorder, and imagines socially proper arrangements as morally desirable.",
+          "key_moments": [
+            "Gentler retrenchment scheme to spare Sir Walter's feelings",
+            "Disapproval of Mrs Clay's intimacy",
+            "Interest in respectable household continuity"
+          ]
+        },
+        {
+          "phase": "Ideal restoration fantasy",
+          "chapter_range": [
+            14,
+            18
+          ],
+          "position_description": "Her social-order instinct intensifies in the Mr Elliot match, which she imagines as restoring Kellynch, Anne's mother's place, and the proper family line.",
+          "key_moments": [
+            "Approves renewed Dalrymple connection",
+            "Becomes convinced Mr Elliot means to marry Anne",
+            "Imagines Anne as mistress of Kellynch and revived Lady Elliot"
+          ]
+        },
+        {
+          "phase": "Order revised by reality",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "She must accept that appearances and social polish do not guarantee worth, and that emotional fidelity to Anne matters more than restoring a perfect social arrangement.",
+          "key_moments": [
+            "Mr Elliot is exposed as morally corrupt",
+            "She is prepared to hear the truth about him",
+            "Wentworth becomes the true partner Anne chooses",
+            "She values Anne's happiness above her own pride"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Russell's attachment to propriety remains stable but is reweighted by the end: social order is no longer the highest good when it conflicts with Anne's real happiness."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Lady Russell",
+      "target_character": "Anne Elliot",
+      "dimension_label": "Protective Intimacy",
+      "axis_name": "From authoritative guardianship to humbled companionship",
+      "pole_start": "Deep affection expressed through guidance, protection, and moral authority; Anne is the person she most wants to shelter and direct.",
+      "pole_end": "Still deeply affectionate, but more companionate and yielding: she accepts Anne's happiness and softens her authority in favor of Anne's own judgment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Trusted guardian",
+          "chapter_range": [
+            1,
+            12
+          ],
+          "position_description": "Lady Russell is Anne's most trusted confidante and moral support, but the relationship is asymmetrical: she advises, Anne listens, and Lady Russell assumes the right to guide Anne's choices.",
+          "key_moments": [
+            "Anne is seen as Lady Elliot revived in Anne",
+            "She consults Anne on retrenchment",
+            "She continues to shape Anne's prospects"
+          ]
+        },
+        {
+          "phase": "Misguided protector",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "Her affection remains strong, but her judgment becomes more visibly problematic because she favors Mr Elliot and once opposed Wentworth. Anne's inner life increasingly outstrips Lady Russell's understanding.",
+          "key_moments": [
+            "Lady Russell strongly approves Mr Elliot",
+            "Anne fears disappointing her about Mr Elliot",
+            "The narrative exposes the danger of her earlier advice",
+            "Her protective role is strained by her misjudgments"
+          ]
+        },
+        {
+          "phase": "Reconciled affection",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Lady Russell remains loving, but she accepts Anne's choice and subordinates her own preferences to Anne's happiness. The bond becomes less directive and more mutually affectionate.",
+          "key_moments": [
+            "Anne defends having obeyed her",
+            "Wentworth's self-criticism softens the old blame",
+            "Lady Russell is forced to accept Wentworth",
+            "She begins to attach herself to the marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Lady Russell's central relationship arc. It moves from protective authority to a more humbled, companionate affection. The intimacy stays high throughout, but the balance of power and confidence shifts noticeably."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Lady Russell",
+      "target_character": "Captain Frederick Wentworth",
+      "dimension_label": "Suspicion-Respect",
+      "axis_name": "From principled suspicion to reluctant respect",
+      "pole_start": "Low trust and low esteem: she sees Wentworth as an unsuitable, imprudent match and remains emotionally cool toward him.",
+      "pole_end": "Reluctant respect and eventual acceptance as Anne's true partner, even if her earlier opposition is not fully erased.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Fixed suspicion",
+          "chapter_range": [
+            1,
+            18
+          ],
+          "position_description": "Lady Russell consistently remains cool toward Wentworth, especially after the broken engagement and the Lyme events. Even when he is not central, her earlier skepticism persists.",
+          "key_moments": [
+            "Anne expects tension between them",
+            "She interprets Wentworth through prudence and rank",
+            "She remains hostile or contemptuous when he is associated with Louisa"
+          ]
+        },
+        {
+          "phase": "Moral reversal",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "As Mr Elliot is exposed and Anne's happiness with Wentworth becomes undeniable, Lady Russell is compelled to soften. She does not become exuberant, but she begins to respect Wentworth as the man who truly suits Anne.",
+          "key_moments": [
+            "Mr Elliot's duplicity makes Wentworth look comparatively sound",
+            "Anne's happiness forces a reassessment",
+            "Lady Russell begins to attach herself to the marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Russell's relationship with Wentworth changes less in emotional warmth than in moral judgment. She moves from principled suspicion to reluctant respect, which is a meaningful but restrained relational shift."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Lady Russell",
+      "target_character": "Mr Elliot",
+      "dimension_label": "Social Trust",
+      "axis_name": "From idealized approval to disillusioned rejection",
+      "pole_start": "Warm approval and trust: she sees Mr Elliot as polished, proper, and a potentially ideal match for Anne.",
+      "pole_end": "Complete distrust and moral rejection once his duplicity is revealed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Cautious curiosity",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "She is open to reconsidering him and willing to observe before judging, which already marks a softening from earlier dismissal.",
+          "key_moments": [
+            "She becomes willing to see Mr Elliot",
+            "Her judgment shifts from dismissal to curiosity"
+          ]
+        },
+        {
+          "phase": "Strong approval",
+          "chapter_range": [
+            14,
+            18
+          ],
+          "position_description": "Her confidence in him grows into admiration. She sees him as a stable, respectable, and socially reassuring figure, and she imagines him as a suitable husband for Anne.",
+          "key_moments": [
+            "She becomes highly favorable toward Mr Elliot",
+            "She encourages Anne to think well of him",
+            "She imagines Anne restored to Kellynch"
+          ]
+        },
+        {
+          "phase": "Collapse of trust",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Mr Elliot is exposed as manipulative and morally corrupt, and Lady Russell's prior approval is rendered untenable. She moves toward rejection and chastened recognition of error.",
+          "key_moments": [
+            "Mr Elliot's true character is revealed",
+            "Anne fears Lady Russell might have recommended him",
+            "Lady Russell is forced toward partial revision and disillusionment"
+          ]
+        }
+      ],
+      "evidence_summary": "This is the clearest relational reversal in Lady Russell's arc. Her trust in Mr Elliot rises sharply because he fits her social ideals, then collapses when his moral emptiness is exposed."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Lady Russell",
+      "target_character": "Mrs Clay",
+      "dimension_label": "Social Suspicion",
+      "axis_name": "From wary disapproval to confirmed distrust",
+      "pole_start": "Low trust and low esteem: she sees Mrs Clay as socially inferior, intrusive, and dangerous.",
+      "pole_end": "Still distrustful, with her suspicion confirmed by Mrs Clay's proximity to Sir Walter and the threat she poses to family order.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Early suspicion",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Lady Russell quickly identifies Mrs Clay as a problematic influence, especially in relation to Elizabeth and Sir Walter.",
+          "key_moments": [
+            "She is suspicious of Mrs Clay in Chapter 2",
+            "She is alarmed by Mrs Clay's usefulness to Sir Walter and Elizabeth in Chapter 4"
+          ]
+        },
+        {
+          "phase": "Persistent distrust",
+          "chapter_range": [
+            11,
+            18
+          ],
+          "position_description": "Her dislike remains steady and is reinforced by the social contrast between Mrs Clay and the respectable circles Lady Russell values.",
+          "key_moments": [
+            "She remains irritated by Mrs Clay's influence",
+            "She continues to see her as a threat to propriety"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is stable rather than transformative, but it is still worth tracking because Lady Russell's distrust of Mrs Clay is one of the consistent pressures shaping her social judgments."
+    }
+  ]
+}

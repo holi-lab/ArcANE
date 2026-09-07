@@ -1,0 +1,125 @@
+{
+  "character": "Captain Pascal",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From commanding self-assertion to relational dependence",
+          "set_b_axis": "From possessive mastery to unchanged possessive mastery",
+          "overlap_description": "Both axes describe Pascal as strongly agency-oriented, authoritative, and control-driven, with no evidence of meaningful inward transformation. Set A frames this as a lack of documented arc; Set B specifies that the stable pattern is possessive mastery and opacity."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From commanding self-assertion to relational dependence",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From possessive mastery to unchanged possessive mastery",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": null,
+          "set_b_axis": "From utilitarian possession to unchanged utilitarian possession",
+          "overlap_description": "Set A contains no relational axes, but Set B provides a clear and well-supported relational axis describing Pascal's stable master-slave relation to Equiano."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": [
+        {
+          "axis": "From utilitarian possession to unchanged utilitarian possession",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From possessive mastery to unchanged possessive mastery",
+      "pole_start": "A strongly agency-oriented, socially confident, utilitarian figure whose stance is defined by control, ownership, and authority over others rather than mutuality.",
+      "pole_end": "Essentially unchanged: Pascal remains an opaque, possession-centered presence with no demonstrated movement toward communion, reciprocity, or self-reflective change.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial transactional positioning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pascal is introduced as Equiano's purchaser and new master, placing him firmly on the agency side through acts of selection, possession, and control.",
+          "key_moments": [
+            "Equiano is purchased by Pascal",
+            "Pascal sends Equiano toward England"
+          ]
+        },
+        {
+          "phase": "Memory without transformation",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Later references recall Pascal as a former master, but no new interiority, moral reconsideration, or relational softening appears. He remains defined by distance, utility, and authority.",
+          "key_moments": [
+            "Pascal is recalled in Equiano's thoughts",
+            "No direct presence or psychological development is shown",
+            "He remains a remembered owner rather than an evolving character"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Pascal shows no meaningful internal development. The consistent pattern is agency-heavy mastery: possession, control, and practical use of Equiano, with no evidence of increasing warmth, interdependence, or self-questioning."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Captain Pascal",
+      "target_character": "Olaudah Equiano",
+      "dimension_label": "possessive warmth",
+      "axis_name": "From utilitarian possession to unchanged utilitarian possession",
+      "pole_start": "Pascal's relation to Equiano begins as ownership grounded in usefulness, control, and limited paternal or practical regard rather than genuine reciprocity.",
+      "pole_end": "The relationship remains asymmetrical and transactional, with no evidence of deeper intimacy, trust, revised esteem, or reciprocal emotional shift.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Purchase and assignment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pascal's relation to Equiano is established through purchase, making the connection fundamentally possessive and power-imbalanced.",
+          "key_moments": [
+            "Pascal purchases Equiano",
+            "Pascal sends Equiano onward to England"
+          ]
+        },
+        {
+          "phase": "Retrospective attachment",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Equiano remembers Pascal with lingering affection despite ill usage, but Pascal himself shows no reciprocal emotional shift or direct reconciliation.",
+          "key_moments": [
+            "Pascal is recalled as a former master",
+            "No direct interaction or reconciliation occurs"
+          ]
+        }
+      ],
+      "evidence_summary": "The available summaries support a stable master-slave relation: Pascal remains transactional and possessive, with no trackable movement toward trust, intimacy, or mutual recognition."
+    }
+  ]
+}

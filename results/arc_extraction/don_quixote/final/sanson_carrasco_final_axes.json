@@ -1,0 +1,443 @@
+{
+  "character": "Sansón Carrasco",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From playful social mediator to wounded but morally invested reformer",
+          "set_b_axis": "From detached strategist to restrained co-witness",
+          "overlap_description": "Both describe Carrasco moving from witty, socially agile manipulation toward a more restrained, morally serious, and closure-oriented stance by the end."
+        },
+        {
+          "set_a_axis": "From self-assured wit to wounded resolve",
+          "set_b_axis": "From self-assured planner to chastened but persistent reformer",
+          "overlap_description": "Both track a fall from confidence into humiliation after defeat, followed by a tempered, experience-earned persistence rather than simple collapse."
+        },
+        {
+          "set_a_axis": "From ironic manipulation to commemorative respect",
+          "set_b_axis": "From amused skepticism to practical acceptance of limits",
+          "overlap_description": "Both capture a late softening: Carrasco moves away from comic distance and toward acceptance of Don Quixote's final reality, with respect replacing mockery."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From ironic manipulation to commemorative respect",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From amused skepticism to practical acceptance of limits",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From playful irony to solemn containment",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From playful manipulation to honored recognition",
+          "set_b_axis": "From manipulative management to chastened respect",
+          "overlap_description": "Both describe the Carrasco-Don Quixote relationship as beginning in covert control and ending in respectful, deathbed recognition and memorialization."
+        },
+        {
+          "set_a_axis": "From incidental banter to limited esteem",
+          "set_b_axis": "From comic patronage to cautious respect",
+          "overlap_description": "Both identify a modest but real arc with Sancho: from banter and asymmetry toward practical recognition and limited esteem."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From incidental banter to limited esteem",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From comic patronage to cautious respect",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From conspiratorial alliance to stable coordination",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From witty manipulator to restrained co-witness",
+      "pole_start": "Begins as a socially agile, self-assertive strategist who uses wit, flattery, and disguise to manage Don Quixote from a position of interpretive control.",
+      "pole_end": "Ends as a more restrained, morally serious participant who still acts decisively but is oriented toward witness, humane closure, and respect rather than domination.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Playful orchestration",
+          "chapter_range": [
+            55,
+            61
+          ],
+          "position_description": "Carrasco is socially embedded and verbally agile, enjoying the role of witty intermediary while also setting events in motion behind the scenes.",
+          "key_moments": [
+            "Chapter 55: introduced as the learned bachelor who brings news of the printed history",
+            "Chapters 56-57: flattery, debate, and conversational steering",
+            "Chapter 60: helps arrange Don Quixote's departure through a hidden plan",
+            "Chapter 61: his influence becomes partly offstage after the scheme is launched"
+          ]
+        },
+        {
+          "phase": "Wounded control",
+          "chapter_range": [
+            67,
+            68
+          ],
+          "position_description": "His agency remains strong, but humiliation after the failed disguise and defeat makes his control more reactive, embittered, and less triumphant.",
+          "key_moments": [
+            "Chapter 67: the Knight of the Mirrors scheme is exposed",
+            "Chapter 68: he is beaten, humiliated, and turns failure into renewed resolve"
+          ]
+        },
+        {
+          "phase": "Pragmatic closure",
+          "chapter_range": [
+            103,
+            127
+          ],
+          "position_description": "In the later chapters, he remains active but increasingly channels his agency into containment, accommodation, and finally solemn witness at Don Quixote's death.",
+          "key_moments": [
+            "Chapter 103: skeptical investigation of Sancho's governorship",
+            "Chapter 105: continued doubt about Sancho's political rise",
+            "Chapter 118: returns as the chastened Knight of the White Moon",
+            "Chapter 126: tactically accommodates the pastoral scheme",
+            "Chapter 127: witnesses Don Quixote's lucid death and helps close the story"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that Carrasco is fundamentally agentic, but his agency changes in quality: from playful control to wounded persistence, then into a more restrained and socially accountable form of participation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "confidence-humility",
+      "axis_name": "From self-assured planner to chastened but persistent reformer",
+      "pole_start": "Starts as a highly self-assured planner who believes wit, disguise, and tactical orchestration can control Don Quixote and shape events.",
+      "pole_end": "Ends more chastened and realistic, aware of the limits of intervention, yet still committed to reform and closure.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Confident orchestration",
+          "chapter_range": [
+            55,
+            61
+          ],
+          "position_description": "He acts as though his intelligence and social skill are sufficient to manage the situation, showing little doubt about his competence.",
+          "key_moments": [
+            "Chapters 56-57: witty control of conversation",
+            "Chapter 60: orchestrates Don Quixote's departure through a hidden plan"
+          ]
+        },
+        {
+          "phase": "Humiliation and tactical realism",
+          "chapter_range": [
+            67,
+            68
+          ],
+          "position_description": "The failed staged defeat forces him into a humbler posture, making clear that planning is easier than execution and that Quixote's interpretive world can defeat strategy.",
+          "key_moments": [
+            "Chapter 67: Don Quixote identifies him despite the disguise",
+            "Chapter 68: he is bruised, frustrated, and more tactically realistic"
+          ]
+        },
+        {
+          "phase": "Chastened persistence",
+          "chapter_range": [
+            118,
+            127
+          ],
+          "position_description": "He remains committed, but his confidence is moderated by failure; by the end he functions more as a serious manager of closure than a triumphant mastermind.",
+          "key_moments": [
+            "Chapter 118: defeat as the Knight of the White Moon confirms both persistence and failure",
+            "Chapter 126: accommodates Don Quixote's pastoral fantasy",
+            "Chapter 127: helps close the story with restraint and seriousness"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged evidence shows a clear arc from confident control into chastened competence. Carrasco does not abandon his reformist project, but he loses the illusion that cleverness alone guarantees success."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "skepticism-gravity",
+      "axis_name": "From amused skepticism to practical acceptance",
+      "pole_start": "Begins skeptical, amused, and somewhat detached, treating the Quixote world as something to analyze, mock, or manage from the outside.",
+      "pole_end": "Ends in practical acceptance of what cannot be controlled, especially once death and closure supersede further manipulation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Comic skepticism",
+          "chapter_range": [
+            103,
+            105
+          ],
+          "position_description": "He doubts Sancho's governorship and treats the surrounding events as theatrical, dubious, or enchantment-like, with lively comic skepticism.",
+          "key_moments": [
+            "Chapter 103: astonished curiosity about Sancho's letters and gifts",
+            "Chapter 105: reported doubt about Sancho's governorship"
+          ]
+        },
+        {
+          "phase": "Skepticism under pressure",
+          "chapter_range": [
+            118,
+            126
+          ],
+          "position_description": "He continues to interpret events rationally, but repeated failure makes his skepticism more pragmatic than playful, and he increasingly accommodates what he cannot reverse.",
+          "key_moments": [
+            "Chapter 118: corrective intervention against Don Quixote",
+            "Chapter 126: accepts the pastoral scheme to keep Don Quixote home"
+          ]
+        },
+        {
+          "phase": "Acceptance of finality",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "At the deathbed, skepticism yields to acceptance of the ordinary final truth of Don Quixote's death, and Carrasco helps certify closure rather than prolong interpretive contest.",
+          "key_moments": [
+            "Chapter 127: witnesses the death and helps secure the official ending"
+          ]
+        }
+      ],
+      "evidence_summary": "Carrasco never stops being skeptical, but his skepticism becomes less comic and more practical. The final movement is toward acceptance of limits and the end of intervention."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "irony-gravity",
+      "axis_name": "From playful irony to solemn containment",
+      "pole_start": "Starts playful, teasing, and socially witty, using irony as a mode of control and performance.",
+      "pole_end": "Ends sober, restrained, and funerary in tone, using composure to contain grief and finalize Don Quixote's story.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Ironical performance",
+          "chapter_range": [
+            56,
+            60
+          ],
+          "position_description": "He enjoys verbal play, flattery, and comic management of others; irony is his main social tool.",
+          "key_moments": [
+            "Chapters 56-57: witty conversation and teasing",
+            "Chapter 60: playful but manipulative encouragement of Don Quixote"
+          ]
+        },
+        {
+          "phase": "Irony under strain",
+          "chapter_range": [
+            67,
+            68
+          ],
+          "position_description": "His irony remains, but it is shadowed by humiliation and anger; the comic mask does not disappear, but it becomes less carefree.",
+          "key_moments": [
+            "Chapter 68: he is physically hurt and meditates vengeance"
+          ]
+        },
+        {
+          "phase": "Solemn closure",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "The final chapter places him in a serious, restrained role, no longer as a prankish strategist but as a witness to death and guardian of narrative finality.",
+          "key_moments": [
+            "Chapter 127: bedside witness, will-management, epitaph, and closure"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a useful supplement from the psychological summary: it isolates the tonal shift from comic irony to grave responsibility, which is present in the event-based material but not fully foregrounded there."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sansón Carrasco",
+      "target_character": "Don Quixote",
+      "dimension_label": "control-respect",
+      "axis_name": "From manipulative management to chastened respect",
+      "pole_start": "Begins as a clever manipulator who sees Don Quixote as a problem to be managed through disguise, performance, and strategic deception.",
+      "pole_end": "Ends with respect and pity, treating Don Quixote as a dignified, suffering man whose death should be witnessed and honored, even while Carrasco still wants the official story to close on his terms.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Playful manipulation",
+          "chapter_range": [
+            55,
+            60
+          ],
+          "position_description": "He flatters and manages Don Quixote, keeping him engaged while secretly advancing a plan.",
+          "key_moments": [
+            "Chapters 56-57: witty flattery and conversational steering",
+            "Chapter 60: pretends to encourage the third sally while actually orchestrating it"
+          ]
+        },
+        {
+          "phase": "Adversarial correction",
+          "chapter_range": [
+            67,
+            68
+          ],
+          "position_description": "The Knight of the Mirrors scheme turns the relationship openly adversarial, though still framed as correction rather than hatred.",
+          "key_moments": [
+            "Chapter 67: Don Quixote recognizes him despite the disguise",
+            "Chapter 68: Carrasco is humiliated and becomes more determined"
+          ]
+        },
+        {
+          "phase": "Corrective paternalism",
+          "chapter_range": [
+            118,
+            126
+          ],
+          "position_description": "He now sees Don Quixote as someone to be cured and returned home, not merely outwitted; his intervention becomes more paternal and containment-oriented.",
+          "key_moments": [
+            "Chapter 118: the Knight of the White Moon defeat is meant to force retirement",
+            "Chapter 126: he accommodates the pastoral fantasy to keep Don Quixote home"
+          ]
+        },
+        {
+          "phase": "Respectful closure",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "At death, the relationship softens into respectful witness. He helps define Don Quixote as Alonso Quixano, sane and finished.",
+          "key_moments": [
+            "Chapter 127: bedside presence, will, repentance, and death"
+          ]
+        }
+      ],
+      "evidence_summary": "Carrasco's relationship with Don Quixote moves from covert control to failed correction, then to paternalistic containment and finally respectful memorialization. The final chapters decisively reframe the relationship."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sansón Carrasco",
+      "target_character": "Sancho Panza",
+      "dimension_label": "teasing-recognition",
+      "axis_name": "From comic patronage to cautious respect",
+      "pole_start": "Initially treats Sancho as a comic subordinate or amusing interlocutor, engaging him with wit and some condescension.",
+      "pole_end": "Ends with cautious, practical respect for Sancho as part of the shared effort to contain Don Quixote, though the relationship remains lightly comic rather than intimate.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Teasing engagement",
+          "chapter_range": [
+            55,
+            57
+          ],
+          "position_description": "He jokes with Sancho and treats him as a comic equal worth sparring with verbally.",
+          "key_moments": [
+            "Chapters 56-57: good-humored teasing and quick wit"
+          ]
+        },
+        {
+          "phase": "Patronizing surprise",
+          "chapter_range": [
+            60,
+            68
+          ],
+          "position_description": "He is surprised by Sancho's bargaining and practical seriousness, which slightly increases his recognition of Sancho's intelligence even while he remains patronizing.",
+          "key_moments": [
+            "Chapter 60: surprise at Sancho's comic seriousness",
+            "Chapter 68: aftermath of the scheme keeps Sancho in the orbit of practical maneuvering"
+          ]
+        },
+        {
+          "phase": "Indirect practical respect",
+          "chapter_range": [
+            103,
+            127
+          ],
+          "position_description": "Sancho becomes a figure whose letters, governorship, grief, and practical role must be taken seriously, even if Carrasco never becomes emotionally intimate with him.",
+          "key_moments": [
+            "Chapter 103: investigates Sancho's governorship through letters and testimony",
+            "Chapter 105: continues to doubt the governorship while engaging with it",
+            "Chapter 127: Sancho's grief is part of the shared deathbed scene"
+          ]
+        }
+      ],
+      "evidence_summary": "Carrasco's relation to Sancho stays comic and indirect, but it develops from teasing condescension toward practical recognition of Sancho's intelligence and usefulness. This is a modest relational arc, not a deep emotional bond."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sansón Carrasco",
+      "target_character": "Curate and Barber",
+      "dimension_label": "alliance-coordination",
+      "axis_name": "From conspiratorial alliance to stable coordination",
+      "pole_start": "Begins already aligned with the curate and barber in the project of controlling Don Quixote.",
+      "pole_end": "Ends still aligned, with the alliance remaining stable and functional rather than emotionally deepening.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Shared scheme",
+          "chapter_range": [
+            60,
+            61
+          ],
+          "position_description": "He works with them to stage Don Quixote's departure and maintain the larger plan.",
+          "key_moments": [
+            "Chapter 60: the departure is arranged through a hidden scheme",
+            "Chapter 61: the plan continues offstage"
+          ]
+        },
+        {
+          "phase": "Renewed intervention",
+          "chapter_range": [
+            118,
+            123
+          ],
+          "position_description": "The alliance remains tactically useful as Carrasco returns in disguise to force Don Quixote's retirement.",
+          "key_moments": [
+            "Chapter 118: the Knight of the White Moon defeat",
+            "Chapter 123: retrospective explanation of the duke's plot and Carrasco's role"
+          ]
+        },
+        {
+          "phase": "Final closure",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "The broader network of management culminates in the orderly deathbed ending, with Carrasco still socially coordinated with the household's closure.",
+          "key_moments": [
+            "Chapter 127: will, confession, and final witness"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is stable rather than transformative, but it matters because it supports Carrasco's agency. The curate and barber remain his practical collaborators throughout the anti-Quixote project."
+    }
+  ]
+}

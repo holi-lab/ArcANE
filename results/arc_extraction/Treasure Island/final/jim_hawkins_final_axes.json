@@ -1,0 +1,534 @@
+{
+  "character": "Jim Hawkins",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From dependent boyhood to self-directed, relationally anchored agency",
+          "set_b_axis": "From sheltered dependence to self-directed, tactical agency",
+          "overlap_description": "Both track Jim's movement from childlike dependence toward independent action, with continued loyalty to others rather than pure isolation."
+        },
+        {
+          "set_a_axis": "From trusting appearances to hard-won discernment",
+          "set_b_axis": "From impressionable trust to tactical reading of danger",
+          "overlap_description": "Both describe Jim learning to read people and situations more accurately, especially after Silver's betrayal."
+        },
+        {
+          "set_a_axis": "From terror-driven reaction to steadied courage under pressure",
+          "set_b_axis": "From reactive terror to disciplined bravery",
+          "overlap_description": "Both emphasize fear becoming manageable rather than disappearing, with Jim acting despite danger."
+        },
+        {
+          "set_a_axis": "From adventure fantasy to morally scarred realism",
+          "set_b_axis": "From romantic adventure to morally serious responsibility",
+          "overlap_description": "Both show the voyage stripping away boyish romance and replacing it with a sobered sense of cost, duty, and trauma."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From charmed admiration to wary, morally detached hostility",
+          "set_b_axis": "From charmed trust to wary, strategic distrust",
+          "overlap_description": "Both describe Jim's relationship with Silver moving from admiration and trust to disillusionment and tactical caution."
+        },
+        {
+          "set_a_axis": "From grateful reliance to mature alliance and moral intimacy",
+          "set_b_axis": "From reassuring authority to trusted moral ally",
+          "overlap_description": "Both present Livesey as Jim's most stable positive adult bond, deepening from dependence into durable trust and alliance."
+        },
+        {
+          "set_a_axis": "From boyish admiration to qualified respect",
+          "set_b_axis": "From irritation at authority to admiration for disciplined command",
+          "overlap_description": "Both capture Jim's revised view of Trelawney/Smollett-like authority figures, though Smollett is the stronger and clearer arc."
+        },
+        {
+          "set_a_axis": "From offended hostility to disciplined trust in authority",
+          "set_b_axis": "From irritation at authority to admiration for disciplined command",
+          "overlap_description": "Both identify Jim's shift from resentment toward Smollett to respect for his competence and leadership."
+        },
+        {
+          "set_a_axis": "From wary stranger to trusted odd ally",
+          "set_b_axis": "From frightened uncertainty to affectionate usefulness",
+          "overlap_description": "Both describe Jim's relationship with Ben Gunn evolving from fear/suspicion to practical trust and appreciation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From boyish admiration to qualified respect",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From irritation at authority to admiration for disciplined command",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From sheltered dependence to self-directed, relationally anchored agency",
+      "pole_start": "Jim begins as a frightened, sheltered inn boy whose sense of self is shaped by family attachment, adult protection, and reactive obedience. He watches, fetches, and follows more than he initiates.",
+      "pole_end": "Jim ends as a self-possessed young agent who can act independently, improvise tactically, and take command when needed, while still remaining loyal to the humane and lawful side.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Inn-bound dependence",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Jim is frightened by threats, obeys adults, and mainly learns by observing. His agency is limited to reporting, hiding, and helping in emergencies.",
+          "key_moments": [
+            "Fear of the captain and the one-legged man",
+            "Black Dog and Pew crises",
+            "Protecting the household during the raid"
+          ]
+        },
+        {
+          "phase": "Guided emergence",
+          "chapter_range": [
+            6,
+            13
+          ],
+          "position_description": "Jim becomes more outward-facing and is included by adults in the expedition, but his confidence is still largely relationally granted. He is learning to act, yet still under guidance.",
+          "key_moments": [
+            "Brought into Livesey and Trelawney's confidence",
+            "Departure for Bristol and the Hispaniola",
+            "Overhearing Silver's conspiracy and warning the loyal party"
+          ]
+        },
+        {
+          "phase": "Independent initiative",
+          "chapter_range": [
+            14,
+            24
+          ],
+          "position_description": "Jim crosses into genuine self-directed action: he moves alone, meets Ben Gunn, seizes the Hispaniola, and makes tactical decisions under pressure.",
+          "key_moments": [
+            "Secret shore excursion and Tom's murder",
+            "Meeting Ben Gunn",
+            "Solo seizure of the Hispaniola",
+            "Coracle navigation and improvisation"
+          ]
+        },
+        {
+          "phase": "Mature self-command",
+          "chapter_range": [
+            25,
+            34
+          ],
+          "position_description": "Jim becomes capable of command, bargaining, and disciplined judgment. His independence is now tempered by loyalty, honor, and a chosen alignment with the loyal adults.",
+          "key_moments": [
+            "Taking command of the Hispaniola",
+            "Fight with Israel Hands",
+            "Keeping parole to Silver",
+            "Final return and resolution"
+          ]
+        }
+      ],
+      "evidence_summary": "Jim's central arc is a movement from sheltered dependence to competent self-direction. Both analyses agree that his maturity is not solitary autonomy but agency disciplined by loyalty, duty, and relational bonds."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "fear-courage",
+      "axis_name": "From reactive terror to disciplined bravery",
+      "pole_start": "Jim begins highly frightened, impressionable, and easily overwhelmed by danger, with fear shaping his perception and bodily response.",
+      "pole_end": "Jim ends able to function under extreme danger, managing fear rather than being ruled by it.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vague dread",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Threats feel immediate and overwhelming: the captain, Black Dog, and Pew produce terror before Jim can respond effectively.",
+          "key_moments": [
+            "Nightmares about the one-legged man",
+            "Black Dog's appearance",
+            "Pew's arrival and the captain's death"
+          ]
+        },
+        {
+          "phase": "Operational fear",
+          "chapter_range": [
+            4,
+            14
+          ],
+          "position_description": "Fear becomes practical and situational. Jim is hunted and traumatized, but he begins to function by hiding, observing, warning others, and making split-second decisions.",
+          "key_moments": [
+            "Hiding with his mother during the raid",
+            "Overhearing Silver's conspiracy",
+            "Witnessing Tom's murder"
+          ]
+        },
+        {
+          "phase": "Fear managed by action",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Jim's fear remains intense, but action increasingly overrides paralysis. He navigates the island, boards the Hispaniola, and fights Hands despite exhaustion and danger.",
+          "key_moments": [
+            "Meeting Ben Gunn",
+            "Solo sabotage of the Hispaniola",
+            "Duel with Israel Hands"
+          ]
+        },
+        {
+          "phase": "Enduring fear without collapse",
+          "chapter_range": [
+            28,
+            34
+          ],
+          "position_description": "Jim still feels dread and shame, but he no longer breaks under them. He can bargain, keep parole, and survive the final conflict with steadier nerves.",
+          "key_moments": [
+            "Facing Silver in the pirate camp",
+            "Refusing to break parole",
+            "Final resolution and departure"
+          ]
+        }
+      ],
+      "evidence_summary": "Jim's courage is not the absence of fear but the ability to act through it. The novel repeatedly shows him trembling and then proceeding anyway, which is the clearest sign of growth."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "naivety-judgment",
+      "axis_name": "From impressionable trust to tactical reading of danger",
+      "pole_start": "Jim begins impressionable and credulous, responding strongly to charisma, appearance, and immediate feeling.",
+      "pole_end": "Jim ends able to infer motives, detect deception, and use timing, observation, and bargaining to survive.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Surface impressions",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Jim is easily moved by visible performance: he fears obvious threats, admires respectable adults, and is charmed by Silver's warmth and competence.",
+          "key_moments": [
+            "Initial fascination with the captain",
+            "Rapid trust in Silver at the Spy-glass",
+            "Limited suspicion of outwardly respectable figures"
+          ]
+        },
+        {
+          "phase": "Suspicion and confirmation",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "Jim begins reading beneath appearances. He recognizes mutiny, hidden alliances, and the instability of adult authority, and learns that charm can conceal danger.",
+          "key_moments": [
+            "Overhearing Silver recruit the crew",
+            "Recognizing the ship as a site of conspiracy",
+            "Meeting Ben Gunn and revising first impressions"
+          ]
+        },
+        {
+          "phase": "Tactical intelligence",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "Jim increasingly thinks in terms of leverage, timing, and hidden information. He exploits weakness, interprets signals, and treats social performance as potentially strategic.",
+          "key_moments": [
+            "Inferring Ben Gunn's effect on the mutineers",
+            "Seizing the Hispaniola",
+            "Negotiating with Silver while keeping parole",
+            "Tracking pirate morale and division"
+          ]
+        }
+      ],
+      "evidence_summary": "Jim matures into a more strategically literate reader of people and situations. He becomes less credulous without becoming cynical, balancing caution with moral judgment."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "adventure-duty",
+      "axis_name": "From romantic adventure to morally serious responsibility",
+      "pole_start": "Jim begins eager for excitement, novelty, and the sea-dream of adventure, with danger initially exciting as much as frightening.",
+      "pole_end": "Jim ends seeing action as ethically accountable, governed by loyalty, restraint, honor, and responsibility rather than mere thrill.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Excitement and curiosity",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "The treasure map and the voyage to Bristol awaken Jim's adventure fantasy; he is thrilled by ships, sailors, and the prospect of participation.",
+          "key_moments": [
+            "Treasure map revelation",
+            "Bristol harbor excitement",
+            "Charmed response to Silver"
+          ]
+        },
+        {
+          "phase": "Adventure darkens",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "The voyage becomes morally unstable and dangerous. Jim's excitement is replaced by suspicion, fear, and the realization that the expedition is a serious conflict, not a game.",
+          "key_moments": [
+            "Captain Smollett's warnings",
+            "Discovery of the mutiny",
+            "Tom's murder and island landing"
+          ]
+        },
+        {
+          "phase": "Duty and honor",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "Jim increasingly acts from duty: he helps defend the stockade, keeps parole, and aligns himself with lawful authority. Adventure remains, but it is subordinated to moral obligation and survival.",
+          "key_moments": [
+            "Defending the stockade",
+            "Refusing to break parole",
+            "Final sense that the island is corrupt and not worth returning to"
+          ]
+        }
+      ],
+      "evidence_summary": "Jim does not abandon adventure, but he matures into a view of action as morally accountable. The voyage becomes a test of honor and responsibility rather than a simple boyish quest."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Jim Hawkins",
+      "target_character": "Long John Silver",
+      "dimension_label": "trust-distrust",
+      "axis_name": "From charmed trust to wary, strategic distrust",
+      "pole_start": "Jim begins impressed by Silver's warmth, competence, and apparent honesty, treating him as a friendly and trustworthy seaman.",
+      "pole_end": "Jim ends seeing Silver as brilliant but fundamentally untrustworthy: dangerous, self-serving, and only temporarily aligned with anyone else.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial charm",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "Jim is quickly won over by Silver's sociability and practical knowledge, despite a brief flicker of suspicion when Black Dog appears.",
+          "key_moments": [
+            "Silver's warm reception at the Spy-glass",
+            "Jim's rapid admiration",
+            "Black Dog briefly reactivating suspicion"
+          ]
+        },
+        {
+          "phase": "Confirmed betrayal",
+          "chapter_range": [
+            10,
+            18
+          ],
+          "position_description": "Jim overhears Silver's mutiny planning and sees him as the leader of a deadly conspiracy. Trust collapses into fear and moral revulsion.",
+          "key_moments": [
+            "Overhearing Silver recruit the crew",
+            "Witnessing the island landing and Tom's murder",
+            "Recognizing Silver as the mutiny's center"
+          ]
+        },
+        {
+          "phase": "Wary dependence",
+          "chapter_range": [
+            25,
+            34
+          ],
+          "position_description": "Jim is forced into temporary bargaining with Silver, which adds tactical dependence without restoring trust. He recognizes Silver's intelligence and adaptability, but never his loyalty.",
+          "key_moments": [
+            "Silver's protection in the pirate camp",
+            "Jim's refusal to break parole",
+            "Silver's final opportunism and survival"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver is Jim's most important relational reversal: from admired companion to exposed traitor to dangerous, unstable ally-of-convenience. Trust collapses, but strategic recognition of Silver's power remains."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Jim Hawkins",
+      "target_character": "Dr. Livesey",
+      "dimension_label": "dependence-alliance",
+      "axis_name": "From reassuring authority to trusted moral ally",
+      "pole_start": "Jim begins as a child who looks up to Livesey as calm, civilized, and protective authority.",
+      "pole_end": "Jim ends as a loyal ally who trusts Livesey deeply and sees him as a partner in lawful, humane action.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early reassurance",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Livesey is the clearest adult counterweight to pirate menace. Jim admires his calmness and moral clarity and relies on him for safety.",
+          "key_moments": [
+            "Livesey's intervention at the inn",
+            "His handling of the captain's papers",
+            "His role in decoding the treasure map"
+          ]
+        },
+        {
+          "phase": "Trusted strategic center",
+          "chapter_range": [
+            7,
+            24
+          ],
+          "position_description": "As the expedition unfolds, Jim increasingly treats Livesey as the safest interpreter of events and the person most worthy of his loyalty and information.",
+          "key_moments": [
+            "Jim bringing the papers to Livesey",
+            "Livesey's role in the loyal council",
+            "Jim repeatedly aligning with his judgment"
+          ]
+        },
+        {
+          "phase": "Moral anchor",
+          "chapter_range": [
+            25,
+            34
+          ],
+          "position_description": "Even when separated, Jim continues to orient himself toward Livesey's standards. He feels shame at disappointing him, but also relief and confidence when reunited with him or acting on his behalf.",
+          "key_moments": [
+            "Jim's shame at the meeting in chapter 30",
+            "Passing crucial information to the doctor",
+            "Final loyalty and gratitude"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey remains the most stable positive relationship in Jim's arc. The relationship deepens from childlike admiration into a durable alliance grounded in trust, competence, and moral authority."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Jim Hawkins",
+      "target_character": "Captain Smollett",
+      "dimension_label": "resentment-respect",
+      "axis_name": "From irritation at authority to admiration for disciplined command",
+      "pole_start": "Jim initially experiences Smollett as harsh, dismissive, and unfair, especially when the captain speaks sharply to him and excludes him from work.",
+      "pole_end": "Jim ends deeply respecting Smollett as the model of competent, disciplined, and morally reliable leadership.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial friction",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "Jim resents Smollett's bluntness and feels excluded, even while beginning to suspect that the captain is probably right about the danger.",
+          "key_moments": [
+            "Smollett's criticism of the voyage",
+            "Jim's anger at being treated as a boy"
+          ]
+        },
+        {
+          "phase": "Growing trust",
+          "chapter_range": [
+            11,
+            21
+          ],
+          "position_description": "As mutiny becomes real, Jim increasingly sees Smollett as the clearest adult authority and the best defender of the loyal party.",
+          "key_moments": [
+            "Smollett's warnings about the crew",
+            "His calm leadership during the attack",
+            "Jim's repeated alignment with his judgment"
+          ]
+        },
+        {
+          "phase": "Full admiration",
+          "chapter_range": [
+            22,
+            34
+          ],
+          "position_description": "Jim's independent actions still take place under the moral shadow of Smollett's authority. He measures himself against the captain and ends with deep respect for his discipline and command.",
+          "key_moments": [
+            "Jim's covert actions to help the loyal side",
+            "His continued identification with the captain's party",
+            "Final return and loyalty"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett becomes the adult authority Jim most fully respects. The relationship shifts from irritation to admiration because Smollett proves correct, disciplined, and effective under pressure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Jim Hawkins",
+      "target_character": "Ben Gunn",
+      "dimension_label": "suspicion-alliance",
+      "axis_name": "From frightened uncertainty to affectionate usefulness",
+      "pole_start": "Jim first encounters Ben Gunn as a strange, potentially threatening unknown and is initially frightened and suspicious.",
+      "pole_end": "Jim ends regarding Ben as an odd but valuable ally, with affectionate approval and practical trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Fear of the unknown",
+          "chapter_range": [
+            15,
+            15
+          ],
+          "position_description": "Jim initially assumes the island figure may be dangerous, and his fear of the unknown is strong.",
+          "key_moments": [
+            "First sight of the hidden figure in the woods"
+          ]
+        },
+        {
+          "phase": "Provisional trust",
+          "chapter_range": [
+            15,
+            19
+          ],
+          "position_description": "Ben's story and odd harmlessness lead Jim to revise him into a possible ally. Jim becomes cautiously hopeful and begins to value his knowledge and resources.",
+          "key_moments": [
+            "Ben Gunn's explanation of his situation",
+            "The coracle and white-marked meeting place",
+            "Ben's likely role in weakening the mutineers"
+          ]
+        },
+        {
+          "phase": "Affectionate approval",
+          "chapter_range": [
+            20,
+            34
+          ],
+          "position_description": "Jim increasingly sees Ben as useful, endearing, and central to the loyal party's success, even if still eccentric and not fully reliable in ordinary terms.",
+          "key_moments": [
+            "Recognition of Ben's covert help",
+            "Gratitude for his practical contribution",
+            "Final approval of Ben's value"
+          ]
+        }
+      ],
+      "evidence_summary": "Ben Gunn is one of the few relationships that moves from fear to warmth. Jim's response to him shows Jim's growing ability to revise first impressions and form practical alliances."
+    }
+  ]
+}

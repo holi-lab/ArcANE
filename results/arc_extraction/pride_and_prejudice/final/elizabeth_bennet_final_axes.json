@@ -1,0 +1,772 @@
+{
+  "character": "Elizabeth Bennet",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-possessed independence to chosen mutuality",
+          "set_b_axis": "From witty self-assertion to mutual attachment and interdependence",
+          "overlap_description": "Both describe Elizabeth's movement from strong self-directed independence toward a mature form of mutuality in which agency is retained but no longer oppositional."
+        },
+        {
+          "set_a_axis": "From confident first impressions to humbled, evidence-based judgment",
+          "set_b_axis": "From confident first impressions to disciplined self-correction",
+          "overlap_description": "Both track Elizabeth's epistemic arc: she begins overconfident in her reading of people and ends more cautious, evidence-based, and self-correcting."
+        },
+        {
+          "set_a_axis": "From ironic superiority to self-correcting humility",
+          "set_b_axis": "From proud self-trust to humbled self-knowledge",
+          "overlap_description": "Both capture the pride-to-humility correction in Elizabeth's self-conception, especially after Darcy's letter."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From amused detachment to acknowledged attachment",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guarded skepticism to selective trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From mutual hostility to reciprocal love",
+          "set_b_axis": "From wounded contempt to mutual love and esteem",
+          "overlap_description": "Both describe the central Elizabeth-Darcy arc from antagonism and misrecognition to intimate love, esteem, and marriage."
+        },
+        {
+          "set_a_axis": "From trusting charm to moral repudiation",
+          "set_b_axis": "From trusting fascination to moral repudiation",
+          "overlap_description": "Both describe Elizabeth's arc with Wickham as a movement from credulous admiration to settled disillusionment and rejection."
+        },
+        {
+          "set_a_axis": "From affectionate sisterhood to deeper protective confidante",
+          "set_b_axis": "From sisterly warmth to deep protective solidarity",
+          "overlap_description": "Both see the Jane relationship as stable but deepening into stronger protectiveness, trust, and emotional solidarity."
+        },
+        {
+          "set_a_axis": "From intimate friendship to respectful distance",
+          "set_b_axis": "From intimate friendship to respectful estrangement",
+          "overlap_description": "Both identify the Charlotte relationship as a friendship altered by Charlotte's marriage choice, resulting in reduced intimacy and enduring respect."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From affectionate reliance to qualified respect",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From embarrassed affection to critical distance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From intimate friendship to respectful estrangement",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From amused ridicule to settled dismissal",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From witty self-assertion to mutual attachment and interdependence",
+      "pole_start": "Elizabeth begins strongly agency-leaning: self-possessed, verbally independent, resistant to social pressure, and inclined to define herself through wit, judgment, and personal autonomy.",
+      "pole_end": "She ends still intelligent and self-directed, but oriented toward mutuality, emotional reciprocity, and shared domestic life with Darcy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early self-assertion and social independence",
+          "chapter_range": [
+            1,
+            17
+          ],
+          "position_description": "Elizabeth is highly agentic: she uses wit to manage family chaos, resists Darcy's contempt, and treats social life as a field for independent judgment rather than submission.",
+          "key_moments": [
+            "Mocks Darcy after his slight at the ball",
+            "Judges Bingley, the Bingley sisters, and Darcy with confidence",
+            "Resists Charlotte's pragmatic view of marriage",
+            "Handles Mr. Collins and social embarrassment with irony"
+          ]
+        },
+        {
+          "phase": "Moral self-revision and inward destabilization",
+          "chapter_range": [
+            18,
+            40
+          ],
+          "position_description": "Her agency remains strong, but it becomes morally self-questioning. Darcy's letter and the Lydia crisis force her to recognize that her self-trust has been mixed with vanity and prejudice.",
+          "key_moments": [
+            "Rejects Mr. Collins and defends her autonomy",
+            "Learns Charlotte has married Collins and is shaken",
+            "Reads Darcy's letter and realizes her judgment has been biased",
+            "Feels shame over Wickham and her family's role in Lydia's disgrace"
+          ]
+        },
+        {
+          "phase": "Relational openness and mutuality",
+          "chapter_range": [
+            41,
+            59
+          ],
+          "position_description": "Elizabeth remains mentally independent, but her center of gravity shifts toward communion. She becomes emotionally open to Darcy, values mutual esteem, and imagines a future defined by partnership rather than self-assertive distance.",
+          "key_moments": [
+            "Visits Pemberley and revises her view of Darcy",
+            "Learns Darcy rescued Lydia",
+            "Accepts Darcy's continued love",
+            "Becomes engaged and then married"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth starts as one of Austen's most agentic heroines: witty, self-defining, and resistant to social coercion. Over the novel she does not lose independence, but she learns to temper it with humility and relational openness. Her final state is a balanced form of mutual attachment."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Judgment Revision",
+      "axis_name": "From confident first impressions to disciplined self-correction",
+      "pole_start": "At the start, Elizabeth trusts her first impressions and social wit as reliable guides to character, treating her judgments as essentially objective.",
+      "pole_end": "By the end, she is still perceptive, but far more cautious, self-aware, and willing to revise her conclusions in light of evidence and reflection.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Confident interpretive certainty",
+          "chapter_range": [
+            1,
+            17
+          ],
+          "position_description": "She quickly fixes on Darcy as proud and Wickham as charming, and she feels little need to doubt her own readings. Her wit reinforces the sense that she sees through others more clearly than they see themselves.",
+          "key_moments": [
+            "Dismisses Darcy after his insult",
+            "Trusts Wickham's appearance and story",
+            "Reads the Bingley sisters and Collins with comic certainty"
+          ]
+        },
+        {
+          "phase": "Crisis of judgment",
+          "chapter_range": [
+            34,
+            40
+          ],
+          "position_description": "Darcy's letter forces her into painful self-revision. She realizes that her judgments of Darcy and Wickham were shaped by vanity, resentment, and prepossession.",
+          "key_moments": [
+            "Reads Darcy's letter",
+            "Recognizes her prejudice against Darcy",
+            "Sees Wickham as deceitful",
+            "Feels shame over her own mental habits"
+          ]
+        },
+        {
+          "phase": "Mature, evidence-based discernment",
+          "chapter_range": [
+            41,
+            59
+          ],
+          "position_description": "She continues to judge sharply, but now with more humility. She values testimony, consistency, and conduct over surface charm, and she is more willing to wait, compare, and revise before deciding.",
+          "key_moments": [
+            "Reassesses Darcy at Pemberley",
+            "Accepts Mrs. Gardiner's and Mrs. Reynolds's testimony",
+            "Understands Darcy's rescue of Lydia",
+            "Recognizes the limits of rumor and first impressions"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's arc is fundamentally a correction of interpretive overconfidence. She does not become less intelligent; she becomes more responsible in how she uses intelligence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Pride Humility",
+      "axis_name": "From proud self-trust to humbled self-knowledge",
+      "pole_start": "Elizabeth begins with lively pride in her discernment, wit, and independence, confident that her judgments are sound and that she is less foolish than those around her.",
+      "pole_end": "She ends with a more humble but not diminished self-respect: aware of her errors, less certain of her infallibility, and more capable of admitting dependence on others' truth and goodness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Proud self-confidence",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "Elizabeth's wit and intelligence are accompanied by a strong sense of her own correctness. She enjoys being right, especially about Darcy, Collins, and the Bingleys.",
+          "key_moments": [
+            "Mocks Darcy and Collins",
+            "Feels satisfaction in her own social reading",
+            "Treats her judgments as settled"
+          ]
+        },
+        {
+          "phase": "Humiliating correction",
+          "chapter_range": [
+            34,
+            40
+          ],
+          "position_description": "Darcy's letter humiliates her into self-knowledge. She sees that her pride in being discerning was itself a form of blindness, and she becomes ashamed of her former certainty.",
+          "key_moments": [
+            "Admits vanity and prejudice",
+            "Feels shame over Wickham",
+            "Recognizes her own bias"
+          ]
+        },
+        {
+          "phase": "Recovered self-respect without self-flattery",
+          "chapter_range": [
+            41,
+            59
+          ],
+          "position_description": "She regains confidence, but it is chastened. She can now trust herself without assuming infallibility, and she can accept love without needing to dominate or be right.",
+          "key_moments": [
+            "Faces Pemberley and Darcy with composure",
+            "Accepts Darcy's love",
+            "Manages family disgrace without collapsing into self-pity"
+          ]
+        }
+      ],
+      "evidence_summary": "This is one of the novel's clearest humility arcs. Elizabeth does not become meek; she becomes less self-deceived. Her pride is corrected into mature self-respect."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Trust Discernment",
+      "axis_name": "From guarded skepticism to selective trust",
+      "pole_start": "Elizabeth begins guarded and skeptical, especially toward social pretension and male authority. She trusts her own perceptions more than other people's claims.",
+      "pole_end": "She ends capable of trusting others selectively and deeply, especially Darcy, Jane, and the Gardiners, while still retaining discernment.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "General skepticism",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "She is skeptical of Darcy, Miss Bingley, Collins, and social performance generally. Trust is reserved for family and a few intimates.",
+          "key_moments": [
+            "Distrusts Darcy after the insult",
+            "Mocks Collins and Lady Catherine",
+            "Believes Wickham readily"
+          ]
+        },
+        {
+          "phase": "Trust shattered and rebuilt",
+          "chapter_range": [
+            34,
+            43
+          ],
+          "position_description": "Her trust in Wickham collapses, and her trust in Darcy is rebuilt through evidence, testimony, and conduct. She learns to trust not charm but consistency.",
+          "key_moments": [
+            "Darcy's letter overturns Wickham",
+            "Pemberley testimony rehabilitates Darcy",
+            "Darcy rescues Lydia"
+          ]
+        },
+        {
+          "phase": "Secure relational trust",
+          "chapter_range": [
+            44,
+            59
+          ],
+          "position_description": "She trusts Darcy, the Gardiners, and Jane deeply. Her trust is no longer naive; it is earned and tested.",
+          "key_moments": [
+            "Accepts Darcy's constancy",
+            "Relies on Gardiner's judgment",
+            "Builds a marriage grounded in mutual trust"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's trust arc is selective rather than universal. She does not become indiscriminately trusting; she learns whom to trust and on what grounds."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Romantic Self-knowledge",
+      "axis_name": "From amused detachment to acknowledged attachment",
+      "pole_start": "Elizabeth treats romance as social comedy, not yet recognizing the depth of her own susceptibility to love.",
+      "pole_end": "She becomes openly aware that she loves Darcy and that her happiness is bound up with his regard.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Romance as social comedy",
+          "chapter_range": [
+            1,
+            25
+          ],
+          "position_description": "Elizabeth treats marriage talk as a field for wit, observation, and moral judgment. Wickham flatters her vanity, but she does not yet understand the depth of her own susceptibility.",
+          "key_moments": [
+            "Mocking Darcy and enjoying social irony",
+            "Interest in Wickham as a pleasing contrast",
+            "Charlotte's marriage forcing her to rethink love"
+          ]
+        },
+        {
+          "phase": "Hidden attachment emerges",
+          "chapter_range": [
+            41,
+            50
+          ],
+          "position_description": "At Pemberley and after, her feelings become unmistakably serious. She is anxious about Darcy's presence, preoccupied by his conduct, and deeply affected by his rescue of Lydia.",
+          "key_moments": [
+            "Pemberley admiration and embarrassment at meeting Darcy",
+            "His civility to her relations",
+            "Mrs. Gardiner's letter about Lydia"
+          ]
+        },
+        {
+          "phase": "Conscious love and acceptance",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "She no longer hides from herself that she loves Darcy and wants the marriage. Her feelings are integrated with esteem, gratitude, and mutual understanding.",
+          "key_moments": [
+            "Her confession to Darcy",
+            "Engagement and family acceptance",
+            "Playful intimacy after marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's romantic arc is one of delayed recognition rather than simple conversion. Her wit and resistance coexist with a deepening attachment that becomes explicit only late in the novel."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Fitzwilliam Darcy",
+      "dimension_label": "Antagonism Intimacy",
+      "axis_name": "From wounded contempt to mutual love and esteem",
+      "pole_start": "Elizabeth begins with strong dislike, seeing Darcy as proud, rude, and socially contemptible.",
+      "pole_end": "She ends in secure love, deep esteem, and intimate mutual understanding with Darcy as her husband.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial rejection and prejudice",
+          "chapter_range": [
+            2,
+            17
+          ],
+          "position_description": "She is offended by Darcy's slight, then morally condemns him after Wickham's story. Her attitude is hostile, witty, and self-righteous.",
+          "key_moments": [
+            "Overhears Darcy's insult at the ball",
+            "Accepts Wickham's account",
+            "Sparring at Netherfield"
+          ]
+        },
+        {
+          "phase": "Moral reversal and painful doubt",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Darcy's proposal and letter force her to revise her view. She moves from hostility to shame, reluctant respect, and the first real disturbance of her certainty.",
+          "key_moments": [
+            "Darcy's proposal",
+            "Darcy's explanatory letter",
+            "Recognition of her own prejudice"
+          ]
+        },
+        {
+          "phase": "Renewed admiration and hope",
+          "chapter_range": [
+            42,
+            56
+          ],
+          "position_description": "At Pemberley and after Lydia's crisis, Darcy becomes the object of admiration, gratitude, and emotional hope. His constancy is confirmed, and Elizabeth's attachment becomes explicit.",
+          "key_moments": [
+            "Pemberley visit",
+            "Darcy's civility and generosity",
+            "Rescue of Lydia",
+            "Lady Catherine's failed interference"
+          ]
+        },
+        {
+          "phase": "Secure mutual attachment",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "Elizabeth accepts Darcy's renewed love, becomes engaged, and then married. The relationship settles into affectionate equality and domestic harmony.",
+          "key_moments": [
+            "Darcy's renewed declaration",
+            "Engagement",
+            "Marriage and Pemberley life"
+          ]
+        }
+      ],
+      "evidence_summary": "This is the novel's central relational arc. It moves from misrecognition to recognition, from pride and prejudice to mutual esteem and love."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "George Wickham",
+      "dimension_label": "Credulity Disillusionment",
+      "axis_name": "From trusting fascination to moral repudiation",
+      "pole_start": "Elizabeth begins highly favorable toward Wickham, seeing him as charming, credible, and wronged.",
+      "pole_end": "She ends with complete distrust and contempt, seeing him as deceitful, selfish, and dangerous.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Immediate attraction and trust",
+          "chapter_range": [
+            14,
+            17
+          ],
+          "position_description": "Wickham's appearance and narrative win her over quickly. She trusts his account because it fits her existing dislike of Darcy.",
+          "key_moments": [
+            "First meeting with Wickham",
+            "His story about Darcy",
+            "Her disappointment when he is absent from the ball"
+          ]
+        },
+        {
+          "phase": "Suspicion begins",
+          "chapter_range": [
+            25,
+            33
+          ],
+          "position_description": "Mrs. Gardiner's warning and Darcy's letter begin to destabilize her confidence, though she is not yet fully convinced against him.",
+          "key_moments": [
+            "Mrs. Gardiner warns her about Wickham",
+            "Darcy's letter undermines his story",
+            "Lydia's elopement raises alarm"
+          ]
+        },
+        {
+          "phase": "Collapse of trust",
+          "chapter_range": [
+            34,
+            50
+          ],
+          "position_description": "Darcy's letter and the Lydia scandal expose Wickham as false, mercenary, and morally corrupt. Elizabeth's admiration turns to disgust.",
+          "key_moments": [
+            "Reading Darcy's letter",
+            "Learning of Wickham's debts",
+            "Lydia's elopement and marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "Wickham is the clearest example of Elizabeth's corrected first impression. Her initial susceptibility to charm is exposed and reversed by evidence."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Jane Bennet",
+      "dimension_label": "Protective Affection",
+      "axis_name": "From sisterly warmth to deep protective solidarity",
+      "pole_start": "Elizabeth begins with strong affection and amusement toward Jane, already loving her but not yet under major protective strain.",
+      "pole_end": "She ends in enduring, intimate, protective love, with Jane as her moral and emotional anchor.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Warm sisterly intimacy",
+          "chapter_range": [
+            1,
+            17
+          ],
+          "position_description": "Elizabeth enjoys Jane's sweetness and wants her happiness, especially with Bingley.",
+          "key_moments": [
+            "Teases Jane about Bingley",
+            "Supports Jane at Netherfield",
+            "Shares confidences"
+          ]
+        },
+        {
+          "phase": "Protective anxiety",
+          "chapter_range": [
+            18,
+            26
+          ],
+          "position_description": "Jane's disappointment and illness deepen Elizabeth's protectiveness. She becomes Jane's defender against Bingley, Caroline, and family impropriety.",
+          "key_moments": [
+            "Jane's illness at Netherfield",
+            "Bingley's withdrawal",
+            "Jane's disappointment"
+          ]
+        },
+        {
+          "phase": "Shared suffering and renewed closeness",
+          "chapter_range": [
+            27,
+            40
+          ],
+          "position_description": "Jane's suffering over Bingley and later the Lydia crisis intensify Elizabeth's protective loyalty. Jane's goodness also becomes a moral contrast to Elizabeth's own harsher judgments.",
+          "key_moments": [
+            "Jane's heartbreak over Bingley",
+            "Elizabeth confides in Jane about Darcy",
+            "Jane's charity during family disgrace"
+          ]
+        },
+        {
+          "phase": "Joyful solidarity",
+          "chapter_range": [
+            51,
+            59
+          ],
+          "position_description": "Jane's engagement and the family's partial restoration bring the sisters into a stable, affectionate, mutually supportive closeness.",
+          "key_moments": [
+            "Jane and Bingley's reunion",
+            "Elizabeth shares engagement news",
+            "Final domestic harmony"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane is Elizabeth's most stable relationship. The arc is less about change than about deepening protective solidarity under pressure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Charlotte Lucas",
+      "dimension_label": "Idealism Pragmatism",
+      "axis_name": "From intimate friendship to respectful estrangement",
+      "pole_start": "Elizabeth begins as Charlotte's affectionate, trusting friend, assuming shared values and mutual confidence.",
+      "pole_end": "She ends still affectionate but more distant, respecting Charlotte's practicality while no longer fully sharing her worldview.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Close friendship and disagreement in embryo",
+          "chapter_range": [
+            1,
+            20
+          ],
+          "position_description": "Elizabeth values Charlotte's wit and companionship but resists her pragmatic view of marriage.",
+          "key_moments": [
+            "Conversations about marriage",
+            "Charlotte's practical observations"
+          ]
+        },
+        {
+          "phase": "Shock and estrangement",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Charlotte's engagement to Collins shocks Elizabeth and creates a real emotional gap. She feels betrayed by Charlotte's choice, even while wishing her well.",
+          "key_moments": [
+            "Charlotte accepts Collins",
+            "Elizabeth's stunned reaction"
+          ]
+        },
+        {
+          "phase": "Respectful re-evaluation",
+          "chapter_range": [
+            27,
+            29
+          ],
+          "position_description": "At Hunsford, Elizabeth begins to appreciate Charlotte's skill in managing her marriage and household, though the emotional distance remains.",
+          "key_moments": [
+            "Observing Charlotte at Hunsford",
+            "Recognizing her domestic intelligence"
+          ]
+        },
+        {
+          "phase": "Affection with permanent difference",
+          "chapter_range": [
+            37,
+            59
+          ],
+          "position_description": "Elizabeth remains fond of Charlotte but never fully regains the old intimacy. Their friendship survives as a respectful, limited bond across different values.",
+          "key_moments": [
+            "Charlotte as confidante at Hunsford",
+            "Elizabeth's continued mixed feelings",
+            "Final cordiality"
+          ]
+        }
+      ],
+      "evidence_summary": "This friendship arc is shaped by ideological divergence. Elizabeth learns to respect Charlotte more, but also to accept that they no longer share the same assumptions about marriage and security."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Mr. Bennet",
+      "dimension_label": "Trust Respect",
+      "axis_name": "From affectionate reliance to qualified respect",
+      "pole_start": "Elizabeth begins with warm affection and high esteem for her father as the family member she understands best.",
+      "pole_end": "She ends with continued affection, but sharper moral criticism and less trust in his judgment as a parent.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Early alliance",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "Elizabeth admires her father's wit and restraint and often aligns with him against her mother. He feels like the most intelligible and sympathetic parent.",
+          "key_moments": [
+            "His teasing about Bingley",
+            "His quiet pleasure at her return from Netherfield"
+          ]
+        },
+        {
+          "phase": "Growing moral concern",
+          "chapter_range": [
+            36,
+            41
+          ],
+          "position_description": "As Lydia's danger becomes clear, Elizabeth judges her father more critically for passivity and irony. Her affection remains, but trust in his protective judgment weakens.",
+          "key_moments": [
+            "Concern over Lydia and Brighton",
+            "Criticism of his failure to restrain the younger girls",
+            "Reflection on his failure as a husband and father"
+          ]
+        },
+        {
+          "phase": "Restored intimacy with limits",
+          "chapter_range": [
+            46,
+            57
+          ],
+          "position_description": "In the crisis and after, they become closer through candid conversation and his eventual approval of Darcy. Yet Elizabeth's respect is now mixed with a clearer sense of his limitations.",
+          "key_moments": [
+            "His candid response to Lydia's disgrace",
+            "His eventual acceptance of Darcy",
+            "Her relief at his blessing"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth never stops loving her father, but the novel complicates her trust in him. She moves from filial alliance to a more adult, morally qualified respect."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Mrs. Bennet",
+      "dimension_label": "Esteem Antagonism",
+      "axis_name": "From embarrassed affection to critical distance",
+      "pole_start": "Elizabeth begins with familial affection mixed with amusement and early skepticism about her mother's judgment.",
+      "pole_end": "She ends with persistent embarrassment, low esteem, and emotional distance, though not total rejection.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Comic embarrassment",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Elizabeth is amused by Mrs. Bennet's excitability but already skeptical of her judgment and manners.",
+          "key_moments": [
+            "Mrs. Bennet's excitement over Bingley",
+            "Family awkwardness at Netherfield and Longbourn"
+          ]
+        },
+        {
+          "phase": "Repeated mortification",
+          "chapter_range": [
+            17,
+            40
+          ],
+          "position_description": "Mrs. Bennet's indiscretion around Collins, Jane, Lydia, and Brighton repeatedly embarrasses Elizabeth and confirms her low opinion of her mother's tact.",
+          "key_moments": [
+            "Public proposal scene",
+            "Pressure over Collins",
+            "Lydia's Brighton scheme"
+          ]
+        },
+        {
+          "phase": "Enduring embarrassment, limited affection",
+          "chapter_range": [
+            48,
+            59
+          ],
+          "position_description": "Elizabeth continues to manage her mother's vulgarity and tactlessness, especially around Darcy and the engagement. She remains dutiful but emotionally distanced.",
+          "key_moments": [
+            "Mortification over Darcy's knowledge of Lydia",
+            "Mrs. Bennet's reaction to the engagement",
+            "Elizabeth's need to shield Darcy from family display"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs. Bennet is a stable source of embarrassment rather than a site of major transformation. Elizabeth's relationship with her mother is defined by recurring low esteem and managed affection."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Elizabeth Bennet",
+      "target_character": "Mr. Collins",
+      "dimension_label": "Contempt Detachment",
+      "axis_name": "From amused ridicule to settled dismissal",
+      "pole_start": "Elizabeth begins amused by Collins's absurdity, seeing him as comic and harmlessly ridiculous.",
+      "pole_end": "She ends with complete settled contempt and practical indifference, no longer emotionally engaged by him.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Comic ridicule",
+          "chapter_range": [
+            12,
+            19
+          ],
+          "position_description": "She treats Collins as a source of satire and embarrassment, especially during the proposal scene.",
+          "key_moments": [
+            "Mr. Collins's letter and visit",
+            "Proposal and refusal",
+            "Family uproar"
+          ]
+        },
+        {
+          "phase": "Social nuisance rather than threat",
+          "chapter_range": [
+            20,
+            30
+          ],
+          "position_description": "At Hunsford, Collins becomes an object of weary amusement. Elizabeth is no longer shocked, only irritated and detached.",
+          "key_moments": [
+            "Charlotte's marriage to Collins",
+            "Observing him at Hunsford and Rosings"
+          ]
+        },
+        {
+          "phase": "Final dismissal",
+          "chapter_range": [
+            31,
+            59
+          ],
+          "position_description": "Collins fades into the background as Elizabeth's emotional life becomes dominated by Darcy, Jane, and the Lydia crisis. He remains ridiculous, but no longer central.",
+          "key_moments": [
+            "His letters during Lydia crisis",
+            "His continued absurdity at the end"
+          ]
+        }
+      ],
+      "evidence_summary": "Collins is a static comic foil. Elizabeth's relation to him changes only in degree: from active ridicule to settled dismissal."
+    }
+  ]
+}

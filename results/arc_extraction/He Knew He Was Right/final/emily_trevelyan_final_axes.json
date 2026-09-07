@@ -1,0 +1,591 @@
+{
+  "character": "Emily Trevelyan",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From proud self-assertion to dutiful relational endurance",
+          "set_b_axis": "From proud self-assertion to duty-bound relational care",
+          "overlap_description": "Both describe Emily's movement from defiant self-assertion toward a later ethic of duty, care, and endurance, with agency redirected away from self-defense and toward relational obligation."
+        },
+        {
+          "set_a_axis": "From honor-defense to self-abasing reconciliation",
+          "set_b_axis": "From self-justifying innocence to chastened moral acquittal",
+          "overlap_description": "Both track Emily's changing relation to moral innocence and apology: she begins by defending herself absolutely, then ends in a posture of humility, tactical self-blame, and final acquittal rather than continued insistence on pride."
+        },
+        {
+          "set_a_axis": "From indignation to compassionate endurance",
+          "set_b_axis": "From hot indignation to disciplined endurance",
+          "overlap_description": "Both capture the same emotional shift from reactive anger and wounded pride toward a more controlled, enduring response shaped by pity, duty, and sustained care."
+        },
+        {
+          "set_a_axis": "From social confidence to precarious dependence",
+          "set_b_axis": "From wounded wife to child-centered protector",
+          "overlap_description": "These are complementary rather than identical: both note Emily's loss of secure social footing and the increasing centrality of motherhood, but B isolates maternal priority while A emphasizes broader social precarity."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From proud self-assertion to dutiful relational endurance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From honor-defense to self-abasing reconciliation",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From insisting on innocence to accepting sacrificial blame",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From indignation to compassionate endurance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From social confidence to precarious dependence",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From proud self-assertion to duty-bound relational care",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From self-justifying innocence to chastened moral acquittal",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From hot indignation to disciplined endurance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From wounded wife to child-centered protector",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From marital trust to mutual suspicion and partial posthumous reconciliation",
+          "set_b_axis": "From wounded wifehood to duty-bound estrangement",
+          "overlap_description": "Both describe the collapse of marital trust with Louis Trevelyan, followed by a late-stage shift from antagonism toward pity, duty, and symbolic rather than fully restored reconciliation."
+        },
+        {
+          "set_a_axis": "From trusted family friend to socially dangerous association",
+          "set_b_axis": "From trusted friend to socially dangerous attachment",
+          "overlap_description": "Both treat Colonel Osborne as moving from harmless family acquaintance to a socially compromised figure whose significance is transformed by secrecy, suspicion, and scandal."
+        },
+        {
+          "set_a_axis": "From irritated dependence to deepened sisterly alliance",
+          "set_b_axis": "From intimate sisterly alliance to strained but enduring support",
+          "overlap_description": "Both identify Nora Rowley as a stable sisterly bond that survives conflict and becomes a crucial source of mediation, witness, and emotional support."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From incidental acquaintance to trusted moral ally",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From friction to candid respect",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From beloved child to absolute emotional center",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "From proud self-assertion to duty-bound relational care",
+      "pole_start": "Emily begins as strongly self-assertive, proud, resistant to control, and determined to preserve her independence and dignity against marital pressure.",
+      "pole_end": "She ends more communion-oriented: still self-respecting, but increasingly defined by duty, pity, maternal care, and endurance near Trevelyan and her child.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defiant autonomy",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily resists Louis's implied authority, insists on her own judgment, and treats submission as humiliation. Her agency is expressed as pride, resistance, and refusal to concede.",
+          "key_moments": [
+            "Refuses to treat Colonel Osborne as improper",
+            "Insists on apology before reconciliation",
+            "Rejects confession of wrongdoing"
+          ]
+        },
+        {
+          "phase": "Maternal pressure and tactical compliance",
+          "chapter_range": [
+            14,
+            33
+          ],
+          "position_description": "Her agency remains strong, but it is increasingly constrained by maternal fear, social stigma, and practical dependence. She begins to negotiate rather than simply resist.",
+          "key_moments": [
+            "Settles into the Clock House with the baby",
+            "Uses intermediaries and controlled withdrawal",
+            "Fears losing access to Louey"
+          ]
+        },
+        {
+          "phase": "Duty-bound care",
+          "chapter_range": [
+            52,
+            99
+          ],
+          "position_description": "Emily's self-assertion is redirected into caregiving, vigilance, and endurance. She acts less to win the quarrel than to preserve her child, nurse Trevelyan, and maintain moral order.",
+          "key_moments": [
+            "Panic over Louey's custody and safety",
+            "Stays near Trevelyan in Italy under unstable conditions",
+            "Nurses Trevelyan through illness and seeks peace"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily moves from proud confrontation toward a more relationally bound ethic of care and endurance. She never becomes passive, but her agency is increasingly expressed through duty, maternal protection, and service rather than resistance."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Pride–Humility",
+      "axis_name": "From honor-defense to sacrificial humility",
+      "pole_start": "Emily initially treats yielding as humiliation and frames conflict as a test of honor and moral standing.",
+      "pole_end": "By the end she is willing to abase herself, confess fault strategically, and seek forgiveness to preserve peace and care for Trevelyan.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Honor as self-defense",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily insists on her innocence and refuses to soften first. Pride functions as moral armor against coercion and shame.",
+          "key_moments": [
+            "Declares Louis must apologize before she will yield",
+            "Refuses to appear afraid or compromised",
+            "Withdraws rather than accept a false reconciliation"
+          ]
+        },
+        {
+          "phase": "Pride under pressure",
+          "chapter_range": [
+            14,
+            63
+          ],
+          "position_description": "Her pride remains strong, but it is increasingly strained by threats to her child, her reputation, and her security. She begins to accept tactical humility without inward surrender.",
+          "key_moments": [
+            "Accepts separation arrangements on practical terms",
+            "Endures social stigma and custody threats",
+            "Considers humility as a means of recovering Louey"
+          ]
+        },
+        {
+          "phase": "Sacrificial humility",
+          "chapter_range": [
+            93,
+            99
+          ],
+          "position_description": "Emily kneels, begs forgiveness, and even confesses fault to soothe Trevelyan. Pride is no longer governing; mercy, care, and survival are.",
+          "key_moments": [
+            "Begs Trevelyan to forgive her",
+            "Tells him all the fault was hers",
+            "Waits for his final sign of acquittal"
+          ]
+        }
+      ],
+      "evidence_summary": "The arc runs from pride as defensive identity to humility as an accepted moral and emotional cost of sustaining relationship and peace."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Innocence–Self-Sacrifice",
+      "axis_name": "From defending innocence to accepting sacrificial blame",
+      "pole_start": "Emily begins by insisting that she is innocent and that any concession would falsely validate Louis's jealousy.",
+      "pole_end": "She ends by accepting blame strategically and sacrificially, even when she knows it is not true, in order to protect Trevelyan and preserve peace.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Innocence defended",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily repeatedly insists that she has done nothing wrong and that Louis's suspicions are unreasonable. Her moral identity depends on being seen as innocent.",
+          "key_moments": [
+            "Refuses to treat Osborne's visits as improper",
+            "Rejects warnings about secrecy",
+            "Insists she will not admit guilt"
+          ]
+        },
+        {
+          "phase": "Innocence under siege",
+          "chapter_range": [
+            27,
+            67
+          ],
+          "position_description": "Trevelyan's accusations, threats, and coercive letters make innocence harder to sustain socially, even though Emily internally maintains it. She learns that appearances can overpower truth.",
+          "key_moments": [
+            "Receives threats about child custody and support",
+            "Is publicly framed as disgraceful",
+            "Begins to suspect Trevelyan may be mentally unwell"
+          ]
+        },
+        {
+          "phase": "Sacrificial confession",
+          "chapter_range": [
+            95,
+            99
+          ],
+          "position_description": "Emily accepts blame to calm Trevelyan and preserve his peace, treating confession as a form of endurance rather than truth.",
+          "key_moments": [
+            "Tells Trevelyan all the fault was hers",
+            "Continues silent attendance despite abuse",
+            "Seeks posthumous vindication only at the end"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily's moral center shifts from defending innocence as a public claim to using self-blame as a protective, sacrificial act."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Pity–Indignation",
+      "axis_name": "From indignation to compassionate endurance",
+      "pole_start": "Emily begins in indignation, interpreting conflict as insult, injustice, and humiliation.",
+      "pole_end": "She ends in pity-driven endurance, seeing Trevelyan as ill and vulnerable and responding with care rather than retaliation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Indignant injury",
+          "chapter_range": [
+            1,
+            28
+          ],
+          "position_description": "Her emotional life is dominated by wounded pride, resentment, and the need to answer insult with resistance.",
+          "key_moments": [
+            "Treats Louis's tone as a gross insult",
+            "Frames the quarrel as persecution",
+            "Threatens exposure in response to accusations"
+          ]
+        },
+        {
+          "phase": "Pity enters the frame",
+          "chapter_range": [
+            67,
+            92
+          ],
+          "position_description": "As Trevelyan's condition worsens, Emily begins to interpret him as possibly mad or physically broken. Her anger is increasingly complicated by pity and responsibility.",
+          "key_moments": [
+            "Fears he may be mentally unwell",
+            "Learns he looks wasted and unsafe",
+            "Decides to remain near him in Italy"
+          ]
+        },
+        {
+          "phase": "Compassionate vigilance",
+          "chapter_range": [
+            92,
+            99
+          ],
+          "position_description": "Emily becomes a nurse-like presence, absorbing abuse and seeking to protect Trevelyan from himself. Pity now governs her conduct more than grievance does.",
+          "key_moments": [
+            "Visits him daily despite insults",
+            "Describes his mind as diseased",
+            "Stays at his bedside through his final days"
+          ]
+        }
+      ],
+      "evidence_summary": "The emotional center of Emily's arc shifts from reactive indignation to compassionate caretaking. She does not stop suffering, but she increasingly converts suffering into pity and duty."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Security–Precarity",
+      "axis_name": "From social confidence to precarious dependence",
+      "pole_start": "Emily begins socially secure, newly married, and confident in the respectability of her position.",
+      "pole_end": "She ends as a widow whose remaining stability comes from property and motherhood, after passing through repeated experiences of social exposure and dependence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial security",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Marriage initially seems fortunate and socially validating. Emily assumes she occupies a stable, admired position.",
+          "key_moments": [
+            "Marries Louis and leaves the Mandarins for London",
+            "Feels hopeful and secure in her new status"
+          ]
+        },
+        {
+          "phase": "Exposure and stigma",
+          "chapter_range": [
+            5,
+            29
+          ],
+          "position_description": "Secrecy, gossip, and domestic conflict make her position increasingly unstable. She learns that even shelter and family support are conditional and socially risky.",
+          "key_moments": [
+            "Fears losing her child in separation",
+            "Feels shame in front of servants and household observers",
+            "Learns the Clock House refuge carries social cost"
+          ]
+        },
+        {
+          "phase": "Dependence and narrowed future",
+          "chapter_range": [
+            60,
+            99
+          ],
+          "position_description": "Emily's life becomes contingent on Trevelyan's illness, others' mediation, and her child's fate. By the end, widowhood gives her material security, but not the expansive future she once had.",
+          "key_moments": [
+            "Returns to her father as a practical refuge",
+            "Lives in Italy near Trevelyan under unstable conditions",
+            "Ends in widowhood with her child as her main source of meaning"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily's arc is marked by a steady loss of social certainty. She moves from a secure marriage plot into a world of conditional shelter, dependency, and finally narrowed but stable widowhood."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Emily Trevelyan",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "Trust–Suspicion",
+      "axis_name": "From marital trust to duty-bound estrangement",
+      "pole_start": "Emily begins with affectionate trust in Louis as a valued husband, even as his possessiveness foreshadows conflict.",
+      "pole_end": "She ends in near-total distrust and emotional estrangement, softened only by pity, duty, and the need to manage his illness rather than by restored marital trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial rupture",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily begins hurt and defiant, then moves through repeated confrontations in which trust collapses and intimacy becomes conditional on Louis's apology.",
+          "key_moments": [
+            "Insult over Colonel Osborne",
+            "Public accusation",
+            "Refusal to submit"
+          ]
+        },
+        {
+          "phase": "Separation and hostility",
+          "chapter_range": [
+            14,
+            63
+          ],
+          "position_description": "The marriage breaks into separation, custody conflict, and public scandal. Trust is effectively gone; Emily's relation to Louis becomes one of grievance, fear, and tactical management.",
+          "key_moments": [
+            "Departure from the Clock House",
+            "Child-custody crisis",
+            "Desperate attempts to reach him"
+          ]
+        },
+        {
+          "phase": "Pity and duty",
+          "chapter_range": [
+            67,
+            99
+          ],
+          "position_description": "After seeing Trevelyan's decline, Emily's relation to him is no longer only antagonistic. She still distrusts him, but pity, duty, and caregiving create a fragile, non-romantic intimacy that culminates in his final acquittal of her.",
+          "key_moments": [
+            "Recognition of possible madness",
+            "Softened care and willingness to remain near him",
+            "Final kiss and symbolic absolution"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily moves from an embattled marriage still seeking recognition, to estrangement and custody conflict, and finally to a duty-bound, pitying proximity that ends in symbolic moral release rather than restored marital trust."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Emily Trevelyan",
+      "target_character": "Colonel Osborne",
+      "dimension_label": "Familiarity–Scandal",
+      "axis_name": "From trusted family friend to socially dangerous attachment",
+      "pole_start": "Emily initially experiences Colonel Osborne as an old family friend whose visits seem innocent and proper.",
+      "pole_end": "He becomes a socially dangerous, morally compromised figure whose importance fades as scandal and danger intensify.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Trusted familiarity",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Emily defends Osborne as a harmless, longstanding acquaintance and accepts his help for her parents.",
+          "key_moments": [
+            "Refuses to treat Louis's discomfort as valid",
+            "Accepts his assistance"
+          ]
+        },
+        {
+          "phase": "Charged secrecy",
+          "chapter_range": [
+            3,
+            24
+          ],
+          "position_description": "Letters, visits, and secrecy make the relationship increasingly ambiguous. Emily insists on propriety, but the social meaning of the connection becomes unstable.",
+          "key_moments": [
+            "Secret correspondence",
+            "Permits visits under caution",
+            "Damage control amid suspicion"
+          ]
+        },
+        {
+          "phase": "Withdrawal from scandal",
+          "chapter_range": [
+            28,
+            99
+          ],
+          "position_description": "As the marital crisis deepens and Trevelyan's illness overtakes the story, Osborne recedes from emotional centrality. He remains part of the old scandal rather than a live attachment.",
+          "key_moments": [
+            "Tactical departure and reduced emphasis on Osborne",
+            "Shift to Louey and Trevelyan's illness",
+            "Osborne no longer central to her emotional life"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne shifts from trusted friend to a socially risky figure whose significance fades as maternal and duty-based concerns take over."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Emily Trevelyan",
+      "target_character": "Nora Rowley",
+      "dimension_label": "Confiding–Mediation",
+      "axis_name": "From intimate sisterly alliance to strained but enduring support",
+      "pole_start": "Emily begins with a warm, high-trust sisterly bond in which she confides freely and expects Nora to understand her.",
+      "pole_end": "The bond remains strong but more burdened, with Nora serving as emotional shelter, witness, and mediator even as Emily becomes more defensive and dependent on restraint.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Close confidantes",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily relies on Nora as a trusted confidante and mediator, though she sometimes dismisses Nora's caution.",
+          "key_moments": [
+            "Nora's warnings about Osborne",
+            "Mediation during outward reconciliation",
+            "Nora as emotional shelter"
+          ]
+        },
+        {
+          "phase": "Shared crisis",
+          "chapter_range": [
+            14,
+            63
+          ],
+          "position_description": "Nora remains central, but the relationship becomes more strained by Emily's need to manage scandal, separation, and custody. Nora is still trusted, yet Emily increasingly uses her as witness and support rather than as equal confidante.",
+          "key_moments": [
+            "Departure and reliance on Nora",
+            "Parallel romantic crisis",
+            "Continued dependence during Louey crisis"
+          ]
+        },
+        {
+          "phase": "Enduring sisterhood",
+          "chapter_range": [
+            67,
+            99
+          ],
+          "position_description": "Even as Emily's life narrows into duty and Trevelyan's illness, Nora remains a stable emotional ally. The bond is less central to plot than before, but it remains warm, intimate, and reliable.",
+          "key_moments": [
+            "Witness to Louey crisis",
+            "Continued support during reconciliation attempts",
+            "Witness to Trevelyan's final acquittal"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora is Emily's most stable human attachment besides her child. Their bond is tested by scandal and defensiveness, but it never breaks; it becomes more burdened while remaining intimate and reliable."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Emily Trevelyan",
+      "target_character": "Louey Trevelyan",
+      "dimension_label": "Custody–Devotion",
+      "axis_name": "From beloved child to absolute emotional center",
+      "pole_start": "Louey begins as a loved child within the family, important but not yet the sole center of Emily's emotional life.",
+      "pole_end": "He becomes the absolute center of her love, fear, and purpose; his safety and presence are the main measure of her happiness and moral endurance.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Growing maternal concern",
+          "chapter_range": [
+            5,
+            29
+          ],
+          "position_description": "Fear of losing her son begins to dominate Emily's thinking, and she increasingly measures the marriage crisis by its effect on him.",
+          "key_moments": [
+            "Fear of losing custody",
+            "Relief at keeping the baby",
+            "Departure with the child"
+          ]
+        },
+        {
+          "phase": "Custody crisis",
+          "chapter_range": [
+            52,
+            67
+          ],
+          "position_description": "Louey becomes the center of a direct struggle between Emily and Trevelyan. Her emotional life is dominated by panic, vigilance, and desperate attempts to keep him safe.",
+          "key_moments": [
+            "Bozzle's arrival to claim the child",
+            "Abduction and panic",
+            "Reunion and renewed fear"
+          ]
+        },
+        {
+          "phase": "Restored but fragile attachment",
+          "chapter_range": [
+            79,
+            99
+          ],
+          "position_description": "After repeated crises, Louey's return gives Emily relief and purpose. By the end, he is the main source of meaning in her life and the anchor of her future.",
+          "key_moments": [
+            "Reunion at Casalunga",
+            "Louey safely restored",
+            "Future life centered on the child"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily's maternal arc is one of the novel's strongest emotional lines. Louey moves from being one important family member to the central object of her love, fear, and purpose, especially after the custody crisis and Trevelyan's death."
+    }
+  ]
+}

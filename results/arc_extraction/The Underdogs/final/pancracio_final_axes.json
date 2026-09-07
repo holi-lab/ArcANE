@@ -1,0 +1,420 @@
+{
+  "character": "Pancracio",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From swaggering combat self-assertion to rough communal belonging",
+          "set_b_axis": "From ferocious self-assertion to habitual group belonging",
+          "overlap_description": "Both describe the same core shift: Pancracio begins as an aggressively self-assertive fighter and ends more embedded in the rebel band's collective life, with belonging and routine increasingly framing his aggression."
+        },
+        {
+          "set_a_axis": "From exuberant violence to normalized brutality",
+          "set_b_axis": null,
+          "overlap_description": "No exact intrapersonal match in B, but B's agency-to-belonging axis partially absorbs this pattern by emphasizing how violence becomes routinized within group life."
+        },
+        {
+          "set_a_axis": "From instinctive fighter to opportunistic revolutionary",
+          "set_b_axis": null,
+          "overlap_description": "B does not isolate ideology/pragmatism as a separate axis, but it supports the same practical-opportunist reading through camp exchange, looting, and habitual participation."
+        },
+        {
+          "set_a_axis": "From untested bravado to hardened but shaken resilience",
+          "set_b_axis": null,
+          "overlap_description": "B does not separately track fearlessness/vulnerability, though its later-stage routinization and bodily pragmatism are compatible with a seasoned, less purely boastful fighter."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From exuberant violence to normalized brutality",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From instinctive fighter to opportunistic revolutionary",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From untested bravado to hardened but shaken resilience",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From ferocious self-assertion to habitual group belonging",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From swaggering follower to loyal but occasionally contemptuous subordinate",
+          "set_b_axis": "From fierce subordinate loyalty to routine habitual allegiance",
+          "overlap_description": "Both capture Pancracio's durable subordination to Demetrio: he remains loyal and within the leader's orbit, while the relationship shifts from intense battle loyalty to more habitual camp allegiance."
+        },
+        {
+          "set_a_axis": "From skeptical tolerance to open contempt for the intellectual",
+          "set_b_axis": "From immediate hostility to settled cynical dismissal",
+          "overlap_description": "Both describe Pancracio's negative stance toward Luis Cervantes, moving from suspicion and hostility to a more settled, contemptuous dismissal of Cervantes's speech and caution."
+        },
+        {
+          "set_a_axis": "From rough peer volatility to violent camaraderie",
+          "set_b_axis": "From rough competitive hostility to easy male camaraderie",
+          "overlap_description": "Both see the Pancracio-Manteca bond as a rough male peer relation that becomes more companionable and socially bonded over time, though A stresses violent recognition and B stresses joking fellowship."
+        },
+        {
+          "set_a_axis": "From individual hothead to embedded camp fighter",
+          "set_b_axis": null,
+          "overlap_description": "B does not isolate the rebel band as a separate relational axis, but its Demetrio and Manteca axes together support the broader claim that Pancracio becomes more embedded in collective camp life."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From individual hothead to embedded camp fighter",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From ferocious self-assertion to habitual group belonging",
+      "pole_start": "High-agency, combative self-assertion: Pancracio begins as a violence-driven fighter who seeks mastery, dominance, and immediate action through bravado and aggression.",
+      "pole_end": "More communally embedded, though still aggressive: by the end he is absorbed into the rebel band's routine life of comradeship, looting, obedience, and shared predation rather than individual self-display.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Combat-driven self-assertion",
+          "chapter_range": [
+            3,
+            5
+          ],
+          "position_description": "Pancracio is at his most self-assertive here: he treats battle as sport, revels in action, and presses for harsh treatment of enemies. His identity is built on force, dominance, and immediate response.",
+          "key_moments": [
+            "Chapter 3: shouts, roars, and taunts during the ambush",
+            "Chapter 5: boasts after shooting a stranger in the foot and urges execution of Luis Cervantes"
+          ]
+        },
+        {
+          "phase": "Rough communal embeddedness",
+          "chapter_range": [
+            12,
+            23
+          ],
+          "position_description": "He remains aggressive, but increasingly as part of a collective. His energy is channeled into shared combat anticipation, group joking, looting, and practical camp exchange, making belonging more salient than personal dominance.",
+          "key_moments": [
+            "Chapter 12: rejoices at the prospect of meeting the Federals",
+            "Chapter 13: joins the armed group",
+            "Chapter 15: shares in camp camaraderie",
+            "Chapter 23: loots and sells books for profit"
+          ]
+        },
+        {
+          "phase": "Routine subordination and bodily pragmatism",
+          "chapter_range": [
+            29,
+            36
+          ],
+          "position_description": "By the end, Pancracio is less a self-asserting hothead than a practical camp participant focused on obedience, comfort, and routine survival. He remains violent in disposition, but that violence is now normalized inside a stable group order.",
+          "key_moments": [
+            "Chapter 29: obeys Demetrio's order regarding Camilla and the horses",
+            "Chapter 32: gambles within camp routine",
+            "Chapter 35: seeks food and comfort in transit",
+            "Chapter 36: is already dead"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio does not become less aggressive in a moral sense, but his aggression becomes less individually expressive and more socially embedded. The arc is from isolated swagger toward habitual belonging within a rough male collective."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Violence-Brutality",
+      "axis_name": "From exuberant violence to normalized brutality",
+      "pole_start": "Violence begins as thrilling, performative, and status-making: Pancracio enjoys combat as excitement and proof of toughness.",
+      "pole_end": "Violence becomes fully normalized as his default mode of action, extending into cruelty, domination, intimidation, and plunder without hesitation.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Violence as exhilaration",
+          "chapter_range": [
+            3,
+            5
+          ],
+          "position_description": "He treats violence as a source of excitement and prestige, not yet as a hardened moral habit.",
+          "key_moments": [
+            "Chapter 3: cheers, roars, and bloodlust in the ambush",
+            "Chapter 5: shoots the stranger in the foot and boasts about it"
+          ]
+        },
+        {
+          "phase": "Violence as identity",
+          "chapter_range": [
+            16,
+            17
+          ],
+          "position_description": "His response to danger becomes harsher and less reflective. He strikes a pleading captive and kills with exceptional ferocity, showing that mercy has little place in his conduct.",
+          "key_moments": [
+            "Chapter 16: strikes the local guide and rejects mercy",
+            "Chapter 17: neck-cuts a fleeing soldier and continues the slaughter"
+          ]
+        },
+        {
+          "phase": "Violence as habit",
+          "chapter_range": [
+            17,
+            26
+          ],
+          "position_description": "Violence is no longer just battlefield intensity; it is folded into looting, intimidation, and public terror. He becomes a figure others fear and appears comfortable with that role.",
+          "key_moments": [
+            "Chapter 17: kills the captain and treats plunder casually",
+            "Chapter 23: destructive looting and opportunistic selling",
+            "Chapter 26: is recognized as a terror figure by the women"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio moves from enjoying violence as excitement to embodying it as a stable mode of being. Brutality becomes normalized and socially reinforced, with no countervailing mercy arc."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Ideology-Pragmatism",
+      "axis_name": "From instinctive fighter to opportunistic revolutionary",
+      "pole_start": "At first he fights for immediate thrill, status, and aggression, with little sign of ideological framing.",
+      "pole_end": "He remains non-ideological in temperament but increasingly treats war as a practical system of advancement, plunder, and survival.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Instinctive combatant",
+          "chapter_range": [
+            3,
+            12
+          ],
+          "position_description": "He acts from impulse and appetite: combat is desirable because it is exciting, not because it serves a doctrine.",
+          "key_moments": [
+            "Chapter 3: ambush exhilaration",
+            "Chapter 12: eager anticipation of battle"
+          ]
+        },
+        {
+          "phase": "Exposed to larger cause",
+          "chapter_range": [
+            13,
+            15
+          ],
+          "position_description": "Cervantes's political speech places him in a broader revolutionary narrative. Pancracio does not become ideological, but he is now inside a collective justification for violence.",
+          "key_moments": [
+            "Chapter 13: Cervantes's recruitment speech",
+            "Chapter 15: hardens in response to revolutionary news"
+          ]
+        },
+        {
+          "phase": "Practical opportunist",
+          "chapter_range": [
+            19,
+            23
+          ],
+          "position_description": "His actions show that he has translated war into a field of personal gain: returning to the ranch for women, looting houses, and selling books for money.",
+          "key_moments": [
+            "Chapter 19: wants to return to the ranch and women",
+            "Chapter 23: loots a house",
+            "Chapter 23: sells books for a nickel"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio never becomes a principled revolutionary thinker, but he does absorb the movement's practical logic. His motives remain appetitive and immediate, yet war increasingly becomes the framework through which he pursues pleasure, profit, and survival."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Fearlessness-Vulnerability",
+      "axis_name": "From untested bravado to hardened but shaken resilience",
+      "pole_start": "He begins with a self-image of fearless combativeness, acting as though danger confirms rather than threatens him.",
+      "pole_end": "He ends still hardened, but with a more realistic awareness that war includes retreat, danger, and dependence on the group.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Untested bravado",
+          "chapter_range": [
+            3,
+            5
+          ],
+          "position_description": "He performs fearlessness through jokes, aggression, and self-congratulation.",
+          "key_moments": [
+            "Chapter 3: roars and taunts during the ambush",
+            "Chapter 5: proudly recounts the shooting"
+          ]
+        },
+        {
+          "phase": "Shaken by enemy power",
+          "chapter_range": [
+            4,
+            16
+          ],
+          "position_description": "The hanging bodies and later the failed plaza assault puncture his confidence. He does not become timid, but he is forced to register vulnerability and the need to retreat.",
+          "key_moments": [
+            "Chapter 4: discovers Serapio and Antonio hanging",
+            "Chapter 16: experiences ambush in the plaza and retreat under fire"
+          ]
+        },
+        {
+          "phase": "Hardened endurance",
+          "chapter_range": [
+            17,
+            32
+          ],
+          "position_description": "He recovers into a tougher, more matter-of-fact resilience. He remains violent and confident, but now within a world where danger, loss, and camp routine are normal.",
+          "key_moments": [
+            "Chapter 17: church slaughter",
+            "Chapter 29: obeys orders amid internal dispute",
+            "Chapter 32: gambles in camp familiarity"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio is not transformed into a reflective or cautious person, but repeated shocks temper pure bravado. He becomes a harder, more seasoned fighter who has learned that violence also entails fear, retreat, and endurance."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Pancracio",
+      "target_character": "Demetrio Macias",
+      "dimension_label": "Loyalty-Dependence",
+      "axis_name": "From fierce subordinate loyalty to routine habitual allegiance",
+      "pole_start": "Strong, deferential loyalty grounded in admiration and dependence on Demetrio as leader and protector.",
+      "pole_end": "Still loyal, but in a more automatic, habitual way: Pancracio remains inside Demetrio's orbit as part of the troop's routine social order rather than through any deepened personal bond.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Combat loyalty",
+          "chapter_range": [
+            3,
+            7
+          ],
+          "position_description": "Pancracio is intensely aligned with Demetrio in battle and camp discipline, following his lead while still pressing for harsher violence. The relationship is loyal and deferential, but not intimate.",
+          "key_moments": [
+            "Chapter 3: fights alongside Demetrio",
+            "Chapter 4: lies beside Demetrio's stretcher like a faithful dog",
+            "Chapter 5: defers to Demetrio on Luis Cervantes",
+            "Chapter 7: respects Demetrio's authority while finding him too cautious"
+          ]
+        },
+        {
+          "phase": "Stable camp allegiance",
+          "chapter_range": [
+            12,
+            35
+          ],
+          "position_description": "Pancracio continues to follow Demetrio without challenge, but the bond reads increasingly as normalized troop membership. He obeys orders, joins departures, and remains part of the leader's practical circle.",
+          "key_moments": [
+            "Chapter 12: joins the rush toward battle",
+            "Chapter 14: leaves with the band",
+            "Chapter 19: accepts Demetrio's explanation of defeat",
+            "Chapter 29: helps prepare the horses and camp for departure",
+            "Chapter 35: remains a familiar subordinate in the troop"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio's relationship with Demetrio is consistently loyal and subordinate, with no major rupture or reversal. The main change is a softening from intense, battle-centered deference into ordinary, habitual allegiance within the rebel camp."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Pancracio",
+      "target_character": "Luis Cervantes",
+      "dimension_label": "Suspicion-Contempt",
+      "axis_name": "From immediate hostility to settled cynical dismissal",
+      "pole_start": "Open hostility and suspicion: Pancracio sees Luis as a dangerous outsider, a prisoner, and a likely enemy who should be executed or tightly controlled.",
+      "pole_end": "Settled cynical dismissal: he remains distrustful, but the hostility becomes less urgent and more embedded in the camp's habitual joking, ridicule, and pragmatic indifference.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Execution-minded hostility",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "Pancracio is most aggressively hostile here, pressing for Luis's death and mocking his speech as useless talk. He treats him as a threat to be eliminated rather than a person to be understood.",
+          "key_moments": [
+            "Chapter 5: urges that the prisoner be shot",
+            "Chapter 6: guards Luis",
+            "Chapter 7: dismisses Luis's rhetoric and wants immediate violence"
+          ]
+        },
+        {
+          "phase": "Cynical camp familiarity",
+          "chapter_range": [
+            13,
+            33
+          ],
+          "position_description": "Pancracio's stance toward Luis remains negative, but it becomes less personally charged and more part of the camp's general rough worldview. Luis is now an object of suspicion, ridicule, or practical irrelevance rather than a singular target of rage.",
+          "key_moments": [
+            "Chapter 13: remains outside Cervantes' rhetorical influence",
+            "Chapter 23: participates in the opportunistic camp atmosphere",
+            "Chapter 28: treats Cervantes as part of the camp's gossip economy",
+            "Chapter 30: remains within the same world of rough banter and suspicion"
+          ]
+        }
+      ],
+      "evidence_summary": "Pancracio never warms to Luis Cervantes. The change is from urgent, execution-oriented hostility to a more settled, habitual contempt folded into the camp's social routine."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Pancracio",
+      "target_character": "Manteca",
+      "dimension_label": "Rivalry-Camaraderie",
+      "axis_name": "From rough competitive tension to easy male camaraderie",
+      "pole_start": "Rough, competitive tension: Pancracio and Manteca are aligned, but the bond is marked by shared aggression, friction, and masculine one-upmanship rather than warmth.",
+      "pole_end": "Playful camaraderie: the relationship settles into joking, mutual teasing, and relaxed camp fellowship.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Tense roughness",
+          "chapter_range": [
+            5,
+            12
+          ],
+          "position_description": "Pancracio and Manteca are aligned, but the bond is still defined by roughness, shared aggression, and momentary friction rather than warmth.",
+          "key_moments": [
+            "Chapter 5: shared hostility toward Luis Cervantes",
+            "Chapter 12: card quarrel and rough camp energy"
+          ]
+        },
+        {
+          "phase": "Joking fellowship",
+          "chapter_range": [
+            15,
+            32
+          ],
+          "position_description": "Their interaction becomes more openly companionable, with shared jokes, obscenity, and relaxed masculine banter. Any rivalry is ritualized and non-threatening.",
+          "key_moments": [
+            "Chapter 15: Pancracio jokes with Meco and shares group laughter",
+            "Chapter 19: crude joking and social ease in the camp",
+            "Chapter 32: continued coarse, familiar banter"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is modestly developed but clearly shifts from rough competitive alignment toward stable camp camaraderie. The change is socially embedded rather than psychologically profound."
+    }
+  ]
+}

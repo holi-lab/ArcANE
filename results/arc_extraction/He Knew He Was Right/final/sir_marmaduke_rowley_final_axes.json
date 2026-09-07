@@ -1,0 +1,516 @@
+{
+  "character": "Sir Marmaduke Rowley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From paternal mastery to constrained relational dependence",
+          "set_b_axis": "From paternal mastery to constrained, relationally dependent authority",
+          "overlap_description": "Both describe the same core movement: Sir Marmaduke begins as a confident patriarch and ends with reduced control, forced into accommodation and dependence on others."
+        },
+        {
+          "set_a_axis": "From assured patriarch to frustrated bystander",
+          "set_b_axis": "From confident management to frustrated impotence",
+          "overlap_description": "Both capture the erosion of his practical power, especially under legal, bureaucratic, and family pressures, leaving him increasingly sidelined."
+        },
+        {
+          "set_a_axis": "From easy moral confidence to strained, partial doubt",
+          "set_b_axis": "From moral certainty to partial recognition of complexity",
+          "overlap_description": "Both track a limited but real complication of his moral outlook: he remains judgmental, but the novel forces him to acknowledge complexity and the limits of simple condemnation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social ease to public humiliation",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From admiring trust to hardened hostility",
+          "set_b_axis": "From moral condemnation to alarmed, pitying hostility",
+          "overlap_description": "Both describe the same relationship arc with Trevelyan: early approval gives way to deep hostility, later complicated by pity and alarm rather than restored trust."
+        },
+        {
+          "set_a_axis": "From paternal confidence to wounded, conditional affection",
+          "set_b_axis": "From paternal control to grudging acceptance of Nora's independence",
+          "overlap_description": "Both identify the same father-daughter arc: he tries to control Nora, is defeated by her independence, and ends in reluctant, emotionally compromised acceptance."
+        },
+        {
+          "set_a_axis": "From shared parental footing to quiet dependence",
+          "set_b_axis": "From companionable alignment to practical dependence on Lady Rowley",
+          "overlap_description": "Both show Lady Rowley becoming the more competent practical manager, while Sir Marmaduke increasingly relies on her steadiness and judgment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From affectionate trust to fearful protection",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From paternal mastery to constrained relational dependence",
+      "pole_start": "Begins strongly agency-leaning: Sir Marmaduke trusts paternal authority, social rank, and his own judgment to manage family and public affairs from above.",
+      "pole_end": "Ends still somewhat agency-leaning but clearly constrained: he can no longer command outcomes and must accommodate others' judgments, attachments, and practical authority.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Initial paternal confidence",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "He assumes he can direct family order and validate his own position through rank, judgment, and paternal intervention.",
+          "key_moments": [
+            "Approves Trevelyan's anti-dowry doctrine as morally validating his own limitations",
+            "Trusts the husband/father's right to have his own way",
+            "Expects patronage and social standing to secure a useful return to England",
+            "Treats family management as something naturally governed by paternal authority"
+          ]
+        },
+        {
+          "phase": "Authority under pressure",
+          "chapter_range": [
+            61,
+            69
+          ],
+          "position_description": "Repeated crises expose the limits of his mastery. He becomes reactive, dependent on lawyers, doctors, officials, and institutional procedures.",
+          "key_moments": [
+            "The child's abduction forces helpless outrage",
+            "Bozzle rebuffs his attempts to trace Trevelyan",
+            "The parliamentary committee publicly exposes his uncertainty",
+            "He turns from force toward legal and medical advice"
+          ]
+        },
+        {
+          "phase": "Reluctant accommodation",
+          "chapter_range": [
+            70,
+            94
+          ],
+          "position_description": "He remains resistant in temperament, but he increasingly yields in practice to Nora, Emily, Lady Rowley, and institutional arrangements he did not shape.",
+          "key_moments": [
+            "Nora's resistance weakens his paternal certainty",
+            "He is moved to tears and softens toward Nora",
+            "He yields to Emily's wishes and practical necessity",
+            "He watches the family depart according to arrangements beyond his control"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Marmaduke begins as a confident patriarch and ends as a diminished, constrained authority. The arc is not a full conversion to communion, but a clear movement away from unilateral mastery toward managed dependence and reluctant relationality."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "authority-helplessness",
+      "axis_name": "From assured patriarch to frustrated bystander",
+      "pole_start": "Starts with the belief that his judgment and rank should settle domestic matters and secure obedience.",
+      "pole_end": "Ends with a diminished sense of efficacy, able only to preserve appearances while others determine outcomes.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Assumed command",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "He treats family order as naturally secured by paternal authority and moral common sense.",
+          "key_moments": [
+            "Assumes a husband should properly guide a wife",
+            "Writes to Trevelyan as though parental authority can still enforce duty"
+          ]
+        },
+        {
+          "phase": "Public and private exposure",
+          "chapter_range": [
+            61,
+            69
+          ],
+          "position_description": "The child abduction, legal obstacles, and committee hearing reveal that his authority does not translate into control.",
+          "key_moments": [
+            "Arrives to find the child abducted and Mrs. Trevelyan in hysterics",
+            "Becomes burdened by legal and investigative remedies",
+            "Fails to get useful information from Bozzle",
+            "Feels confused and defensive before the committee",
+            "Believes his career is over"
+          ]
+        },
+        {
+          "phase": "Managed authority",
+          "chapter_range": [
+            70,
+            94
+          ],
+          "position_description": "He still speaks as a father, but his authority is increasingly symbolic. Others set the terms, and he can only qualify, delay, or bless what he cannot prevent.",
+          "key_moments": [
+            "Nora's calm resistance weakens his command",
+            "He suppresses Nora's letter rather than resolving the issue",
+            "He waits helplessly for Stanbury",
+            "He gives a qualified blessing instead of real consent",
+            "Others plan around him as though his wishes no longer matter"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures the repeated humiliation of Sir Marmaduke's paternal authority. He begins expecting obedience and ends as a largely ceremonial father whose power is repeatedly bypassed."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "moral certainty",
+      "axis_name": "From easy moral confidence to strained, partial doubt",
+      "pole_start": "Begins morally confident, quick to classify conduct as proper or improper and to justify his own position as principled.",
+      "pole_end": "Ends still judgmental, but with more visible strain, partial recognition of complexity, and less confidence that moral condemnation alone can solve anything.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Simple moral framing",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "He readily adopts moral formulas about marriage, duty, and propriety, using them to stabilize his own position.",
+          "key_moments": [
+            "Turns lack of dowry into a moral virtue",
+            "Frames Trevelyan's conduct as something parental authority should correct",
+            "Believes a fatherly letter should restore order"
+          ]
+        },
+        {
+          "phase": "Moral outrage intensifies",
+          "chapter_range": [
+            61,
+            78
+          ],
+          "position_description": "Trevelyan's actions provoke harsher moral judgment; he sees him as beyond ordinary decency and imagines him as mad or murderous.",
+          "key_moments": [
+            "Interprets the abduction as legal and moral outrage",
+            "Thinks Trevelyan deserves beating or confinement",
+            "Decides to confront and punish him",
+            "Fears Trevelyan may murder Emily"
+          ]
+        },
+        {
+          "phase": "Qualified judgment",
+          "chapter_range": [
+            69,
+            91
+          ],
+          "position_description": "Pity and practical necessity complicate his certainty. He still judges, but increasingly relies on institutions and accepts that simple condemnation is insufficient.",
+          "key_moments": [
+            "Pity interrupts his intended revenge",
+            "He turns to legal and medical advice",
+            "Nora's tears soften him",
+            "He offers conditional rather than absolute judgment on Nora and Stanbury"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Marmaduke never abandons moral judgment, but the novel steadily complicates it. His certainty hardens into outrage and then becomes more procedural and qualified as he confronts situations he cannot simply condemn into submission."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "status-shame",
+      "axis_name": "From social ease to public humiliation",
+      "pole_start": "Starts with a relatively secure sense of gentlemanly standing, colonial usefulness, and social recognition.",
+      "pole_end": "Ends with a more wounded, defensive self-consciousness, aware that his status is fragile and often dependent on others' tolerance.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Social confidence",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "He expects his service and connections to work in his favor and to secure a dignified return to England.",
+          "key_moments": [
+            "Hopes for a summons home and recognition",
+            "His return becomes public gossip, but still as a matter of influence"
+          ]
+        },
+        {
+          "phase": "Exposure and embarrassment",
+          "chapter_range": [
+            68,
+            68
+          ],
+          "position_description": "The committee hearing humiliates him publicly, making him feel ignorant and professionally finished.",
+          "key_moments": [
+            "Confused and discomfited before the committee",
+            "Believes his colonial career is over"
+          ]
+        },
+        {
+          "phase": "Partial restoration, lasting insecurity",
+          "chapter_range": [
+            68,
+            94
+          ],
+          "position_description": "The Under-Secretary's civility relieves immediate shame, but later family crises keep him defensive and conscious of being managed rather than honored.",
+          "key_moments": [
+            "Learns he may remain in town and is not ruined",
+            "Waits impatiently and feels sidelined",
+            "Watches family arrangements proceed without him"
+          ]
+        }
+      ],
+      "evidence_summary": "His arc includes a clear humiliation plot: from social confidence to public exposure, then to weakened but not destroyed self-respect. The shame does not vanish; it becomes part of his defensive temperament."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sir Marmaduke Rowley",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "trust-antagonism",
+      "axis_name": "From admiring trust to hardened hostility",
+      "pole_start": "Begins with admiration, gratitude, and trust in Trevelyan as a principled, intelligent son-in-law whose views seem to validate Sir Marmaduke's own position.",
+      "pole_end": "Ends in deep antagonism, moral disgust, and near-total distrust, with Trevelyan seen as deceitful, dangerous, and beyond ordinary family reconciliation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early admiration",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "He trusts Trevelyan's judgment about marriage, authority, and money, and sees him as a congenial ally.",
+          "key_moments": [
+            "Adopts Trevelyan's anti-dowry doctrine",
+            "Trusts Trevelyan to manage Emily"
+          ]
+        },
+        {
+          "phase": "Suspicion and moral anger",
+          "chapter_range": [
+            33,
+            67
+          ],
+          "position_description": "As Trevelyan's marriage collapses, Sir Marmaduke's view turns sharply negative. He sees him as culpable, then as mad or monstrous.",
+          "key_moments": [
+            "Writes to Trevelyan in anger over the separation crisis",
+            "Learns of the child's abduction",
+            "Thinks Trevelyan deserves beating or confinement",
+            "Resolves to confront and punish him"
+          ]
+        },
+        {
+          "phase": "Hostility complicated by pity",
+          "chapter_range": [
+            69,
+            75
+          ],
+          "position_description": "He remains hostile, but Trevelyan's collapse and suffering introduce reluctant sympathy. The relationship is still antagonistic, but no longer purely punitive.",
+          "key_moments": [
+            "Pity interrupts his intended revenge",
+            "He chooses legal and medical routes",
+            "Refuses Trevelyan's cheque as morally tainted"
+          ]
+        },
+        {
+          "phase": "Persistent estrangement",
+          "chapter_range": [
+            78,
+            93
+          ],
+          "position_description": "Trevelyan is imagined as potentially murderous and is treated as an obstacle to be managed through institutions rather than trusted or reconciled with.",
+          "key_moments": [
+            "Fears Trevelyan may murder Emily",
+            "Sees Trevelyan's crisis as requiring outside intervention",
+            "Others plan around Trevelyan while Sir Marmaduke's influence is bypassed"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Sir Marmaduke's strongest relational arc: from warm approval to profound distrust and antagonism. Even moments of pity do not restore trust; they only complicate the hostility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sir Marmaduke Rowley",
+      "target_character": "Nora Rowley",
+      "dimension_label": "authority-intimacy",
+      "axis_name": "From paternal confidence to wounded, conditional affection",
+      "pole_start": "Begins with affectionate paternal confidence: he assumes he can guide Nora's future and trusts his own judgment over her romantic choices.",
+      "pole_end": "Ends with diminished authority but enduring affection: he cannot control her, yet he still loves her and can only offer qualified blessing and emotional support.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Assumed paternal guidance",
+          "chapter_range": [
+            1,
+            63
+          ],
+          "position_description": "He treats Nora as a daughter whose future should be managed by family authority and practical advantage.",
+          "key_moments": [
+            "Family harmony is still intact",
+            "He becomes suspicious and disapproving once Stanbury is revealed"
+          ]
+        },
+        {
+          "phase": "Open conflict over Stanbury",
+          "chapter_range": [
+            63,
+            71
+          ],
+          "position_description": "Nora's independence repeatedly defeats his authority, producing anger, disappointment, and a sense of emotional distance.",
+          "key_moments": [
+            "Nora's resolve undermines his control",
+            "He learns she rejected Glascock",
+            "He tries to forbid the engagement",
+            "Stanbury's note confirms his authority can be bypassed"
+          ]
+        },
+        {
+          "phase": "Softened but unresolved attachment",
+          "chapter_range": [
+            70,
+            94
+          ],
+          "position_description": "Despite continued disapproval, he is moved by Nora's tears and eventually gives a qualified blessing. His authority is reduced, but his affection remains visible.",
+          "key_moments": [
+            "He is moved to tears and kisses Nora",
+            "Calls the match impossible and Nora a fool",
+            "Withholds her letter",
+            "Silence marks estrangement",
+            "Recognizes she will have her own way",
+            "Offers a stiff, qualified blessing",
+            "Watches her depart under others' arrangements"
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship shifts from confident paternal management to a painful mix of resistance, hurt, and enduring love. He never fully accepts Nora's autonomy, but he does end in a state of conditional, emotionally compromised consent."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sir Marmaduke Rowley",
+      "target_character": "Emily Trevelyan",
+      "dimension_label": "protective-alarm",
+      "axis_name": "From affectionate trust to fearful protection",
+      "pole_start": "Begins with affectionate trust and a willingness to let Emily's marriage be managed by her husband.",
+      "pole_end": "Ends with intense protective alarm, as he fears for her safety and sees her as someone needing defense from Trevelyan's possible violence.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial affection and deference",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "He remains affectionate toward Emily and initially underestimates her temperament, trusting Trevelyan to manage the marriage.",
+          "key_moments": [
+            "Underestimates Emily's independence",
+            "Her connection to him is deferred rather than broken"
+          ]
+        },
+        {
+          "phase": "Protective identification",
+          "chapter_range": [
+            33,
+            67
+          ],
+          "position_description": "As the marriage collapses, he aligns emotionally with Emily's suffering and becomes increasingly protective of her honor and welfare.",
+          "key_moments": [
+            "Writes in anger over Trevelyan's conduct",
+            "Arrives to find her in hysterics after the child's abduction",
+            "Bears the practical and emotional fallout",
+            "Worries about her reputation",
+            "Resolves to confront Trevelyan on her behalf"
+          ]
+        },
+        {
+          "phase": "Fear for her physical safety",
+          "chapter_range": [
+            78,
+            91
+          ],
+          "position_description": "His concern becomes explicitly protective and fearful; he imagines Trevelyan as potentially murderous and resists actions that would expose Emily to danger.",
+          "key_moments": [
+            "Says Trevelyan might murder her",
+            "Reluctantly yields to her wish to go to Casalunga",
+            "Responds to her telegram as an emergency"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Marmaduke's bond with Emily deepens from ordinary paternal affection into anxious protection. The relationship is not mainly conflictual; it is defined by increasing fear, concern, and helpless loyalty."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Sir Marmaduke Rowley",
+      "target_character": "Lady Rowley",
+      "dimension_label": "trust-dependence",
+      "axis_name": "From companionable alignment to practical dependence on Lady Rowley",
+      "pole_start": "Begins as a mutually aligned marital partnership, with shared assumptions and similar hopes about family order.",
+      "pole_end": "Ends with Sir Marmaduke increasingly dependent on Lady Rowley's judgment, moderation, and practical management.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Shared family outlook",
+          "chapter_range": [
+            1,
+            33
+          ],
+          "position_description": "They are aligned in hopes for Emily's marriage and in their general social outlook.",
+          "key_moments": [
+            "Both approve the marriage arrangement",
+            "She shares his anger at Trevelyan"
+          ]
+        },
+        {
+          "phase": "Lady Rowley as moderator",
+          "chapter_range": [
+            64,
+            71
+          ],
+          "position_description": "She increasingly tempers his judgments, moderates his anger, and helps shape family responses more effectively than he does.",
+          "key_moments": [
+            "She helps manage the Osborne confrontation",
+            "She is present as he confronts Nora",
+            "He softens under her influence while writing to Stanbury"
+          ]
+        },
+        {
+          "phase": "Practical dependence",
+          "chapter_range": [
+            85,
+            94
+          ],
+          "position_description": "He relies on her to manage domestic arrangements and to absorb the burden of family order while he remains the formal patriarch.",
+          "key_moments": [
+            "She moderates his response to Nora",
+            "He depends on her to manage the household",
+            "She effectively handles the settlement"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship shifts less in affection than in function: Lady Rowley becomes the more competent manager, and Sir Marmaduke increasingly depends on her practical intelligence."
+    }
+  ]
+}

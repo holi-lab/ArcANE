@@ -1,0 +1,669 @@
+{
+  "character": "Fitzwilliam Darcy",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From proud self-separation to humble relational commitment",
+          "set_b_axis": "From proud self-sufficiency to reciprocal attachment",
+          "overlap_description": "Both describe Darcy's movement from proud, socially superior self-containment toward a more relational, affectionate, and family-integrated mode of being."
+        },
+        {
+          "set_a_axis": "From fixed judgment to self-correcting discernment",
+          "set_b_axis": "From unexamined superiority to reflective self-correction",
+          "overlap_description": "Both track Darcy's shift from confident, unexamined judgments to a more self-aware, corrigible, and evidence-responsive form of discernment."
+        },
+        {
+          "set_a_axis": "From guarded silence to candid self-disclosure",
+          "set_b_axis": "From sealed composure to disciplined vulnerability",
+          "overlap_description": "Both capture Darcy's movement from emotional concealment and reserve toward selective openness, confession, and more honest self-expression."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From aristocratic pride to chastened self-knowledge",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From harsh evaluative distance to humane understanding",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From proud self-sufficiency to reciprocal attachment",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From unexamined superiority to reflective self-correction",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From sealed composure to disciplined vulnerability",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From harsh evaluative distance to humane understanding",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From dismissive contempt to mutual love and respect",
+          "set_b_axis": "From dismissive superiority to loving mutual regard",
+          "overlap_description": "Both describe the central Elizabeth-Darcy relationship as moving from class-based dismissal and low esteem to mutual love, trust, and intimate partnership."
+        },
+        {
+          "set_a_axis": "From concealed grievance to exposed moral enmity",
+          "set_b_axis": "From concealed grievance to explicit moral opposition",
+          "overlap_description": "Both treat Darcy-Wickham as a hidden but intense antagonism that becomes fully exposed and morally clarified."
+        },
+        {
+          "set_a_axis": "From paternal control to respectful friendship",
+          "set_b_axis": "From paternal control to balanced friendship",
+          "overlap_description": "Both describe Darcy's friendship with Bingley as moving from controlling, superior guidance toward a more equal, respectful bond."
+        },
+        {
+          "set_a_axis": "From protective secrecy to warmer familial intimacy",
+          "set_b_axis": "From guarded guardianship to affectionate family trust",
+          "overlap_description": "Both identify a meaningful but secondary arc in Darcy's relation to Georgiana, shifting from anxious protection and secrecy toward warmer family trust."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From protective secrecy to warmer familial intimacy",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guarded guardianship to affectionate family trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From proud self-sufficiency to reciprocal attachment",
+      "pole_start": "Highly agency-dominant: self-assertive, socially superior, emotionally guarded, and inclined toward separation, control, and self-protective distance.",
+      "pole_end": "More communion-balanced: still self-possessed, but now oriented toward mutual love, family integration, tenderness, and interdependence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Aloof superiority",
+          "chapter_range": [
+            2,
+            11
+          ],
+          "position_description": "Darcy begins in strong agency: he asserts rank, withholds sociability, and treats the assembly and local society as beneath him. His attraction to Elizabeth is real, but he manages it through reserve and control rather than openness.",
+          "key_moments": [
+            "Meryton assembly insult and social aloofness",
+            "Dismissive posture at Netherfield and in local company",
+            "Private fascination with Elizabeth kept hidden"
+          ]
+        },
+        {
+          "phase": "Guarded attraction under strain",
+          "chapter_range": [
+            14,
+            33
+          ],
+          "position_description": "His agency remains dominant but becomes unstable as Wickham's accusations, Elizabeth's criticism, and his own attachment create tension. He is defensive and proud, yet no longer emotionally sealed off.",
+          "key_moments": [
+            "Tense encounter with Wickham",
+            "Elizabeth's growing distrust through Wickham's story",
+            "Rosings and Hunsford intensify emotional vulnerability",
+            "Proposal exposes pride, longing, and humiliation"
+          ]
+        },
+        {
+          "phase": "Humiliation and moral correction",
+          "chapter_range": [
+            34,
+            50
+          ],
+          "position_description": "After Elizabeth's rejection, Darcy revises his self-understanding. He becomes less dominated by prideful mastery and more willing to act from duty, candor, and concern for others, especially in the Lydia crisis.",
+          "key_moments": [
+            "Letter justifying and partially correcting his conduct",
+            "Elizabeth's gradual reconsideration of Wickham and Darcy",
+            "Secret intervention in Lydia's elopement",
+            "Practical, self-effacing action on behalf of the Bennet family"
+          ]
+        },
+        {
+          "phase": "Settled domestic communion",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "Darcy ends in a balanced but clearly communion-leaning position: still dignified and self-possessed, but now oriented toward mutuality, gratitude, and domestic intimacy rather than separation or dominance.",
+          "key_moments": [
+            "Renewed proposal and mutual acceptance",
+            "Open confession of former pride and error",
+            "Marriage, warmth with Georgiana, and gratitude toward the Gardiners",
+            "Reconciliation with Lady Catherine"
+          ]
+        }
+      ],
+      "evidence_summary": "Darcy's core arc is a movement from proud, self-protective agency toward a more relationally integrated form of agency that includes humility, care, and emotional reciprocity. He does not become passive or purely communal; rather, his agency is reformed and placed in service of communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "judgment humility",
+      "axis_name": "From fixed judgment to self-correcting discernment",
+      "pole_start": "Rigid, confident, and quick to dismiss others; he trusts his first impressions and treats his judgments as authoritative.",
+      "pole_end": "More self-questioning and corrigible; he recognizes error, revises assumptions, and accepts that his judgments can be morally and emotionally flawed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Premature certainty",
+          "chapter_range": [
+            2,
+            10
+          ],
+          "position_description": "Darcy begins with little self-questioning. He judges Elizabeth and the Meryton society from a position of superiority, and his private revision of Elizabeth is experienced as mortifying rather than enlightening.",
+          "key_moments": [
+            "Calling Elizabeth 'tolerable'",
+            "Noticing her eyes and manners and feeling mortified by his reversal",
+            "Articulating a fixed good opinion of his own judgment"
+          ]
+        },
+        {
+          "phase": "Defensive judgment under pressure",
+          "chapter_range": [
+            14,
+            33
+          ],
+          "position_description": "Wickham's story and Elizabeth's hostility harden his defensiveness, but they also expose the limits of his interpretive certainty. His proposal shows how badly he misreads Elizabeth's feelings and social expectations.",
+          "key_moments": [
+            "Wickham encounter and public strain",
+            "Elizabeth's repeated suspicion of his conduct",
+            "Hunsford proposal and immediate rejection"
+          ]
+        },
+        {
+          "phase": "Correction through evidence and shame",
+          "chapter_range": [
+            34,
+            56
+          ],
+          "position_description": "The letter and later events force him to admit error about Jane, Bingley, Wickham, and Elizabeth herself. He becomes increasingly willing to revise his judgments in light of evidence and moral consequence.",
+          "key_moments": [
+            "Letter explaining Bingley/Jane interference",
+            "Exposure of Wickham's misconduct",
+            "Elizabeth's gradual recognition of Darcy's accuracy",
+            "Darcy's confession that his conduct was 'unpardonable'"
+          ]
+        },
+        {
+          "phase": "Discernment joined to humility",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "By the end, Darcy still judges character keenly, but now with greater humility and openness to correction. His discernment is no longer a weapon of pride but part of a more ethical self-understanding.",
+          "key_moments": [
+            "Open self-reproach in the final proposal scene",
+            "Confession of former arrogance and mistaken assumptions",
+            "Reconciliation with Bingley and acceptance of Elizabeth's perspective"
+          ]
+        }
+      ],
+      "evidence_summary": "Darcy's arc is strongly shaped by the collapse of his confidence in first judgments. He moves from assuming interpretive authority to accepting that his perceptions can be partial, mistaken, and morally compromised."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "reserve-openness",
+      "axis_name": "From guarded silence to candid self-disclosure",
+      "pole_start": "Emotionally guarded, indirect, and reluctant to expose inner feeling or private motives.",
+      "pole_end": "More candid, verbally self-revealing, and willing to explain himself even at personal cost.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Silence as protection",
+          "chapter_range": [
+            2,
+            31
+          ],
+          "position_description": "Darcy repeatedly uses silence, irony, and controlled distance to manage social exposure. His attraction to Elizabeth is real, but he keeps it largely hidden or encoded.",
+          "key_moments": [
+            "Refusal to dance and dismissive social posture",
+            "Listening rather than speaking at Netherfield",
+            "Avoiding visible admiration when Elizabeth leaves",
+            "Repeated silent visits and guarded parlor behavior at Rosings"
+          ]
+        },
+        {
+          "phase": "Pressure toward expression",
+          "chapter_range": [
+            32,
+            44
+          ],
+          "position_description": "His reserve becomes harder to maintain as his attachment deepens and his conduct is publicly misread. The proposal, letter, and later Lydia crisis force him into more explicit expression.",
+          "key_moments": [
+            "Indirect exposure through Colonel Fitzwilliam",
+            "Hunsford proposal",
+            "Letter explaining his conduct",
+            "Visible distress and practical compassion during Lydia's scandal"
+          ]
+        },
+        {
+          "phase": "Candid intimacy",
+          "chapter_range": [
+            50,
+            59
+          ],
+          "position_description": "Darcy becomes capable of direct emotional and moral speech: he confesses error, explains motives, and speaks from affection rather than defensive reserve.",
+          "key_moments": [
+            "Secret rescue of Lydia followed by disclosure",
+            "Renewed suit and admission that he acted partly for Elizabeth's happiness",
+            "Confession of pride and self-reform",
+            "Open engagement and domestic ease at Pemberley"
+          ]
+        }
+      ],
+      "evidence_summary": "Darcy does not become garrulous, but he does move decisively from concealment and social opacity toward selective, meaningful candor. His final openness is one of the clearest markers of his maturation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "pride-humility",
+      "axis_name": "From aristocratic pride to chastened self-knowledge",
+      "pole_start": "Proud, status-conscious, and inclined to treat his rank and judgment as naturally superior.",
+      "pole_end": "Humbled, self-critical, and aware that privilege has distorted his conduct and relationships.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Pride as default posture",
+          "chapter_range": [
+            2,
+            17
+          ],
+          "position_description": "Darcy behaves as though rank authorizes distance, and his contempt for the Bennets, Collins, and local society reflects a stable pride in his own position.",
+          "key_moments": [
+            "Assembly insult",
+            "Dismissive social conduct at Meryton and Sir William Lucas's",
+            "Condescending standards in the accomplished-woman discussion"
+          ]
+        },
+        {
+          "phase": "Pride challenged by attachment and rejection",
+          "chapter_range": [
+            30,
+            34
+          ],
+          "position_description": "Elizabeth's wit and rejection expose the vanity in his assumptions. His proposal fails because it is still shaped by pride, even as he begins to see that pride has damaged him.",
+          "key_moments": [
+            "Rosings conversations with Elizabeth",
+            "Hunsford proposal and rejection",
+            "Letter acknowledging his conduct was beneath him"
+          ]
+        },
+        {
+          "phase": "Humility through action",
+          "chapter_range": [
+            44,
+            56
+          ],
+          "position_description": "He acts for others without self-display, especially in the Lydia affair, and later explicitly names his former self as proud, selfish, and overbearing.",
+          "key_moments": [
+            "Compassionate response to Lydia's elopement",
+            "Secret intervention and financial settlement",
+            "Confession that Elizabeth humbled him",
+            "Self-description as spoiled and in need of correction"
+          ]
+        },
+        {
+          "phase": "Pride transformed, not erased",
+          "chapter_range": [
+            57,
+            59
+          ],
+          "position_description": "He retains dignity and confidence, but pride is no longer his governing principle. It has been subordinated to gratitude, domestic responsibility, and mutual respect.",
+          "key_moments": [
+            "Accepted engagement",
+            "Marriage into the Bennet family",
+            "Warm domestic life at Pemberley"
+          ]
+        }
+      ],
+      "evidence_summary": "Darcy's pride is central to the novel, but it is not static. It is progressively exposed, corrected, and rechanneled into a more mature self-respect that no longer depends on social superiority."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "judgment-empathy",
+      "axis_name": "From harsh evaluative distance to humane understanding",
+      "pole_start": "Harshly evaluative: he judges quickly by rank, polish, and first impressions, with little empathy for others' circumstances.",
+      "pole_end": "More humane and context-sensitive: he can distinguish character from social performance, recognize others' feelings, and act compassionately.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Fastidious judgment",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "Darcy initially reads people through a narrow lens of propriety and class. Elizabeth's family and local society are dismissed as socially inferior or improper.",
+          "key_moments": [
+            "Dismisses Elizabeth and the assembly",
+            "Critiques impropriety and vulgarity",
+            "Treats social distinction as a reliable moral guide"
+          ]
+        },
+        {
+          "phase": "Complicated perception",
+          "chapter_range": [
+            9,
+            17
+          ],
+          "position_description": "Elizabeth's wit and Wickham's story complicate his judgments. He still judges, but now his evaluations are under pressure from conflicting evidence and feeling.",
+          "key_moments": [
+            "Defends Elizabeth against Miss Bingley",
+            "Becomes angry at Wickham's presence",
+            "Elizabeth's hostility makes him more self-conscious"
+          ]
+        },
+        {
+          "phase": "Corrective evidence",
+          "chapter_range": [
+            33,
+            35
+          ],
+          "position_description": "Elizabeth's condemnation and his own letter force him to confront the limits of his judgments. He begins to admit that he misread Jane and that his conduct had moral consequences.",
+          "key_moments": [
+            "Elizabeth rejects his assumptions about Bingley and Wickham",
+            "Letter revises his account of Jane and Wickham",
+            "He starts to defend himself with evidence rather than status"
+          ]
+        },
+        {
+          "phase": "Empathic action",
+          "chapter_range": [
+            42,
+            50
+          ],
+          "position_description": "His understanding becomes practical and compassionate: he treats the Gardiners respectfully, helps with Lydia, and responds to Elizabeth's distress with sympathy rather than judgment.",
+          "key_moments": [
+            "Pemberley civility toward Elizabeth's relations",
+            "Discreet rescue of Lydia and Wickham",
+            "Protective concern for Elizabeth's suffering"
+          ]
+        }
+      ],
+      "evidence_summary": "Darcy's evaluative habits remain, but they are progressively tempered by empathy. The key change is not that he stops judging, but that he learns to judge more carefully, more generously, and with greater attention to others' inner lives."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Fitzwilliam Darcy",
+      "target_character": "Elizabeth Bennet",
+      "dimension_label": "contempt-esteem",
+      "axis_name": "From dismissive superiority to loving mutual regard",
+      "pole_start": "He begins by dismissing Elizabeth as merely tolerable, with low trust, low esteem, and no intimacy.",
+      "pole_end": "He ends in deep love, high esteem, high trust, and intimate mutual attachment as her husband.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Dismissal and irritation",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Darcy initially treats Elizabeth as socially beneath his attention, though he has noticed her enough to slight her publicly.",
+          "key_moments": [
+            "‘Tolerable, but not handsome enough’ remark",
+            "Dismissive judgments of her smiles and manners"
+          ]
+        },
+        {
+          "phase": "Reluctant fascination",
+          "chapter_range": [
+            5,
+            11
+          ],
+          "position_description": "His attitude warms into guarded interest. He begins to admire her wit, expression, and independence while concealing his attraction.",
+          "key_moments": [
+            "Observes her closely at Netherfield",
+            "Defends her against Miss Bingley",
+            "Recognizes the danger of paying her too much attention"
+          ]
+        },
+        {
+          "phase": "Conflict and misrecognition",
+          "chapter_range": [
+            14,
+            31
+          ],
+          "position_description": "Attraction deepens, but is entangled with Wickham's shadow and Elizabeth's mistrust. He is increasingly attentive yet defensive and awkward.",
+          "key_moments": [
+            "Shaken by Wickham's appearance",
+            "Elizabeth's pointed questions and hostility",
+            "Private visits to Rosings and the Parsonage"
+          ]
+        },
+        {
+          "phase": "Wounding and redefinition",
+          "chapter_range": [
+            33,
+            35
+          ],
+          "position_description": "The proposal fails, but the rejection clarifies the depth of his feeling and forces him to confront Elizabeth as a moral equal whose judgment matters.",
+          "key_moments": [
+            "Passionate proposal and rejection",
+            "Elizabeth's moral condemnation",
+            "Letter as an attempt to restore truth and dignity"
+          ]
+        },
+        {
+          "phase": "Reconciliation and attachment",
+          "chapter_range": [
+            42,
+            59
+          ],
+          "position_description": "He seeks her good opinion through conduct, protects her family, and finally enters reciprocal love and marriage. Intimacy becomes stable and domestic.",
+          "key_moments": [
+            "Pemberley encounter and careful civility",
+            "Lydia crisis and hidden intervention",
+            "Acceptance of proposal, engagement, and marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth is Darcy's central relational arc. He moves from class-based dismissal to admiration, then to wounded love, and finally to mutual devotion. Her criticism is the main catalyst for his moral growth, and her esteem becomes the emotional center of his life."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Fitzwilliam Darcy",
+      "target_character": "Charles Bingley",
+      "dimension_label": "control-friendship",
+      "axis_name": "From paternal control to balanced friendship",
+      "pole_start": "Darcy begins as a dominant friend who feels entitled to manage Bingley's romantic choices.",
+      "pole_end": "He ends as a more equal, honest friend who respects Bingley's judgment and restores trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Protective interference",
+          "chapter_range": [
+            23,
+            40
+          ],
+          "position_description": "Darcy's intervention in Bingley and Jane's relationship shows a controlling, overconfident friendship. He believes he knows better than Bingley what is prudent.",
+          "key_moments": [
+            "Colonel Fitzwilliam's revelation that Darcy boasted of saving a friend from an imprudent marriage",
+            "Elizabeth's conclusion that Darcy caused the separation"
+          ]
+        },
+        {
+          "phase": "Recognition of error",
+          "chapter_range": [
+            41,
+            56
+          ],
+          "position_description": "Darcy comes to see that his interference was unjustified and that Bingley's feelings were real. He confesses the mistake and accepts Bingley's anger as deserved.",
+          "key_moments": [
+            "Elizabeth's revised understanding of the Bingley/Jane affair",
+            "Darcy's letter and later confession",
+            "Admission that he had been wrong about Jane's indifference"
+          ]
+        },
+        {
+          "phase": "Restored equality",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "Their friendship becomes more balanced and trustworthy. Darcy no longer acts as Bingley's gatekeeper, and Bingley's independence is respected.",
+          "key_moments": [
+            "Darcy tells Elizabeth he has confessed to Bingley",
+            "Bingley's renewed courtship of Jane",
+            "Their continued companionship in the final chapters"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship changes from asymmetrical control to mutual trust. Darcy's growth is visible in his willingness to admit error and stop managing Bingley's life from above."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Fitzwilliam Darcy",
+      "target_character": "George Wickham",
+      "dimension_label": "hostility-repudiation",
+      "axis_name": "From concealed grievance to explicit moral opposition",
+      "pole_start": "He begins with a hidden but intense hostility, marked by distrust, resentment, and unresolved injury.",
+      "pole_end": "He ends in settled moral repudiation: Wickham is exposed as deceitful, dangerous, and unworthy of trust or esteem.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unspoken tension",
+          "chapter_range": [
+            14,
+            20
+          ],
+          "position_description": "Darcy's reaction to Wickham is immediate and bodily; he is visibly shaken, but the history remains unspoken.",
+          "key_moments": [
+            "Turns pale at Wickham's appearance",
+            "Suppresses public reaction"
+          ]
+        },
+        {
+          "phase": "Narrative conflict",
+          "chapter_range": [
+            15,
+            32
+          ],
+          "position_description": "Wickham's story circulates and damages Darcy's reputation, intensifying the conflict between private truth and public perception.",
+          "key_moments": [
+            "Wickham's accusations in Elizabeth's hearing",
+            "Darcy's inability to defend himself openly"
+          ]
+        },
+        {
+          "phase": "Rebuttal and exposure",
+          "chapter_range": [
+            33,
+            50
+          ],
+          "position_description": "Darcy's letter directly counters Wickham's narrative, presenting him as manipulative and morally corrupt, and his later rescue of Lydia proves the seriousness of the threat.",
+          "key_moments": [
+            "Letter details Wickham's misconduct",
+            "Elizabeth revises her view of Wickham",
+            "Lydia crisis and Darcy's intervention"
+          ]
+        },
+        {
+          "phase": "Practical containment",
+          "chapter_range": [
+            44,
+            59
+          ],
+          "position_description": "Darcy's hostility is no longer merely emotional but also practical: Wickham is neutralized, socially discredited, and kept at a distance from Darcy's domestic life.",
+          "key_moments": [
+            "Arranges Wickham-Lydia marriage",
+            "Pays debts and secures settlement",
+            "Wickham's continuing moral unreliability"
+          ]
+        }
+      ],
+      "evidence_summary": "Wickham is Darcy's clearest negative relationship. The arc moves from private grievance to public vindication, with Darcy's later actions proving that his hostility is grounded in moral judgment and protective responsibility, not mere pique."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Fitzwilliam Darcy",
+      "target_character": "Georgiana Darcy",
+      "dimension_label": "guardianship-trust",
+      "axis_name": "From guarded guardianship to affectionate family trust",
+      "pole_start": "He begins as a protective, somewhat controlling brother whose concern is real but private and vigilant.",
+      "pole_end": "He ends in warm, secure familial trust, with Georgiana integrated into the emotional life of the household and his marriage.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Guarded guardianship",
+          "chapter_range": [
+            15,
+            20
+          ],
+          "position_description": "Georgiana is a central object of Darcy's duty and anxiety, especially in light of Wickham's threat.",
+          "key_moments": [
+            "Wickham's account of Georgiana",
+            "Darcy's protective concern for her reputation"
+          ]
+        },
+        {
+          "phase": "Stable affection",
+          "chapter_range": [
+            42,
+            50
+          ],
+          "position_description": "At Pemberley and in the aftermath of the Lydia crisis, Georgiana is part of Darcy's effort to present a humane, respectable family circle.",
+          "key_moments": [
+            "Introduces Elizabeth to Georgiana",
+            "Uses family domesticity to counter Wickham's image"
+          ]
+        },
+        {
+          "phase": "Integrated intimacy",
+          "chapter_range": [
+            56,
+            59
+          ],
+          "position_description": "Georgiana's affection for Elizabeth and her place in the household become signs of a secure, trusting family structure rather than a source of anxiety.",
+          "key_moments": [
+            "Elizabeth's acceptance of the family",
+            "Georgiana's growing connection to Elizabeth"
+          ]
+        }
+      ],
+      "evidence_summary": "Georgiana remains a stable object of Darcy's love, but the meaning of that love changes: from anxious protection against danger to confident inclusion within a broader, healthier family network."
+    }
+  ]
+}

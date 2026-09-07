@@ -1,0 +1,596 @@
+{
+  "character": "Demetrio Macias",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From protective household protector to isolated warlord",
+          "set_b_axis": "From solitary self-command to wounded communal dependence",
+          "overlap_description": "Both track Demetrio’s movement from hard, self-possessed command toward a more relationally complicated end-state shaped by war, fatigue, and dependence on others. A emphasizes isolation and coercion; B emphasizes emotional exposure and communal vulnerability."
+        },
+        {
+          "set_a_axis": "From instinctive grievance to existential confusion",
+          "set_b_axis": "From local survival logic to partial revolutionary self-interpretation",
+          "overlap_description": "Both concern Demetrio’s understanding of the revolution and his own motives. A stresses the collapse into confusion and opacity; B stresses a partial, socially supplied interpretation that never becomes full ideology. Together they describe a shift from concrete grievance to unstable, incomplete meaning."
+        },
+        {
+          "set_a_axis": "From selective restraint to normalized brutality",
+          "set_b_axis": "From code-bound justice to weary fatalistic acceptance",
+          "overlap_description": "Both describe the hardening of Demetrio’s moral world under war. A foregrounds moral numbness and routine brutality; B foregrounds the erosion of moral certainty into fatalism. These are two views of the same ethical decline."
+        },
+        {
+          "set_a_axis": "From wronged peasant to celebrated general to hollow survivor",
+          "set_b_axis": "From armored restraint to visible grief and fatigue",
+          "overlap_description": "Both capture the gap between outward elevation and inward depletion. A focuses on identity instability under public rank; B focuses on the emotional cost of that trajectory. Together they show a man whose surface authority is increasingly undermined by grief and exhaustion."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From wronged peasant to celebrated general to hollow survivor",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From armored restraint to visible grief and fatigue",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From suspicious captive to useful but unequal confidant",
+          "set_b_axis": "From wary utility to practical trust and back to dependence",
+          "overlap_description": "Both describe the Demetrio-Luis relationship as moving from suspicion to instrumental trust without ever becoming equal or intimate. B adds a stronger emphasis on practical reliance; A emphasizes hierarchy and unequal confidant status."
+        },
+        {
+          "set_a_axis": "From protective camaraderie to coercive command",
+          "set_b_axis": "From hard command to shared, burdened fellowship",
+          "overlap_description": "Both track the bond with the men across the war. A stresses the drift toward coercion and fear; B stresses the persistence of fellowship under fatigue and loss. Together they show a relationship that begins as mutual loyalty and ends as strained, burdened command."
+        },
+        {
+          "set_a_axis": "From flirtatious attraction to conflicted attachment",
+          "set_b_axis": "From flirtatious attraction to nostalgic attachment",
+          "overlap_description": "Both see Camilla as moving from bodily attraction toward a deeper, emotionally charged attachment. A emphasizes protection and conflict; B emphasizes tenderness and nostalgia. They are complementary rather than contradictory."
+        },
+        {
+          "set_a_axis": "From absent protector to estranged father",
+          "set_b_axis": "From protective separation to painful reunion longing",
+          "overlap_description": "Both describe the wife/family relationship as beginning in protective distance and ending in a painful, unresolved reunion. A stresses estrangement and the child’s fear; B stresses longing and homecoming. Together they form a single arc of separation and failed restoration."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From public flirtation to open rupture",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wary utility to practical trust and back to dependence",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From stoic self-command to wounded, isolated command",
+      "pole_start": "Begins as a highly agentic, self-possessed protector: Demetrio is stoic, tactical, and controlling, defending home and men through decisive action while keeping emotional distance.",
+      "pole_end": "Ends still agentic but narrowed and damaged: command becomes isolated, coercive, and burdened by dependence, grief, and exhaustion rather than shared leadership.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Stoic autonomy and protective command",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Demetrio begins with hard self-command. He protects his household, waits for the right moment to act, and leads men with calm tactical authority rather than emotional openness.",
+          "key_moments": [
+            "Refuses immediate violence and waits for timing",
+            "Protects wife and child by sending them away",
+            "Rallies men after the house burns",
+            "Maintains command while wounded and feverish"
+          ]
+        },
+        {
+          "phase": "Pragmatic leadership under strain",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "He remains dominant, but his command becomes more socially embedded and less sealed off. He warms to Camilla, relies on Luis Cervantes, and accepts praise and rank.",
+          "key_moments": [
+            "Flirts with Camilla and responds to kindness",
+            "Lets Luis Cervantes treat his wound",
+            "Accepts the Colonel title",
+            "Absorbs revolutionary rhetoric and public admiration"
+          ]
+        },
+        {
+          "phase": "Public role and partial softening",
+          "chapter_range": [
+            19,
+            31
+          ],
+          "position_description": "His agency persists in command and opportunism, but communion becomes more visible through nostalgia, drink, and camp life. He is less self-contained and more dependent on others' mediation.",
+          "key_moments": [
+            "Feels nostalgia for Camilla and the ranch",
+            "Accepts honors and festive ritual",
+            "Lets Cervantes handle delicate matters",
+            "Moves through the camp as a socially embedded chief"
+          ]
+        },
+        {
+          "phase": "Exhausted isolation and grief",
+          "chapter_range": [
+            32,
+            42
+          ],
+          "position_description": "By the end, his authority hardens into coercion even as vulnerability deepens. He is isolated, emotionally depleted, and still commanding, but now through fatigue, loss, and survival instinct.",
+          "key_moments": [
+            "Withdraws into sadness and confusion",
+            "Fails to sustain communal purpose",
+            "Reunites with wife and son in a fractured way",
+            "Fights alone after companions die"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio’s arc is not a simple move from agency to communion or vice versa. He remains agentic throughout, but that agency becomes increasingly isolated, burdened, and emotionally exposed, producing a mixed trajectory of hard command and wounded dependence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Purpose-Clarity",
+      "axis_name": "From local grievance to unstable revolutionary meaning",
+      "pole_start": "Starts with a concrete, local sense of grievance and survival: he knows he has been wronged and fights in response, even if he lacks doctrine.",
+      "pole_end": "Ends with only partial meaning: he can use revolutionary language and rank, but he remains uncertain, unable to fully explain the war or his own direction.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Instinctive rebel without doctrine",
+          "chapter_range": [
+            1,
+            12
+          ],
+          "position_description": "Demetrio acts from immediate circumstances—home burned, enemies present, men to lead. His purpose is legible as grievance, honor, and survival rather than ideology.",
+          "key_moments": [
+            "Protects home and men without political explanation",
+            "Asks what they are fighting for",
+            "Frames rebellion in terms of land, insult, and necessity"
+          ]
+        },
+        {
+          "phase": "Borrowed revolutionary language",
+          "chapter_range": [
+            13,
+            18
+          ],
+          "position_description": "Luis Cervantes and public praise supply a larger frame. Demetrio does not become ideological, but he begins to inhabit revolutionary language of rank, legitimacy, and national struggle.",
+          "key_moments": [
+            "Listens to Cervantes's grander framing",
+            "Feels validated by being called colonel",
+            "Accepts heroic and political rhetoric",
+            "Moves within a larger revolutionary current"
+          ]
+        },
+        {
+          "phase": "Practical disillusionment",
+          "chapter_range": [
+            27,
+            40
+          ],
+          "position_description": "He becomes more candid about not understanding politics and treats the revolution as a practical, often empty enterprise. Meaning thins out into habit, survival, and confusion.",
+          "key_moments": [
+            "Admits he cannot explain what they are fighting for",
+            "Asks who Carranza is and what Aguascalientes means",
+            "Treats looting and rank as wartime rewards",
+            "Recognizes the revolution's loss of coherence"
+          ]
+        },
+        {
+          "phase": "Action without political clarity",
+          "chapter_range": [
+            41,
+            42
+          ],
+          "position_description": "Even at the end, family grief and battle intensity do not produce a true ideological conversion. He remains a man of action whose meaning comes from combat and loyalty, not doctrine.",
+          "key_moments": [
+            "Feels the cost of war in family reunion",
+            "Returns to battle identity in the final ambush",
+            "Shows no stable political reorientation"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio moves from a concrete grievance to a partial, borrowed revolutionary self-understanding, but never reaches stable ideological clarity. The arc is one of disillusionment and incomplete meaning rather than conversion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Stoicism-Vulnerability",
+      "axis_name": "From armored restraint to visible grief",
+      "pole_start": "Begins emotionally armored, stoic, and controlled; he suppresses fear, grief, and tenderness in favor of tactical calm and masculine hardness.",
+      "pole_end": "Ends visibly vulnerable: sadness, tears, homesickness, fatigue, and grief break through the stoic surface, even though he remains capable of violence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hard surface, hidden feeling",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "He begins as a man who contains emotion, converting fear and loss into action. Even when his house burns or he is wounded, he remains composed and practical.",
+          "key_moments": [
+            "Shows grim restraint before the soldiers",
+            "Responds to house burning without collapse",
+            "Endures wound and fever while maintaining command"
+          ]
+        },
+        {
+          "phase": "Pleasure and fatigue under the surface",
+          "chapter_range": [
+            11,
+            30
+          ],
+          "position_description": "His stoicism is interrupted by bodily appetite, drink, and weariness. He becomes less sealed off, though not yet openly vulnerable in a sustained way.",
+          "key_moments": [
+            "Responds to Camilla with bodily warmth",
+            "Becomes sleepy, drunk, and celebratory",
+            "Shows signs of exhaustion and emotional dulling"
+          ]
+        },
+        {
+          "phase": "Melancholy breaking through",
+          "chapter_range": [
+            31,
+            39
+          ],
+          "position_description": "The stoic shell weakens: he feels foreboding, homesickness, sadness, and tears. The emotional cost of war becomes visible in his body and voice.",
+          "key_moments": [
+            "Feels something bad is going to happen",
+            "Longs for wife and farm",
+            "Is moved to tears by Valderrama's song",
+            "Speaks with weary fatalism"
+          ]
+        },
+        {
+          "phase": "Grief fused with combat",
+          "chapter_range": [
+            41,
+            42
+          ],
+          "position_description": "Vulnerability culminates in family tenderness and battlefield grief. He remains a fighter, but the summaries emphasize emotional exposure rather than stoic containment.",
+          "key_moments": [
+            "Reunion with wife and son stirs tenderness and sorrow",
+            "Cries over dead comrades in the ambush",
+            "Feels the weight of fatal forward motion"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio’s emotional pattern changes from hard containment to visible vulnerability. The arc is not a collapse of toughness, but a widening of what can break through it."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Moral-Fatalism",
+      "axis_name": "From code-bound justice to weary acceptance",
+      "pole_start": "Begins with a clear personal code: courage matters, cowardice is contemptible, and violence should occur at the right time rather than impulsively.",
+      "pole_end": "Ends with exhausted acceptance of violence, loss, and decline as the condition of life, with little confidence in justice or moral order.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Honor and timing",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Demetrio’s early morality is sharp and local. He respects bravery, despises cowardice, and believes in waiting for the proper moment rather than acting rashly.",
+          "key_moments": [
+            "Refuses immediate revenge on soldiers",
+            "Judges men by courage and dignity",
+            "Delays violence until the right time"
+          ]
+        },
+        {
+          "phase": "War as normalized force",
+          "chapter_range": [
+            16,
+            24
+          ],
+          "position_description": "As battles and victories accumulate, moral judgment narrows into tactical opportunism. Looting, rank, and violence become normal parts of the world rather than ethical problems.",
+          "key_moments": [
+            "Treats enemies as prey",
+            "Accepts looting as reward",
+            "Enjoys public honors without moral scrutiny"
+          ]
+        },
+        {
+          "phase": "Bleak acceptance",
+          "chapter_range": [
+            34,
+            42
+          ],
+          "position_description": "He increasingly sees the revolution as a grim, cyclical reality rather than a just cause. His responses are weary, practical, and fatalistic, with little sense of moral mission left.",
+          "key_moments": [
+            "Sings mournfully and drinks to ease sadness",
+            "Recognizes the revolution's loss of popular support",
+            "Accepts the suddenness of death in the final ambush"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio’s moral world becomes less principled and more exhausted. Early code-based judgment gives way to fatalistic acceptance of violence, disorder, and loss as the normal texture of revolutionary life."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Demetrio Macias",
+      "target_character": "Luis Cervantes",
+      "dimension_label": "Trust-Utility",
+      "axis_name": "From wary utility to practical dependence",
+      "pole_start": "Begins with suspicion and guardedness: Demetrio sees Luis as an outsider who must be tested, contained, and used carefully if at all.",
+      "pole_end": "Ends in durable practical trust and dependence: Luis becomes an interpreter, helper, and mediator whom Demetrio relies on, though the relationship remains unequal.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Suspicious containment",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "Demetrio keeps Luis alive but under scrutiny, testing him with deception and treating him as a possible threat and possible source of explanation.",
+          "key_moments": [
+            "Delays judgment of Cervantes",
+            "Uses a fake confession test",
+            "Keeps him under command"
+          ]
+        },
+        {
+          "phase": "Growing practical reliance",
+          "chapter_range": [
+            9,
+            14
+          ],
+          "position_description": "Luis treats his wound, explains the revolution, and helps manage camp life. Demetrio begins to like him and trust his knowledge because it is useful.",
+          "key_moments": [
+            "Accepts wound treatment from Luis",
+            "Listens to revolutionary framing",
+            "Lets him manage delicate social matters"
+          ]
+        },
+        {
+          "phase": "Instrumental dependence",
+          "chapter_range": [
+            15,
+            35
+          ],
+          "position_description": "Demetrio increasingly relies on Luis as secretary, explainer, and intermediary. He may dismiss him at moments, but he depends on him for interpretation, logistics, and social mediation.",
+          "key_moments": [
+            "Lets Luis handle finances and arrangements",
+            "Accepts explanations of rank and politics",
+            "Uses him to manage Camilla and camp affairs"
+          ]
+        },
+        {
+          "phase": "Stable practical alliance",
+          "chapter_range": [
+            36,
+            42
+          ],
+          "position_description": "The relationship settles into a durable, functional alliance. Demetrio still does not fully share Luis's worldview, but he trusts him enough to keep him within his orbit.",
+          "key_moments": [
+            "Continues to treat Luis as a useful subordinate",
+            "Relies on him amid political confusion",
+            "Maintains him within the command structure"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio’s relationship with Luis moves from suspicion to practical trust and dependence, without becoming intimate or equal. Luis becomes one of the few people Demetrio consistently allows to interpret the world for him."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Demetrio Macias",
+      "target_character": "Camilla",
+      "dimension_label": "Desire-Tenderness",
+      "axis_name": "From flirtatious attraction to nostalgic attachment",
+      "pole_start": "Begins with immediate warmth and bodily attraction: Demetrio responds to Camilla’s kindness with flirtation, appetite, and visible pleasure.",
+      "pole_end": "Ends with nostalgic attachment and domestic longing: Camilla becomes tied to comfort, home, and tenderness, though the bond remains uneven and partly possessive.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Brief warmth and flirtation",
+          "chapter_range": [
+            7,
+            10
+          ],
+          "position_description": "Demetrio responds to Camilla’s care and presence with visible interest and pleasure. The bond is warm but still shallow and bodily.",
+          "key_moments": [
+            "Flirts with Camilla",
+            "Feels pleased by her kindness",
+            "Shows interest in her presence"
+          ]
+        },
+        {
+          "phase": "Possessive desire",
+          "chapter_range": [
+            11,
+            15
+          ],
+          "position_description": "His interest becomes more openly bodily and possessive. He is portrayed as crude and lustful, and he publicly misses her when she is absent.",
+          "key_moments": [
+            "Camilla is framed as an object of appetite",
+            "He appears sexually intrusive",
+            "He calls attention to her absence"
+          ]
+        },
+        {
+          "phase": "Companionate but instrumental attachment",
+          "chapter_range": [
+            22,
+            30
+          ],
+          "position_description": "Camilla is folded into the camp’s social and logistical life. Demetrio treats her as part of the world of comfort, status, and arrangement, not as a fully separate emotional center.",
+          "key_moments": [
+            "Accepts her within the victory atmosphere",
+            "Lets her be managed through camp arrangements",
+            "Responds to her complaint only minimally"
+          ]
+        },
+        {
+          "phase": "Nostalgic domestic longing",
+          "chapter_range": [
+            31,
+            41
+          ],
+          "position_description": "Camilla becomes linked to home, tenderness, and the life he has lost. Even when he is with her, his emotional center drifts toward wife, farm, and ordinary life.",
+          "key_moments": [
+            "Feels nostalgic tenderness toward her",
+            "Uses her as a symbol of comfort",
+            "His family reunion overshadows camp desire"
+          ]
+        }
+      ],
+      "evidence_summary": "Camilla shifts from immediate attraction to a broader symbol of warmth and domestic relief. The relationship remains uneven and often possessive, but it gains emotional weight as war fatigue and homesickness grow."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Demetrio Macias",
+      "target_character": "His wife",
+      "dimension_label": "Distance-Homecoming",
+      "axis_name": "From protective separation to painful reunion longing",
+      "pole_start": "Begins with protective distance: Demetrio keeps his wife at the edge of his war life or sends her away in order to keep her safe.",
+      "pole_end": "Ends in unresolved longing and painful reunion: he recognizes her as the emotional center of home, but cannot fully restore ordinary family life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Protective separation",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He pushes his wife away physically to protect her, keeping emotional feeling subordinate to safety and command.",
+          "key_moments": [
+            "Sends wife and child away from danger",
+            "Prioritizes protection over closeness"
+          ]
+        },
+        {
+          "phase": "Nostalgic absence",
+          "chapter_range": [
+            19,
+            31
+          ],
+          "position_description": "As war drags on, his wife becomes a memory of home and stability. The longing is intermittent but increasingly clear.",
+          "key_moments": [
+            "Feels homesick for wife and farm",
+            "Contrasts war with domestic life"
+          ]
+        },
+        {
+          "phase": "Emotional confrontation",
+          "chapter_range": [
+            41,
+            42
+          ],
+          "position_description": "The reunion makes the relationship emotionally real again. He is moved by her aging, her plea, and the child’s fear, but he cannot fully convert feeling into a new life choice.",
+          "key_moments": [
+            "Sees wife and son unexpectedly",
+            "Feels tenderness and sorrow",
+            "Is burdened by the cost of absence"
+          ]
+        }
+      ],
+      "evidence_summary": "This is one of Demetrio’s clearest relational arcs: from protective distance to emotionally charged longing. The relationship does not resolve into reunion or abandonment, but it becomes a powerful counterweight to his war identity."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Demetrio Macias",
+      "target_character": "His men",
+      "dimension_label": "Command-Camaraderie",
+      "axis_name": "From hard command to shared, burdened fellowship",
+      "pole_start": "Begins as a hard commander who leads by stoic authority, tactical control, and emotional distance.",
+      "pole_end": "Ends as a leader whose bond with his men is marked by shared fatigue, grief, and mutual dependence in battle.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Authoritative leadership",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "He organizes, feeds, and directs the band, expecting loyalty and obedience. The relationship is hierarchical and practical.",
+          "key_moments": [
+            "Rallies men after the house burns",
+            "Directs ambushes and movement",
+            "Uses command to maintain cohesion"
+          ]
+        },
+        {
+          "phase": "Celebratory comradeship",
+          "chapter_range": [
+            13,
+            24
+          ],
+          "position_description": "Drink, victory, and public recognition make the group feel more like a shared fraternity. Demetrio is still the chief, but he is also one of the men in the revelry.",
+          "key_moments": [
+            "Drinks and jokes with the troop",
+            "Accepts honors in front of them",
+            "Moves with them in victory feasts"
+          ]
+        },
+        {
+          "phase": "Strained fellowship under decline",
+          "chapter_range": [
+            31,
+            40
+          ],
+          "position_description": "As the war darkens, the bond becomes more burdened. He remains their commander, but the relationship is defined by fatigue, complaints, and the need to hold the group together.",
+          "key_moments": [
+            "Feels foreboding and melancholy",
+            "Listens to complaints and factional tension",
+            "Maintains discipline amid decline"
+          ]
+        },
+        {
+          "phase": "Shared loss in battle",
+          "chapter_range": [
+            42,
+            42
+          ],
+          "position_description": "The final ambush turns the relationship into one of shared catastrophe. He grieves the dead as comrades, and his command is fused with loss rather than triumph.",
+          "key_moments": [
+            "Cries over dead companions",
+            "Fights alone after the group collapses",
+            "Experiences comradeship through grief"
+          ]
+        }
+      ],
+      "evidence_summary": "Demetrio’s relationship with his men evolves from hierarchical command into a more emotionally burdened fellowship. He never stops being the leader, but the emotional texture shifts from authority to shared exhaustion and loss."
+    }
+  ]
+}

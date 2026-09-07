@@ -1,0 +1,336 @@
+{
+  "character": "Venancio",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From defensive outsider to hardened participant",
+          "set_b_axis": "From self-protective utility to socially embedded opportunism",
+          "overlap_description": "Both describe Venancio moving from guarded self-protection toward greater social embeddedness in the rebel group, with his participation becoming more active, pragmatic, and socially responsive."
+        },
+        {
+          "set_a_axis": "From defensive outsider to hardened participant",
+          "set_b_axis": "From bodily practicality to borrowed revolutionary meaning",
+          "overlap_description": "Both capture the shift from a practical, reactive baseline into a more ideologically inflected mode of participation, though the ideology remains instrumental rather than deeply internalized."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From defensive outsider to hardened participant",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From self-protective utility to socially embedded opportunism",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From bodily practicality to borrowed revolutionary meaning",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From quiet competence to exposed status anxiety",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From contemptuous suspicion to partial admiration and renewed skepticism",
+          "set_b_axis": "From wary dismissal to impressed alliance",
+          "overlap_description": "Both track the same core relationship arc with Luis Cervantes: initial suspicion and dismissal give way to warmth, familiarity, and partial admiration, though trust remains incomplete."
+        },
+        {
+          "set_a_axis": "From subordinate alignment to critical distance",
+          "set_b_axis": "From practical loyalty to strained pragmatic allegiance",
+          "overlap_description": "Both describe Venancio remaining attached to Demetrio while becoming less idealized and more pragmatic as the revolution deteriorates."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From contemptuous suspicion to partial admiration and renewed skepticism",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From subordinate alignment to critical distance",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From practical loyalty to strained pragmatic allegiance",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From professional confidence to defensive hostility",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-protective utility to socially embedded opportunism",
+      "pole_start": "Venancio begins as a self-contained, practical, and guarded figure: competent, reactive to mockery, and oriented toward preserving his usefulness and standing rather than toward closeness or ideological commitment.",
+      "pole_end": "He becomes more socially receptive and group-embedded, aligning himself with praise, revolutionary language, and collective identity, though his communion remains instrumental and self-interested rather than deeply empathetic.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical self-containment",
+          "chapter_range": [
+            4,
+            9
+          ],
+          "position_description": "Venancio appears as a calm, competent healer whose identity rests on utility and composure. He shows little overt emotional openness or relational dependence.",
+          "key_moments": [
+            "Chapter 4: calmly assesses Demetrio's wound and acts as a practical medical helper",
+            "Chapters 5-9: no major evidence of deeper relational or ideological development"
+          ]
+        },
+        {
+          "phase": "Validation-driven opening",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Mockery wounds him, but Cervantes's praise quickly softens him. He begins to seek social affirmation and to participate more warmly in the group, including adopting familiar address and revolutionary language.",
+          "key_moments": [
+            "ch10_evt01: Quail publicly mocks him and the group laughs him down",
+            "ch10_evt03: Cervantes flatters him and he starts calling him 'Louie'",
+            "ch13_evt01: He enthusiastically echoes Cervantes's political language and endorses joining Natera"
+          ]
+        },
+        {
+          "phase": "Embedded pragmatism",
+          "chapter_range": [
+            16,
+            40
+          ],
+          "position_description": "He settles into a socially adaptive, useful role within the rebel world. He remains attached to the group, but his belonging is practical and opportunistic, not morally transformed.",
+          "key_moments": [
+            "ch16_evt01: He forces a local man to guide the rebels",
+            "Chapter 26: flirts with War Paint and performs social charm",
+            "ch28_evt01: His attempt at a more innocent interpretation is mocked back into cynicism",
+            "ch36_evt01: He rereads Cervantes's business letter and seems intrigued but skeptical",
+            "ch39_evt01: He complains about the army being overcrowded with Federals",
+            "ch40_evt02: He witnesses the ruined town and learns the revolution is now met with hostility"
+          ]
+        },
+        {
+          "phase": "Abrupt termination",
+          "chapter_range": [
+            42,
+            42
+          ],
+          "position_description": "His arc ends in death before any further internal reorientation can occur.",
+          "key_moments": [
+            "ch42_evt01: He is killed in the ambush"
+          ]
+        }
+      ],
+      "evidence_summary": "Venancio moves from guarded practical self-containment toward socially embedded opportunism: he becomes more affiliative, more group-oriented, and more willing to borrow revolutionary language, but his change is driven by recognition, usefulness, and survival rather than deep moral conversion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "pragmatism-ideology",
+      "axis_name": "From bodily practicality to borrowed revolutionary meaning",
+      "pole_start": "Venancio is grounded in immediate, concrete practicality: bodily care, tactical usefulness, and survival matter more to him than abstract political ideals.",
+      "pole_end": "He becomes willing to speak in ideological terms, but mainly as a borrowed vocabulary that legitimizes his ambitions and social advancement.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Medical utility without ideology",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "His identity is anchored in practical bodily knowledge and competence. He shows little serious political reflection and treats his healer role as the main source of authority.",
+          "key_moments": [
+            "Chapter 4: comments on Demetrio's bleeding with cool medical confidence",
+            "Chapter 10: defends his competence and imagines status through practical expertise"
+          ]
+        },
+        {
+          "phase": "Ideological uptake through flattery",
+          "chapter_range": [
+            13,
+            13
+          ],
+          "position_description": "He absorbs revolutionary language about principle, motherland, and destiny, but mainly because it flatters him and makes his participation feel honorable.",
+          "key_moments": [
+            "Chapter 13: enthusiastically accepts Cervantes's rhetoric and the plan to join Natera"
+          ]
+        },
+        {
+          "phase": "Disillusioned realism",
+          "chapter_range": [
+            36,
+            40
+          ],
+          "position_description": "As the revolution loses coherence, his practical worldview reasserts itself. He becomes more skeptical of the cause's meaning and judges events by survival, order, and usefulness.",
+          "key_moments": [
+            "Chapter 36: ponders Cervantes's proposal while questioning the revolution's purpose",
+            "Chapter 37: reacts to Villa's defeat as a practical disaster",
+            "Chapter 40: sees the movement as hollow, unpopular, and failing to secure basic needs"
+          ]
+        }
+      ],
+      "evidence_summary": "Venancio never becomes a true ideologue. He briefly adopts revolutionary language when it serves advancement, then returns to a more skeptical, practical orientation as the movement deteriorates."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "pride-vulnerability",
+      "axis_name": "From quiet competence to exposed status anxiety",
+      "pole_start": "Venancio begins with composed confidence in his usefulness and authority, appearing professionally assured and not especially fragile.",
+      "pole_end": "He ends more anxious, defensive, and status-sensitive as the revolutionary order collapses and recognition becomes less secure.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Composed expertise",
+          "chapter_range": [
+            4,
+            9
+          ],
+          "position_description": "He appears self-possessed and professionally assured, with little sign that his identity is fragile.",
+          "key_moments": [
+            "Chapter 4: calmly offers medical judgment"
+          ]
+        },
+        {
+          "phase": "Wounded pride and vanity",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Mockery triggers defensiveness, while praise quickly restores him. This reveals that his confidence depends heavily on recognition.",
+          "key_moments": [
+            "Chapter 10: irritated by Quail's mockery, then pleased by Cervantes's flattery",
+            "Chapter 13: visibly energized by being validated and included"
+          ]
+        },
+        {
+          "phase": "Anxious realism under collapse",
+          "chapter_range": [
+            37,
+            40
+          ],
+          "position_description": "As defeat and disorder mount, his concern shifts from pride to survival and social standing. He becomes more openly uneasy, resentful, and defensive about the army's condition.",
+          "key_moments": [
+            "Chapter 37: delivers news of Villa's defeat with alarm",
+            "Chapter 39: complains about overcrowding with Federals",
+            "Chapter 40: appears subdued and disillusioned in the ruined town"
+          ]
+        }
+      ],
+      "evidence_summary": "Venancio's self-image depends on being useful, respected, and socially affirmed. The later chapters expose how quickly that confidence turns into anxiety when the revolutionary order weakens."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Venancio",
+      "target_character": "Luis Cervantes",
+      "dimension_label": "suspicion-admiration",
+      "axis_name": "From wary dismissal to impressed alliance",
+      "pole_start": "Venancio initially dismisses Cervantes as an intrusive tenderfoot outsider and treats him with suspicion.",
+      "pole_end": "He becomes increasingly receptive to Cervantes's intelligence, flattery, and schemes, though the admiration remains mixed with caution.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial skepticism",
+          "chapter_range": [
+            10,
+            10
+          ],
+          "position_description": "Venancio is irritated by Cervantes's presence and does not yet trust his authority or usefulness.",
+          "key_moments": [
+            "ch10_evt02: He warns that educated outsiders like Cervantes 'seep in everywhere.'",
+            "Chapter 10: reacts defensively when his competence is challenged"
+          ]
+        },
+        {
+          "phase": "Rapid warming through praise",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Cervantes flatters him, and Venancio quickly softens. He becomes friendly and familiar, and begins echoing Cervantes's revolutionary language.",
+          "key_moments": [
+            "ch10_evt03: Cervantes flatters him and Venancio starts calling him 'Louie.'",
+            "Chapter 13: enthusiastically aligns with Cervantes's rhetoric and the Natera plan"
+          ]
+        },
+        {
+          "phase": "Admiring but wary dependence",
+          "chapter_range": [
+            28,
+            36
+          ],
+          "position_description": "Venancio remains impressed by Cervantes's cleverness and is still vulnerable to his influence, but his trust is cautious and unstable rather than wholehearted.",
+          "key_moments": [
+            "ch28_evt01: His explanation is ridiculed, reinforcing a cynical atmosphere around Cervantes.",
+            "ch36_evt01: He rereads Cervantes's business letter and seems intrigued but skeptical"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Venancio's clearest relational arc: he moves from distrust to partial admiration because Cervantes offers recognition, ideological framing, and a possible route to advancement, but the relationship never becomes fully trusting."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Venancio",
+      "target_character": "Demetrio Macías",
+      "dimension_label": "deference-pragmatism",
+      "axis_name": "From practical loyalty to strained pragmatic allegiance",
+      "pole_start": "Venancio is loyal, deferential, and service-oriented toward Demetrio as leader and patient.",
+      "pole_end": "He remains attached, but his allegiance becomes increasingly pragmatic and less idealized, shaped by survival and order rather than devotion.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Stable service",
+          "chapter_range": [
+            4,
+            16
+          ],
+          "position_description": "Venancio functions as a practical helper and subordinate, treating Demetrio with respect and using his skills in support of the group.",
+          "key_moments": [
+            "Chapter 4: tends to Demetrio's wound",
+            "Chapter 16: helps guide the rebels tactically"
+          ]
+        },
+        {
+          "phase": "Loyalty under strain",
+          "chapter_range": [
+            28,
+            40
+          ],
+          "position_description": "He remains attached to Demetrio, but the surrounding disorder, defeat, and hunger make that loyalty more conditional and practical than fervent.",
+          "key_moments": [
+            "Chapter 28: tries to preserve group cohesion around a compromising incident",
+            "Chapter 37: reacts to Villa's defeat as a strategic disaster",
+            "Chapter 40: appears subdued and disillusioned in the ruined town"
+          ]
+        }
+      ],
+      "evidence_summary": "Venancio never breaks with Demetrio, but his relationship shifts from straightforward service to a more anxious, pragmatic allegiance shaped by the collapse of revolutionary fortunes."
+    }
+  ]
+}

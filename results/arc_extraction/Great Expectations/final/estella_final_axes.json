@@ -1,0 +1,329 @@
+{
+  "character": "Estella",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-contained superiority to damaged relational awareness",
+          "set_b_axis": "From controlled emotional separation to humane relational openness",
+          "overlap_description": "Both track Estella's movement from emotionally sealed, socially superior self-possession toward a later recognition of damage and a partial opening to tenderness, though B emphasizes fuller relational warmth while A stresses destabilized selfhood."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-contained superiority to damaged relational awareness",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From inherited coldness to self-understood damage",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From contemptuous detachment to reflective compassion",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From humiliating superiority to distant, alluring authority",
+          "set_b_axis": "From contemptuous distance to tender friendship",
+          "overlap_description": "Both describe the Pip relationship as beginning in humiliation and distance, then softening into a more mature, emotionally charged final relation; B foregrounds explicit tenderness and friendship, while A keeps the emphasis on enduring distance and allure."
+        },
+        {
+          "set_a_axis": "From obedient instrument to revealed product of emotional damage",
+          "set_b_axis": "From obedient instrument to resistant self-definition",
+          "overlap_description": "Both identify Miss Havisham as the formative power behind Estella's emotional shaping and both move from obedience to a later recognition of harm; B stresses autonomy and resistance, while A stresses damage and constructed identity."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From humiliating superiority to distant, alluring authority",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From obedient instrument to revealed product of emotional damage",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From contemptuous distance to tender friendship",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From obedient instrument to resistant self-definition",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From controlled emotional separation to humane relational openness",
+      "pole_start": "Highly agency-coded: self-possessed, emotionally sealed, socially dominant, and committed to independence through distance, superiority, and refusal of vulnerability.",
+      "pole_end": "More communion-coded: still self-possessed, but now capable of tenderness, mutuality, forgiveness, and a desire for friendship rather than mastery or emotional invulnerability.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cold social instrument",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Estella is defined by emotional control, superiority, and complicity in humiliation; she performs distance as power.",
+          "key_moments": [
+            "Mocks and humiliates Pip under Miss Havisham's direction",
+            "Appears emotionally sealed and socially dominant"
+          ]
+        },
+        {
+          "phase": "Guarded self-awareness",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "She remains guarded and agency-heavy, but becomes more aware of her formation and less purely contemptuous, showing a controlled openness to the fact that she has been shaped by others.",
+          "key_moments": [
+            "Says she has no heart in the sentimental sense",
+            "Recognizes Miss Havisham's influence",
+            "Resists being emotionally possessed"
+          ]
+        },
+        {
+          "phase": "Tender mutuality",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "In the final reunion, she speaks with sadness and gratitude, asks for friendship, and accepts a more equal, humane relation with Pip.",
+          "key_moments": [
+            "Asks Pip for friendship",
+            "Speaks with tenderness and reflective sorrow",
+            "Values forgiveness and mutual recognition"
+          ]
+        }
+      ],
+      "evidence_summary": "Estella begins as a socially superior, emotionally sealed figure who uses distance as power. Across the later chapters, especially the final reunion, she retains self-command but moves toward warmth, reciprocity, and relational openness. The arc is not a total surrender of agency, but a clear softening from defensive separation toward humane communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Self-Formation",
+      "axis_name": "From inherited coldness to self-understood damage",
+      "pole_start": "She experiences herself as naturally cold, fixed, and beyond sentimental feeling, with little explicit reflection on how she became that way.",
+      "pole_end": "She understands her coldness as constructed by Miss Havisham's upbringing and later suffering, and can articulate herself as damaged, changed, and morally complicated rather than simply heartless.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unexamined role",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Her emotional posture appears internalized and unreflective; she behaves as if coldness is simply what she is.",
+          "key_moments": [
+            "No sign of self-reflection or inner conflict",
+            "Role appears fully internalized"
+          ]
+        },
+        {
+          "phase": "Origin recognized",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "She explicitly identifies Miss Havisham's influence as formative and recognizes that her emotional style is produced, not innate.",
+          "key_moments": [
+            "Believes she has been shaped by Miss Havisham",
+            "Insists praise/blame for her coldness belongs to her formation"
+          ]
+        },
+        {
+          "phase": "Changed by suffering",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She now sees herself as altered by pain and capable of moral growth, with a self-understanding that includes loss, regret, and the hope that suffering has made her better.",
+          "key_moments": [
+            "Says she is greatly changed",
+            "Recognizes the value of what she once rejected",
+            "Frames suffering as teaching"
+          ]
+        }
+      ],
+      "evidence_summary": "Estella's arc includes a clear movement from unexamined emotional hardness to explicit self-knowledge about her formation and damage. She does not become fully self-redeeming, but she does become able to narrate herself as shaped by coercion and suffering."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Affect",
+      "axis_name": "From contemptuous detachment to reflective compassion",
+      "pole_start": "Her moral-emotional stance is cool, contemptuous, and largely indifferent to the pain she causes.",
+      "pole_end": "Her stance becomes reflective, sorrowful, and quietly compassionate, with an ability to value others and acknowledge harm.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cruel detachment",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "She takes pleasure in embarrassment and shows no sympathy, treating social humiliation as natural or amusing.",
+          "key_moments": [
+            "Amusement at Joe's awkwardness",
+            "Complicit in Pip's humiliation"
+          ]
+        },
+        {
+          "phase": "Defensive irony",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "Her contempt remains, but it is tempered by a more clinical, defensive understanding of the world. She is less gleefully cruel and more hardened against being used.",
+          "key_moments": [
+            "Pleasure in thwarting those around Miss Havisham",
+            "Calm resistance to Miss Havisham's possessiveness"
+          ]
+        },
+        {
+          "phase": "Sorrowful tenderness",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She speaks with sadness and tenderness rather than irony, showing a humane awareness of loss and the value of forgiveness.",
+          "key_moments": [
+            "Quiet composure replaces hardness",
+            "Values Pip's forgiveness",
+            "Seeks peaceful closure"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures the emotional-moral softening of Estella: from cruelty and contempt toward a more compassionate, grief-informed moral sensibility. The change is real but partial, so confidence remains medium."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Estella",
+      "target_character": "Pip",
+      "dimension_label": "Attachment Warmth",
+      "axis_name": "From contemptuous distance to tender friendship",
+      "pole_start": "She treats Pip as socially inferior, keeps him at arm's length, and participates in his humiliation without sympathy.",
+      "pole_end": "She meets Pip with gratitude, tenderness, and a request for friendship rather than domination or romantic cruelty.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Humiliating distance",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Pip is an object of cool superiority; she is indifferent on the surface and complicit in his shame.",
+          "key_moments": [
+            "Cold and contemptuous toward Pip",
+            "Helps stage humiliation at Satis House"
+          ]
+        },
+        {
+          "phase": "Controlled engagement",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "She becomes more openly engaging and polished, but still keeps Pip at a controlled distance and does not grant full emotional reciprocity.",
+          "key_moments": [
+            "More polished and outwardly gracious",
+            "Allows intimacy in small doses",
+            "Pip remains familiar but not fully intimate"
+          ]
+        },
+        {
+          "phase": "Mutual recognition",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She speaks to Pip as an equal in suffering, values his forgiveness, and asks for friendship instead of possession or romantic cruelty.",
+          "key_moments": [
+            "Tender, grateful, and reflective toward Pip",
+            "Asks for friendship",
+            "Acknowledges she has often thought of him"
+          ]
+        }
+      ],
+      "evidence_summary": "Pip is the clearest relational arc in Estella's story: from contempt and instrumental cruelty to a humane, mutually respectful bond. The final meeting marks a decisive softening of attitude and a redefinition of the relationship."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Estella",
+      "target_character": "Miss Havisham",
+      "dimension_label": "Dependence-Autonomy",
+      "axis_name": "From obedient instrument to resistant self-definition",
+      "pole_start": "She functions as Miss Havisham's emotionally subordinate agent, aligned with her purposes and shaped by her design.",
+      "pole_end": "She recognizes Miss Havisham as the source of her damage but rejects emotional ownership and asserts her own autonomy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Instrumental obedience",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "She is fully aligned with Miss Havisham's social project and appears to internalize her role without resistance.",
+          "key_moments": [
+            "Functions as Miss Havisham's agent",
+            "No visible awareness of cruelty or damage"
+          ]
+        },
+        {
+          "phase": "Awareness of manipulation",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "She becomes explicitly aware that Miss Havisham has shaped and used her. Her attitude is mixed: loyalty and dependence remain, but resistance emerges.",
+          "key_moments": [
+            "Believes she has been shaped by Miss Havisham",
+            "Defies Miss Havisham's demand for love",
+            "Rejects sentimental coercion"
+          ]
+        },
+        {
+          "phase": "Detached aftermath",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Miss Havisham is no longer the center of Estella's identity. She is emotionally detached from the old wound and oriented toward a life beyond it.",
+          "key_moments": [
+            "Indirectly mournful and detached from Satis House",
+            "No longer defined by obedience to Miss Havisham"
+          ]
+        }
+      ],
+      "evidence_summary": "Estella's relation to Miss Havisham shifts from obedience to critique and then to detachment. The arc is less about reconciliation than about psychological emancipation from a formative but damaging bond."
+    }
+  ]
+}

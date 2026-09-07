@@ -1,0 +1,465 @@
+{
+  "character": "Long John Silver",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From charismatic self-assertion to transactional interdependence",
+          "set_b_axis": "From self-assertive social operator to tactical ally-survivor",
+          "overlap_description": "Both describe Silver as fundamentally agency-driven at the start, then forced into pragmatic alliance-making and reciprocal dependence when dominance fails."
+        },
+        {
+          "set_a_axis": "From unflappable mask to exposed survivalist",
+          "set_b_axis": "From seamless mask to exposed tactical improviser",
+          "overlap_description": "Both track the same shift in self-presentation: Silver begins with near-effortless composure and ends as a visibly pressured improviser whose control is now defensive rather than dominant."
+        },
+        {
+          "set_a_axis": "From pirate loyalty to pure expediency",
+          "set_b_axis": "From hidden confidence to exposed but managed fear",
+          "overlap_description": "Both capture a move from apparent certainty and stable pirate leadership toward a more openly survivalist posture shaped by fear, bargaining, and opportunistic self-preservation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From pirate loyalty to pure expediency",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From hidden confidence to exposed but managed fear",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From grooming trust to wary mutual dependence",
+          "set_b_axis": "From charming mentor to tactical ally-hostage bond",
+          "overlap_description": "Both describe Silver’s relationship with Jim as beginning in manipulative warmth and ending in a fragile, survival-based interdependence that never becomes genuine trust."
+        },
+        {
+          "set_a_axis": "From strategic civility to open enmity",
+          "set_b_axis": "From exploitable obstacle to formidable opponent",
+          "overlap_description": "Both track Silver’s relation to Smollett as moving from tactical politeness and underestimation toward direct confrontation, defeat, and grudging recognition of the captain’s strength."
+        },
+        {
+          "set_a_axis": "From commanding captain to precarious manipulator",
+          "set_b_axis": "From charismatic captaincy to brittle control",
+          "overlap_description": "Both describe Silver’s relationship to the pirate crew as declining from effective command to unstable, fear-based management and eventual abandonment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From strategic civility to open enmity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From polished distance to bargaining dependence",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From charismatic self-assertion to tactical interdependence",
+      "pole_start": "Predominantly agency-driven: Silver begins as a self-assertive, mastery-oriented manipulator who uses charm, timing, and dominance to secure his position and control others while remaining socially separate.",
+      "pole_end": "Still self-interested and agency-led, but more communion-adaptive: by the end he survives through bargaining, alliance, and reciprocal dependence with Jim and the loyal party rather than through pure dominance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Social mastery and covert control",
+          "chapter_range": [
+            7,
+            14
+          ],
+          "position_description": "Silver is strongly agency-coded: he secures trust, performs geniality, recruits followers, and manages appearances while concealing his true loyalties.",
+          "key_moments": [
+            "Hired as ship's cook and gains a foothold aboard the Hispaniola",
+            "Deflects suspicion after Black Dog is mentioned",
+            "Leads the crew in song and strengthens his standing",
+            "Recruits Dick and lays out delayed-violence strategy"
+          ]
+        },
+        {
+          "phase": "Strategic pressure and defensive bargaining",
+          "chapter_range": [
+            15,
+            26
+          ],
+          "position_description": "He remains highly agentic but is increasingly constrained. His control becomes precarious as Smollett, Jim, and the loyal party force him into negotiation, concealment, and tactical retreat.",
+          "key_moments": [
+            "Disappointed by Smollett's chart and forced to conceal it",
+            "Uses warmth with Jim as a weapon",
+            "Tom rejects him and he kills Tom",
+            "Negotiates under flag of truce after open violence stalls",
+            "Jim retakes the ship and Silver's dominance erodes"
+          ]
+        },
+        {
+          "phase": "Collapse of command, rise of survival alliance",
+          "chapter_range": [
+            27,
+            33
+          ],
+          "position_description": "Silver is deposed, cornered, and repeatedly forced into compromise. He does not become genuinely communal, but he increasingly relies on reciprocal dependence, especially with Jim and briefly with Livesey.",
+          "key_moments": [
+            "Receives the black spot and is formally deposed",
+            "Bargains with Jim for navigation and survival",
+            "Pleads for mercy with Livesey",
+            "Forms a fragile back-to-back survival alliance with Jim"
+          ]
+        },
+        {
+          "phase": "Final opportunism and escape",
+          "chapter_range": [
+            34,
+            34
+          ],
+          "position_description": "Silver returns to a narrower form of agency: not command, but opportunistic self-preservation. He survives by exploiting remaining relationships and then vanishes with loot.",
+          "key_moments": [
+            "Treasure pit is empty and his plan collapses",
+            "Kills George Merry during the mutineers' breakdown",
+            "Submits outwardly to the victors while preserving himself",
+            "Secretly escapes with a sack of coin"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's core arc is not moral reform but a shift in how agency is exercised: from commanding, manipulative dominance toward precarious, transactional interdependence when dominance fails."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "mask-improvisation",
+      "axis_name": "From seamless mask to exposed tactical improviser",
+      "pole_start": "At the start of his active arc, Silver appears almost perfectly self-possessed: genial, trustworthy, and socially fluent, with little visible gap between performance and role.",
+      "pole_end": "By the end, his performance remains strong but is more visibly strained and openly tactical; he is no longer a convincing stable persona so much as a rapid improviser adapting to collapse.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Effortless public mask",
+          "chapter_range": [
+            7,
+            12
+          ],
+          "position_description": "Silver's social performance is smooth and apparently natural. He can charm gentlemen, crew, and Jim while concealing his intentions, and he seems to believe appearances can fully manage suspicion.",
+          "key_moments": [
+            "Trelawney's account frames him as respectable and capable",
+            "He turns the Black Dog incident into camaraderie",
+            "He maintains geniality even when the map is revealed"
+          ]
+        },
+        {
+          "phase": "Mask under strain",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "His performance becomes more labor-intensive. He must constantly soothe the crew, manage fear, and switch between civility and threat as the mutiny and siege destabilize his position.",
+          "key_moments": [
+            "He calms mutinous sailors through songs and friendliness",
+            "He kills Tom and then resumes composure",
+            "He shifts from pirate authority to diplomatic truce under pressure",
+            "Smollett's refusal visibly corners him"
+          ]
+        },
+        {
+          "phase": "Openly adaptive survival performance",
+          "chapter_range": [
+            28,
+            34
+          ],
+          "position_description": "Silver's mask is still effective, but now it is transparently strategic. He performs fear for Livesey, warmth for Jim, authority for the pirates, and compliance for the victors, revealing a fragmented but highly skilled improvisational self.",
+          "key_moments": [
+            "He calls Jim his 'last card'",
+            "He uses trembling supplication with the doctor",
+            "He survives the treasure's loss by instantly adopting obedience",
+            "He escapes with loot rather than maintaining a stable public identity"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver never becomes authentic in a moral sense, but his mode of self-presentation changes: from apparently effortless social mastery to visibly adaptive, situation-specific performance under pressure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "fear-control",
+      "axis_name": "From hidden confidence to managed fear",
+      "pole_start": "Initially Silver seems almost unshakably confident, with fear largely hidden beneath wit and composure.",
+      "pole_end": "By the end, fear is real and visible, but he has learned to manage it publicly and convert it into strategy rather than collapse.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Fear concealed by confidence",
+          "chapter_range": [
+            8,
+            14
+          ],
+          "position_description": "Silver's fear is mostly invisible. He remains calm under suspicion and uses confidence as a shield, only revealing pressure indirectly through increased control and violence.",
+          "key_moments": [
+            "Handles Black Dog without visible panic",
+            "Keeps his mask intact as the voyage tightens",
+            "Kills Tom when control is challenged"
+          ]
+        },
+        {
+          "phase": "Fear becomes explicit pressure",
+          "chapter_range": [
+            20,
+            32
+          ],
+          "position_description": "His fear becomes more legible: he is cornered by Smollett, threatened by mutinous crew, shaken by eerie voices, and finally forced to bargain for survival. Yet he repeatedly recovers by rationalizing, bluffing, or shifting allegiance.",
+          "key_moments": [
+            "Smollett's refusal strips away his composure",
+            "He performs fear to the doctor as a tactic",
+            "The ghostly voices briefly unman him",
+            "The empty cache shocks him but does not break him"
+          ]
+        },
+        {
+          "phase": "Fear integrated into survival",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "Fear is no longer hidden, but it is controlled. Silver accepts defeat quickly, stays composed, and uses retreat and theft to preserve himself.",
+          "key_moments": [
+            "He abandons open ambition after the treasure is gone",
+            "He escapes with a stolen sack of coin"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's emotional life is not deeply introspective, but the summaries show a clear movement from concealed confidence to openly managed fear. He does not become brave in a moral sense; he becomes better at surviving fear."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Long John Silver",
+      "target_character": "Jim Hawkins",
+      "dimension_label": "predatory trust",
+      "axis_name": "From charming mentor to tactical ally-hostage bond",
+      "pole_start": "Silver begins by presenting himself as a warm, flattering, almost paternal companion to Jim, using friendliness to gain trust and shape the boy's loyalties.",
+      "pole_end": "He ends by treating Jim as a protected hostage, witness, and bargaining asset—still warm in tone, but now openly instrumental and survival-driven.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Charm and grooming",
+          "chapter_range": [
+            8,
+            13
+          ],
+          "position_description": "Silver cultivates Jim through humor, instruction, and special attention. The relationship is warm on the surface but clearly manipulative.",
+          "key_moments": [
+            "He escorts Jim and speaks to him familiarly",
+            "He continues to cultivate Jim while hiding his true loyalties",
+            "He calls to Jim as he escapes, keeping him psychologically close"
+          ]
+        },
+        {
+          "phase": "Instrumental dependence",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "Jim becomes more than a target of charm: Silver now needs him. He protects Jim as a witness and 'last card,' openly recognizing that the boy may save his life.",
+          "key_moments": [
+            "Silver seizes Jim in the stockade ambush",
+            "He flatters Jim as his 'last card'",
+            "He keeps Jim alive as leverage with Livesey"
+          ]
+        },
+        {
+          "phase": "Survival alliance",
+          "chapter_range": [
+            32,
+            34
+          ],
+          "position_description": "The bond becomes a tactical alliance under duress. Silver still manipulates Jim, but the relationship now includes real dependence: Jim is one of the few people Silver can use to survive the collapse of his own side.",
+          "key_moments": [
+            "Jim remains physically tethered to Silver during the treasure hunt",
+            "Silver passes Jim a pistol and keeps him close",
+            "Silver escapes while preserving whatever advantage Jim's testimony may provide"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Silver's most important relationship arc. It moves from seductive manipulation to pragmatic interdependence, without ever becoming genuinely trusting or affectionate."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Long John Silver",
+      "target_character": "Captain Smollett",
+      "dimension_label": "respect-antagonism",
+      "axis_name": "From exploitable obstacle to formidable opponent",
+      "pole_start": "Silver initially treats Smollett as a competent but manageable obstacle, someone whose seamanship can be used while his authority is still hidden.",
+      "pole_end": "He ends by recognizing Smollett as a disciplined victor whose authority must be avoided or accommodated, not challenged directly.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Managed obstacle",
+          "chapter_range": [
+            9,
+            13
+          ],
+          "position_description": "Smollett is a serious but still exploitable obstacle. Silver respects his competence while assuming he can be outmaneuvered.",
+          "key_moments": [
+            "Silver registers Smollett's precautions",
+            "He continues to use the captain's seamanship for the voyage"
+          ]
+        },
+        {
+          "phase": "Open confrontation",
+          "chapter_range": [
+            18,
+            20
+          ],
+          "position_description": "Smollett becomes the clearest external check on Silver's power. Their meeting under truce reveals Silver's frustration and growing respect for the captain's discipline.",
+          "key_moments": [
+            "Silver uses a flag of truce",
+            "Smollett refuses his terms and counters his threats",
+            "Silver's composure is visibly strained"
+          ]
+        },
+        {
+          "phase": "Defeat and accommodation",
+          "chapter_range": [
+            28,
+            34
+          ],
+          "position_description": "After the mutiny collapses, Smollett becomes part of the winning order. Silver no longer tries to dominate him; he becomes deferential and avoids direct conflict.",
+          "key_moments": [
+            "Silver adopts a compliant posture after the treasure is found empty",
+            "He survives by aligning with the victors rather than opposing Smollett"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's relation to Smollett shifts from strategic underestimation to grudging respect and finally to tactical submission. Smollett is one of the few characters who consistently forces Silver out of pure dominance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Long John Silver",
+      "target_character": "Dr. Livesey",
+      "dimension_label": "instrumental respect",
+      "axis_name": "From polished distance to bargaining dependence",
+      "pole_start": "Silver initially treats Livesey as a respectable gentleman whose approval matters only as part of his public mask.",
+      "pole_end": "He ends by treating Livesey as a powerful negotiator whose mercy and pragmatism he must actively court.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respectful masking",
+          "chapter_range": [
+            7,
+            12
+          ],
+          "position_description": "Livesey is a dangerous but socially valuable observer. Silver keeps him at a distance while performing civility.",
+          "key_moments": [
+            "Livesey is part of the respectable audience for Silver's mask",
+            "Silver remains polite and controlled around him"
+          ]
+        },
+        {
+          "phase": "Strategic caution",
+          "chapter_range": [
+            18,
+            20
+          ],
+          "position_description": "Livesey is now clearly part of the opposition. Silver respects his intelligence and treats him as someone to bargain with carefully rather than deceive easily.",
+          "key_moments": [
+            "Silver's truce and negotiation are aimed at the doctor's side as well as Smollett's"
+          ]
+        },
+        {
+          "phase": "Dependence and supplication",
+          "chapter_range": [
+            28,
+            33
+          ],
+          "position_description": "Silver increasingly needs Livesey's mercy. He performs fear, asks for survival, and accepts that the doctor controls the situation.",
+          "key_moments": [
+            "Silver flatters and pleads with Livesey",
+            "He thanks the doctor after the treasure is found empty",
+            "He shifts into a compliant posture within the doctor's party"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey moves from being part of Silver's respectable audience to being one of the few people whose judgment can save him. The relationship becomes less about deception and more about negotiated survival."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Long John Silver",
+      "target_character": "The pirate crew",
+      "dimension_label": "command-collapse",
+      "axis_name": "From charismatic captaincy to brittle control",
+      "pole_start": "Silver begins as a charismatic leader who can recruit, soothe, and direct rough men through charm and authority.",
+      "pole_end": "He ends with a broken, unreliable crew that he can no longer truly command, only manage or abandon.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Charismatic command",
+          "chapter_range": [
+            7,
+            14
+          ],
+          "position_description": "Silver's authority is strong. He recruits, disciplines, and coordinates the pirates through social intelligence and fear.",
+          "key_moments": [
+            "He is credited with improving the crew",
+            "He recruits Dick and disciplines others",
+            "He kills Tom to enforce obedience"
+          ]
+        },
+        {
+          "phase": "Strained management",
+          "chapter_range": [
+            18,
+            29
+          ],
+          "position_description": "The crew becomes increasingly unstable, drunken, and unreliable. Silver still leads them, but now through constant management, intimidation, and improvisation.",
+          "key_moments": [
+            "He tries to keep the crew supplied and disciplined",
+            "He faces mutiny from within his own side",
+            "He must bluff and reassert authority repeatedly"
+          ]
+        },
+        {
+          "phase": "Broken utility",
+          "chapter_range": [
+            32,
+            34
+          ],
+          "position_description": "The crew is no longer a stable base of power. Silver's connection to them is reduced to survival logistics and eventual abandonment.",
+          "key_moments": [
+            "The crew is frightened by the eerie voices",
+            "The treasure hunt collapses",
+            "Silver escapes rather than remaining with them"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's leadership over the pirates is one of the novel's clearest relational declines: from effective charisma to brittle, fear-based management and finally to abandonment."
+    }
+  ]
+}

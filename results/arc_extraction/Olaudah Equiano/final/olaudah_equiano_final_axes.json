@@ -1,0 +1,660 @@
+{
+  "character": "Olaudah Equiano",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational dependence to self-directed agency",
+          "set_b_axis": "From constrained witness to self-directed moral agent",
+          "overlap_description": "Both describe a movement from dependence and limited power toward stronger self-direction, with agency increasingly expressed through labor, testimony, and moral self-assertion."
+        },
+        {
+          "set_a_axis": "From trusting the world to radical caution",
+          "set_b_axis": "From passive trust to providential self-interpretation",
+          "overlap_description": "Both track a change in how Equiano interprets the world and its risks: Set A emphasizes loss of trust and caution, while Set B emphasizes a more active, strategic reading of events under Providence."
+        },
+        {
+          "set_a_axis": "From displaced captive to morally legible Christian subject",
+          "set_b_axis": "From wounded uncertainty to morally confident testimony",
+          "overlap_description": "Both center identity and authority formation: Equiano becomes more self-legible, credible, and publicly authoritative through literacy, Christianity, conduct, and testimony."
+        },
+        {
+          "set_a_axis": "From bewildered suffering to ethical condemnation of slavery",
+          "set_b_axis": "From wounded indignation to resilient moral energy",
+          "overlap_description": "Both describe emotional and moral maturation from raw suffering into more articulate, purposeful anti-slavery judgment and advocacy."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From trusting the world to radical caution",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From passive trust to providential self-interpretation",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From hopeful attachment to betrayal by owner",
+          "set_b_axis": "From hopeful dependence to grateful trust",
+          "overlap_description": "Both concern a patron-owner relationship that shapes Equiano's prospects; Set A stresses betrayal in Pascal's sale, while Set B isolates the later positive relation with King as a distinct trust arc."
+        },
+        {
+          "set_a_axis": "From presumed passage to violent oppression",
+          "set_b_axis": "From vulnerable subordination to open moral contempt",
+          "overlap_description": "Both capture the Hughes encounter as a sharp negative turn into coercion, humiliation, and moral condemnation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From secure sibling bond to enduring bereavement",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From companionship and instruction to valued friendship",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From guarded dependence to hopeful patronage",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From general caution to warm moral alliance",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From labor dependence to exploitative conflict",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From trusting attachment to constrained gratitude",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency Communion",
+      "axis_name": "From constrained dependence to self-directed moral agency",
+      "pole_start": "Equiano begins as a dependent, vulnerable subject whose safety, recognition, and prospects are controlled by others, and whose own voice is limited by captivity and deference.",
+      "pole_end": "He ends as a self-possessed moral agent who uses labor, literacy, testimony, and public advocacy to shape his fate, while still valuing faith, fellowship, and human bonds.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Childhood dependence and humiliation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He is violently displaced into total dependence, with his body, name, and future controlled by captors and buyers.",
+          "key_moments": [
+            "Kidnapped and separated from family",
+            "Sold through multiple hands",
+            "Renamed by owners"
+          ]
+        },
+        {
+          "phase": "Learning, labor, and conditional selfhood",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He begins to build agency through language, discipline, commerce, and selective trust in patrons, while still living under coercive structures.",
+          "key_moments": [
+            "Learns English and adapts socially",
+            "Works under kinder patrons and sailors",
+            "Starts imagining earning money and freedom"
+          ]
+        },
+        {
+          "phase": "Self-directed freedom consciousness",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "He increasingly acts as an interpreter of his own life and as an agent pursuing manumission, justice, and public reform.",
+          "key_moments": [
+            "Purchases his freedom",
+            "Protests coercion as a free man",
+            "Uses testimony and petitions to advance abolition"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that Equiano moves from dependence toward agency. The merged reading emphasizes that this agency is not solitary self-assertion but a morally grounded, relationally aware freedom practiced through labor, faith, and public witness."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Trust Strategy",
+      "axis_name": "From shattered trust to selective, providential caution",
+      "pole_start": "Equiano begins with an expectation that human bonds and social order can be stable and protective, even if he already relies on Providence and moral appeal.",
+      "pole_end": "He ends with a cautious, selective trust that combines skepticism about power with strategic confidence in Providence, worthy individuals, and practical planning.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Initial trust broken",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Kidnapping, repeated sale, and separation teach him that safety can vanish without warning.",
+          "key_moments": [
+            "Abduction from home",
+            "Separation from his sister",
+            "Exposure to slave-ship terror"
+          ]
+        },
+        {
+          "phase": "Conditional trust and moral discernment",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He learns to distinguish between humane individuals and oppressive systems, trusting some patrons while remaining wary of ownership and betrayal.",
+          "key_moments": [
+            "Experiences kindness from select owners and allies",
+            "Recognizes hypocrisy in white-controlled institutions",
+            "Develops a more careful reading of people and power"
+          ]
+        },
+        {
+          "phase": "Strategic caution under pressure",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Hughes's violence confirms the need for caution, but Equiano does not collapse into cynicism; instead, he pairs distrust with purposeful action and providential interpretation.",
+          "key_moments": [
+            "Violent seizure and threats by Hughes",
+            "Assertion of freedom ignored",
+            "Continued reliance on discernment and divine guidance"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A's caution arc and Set B's providential strategy arc are best merged as a mixed trajectory: trust is broken, but not abolished. Equiano becomes more selective, more skeptical of systems, and more strategic in whom and what he trusts."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Identity Authority",
+      "axis_name": "From displaced captive to credible Christian witness",
+      "pole_start": "Equiano begins as a socially erased captive whose identity is fragmented by kidnapping, renaming, and the denial of personhood, and who fears his story may not be believed.",
+      "pole_end": "He ends as a morally and publicly credible witness whose literacy, Christianity, conduct, and suffering authorize him to speak for himself and others.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Identity destruction and self-doubt",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His original identity is violently stripped away, and he is made to feel both socially invisible and narratively uncertain.",
+          "key_moments": [
+            "Separated from kin and home",
+            "Renamed by owners",
+            "Questions whether his life merits attention"
+          ]
+        },
+        {
+          "phase": "Reconstruction through faith and conduct",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He rebuilds identity through language, religion, labor, and reputation, becoming legible as a Christian subject and competent actor.",
+          "key_moments": [
+            "Learns English",
+            "Baptism and Christian self-understanding",
+            "Earns trust through honesty and diligence"
+          ]
+        },
+        {
+          "phase": "Testimonial authority",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "His personal suffering becomes the basis for public authority: he speaks not only as a victim but as a credible interpreter and advocate.",
+          "key_moments": [
+            "Purchases freedom and gains social standing",
+            "Frames his experience as anti-slavery evidence",
+            "Uses petitions and testimony to press reform"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets converge on identity becoming more stable, legible, and authoritative. The merged axis highlights that Equiano's authority is built from both inward conviction and outward proof."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Moral Energy",
+      "axis_name": "From wounded indignation to disciplined anti-slavery resolve",
+      "pole_start": "Equiano begins with fear, grief, anger, and moral outrage at slavery, racism, and humiliation.",
+      "pole_end": "He ends with resilient, disciplined moral energy directed into advocacy, petitioning, and sustained anti-slavery argument.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Pain and protest",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His emotional life is marked by terror and indignation at the violence around him.",
+          "key_moments": [
+            "Slave-ship terror",
+            "Separation and sale",
+            "Condemnation of slavery and prejudice"
+          ]
+        },
+        {
+          "phase": "Hope under pressure",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Hope grows as he experiences progress, but indignation remains active in response to hypocrisy and injustice.",
+          "key_moments": [
+            "Earns money toward freedom",
+            "Experiences relief at manumission",
+            "Hardens distrust of exploitative society"
+          ]
+        },
+        {
+          "phase": "Resolved advocacy",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "His anger is transformed into sustained political purpose and moral argument rather than mere reaction.",
+          "key_moments": [
+            "Condemns arbitrary violence and legal exclusion",
+            "Uses testimony as reformist intervention",
+            "Links justice to broader public benefit"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged reading preserves Set A's emphasis on ethical condemnation and Set B's emphasis on productive resolve. Equiano's indignation does not disappear; it becomes organized into public moral action."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Equiano's sister",
+      "dimension_label": "Attachment Loss",
+      "axis_name": "From intimate sibling bond to enduring bereavement",
+      "pole_start": "A close sibling attachment rooted in shared home, mutual dependence, and childhood intimacy.",
+      "pole_end": "A permanently broken bond marked by grief, longing, and unresolved loss.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Violent separation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Kidnapping fractures the sibling bond immediately and introduces terror and loss.",
+          "key_moments": [
+            "Kidnapped with his sister",
+            "Separated during the journey"
+          ]
+        },
+        {
+          "phase": "Brief reunion, final rupture",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "A short reunion briefly restores intimacy, but the next-day separation makes the loss final.",
+          "key_moments": [
+            "Brief reunion inland",
+            "Separated forever the next morning"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets strongly support this axis. The sibling relationship is one of irreversible loss and remains a defining emotional wound throughout the narrative."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Michael Henry Pascal",
+      "dimension_label": "Trust Betrayal",
+      "axis_name": "From hopeful attachment to betrayed dependence",
+      "pole_start": "A dependent relationship that becomes affectionate and hopeful under Pascal's relative kindness.",
+      "pole_end": "A relationship experienced as coercive ownership and profound betrayal through sale and dispossession.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Kindness and attachment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pascal's relative kindness allows trust, learning, and aspiration to grow.",
+          "key_moments": [
+            "Pascal buys and renames Equiano",
+            "Learns English in Pascal's household",
+            "Imagines advancement and possible freedom"
+          ]
+        },
+        {
+          "phase": "Collapse into betrayal",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "The sudden sale destroys trust and reveals the instability of benevolent ownership.",
+          "key_moments": [
+            "Belief that freedom may be near",
+            "Seized and sold to Captain Doran"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A's betrayal emphasis and Set B's broader dependence/trust framing combine into a strong disillusionment arc: Pascal is both a source of growth and a painful reminder that kindness within slavery remains precarious."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Captain Thomas Farmer",
+      "dimension_label": "Protection Opportunity",
+      "axis_name": "From guarded dependence to hopeful patronage",
+      "pole_start": "A dependent laborer whose prospects are constrained by slavery but who can still recognize the possibility of fairer treatment.",
+      "pole_end": "A person who experiences a patron's protection as a real opening toward skill, earnings, and possible escape.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Opportunity under protection",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Farmer's favor gives Equiano better treatment and a plausible path toward autonomy through shipboard work.",
+          "key_moments": [
+            "Allowed to sail as a sailor under Captain Thomas Farmer",
+            "Better food and treatment",
+            "First real sense of earning money and escape"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets support Farmer as a brief but important positive pivot: a relationship that expands Equiano's practical horizons without fully resolving the larger system of bondage."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Hughes",
+      "dimension_label": "Freedom Hostility",
+      "axis_name": "From presumed lawful passage to violent oppression",
+      "pole_start": "A relationship initially framed by expectation of lawful transport and the possibility of respectful treatment.",
+      "pole_end": "A relationship of direct antagonism, coercion, bodily terror, and moral contempt.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Expectation of lawful movement",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Equiano believes he has secured passage and expects his status to be respected.",
+          "key_moments": [
+            "Securing passage to Jamaica"
+          ]
+        },
+        {
+          "phase": "Violent domination",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Hughes seizes, binds, suspends, and threatens him, turning the encounter into a brutal assertion of racial power.",
+          "key_moments": [
+            "Violently seized by Hughes",
+            "Tied up and suspended by ropes",
+            "Threatened with a musket when he protests freedom"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge on Hughes as a crystallizing figure of coercive racial power. The encounter destroys any assumption that free status or protest will be honored."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Robert King",
+      "dimension_label": "Dependence Trust",
+      "axis_name": "From hopeful dependence to grateful trust",
+      "pole_start": "He begins dependent on King's promise and uncertain whether that promise will be honored.",
+      "pole_end": "He ends in gratitude after manumission, with King functioning as a benefactor whose action confirms the possibility of just treatment within a hostile system.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Awaiting fulfillment",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Equiano is respectful and dependent, hoping King will honor his promise and allow him to purchase freedom.",
+          "key_moments": [
+            "Works toward earning enough money for manumission",
+            "Relies on King's willingness to grant freedom"
+          ]
+        },
+        {
+          "phase": "Manumission and gratitude",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Once freedom is granted, dependence gives way to gratitude and a stronger sense that trust can be justified in specific individuals even within an unjust society.",
+          "key_moments": [
+            "Purchases his freedom",
+            "Experiences relief and joy at manumission"
+          ]
+        }
+      ],
+      "evidence_summary": "This is one of the clearest positive relational arcs in the psychological summary. It is retained because it captures a distinct, high-confidence benefactor relationship not represented in Set A."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Olaudah Equiano",
+      "target_character": "White West Indian society",
+      "dimension_label": "Trust Contempt",
+      "axis_name": "From wary dependence to moral rejection",
+      "pole_start": "He begins with practical dependence on white-controlled systems alongside an emerging suspicion of prejudice and hypocrisy.",
+      "pole_end": "He ends in deep distrust and moral rejection of the society as a whole, seeing it as violent, hypocritical, and structurally unjust toward Black people.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early suspicion",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He critiques European prejudice while still appealing to fairness and recognition.",
+          "key_moments": [
+            "Argues that color does not determine worth",
+            "Critiques slavery and prejudice"
+          ]
+        },
+        {
+          "phase": "Hardening distrust",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "His distrust intensifies as he sees laws, commerce, and religion used hypocritically against Black people.",
+          "key_moments": [
+            "Observes hypocrisy in white society",
+            "Sees legal and commercial systems as corrupt"
+          ]
+        },
+        {
+          "phase": "Systemic condemnation",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "He now treats white West Indian society as a system of coercion and injustice rather than a collection of mixed individuals.",
+          "key_moments": [
+            "Experiences coercion and near-enslavement",
+            "Frames denial of wages and arbitrary violence as systemic corruption"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is retained because it captures a broad social-relational stance that complements the more specific patron and antagonist relationships."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Quakers / Friends",
+      "dimension_label": "Moral Alliance",
+      "axis_name": "From general caution to warm moral alliance",
+      "pole_start": "He begins with no special intimacy, but with a general need to evaluate whites carefully in a world shaped by exploitation.",
+      "pole_end": "He ends with warm admiration and trust, seeing Quakers as honest, fair, and morally aligned with the oppressed.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Emerging distinction",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Quakers are not yet a fully developed relational focus, but they fit into his broader search for morally serious allies among Europeans.",
+          "key_moments": [
+            "Recognizes some Europeans act justly"
+          ]
+        },
+        {
+          "phase": "Confirmed alliance",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "His admiration becomes explicit and stable as he experiences Quakers as trustworthy and benevolent, especially in contrast to other whites.",
+          "key_moments": [
+            "Describes Quakers as honest and fair",
+            "Experiences them as allies in the cause of the oppressed"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is retained as a meaningful positive counterpoint to his broader distrust of slaveholding society."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_08",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Captain Baker",
+      "dimension_label": "Labor Conflict",
+      "axis_name": "From labor dependence to exploitative conflict",
+      "pole_start": "He initially occupies a dependent labor position in which fair treatment is possible but not secure.",
+      "pole_end": "He ends in clear antagonism, viewing Baker as deceitful, exploitative, and unjust for withholding wages and threatening him.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Working under authority",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Equiano is in a subordinate position where his labor and wages are controlled by Baker.",
+          "key_moments": [
+            "Works in a context where wages are at stake",
+            "Seeks fair payment and legal recognition"
+          ]
+        },
+        {
+          "phase": "Betrayal and resistance",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Baker's refusal to pay and threatening behavior turn the relationship into a site of exploitation and moral outrage.",
+          "key_moments": [
+            "Baker withholds wages",
+            "Equiano experiences the act as violent injustice"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is retained because it captures a distinct exploitative conflict not represented in Set A."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_09",
+      "source_character": "Olaudah Equiano",
+      "target_character": "Dr. Irving",
+      "dimension_label": "Gratitude Limits",
+      "axis_name": "From trusting attachment to constrained gratitude",
+      "pole_start": "He begins with deep trust, affection, and high esteem for Irving as a humane patron and friend.",
+      "pole_end": "He ends still grateful and affectionate, but with the disappointment that Irving cannot fully protect him from the larger forces of coercion and injustice.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Warm attachment",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Equiano experiences Irving as a trusted and beloved ally.",
+          "key_moments": [
+            "Expresses deep gratitude and affection",
+            "Recognizes Irving as humane and supportive"
+          ]
+        },
+        {
+          "phase": "Limits of protection",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "His gratitude remains, but the relationship is marked by the realization that even a good patron cannot fully shield him from systemic oppression.",
+          "key_moments": [
+            "Faces coercion and abuse despite Irving's presence",
+            "Retains affection while acknowledging limits"
+          ]
+        }
+      ],
+      "evidence_summary": "This subtler arc is preserved because it adds nuance to Equiano's relational world: benevolence matters, but it cannot fully overcome structural violence."
+    }
+  ]
+}

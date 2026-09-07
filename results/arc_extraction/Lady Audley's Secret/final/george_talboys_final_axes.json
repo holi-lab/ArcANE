@@ -1,0 +1,446 @@
+{
+  "character": "George Talboys",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational dependence to self-erasing withdrawal and back toward restored interdependence",
+          "set_b_axis": "From relational dependence to restored social belonging",
+          "overlap_description": "Both describe George as initially defined by communion and reunion, then shattered into withdrawal by grief, and finally reconstituted in a healthier relational form."
+        },
+        {
+          "set_a_axis": "From confident domestic hope to fatalistic despair and partial restoration",
+          "set_b_axis": "From buoyant expectation to tempered acceptance",
+          "overlap_description": "Both track the emotional fall from hopeful anticipation of reunion into grief or fatalism, followed by a late softening into continued life."
+        },
+        {
+          "set_a_axis": "From faithful husband to guilt-haunted self-accuser",
+          "set_b_axis": "From reckless innocence to wounded self-knowledge",
+          "overlap_description": "Both focus on George's self-evaluation after Helen's presumed death: he recognizes his recklessness and carries guilt, though B frames it more as self-knowledge than self-blame."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From open tenderness to defensive suppression and back toward calmer candor",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From acute collapse to managed melancholy",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From old friendship to desperate dependence and restored trust",
+          "set_b_axis": "From grateful friendship to enduring emotional anchor",
+          "overlap_description": "Both describe Robert Audley as moving from friend/helper to George's central emotional support and eventual point of return."
+        },
+        {
+          "set_a_axis": "From devoted husband to mourning widower and finally to surviving attachment",
+          "set_b_axis": "From idealized marital devotion to irrevocable wounded distance",
+          "overlap_description": "Both capture the transformation of George's bond with Helen from loving marital attachment into grief, then into a permanently altered relationship shaped by loss and betrayal."
+        },
+        {
+          "set_a_axis": "From unknowingly affectionate memory to fatal antagonism",
+          "set_b_axis": "From idealized marital devotion to irrevocable wounded distance",
+          "overlap_description": "These correspond in that both ultimately treat the Helen/Lady Audley relation as one of betrayal and emotional rupture, though A isolates the antagonistic Lady Audley phase more explicitly."
+        },
+        {
+          "set_a_axis": "From paternal attachment to silent farewell and mediated legacy",
+          "set_b_axis": "From longing fatherhood to partial, protective distance",
+          "overlap_description": "Both see George's fatherhood as surviving through absence, longing, and delegated care rather than direct domestic presence."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From unknowingly affectionate memory to fatal antagonism",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From polite contact to wary distrust",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From relational dependence to restored social belonging",
+      "pole_start": "George begins strongly communion-oriented: emotionally fused with Helen, oriented toward reunion, family restoration, and mutual attachment rather than self-assertion.",
+      "pole_end": "He ends still communion-oriented, but in a healthier form: no longer defined by loss or self-erasure, he is reintegrated into stable friendship, family, and domestic companionship.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hopeful relational fusion",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "George's identity is organized around returning home and restoring the marriage; his motivation is love, belonging, and reunion rather than autonomy.",
+          "key_moments": [
+            "Eager voyage home",
+            "Anxious fear after Miss Morley's warning",
+            "Arrival in England and collapse of reunion hopes"
+          ]
+        },
+        {
+          "phase": "Grief-driven withdrawal",
+          "chapter_range": [
+            5,
+            16
+          ],
+          "position_description": "After Helen's presumed death, communion becomes painful. George turns inward, choosing silence, secrecy, and exile while still longing for connection.",
+          "key_moments": [
+            "Confirms Helen's death and mourns at Ventnor",
+            "Orders memorial inscription",
+            "Decides England is unbearable",
+            "Secretly visits his son before leaving"
+          ]
+        },
+        {
+          "phase": "Hidden survival and re-entry",
+          "chapter_range": [
+            37,
+            41
+          ],
+          "position_description": "George re-emerges from concealment and re-enters relationship in a healthier form, no longer self-erasing but capable of companionship and domestic belonging.",
+          "key_moments": [
+            "Letters reveal his wish to disappear after betrayal",
+            "He is found alive and reunites with Robert",
+            "He settles into a cottage household with family and companions"
+          ]
+        }
+      ],
+      "evidence_summary": "George's deepest motivational pattern is communion: first as marital devotion, then as grief-stricken withdrawal from failed communion, and finally as restored, non-destructive belonging in friendship and family."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Hope-Fatalism",
+      "axis_name": "From buoyant expectation to tempered acceptance",
+      "pole_start": "George begins with confident hope that reunion will restore his life and that love will be rewarded by domestic continuity.",
+      "pole_end": "He ends with a quieter acceptance that the past cannot be restored, but life can continue in altered form.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Confident expectation",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "George assumes reunion is imminent and emotionally secure, treating the voyage home as the prelude to restoration.",
+          "key_moments": [
+            "Anticipates seeing Helen again",
+            "Treats Miss Morley's warning as a temporary shock"
+          ]
+        },
+        {
+          "phase": "Catastrophic loss and despair",
+          "chapter_range": [
+            4,
+            12
+          ],
+          "position_description": "The death notice, Ventnor revelations, and grief shatter optimism. He comes to see his life as broken and his hopes as irrecoverable.",
+          "key_moments": [
+            "Reads the death notice",
+            "Confirms the loss at Ventnor and the grave",
+            "Frames his suffering as permanent",
+            "Plans exile and disappearance"
+          ]
+        },
+        {
+          "phase": "Partial reorientation",
+          "chapter_range": [
+            39,
+            41
+          ],
+          "position_description": "After his survival and reunion with Robert, George no longer lives in pure fatalism. He remains wounded, but the narrative shows him capable of consolation and future life.",
+          "key_moments": [
+            "Last letters show heartbreak and a wish to vanish",
+            "Reunion with Robert restores emotional vitality",
+            "Final domestic settlement suggests the past can fade"
+          ]
+        }
+      ],
+      "evidence_summary": "George moves from hopeful certainty to grief-saturated fatalism, then to softened acceptance that does not erase loss but makes continued life possible."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Trust",
+      "axis_name": "From reckless innocence to wounded self-knowledge",
+      "pole_start": "George begins with little self-scrutiny: impulsive, optimistic, and assuming his actions need not be carefully managed.",
+      "pole_end": "He ends with a more sober self-understanding: he knows he has been reckless, emotionally vulnerable, and in need of others' support.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unreflective confidence",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "George initially trusts his assumptions about marriage and return, only belatedly recognizing that his silence may have been a serious mistake.",
+          "key_moments": [
+            "Calls himself a blind, reckless fool",
+            "Shows surprise when the possibility of change is raised"
+          ]
+        },
+        {
+          "phase": "Defensive self-protection",
+          "chapter_range": [
+            5,
+            16
+          ],
+          "position_description": "Grief forces him into defensive self-justification and avoidance. He insists he did not desert Helen, but he does not yet fully understand his own emotional evasions.",
+          "key_moments": [
+            "Defends himself against desertion accusations",
+            "Plans escape rather than sustained confrontation"
+          ]
+        },
+        {
+          "phase": "More integrated self-knowledge",
+          "chapter_range": [
+            39,
+            41
+          ],
+          "position_description": "In the final movement, George appears more self-accepting. He recognizes his loneliness and need for companionship rather than pretending to be self-sufficient.",
+          "key_moments": [
+            "Letters show awareness of emotional collapse",
+            "Reunion with Robert reveals gratitude without shame",
+            "Final domestic life suggests acceptance of his changed self"
+          ]
+        }
+      ],
+      "evidence_summary": "George's self-understanding deepens from impulsive confidence to defensive awareness and finally to a modest, humane recognition of his own fragility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Grief Regulation",
+      "axis_name": "From acute collapse to managed melancholy",
+      "pole_start": "George begins with sudden emotional collapse when loss is revealed.",
+      "pole_end": "He ends with grief still present but regulated enough to coexist with ordinary life.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Shock and breakdown",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "George is overwhelmed by the death notice and then by confirmed mourning, moving through tears, numbness, and ritualized grief.",
+          "key_moments": [
+            "Reads death notice",
+            "Travels to Ventnor and the grave",
+            "Orders memorial inscription"
+          ]
+        },
+        {
+          "phase": "Chronic melancholy",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "His grief becomes habitual and exhausting. He withdraws, becomes irritable, and seeks movement and distance as a way to survive emotionally.",
+          "key_moments": [
+            "Says he is broken for civilized life",
+            "Shows irritability during the storm",
+            "Secretly leaves England"
+          ]
+        },
+        {
+          "phase": "Residual sorrow within stability",
+          "chapter_range": [
+            40,
+            41
+          ],
+          "position_description": "By the end, grief has not vanished, but it no longer dominates every action. It is absorbed into a broader emotional life of companionship and domestic calm.",
+          "key_moments": [
+            "Reunion with Robert is emotionally restorative",
+            "Final cottage life suggests settled consolation"
+          ]
+        }
+      ],
+      "evidence_summary": "A major part of George's arc is the transformation of grief from catastrophic rupture into a bearable, enduring sorrow."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "George Talboys",
+      "target_character": "Robert Audley",
+      "dimension_label": "Trust-Dependence",
+      "axis_name": "From friendship to enduring emotional anchor",
+      "pole_start": "George begins with warm friendship and practical trust in Robert as a companion and helper.",
+      "pole_end": "He ends with Robert as a central, stabilizing intimacy: rescuer, confidant, and the person who makes continued life feel possible.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Friendly trust",
+          "chapter_range": [
+            4,
+            6
+          ],
+          "position_description": "Robert is first a companion in crisis, then a practical support during mourning and planning.",
+          "key_moments": [
+            "Robert accompanies him after the death notice",
+            "George accepts Robert's guidance and help"
+          ]
+        },
+        {
+          "phase": "Strained withdrawal",
+          "chapter_range": [
+            9,
+            16
+          ],
+          "position_description": "George becomes secretive and evasive, but the bond remains intact beneath silence.",
+          "key_moments": [
+            "Defensive reaction to teasing",
+            "Unexplained departure",
+            "Robert's anxious search"
+          ]
+        },
+        {
+          "phase": "Reunion and restoration",
+          "chapter_range": [
+            39,
+            41
+          ],
+          "position_description": "George's return to life is marked by gratitude and relief at Robert's presence, making Robert the emotional home he can return to.",
+          "key_moments": [
+            "Letters addressed to Robert with affection",
+            "Reunion after presumed death",
+            "Final domestic settlement with Robert in the household"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert is the one relationship that consistently moves toward greater intimacy and importance, becoming George's strongest source of trust and consolation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "George Talboys",
+      "target_character": "Helen Talboys / Lady Audley",
+      "dimension_label": "Love-Betrayal",
+      "axis_name": "From idealized marital devotion to irrevocable wounded distance",
+      "pole_start": "George begins in intense love, trust, and idealization, seeing Helen as central to his identity and morally binding future.",
+      "pole_end": "He ends in betrayal-marked distance: he still remembers her, but as the source of ruin, heartbreak, and final separation rather than as a living partner.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Idealizing attachment",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Helen is the emotional center of George's return to England; he assumes reunion will restore the marriage and his life.",
+          "key_moments": [
+            "Hopeful voyage home",
+            "Anxious prayer after Miss Morley's warning"
+          ]
+        },
+        {
+          "phase": "Bereavement and memorialization",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "After learning of Helen's supposed death, his attachment becomes mourning. He preserves her memory through grave visitation and inscription, not living reciprocity.",
+          "key_moments": [
+            "Confirms death at Ventnor",
+            "Visits grave and orders headstone"
+          ]
+        },
+        {
+          "phase": "Betrayal and severance",
+          "chapter_range": [
+            34,
+            39
+          ],
+          "position_description": "The revelation of her identity and guilt transforms the relationship into one of betrayal. George's last known letters show him emotionally severing himself from her while still offering forgiveness.",
+          "key_moments": [
+            "Helen's confession of murder",
+            "Luke Marks's testimony about George's last letters",
+            "George's farewell and wish to vanish"
+          ]
+        }
+      ],
+      "evidence_summary": "This is George's most important relational arc: from loving husband to bereaved mourner to betrayed victim. The relationship ends in moral and emotional rupture."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "George Talboys",
+      "target_character": "Little George / Little Georgey",
+      "dimension_label": "Paternal Presence",
+      "axis_name": "From longing fatherhood to integrated protective distance",
+      "pole_start": "George begins with strong paternal love and desire for reunion, imagining a restored family life.",
+      "pole_end": "He ends with affectionate, stable paternal feeling that is no longer desperate or possessive, but integrated into a broader family arrangement.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Longing and responsibility",
+          "chapter_range": [
+            4,
+            7
+          ],
+          "position_description": "George wants to see and protect his son, but grief and uncertainty make him feel unfit to claim full fatherhood.",
+          "key_moments": [
+            "Wants to know his son is safe",
+            "Arranges for the child's welfare",
+            "Secretly visits the sleeping child before leaving"
+          ]
+        },
+        {
+          "phase": "Distance and disappearance",
+          "chapter_range": [
+            10,
+            20
+          ],
+          "position_description": "His paternal bond persists, but only as absence and hidden concern. He leaves the child behind while still caring from afar.",
+          "key_moments": [
+            "Secret departure from England",
+            "Child remains central in others' care"
+          ]
+        },
+        {
+          "phase": "Restored familial affection",
+          "chapter_range": [
+            40,
+            41
+          ],
+          "position_description": "By the end, paternal feeling is no longer shadowed by panic. It becomes part of a larger domestic peace, with children symbolizing continuity and healing.",
+          "key_moments": [
+            "Reunion with Robert and family circle",
+            "Final domestic stability"
+          ]
+        }
+      ],
+      "evidence_summary": "George's relationship to his child evolves from anguished longing into a quieter, more sustainable paternal affection within a broader family life."
+    }
+  ]
+}

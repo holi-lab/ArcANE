@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-09-05",
+  "collection_url": "https://huggingface.co/collections/holi-lab/arcane",
+  "datasets": [
+    {
+      "repo_id": "holi-lab/ArcANE-Data",
+      "revision": "e86e5630a32037e1605bca533f822401076f0354",
+      "novel_count": 10,
+      "excluded_training_novels": ["East Lynne", "The Underdogs"],
+      "configs": {
+        "sft": {"train": 20560, "test": 2285},
+        "dpo": {"train": 12746, "test": 375},
+        "rl": {"train": 2513, "test": 678}
+      },
+      "files": {
+        "sft/train.parquet": {
+          "size_bytes": 105287882,
+          "sha256": "25db85262506dfff610e9cf61b5a55f0b4e90369a3c6e9302268f0b2280c55b3"
+        },
+        "sft/test.parquet": {
+          "size_bytes": 11961396,
+          "sha256": "b3e13048292f3a1b5e16a5dd003ed2fd89bb0804361b5c86d9d4c4cd06b9268c"
+        },
+        "dpo/train.parquet": {
+          "size_bytes": 19614858,
+          "sha256": "862e5732151b9adf892948f1b4b97657571e5989c4782a7e9785ab7e7f90416e"
+        },
+        "dpo/test.parquet": {
+          "size_bytes": 1453732,
+          "sha256": "3ca76bd67c5c73d235f523c2e7194e35ef803228fcad8bb0078356819afd613d"
+        },
+        "rl/train.parquet": {
+          "size_bytes": 26048779,
+          "sha256": "ad78b3687bc24fdd313f6ba793030485c1f9feac4cf6620093a22b735e8910bf"
+        },
+        "rl/test.parquet": {
+          "size_bytes": 6292696,
+          "sha256": "224c2af46e50f991557e2bb7d0725e825fde852acc3b7f7e357aec90bf2500f3"
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "repo_id": "holi-lab/ArcANE-8B-SFT",
+      "revision": "3b21f160d130741634b07e4a18c79460e73a829f",
+      "format": "full",
+      "stage": "sft",
+      "base_model": "Qwen/Qwen3-8B",
+      "weight_shards": 4
+    },
+    {
+      "repo_id": "holi-lab/ArcANE-8B-DPO",
+      "revision": "67b9bea604bea65a5245928ed87103545814b4f7",
+      "format": "full",
+      "stage": "dpo",
+      "base_model": "holi-lab/ArcANE-8B-SFT",
+      "weight_shards": 4
+    },
+    {
+      "repo_id": "holi-lab/ArcANE-32B-SFT",
+      "revision": "21f6f98fae38b34f420d48a25a50d6e0e654d649",
+      "format": "merged_full",
+      "stage": "sft",
+      "base_model": "Qwen/Qwen3-32B",
+      "weight_shards": 14
+    },
+    {
+      "repo_id": "holi-lab/ArcANE-32B-DPO",
+      "revision": "9b1dc3d21e44692cf1b5edd0ab55af499696c059",
+      "format": "merged_full",
+      "stage": "dpo",
+      "base_model": "holi-lab/ArcANE-32B-SFT",
+      "weight_shards": 14
+    },
+    {
+      "repo_id": "holi-lab/ArcANE-32B-RLVR",
+      "revision": "bd731d129b2ce057d39a95370f5a27e0e7ad8974",
+      "format": "merged_full",
+      "stage": "rlvr",
+      "base_model": "holi-lab/ArcANE-32B-DPO",
+      "weight_shards": 14
+    }
+  ]
+}

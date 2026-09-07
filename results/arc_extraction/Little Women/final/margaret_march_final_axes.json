@@ -1,0 +1,540 @@
+{
+  "character": "Margaret March",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-conscious social striving to settled relational belonging",
+          "set_b_axis": "From self-assertive social aspiration to settled maternal communion",
+          "overlap_description": "Both describe Meg moving away from status-seeking, self-conscious social aspiration and toward a mature identity grounded in family belonging, care, and domestic life."
+        },
+        {
+          "set_a_axis": "From admiration-hungry vanity to chastened self-respect",
+          "set_b_axis": "From vanity and social comparison to chastened modesty",
+          "overlap_description": "Both track Meg’s early vulnerability to vanity, appearance, and admiration, and her later growth into modesty and a more secure sense of worth."
+        },
+        {
+          "set_a_axis": "From emotional impulsiveness to practiced self-command",
+          "set_b_axis": "From romantic domestic idealization to realistic household wisdom",
+          "overlap_description": "These overlap partially: both emphasize Meg’s maturation through experience, but A centers self-regulation while B centers learning realism about home and marriage."
+        },
+        {
+          "set_a_axis": "From longing for worldly distinction to contentment with ordinary happiness",
+          "set_b_axis": "From vanity and social comparison to chastened modesty",
+          "overlap_description": "Both include the movement from envy of wealth/status toward acceptance of modest domestic happiness, though A frames it as contentment and B as humility."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From emotional impulsiveness to practiced self-command",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From longing for worldly distinction to contentment with ordinary happiness",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From romantic domestic idealization to realistic household wisdom",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From sisterly friction to mature mutual regard",
+          "set_b_axis": "From corrective elder sister to steadier equal companion",
+          "overlap_description": "Both describe Meg and Jo moving from early friction and correction into a durable, affectionate adult bond with less hierarchy and more mutual respect."
+        },
+        {
+          "set_a_axis": "From receiving maternal correction to embodying Marmee’s values",
+          "set_b_axis": "From dutiful daughter to maternal co-steward",
+          "overlap_description": "Both capture Meg’s relationship to Mrs. March as one of moral inheritance: she begins as a guided daughter and ends by embodying Marmee’s domestic and ethical authority."
+        },
+        {
+          "set_a_axis": "From affectionate sisterhood to reverent care",
+          "set_b_axis": "From affectionate sisterhood to maternal tenderness",
+          "overlap_description": "Both show Meg’s bond with Beth deepening from warm affection into more protective, reverent tenderness, especially under the pressure of Beth’s illness and death."
+        },
+        {
+          "set_a_axis": "From shy esteem to reciprocal domestic partnership",
+          "set_b_axis": "From respectful admiration to committed marital intimacy",
+          "overlap_description": "Both describe Meg’s relationship with John Brooke as moving from cautious admiration into a stable, reciprocal marriage centered on trust, sacrifice, and domestic life."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From peacemaking sister to admiring ally",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From playful neighborliness to morally serious trust",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From corrective elder sister to steadier equal companion",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From dutiful daughter to maternal co-steward",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From respectful admiration to committed marital intimacy",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From social aspiration to settled domestic communion",
+      "pole_start": "Meg begins partly oriented toward agency through social aspiration: she wants to look well, be admired, and rise above poverty through refinement, propriety, and self-presentation, even though she is already affectionate and family-centered.",
+      "pole_end": "She ends strongly communion-oriented: a wife, mother, and household anchor whose identity is grounded in care, mutual dependence, domestic harmony, and fulfillment in ordinary family life rather than status.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early aspiration and self-consciousness",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Meg is dutiful and loving, but she also wants elegance, respectability, and social approval. Her sense of self is tied to appearance and the hope that refinement can improve her standing.",
+          "key_moments": [
+            "Wanting to look elegant at the party",
+            "Poverty felt as a limit on social standing",
+            "Morning-after envy of richer girls",
+            "Concern over how she appears to others"
+          ]
+        },
+        {
+          "phase": "Temptation and correction",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "The Moffat episode intensifies her attraction to fashionable life, but embarrassment, Marmee’s counsel, and moral contrast begin redirecting her toward sincerity and usefulness.",
+          "key_moments": [
+            "Fashionable imitation at the Moffats",
+            "Gossip and humiliation",
+            "Laurie’s criticism",
+            "Confession and maternal correction"
+          ]
+        },
+        {
+          "phase": "Duty-centered maturity",
+          "chapter_range": [
+            13,
+            24
+          ],
+          "position_description": "Family illness and responsibility make Meg’s agency increasingly practical rather than social. She becomes a peacemaker, caretaker, and household stabilizer, learning that communion requires labor and self-command.",
+          "key_moments": [
+            "Taking on domestic responsibility",
+            "Father’s illness and household strain",
+            "Beth’s illness and Meg’s guilt",
+            "Learning to act rather than merely feel"
+          ]
+        },
+        {
+          "phase": "Marriage as chosen communion",
+          "chapter_range": [
+            25,
+            38
+          ],
+          "position_description": "In marriage, Meg reconciles her desire for refinement with mutual care and sacrifice. She learns that love is sustained by humility, compromise, and shared domestic work.",
+          "key_moments": [
+            "Courtship with John Brooke",
+            "Housekeeping failures and apology",
+            "Violet silk dress and shame",
+            "Revaluing John’s sacrifice"
+          ]
+        },
+        {
+          "phase": "Stable domestic fulfillment",
+          "chapter_range": [
+            39,
+            47
+          ],
+          "position_description": "Meg settles into a mature identity as wife, mother, and family anchor. Her agency now appears as emotional steadiness, domestic competence, and the ability to sustain others.",
+          "key_moments": [
+            "Mothering her children",
+            "Comforting Jo after Beth’s death",
+            "Plumfield family contentment",
+            "Final sense of fulfilled home life"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Meg’s clearest movement is away from social self-display and toward a fulfilled domestic life. She does not become independent in a solitary sense; instead, her agency is increasingly expressed through chosen communion, care, and household stewardship."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Vanity-Humility",
+      "axis_name": "From vanity and comparison to modest self-respect",
+      "pole_start": "Meg is vulnerable to vanity: she cares about dresses, looks, elegance, and being admired, and she feels poverty as a threat to attractiveness and social worth.",
+      "pole_end": "She becomes more modest and self-possessed, still appreciating beauty but no longer letting admiration or class comparison govern her self-worth.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vanity exposed",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Meg openly feels the pull of pretty things and social polish. Her vanity is tied to disappointment about poverty and the wish to appear elegant.",
+          "key_moments": [
+            "Admitting concern for her looks",
+            "Wanting to look elegant at the party",
+            "Feeling deprived by poverty",
+            "Comparing herself to richer girls"
+          ]
+        },
+        {
+          "phase": "Vanity punished and clarified",
+          "chapter_range": [
+            9,
+            12
+          ],
+          "position_description": "The Moffat-party episode exposes the fragility of social vanity. Flattery, gossip, and embarrassment show how quickly admiration can become humiliation.",
+          "key_moments": [
+            "Fashionable attention at the Moffats",
+            "Gossip and shame",
+            "Laurie’s blunt criticism",
+            "Marmee’s corrective moral framing"
+          ]
+        },
+        {
+          "phase": "Humility internalized",
+          "chapter_range": [
+            13,
+            25
+          ],
+          "position_description": "Meg increasingly accepts modest domestic life as honorable. She learns to value work, gratitude, and a simple home over display or borrowed elegance.",
+          "key_moments": [
+            "Return to useful work",
+            "Lessons in modesty and hidden worth",
+            "Choosing a modest wedding and home",
+            "Feeling gratitude rather than envy"
+          ]
+        },
+        {
+          "phase": "Stable modest maturity",
+          "chapter_range": [
+            26,
+            47
+          ],
+          "position_description": "Vanity is no longer central. Meg still has moments of pride or embarrassment, but they are absorbed into a more mature humility and self-respect.",
+          "key_moments": [
+            "Domestic mistakes and self-reproach",
+            "Learning patience and realism",
+            "Settled maternal life",
+            "Less concern for display"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Meg’s early concern with appearance is steadily corrected. By the end, she retains grace and femininity, but her worth rests on humility, usefulness, and inner steadiness rather than admiration."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Reality-Wisdom",
+      "axis_name": "From idealized domestic dreaming to realistic household wisdom",
+      "pole_start": "Meg initially imagines comfort, prettiness, and respectable domestic life in idealized terms, as if goodness and elegance should naturally coincide.",
+      "pole_end": "She ends with a realistic understanding that marriage and home require labor, compromise, patience, and imperfect adjustment.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Idealized domestic longing",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Meg wants a beautiful, orderly, morally pleasing world and often imagines domestic life as something that should be harmonious if one is good enough.",
+          "key_moments": [
+            "Longing for pretty things despite poverty",
+            "Admiring orderly sociability",
+            "Castle-in-the-air of comfort and refinement"
+          ]
+        },
+        {
+          "phase": "Reality checks",
+          "chapter_range": [
+            15,
+            24
+          ],
+          "position_description": "Illness, strain, and courtship expose the limits of her idealism. She learns that duty can be exhausting, romance can be humiliating, and a home is built through work rather than fantasy.",
+          "key_moments": [
+            "Father’s illness and household strain",
+            "Beth’s sickness and caretaking burden",
+            "Prank humiliation over John Brooke",
+            "Learning to value a modest home"
+          ]
+        },
+        {
+          "phase": "Practical domestic maturity",
+          "chapter_range": [
+            28,
+            47
+          ],
+          "position_description": "Meg becomes a realistic wife and mother, aware of money, labor, children, and compromise. Her domestic ideal remains, but it is now grounded in practice.",
+          "key_moments": [
+            "Marriage difficulties and reconciliation",
+            "Managing children and household balance",
+            "Motherhood as daily labor rather than fantasy"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis adds an important nuance: Meg’s growth is not only moral but practical. She learns that domestic happiness is not automatic; it must be built and maintained through work, patience, and realism."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Margaret March",
+      "target_character": "Jo March",
+      "dimension_label": "Sisterly authority",
+      "axis_name": "From corrective elder sister to equal companion",
+      "pole_start": "Meg begins as the more proper, corrective sister: affectionate, but often trying to restrain Jo’s roughness, impulsiveness, and impropriety.",
+      "pole_end": "By the end, the bond is still affectionate but less hierarchical. Meg remains a moral presence, yet Jo’s adulthood makes the relationship more companionate than supervisory.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early correction and friction",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Meg frequently scolds or manages Jo around propriety, appearance, and behavior. Their differences create recurring tension, but also establish Meg’s role as the more polished sister.",
+          "key_moments": [
+            "Trying to restrain Jo’s roughness",
+            "Worrying about Jo’s behavior at parties",
+            "Disagreement over teasing and impropriety"
+          ]
+        },
+        {
+          "phase": "Crisis solidarity",
+          "chapter_range": [
+            15,
+            20
+          ],
+          "position_description": "Family illness and shared labor reduce correction and increase solidarity. Meg admires Jo’s devotion and depends on her as a fellow helper.",
+          "key_moments": [
+            "Jo’s sacrifice during the father’s illness",
+            "Shared anxiety over Beth’s fever",
+            "Working together in household crisis"
+          ]
+        },
+        {
+          "phase": "Adult equality and mutual regard",
+          "chapter_range": [
+            21,
+            47
+          ],
+          "position_description": "As Jo grows into adulthood and independent purpose, Meg’s supervisory role fades. Their bond remains strong, but it becomes more equal, affectionate, and mutually respectful.",
+          "key_moments": [
+            "Jo’s prank and Meg’s hurt",
+            "Meg’s embarrassment over romance and marriage",
+            "Later family gatherings with Jo as an adult",
+            "Mutual admiration across different life paths"
+          ]
+        }
+      ],
+      "evidence_summary": "Meg and Jo move from a sibling dynamic shaped by correction and propriety to one of durable adult affection. The relationship does not erase difference; it matures into respectful equality."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Margaret March",
+      "target_character": "Mrs. March",
+      "dimension_label": "Maternal alignment",
+      "axis_name": "From dutiful daughter to embodied maternal authority",
+      "pole_start": "Meg begins as a loving, obedient daughter who looks to Marmee for moral authority, comfort, and standards of conduct.",
+      "pole_end": "She ends as a woman who still reveres her mother, but now also embodies Marmee’s values herself as a wife and mother, extending the maternal role into her own household.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Obedient daughterhood",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Meg is deeply aligned with her mother’s moral framework and seeks approval around duty, gratitude, and propriety.",
+          "key_moments": [
+            "Marmee’s moral framing",
+            "Accepting lessons on gratitude and modesty",
+            "Confession after the Moffats"
+          ]
+        },
+        {
+          "phase": "Dependence in crisis",
+          "chapter_range": [
+            15,
+            20
+          ],
+          "position_description": "When Marmee is absent, Meg’s dependence becomes explicit. She tries to hold the household together and is relieved by her mother’s return.",
+          "key_moments": [
+            "Managing the house while Marmee is away",
+            "Beth’s illness and need for guidance",
+            "Relief at Marmee’s return"
+          ]
+        },
+        {
+          "phase": "Inheritance and embodiment",
+          "chapter_range": [
+            21,
+            47
+          ],
+          "position_description": "As a wife and mother, Meg increasingly acts from Marmee’s principles on her own: she manages a home, raises children, and uses domestic wisdom as a moral practice.",
+          "key_moments": [
+            "Marriage and housekeeping lessons",
+            "Meg as mother to Demi and Daisy",
+            "Domestic harmony reflecting Marmee’s influence",
+            "Comforting others with gentle authority"
+          ]
+        }
+      ],
+      "evidence_summary": "Meg’s bond with Mrs. March is one of the novel’s most stable lines of inheritance. She moves from daughterly dependence to embodied continuation of Marmee’s domestic and moral authority."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Margaret March",
+      "target_character": "Beth March",
+      "dimension_label": "Protective tenderness",
+      "axis_name": "From affectionate sisterhood to reverent maternal tenderness",
+      "pole_start": "Meg begins with warm, protective affection for Beth, valuing her sweetness and peace-making nature.",
+      "pole_end": "She ends with a more maternal, reverent tenderness toward Beth, especially as illness and death make Beth precious and fragile.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Gentle affection",
+          "chapter_range": [
+            1,
+            12
+          ],
+          "position_description": "Beth is already one of Meg’s most beloved sisters, and Meg responds with admiration, protectiveness, and comfort.",
+          "key_moments": [
+            "Beth’s innocence and sweetness",
+            "Meg’s delight in Beth’s happiness",
+            "Shared domestic harmony"
+          ]
+        },
+        {
+          "phase": "Caretaking and concern",
+          "chapter_range": [
+            17,
+            20
+          ],
+          "position_description": "Beth’s illness transforms Meg’s affection into active care and fear. Meg becomes one of the household’s main attendants and feels the burden of Beth’s vulnerability.",
+          "key_moments": [
+            "Beth’s scarlet fever",
+            "Meg’s guilt and worry",
+            "Tending Beth during the crisis"
+          ]
+        },
+        {
+          "phase": "Reverent grief",
+          "chapter_range": [
+            40,
+            47
+          ],
+          "position_description": "Beth’s decline and death deepen Meg’s tenderness into reverence. Beth becomes a sacred memory and a moral center of the family’s grief and love.",
+          "key_moments": [
+            "Creating Beth’s peaceful room",
+            "Family mourning and remembrance",
+            "Beth’s memory shaping domestic values"
+          ]
+        }
+      ],
+      "evidence_summary": "Meg’s relationship with Beth is consistently loving, but it becomes more protective and reverent as Beth becomes ill and then dies. The arc is less about conflict than about deepening tenderness under the pressure of loss."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Margaret March",
+      "target_character": "John Brooke",
+      "dimension_label": "Courtship trust",
+      "axis_name": "From respectful admiration to committed marital intimacy",
+      "pole_start": "Meg begins with respectful curiosity and appreciation from a distance, then grows into shy admiration and embarrassment as Brooke’s attention becomes personal.",
+      "pole_end": "She ends in secure marital intimacy: affectionate, trusting, and committed, with Brooke integrated into her domestic and emotional life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial respect and attraction",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "Meg notices Brooke as kind, well-mannered, and respectable. Her interest is mild and socially filtered at first.",
+          "key_moments": [
+            "Accepting his kindness and manners",
+            "Being flattered by his attention",
+            "Seeing him as a socially pleasing presence"
+          ]
+        },
+        {
+          "phase": "Emerging attachment and embarrassment",
+          "chapter_range": [
+            20,
+            23
+          ],
+          "position_description": "Her feelings become more conscious and emotionally charged. She is pleased by his affection, then humiliated by the prank and forced to confront her attachment.",
+          "key_moments": [
+            "Quietly opening toward his affection",
+            "The forged love-letter prank",
+            "Aunt March’s opposition and Brooke’s confession"
+          ]
+        },
+        {
+          "phase": "Commitment and domestic partnership",
+          "chapter_range": [
+            24,
+            38
+          ],
+          "position_description": "After accepting him, Meg’s relation to Brooke becomes fully intimate and practical. She learns marriage, domestic compromise, and shared household life.",
+          "key_moments": [
+            "Wedding and modest home-making",
+            "Domestic realism and marital adjustment",
+            "Rebalancing the marriage with Marmee’s advice"
+          ]
+        },
+        {
+          "phase": "Stable marital affection",
+          "chapter_range": [
+            39,
+            47
+          ],
+          "position_description": "Brooke is now a settled husband and father within Meg’s life. Their relationship is a mature domestic partnership marked by trust, shared labor, and affection.",
+          "key_moments": [
+            "His support during Beth’s decline",
+            "Family harmony in later chapters",
+            "Meg as wife and mother in a stable household"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Meg’s clearest relational arc. It moves from polite admiration to romantic embarrassment, then to committed marriage and mature domestic intimacy."
+    }
+  ]
+}

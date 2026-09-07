@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local tool caches
+.cache/
+wandb/
+.codex/
+.agents/
+
+
+# Results
+rollouts/
+outputs/
+
+# Large JSONL datasets (tracked by README, not by git)
+data/persona_graph_rm/*.jsonl

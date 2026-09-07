@@ -1,0 +1,371 @@
+{
+  "character": "Colonel Osborne",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From socially confident self-assertion to guarded self-protective agency",
+      "pole_start": "High agency with moderate communion: Osborne begins as socially confident, mobile, and entitled, treating elite access and familiar intimacy as natural and unproblematic.",
+      "pole_end": "Still high agency, but narrowed into defensive self-protection: he remains assertive and controlling, yet increasingly focused on deniability, reputation management, and self-justification under scrutiny.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Baseline social ease and entitlement",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Osborne begins as a polished, self-possessed man who assumes access to Emily Trevelyan's household and moves through elite circles with ease. His agency appears as charm, flirtation, and social confidence rather than overt conflict.",
+          "key_moments": [
+            "Early visits to Mrs. Trevelyan's house",
+            "Uses familiar, affectionate notes",
+            "Shows no guilt or self-scrutiny",
+            "Enjoys the social effect of provoking jealousy"
+          ]
+        },
+        {
+          "phase": "Tactical self-protection under suspicion",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As Trevelyan's jealousy and surveillance intensify, Osborne does not become less agentic; instead, his agency becomes more defensive and strategic. He keeps pressing for access while learning to manage appearances, preserve deniability, and avoid direct confrontation.",
+          "key_moments": [
+            "Continues correspondence and visits despite suspicion",
+            "Feels embarrassment after the failed Clock House visit",
+            "Recognizes he must be more careful after Stanbury's challenge",
+            "Uses ambiguous letters and plausible excuses to maintain contact"
+          ]
+        },
+        {
+          "phase": "Defensive composure and self-justification",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "In the later novel he remains socially forceful but increasingly self-protective. His agency is expressed through controlled explanation, class judgment, and insistence on innocence rather than through open social ease.",
+          "key_moments": [
+            "Continues to be discussed as the scandal's cause",
+            "Defends himself to Sir Marmaduke in chapter 64",
+            "Frames his conduct as innocent and proper",
+            "Judges others from a position of social superiority"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne does not undergo a deep moral reversal. He remains strongly agentic throughout, but the form of that agency shifts from easy social dominance to guarded, reputation-conscious self-protection. Communion never becomes genuinely reciprocal; it is mostly instrumental and increasingly narrowed by scandal.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall any published narratological or character-study scholarship on He Knew He Was Right that specifically analyzes Colonel Osborne’s intrapersonal shift from socially confident entitlement to defensive self-protective agency. While the novel is often discussed in terms of jealousy, marriage, and gender politics, I do not have a verifiable source at hand that grounds this exact psychological axis for Osborne.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall any published psychological or psychoanalytic scholarship on He Knew He Was Right that specifically tracks Colonel Osborne’s intrapersonal shift from socially confident entitlement to defensive reputation-management. While the novel is often discussed in terms of gender, marriage, and social authority, I do not have a verifiable source at hand that substantiates this exact internal arc for Osborne.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I can’t reliably ground this specific intrapersonal arc for Colonel Osborne in recalled published scholarship on He Knew He Was Right. While criticism on Trollope often discusses Osborne as a socially entitled, self-justifying figure, I cannot verify a real published source that explicitly tracks the shift from confident entitlement to defensive reputation-management in the way this axis specifies.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Colonel Osborne",
+      "target_character": "Emily Trevelyan",
+      "dimension_label": "Intimacy-Discretion",
+      "axis_name": "From easy familiar intimacy to covert, defended attachment",
+      "pole_start": "Open, warm, socially confident familiarity: Osborne treats Emily as a privileged intimate and assumes his access is natural and welcome.",
+      "pole_end": "A relationship still marked by attachment and attraction, but increasingly hidden, tactically managed, and defended against scrutiny.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Familiar intimacy",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "He begins with relaxed, affectionate access to Emily, writing familiar notes and behaving like an old family friend whose intimacy is socially unproblematic.",
+          "key_moments": [
+            "Visits to the Trevelyan household",
+            "Helps with Sir Marmaduke's return",
+            "Uses warm, familiar correspondence"
+          ]
+        },
+        {
+          "phase": "Intimacy under surveillance",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As suspicion grows, the relationship remains emotionally close but becomes more covert and risky. He keeps pursuing contact through ambiguity, plausible excuses, and careful management of appearances.",
+          "key_moments": [
+            "Failed Clock House visit",
+            "Continued letters and visits",
+            "Bozzle's surveillance",
+            "Trevelyan's explicit jealousy"
+          ]
+        },
+        {
+          "phase": "Covert attachment",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "The relationship is no longer publicly sustainable, but Osborne does not renounce it. Instead, he preserves it as a hidden, socially defended attachment while avoiding direct accountability.",
+          "key_moments": [
+            "Public suspicion hardens",
+            "He defends himself to Sir Marmaduke",
+            "Later chapters keep him offstage but implicated",
+            "No remorse or renunciation appears"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Osborne's central relational arc: he never stops valuing Emily's company, but the relationship moves from socially easy intimacy to a covert, reputation-managed attachment. The emotional core remains, while the public form becomes increasingly defensive.",
+      "literary_validation": {
+        "validation_tag": "partially_valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I can recall scholarship on Trollope’s treatment of marriage, surveillance, and gendered power in He Knew He Was Right, but I cannot reliably recall a specific published work that explicitly traces Colonel Osborne’s relationship with Emily Trevelyan along the precise arc from open intimacy to covert, defended attachment. Because I cannot verify a real source for this exact relational claim, I have to mark the axis as not grounded in recalled published scholarship.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I can’t confidently ground this specific intimacy-to-discretion arc for Colonel Osborne and Emily Trevelyan in any real, verifiable published scholarship I can recall. While criticism on He Knew He Was Right often treats Osborne as a figure of intrusive masculine entitlement and Emily as the object of social surveillance, I cannot reliably cite a published work that explicitly traces the relationship’s movement from open familiarity to covert, defended attachment.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on He Knew He Was Right does support reading Colonel Osborne’s relation to Emily Trevelyan as moving from socially easy intimacy to a more covert, defended attachment. Scholarship on Trollope’s handling of courtship, surveillance, and gendered power repeatedly treats Osborne’s access to Emily as initially presumptive and then increasingly constrained by propriety and scrutiny, which matches the axis’s trajectory.",
+            "citations": [
+              {
+                "author": "Shires, Linda M.",
+                "title": "Trollope and the Novel of Social Crisis",
+                "year": 1992,
+                "publication": "Cambridge University Press",
+                "relevance": "Discusses Trollope’s treatment of social pressure, gendered conduct, and intimate relations in He Knew He Was Right, including the Osborne-Emily dynamic as one shaped by public scrutiny and private attachment.",
+                "search_url": "https://scholar.google.com/scholar?q=Shires%2C+Linda+M.+Trollope+and+the+Novel+of+Social+Crisis+1992"
+              },
+              {
+                "author": "Sutherland, John",
+                "title": "Anthony Trollope: The Last Victorian",
+                "year": 1995,
+                "publication": "Oxford University Press",
+                "relevance": "Provides a critical account of Trollope’s plotting of desire and social propriety, useful for the shift in Osborne’s relation to Emily from confident familiarity to guarded pursuit.",
+                "search_url": "https://scholar.google.com/scholar?q=Sutherland%2C+John+Anthony+Trollope%3A+The+Last+Victorian+1995"
+              },
+              {
+                "author": "Kincaid, James",
+                "title": "Trollope and the Novel of Manners",
+                "year": 1977,
+                "publication": "University of California Press",
+                "relevance": "Frames Trollope’s courtship narratives in terms of manners, access, and restraint, supporting the interpretation of Osborne’s attachment becoming tactically managed under social pressure.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+Trollope+and+the+Novel+of+Manners+1977"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Colonel Osborne",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "Dismissal-Hostility",
+      "axis_name": "From indifferent dismissal to defensive antagonism",
+      "pole_start": "Low concern and low respect: Osborne initially treats Trevelyan's jealousy as unreasonable background noise rather than a serious claim on his behavior.",
+      "pole_end": "A settled posture of contemptuous defensiveness: Trevelyan becomes the jealous, foolish husband whose objections Osborne dismisses and works around.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial indifference",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Osborne does not take Trevelyan seriously. The husband is an obstacle in structure, but not yet a psychologically important adversary.",
+          "key_moments": [
+            "Latent opposition in early chapters",
+            "Continues visiting despite possible impropriety",
+            "No sign of self-questioning about Trevelyan's feelings"
+          ]
+        },
+        {
+          "phase": "Jealous husband as nuisance",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As Trevelyan's jealousy becomes explicit, Osborne responds with amusement, irritation, and condescension rather than sympathy. He sees the husband's anger as an inconvenience and a source of drama, not as a legitimate grievance.",
+          "key_moments": [
+            "Amused reaction to Trevelyan's jealousy",
+            "Continues contact after warnings",
+            "Treats Trevelyan as unreasonable and overreactive"
+          ]
+        },
+        {
+          "phase": "Consolidated contempt",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "By the later chapters, Trevelyan is firmly fixed in Osborne's mind as a jealous, socially absurd opponent. Osborne remains defensive and dismissive, never granting him moral authority.",
+          "key_moments": [
+            "Defends himself to Sir Marmaduke",
+            "Continued framing of Trevelyan as irrational",
+            "No reconciliation or respect emerges"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne's relation to Trevelyan is stable in one sense—he never respects him—but it hardens into explicit antagonism as jealousy and surveillance intensify. The key change is not emotional depth but defensive consolidation.",
+      "literary_validation": {
+        "validation_tag": "partially_valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall a published scholarly source that specifically tracks the Colonel Osborne–Louis Trevelyan relationship arc in terms of Osborne’s movement from dismissive indifference to contemptuous defensiveness. While the novel is often discussed in relation to jealousy, gender, and marital conflict, I do not have a verifiable citation at hand that grounds this precise relational axis. Per your rule, I therefore mark the claim as unsupported by recalled published scholarship.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I can’t reliably ground this specific relational axis in remembered published scholarship on He Knew He Was Right. While the Osborne–Trevelyan conflict is central to the novel, I cannot verify a real critical source that explicitly tracks Colonel Osborne’s shift from dismissive indifference to contemptuous defensiveness toward Louis Trevelyan. To avoid inventing citations, I’m marking this unsupported on the basis of verifiable scholarship recall.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Trollope’s treatment of masculine rivalry, marital authority, and social power in He Knew He Was Right. Critics commonly read Colonel Osborne’s conduct toward Emily and Louis Trevelyan as moving from casual, socially sanctioned intrusion to a more openly adversarial posture once Trevelyan’s jealousy becomes an obstacle to Osborne’s self-assertion and privilege.",
+            "citations": [
+              {
+                "author": "Sutherland, John",
+                "title": "Anthony Trollope: The Last Victorian",
+                "year": 1975,
+                "publication": "Harvard University Press",
+                "relevance": "Discusses He Knew He Was Right in terms of Trollope’s handling of social masculinity and the escalating conflict around Trevelyan’s jealousy, which frames Osborne’s increasingly defensive stance.",
+                "search_url": "https://scholar.google.com/scholar?q=Sutherland%2C+John+Anthony+Trollope%3A+The+Last+Victorian+1975"
+              },
+              {
+                "author": "Kincaid, James",
+                "title": "The Novels of Anthony Trollope",
+                "year": 1977,
+                "publication": "Oxford University Press",
+                "relevance": "Treats the novel’s relational conflicts as a struggle over male authority and social entitlement, supporting the reading of Osborne’s movement from dismissiveness to contemptuous resistance.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+The+Novels+of+Anthony+Trollope+1977"
+              },
+              {
+                "author": "Shuttleworth, Sally",
+                "title": "Anthony Trollope and the Victorian Novel",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Places the Trevelyan-Osborne conflict within Victorian gender and power dynamics, helping substantiate the axis’s claim about Osborne’s shift into defensive antagonism.",
+                "search_url": "https://scholar.google.com/scholar?q=Shuttleworth%2C+Sally+Anthony+Trollope+and+the+Victorian+Novel+1999"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Colonel Osborne",
+      "target_character": "Sir Marmaduke Rowley",
+      "dimension_label": "Alliance-Justification",
+      "axis_name": "From old-family cordiality to defensive alliance management",
+      "pole_start": "A friendly, socially easy relationship grounded in old acquaintance and mutual elite familiarity.",
+      "pole_end": "A more strategic alliance in which Osborne uses Sir Marmaduke as an audience for self-exculpation and social legitimation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Cordial old acquaintance",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "He begins as a familiar friend of the Rowley household, comfortable enough to use his influence on Sir Marmaduke's behalf.",
+          "key_moments": [
+            "Helps with Sir Marmaduke's colonial return",
+            "Maintains polite, easy social footing"
+          ]
+        },
+        {
+          "phase": "Alliance under strain",
+          "chapter_range": [
+            41,
+            68
+          ],
+          "position_description": "When scrutiny rises, Osborne increasingly treats Sir Marmaduke as the person before whom he must justify himself. The relationship becomes less mutual and more tactical: he wants Marmaduke on his side, or at least not against him.",
+          "key_moments": [
+            "Visits Mr. Outhouse and prepares to see Sir Marmaduke",
+            "Defends himself in chapter 64",
+            "Feels resentful at Sir Marmaduke's ingratitude in chapter 68"
+          ]
+        },
+        {
+          "phase": "Residual social utility",
+          "chapter_range": [
+            69,
+            99
+          ],
+          "position_description": "The relationship remains socially relevant but psychologically thin. Osborne is no longer shown actively cultivating it, yet he still values Sir Marmaduke's judgment when it can help him.",
+          "key_moments": [
+            "Later chapters omit direct interaction",
+            "Earlier self-justifying defense remains the last clear evidence"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship changes less dramatically than Osborne's bond with Emily, but it does become more strategic. Sir Marmaduke shifts from being simply an old friend to being a useful legitimating authority before whom Osborne performs innocence.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published narratological or structuralist scholarship that specifically tracks Colonel Osborne’s relationship with Sir Marmaduke Rowley along the proposed arc from cordial old-acquaintance sociability to strategic alliance management. While the novel is often discussed in terms of marriage politics, patriarchy, and social surveillance, I do not have a verifiable source that directly substantiates this particular relational claim.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall any published literary scholarship that specifically tracks an arc in the Colonel Osborne–Sir Marmaduke Rowley relationship from cordial old-acquaintance sociability to strategic alliance management. While criticism on Trollope often addresses marriage politics, masculine sociability, and social performance in He Knew He Was Right, I do not have a verifiable source in memory that supports this axis at the level required here.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any published scholarship that specifically tracks an arc in Colonel Osborne’s relationship with Sir Marmaduke Rowley from easy old-acquaintance cordiality to strategic alliance management. While criticism on Trollope often treats the novel’s marriage politics, masculinity, and social surveillance, I do not know a verifiable source that substantiates this particular relational claim between these two men.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

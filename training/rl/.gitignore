@@ -1,0 +1,28 @@
+# RL stage (verl/GRPO) — local artifacts and vendored deps
+__pycache__/
+*.py[cod]
+
+# Vendored verl clone (installed editable; see README "Quickstart")
+third_party/
+.conda/
+
+# Conda env is created IN-TREE at .conda/verl by scripts/install_env.sh
+# (override the location with ARCANE_RL_ENV). Activate it by path:
+#   conda activate ./.conda/verl
+
+# Run artifacts
+wandb/
+logs/
+outputs/
+ckpt_backup/
+
+# Large data / model artifacts
+data/**/*.jsonl
+data/**/*.parquet
+data/**/*.parquet.bak
+*.whl
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt

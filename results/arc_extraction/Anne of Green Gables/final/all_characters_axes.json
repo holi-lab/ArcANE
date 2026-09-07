@@ -1,0 +1,2303 @@
+{
+  "Anne Shirley": {
+    "character": "Anne Shirley",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From abandoned self-protection to rooted relational agency",
+            "set_b_axis": "From self-protective longing to rooted relational belonging",
+            "overlap_description": "Both describe Anne moving from defensive self-making and survival-oriented independence toward a secure identity grounded in home, attachment, and mutual care."
+          },
+          {
+            "set_a_axis": "From unchecked romantic fantasy to disciplined imaginative maturity",
+            "set_b_axis": "From unchecked fantasy to disciplined imaginative realism",
+            "overlap_description": "Both track the same core shift: imagination remains central, but Anne learns to regulate it with reality, duty, and social consequence."
+          },
+          {
+            "set_a_axis": "From unwantedness to earned and internalized worth",
+            "set_b_axis": "From appearance-driven self-worth to chastened moral self-respect",
+            "overlap_description": "Both focus on Anne's self-esteem changing from fragile, externally validated, and appearance-linked to a more stable sense of worth grounded in character and love."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From catastrophic abandonment to integrated resilience",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From agency through social and imaginative mastery",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From theatrical impulse to reflective self-governance",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From personal triumph to loyal vocation",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From feared rejection to reciprocal mother-daughter trust",
+            "set_b_axis": "From wary dependence to filial devotion",
+            "overlap_description": "Both describe Marilla shifting from stern, feared authority to trusted mother-figure and beloved home base."
+          },
+          {
+            "set_a_axis": "From tentative rescue to chosen father-daughter attachment",
+            "set_b_axis": "From tentative safety to beloved emotional refuge",
+            "overlap_description": "Both describe Matthew as Anne's earliest secure adult attachment, deepening into enduring filial love and grief."
+          },
+          {
+            "set_a_axis": "From dreamed bosom friend to enduring reciprocal sisterhood",
+            "set_b_axis": "From imagined bosom friend to enduring reciprocal intimacy",
+            "overlap_description": "Both capture the same friendship arc: idealized longing becomes durable, reciprocal peer intimacy."
+          },
+          {
+            "set_a_axis": "From wounded rivalry to mutual respect and possible intimacy",
+            "set_b_axis": "From humiliating enemy to respected intellectual rival",
+            "overlap_description": "Both track Gilbert from humiliating antagonist to softened rival and eventual respect, with possible future intimacy."
+          },
+          {
+            "set_a_axis": "From admired ideal to moral and emotional guide",
+            "set_b_axis": "From admired adult to moral model",
+            "overlap_description": "Both identify Mrs. Allan as a warm adult exemplar who shapes Anne's moral and emotional development."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "none",
+            "assessment": "artifact"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From inspiring teacher to formative mentor",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-protective agency to rooted relational belonging",
+        "pole_start": "Anne begins as a self-protective, self-defining child whose agency is defensive: she uses imagination, naming, and emotional intensity to resist rejection and secure a place in the world.",
+        "pole_end": "Anne ends as someone whose independence is grounded in belonging, loyalty, and practical devotion to others, especially within the home and care network of Green Gables.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive self-making",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Anne arrives in a state of vulnerability and self-protection. She expects rejection, renames people and places, and uses imagination as emotional shelter and identity-making.",
+            "key_moments": [
+              "Arrival at Green Gables",
+              "Fear of being sent back",
+              "Naming Green Gables and the landscape",
+              "Insistence on preferred identities and beauty"
+            ]
+          },
+          {
+            "phase": "Belonging through attachment",
+            "chapter_range": [
+              5,
+              18
+            ],
+            "position_description": "Anne increasingly learns to live inside relationships rather than against them. She bonds with Marilla, Matthew, and Diana, and her agency becomes more relational and less defensive.",
+            "key_moments": [
+              "Decision to keep her at Green Gables",
+              "Prayer and household routines",
+              "Bonding with Diana Barry",
+              "Reconciliation after conflicts and apologies"
+            ]
+          },
+          {
+            "phase": "Relationally grounded agency",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "Anne becomes more socially and morally agentic: she studies, competes, leads, and serves, but now from within a growing sense of home, duty, and mutual care.",
+            "key_moments": [
+              "Mrs. Allan and Miss Stacy as guides",
+              "Story club leadership",
+              "Scholarship ambitions",
+              "Gilbert rivalry softening into respect"
+            ]
+          },
+          {
+            "phase": "Chosen duty and home",
+            "chapter_range": [
+              35,
+              36
+            ],
+            "position_description": "Anne's final decisions are made from communion rather than opposition. She chooses to stay, to care for Marilla, and to preserve Green Gables as a shared home.",
+            "key_moments": [
+              "Matthew's death",
+              "Marilla's crisis",
+              "Refusal of Redmond",
+              "Commitment to stay and teach"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne's arc moves from defensive self-protection toward a stable identity rooted in attachment, duty, and mutual care. Her agency does not disappear; it becomes relationally grounded."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "imagination-reality",
+        "axis_name": "From fantasy as refuge to disciplined imaginative realism",
+        "pole_start": "Anne begins with fantasy-dominant imagination, using naming, romanticizing, and aesthetic invention to survive pain and rewrite loneliness.",
+        "pole_end": "Anne ends with disciplined imagination: she still imagines richly, but now she recognizes limits, consequences, and the need to align inward vision with duty and truth.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Imagination as refuge",
+            "chapter_range": [
+              2,
+              10
+            ],
+            "position_description": "Anne uses imagination to beautify the world and protect herself from rejection. Her fantasy life is expansive, theatrical, and emotionally necessary.",
+            "key_moments": [
+              "Renaming places and people",
+              "Cordelia fantasies",
+              "Bosom-friend idealization",
+              "Aesthetic prayer and self-dramatization"
+            ]
+          },
+          {
+            "phase": "Imagination tested by consequence",
+            "chapter_range": [
+              11,
+              18
+            ],
+            "position_description": "Her imaginative habits begin colliding with reality. Some uses of fantasy deepen connection, while others produce misunderstanding, embarrassment, or danger.",
+            "key_moments": [
+              "Brooch accusation and false confession",
+              "Currant wine / raspberry cordial disaster",
+              "Haunted Wood fear",
+              "Burned pie and other practical mishaps"
+            ]
+          },
+          {
+            "phase": "Imagination under moral discipline",
+            "chapter_range": [
+              19,
+              29
+            ],
+            "position_description": "Anne increasingly tries to govern imagination with study, self-criticism, and moral purpose. She learns that imagination can serve composition, friendship, and goodness rather than merely escape reality.",
+            "key_moments": [
+              "Mrs. Allan and Miss Stacy's influence",
+              "Story club and composition work",
+              "Hair-dye disaster as vanity lesson",
+              "Elaine game and self-correction"
+            ]
+          },
+          {
+            "phase": "Integrated meaning-making",
+            "chapter_range": [
+              30,
+              36
+            ],
+            "position_description": "By the end, imagination remains central but is no longer sovereign. Anne can imagine futures, honor grief, and still choose practical duty and emotional steadiness.",
+            "key_moments": [
+              "Scholarship and future planning",
+              "Matthew's death",
+              "Choosing to stay at Green Gables",
+              "Seeing life beyond the bend in the road"
+            ]
+          }
+        ],
+        "evidence_summary": "The novel does not suppress Anne's imagination; it educates it. Fantasy becomes less a defense against reality and more a disciplined way of making meaning within it."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-worth",
+        "axis_name": "From unwantedness and vanity to internalized moral worth",
+        "pole_start": "Anne begins convinced she is unwanted, plain, and socially disposable, with appearance and orphan status shaping a fragile self-concept.",
+        "pole_end": "Anne ends with a stable sense that she is loved, capable, and valuable apart from beauty, status, or public triumph.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Shame and appearance pain",
+            "chapter_range": [
+              2,
+              9
+            ],
+            "position_description": "Anne's self-worth is initially tied to appearance and rejection. Her red hair, freckles, and orphan status make her feel deficient and unwanted.",
+            "key_moments": [
+              "Red hair humiliation",
+              "Longing for puffed sleeves",
+              "Fear of being sent away",
+              "Boy-mistake disappointment"
+            ]
+          },
+          {
+            "phase": "Conditional worth through approval",
+            "chapter_range": [
+              6,
+              15
+            ],
+            "position_description": "Anne begins to believe she can be kept if she is useful, obedient, impressive, or lovable. Praise and friendship repair her self-esteem, but it remains externally anchored.",
+            "key_moments": [
+              "Apology and restoration after Mrs. Lynde",
+              "Joy in Diana's friendship",
+              "School success and rivalry with Gilbert",
+              "Humiliation over practical mistakes"
+            ]
+          },
+          {
+            "phase": "Competence and moral revaluation",
+            "chapter_range": [
+              16,
+              31
+            ],
+            "position_description": "Anne increasingly experiences herself as capable and admired. At the same time, vanity is chastened, and she begins to value goodness and usefulness alongside achievement.",
+            "key_moments": [
+              "Saving Minnie May",
+              "Praise from Mrs. Allan",
+              "First place at Queen's",
+              "Hair-dye disaster and vow to be good"
+            ]
+          },
+          {
+            "phase": "Stable self-acceptance",
+            "chapter_range": [
+              32,
+              36
+            ],
+            "position_description": "Anne ends with internalized worth: she can accept love, sacrifice, and a smaller future without feeling diminished. Her value no longer depends on beauty or social glamour.",
+            "key_moments": [
+              "Marilla's grief and tenderness",
+              "Choosing to stay at Green Gables",
+              "Accepting Gilbert's generosity",
+              "Final serene acceptance after Matthew's death"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne's deepest early wound is the belief that she is unwanted and replaceable. The novel repairs this through repeated experiences of being chosen, praised, and loved until worth becomes internalized."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "self-governance",
+        "axis_name": "From theatrical impulse to reflective self-governance",
+        "pole_start": "Anne begins emotionally immediate, verbally exuberant, and prone to dramatic overreaction and spontaneous invention.",
+        "pole_end": "Anne ends more self-monitoring and disciplined, capable of restraint, moral reflection, and purposeful action under pressure.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Unregulated expressiveness",
+            "chapter_range": [
+              2,
+              14
+            ],
+            "position_description": "Anne speaks and reacts with little restraint, often overwhelming others. Her emotions are vivid and immediate, and she has not yet learned the social cost of spontaneity.",
+            "key_moments": [
+              "Rapid chatter with Matthew",
+              "Explosive grief and rage at rejection",
+              "Theatrical apologies and vows",
+              "Public humiliation at school"
+            ]
+          },
+          {
+            "phase": "Learning from consequences",
+            "chapter_range": [
+              15,
+              25
+            ],
+            "position_description": "Anne begins to notice patterns in her own behavior, especially how impulsiveness leads to trouble. She starts to frame mistakes as lessons and to practice self-criticism.",
+            "key_moments": [
+              "Confession after the spare-room-bed incident",
+              "Hair-dye punishment as moral lesson",
+              "Story club and composition discipline",
+              "Recognition of talkativeness and vanity"
+            ]
+          },
+          {
+            "phase": "Disciplined aspiration",
+            "chapter_range": [
+              26,
+              36
+            ],
+            "position_description": "Anne becomes more controlled in study, grief, and decision-making. She still feels intensely, but she can now convert emotion into duty, loyalty, and long-term purpose.",
+            "key_moments": [
+              "Elaine game as self-correction",
+              "Entrance exam preparation",
+              "Scholarship success",
+              "Choosing to stay and teach for Marilla"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne remains emotionally vivid, but the arc clearly shows increasing self-regulation. The novel teaches her to govern her temperament without flattening it."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "ambition-loyalty",
+        "axis_name": "From personal triumph to loyal vocation",
+        "pole_start": "Anne begins wanting success, distinction, and future possibility largely as proof of her own worth.",
+        "pole_end": "Anne ends by subordinating personal advancement to care for Marilla and the preservation of Green Gables.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Ambition as validation",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "Anne's Queen's ambitions are real and energizing, but they are still tied to proving herself, winning honors, and making others proud.",
+            "key_moments": [
+              "Queen's class and scholarship hopes",
+              "Avery scholarship preparation",
+              "First-place exam result",
+              "Plans for Redmond"
+            ]
+          },
+          {
+            "phase": "Ambition redefined by loss",
+            "chapter_range": [
+              35,
+              36
+            ],
+            "position_description": "Matthew's death and Marilla's crisis transform ambition into service. Anne does not cease to value education, but she now sees vocation as inseparable from loyalty and care.",
+            "key_moments": [
+              "Matthew's death",
+              "Marilla's possible blindness",
+              "Decision to stay home and teach",
+              "Future framed as duty and love"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne's late arc moves from wanting to become somebody to choosing to be needed by somebody. Her ambition survives, but it is redirected into relational responsibility."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Anne Shirley",
+        "target_character": "Marilla Cuthbert",
+        "dimension_label": "trust-intimacy",
+        "axis_name": "From feared authority to filial devotion",
+        "pole_start": "Anne begins wary, hurt, and uncertain of Marilla's affection, seeing her as a stern gatekeeper whose approval is necessary but not yet secure.",
+        "pole_end": "Anne ends in deep filial devotion, trusting Marilla completely and choosing to stay with her out of love, duty, and shared home.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial tension and testing",
+            "chapter_range": [
+              2,
+              8
+            ],
+            "position_description": "Anne wants Marilla's approval but experiences her as practical, severe, and emotionally hard to read. Trust is partial and intimacy low.",
+            "key_moments": [
+              "Rejection over being a girl",
+              "Rules, prayer, and apology scenes",
+              "Punishment after Mrs. Lynde incident"
+            ]
+          },
+          {
+            "phase": "Growing domestic attachment",
+            "chapter_range": [
+              9,
+              24
+            ],
+            "position_description": "Anne increasingly experiences Marilla as home: a corrective but loving presence. She seeks her approval, confides in her, and accepts her guidance even when disappointed.",
+            "key_moments": [
+              "Plain dresses and Sunday-school",
+              "Picnic punishment and forgiveness",
+              "Hair-dye disaster and moral lesson",
+              "Miss Stacy era and home conversations"
+            ]
+          },
+          {
+            "phase": "Mutual care and shared grief",
+            "chapter_range": [
+              25,
+              36
+            ],
+            "position_description": "Anne's trust becomes intimate and reciprocal. She confides in Marilla, is comforted by her, and finally chooses to remain with her after Matthew's death, turning affection into commitment.",
+            "key_moments": [
+              "Hair humiliation and moral self-reproach",
+              "Queen's departure",
+              "Matthew's death",
+              "Anne gives up Redmond to stay at Green Gables"
+            ]
+          }
+        ],
+        "evidence_summary": "Marilla moves from stern authority to beloved family. Anne's final decision to stay is the clearest proof that trust and intimacy have become fully filial."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Anne Shirley",
+        "target_character": "Matthew Cuthbert",
+        "dimension_label": "trust-attachment",
+        "axis_name": "From tentative safety to beloved emotional refuge",
+        "pole_start": "Anne initially sees Matthew as a gentle possible ally, safer than Marilla but still only partly known.",
+        "pole_end": "Anne ends with Matthew as a sacred beloved presence whose memory anchors her grief, gratitude, and sense of home.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Immediate trust and warmth",
+            "chapter_range": [
+              2,
+              7
+            ],
+            "position_description": "Anne quickly senses Matthew's kindness and becomes attached to him as the first adult who seems to receive her warmly.",
+            "key_moments": [
+              "Ride from Bright River",
+              "Matthew's quiet gentleness",
+              "His advocacy for keeping her"
+            ]
+          },
+          {
+            "phase": "Quiet deepening",
+            "chapter_range": [
+              8,
+              24
+            ],
+            "position_description": "Matthew becomes Anne's safe audience and emotional refuge. She feels especially understood by him and values his gifts and small acts of care.",
+            "key_moments": [
+              "Chocolates and the concert dress",
+              "His approval of her imagination",
+              "His support for school and success"
+            ]
+          },
+          {
+            "phase": "Grief and reverence",
+            "chapter_range": [
+              25,
+              36
+            ],
+            "position_description": "After his death, Matthew becomes the central emotional absence in Anne's life. Her love for him is transformed into reverence, mourning, and a desire to honor him by staying at Green Gables.",
+            "key_moments": [
+              "Matthew's sudden death",
+              "Flowers and vigil",
+              "Anne's decision to remain home",
+              "His memory as the reason for her sacrifice"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew is the first person to make Anne feel wanted, and that initial safety matures into enduring attachment. His death reveals how central he has become to her emotional identity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Anne Shirley",
+        "target_character": "Diana Barry",
+        "dimension_label": "idealization-reciprocity",
+        "axis_name": "From imagined bosom friend to enduring reciprocal intimacy",
+        "pole_start": "Anne begins by idealizing Diana as the dreamed-of bosom friend, a beautiful name and a hoped-for companion.",
+        "pole_end": "Anne ends in a stable, reciprocal, and emotionally mature friendship that survives separation, rivalry, and time.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Instant idealization",
+            "chapter_range": [
+              2,
+              10
+            ],
+            "position_description": "Diana is first a name and then a fantasy of perfect friendship. Anne invests her with beauty, promise, and emotional destiny.",
+            "key_moments": [
+              "First hearing Diana's name",
+              "Bosom friend vows",
+              "Shared play and naming rituals"
+            ]
+          },
+          {
+            "phase": "Crisis and loyalty",
+            "chapter_range": [
+              11,
+              17
+            ],
+            "position_description": "The raspberry cordial disaster and separation by Mrs. Barry test the friendship, but Anne's loyalty deepens rather than weakens.",
+            "key_moments": [
+              "Raspberry cordial disaster",
+              "Separation by Mrs. Barry",
+              "Letters, gifts, and reconciliation",
+              "Sleepover and shared confidences"
+            ]
+          },
+          {
+            "phase": "Stable lifelong intimacy",
+            "chapter_range": [
+              18,
+              36
+            ],
+            "position_description": "Diana remains Anne's closest peer, but the relationship becomes less possessive and more enduringly reciprocal. Anne can imagine separation without collapse, because the bond is secure.",
+            "key_moments": [
+              "School and concert companionship",
+              "Queen's separation",
+              "Continued loyalty during exams and homecoming"
+            ]
+          }
+        ],
+        "evidence_summary": "Diana is Anne's first great peer attachment, and the arc is from idealized fantasy to durable mutuality without losing emotional intensity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Anne Shirley",
+        "target_character": "Gilbert Blythe",
+        "dimension_label": "rivalry-respect",
+        "axis_name": "From humiliating enemy to respected intellectual rival",
+        "pole_start": "Anne begins with intense resentment and wounded pride, seeing Gilbert as the boy who publicly humiliated her and must be rejected.",
+        "pole_end": "Anne ends with reluctant respect, softened rivalry, and the possibility of friendship or at least mature intellectual equality.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Wounded enmity",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "Gilbert is the source of public shame and a fixed grievance. Anne's pride turns the relationship into a moralized feud.",
+            "key_moments": [
+              "Carrots insult",
+              "Public punishment",
+              "Refusal of apology"
+            ]
+          },
+          {
+            "phase": "Competitive fixation",
+            "chapter_range": [
+              19,
+              30
+            ],
+            "position_description": "Anne remains competitive and emotionally reactive, especially in school and exams. Gilbert is still the standard by which she measures herself.",
+            "key_moments": [
+              "Academic rivalry",
+              "Entrance exam comparison",
+              "Desire to rank above him"
+            ]
+          },
+          {
+            "phase": "Softening into respect",
+            "chapter_range": [
+              31,
+              36
+            ],
+            "position_description": "Gilbert's presence still matters, but the emotional charge changes. Anne can admire him, feel challenged by him, and finally accept his kindness and companionship.",
+            "key_moments": [
+              "Concert stage fright and recovery",
+              "Scholarship and medal results",
+              "Gilbert's help after Matthew's death",
+              "Anne's willingness to be friends"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Anne's most significant non-familial relational arc. The novel converts a childish feud into a mature, mutually respectful bond without erasing the original hurt."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Anne Shirley",
+        "target_character": "Mrs. Allan",
+        "dimension_label": "admiration-guidance",
+        "axis_name": "From admired adult to moral model",
+        "pole_start": "Anne initially sees Mrs. Allan as a warm, attractive, spiritually alive adult whom she admires from afar.",
+        "pole_end": "Anne ends by treating Mrs. Allan as a model of goodness and a standard for the kind of woman she wants to become.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Immediate idealization",
+            "chapter_range": [
+              19,
+              20
+            ],
+            "position_description": "Mrs. Allan's cheerfulness and kindness make her an instant favorite. Anne experiences her as a rare adult who combines goodness with warmth.",
+            "key_moments": [
+              "Tea at the manse",
+              "Anne's delight in Mrs. Allan's manner",
+              "Admiration for cheerful Christianity"
+            ]
+          },
+          {
+            "phase": "Moral imitation",
+            "chapter_range": [
+              21,
+              36
+            ],
+            "position_description": "Anne increasingly measures herself against Mrs. Allan's goodness, using her as a guide for behavior, religion, and emotional style.",
+            "key_moments": [
+              "Visits during injury",
+              "Concert and school admiration",
+              "Hair-dye remorse and self-improvement",
+              "Grief and acceptance of joy after loss"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs. Allan becomes one of Anne's key moral exemplars. The relationship is less intimate than with Diana or Marilla, but it shapes Anne's ideals of goodness."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Anne Shirley",
+        "target_character": "Miss Stacy",
+        "dimension_label": "admiration-discipline",
+        "axis_name": "From inspiring teacher to formative mentor",
+        "pole_start": "Anne begins by admiring Miss Stacy as a promising new teacher and intellectual presence.",
+        "pole_end": "Anne ends with Miss Stacy as a formative mentor whose guidance has helped shape her ambitions, discipline, and self-concept.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hopeful anticipation",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Anne is eager to meet Miss Stacy and quickly sees her as a source of intellectual excitement and approval.",
+            "key_moments": [
+              "Convalescence and anticipation",
+              "First impressions of Miss Stacy",
+              "School enthusiasm"
+            ]
+          },
+          {
+            "phase": "Educational transformation",
+            "chapter_range": [
+              23,
+              34
+            ],
+            "position_description": "Miss Stacy becomes central to Anne's academic identity: she encourages composition, ambition, and disciplined study, and Anne internalizes her influence.",
+            "key_moments": [
+              "Story club and composition work",
+              "Queen's preparation",
+              "Avery scholarship success"
+            ]
+          }
+        ],
+        "evidence_summary": "Miss Stacy is a major developmental influence. She helps move Anne from imaginative exuberance toward disciplined aspiration and academic confidence."
+      }
+    ]
+  },
+  "Marilla Cuthbert": {
+    "character": "Marilla Cuthbert",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From stern self-sufficiency to maternal interdependence",
+            "set_b_axis": "From guarded self-sufficiency to reluctant maternal communion",
+            "overlap_description": "Both describe Marilla's movement from emotionally guarded, duty-centered independence toward a deeply relational, maternal attachment to Anne and a more interdependent sense of self."
+          },
+          {
+            "set_a_axis": "From corrective severity to humane discernment",
+            "set_b_axis": "From strict utilitarian judgment to compassionate moral discernment",
+            "overlap_description": "Both track the same moral softening: Marilla shifts from rigid, utility-based judgment and harsh correction toward context-sensitive, compassionate, and self-correcting moral reasoning."
+          },
+          {
+            "set_a_axis": "From emotional repression to admitted tenderness",
+            "set_b_axis": "From emotional repression to partial emotional candor",
+            "overlap_description": "Both capture Marilla's emotional thaw, from tightly controlled reserve to a more legible capacity for affection, grief, pride, and occasional direct emotional expression."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From reluctant guardian to devoted mother-figure",
+            "set_b_axis": "From wary guardian to devoted mother-figure",
+            "overlap_description": "Both identify Marilla's central relationship with Anne as a progression from suspicion, control, and reluctance to deep maternal attachment, pride, grief, and support."
+          },
+          {
+            "set_a_axis": "From sole household authority to shared parental partnership",
+            "set_b_axis": "From dutiful deference to emotionally equal companionship",
+            "overlap_description": "Both describe the same broad shift in Marilla's relationship with Matthew: from asymmetrical household authority toward a more collaborative, emotionally mutual partnership."
+          },
+          {
+            "set_a_axis": "From habitual deference to selective mutual recognition",
+            "set_b_axis": "From deference to community judgment to independent moral confidence",
+            "overlap_description": "Both treat Marilla's relationship with Rachel Lynde as moving away from social deference and toward greater independence, selective trust, and reciprocal recognition."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From guarded self-sufficiency to maternal interdependence",
+        "pole_start": "Marilla begins as a self-contained, duty-driven household authority who values control, usefulness, and emotional restraint. Her care is real but mediated through practicality, distance, and self-command.",
+        "pole_end": "Marilla ends as a deeply interdependent guardian whose identity is bound up with Anne's presence, welfare, and future. She remains disciplined, but her center of gravity has shifted toward warmth, attachment, and relational belonging.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Guarded authority",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Marilla starts strongly agency-leaning: she frames adoption as a practical problem, treats Anne as a mistake to manage, and keeps emotion subordinated to duty and control.",
+            "key_moments": [
+              "Agrees to the adoption out of duty and household utility",
+              "Sees Anne as the wrong child and initially plans to send her away",
+              "Maintains emotional distance even when pity begins to surface"
+            ]
+          },
+          {
+            "phase": "Reluctant opening",
+            "chapter_range": [
+              6,
+              12
+            ],
+            "position_description": "Anne's vulnerability, gratitude, and emotional candor begin to break Marilla's defenses. She starts acting less like a manager and more like a guardian who must nurture.",
+            "key_moments": [
+              "Responds to Anne's prayer and ignorance with corrective care rather than dismissal",
+              "Plans Anne's education and social development as part of her responsibility",
+              "The hand-in-hand moment and the brooch apology deepen maternal feeling"
+            ]
+          },
+          {
+            "phase": "Integrated attachment",
+            "chapter_range": [
+              13,
+              23
+            ],
+            "position_description": "Marilla remains stern, but affection, pride, and protectiveness now coexist with discipline. She is emotionally invested in Anne's friendships, talents, and future.",
+            "key_moments": [
+              "Laughs at Anne's grief over Diana and supports her social belonging",
+              "Admits fondness to Matthew and shows private tenderness toward Anne",
+              "Begins imagining Anne's future at Queen's as something she must support"
+            ]
+          },
+          {
+            "phase": "Mature interdependence",
+            "chapter_range": [
+              24,
+              36
+            ],
+            "position_description": "By the later chapters, Marilla's attachment is unmistakable: she loves Anne deeply, grieves her absence, and supports her independence as an act of love rather than control.",
+            "key_moments": [
+              "Alternates between criticism and tenderness while recognizing Anne as part of home",
+              "Privately grieves Anne's departure for Queen's",
+              "Supports Anne's education and future while hoping she remains near Green Gables"
+            ]
+          }
+        ],
+        "evidence_summary": "Marilla's core change is a movement from emotionally guarded self-sufficiency toward mature maternal interdependence. She never stops being practical or disciplined, but the novel repeatedly shows her becoming more relational, affectionate, and inwardly anchored in Anne."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Judgment-Compassion",
+        "axis_name": "From rigid correction to humane discernment",
+        "pole_start": "Marilla begins with a narrow, rule-bound moral framework: children should be useful, obedience matters most, and mistakes should be corrected decisively. Her judgments are often harsh and suspicious.",
+        "pole_end": "Marilla ends with a more humane and self-correcting moral intelligence: she still values discipline, but now recognizes innocence, admits error, and understands that justice requires sympathy and context.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Rule-bound certainty",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Marilla judges Anne through utility and manageability, assuming the adoption should serve household needs and that the wrong child should simply be corrected or returned.",
+            "key_moments": [
+              "Prefers a boy for practical reasons",
+              "Treats Anne as an adoption error",
+              "Interprets behavior through suspicion and usefulness"
+            ]
+          },
+          {
+            "phase": "Moral widening",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "Her framework begins to widen as she refuses to hand Anne to Mrs. Blewett, becomes protective, and starts to see neglect and vulnerability as morally relevant.",
+            "key_moments": [
+              "Cannot bring herself to send Anne to Mrs. Blewett",
+              "Begins Anne's religious and practical training",
+              "Feels pity during Anne's humiliation and deprivation"
+            ]
+          },
+          {
+            "phase": "Corrective humility",
+            "chapter_range": [
+              9,
+              12
+            ],
+            "position_description": "Marilla confronts her own fallibility, especially when she wrongly accuses Anne over the brooch. Severity is no longer automatically equated with justice.",
+            "key_moments": [
+              "Anne's blunt honesty unsettles her assumptions",
+              "She misjudges Anne in the brooch episode",
+              "She admits error and apologizes"
+            ]
+          },
+          {
+            "phase": "Compassionate discipline",
+            "chapter_range": [
+              13,
+              25
+            ],
+            "position_description": "She remains strict, but discipline is increasingly tempered by tact, humor, and an understanding that Anne's feelings matter. Correction becomes more educative than punitive.",
+            "key_moments": [
+              "Uses patience after school and social crises",
+              "Laughs at Anne's dramatics instead of only condemning them",
+              "Lets affection shape her corrections"
+            ]
+          },
+          {
+            "phase": "Forgiving wisdom",
+            "chapter_range": [
+              26,
+              36
+            ],
+            "position_description": "Marilla's moral judgment becomes openly humane: she values Anne's growth, defends her education, and recognizes the importance of love and forgiveness before loss makes them impossible.",
+            "key_moments": [
+              "Supports Anne's education against criticism",
+              "Confesses love after Matthew's death",
+              "Reflects on regret and the need to speak affection while it can still be heard"
+            ]
+          }
+        ],
+        "evidence_summary": "Marilla does not become permissive, but she becomes morally wiser. The arc moves from rigid external judgment toward compassionate discernment that can admit error, trust Anne, and prioritize fairness over severity."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Reserve-Expressiveness",
+        "axis_name": "From emotional repression to partial emotional candor",
+        "pole_start": "Marilla begins as someone who suppresses feeling, translates emotion into practicality, and avoids overt sentiment. Her self-image is that of a stern, controlled woman who does not indulge in display.",
+        "pole_end": "Marilla ends as someone who remains reserved in style but now allows grief, love, pride, and loneliness to surface openly when circumstances demand it. She is no longer emotionally sealed.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Repressed composure",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Marilla keeps emotion tightly managed, expressing care through duty and correction rather than direct affection.",
+            "key_moments": [
+              "Frames adoption as duty",
+              "Masks pity with sternness",
+              "Uses practical instruction instead of emotional reassurance"
+            ]
+          },
+          {
+            "phase": "Cracks in composure",
+            "chapter_range": [
+              8,
+              12
+            ],
+            "position_description": "Her composure begins to fail in small ways: she laughs, feels embarrassed, and admits guilt, showing that feeling is breaking through habit.",
+            "key_moments": [
+              "Laughs at Anne's outburst and the surrounding absurdity",
+              "Feels embarrassed by public scenes",
+              "Admits she misjudged Anne"
+            ]
+          },
+          {
+            "phase": "Warm restraint",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "She remains outwardly dry, but affection is increasingly visible in her tone, permissions, and quiet pride. Emotion is present, though still filtered through reserve.",
+            "key_moments": [
+              "Admits she is glad Anne stayed",
+              "Supports Anne's social life and school progress",
+              "Shows pride while trying to hide it"
+            ]
+          },
+          {
+            "phase": "Open grief and love",
+            "chapter_range": [
+              21,
+              36
+            ],
+            "position_description": "Marilla becomes capable of direct emotional speech and visible grief. She confesses love, cries, and acknowledges loneliness and dependence, even if she still feels awkward doing so.",
+            "key_moments": [
+              "Says Anne is dearer than anything else on earth",
+              "Cries over Anne leaving for Queen's",
+              "Breaks down after Matthew's death and accepts Anne's support"
+            ]
+          }
+        ],
+        "evidence_summary": "Marilla's emotional life does not become flamboyant, but it becomes legible. The arc is from repression to selective candor, with love and grief eventually overriding her habitual self-control."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Marilla Cuthbert",
+        "target_character": "Anne Shirley",
+        "dimension_label": "Suspicion-Attachment",
+        "axis_name": "From wary guardian to devoted mother-figure",
+        "pole_start": "Marilla begins by seeing Anne as a mistaken, risky, and potentially troublesome child whose presence must be managed or corrected.",
+        "pole_end": "Marilla ends as deeply attached to Anne, emotionally dependent on her presence, and invested in her future with maternal love and pride.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial suspicion",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Marilla is low-trust and low-intimacy, treating Anne as an adoption error and a practical burden, though pity begins to emerge.",
+            "key_moments": [
+              "Plans to send Anne back",
+              "Judges her by usefulness",
+              "Refuses to give her to Mrs. Blewett"
+            ]
+          },
+          {
+            "phase": "Protective correction",
+            "chapter_range": [
+              6,
+              12
+            ],
+            "position_description": "She begins to care for Anne as a neglected child, not merely a nuisance. Trust remains limited, but esteem and concern rise.",
+            "key_moments": [
+              "Starts religious and moral training",
+              "Feels maternal warmth when Anne takes her hand",
+              "Apologizes after the brooch misunderstanding"
+            ]
+          },
+          {
+            "phase": "Fond guardianship",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "Marilla is now openly invested in Anne's happiness and success, though she still corrects her constantly. Intimacy grows through shared domestic life.",
+            "key_moments": [
+              "Laughs at Anne's grief and antics",
+              "Supports Anne's friendship with Diana",
+              "Feels proud of Anne's competence"
+            ]
+          },
+          {
+            "phase": "Maternal attachment",
+            "chapter_range": [
+              21,
+              32
+            ],
+            "position_description": "Marilla's attachment becomes unmistakably maternal: she fears for Anne, misses her, and grieves her departure. Trust and esteem are now high.",
+            "key_moments": [
+              "Realizes Anne is dearer than anything else on earth",
+              "Feels lonely when Anne is away",
+              "Cries over Anne leaving for Queen's"
+            ]
+          },
+          {
+            "phase": "Love under loss",
+            "chapter_range": [
+              34,
+              36
+            ],
+            "position_description": "Anne becomes Marilla's emotional anchor after Matthew's death and her own health crisis. The relationship is now one of mutual dependence and deep love.",
+            "key_moments": [
+              "Defends Anne's education",
+              "Confesses love after Matthew's death",
+              "Finds hope when Anne stays"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Marilla's central relational arc. She moves from suspicion and control to profound maternal attachment, with trust, esteem, and intimacy all rising substantially."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Marilla Cuthbert",
+        "target_character": "Matthew Cuthbert",
+        "dimension_label": "Deference-Partnership",
+        "axis_name": "From practical deference to emotionally equal companionship",
+        "pole_start": "Marilla begins as the more forceful household partner, yielding to Matthew's rare wishes out of duty and affection but still occupying the dominant practical role.",
+        "pole_end": "Marilla ends in a deeply shared emotional partnership with Matthew, where their mutual love for Anne and their long companionship are fully acknowledged, even in grief.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Practical deference",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Marilla respects Matthew and yields to him, but she remains the decisive one in household matters.",
+            "key_moments": [
+              "Agrees to the adoption because Matthew wants it",
+              "Is irritated by his sympathy for Anne",
+              "Still manages the household"
+            ]
+          },
+          {
+            "phase": "Quiet alignment",
+            "chapter_range": [
+              6,
+              20
+            ],
+            "position_description": "Their relationship becomes more collaborative around Anne. Matthew's tenderness and Marilla's discipline complement each other, even when they disagree.",
+            "key_moments": [
+              "Matthew supports Anne staying",
+              "Marilla laughs with him over Anne's antics",
+              "They share pride in Anne's progress"
+            ]
+          },
+          {
+            "phase": "Shared devotion and grief",
+            "chapter_range": [
+              21,
+              35
+            ],
+            "position_description": "Matthew becomes not just a partner but a beloved emotional equal. Marilla's grief at his death reveals the depth of their lifelong intimacy.",
+            "key_moments": [
+              "Matthew's death shatters her reserve",
+              "She confesses love and dependence to Anne",
+              "She mourns the loss of their shared life"
+            ]
+          },
+          {
+            "phase": "After Matthew",
+            "chapter_range": [
+              36,
+              36
+            ],
+            "position_description": "Matthew's absence leaves Marilla more vulnerable, but his role persists as a source of memory and shared household identity.",
+            "key_moments": [
+              "Anne stays to support Marilla after Matthew's death",
+              "Marilla faces the future without him"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew is Marilla's most stable and intimate adult relationship. The arc deepens from deference into full companionship and shared emotional life, with his death exposing how central that bond had become."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Marilla Cuthbert",
+        "target_character": "Mrs. Rachel Lynde",
+        "dimension_label": "Social Reliance",
+        "axis_name": "From deference to community judgment to independent moral confidence",
+        "pole_start": "Marilla begins as someone who values Rachel's practical social judgment and is influenced by her alarm and criticism.",
+        "pole_end": "Marilla ends as someone who still respects Rachel's usefulness but no longer lets her judgments govern her own moral and emotional decisions.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Social deference",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Marilla listens to Rachel and is affected by her alarm, though she does not fully submit to her.",
+            "key_moments": [
+              "Rachel amplifies Marilla's doubts about the adoption",
+              "Marilla is relieved when Rachel leaves",
+              "Rachel serves as a practical social reference point"
+            ]
+          },
+          {
+            "phase": "Respectful resistance",
+            "chapter_range": [
+              6,
+              18
+            ],
+            "position_description": "Marilla continues to consult Rachel, but increasingly filters her advice through her own judgment and Anne's needs.",
+            "key_moments": [
+              "Accepts Rachel's advice about Anne's school crisis",
+              "Corrects Rachel when she is too harsh",
+              "Grows less governed by Rachel's opinions"
+            ]
+          },
+          {
+            "phase": "Independent confidence",
+            "chapter_range": [
+              19,
+              36
+            ],
+            "position_description": "Marilla still values Rachel as a community presence, but she is more self-trusting and less dependent on Rachel's approval or criticism.",
+            "key_moments": [
+              "Hears Rachel's opinions on education and Anne",
+              "Defends Anne's worth and future",
+              "Acts from her own love and judgment rather than social pressure"
+            ]
+          }
+        ],
+        "evidence_summary": "Rachel remains important as a social mirror, but Marilla gradually becomes less deferential and more morally self-directed."
+      }
+    ]
+  },
+  "Matthew Cuthbert": {
+    "character": "Matthew Cuthbert",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From shy practical reserve to protective relational devotion",
+            "set_b_axis": "From habitual passivity to tender relational commitment",
+            "overlap_description": "Both describe Matthew's movement from quiet, low-agency reserve into active, protective, emotionally invested communion centered on Anne."
+          },
+          {
+            "set_a_axis": "From practical suspicion to charitable trust",
+            "set_b_axis": "From procedural correctness to compassionate moral judgment",
+            "overlap_description": "Both track a shift from utilitarian or rule-bound evaluation toward mercy, generosity, and trust in Anne's character."
+          },
+          {
+            "set_a_axis": "From self-effacing timidity to quiet moral confidence",
+            "set_b_axis": "From silent restraint to shy but meaningful emotional expression",
+            "overlap_description": "Both capture Matthew's growth in inward assurance and his increasingly legible, though still restrained, expressions of care and pride."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-effacing timidity to quiet moral confidence",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From unexamined habit to partial awareness of attachment and aging",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From accidental responsibility to fatherly devotion",
+            "set_b_axis": "From shy curiosity to paternal devotion",
+            "overlap_description": "Both describe the same central arc: Matthew's relationship with Anne evolves from a practical, uncertain encounter into deep paternal love, protection, pride, and emotional centrality."
+          },
+          {
+            "set_a_axis": "From deferential partnership to gently differentiated co-parenting",
+            "set_b_axis": "From habitual deference to intimate domestic alliance",
+            "overlap_description": "Both show Matthew and Marilla moving from a hierarchy of deference toward a more balanced, mutually trusting domestic partnership."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From social distance to practical trust",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From social distance to practical trust",
+            "assessment": "artifact"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From habitual passivity to tender relational commitment",
+        "pole_start": "Quietly passive, self-effacing, and routine-bound: Matthew begins as a shy man who avoids assertion and relies on habit, duty, and Marilla's decisiveness.",
+        "pole_end": "Still gentle and non-dominating, but now actively communal and self-authorizing: by the end he is a protective, affectionate father-figure whose care for Anne shapes his choices and voice.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial hesitation and duty",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Matthew goes to Bright River in a practical, duty-driven frame, anxious and socially awkward, expecting a boy and unprepared for the emotional disruption of Anne's arrival.",
+            "key_moments": [
+              "goes to Bright River to meet the adopted child",
+              "is startled by the adoption mistake",
+              "wishes Marilla were present to manage the crisis"
+            ]
+          },
+          {
+            "phase": "Reluctant emotional opening",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "Anne's talkativeness, wonder, and vulnerability draw him out of passivity. He begins acting from tenderness rather than routine, quietly siding with Anne against harshness and inconvenience.",
+            "key_moments": [
+              "is charmed by Anne's conversation on the drive home",
+              "delays correcting the mistake to spare her feelings",
+              "advocates keeping Anne at Green Gables"
+            ]
+          },
+          {
+            "phase": "Quiet advocacy and growing confidence",
+            "chapter_range": [
+              6,
+              24
+            ],
+            "position_description": "Matthew becomes more willing to assert himself for Anne's sake while remaining shy. His restraint now serves care: he buys gifts, supports her pleasures, and defends her against unfair judgment.",
+            "key_moments": [
+              "buys chocolate sweeties",
+              "defends Anne after the Mrs. Lynde quarrel and other criticisms",
+              "insists Anne should attend the concert",
+              "helps with practical care during crises"
+            ]
+          },
+          {
+            "phase": "Confident paternal communion",
+            "chapter_range": [
+              25,
+              35
+            ],
+            "position_description": "Matthew's identity settles into warm fatherhood. He actively nurtures Anne's future, takes pride in her achievements, and expresses love through gifts, reassurance, and final devotion even as his health declines.",
+            "key_moments": [
+              "buys the puffed-sleeve dress and pearl beads",
+              "supports Anne's education and Queen's ambitions",
+              "calls Anne 'my girl'",
+              "dies with his attachment fully established"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew moves from shy, duty-bound passivity into active, protective communion. He never becomes forceful or dominant, but he does become self-authorizing in service of Anne, with his agency increasingly expressed through care, advocacy, and paternal devotion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Judgment Style",
+        "axis_name": "From practical suspicion to compassionate moral judgment",
+        "pole_start": "Matthew initially thinks in terms of utility, procedure, and avoiding inconvenience, evaluating the adoption through household needs rather than emotional reality.",
+        "pole_end": "By the end he consistently privileges kindness, context, and humane allowance over strict correctness, trusting Anne's goodness and promise.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Practical baseline",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Matthew begins with a utilitarian model of judgment: the child should fit the farm's needs and the adoption should be handled efficiently and quietly.",
+            "key_moments": [
+              "expects an adopted boy who can help on the farm",
+              "is disoriented when the orphan is a girl",
+              "goes to fetch the child as a practical household solution"
+            ]
+          },
+          {
+            "phase": "Moral revision through Anne",
+            "chapter_range": [
+              2,
+              8
+            ],
+            "position_description": "Anne's distress repeatedly forces him to revise his priorities. He comes to believe that a child's feelings and dignity matter more than procedural correction or convenience.",
+            "key_moments": [
+              "refuses to immediately correct the adoption mistake",
+              "objects to Mrs. Blewett as cruel",
+              "supports keeping Anne at Green Gables",
+              "urges leniency after Anne's punishments"
+            ]
+          },
+          {
+            "phase": "Established merciful trust",
+            "chapter_range": [
+              10,
+              34
+            ],
+            "position_description": "His judgment becomes consistently charitable. He interprets Anne's mistakes through context and deprivation, gives her the benefit of the doubt, and treats her promise as proven and worth investing in.",
+            "key_moments": [
+              "defends Anne after the Mrs. Lynde quarrel",
+              "is relieved when the brooch misunderstanding is cleared up",
+              "buys chocolate sweeties and other gifts",
+              "supports her academic and social success"
+            ]
+          },
+          {
+            "phase": "Mercy under strain",
+            "chapter_range": [
+              35,
+              35
+            ],
+            "position_description": "Even in his final decline, Matthew's moral center remains unchanged: Anne's happiness and security matter most, and his last choices continue to reflect humane care rather than rule-bound correctness.",
+            "key_moments": [
+              "calls Anne 'my girl'",
+              "continues to support her future despite failing health",
+              "dies after a life organized around her welfare"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew's arc repeatedly moves away from narrow practicality and toward compassionate interpretation. He learns to read Anne through context, deprivation, and promise, and this becomes one of the novel's clearest moral developments in him."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Reserve-Expression",
+        "axis_name": "From silent restraint to shy but meaningful emotional expression",
+        "pole_start": "Nearly inexpressive, habitually silent, and emotionally opaque: Matthew begins with feelings that are present but mostly unreadable.",
+        "pole_end": "Still reserved, but capable of clear, brief expressions of affection, pride, and reassurance that make his love unmistakable.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Near-silence",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Matthew's default mode is silence and minimal social expression. He communicates more through action than speech and is anxious but restrained.",
+            "key_moments": [
+              "anxious journey to Bright River",
+              "communicates more through action than speech"
+            ]
+          },
+          {
+            "phase": "Indirect tenderness",
+            "chapter_range": [
+              3,
+              17
+            ],
+            "position_description": "He begins to express feeling through small acts and hesitant interventions rather than direct declaration. His behavior becomes legible as care even when his speech remains sparse.",
+            "key_moments": [
+              "keeps Anne from immediate rejection",
+              "gives her sweeties",
+              "repeats his opinion until Marilla allows the concert",
+              "quietly urges Anne toward reconciliation"
+            ]
+          },
+          {
+            "phase": "Briefly explicit affection",
+            "chapter_range": [
+              23,
+              34
+            ],
+            "position_description": "Matthew becomes more openly affectionate in short, characteristic bursts. He still does not become talkative, but he now says and does things that unmistakably reveal love and pride.",
+            "key_moments": [
+              "buys the dress and pearl beads",
+              "shows pride in Anne's success",
+              "calls Anne 'my girl'",
+              "offers reassurance after criticism"
+            ]
+          },
+          {
+            "phase": "Final silence made legible",
+            "chapter_range": [
+              35,
+              35
+            ],
+            "position_description": "His death ends further expression, but the novel retrospectively makes his long-suppressed affection fully visible through Anne's grief and the household's mourning.",
+            "key_moments": [
+              "sudden death after the bank news",
+              "Anne's grief confirms the emotional meaning of his silence"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew never becomes verbally expansive, but he does move from near-total reserve to a pattern of shy, unmistakable emotional expression. His affection is increasingly visible in gifts, interventions, and brief endearments."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Self-Knowledge",
+        "axis_name": "From unexamined habit to partial awareness of attachment and aging",
+        "pole_start": "He begins with little explicit self-reflection and little awareness of how unusual his choices are.",
+        "pole_end": "He ends with partial but real awareness of his emotional investment in Anne and of his own physical decline.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Unreflective beginning",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Matthew acts before he analyzes. He is not yet conscious of how deeply Anne is affecting him, and he does not reflect on his own motives.",
+            "key_moments": [
+              "goes to meet the child without much verbal explanation",
+              "quietly sides with Anne before fully understanding why"
+            ]
+          },
+          {
+            "phase": "Growing but unarticulated awareness",
+            "chapter_range": [
+              6,
+              24
+            ],
+            "position_description": "He increasingly behaves as though he knows Anne matters, but he still does not fully name the emotional significance of that fact. His self-knowledge remains indirect.",
+            "key_moments": [
+              "continues to support Anne in small ways",
+              "shows sheepishness when indulging her",
+              "acts as if her happiness is central without analyzing why"
+            ]
+          },
+          {
+            "phase": "Awareness of age and attachment",
+            "chapter_range": [
+              29,
+              34
+            ],
+            "position_description": "Matthew becomes more aware of his own aging and frailty, and he also seems to recognize, at least dimly, how central Anne has become to his life and home.",
+            "key_moments": [
+              "admits he is getting old",
+              "speaks with pride and tenderness about Anne",
+              "shows a quiet sense that keeping her was providential"
+            ]
+          },
+          {
+            "phase": "Interrupted selfhood",
+            "chapter_range": [
+              35,
+              35
+            ],
+            "position_description": "Death cuts off further self-understanding. What remains is the completed picture of a man whose feelings were larger than his self-description.",
+            "key_moments": [
+              "sudden death prevents further reflection",
+              "posthumous remembrance reveals the depth of his attachment"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew's self-knowledge is limited but real. Over time he becomes more aware of his age, frailty, and the emotional importance of Anne, though he never fully theorizes his own transformation."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Matthew Cuthbert",
+        "target_character": "Anne Shirley",
+        "dimension_label": "Affection-Protection",
+        "axis_name": "From shy curiosity to paternal devotion",
+        "pole_start": "He begins as a nervous adult meeting a strange child on a practical errand, with only tentative curiosity and no established bond.",
+        "pole_end": "He ends as a deeply affectionate, proud, and protective father-figure whose emotional life is organized around Anne's happiness and future.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "First encounter and surprise",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Matthew is initially anxious and socially awkward, but Anne's talkativeness and vulnerability quickly charm him. The relationship begins in surprise and soft fascination.",
+            "key_moments": [
+              "meets Anne at Bright River",
+              "is soothed and amused by her conversation",
+              "delays correcting the adoption mistake to protect her feelings"
+            ]
+          },
+          {
+            "phase": "Protective advocacy",
+            "chapter_range": [
+              3,
+              8
+            ],
+            "position_description": "He moves from fascination to active protectiveness. He wants Anne spared humiliation, punishment, and harsh treatment, and he quietly advocates for her staying at Green Gables.",
+            "key_moments": [
+              "opposes sending Anne to Mrs. Blewett",
+              "supports keeping Anne at Green Gables",
+              "urges her to apologize so she can rejoin the household"
+            ]
+          },
+          {
+            "phase": "Everyday affection",
+            "chapter_range": [
+              10,
+              27
+            ],
+            "position_description": "The bond becomes habitual and warm. Matthew expresses care through gifts, listening, practical help, and quiet encouragement, while Anne increasingly trusts him as a safe emotional presence.",
+            "key_moments": [
+              "gives Anne chocolate sweeties",
+              "helps with crises and social situations",
+              "buys the Christmas dress and pearl beads",
+              "encourages her imagination and ambitions"
+            ]
+          },
+          {
+            "phase": "Proud fatherhood and loss",
+            "chapter_range": [
+              30,
+              35
+            ],
+            "position_description": "Matthew's attachment is fully paternal: he is proud of Anne's achievements, moved by her growth, and dies before seeing her future unfold. His love is confirmed by his final role in her life and by the grief that follows.",
+            "key_moments": [
+              "takes joy in Anne's academic success",
+              "calls Anne 'my girl'",
+              "supports her move toward Queen's",
+              "dies, leaving Anne to grieve him at his grave"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Matthew's central relational arc. He moves from a practical errand-based connection to a stable, deeply affectionate paternal bond, expressed through protection, gifts, pride, and quiet emotional dependence."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Matthew Cuthbert",
+        "target_character": "Marilla Cuthbert",
+        "dimension_label": "Deference-Alliance",
+        "axis_name": "From habitual deference to intimate domestic alliance",
+        "pole_start": "He begins as a deferential brother who relies on Marilla's practical judgment and lets her manage the household.",
+        "pole_end": "He ends as a deeply trusted companion whose bond with Marilla is intimate, steady, and emotionally mutual, even when they differ over Anne.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Established household deference",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Matthew starts from a long-standing pattern of quiet reliance on Marilla. She handles practical matters, while he provides rare initiative and then yields to her management.",
+            "key_moments": [
+              "Marilla is astonished by his errand",
+              "he depends on her to handle the social and practical fallout"
+            ]
+          },
+          {
+            "phase": "Gentle disagreement over Anne",
+            "chapter_range": [
+              3,
+              12
+            ],
+            "position_description": "He remains deferential but begins to diverge emotionally from Marilla's severity. Their relationship becomes more intimate because he can quietly oppose her while still trusting her.",
+            "key_moments": [
+              "hesitates over correcting the adoption mistake",
+              "supports keeping Anne",
+              "cautiously resists harsh punishment"
+            ]
+          },
+          {
+            "phase": "Shared domestic warmth",
+            "chapter_range": [
+              13,
+              32
+            ],
+            "position_description": "Their bond settles into a warm alliance. They share pride in Anne, household routines, and a growing emotional openness, even if Matthew remains the quieter partner.",
+            "key_moments": [
+              "Marilla's laughter surprises him",
+              "they jointly support Anne's education and success",
+              "he comforts Marilla in moments of sadness"
+            ]
+          },
+          {
+            "phase": "Final mutual dependence",
+            "chapter_range": [
+              34,
+              35
+            ],
+            "position_description": "As Matthew weakens and dies, the relationship becomes one of profound mutual dependence and shared grief. Their long companionship is fully visible in the emotional aftermath.",
+            "key_moments": [
+              "Matthew acknowledges aging and frailty",
+              "Marilla grieves his death deeply",
+              "their shared life at Green Gables is emotionally foregrounded"
+            ]
+          }
+        ],
+        "evidence_summary": "Matthew and Marilla begin as a quiet, functional pair and end as emotionally intertwined companions. The arc is less about conflict than about the deepening visibility of a lifelong alliance shaped by trust, intimacy, and shared care for Anne."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Matthew Cuthbert",
+        "target_character": "Mrs. Rachel Lynde",
+        "dimension_label": "Practical Trust",
+        "axis_name": "From social distance to practical trust",
+        "pole_start": "Matthew begins with little social engagement and some discomfort around Mrs. Lynde's judgmental presence.",
+        "pole_end": "He ends by trusting her practical help and relying on her for Anne's dress, even if he still finds her socially intrusive.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Mild social discomfort",
+            "chapter_range": [
+              8,
+              8
+            ],
+            "position_description": "Matthew is aligned against Mrs. Lynde when she criticizes Anne, treating her as meddlesome rather than authoritative.",
+            "key_moments": [
+              "calls Mrs. Lynde meddlesome"
+            ]
+          },
+          {
+            "phase": "Practical enlistment",
+            "chapter_range": [
+              23,
+              23
+            ],
+            "position_description": "Despite earlier irritation, Matthew turns to Mrs. Lynde for help with Anne's dress, showing that he trusts her competence and judgment in a practical matter.",
+            "key_moments": [
+              "seeks Mrs. Lynde's help after the shopping trip",
+              "asks for the dress to be made in the newest style with puffed sleeves"
+            ]
+          }
+        ],
+        "evidence_summary": "This is a minor but real relational shift: Matthew moves from dismissing Mrs. Lynde's interference to relying on her as a practical ally in caring for Anne."
+      }
+    ]
+  },
+  "Diana Barry": {
+    "character": "Diana Barry",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From sheltered communal attachment to steadier, more self-managed social belonging",
+            "set_b_axis": "From socially receptive child to consistently communal companion",
+            "overlap_description": "Both describe Diana as fundamentally communion-oriented, with only modest change over time. Set A emphasizes a slight increase in self-management and resilience; Set B emphasizes overall stability and continued relational warmth."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From sheltered communal attachment to steadier, more self-managed social belonging",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From socially receptive child to consistently communal companion",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From delighted first friendship to durable lifelong bond",
+            "set_b_axis": "From anticipated friendship to enduring bosom-friend bond",
+            "overlap_description": "Both track the Diana-Anne relationship from initial idealized or immediate attachment into a lasting, high-trust friendship that survives conflict, secrecy, and separation."
+          },
+          {
+            "set_a_axis": "From untroubled maternal dependence to constrained but respectful obedience",
+            "set_b_axis": "From unquestioning filial compliance to briefly strained but restored obedience",
+            "overlap_description": "Both identify a mild but real shift in Diana's relation to Mrs. Barry when maternal authority temporarily restricts her friendship with Anne, followed by restored compliance."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From background boy to admired rescuer",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From neutral school acquaintance to lightly appreciative peer",
+            "assessment": "artifact"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From sheltered communal attachment to steadier, more self-managed social belonging",
+        "pole_start": "Communion-dominant: Diana begins as a socially receptive, family-bounded girl whose identity is strongly shaped by friendship, companionship, and adult permission.",
+        "pole_end": "Still communion-dominant, but with greater self-management: she remains relationally oriented while becoming more able to cope with separation, sustain bonds across distance, and function with modest independence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Anticipated companionship",
+            "chapter_range": [
+              2,
+              9
+            ],
+            "position_description": "Diana is first imagined as the ideal friend Anne longs for, already framed by intimacy and companionship before she is fully present in the story.",
+            "key_moments": [
+              "Anne responds with delight to Diana's name",
+              "Diana is positioned as Anne's hoped-for bosom friend"
+            ]
+          },
+          {
+            "phase": "Immediate relational opening",
+            "chapter_range": [
+              10,
+              11
+            ],
+            "position_description": "Diana quickly enters a warm attachment with Anne; her motivation is communal, centered on shared play, mutual plans, and emotional closeness.",
+            "key_moments": [
+              "Accepts Anne's bosom-friend oath",
+              "Begins close friendship and future plans for companionship"
+            ]
+          },
+          {
+            "phase": "Communion under pressure",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "Adult authority constrains her attachment; Diana learns that belonging depends on negotiation, obedience, and endurance rather than spontaneous closeness alone.",
+            "key_moments": [
+              "Mrs. Barry forbids contact with Anne",
+              "Diana writes a loyal note while obeying her mother",
+              "Friendship is publicly restored after the crisis"
+            ]
+          },
+          {
+            "phase": "Stable loyal companion",
+            "chapter_range": [
+              19,
+              30
+            ],
+            "position_description": "Diana remains highly communal, but her attachment becomes more durable and less dependent on immediate proximity. She acts as a steady supporter, confidante, and witness to Anne's growth.",
+            "key_moments": [
+              "Visits Anne faithfully during confinement",
+              "Keeps Anne's hair-dye secret",
+              "Panics at Anne's apparent drowning and then rejoices",
+              "Helps arrange the Charlottetown trip and shares Anne's triumph"
+            ]
+          },
+          {
+            "phase": "More independent continuity",
+            "chapter_range": [
+              31,
+              36
+            ],
+            "position_description": "Diana still defines herself through friendship, but she shows more emotional regulation and continuity across change: she can part from Anne, maintain contact, and keep the bond alive without needing constant closeness.",
+            "key_moments": [
+              "Gives a tearful farewell but recovers",
+              "Accepts Anne's move toward Redmond while staying rooted in Avonlea",
+              "Continues their private signaling custom"
+            ]
+          }
+        ],
+        "evidence_summary": "Diana is consistently communion-oriented throughout the novel. The strongest synthesis is not a dramatic shift toward agency, but a modest movement from sheltered relational dependence toward steadier, more resilient social belonging and self-regulation."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Diana Barry",
+        "target_character": "Anne Shirley",
+        "dimension_label": "Intimacy-Loyalty",
+        "axis_name": "From anticipated friendship to enduring bosom-friend bond",
+        "pole_start": "A hoped-for companion, first idealized in Anne's imagination and then immediately embraced in lived friendship.",
+        "pole_end": "A deeply trusted, affectionate, and enduring intimate friend whose bond survives conflict, secrecy, separation, grief, and Anne's growing adulthood.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Imagined friend",
+            "chapter_range": [
+              2,
+              9
+            ],
+            "position_description": "Diana exists first as an anticipated ideal friend, emotionally projected before the relationship is lived.",
+            "key_moments": [
+              "Anne is delighted by Diana's name",
+              "Diana is framed as the hoped-for bosom friend"
+            ]
+          },
+          {
+            "phase": "Immediate bonding",
+            "chapter_range": [
+              10,
+              16
+            ],
+            "position_description": "The friendship becomes real and rapidly deepens into mutual affection, shared play, and emotional reliance.",
+            "key_moments": [
+              "First meeting and instant companionship",
+              "Picnic, playhouse, and school friendship",
+              "Separation after the currant wine incident",
+              "Tearful reconciliation after Minnie May's illness"
+            ]
+          },
+          {
+            "phase": "Consolidated intimacy",
+            "chapter_range": [
+              17,
+              36
+            ],
+            "position_description": "The bond stabilizes at high intimacy and trust. Diana repeatedly proves loyal through secrets, support, celebration, and comfort, even when minor tensions arise.",
+            "key_moments": [
+              "Supports Anne after the bed accident",
+              "Keeps the hair-dye secret",
+              "Panics and rejoices over Anne's near-drowning",
+              "Celebrates Anne's academic success and concert life",
+              "Shows brief jealousy about Stella but quickly reaffirms closeness",
+              "Offers comfort after Matthew's death"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Diana's strongest relational arc. It moves from anticipated or immediate attachment into a tested, resilient, and long-term friendship that remains the emotional center of her story."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Diana Barry",
+        "target_character": "Mrs. Barry",
+        "dimension_label": "Obedience-Autonomy",
+        "axis_name": "From unquestioning filial compliance to briefly strained but restored obedience",
+        "pole_start": "A daughter whose relationship to her mother is initially secure, deferential, and untroubled by visible tension.",
+        "pole_end": "Still obedient and respectful, but now with a clearer sense of the emotional cost of parental control and the need for reconciliation after restriction.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Stable filial dependence",
+            "chapter_range": [
+              10,
+              13
+            ],
+            "position_description": "Mrs. Barry is mostly backgrounded; Diana's family life appears stable and unconflicted before the friendship crisis.",
+            "key_moments": [
+              "Respectful home life",
+              "No resistance to Mrs. Barry's standards"
+            ]
+          },
+          {
+            "phase": "Authority-induced rupture",
+            "chapter_range": [
+              14,
+              15
+            ],
+            "position_description": "The currant wine incident and resulting ban on Anne make Diana visibly sorrowful and constrained. She obeys, but the cost of obedience becomes emotionally explicit.",
+            "key_moments": [
+              "Mrs. Barry's anger after the tea",
+              "Diana's tearful farewell and enforced separation from Anne"
+            ]
+          },
+          {
+            "phase": "Reconciled compliance",
+            "chapter_range": [
+              16,
+              36
+            ],
+            "position_description": "After Mrs. Barry relents, Diana returns to her usual deferential position, but the relationship now carries the memory of how easily authority can interrupt her attachments.",
+            "key_moments": [
+              "Mrs. Barry welcomes Anne again after the crisis",
+              "Diana resumes normal companionship and family life",
+              "Continued respectful relation to Mrs. Barry in later chapters"
+            ]
+          }
+        ],
+        "evidence_summary": "Diana does not rebel against her mother, so this is a mild relational axis rather than a major one. The key change is from untested compliance to emotionally aware compliance after a painful interruption."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Diana Barry",
+        "target_character": "Gilbert Blythe",
+        "dimension_label": "Esteem-Admiration",
+        "axis_name": "From background boy to admired rescuer",
+        "pole_start": "Gilbert is initially a peripheral schoolboy figure with little special significance in Diana's emotional world.",
+        "pole_end": "Gilbert becomes someone Diana admires for heroic competence and romantic rescue, though he remains secondary to her bond with Anne.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Low salience",
+            "chapter_range": [
+              10,
+              25
+            ],
+            "position_description": "Gilbert remains peripheral to Diana's emotional life; he is present in the school world but not yet a figure of strong feeling.",
+            "key_moments": [
+              "Diana's focus is on Anne, not Gilbert",
+              "Gilbert is part of the school background"
+            ]
+          },
+          {
+            "phase": "Heroic revaluation",
+            "chapter_range": [
+              26,
+              26
+            ],
+            "position_description": "After the pond rescue, Diana responds to Gilbert's action with admiration and labels it splendid and romantic, elevating him in her esteem.",
+            "key_moments": [
+              "Gilbert rescues Anne from the near-drowning",
+              "Diana admires Gilbert's rescue"
+            ]
+          },
+          {
+            "phase": "Quietly sustained regard",
+            "chapter_range": [
+              27,
+              36
+            ],
+            "position_description": "The admiration lingers as part of her broader social imagination, though it remains secondary to her bond with Anne.",
+            "key_moments": [
+              "Gilbert remains part of the social world Diana inhabits",
+              "His proximity is noted in the context of future change"
+            ]
+          }
+        ],
+        "evidence_summary": "This is a smaller relational axis than Diana's bond with Anne, but the pond rescue gives Gilbert a clear rise in Diana's esteem, shifting him from background presence to admired figure."
+      }
+    ]
+  },
+  "Gilbert Blythe": {
+    "character": "Gilbert Blythe",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From teasing self-assertion to sacrificial fellowship",
+            "set_b_axis": "From teasing self-assertion to cooperative relational investment",
+            "overlap_description": "Both describe the same core shift: Gilbert begins as a self-assured, teasing, agency-heavy boy and matures into someone who orients his agency toward relationship, care, and sacrifice."
+          },
+          {
+            "set_a_axis": "From wounded pride to honorable restraint",
+            "set_b_axis": "From opaque composure to visible vulnerability",
+            "overlap_description": "Both track Gilbert's emotional maturation under rejection: he is initially proud, guarded, and socially composed, then becomes more restrained, emotionally legible, and capable of accepting hurt without retaliation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From wounded pride to honorable restraint",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From opaque composure to visible vulnerability",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From casual teasing to responsible self-correction",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From teasing antagonism to sacrificial goodwill",
+            "set_b_axis": "From teasing rivalry to respectful affection",
+            "overlap_description": "Both identify the Anne-Gilbert relationship as moving from hurtful teasing and rivalry toward mutual respect, friendship, and a culminating act of sacrifice on Anne's behalf."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From ordinary escort to lightly framed companionship",
+            "assessment": "artifact"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From public performer to respected peer",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From teasing self-assertion to cooperative relational investment",
+        "pole_start": "Predominantly agency-driven: self-assured, teasing, socially dominant, and oriented toward winning attention and maintaining his own ease, with communion present only as a light wish to be liked.",
+        "pole_end": "More communion-integrated: still capable and self-directed, but increasingly oriented toward mutual understanding, friendship, sacrifice, and helping Anne even at personal cost.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Playful self-assertion",
+            "chapter_range": [
+              13,
+              17
+            ],
+            "position_description": "Gilbert begins as a confident boy who uses teasing, public performance, and academic competence to assert himself. Communion is limited; he wants Anne's attention, but mostly on his own terms.",
+            "key_moments": [
+              "Chapter 13: teases Anne, then apologizes after hurting her",
+              "Chapter 15: treats Anne as a friendly rival",
+              "Chapter 17: performs publicly with composure while Anne ignores him"
+            ]
+          },
+          {
+            "phase": "Competitive restraint and emotional deepening",
+            "chapter_range": [
+              23,
+              32
+            ],
+            "position_description": "He remains self-possessed and competitive, but his attachment to Anne becomes more visible through quiet gestures and continued concern. Agency still dominates, yet it is increasingly tempered by admiration, hurt, and emotional investment.",
+            "key_moments": [
+              "Chapter 23: keeps Anne's fallen rose in his breast pocket",
+              "Chapter 26: sincerely apologizes and asks to be friends",
+              "Chapter 28: maintains outward indifference while still hurt",
+              "Chapter 31: smiles appreciatively at Anne's recital",
+              "Chapter 32: continues as a focused academic rival"
+            ]
+          },
+          {
+            "phase": "Communion-forward maturity",
+            "chapter_range": [
+              33,
+              36
+            ],
+            "position_description": "Gilbert's self-direction remains intact, but his choices increasingly serve relationship repair and mutual care. He acts with generosity, accepts emotional reciprocity, and makes a concrete sacrifice to support Anne's life at Green Gables.",
+            "key_moments": [
+              "Chapter 33: rivalry softens into respectful admiration",
+              "Chapter 34: wins the medal, confirming disciplined ambition",
+              "Chapter 36: withdraws his Avonlea application so Anne can stay, and openly seeks friendship"
+            ]
+          }
+        ],
+        "evidence_summary": "Gilbert's arc moves from teasing self-assertion toward a mature integration of agency and communion. The strongest evidence comes from his sincere apology, his quiet emotional investment in Anne, and his final willingness to sacrifice personal advantage for her welfare."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Emotional Openness",
+        "axis_name": "From guarded composure to visible vulnerability and repair",
+        "pole_start": "Emotionally guarded and hard to read; he appears cheerful, confident, and socially smooth, with his deeper feelings mostly hidden behind teasing or public competence.",
+        "pole_end": "More emotionally transparent and morally accountable; he shows regret, hurt, hope, generosity, and a willingness to repair harm more clearly, especially in relation to Anne.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Surface confidence",
+            "chapter_range": [
+              13,
+              23
+            ],
+            "position_description": "Gilbert's feelings are mostly inferred from behavior rather than directly expressed. He is amused, apologetic, and interested, but still largely masked by composure and social ease.",
+            "key_moments": [
+              "Chapter 13: teasing followed by a brief apology",
+              "Chapter 15: cheerful rivalry",
+              "Chapter 23: rose-keeping suggests hidden affection"
+            ]
+          },
+          {
+            "phase": "Vulnerability under rejection",
+            "chapter_range": [
+              26,
+              28
+            ],
+            "position_description": "His emotional life becomes more exposed: he sincerely apologizes, hopes for reconciliation, and then shows hurt pride and anger when Anne refuses him. The text makes his attachment harder to dismiss.",
+            "key_moments": [
+              "Chapter 26: 'Can't we be good friends?' and subsequent anger after rejection",
+              "Chapter 28: outward indifference masks lingering hurt"
+            ]
+          },
+          {
+            "phase": "Open warmth",
+            "chapter_range": [
+              33,
+              36
+            ],
+            "position_description": "Gilbert's feelings are increasingly legible as warm, generous, and relational. He is pleased by Anne's esteem and acts in ways that openly communicate care rather than conceal it.",
+            "key_moments": [
+              "Chapter 33: respectful admiration replaces bitterness",
+              "Chapter 36: jubilant at Anne's acceptance of friendship and willing to sacrifice for her"
+            ]
+          }
+        ],
+        "evidence_summary": "Gilbert moves from a boy whose inner life is mostly concealed behind teasing and composure to one whose regret, affection, and generosity are increasingly explicit. His apology, his visible hurt, and his final sacrifice together show a clear increase in emotional openness."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Moral Maturity",
+        "axis_name": "From casual teasing to responsible self-correction",
+        "pole_start": "Morally casual about teasing and social provocation; he treats mockery as normal play and underestimates its emotional cost.",
+        "pole_end": "More morally accountable; he recognizes wrongdoing, apologizes sincerely, and acts to repair harm through concrete sacrifice.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Teasing without full moral awareness",
+            "chapter_range": [
+              13,
+              17
+            ],
+            "position_description": "He teases Anne and seems to assume apology can quickly settle the matter, showing only partial understanding of the harm he caused.",
+            "key_moments": [
+              "Chapter 13: provokes Anne publicly, then apologizes",
+              "Chapter 17: continues ordinary public performance without visible moral reflection"
+            ]
+          },
+          {
+            "phase": "Recognition of fault",
+            "chapter_range": [
+              26,
+              31
+            ],
+            "position_description": "He explicitly acknowledges that he was wrong, tries to repair the relationship, and shows more mature awareness that his earlier behavior mattered.",
+            "key_moments": [
+              "Chapter 26: apologizes for the hair insult and asks for friendship",
+              "Chapter 31: his smile is interpreted as taunting, but the narration clarifies he is appreciative rather than cruel"
+            ]
+          },
+          {
+            "phase": "Responsible repair",
+            "chapter_range": [
+              34,
+              36
+            ],
+            "position_description": "His maturity becomes practical and ethical: he acts on behalf of Anne's good, not just his own comfort, and chooses a path that benefits her household.",
+            "key_moments": [
+              "Chapter 34: public success confirms disciplined seriousness",
+              "Chapter 36: withdraws his Avonlea application so Anne can remain at Green Gables"
+            ]
+          }
+        ],
+        "evidence_summary": "Gilbert's arc includes a clear moral deepening. He begins as a teasing boy with limited sensitivity to consequence, but by the end he is willing to acknowledge fault, repair damage, and make a meaningful sacrifice for Anne."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Gilbert Blythe",
+        "target_character": "Anne Shirley",
+        "dimension_label": "Rivalry-Friendship",
+        "axis_name": "From teasing rivalry to respectful affection and sacrifice",
+        "pole_start": "A provocative, competitive relationship marked by teasing, hurt, and Anne's anger; Gilbert initially seeks attention through mockery and social dominance.",
+        "pole_end": "A warm, respectful bond in which rivalry has softened into mutual esteem, friendship, and a concrete act of self-sacrificing goodwill.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Provocation and rupture",
+            "chapter_range": [
+              13,
+              13
+            ],
+            "position_description": "Gilbert teases Anne, she reacts violently, and he apologizes. The relationship is defined by hurt and failed courtship-by-teasing.",
+            "key_moments": [
+              "Chapter 13: 'carrots' insult and apology"
+            ]
+          },
+          {
+            "phase": "Competitive distance",
+            "chapter_range": [
+              15,
+              32
+            ],
+            "position_description": "He remains Anne's academic rival, but the hostility gradually becomes less absolute. He is still hurt by her rejection, yet he continues to admire her and seek some form of connection.",
+            "key_moments": [
+              "Chapter 15: friendly academic rivalry",
+              "Chapter 23: keeps Anne's rose",
+              "Chapter 26: asks to be friends and is rejected",
+              "Chapter 28: outward indifference, inward hurt",
+              "Chapter 30: ties Anne for first place",
+              "Chapter 31: smiles appreciatively at her recital",
+              "Chapter 32: rivalry persists at Queen's"
+            ]
+          },
+          {
+            "phase": "Respect and reconciliation",
+            "chapter_range": [
+              33,
+              36
+            ],
+            "position_description": "The rivalry softens into admiration and then into explicit friendship. Gilbert's actions show that Anne's welfare matters to him more than winning the contest.",
+            "key_moments": [
+              "Chapter 33: Anne thinks of him as a worthy foeman and intellectual companion",
+              "Chapter 36: he gives up the Avonlea school so Anne can stay and welcomes friendship"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Gilbert's central relational arc. He begins by provoking Anne and ends by valuing her enough to sacrifice for her. The relationship moves from antagonistic teasing to mutual respect, friendship, and a decisive act of goodwill."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Gilbert Blythe",
+        "target_character": "School / Queen's peers",
+        "dimension_label": "Status-Companionship",
+        "axis_name": "From public performer to respected peer",
+        "pole_start": "A socially confident boy who uses public performance and academic success to secure status among peers.",
+        "pole_end": "A respected, easygoing equal whose competence is acknowledged without needing to dominate the social field.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Confident public presence",
+            "chapter_range": [
+              15,
+              17
+            ],
+            "position_description": "He is comfortable in school settings, congratulates others, and performs well in public, showing ease with status and audience.",
+            "key_moments": [
+              "Chapter 15: congratulates Anne when she outperforms him",
+              "Chapter 17: recites at the concert"
+            ]
+          },
+          {
+            "phase": "Academic prestige",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "He becomes the visible standard of excellence at Queen's, but the tone is less about dominance than about earned respect.",
+            "key_moments": [
+              "Chapter 30: ties Anne for first place",
+              "Chapter 34: wins the medal"
+            ]
+          },
+          {
+            "phase": "Practical respectability",
+            "chapter_range": [
+              35,
+              36
+            ],
+            "position_description": "His social identity is now tied to responsible work and future service, not just schoolboy competition. He is a peer others can admire and trust.",
+            "key_moments": [
+              "Chapter 35: preparing to teach",
+              "Chapter 36: takes a teaching post and acts generously"
+            ]
+          }
+        ],
+        "evidence_summary": "Gilbert's relationship to the broader school community is stable but meaningful: he moves from a boy who seeks status through performance to a young man whose competence and responsibility earn respect. This is less dramatic than his Anne arc, but it supports his overall maturation."
+      }
+    ]
+  }
+}

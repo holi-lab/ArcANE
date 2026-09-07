@@ -1,0 +1,261 @@
+{
+  "character": "Dulcinea del Toboso",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From absent object to externally imposed symbolic communion",
+          "set_b_axis": "From absent projection to mediated relational symbol",
+          "overlap_description": "Both describe Dulcinea as lacking independent interiority and becoming increasingly defined through others' projections, especially as a symbolic relational figure rather than an autonomous self."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From absent object to externally imposed symbolic communion",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From absent projection to mediated relational symbol",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From unknown woman to totalized object of chivalric fusion",
+          "set_b_axis": "From imagined beloved to narrated cause of action",
+          "overlap_description": "Both track the same Don Quixote relation: a one-sided idealization that grows from simple projection into a structuring symbolic bond governing vows, suffering, and identity."
+        },
+        {
+          "set_a_axis": "From no relation to coerced symbolic dependence",
+          "set_b_axis": "From absent ideal to manipulated emblem",
+          "overlap_description": "Both describe Sancho's indirect, instrumental engagement with Dulcinea, shifting from mere awareness to coercive or pragmatic use of her name in the disenchantment plot."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From no relation to coerced symbolic dependence",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From literary reference to theatrical prop",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From absent projection to mediated relational symbol",
+      "pole_start": "Purely an externally constructed ideal: no independent agency, no self-assertion, and no direct consciousness; she exists only as a projected beloved.",
+      "pole_end": "Still largely non-agentic, but increasingly framed as a relational symbol with a mediated social function in Don Quixote's fantasies and the courtly prank machinery.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial idealization and absence",
+          "chapter_range": [
+            1,
+            27
+          ],
+          "position_description": "Dulcinea is introduced only through Don Quixote's renaming and devotion. She has no direct speech, action, or self-awareness, and remains an absent object of projection rather than a participating subject.",
+          "key_moments": [
+            "Aldonza Lorenzo is renamed Dulcinea del Toboso",
+            "She is repeatedly invoked as the recipient of vows and praise",
+            "No independent interiority is shown"
+          ]
+        },
+        {
+          "phase": "Mediated social function",
+          "chapter_range": [
+            28,
+            87
+          ],
+          "position_description": "Her image becomes more socially embedded as Sancho, the duke and duchess, and Don Quixote use her name strategically. She is still non-agentic, but now functions as a shared symbolic reference point in comic and chivalric performance.",
+          "key_moments": [
+            "Sancho fabricates replies and uses her name pragmatically",
+            "The duke and duchess exploit her image in courtly deception",
+            "Don Quixote's enchantment narrative makes her a public symbol"
+          ]
+        },
+        {
+          "phase": "Enchanted embodiment and final fixation",
+          "chapter_range": [
+            88,
+            127
+          ],
+          "position_description": "She is briefly given a performed voice in the disenchantment pageant, but this remains externally scripted. The novel ends with her still fundamentally dependent on others' projections and not truly agentic.",
+          "key_moments": [
+            "Merlin's pageant voices a distressed Dulcinea",
+            "The disenchantment plot makes her the object of Sancho's penance",
+            "Later chapters continue to invoke her as Don Quixote's final ideal"
+          ]
+        }
+      ],
+      "evidence_summary": "Dulcinea shows almost no genuine intrapersonal development because she is not sustained as an interior consciousness in the novel. Across the text, she remains overwhelmingly communion-defined and relationally constructed, with no independent agency emerging."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Don Quixote",
+      "dimension_label": "devotional mediation",
+      "axis_name": "From imagined beloved to narrated cause of action",
+      "pole_start": "A purely idealized beloved who exists only as the object of Don Quixote's devotion and fantasy.",
+      "pole_end": "A more elaborately mediated symbolic partner whose name organizes his vows, penance, suffering, and final renunciation, though still without reciprocal consciousness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Foundational ideal and naming",
+          "chapter_range": [
+            1,
+            27
+          ],
+          "position_description": "Dulcinea is entirely a projection of Don Quixote's chivalric imagination; the relationship is one-way devotion with no evidence of her own response.",
+          "key_moments": [
+            "Her name is created and elevated by Don Quixote",
+            "She is invoked as the source of his courage and suffering",
+            "No direct reciprocity is shown"
+          ]
+        },
+        {
+          "phase": "Instrument of vows, penance, and public action",
+          "chapter_range": [
+            28,
+            87
+          ],
+          "position_description": "Her role expands as Don Quixote uses her name to authorize actions, justify penance, and interpret enchantment. She becomes the organizing center of his self-conception and public conduct.",
+          "key_moments": [
+            "Letters and messages are addressed to her",
+            "Her supposed enchantment motivates schemes involving Don Quixote and Sancho",
+            "Courtly figures exploit her name in staged deceptions"
+          ]
+        },
+        {
+          "phase": "Enchantment, rescue fantasy, and final reaffirmation",
+          "chapter_range": [
+            88,
+            127
+          ],
+          "position_description": "She remains the final and exclusive beloved, now tied to disenchantment, suffering, and deathbed renunciation. The relationship is still one-sided but more emotionally charged and terminal.",
+          "key_moments": [
+            "The pageant and disenchantment plot center on her",
+            "Sancho's lashes are meant to restore her",
+            "Don Quixote's final vows and renunciation still orbit her name"
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship with Don Quixote is the only one with sustained significance, but it is structurally one-sided throughout. Dulcinea never becomes an autonomous partner; she remains the imagined beloved whose symbolic function deepens over time."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Sancho Panza",
+      "dimension_label": "comic mediation",
+      "axis_name": "From absent ideal to manipulated emblem",
+      "pole_start": "An absent, unknown lady whose existence is only meaningful through Don Quixote's fantasy.",
+      "pole_end": "A heavily manipulated emblem used by Sancho for practical jokes, bargaining, and the disenchantment plot, still without any direct reciprocal relation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Background absence and indirect awareness",
+          "chapter_range": [
+            1,
+            27
+          ],
+          "position_description": "Sancho knows her only as Don Quixote's lady; she is a distant name with no direct relational content.",
+          "key_moments": [
+            "Sancho hears and repeats her name",
+            "He contrasts her with Aldonza Lorenzo",
+            "No direct relationship exists"
+          ]
+        },
+        {
+          "phase": "Practical manipulation and coerced responsibility",
+          "chapter_range": [
+            28,
+            87
+          ],
+          "position_description": "Sancho increasingly uses her name in letters, lies, and bargaining, while also being drawn into responsibility for her supposed condition. She becomes a tool within his comic pragmatism and a burden imposed by the enchantment story.",
+          "key_moments": [
+            "Sancho fabricates replies",
+            "He leverages her name to manage Don Quixote",
+            "Merlin frames her restoration as dependent on Sancho's penance"
+          ]
+        },
+        {
+          "phase": "Disenchantment instrument and persistent leverage",
+          "chapter_range": [
+            88,
+            127
+          ],
+          "position_description": "She becomes the explicit justification for Sancho's lashes and the central token in the enchantment/disenchantment bargain. The connection remains external, coercive, and non-mutual, even as it is used for comic pressure and narrative leverage.",
+          "key_moments": [
+            "Merlin's pageant speaks in her name",
+            "Sancho is pressured to scourge himself for her restoration",
+            "Her name remains a practical and comic lever"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho's relation to Dulcinea is not intimate but instrumental. Over time, he moves from merely repeating her name to actively manipulating it, yet this is a change in use rather than in mutual relationship."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Duke and Duchess",
+      "dimension_label": "courtly exploitation",
+      "axis_name": "From literary reference to theatrical prop",
+      "pole_start": "A literary and chivalric reference point known only through Don Quixote's story.",
+      "pole_end": "A theatrical prop in the duke and duchess's elaborate mockery, used to stage enchantment, rivalry, and social performance.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Reference point and social amusement",
+          "chapter_range": [
+            83,
+            87
+          ],
+          "position_description": "The duke and duchess treat Dulcinea as part of the Don Quixote legend, using her name to frame their amusement and courtly play.",
+          "key_moments": [
+            "They discuss and praise her in conversation",
+            "Her identity is folded into their knowledge of Don Quixote",
+            "She becomes a topic for social performance"
+          ]
+        },
+        {
+          "phase": "Theatrical prop and staged manipulation",
+          "chapter_range": [
+            88,
+            127
+          ],
+          "position_description": "Her image is staged, impersonated, and weaponized in the enchantment/disenchantment plot, making her a tool of aristocratic manipulation rather than a person.",
+          "key_moments": [
+            "Merlin's pageant presents a voiced Dulcinea",
+            "The duchess uses her name to sustain the prank",
+            "Her supposed condition becomes part of the court's spectacle"
+          ]
+        }
+      ],
+      "evidence_summary": "The duke and duchess do not relate to Dulcinea as a person but as a narrative device. Their interaction is best understood as exploitation of her symbolic value for entertainment and control."
+    }
+  ]
+}

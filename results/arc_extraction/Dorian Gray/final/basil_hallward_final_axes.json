@@ -1,0 +1,472 @@
+{
+  "character": "Basil Hallward",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-contained artist to fused guardian-devotee",
+          "set_b_axis": "From guarded artistic self-protection to engulfed relational devotion",
+          "overlap_description": "Both track Basil's movement from secrecy, control, and artistic self-containment toward intense relational fusion with Dorian, especially as protectiveness becomes devotion and self-boundaries erode."
+        },
+        {
+          "set_a_axis": "From worshipful admiration to moral horror",
+          "set_b_axis": "From aesthetic idealization to moral horror",
+          "overlap_description": "Both describe Basil's shift from idealizing Dorian as beautiful and elevating to confronting him as morally ruined, dangerous, and horrifying."
+        },
+        {
+          "set_a_axis": "From guarded concealment to remorseful confession",
+          "set_b_axis": "From artistic rationalization to painful self-recognition",
+          "overlap_description": "Both capture Basil's late-stage self-disclosure: he stops translating his feelings into art alone and explicitly recognizes and admits the truth and moral weight of his attachment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From artistic control to moral burden",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From aesthetic idealization to moral horror",
+          "assessment": "artifact"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From worshipful attachment to betrayed moral witness",
+          "set_b_axis": "From idealizing muse-love to tragic posthumous witness",
+          "overlap_description": "Both describe the Basil-Dorian bond as beginning in intimate, possessive admiration and ending in murder, guilt, and Basil's survival only as a haunting moral presence in Dorian's conscience."
+        },
+        {
+          "set_a_axis": "From wary civility to active antagonism",
+          "set_b_axis": "From wary fascination to moral hostility",
+          "overlap_description": "Both track Basil's increasingly negative stance toward Henry, from caution and suspicion to settled moral hostility as Henry's influence on Dorian becomes destructive."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From worshipful attachment to betrayed moral witness",
+          "assessment": "artifact"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wary outsider to admiring moral ally",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From guarded artistic self-protection to engulfed relational devotion",
+      "pole_start": "More agency-leaning: Basil begins by trying to preserve separateness, secrecy, and control over the portrait and over Dorian's exposure to others, even while already emotionally invested.",
+      "pole_end": "Strongly communion-leaning: Basil ends as profoundly fused with Dorian's welfare, defined by protectiveness, confession, moral caretaking, and a willingness to subordinate his own boundaries to Dorian's fate.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Protective secrecy and artistic containment",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil tries to manage his attachment through concealment and control, keeping the portrait hidden and Dorian protected from Lord Henry while translating feeling into art rather than open confession.",
+          "key_moments": [
+            "He fears the portrait contains too much of himself to be shown",
+            "He tries to prevent Lord Henry from influencing Dorian",
+            "He frames attachment as artistic inspiration rather than direct emotional disclosure"
+          ]
+        },
+        {
+          "phase": "Anxious possessiveness and displacement",
+          "chapter_range": [
+            5,
+            8
+          ],
+          "position_description": "His attachment becomes more openly relational and less controllable. He feels excluded by Henry and Dorian's shifting loyalties, yet his concern deepens into protectiveness over Dorian's happiness and moral future.",
+          "key_moments": [
+            "Dorian's engagement makes Basil feel older and displaced",
+            "He worries Henry has become Dorian's confidant",
+            "He is pained by Dorian's rejection and emotional distance"
+          ]
+        },
+        {
+          "phase": "Confessional fusion and moral caretaking",
+          "chapter_range": [
+            8,
+            11
+          ],
+          "position_description": "Basil's devotion becomes fully explicit and morally charged. He admits worship, recognizes his own implication in Dorian's fate, and tries to save him through truth, prayer, and repentance rather than control.",
+          "key_moments": [
+            "He admits he worshipped Dorian",
+            "He confronts the portrait as a moral revelation",
+            "He pleads for repentance and prayer"
+          ]
+        },
+        {
+          "phase": "Posthumous moral residue",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "After Basil's death, his relational identity persists only as a haunting witness in Dorian's conscience, with communion surviving as guilt, memory, and accusation rather than reciprocal relation.",
+          "key_moments": [
+            "Dorian fears the dead Basil upstairs",
+            "Basil becomes a buried moral witness",
+            "His memory continues to function as conscience and indictment"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Basil moves from guarded self-protection toward total relational investment in Dorian. The arc is not toward independence but toward deeper communion, culminating in confession, moral responsibility, and a posthumous afterlife as conscience."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Idealization-Disillusionment",
+      "axis_name": "From worshipful idealization to moral horror",
+      "pole_start": "Idealizing: Basil initially sees Dorian as the source of artistic renewal, beauty, and spiritual elevation, and treats his attachment as reverent admiration.",
+      "pole_end": "Disillusioned and horrified: Basil ends by seeing Dorian as morally ruined, dangerous, and capable of murder, with admiration collapsing into revulsion, grief, and fear.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Worshipful elevation",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil idealizes Dorian as the indispensable source of his art and as a singular revelation, while sensing the danger of that devotion.",
+          "key_moments": [
+            "Basil says Dorian has transformed his art",
+            "Basil admits he has given away his whole soul to Dorian"
+          ]
+        },
+        {
+          "phase": "Cracks in the ideal",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "Basil begins to see that Dorian can be influenced, can wound others, and can withhold himself; the ideal image becomes unstable but is not yet fully destroyed.",
+          "key_moments": [
+            "Basil is alarmed by Dorian's changed tone after Henry's influence",
+            "Basil is distressed by Dorian's jealousy of the portrait",
+            "Basil confesses that his worship of Dorian was excessive"
+          ]
+        },
+        {
+          "phase": "Catastrophic disillusionment",
+          "chapter_range": [
+            11,
+            11
+          ],
+          "position_description": "The hidden portrait forces Basil to confront Dorian's corruption directly; admiration gives way to horror, disgust, pity, and fear.",
+          "key_moments": [
+            "Basil sees the grotesque portrait and realizes it embodies Dorian's corruption",
+            "Basil pleads for repentance, acknowledging his own idolatry"
+          ]
+        },
+        {
+          "phase": "Aftermath of moral collapse",
+          "chapter_range": [
+            11,
+            14
+          ],
+          "position_description": "After Basil's murder, Dorian's memories and guilt confirm Basil's final status as the ruined witness to Dorian's moral decay.",
+          "key_moments": [
+            "Dorian kills Basil",
+            "Dorian later thinks of Basil as the murdered man and as a haunting moral presence"
+          ]
+        }
+      ],
+      "evidence_summary": "Basil's emotional relation to Dorian moves from reverent idealization to painful recognition of corruption. The portrait revelation is the decisive turning point, but the arc is prepared by earlier signs of anxiety, exclusion, and loss of control."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Secrecy-Confession",
+      "axis_name": "From guarded concealment to remorseful confession",
+      "pole_start": "Secretive and guarded: Basil initially believes his inner life must be hidden, and he protects the portrait because it would expose too much of himself.",
+      "pole_end": "Confessional and morally explicit: Basil ends by naming his idolatry, admitting guilt, and urging repentance as the proper response to sin.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Protective concealment",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil hides the portrait and resists public exposure because he experiences it as a confession of his soul.",
+          "key_moments": [
+            "Basil says he cannot exhibit the portrait because he has put too much of himself into it",
+            "Basil refuses to let Henry meet Dorian"
+          ]
+        },
+        {
+          "phase": "Partial disclosure under pressure",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Basil begins to speak more openly about his worship of Dorian, but the confession is still anxious and self-protective.",
+          "key_moments": [
+            "Basil confesses to Dorian that he had once worshipped him",
+            "Basil explains why he hid the portrait"
+          ]
+        },
+        {
+          "phase": "Full moral confession",
+          "chapter_range": [
+            11,
+            11
+          ],
+          "position_description": "Basil explicitly admits his excessive devotion as a moral failure and frames the crisis in terms of sin, punishment, and repentance.",
+          "key_moments": [
+            "Basil pleads with Dorian to pray, repent, and seek forgiveness",
+            "Basil says he worshipped Dorian too much and is punished for it"
+          ]
+        }
+      ],
+      "evidence_summary": "Basil's arc moves clearly from secrecy toward confession. He begins by hiding the portrait as a defense of the self, then gradually speaks the truth about his devotion, and finally turns that truth into a moral appeal for repentance."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Control-Responsibility",
+      "axis_name": "From artistic control to moral burden",
+      "pole_start": "More control-oriented: Basil initially thinks in terms of managing his art, protecting the portrait, and preserving the conditions of his creative work.",
+      "pole_end": "More responsibility-oriented: Basil ends by feeling morally accountable for Dorian's ruin and by trying to act as a redemptive witness rather than a controlling artist.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Artistic management",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil tries to control access to the portrait and to Dorian, treating both as things that must be protected from interference.",
+          "key_moments": [
+            "Basil refuses to exhibit the portrait",
+            "Basil tries to remove Henry from the studio"
+          ]
+        },
+        {
+          "phase": "Recognition of unintended harm",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "He increasingly sees that his art has consequences beyond his control and that he bears some responsibility for Dorian's psychological state.",
+          "key_moments": [
+            "Basil is shocked by Dorian's fear of aging and desire to remain young",
+            "Basil recognizes the portrait has become dangerous",
+            "Basil is excluded from the portrait and from Dorian's inner life"
+          ]
+        },
+        {
+          "phase": "Moral responsibility and attempted repair",
+          "chapter_range": [
+            11,
+            11
+          ],
+          "position_description": "Basil explicitly accepts blame and tries to repair the damage through repentance and prayer, shifting from control to ethical witness.",
+          "key_moments": [
+            "Basil sees the corrupted portrait and feels implicated in Dorian's downfall",
+            "Basil urges Dorian to repent and seek forgiveness"
+          ]
+        }
+      ],
+      "evidence_summary": "Basil's relation to his art changes from controlling it as a private masterpiece to feeling burdened by its consequences. The final stage is not mastery but responsibility, with a strong moral dimension."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Basil Hallward",
+      "target_character": "Dorian Gray",
+      "dimension_label": "Protective Fusion",
+      "axis_name": "From idealizing muse-love to tragic posthumous witness",
+      "pole_start": "Basil begins in intense admiration, emotional dependence, and possessive protectiveness; Dorian is muse, beloved object, and the center of Basil's private emotional world.",
+      "pole_end": "Basil ends as a dead but morally potent witness in Dorian's conscience: still beloved in memory, but now associated with guilt, accusation, and irreversible rupture.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Private adoration",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil is deeply attached and protective, trying to keep Dorian private and safe from Lord Henry's influence. The relationship is intimate, warm, and possessive.",
+          "key_moments": [
+            "He tries to prevent Henry from meeting Dorian",
+            "He fears public exposure of the portrait",
+            "He reacts painfully to Dorian's responsiveness to Henry"
+          ]
+        },
+        {
+          "phase": "Anxious displacement",
+          "chapter_range": [
+            5,
+            8
+          ],
+          "position_description": "Basil feels Dorian slipping away as Henry becomes the privileged confidant and Sibyl enters Dorian's life. Basil remains loving, but the relationship is increasingly marked by exclusion and alarm.",
+          "key_moments": [
+            "Dorian's engagement shocks him",
+            "He feels older and displaced",
+            "He is hurt by Dorian's rejection in chapter 8"
+          ]
+        },
+        {
+          "phase": "Confessional confrontation",
+          "chapter_range": [
+            10,
+            11
+          ],
+          "position_description": "Basil confronts Dorian directly, trying to save him through truth, repentance, and prayer. The relationship becomes openly moralized and tragic, with love persisting inside horror.",
+          "key_moments": [
+            "He demands a moral reckoning",
+            "He confesses that he worshipped Dorian",
+            "He pleads for repentance before the portrait"
+          ]
+        },
+        {
+          "phase": "Murder and haunting",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "After Basil's death, the relationship becomes one-sided and spectral. Basil survives only as a haunting moral presence, the murdered friend Dorian cannot escape.",
+          "key_moments": [
+            "Dorian fears the dead Basil upstairs",
+            "Basil's body must be concealed and destroyed",
+            "His memory continues to accuse Dorian"
+          ]
+        }
+      ],
+      "evidence_summary": "Basil's central relationship with Dorian moves from intimate artistic devotion to protective anxiety, then to moral confrontation, and finally to posthumous accusation after murder."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Basil Hallward",
+      "target_character": "Lord Henry Wotton",
+      "dimension_label": "Trust-Hostility",
+      "axis_name": "From wary fascination to moral hostility",
+      "pole_start": "Basil begins fascinated but cautious: he enjoys Henry's conversation but distrusts his cynicism and influence.",
+      "pole_end": "Basil ends firmly hostile in moral terms, seeing Henry as a corrupting, invasive force responsible for Dorian's damage.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Wary engagement",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Basil is willing to talk with Henry but tries to keep him away from Dorian. He senses Henry's danger before it becomes fully explicit.",
+          "key_moments": [
+            "He is anxious when Henry presses him about Dorian",
+            "He tries to prevent Henry from meeting Dorian",
+            "He resents Henry's presence at the portrait sitting"
+          ]
+        },
+        {
+          "phase": "Confirmed suspicion",
+          "chapter_range": [
+            5,
+            10
+          ],
+          "position_description": "Henry's influence is increasingly associated with Dorian's emotional displacement and moral drift. Basil's suspicion hardens into resentment and blame.",
+          "key_moments": [
+            "He sees Henry as Dorian's confidant",
+            "He blames Henry for Dorian's coldness and corruption",
+            "He confronts the atmosphere of cynicism around Dorian"
+          ]
+        },
+        {
+          "phase": "Moral condemnation",
+          "chapter_range": [
+            11,
+            18
+          ],
+          "position_description": "Even when Henry is absent, Basil's worldview remains opposed to him. Henry becomes the emblem of the corrupting social and psychological force Basil fears, and Basil's hostility is effectively settled.",
+          "key_moments": [
+            "Basil interprets the portrait as evidence of corruption",
+            "Henry is implicitly opposed to Basil's plea for repentance",
+            "Basil's memory persists as the ethical counterpoint to Henry's cynicism"
+          ]
+        }
+      ],
+      "evidence_summary": "Basil's relationship to Henry is consistently negative and becomes more so as Henry's influence on Dorian proves destructive. The arc is less about surprise than about hardening suspicion into moral hostility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Basil Hallward",
+      "target_character": "Sibyl Vane",
+      "dimension_label": "Idealizing Regard",
+      "axis_name": "From wary outsider to admiring moral ally",
+      "pole_start": "Basil begins with no direct relationship to Sibyl and only indirect concern that she may affect Dorian's life.",
+      "pole_end": "Basil ends admiring and compassionate toward Sibyl, seeing her as noble, beautiful, and spiritually worthy of Dorian's love.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Indirect wariness",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Before meeting her directly, Basil sees Sibyl as another force that could destabilize Dorian. His stance is cautious rather than hostile.",
+          "key_moments": [
+            "Dorian's romantic fixation develops",
+            "Basil worries about Dorian's innocence and stability"
+          ]
+        },
+        {
+          "phase": "Admiring endorsement",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "At the theatre, Basil warmly approves of Sibyl and idealizes her as spiritually elevating. He believes she is worthy of Dorian and can help preserve his goodness.",
+          "key_moments": [
+            "He reacts warmly to Sibyl's entrance",
+            "He explicitly endorses the engagement",
+            "He tries to comfort Dorian after the performance"
+          ]
+        },
+        {
+          "phase": "Compassionate aftermath",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "After Sibyl's death, Basil's regard becomes sorrowful compassion. He mourns her and treats her death as a moral tragedy.",
+          "key_moments": [
+            "He is grief-stricken by Sibyl's death",
+            "He feels horror at Dorian's apparent coldness"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl is not a major long-term relational axis for Basil, but the summaries show a clear shift from indirect wariness to admiration and then pity. This is a meaningful secondary relational arc."
+    }
+  ]
+}

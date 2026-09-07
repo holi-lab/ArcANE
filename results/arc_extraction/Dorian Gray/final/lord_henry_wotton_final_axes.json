@@ -1,0 +1,364 @@
+{
+  "character": "Lord Henry Wotton",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From detached self-assertion to implicated social control",
+          "set_b_axis": "From detached social mastery to faintly vulnerable self-reflection",
+          "overlap_description": "Both track Henry as fundamentally agentic and socially dominant, with only a slight late-stage softening or complication rather than a true moral transformation."
+        },
+        {
+          "set_a_axis": "From playful cynicism to implicated detachment",
+          "set_b_axis": "From amused cynicism to slightly more candid existential unease",
+          "overlap_description": "Both describe Henry's cynicism as remaining intact while becoming less carefree and more shadowed by mortality, consequence, and self-awareness."
+        },
+        {
+          "set_a_axis": "From brilliant conversationalist to author of another’s ruin",
+          "set_b_axis": "From playful curiosity about influence to confirmed self-image as Dorian's shaping force",
+          "overlap_description": "Both emphasize Henry's growing self-conception as the source of Dorian's corruption and the destabilization of his harmless-wit self-image."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From brilliant conversationalist to author of another’s ruin",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From detached social mastery to faintly vulnerable self-reflection",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From fascinated acquaintance to proprietary influence",
+          "set_b_axis": "From fascinated observer to absent intellectual corrupter",
+          "overlap_description": "Both describe Henry's central bond with Dorian as moving from fascination to asymmetrical possession and long-distance shaping influence."
+        },
+        {
+          "set_a_axis": "From polite obstruction to moral rivalry",
+          "set_b_axis": "From teasing intimacy to stable moral opposition",
+          "overlap_description": "Both capture the Henry-Basil relationship as a shift from socially managed tension to a durable ethical and relational opposition."
+        },
+        {
+          "set_a_axis": "From intrigued spectator to dismissive reducer",
+          "set_b_axis": "From curious interest to detached aestheticization",
+          "overlap_description": "Both identify Henry's relation to Sibyl as moving from indirect curiosity to dehumanizing aesthetic judgment after her failure and death."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From witty acquaintance to admired dangerous thinker",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From curious interest to detached aestheticization",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From detached social mastery to faintly vulnerable implicated control",
+      "pole_start": "Highly agentic: self-assertive, dominant in conversation, psychologically controlling, and oriented toward mastery over others from a position of emotional distance.",
+      "pole_end": "Still strongly agentic, but with a slight softening toward self-awareness and vulnerability; he remains dominant, yet his control is increasingly implicated in relational consequences and personal fragility.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Predatory social mastery",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Henry begins as a socially sovereign observer who uses wit, selection, and conversational force to orient himself toward Dorian as an object of fascination and influence. Communion is minimal and instrumental.",
+          "key_moments": [
+            "He insists on meeting Dorian immediately and outmaneuvers Basil for access.",
+            "He performs brilliantly in social settings and treats speech as a tool of shaping identity.",
+            "He reframes Sibyl's crisis and death as material for interpretation rather than mutual concern."
+          ]
+        },
+        {
+          "phase": "Remote influence and implicated control",
+          "chapter_range": [
+            8,
+            16
+          ],
+          "position_description": "Henry becomes more offstage, but his agency persists through books, epigrams, and indirect cultural pressure. His dominance is less carefree now: the consequences of his influence become visible in Dorian's corruption, panic, and concealment.",
+          "key_moments": [
+            "He sends the yellow book as an extension of his worldview.",
+            "He sees Dorian's life increasingly structured by his ideas at a distance.",
+            "He responds to Dorian's fear and crisis with management rather than reciprocity."
+          ]
+        },
+        {
+          "phase": "Controlled vulnerability",
+          "chapter_range": [
+            17,
+            18
+          ],
+          "position_description": "Henry remains outwardly ironic and dominant, but the late chapters introduce a modest inwardness: he acknowledges fear of age, death, and loneliness without abandoning his detached stance.",
+          "key_moments": [
+            "He speaks more candidly about mortality and emotional limits.",
+            "The narrative leaves his slight vulnerability unexpanded, preserving his agentic core."
+          ]
+        }
+      ],
+      "evidence_summary": "Henry does not move toward communion in any substantial way. The merged arc preserves his dominant agency while integrating both the event-based emphasis on implicated social control and the psychological-summary emphasis on a faint late vulnerability."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Detachment",
+      "axis_name": "From amused cynicism to existentially shadowed detachment",
+      "pole_start": "Detached cynicism: he treats morality as a social inconvenience and suffering as aesthetic material, believing wit can stand above judgment.",
+      "pole_end": "Still detached, but with a faintly more candid awareness of mortality, emotional limits, and the harm his ideas have helped produce.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Confident aesthetic cynicism",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Henry consistently interprets people and events through beauty, style, and psychological experiment. His detachment is triumphant rather than troubled, and he repeatedly converts suffering into epigrammatic material.",
+          "key_moments": [
+            "He aestheticizes Dorian's romance and Sibyl's collapse.",
+            "He restores social ease after tragedy by reframing events as lessons or curiosities.",
+            "He remains confident that his wit places him above moral judgment."
+          ]
+        },
+        {
+          "phase": "Briefly punctured composure",
+          "chapter_range": [
+            15,
+            17
+          ],
+          "position_description": "His detachment remains intact, but it is no longer entirely effortless. Dorian's collapse and Henry's own reflections on age and death introduce a slight crack in the performance of total irony.",
+          "key_moments": [
+            "He shows a fleeting alarm when Dorian collapses.",
+            "He quickly reasserts composure and cynicism.",
+            "He speaks more openly about fear of death and loneliness."
+          ]
+        },
+        {
+          "phase": "Retrospective moral implication",
+          "chapter_range": [
+            17,
+            18
+          ],
+          "position_description": "Henry does not become morally serious, but the narrative increasingly frames his detachment as complicit in catastrophe. The worldview survives, yet its innocence is gone.",
+          "key_moments": [
+            "He hears Dorian's reform claim with irony.",
+            "Dorian's final destruction of the portrait retroactively condemns the philosophy Henry has long embodied."
+          ]
+        }
+      ],
+      "evidence_summary": "The merged reading keeps Henry's moral detachment as the core trait, while combining A's emphasis on ethical implication with B's emphasis on late existential unease. The result is not moral growth, but a darker, more self-aware detachment."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Influence Certainty",
+      "axis_name": "From playful curiosity about influence to confirmed self-image as Dorian's corrupter",
+      "pole_start": "Tentative fascination: he is curious about whether Dorian can be influenced and enjoys the possibility of shaping him.",
+      "pole_end": "Confirmed self-conception as the intellectual originator of Dorian's corruption and the absent center of Dorian's worldview.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Testing the effect",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Henry begins by probing Dorian and quickly sees that his words have an effect. Curiosity turns into confidence as he recognizes Dorian's receptivity.",
+          "key_moments": [
+            "He becomes intrigued by Dorian as a possible object of influence.",
+            "He recognizes that Dorian is responsive to his ideas.",
+            "He feels triumphant that his philosophy is taking root."
+          ]
+        },
+        {
+          "phase": "Sustained cultivation",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "He increasingly treats Dorian as a psychological experiment and a living embodiment of his worldview. Influence becomes central to his self-concept, not merely a possibility.",
+          "key_moments": [
+            "He sees Dorian's passion as evidence of his own shaping power.",
+            "He reframes grief as a lesson to keep Dorian aligned with him.",
+            "He sends the yellow book as a deliberate extension of his influence."
+          ]
+        },
+        {
+          "phase": "Indirect dominance",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "Even when absent, Henry remains the interpretive center of Dorian's life. His confidence in his own shaping power is effectively confirmed by Dorian's continued internalization of his ideas.",
+          "key_moments": [
+            "Dorian continues to live through Henry's philosophy in Henry's absence.",
+            "Henry still tries to pull Dorian back into his orbit.",
+            "No reversal of Henry's influence is shown."
+          ]
+        }
+      ],
+      "evidence_summary": "This axis synthesizes both sets' strongest shared claim: Henry moves from curiosity to triumph to a stable self-image as the source of Dorian's aesthetic and moral corruption."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Lord Henry Wotton",
+      "target_character": "Dorian Gray",
+      "dimension_label": "Possessive Influence",
+      "axis_name": "From fascinated observer to absent intellectual corrupter",
+      "pole_start": "Curious, admiring, and opportunistically interested in Dorian as a beautiful and impressionable subject.",
+      "pole_end": "Possessive, mentoring, and psychologically shaping Dorian through direct conversation and indirect cultural influence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial fascination",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Henry first sees Dorian as a uniquely significant object of aesthetic and psychological interest, then quickly realizes he can influence him.",
+          "key_moments": [
+            "Dorian becomes a source of fascination and possible influence.",
+            "Henry confirms Dorian's receptivity and feels triumphant."
+          ]
+        },
+        {
+          "phase": "Active cultivation",
+          "chapter_range": [
+            3,
+            7
+          ],
+          "position_description": "The relationship becomes more possessive and experimental. Henry enjoys Dorian's responsiveness and deepens his dependence on Henry's interpretations.",
+          "key_moments": [
+            "Henry experiences his wit as successful domination.",
+            "Dorian's love for Sibyl becomes another experiment in Henry's hands.",
+            "Henry calms Dorian after Sibyl's death and keeps him in orbit."
+          ]
+        },
+        {
+          "phase": "Indirect domination",
+          "chapter_range": [
+            8,
+            18
+          ],
+          "position_description": "Henry's influence persists even when he is absent. The yellow book, repeated epigrams, and Dorian's internalized worldview show that the relationship has become asymmetrical and enduring.",
+          "key_moments": [
+            "The yellow book extends Henry's influence at a distance.",
+            "Dorian continues to act under Henry's philosophical spell.",
+            "Henry still tries to draw Dorian back into social and emotional proximity."
+          ]
+        }
+      ],
+      "evidence_summary": "This is Henry's central relationship arc. It moves from fascination to possession, with intimacy increasing but never becoming mutual or caring in an equal sense."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Lord Henry Wotton",
+      "target_character": "Basil Hallward",
+      "dimension_label": "Moral Opposition",
+      "axis_name": "From teasing intimacy to stable moral opposition",
+      "pole_start": "Affectionate, teasing, and intellectually superior, with some medium intimacy but little genuine mutuality.",
+      "pole_end": "A stable foil relationship marked by distance, low trust, and Henry's continued superiority over Basil's sincerity and conscience.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Teasing engagement",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Henry enjoys Basil's seriousness and vulnerability, probing his attachment to Dorian while keeping the interaction playful and asymmetrical.",
+          "key_moments": [
+            "Henry draws Basil out about Dorian.",
+            "Basil serves as a foil in the social triangle.",
+            "Henry continues to unsettle Basil during the engagement discussion."
+          ]
+        },
+        {
+          "phase": "Moral contrast hardens",
+          "chapter_range": [
+            6,
+            17
+          ],
+          "position_description": "Basil becomes less a companion than a moral counterweight. Henry's stance remains dismissive and superior, while Basil's concern increasingly confirms Henry's role as the anti-Basil.",
+          "key_moments": [
+            "Henry remains companionable but contemptuous.",
+            "Basil's accusation sharpens the sense of opposition.",
+            "Henry treats Basil as a topic for irony rather than grief."
+          ]
+        }
+      ],
+      "evidence_summary": "Henry and Basil do not undergo a dramatic relational transformation, but their relationship settles into a clear pattern: teasing asymmetry at first, then stable moral opposition. The net movement is limited, so the arc is best treated as largely flat with hardened contrast."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Lord Henry Wotton",
+      "target_character": "Sibyl Vane",
+      "dimension_label": "Aesthetic Objectification",
+      "axis_name": "From curious catalyst to detached aestheticizer",
+      "pole_start": "Indirectly curious and intrigued by Sibyl as part of Dorian's emotional life.",
+      "pole_end": "Detached, aestheticizing, and emotionally uninvested, treating her as a dramatic element rather than a person.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Curious catalyst",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Henry is interested in Sibyl mainly because she adds complexity to Dorian's development and provides a test case for his theories.",
+          "key_moments": [
+            "He wants to witness the relationship firsthand.",
+            "He encourages the drama because it makes Dorian more interesting."
+          ]
+        },
+        {
+          "phase": "Detached aesthetic judgment",
+          "chapter_range": [
+            6,
+            7
+          ],
+          "position_description": "Sibyl's failure and death are absorbed into Henry's worldview as beautiful tragedy and evidence for his aesthetic philosophy, not as a source of grief.",
+          "key_moments": [
+            "He finds her beauty and failure aesthetically revealing.",
+            "He reframes her death as a tragic but useful event."
+          ]
+        }
+      ],
+      "evidence_summary": "Henry's relation to Sibyl is not emotionally deep, but it changes in a trackable way: from curiosity about her role in Dorian's life to full aesthetic objectification after her failure and death."
+    }
+  ]
+}

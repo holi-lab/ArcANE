@@ -1,0 +1,159 @@
+{
+  "character": "Richard Baker",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From warm relational openness to memorialized communion",
+          "set_b_axis": "From humane fellowship to stable humane fellowship",
+          "overlap_description": "Both axes describe Richard Baker as already warm, benevolent, and communion-oriented, with no meaningful inward transformation; Set A emphasizes memorialization after death, while Set B emphasizes unchanged persistence of the same humane disposition."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From warm relational openness to memorialized communion",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From humane fellowship to stable humane fellowship",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From immediate warmth to enduring memorial bond",
+          "set_b_axis": "From benevolent acquaintance to enduring affectionate trust",
+          "overlap_description": "Both axes capture the same relationship with Equiano: rapid establishment of high trust and intimacy, followed by no interpersonal deterioration; Set A foregrounds the bond's memorial afterlife after Baker's death, while Set B foregrounds its stable affectionate quality."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From immediate warmth to enduring memorial bond",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From benevolent acquaintance to enduring affectionate trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Communion orientation",
+      "axis_name": "From humane fellowship to memorialized humane fellowship",
+      "pole_start": "Strongly communion-oriented: Richard Baker is warm, affectionate, benevolent, and inclined toward companionship, instruction, and mutual kindness from his first appearance.",
+      "pole_end": "Still strongly communion-oriented: no inward shift occurs, and after his death his humane presence persists only as a memorialized relational ideal in Equiano's memory.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial presentation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Richard enters already on the communion pole, showing warmth, partiality, affection, and a desire for companionship and helpful instruction rather than dominance or withdrawal.",
+          "key_moments": [
+            "Introduced as a kind, educated American boy who shows Equiano unusual warmth and attention",
+            "Actively seeks friendship and mutual instruction",
+            "Functions as a humane, emotionally steady companion"
+          ]
+        },
+        {
+          "phase": "Protective intimacy",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His communion remains stable as he deepens the bond through reassurance, humor, and protective care, reinforcing interdependence.",
+          "key_moments": [
+            "Reassures and protects Equiano during fear at sea",
+            "Helps Equiano interpret the shipboard world and its dangers",
+            "Becomes a stable emotional presence"
+          ]
+        },
+        {
+          "phase": "Death and memorialization",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "No further interior development is shown; Richard dies, and his humane identity survives only through memory and the chest and belongings that preserve the emotional meaning of the bond.",
+          "key_moments": [
+            "Richard Baker dies in 1759 while serving on the Preston",
+            "Equiano receives his chest and belongings as a memorial to their friendship",
+            "Later chapters provide no new interior material, only the afterlife of his remembered kindness"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Richard Baker is consistently portrayed as warm, benevolent, and socially connective, with no evidence of psychological change in belief, self-conception, or moral orientation. The only extension beyond stable communion is the posthumous memorialization of that disposition after his death."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Richard Baker",
+      "target_character": "Olaudah Equiano",
+      "dimension_label": "Trust intimacy",
+      "axis_name": "From immediate warmth to enduring affectionate trust",
+      "pole_start": "A kind, respectful, and supportive relationship that is already high in trust and intimacy at first appearance.",
+      "pole_end": "The same high-trust, high-intimacy bond remains in place, though physically severed by death and preserved through grief, remembrance, and material memorialization.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Rapid attachment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Trust and intimacy rise immediately as Richard offers warmth, attention, companionship, and practical instruction, making himself a trusted ally to Equiano.",
+          "key_moments": [
+            "Richard is introduced as a kind, educated American boy who shows Equiano unusual warmth and attention",
+            "The two quickly become inseparable companions and mutual instructors",
+            "Richard provides comfort and guidance in the shipboard environment"
+          ]
+        },
+        {
+          "phase": "Protective consolidation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "The bond deepens through reassurance and shared vulnerability; Richard becomes a stable emotional anchor and interpreter of the ship's dangers.",
+          "key_moments": [
+            "Richard repeatedly reassures and protects Equiano during moments of fear at sea",
+            "He helps Equiano interpret the strange world of the ship and its dangers",
+            "Their friendship is marked by mutual care and companionship"
+          ]
+        },
+        {
+          "phase": "Loss and memorial afterlife",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "The relationship ends physically with Richard's death, but its intimacy persists as grief, remembrance, and the inherited chest and belongings that keep the bond emotionally active.",
+          "key_moments": [
+            "Richard Baker dies in 1759 while serving on the Preston",
+            "Equiano receives his chest and belongings as a memorial to their friendship",
+            "Later chapters do not develop the relationship further, only preserve its emotional significance"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that the relationship begins at a high level of trust and affection and does not undergo conflict or estrangement. Set A adds the important memorial dimension after Baker's death, while Set B clarifies that the bond remains stable by default in the absence of further scenes."
+    }
+  ]
+}

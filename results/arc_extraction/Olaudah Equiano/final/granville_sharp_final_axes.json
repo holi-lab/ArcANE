@@ -1,0 +1,157 @@
+{
+  "character": "Granville Sharp",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From principled advocacy to publicly affirmed humanitarian communion",
+          "set_b_axis": "From public moral ally to sustained abolitionist witness",
+          "overlap_description": "Both describe Sharp as a stable abolitionist reformer whose identity is publicly validated and whose motivation is oriented toward shared humanitarian purpose. The difference is mainly framing: A emphasizes agency-to-communion, while B emphasizes communion-oriented steadiness."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From principled advocacy to publicly affirmed humanitarian communion",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From public moral ally to sustained abolitionist witness",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From helpful ally to publicly honored trusted benefactor",
+          "set_b_axis": "From supportive recognition to affirmed abolitionist alliance",
+          "overlap_description": "Both capture a stable, positive relationship between Sharp and Equiano that is strengthened by public praise in chapter 3. A foregrounds Sharp's practical help and benefactor status; B foregrounds mutual respect and abolitionist alliance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From helpful ally to publicly honored trusted benefactor",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From supportive recognition to affirmed abolitionist alliance",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From principled advocacy to publicly affirmed abolitionist communion",
+      "pole_start": "Sharp begins as a self-directed moral advocate who takes decisive action on behalf of oppressed Black people, combining reformist initiative with sympathy for a shared humanitarian cause.",
+      "pole_end": "Sharp ends as a publicly affirmed abolitionist witness whose identity is stabilized through communal recognition, trust, and praise as a benefactor of the oppressed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial intervention and public alignment",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Sharp is presented as an active abolitionist ally: in B, as a named subscriber and public supporter; in A, as a kind legal advocate who independently intervenes for John Annis. The emphasis is on moral action in service of a collective cause.",
+          "key_moments": [
+            "Named subscriber and abolitionist public figure",
+            "Equiano seeks Sharp's help for John Annis",
+            "Sharp receives Equiano kindly and gives instructions"
+          ]
+        },
+        {
+          "phase": "Sustained reformist steadiness",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Both analyses agree that Sharp shows no meaningful internal reversal. He remains serious, sympathetic, and committed to anti-slavery action, with only a mild shift in emphasis from individual initiative toward communal belonging.",
+          "key_moments": [
+            "Trusted abolitionist ally",
+            "No visible emotional or belief change",
+            "Continued moral support for Equiano's cause"
+          ]
+        },
+        {
+          "phase": "Publicly affirmed benefactor",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Sharp is explicitly praised among the 'approved friends' and benefactors of the oppressed. This confirms a stable identity grounded in public humanitarian service and communal moral recognition.",
+          "key_moments": [
+            "Named among approved friends and benefactors",
+            "Public praise reinforces his reformist role",
+            "Identity fused with the African cause"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both sets, Sharp is consistently portrayed as a principled abolitionist with no deep internal transformation. The strongest synthesis is a flat arc with a slight movement from agency toward communion: he begins as an independently acting reformer and ends as a publicly honored humanitarian ally."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Granville Sharp",
+      "target_character": "Olaudah Equiano",
+      "dimension_label": "Trust-Esteem",
+      "axis_name": "From supportive recognition to publicly affirmed abolitionist alliance",
+      "pole_start": "Sharp begins as a sympathetic, trusted supporter who recognizes Equiano's testimony and responds with practical help and moral seriousness.",
+      "pole_end": "Sharp ends as a publicly honored ally whose esteem is explicitly reinforced through praise, benefactor status, and shared abolitionist purpose.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial support and private alliance",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Sharp is first established as a credible abolitionist supporter in the public sphere and then as a direct helper in Equiano's freedom struggle. Trust is grounded in both reputation and action.",
+          "key_moments": [
+            "Named subscriber in the Narrative",
+            "Equiano goes to Sharp for help securing John Annis's liberty",
+            "Sharp receives Equiano kindly and gives instructions"
+          ]
+        },
+        {
+          "phase": "Sustained credibility",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "The relationship remains stable and supportive. Sharp continues to function as a trusted ally whose moral authority validates Equiano's anti-slavery witness.",
+          "key_moments": [
+            "Trusted abolitionist ally",
+            "Support for Equiano's testimony continues"
+          ]
+        },
+        {
+          "phase": "Public affirmation",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Equiano publicly names Sharp among the approved friends and benefactors of the oppressed, converting private trust into public esteem and confirming a shared abolitionist alignment.",
+          "key_moments": [
+            "Named among approved friends and benefactors",
+            "Public praise of Sharp's humanitarian role"
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship is consistently positive and becomes more publicly ratified over time. Both sets support a stable trust-and-esteem arc, with chapter 3 providing explicit public affirmation of Sharp's allyship and benefactor status."
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "character": "Emily Trevelyan",
+  "novel": "He Knew He Was Right",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_rel_01",
+      "axis_name": "From marital trust to duty-bound estrangement",
+      "dimension_label": "Trust–Suspicion",
+      "axis_type": "relational",
+      "target_character": "Louis Trevelyan",
+      "decision_variable": "Does Emily choose to place herself in trusting marital intimacy with Louis, or to keep him at a guarded, self-protective distance?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "Emily shifts from making intimacy conditional on Louis's apology and fairness to actively separating from him and managing him from a defensive distance."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "Emily shifts from avoiding Louis as a hostile, threatening husband to remaining near him in a caregiving role while still withholding trusting conjugal closeness."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "willingness to sustain intimate trust versus maintaining protective emotional distance under conditions of perceived relational threat",
+        "abstract_phases": [
+          "injured attachment with conditional openness pending repair",
+          "defensive withdrawal marked by distrust, fear, and strategic distance",
+          "caregiving proximity without restored trust or intimate surrender"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "young_adult",
+          "approx_age": "mid-to-late 20s",
+          "rationale": "In chapters 1-13, Emily is already a married woman navigating intimate conflict and demanding an apology within an established marriage, which fits a young adult rather than adolescent or later-life stage."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "mid-to-late 20s",
+          "rationale": "Across chapters 14-63, the separation, custody struggle, and public marital scandal place Emily in an early married-and-parenting phase most consistent with young adulthood."
+        },
+        "2": {
+          "life_stage": "young_adult",
+          "approx_age": "late 20s",
+          "rationale": "In chapters 67-99, Emily's caregiving, pity, and duty toward her declining husband still occur within the same marriage-and-motherhood period, indicating she remains a young adult despite the emotional maturation of the phase."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial rupture",
+          "anchor_query_chapter": 1,
+          "era_label": null,
+          "scenario": "At the Clock House after Louis has angrily said he does not wish Colonel Osborne to come so often, Emily goes upstairs with Nora before dinner. Nora urges her to make peace, and then a knock below tells them Colonel Osborne has arrived.",
+          "question": "How does Emily Trevelyan answer Nora, and how does she meet Colonel Osborne's arrival under Louis Trevelyan's eye?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 1,
+              "gt_action": "She refuses to let Louis's insult govern her conduct and stands by admitting Colonel Osborne despite Nora's plea.",
+              "gt_speech": "If he gives me any command I will obey it. Or if he had expressed his wish in any other words I would have complied.",
+              "gt_thought": "She feels deeply insulted by Louis's manner, not merely crossed. To yield now would be to confess that he may wound her dignity and rule her by suspicion without apology.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This matches Emily at the opening rupture almost exactly: the speech is period-appropriate and close to her actual stance, and the thought rightly frames her refusal as wounded dignity against Louis's suspicious manner rather than later-stage estrangement."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought centers on wounded dignity and making intimacy conditional on Louis's respectful apology, not on separation, fear, or later pity-driven caregiving."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "She keeps her composure, says little to Nora, and lets Colonel Osborne be received without altering her course for Louis's sake.",
+              "gt_speech": "I will not shape my conduct to Mr. Trevelyan's humours.",
+              "gt_thought": "By now she reads Louis's anger as dangerous and unreasonable, not as a passing marital quarrel. She thinks any concession made under such a demand would only feed his tyranny and leave her less safe.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily in the separation phase: the speech is period-appropriate and defiant, and the thought plausibly casts Louis's jealousy as oppressive and something to be managed rather than soothed, without relying on later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis as dangerously unreasonable and treats resistance as self-protection against tyranny, which fits the defensive distance and tactical hostility of separation more than the earlier conditional-rupture stage or the later pitying caregiving stage."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "She does not send Colonel Osborne away for Louis's pleasure, but she receives the knock with restraint and avoids any air of defiance.",
+              "gt_speech": "I cannot own him right by yielding to this; but I would spare him pain if I can.",
+              "gt_thought": "She still cannot trust Louis's judgment, yet she no longer wants victory over him. His suffering weighs on her, so she holds her ground gently, trying to keep her self-respect without sharpening his distress.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily in the pity-and-duty phase: the language is period-appropriate and her stance blends firm self-respect with compassionate restraint toward Louis, without implying any trust or later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The decisive cue is that Emily still withholds trust but is motivated less by defiance or grievance than by a wish to spare Louis pain, holding her ground gently out of pity and duty rather than hostile separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 1,
+            "event_id": "ch1_evt05",
+            "event_description": "When Louis's angry words are repeated in Emily's mind, she experiences them as a gross insult and resolves that he must apologize before she will soften.",
+            "first_words": "It was, moreover, well known in",
+            "last_words": "of whose coming that knock gave notice.",
+            "key_moment": "Insult over Colonel Osborne",
+            "verbatim_passage": "It was, moreover, well known in London,--though not known at all\nto Mrs. Trevelyan,--that this ancient Lothario had before this\nmade himself troublesome in more than one family. He was fond of\nintimacies with married ladies, and perhaps was not averse to the\nexcitement of marital hostility. It must be remembered, however, that\nthe hostility to which allusion is here made was not the hostility\nof the pistol or the horsewhip,--nor, indeed, was it generally the\nhostility of a word of spoken anger. A young husband may dislike\nthe too-friendly bearing of a friend, and may yet abstain from that\noutrage on his own dignity and on his wife, which is conveyed by a\nword of suspicion. Louis Trevelyan having taken a strong dislike to\nColonel Osborne, and having failed to make his wife understand that\nthis dislike should have induced her to throw cold water upon the\nColonel's friendship, had allowed himself to speak a word which\nprobably he would have willingly recalled as soon as spoken. But\nwords spoken cannot be recalled, and many a man and many a woman who\nhas spoken a word at once regretted, are far too proud to express\nthat regret. So it was with Louis Trevelyan when he told his wife\nthat he did not wish Colonel Osborne to come so often to his house.\nHe had said it with a flashing eye and an angry tone; and though she\nhad seen the eye flash before, and was familiar with the angry tone,\nshe had never before felt herself to be insulted by her husband. As\nsoon as the word had been spoken Trevelyan had left the room, and had\ngone down among his books. But when he was alone, he knew that he\nhad insulted his wife. He was quite aware that he should have spoken\nto her gently, and have explained to her, with his arm round her\nwaist, that it would be better for both of them that this friend's\nfriendship should be limited. There is so much in a turn of the eye\nand in the tone given to a word when such things have to be said,--so\nmuch more of importance than in the words themselves. As Trevelyan\nthought of this, and remembered what his manner had been, how much\nanger he had expressed, how far he had been from having his arm round\nhis wife's waist as he spoke to her, he almost made up his mind to\ngo up-stairs and to apologise. But he was one to whose nature the\ngiving of any apology was repulsive. He could not bear to have to own\nhimself to have been wrong. And then his wife had been most provoking\nin her manner to him. When he had endeavoured to make her understand\nhis wishes by certain disparaging hints which he had thrown out as to\nColonel Osborne, saying that he was a dangerous man, one who did not\nshow his true character, a snake in the grass, a man without settled\nprinciples, and such like, his wife had taken up the cudgels for her\nfriend, and had openly declared that she did not believe a word of\nthe things that were alleged against him. \"But still, for all that,\nit is true,\" the husband had said. \"I have no doubt that you think\nso,\" the wife had replied. \"Men do believe evil of one another, very\noften. But you must excuse me if I say that I think you are mistaken.\nI have known Colonel Osborne much longer than you have done, Louis,\nand papa has always had the highest opinion of him.\" Then Mr.\nTrevelyan had become very angry, and had spoken those words which\nhe could not recall. As he walked to and fro among his books\ndown-stairs, he almost felt that he ought to beg his wife's pardon.\nHe knew his wife well enough to be sure that she would not forgive\nhim unless he did so. He would do so, he thought, but not exactly\nnow. A moment would come in which it might be easier than at present.\nHe would be able to assure her when he went up to dress for dinner,\nthat he had meant no harm. They were going out to dine at the house\nof a lady of rank, the Countess Dowager of Milborough, a lady\nstanding high in the world's esteem, of whom his wife stood a little\nin awe; and he calculated that this feeling, if it did not make his\ntask easy would yet take from it some of its difficulty. Emily would\nbe, not exactly cowed, by the prospect of Lady Milborough's dinner,\nbut perhaps a little reduced from her usual self-assertion. He would\nsay a word to her when he was dressing, assuring her that he had not\nintended to animadvert in the slightest degree upon her own conduct.\n\nLuncheon was served, and the two ladies went down into the\ndining-room. Mr. Trevelyan did not appear. There was nothing initself singular in that, as he was accustomed to declare that\nluncheon was a meal too much in the day, and that a man should eat\nnothing beyond a biscuit between breakfast and dinner. But he would\nsometimes come in and eat his biscuit standing on the hearth-rug,\nand drink what he would call half a quarter of a glass of sherry. It\nwould probably have been well that he should have done so now; but\nhe remained in his library behind the dining-room, and when his wife\nand his sister-in-law had gone up-stairs, he became anxious to learn\nwhether Colonel Osborne would come on that day, and, if so, whether\nhe would be admitted. He had been told that Nora Rowley was to be\ncalled for by another lady, a Mrs. Fairfax, to go out and look at\npictures. His wife had declined to join Mrs. Fairfax's party, having\ndeclared that, as she was going to dine out, she would not leave\nher baby all the afternoon. Louis Trevelyan, though he strove to\napply his mind to an article which he was writing for a scientific\nquarterly review, could not keep himself from anxiety as to this\nexpected visit from Colonel Osborne. He was not in the least jealous.\nHe swore to himself fifty times over that any such feeling on his\npart would be a monstrous injury to his wife. Nevertheless he knew\nthat he would be gratified if on that special day Colonel Osborne\nshould be informed that his wife was not at home. Whether the man\nwere admitted or not, he would beg his wife's pardon; but he could,\nhe thought, do so with more thorough efficacy and affection if she\nshould have shown a disposition to comply with his wishes on this\nday.\n\n\"Do say a word to Richard,\" said Nora to her sister in a whisper as\nthey were going up-stairs after luncheon.\n\n\"I will not,\" said Mrs. Trevelyan.\n\n\"May I do it?\"\n\n\"Certainly not, Nora. I should feel that I were demeaning myself were\nI to allow what was said to me in such a manner to have any effect\nupon me.\"\n\n\"I think you are so wrong, Emily. I do indeed.\"\n\n\"You must allow me to be the best judge what to do in my own house,\nand with my own husband.\"\n\n\"Oh, yes; certainly.\"\n\n\"If he gives me any command I will obey it. Or if he had expressed\nhis wish in any other words I would have complied. But to be told\nthat he would rather not have Colonel Osborne here! If you had seen\nhis manner and heard his words, you would not have been surprised\nthat I should feel it as I do. It was a gross insult,--and it was not\nthe first.\"\n\nAs she spoke the fire flashed from her eye, and the bright red colour\nof her cheek told a tale of her anger which her sister well knew how\nto read. Then there was a knock at the door, and they both knew that\nColonel Osborne was there. Louis Trevelyan, sitting in his library,\nalso knew of whose coming that knock gave notice."
+          },
+          "probe_id": "emily_trevelyan_final_rel_01_intext_a0",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the upstairs exchange with Nora at the Clock House before dinner, the quoted speech is verbatim and supports the action that Emily refuses to alter her conduct because of Louis’s insulting manner, and the thought is a fair inference from her saying she would feel demeaned and calling his words a gross insult."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases make essentially the same choice to refuse trusting accommodation and keep Louis at a self-protective distance, with the main shift appearing in thought-tone from wounded defiance to seeing him as dangerous tyranny rather than in a different intimacy decision."
+                }
+              ],
+              "note": "P1→P2 is separated because the outward refusal remains, but Phase 2 distinctly softens from hostile distance into restrained, pitying proximity that withholds conjugal trust while accepting caregiving nearness."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial rupture",
+          "anchor_query_chapter": 7,
+          "era_label": null,
+          "scenario": "Late in the evening, Louis comes to Emily with a sealed note he has received anonymously, hinting that she has been made a subject of talk; he will not show her the paper unless she first promises to avoid the person named in it. He stands waiting, wounded and stern, holding out the unopened fire-screen beside the candle.",
+          "question": "How does Emily Trevelyan answer him in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "She faces him and refuses the promise, holding her ground though her voice shakes.",
+              "gt_speech": "If you have anything to say against me, Louis, say it plainly; I will not submit to a blind command.",
+              "gt_thought": "He is cruelly unjust, but still her husband; if he would only be fair and own his wrong, all might yet be mended. To yield now would make his suspicion master of them both.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily at the early rupture: the defiant refusal, demand for plain speaking, and inward hope that Louis might yet acknowledge his injustice all suit chapter-7 Emily, with no anachronism or knowledge beyond the moment."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her refusal is still framed as a demand for fairness and apology within the marriage—she sees him as unjust 'but still her husband' and thinks matters could yet be mended, which fits conditional intimacy rather than full separation or later pity-duty care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "She steps back from him and declines both the promise and the note.",
+              "gt_speech": "Keep it, if you please. I will not be judged upon secret accusations.",
+              "gt_thought": "This is no longer a quarrel to be soothed, but another snare in which anything she says may be turned against her. Her safety lies in distance, plain words, and giving him as little hold as possible.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The guarded refusal, insistence against unnamed charges, and inward resolve to keep distance and give him no advantage all fit Emily's separated, defensive stance by chapter 38, and the diction is suitably Victorian without foreknowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis as a threat to be tactically managed—keeping distance, offering plain words, and giving him as little hold as possible—which fits separation-era grievance and defensive self-protection more than conditional intimacy or later pitying care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "She does not take the note, but speaks gently and asks him to put it away for the night.",
+              "gt_speech": "Do not vex yourself with it now, Louis; if there is pain in it, let me bear that much without a bargain.",
+              "gt_thought": "His suspicion is still wounding, yet it seems mixed now with suffering she cannot harden herself against. She must not offer conjugal trust, but neither will she sharpen his misery by open defiance if quietness may spare him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The gentle refusal, the language of pain, bargain, and quiet endurance, and the inward distinction between pitying care and withheld marital trust all fit Emily's chapter-83 phase without anachronism or foreknowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly withholds conjugal trust while softening into pity and protective gentleness toward Louis's suffering, which is most characteristic of the caregiving distance of Phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the novel’s mid-Victorian domestic world and chapter-7 tensions between Emily and Louis without introducing anachronism, impossible characters, or directly reproducing a specific canonical scene, and the phase summaries remain consistent with Emily’s assigned young-adult arc positions."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust–distance axis: P0→P1 moves from defiant refusal with residual hope for marital repair to defensive distancing and tactical self-protection, and P1→P2 moves from hostile avoidance to gentle, pity-driven nearness without restoring conjugal trust."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial rupture",
+          "anchor_query_chapter": 7,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "willingness to sustain intimate trust versus maintaining protective emotional distance under conditions of perceived relational threat",
+          "abstract_phases": [
+            "injured attachment with conditional openness pending repair",
+            "defensive withdrawal marked by distrust, fear, and strategic distance",
+            "caregiving proximity without restored trust or intimate surrender"
+          ],
+          "scenario": "At the end of a crowded evening at a workers' benefit hall, Louis Trevelyan steps close to Emily Trevelyan and says they must ride home together at once, after accusing her of inviting notice by speaking too freely with another gentleman. Several people are near enough to see her answer.",
+          "question": "How does Emily Trevelyan respond with everyone watching and Louis waiting for her reply?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "Emily holds her ground and tells Louis she will go with him only if he speaks to her properly.",
+              "gt_speech": "I will not be ordered so, Louis. If you have fairness to offer, I shall hear it.",
+              "gt_thought": "She is wounded and angry, but not past hoping he may yet be ashamed and make amends. If he would only retract the insult, she could still meet him as a wife, not an accused woman.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The reply fits Emily's early hurt-defiant stance well—publicly resisting Louis without abandoning hope of apology—and its diction is period-appropriate, with no knowledge beyond chapter 7."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her stance makes marital intimacy conditional on Louis retracting the insult and speaking fairly, showing hurt defiance with residual hope for apology rather than full separation or later pitying care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "Emily turns from Louis and asks an older couple nearby if she may join their cab instead.",
+              "gt_speech": "Thank you; I would rather not ride alone with Mr. Trevelyan tonight.",
+              "gt_thought": "His jealousy no longer feels like a quarrel to mend but a danger to be managed. She thinks first of getting clear of his reach, with witnesses enough to keep him in bounds.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her public, controlled refusal and inward sense of Louis as something to be managed rather than trusted fit Emily's separated, defensive phase, and the diction remains broadly period-appropriate without knowledge beyond chapter 38."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis not as a husband to reconcile with but as a threat to be managed through public witnesses and physical distance, which is most characteristic of separation and hostility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "Emily says she will ride in the same cab, but sits apart and keeps her attention on the street outside.",
+              "gt_speech": "Very well, Louis. I shall come, if we go quietly.",
+              "gt_thought": "She does not trust him, nor mistake nearness for reconciliation, yet she cannot meet his agitation with open defiance now. Her care is steadier than her faith; she means to soothe the scene, not to yield herself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The guarded compliance, public wish to avoid a scene, and inward distinction between dutiful soothing and any true reconciliation fit Emily's phase-2 pity-without-trust, and the diction is broadly period-appropriate without knowledge leaks."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The thought explicitly rejects reconciliation while accepting physical nearness in order to soothe and manage Louis, which fits the pity-and-duty stance more than either conditional intimacy or outright hostile separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all three phase responses fit an early-20th-century industrial setting without source-world leakage, keep Emily Trevelyan as the protagonist throughout, and consistently present her as a young adult in each phase."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust–distance axis: P0→P1 moves from conditional willingness for marital repair to public avoidance and protective distance, and P1→P2 moves from avoidance of Louis as a threat to guarded physical nearness motivated by duty rather than trust."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Separation and hostility",
+          "anchor_query_chapter": 38,
+          "era_label": null,
+          "scenario": "At the close of a family dinner, Louis lingers by the drawing-room door and, in a low voice, asks Emily to step into the next room with him for a few private words, saying he wishes to end these public coldnesses between them. Several relations are near enough to notice whether she goes.",
+          "question": "How does Emily Trevelyan answer his request for a private interview?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "She rises and goes with him, but stops near the open doorway instead of coming farther in.",
+              "gt_speech": "If you have justice to say to me, Louis, I will hear it.",
+              "gt_thought": "He has wronged and insulted her, yet he is still her husband, and she cannot quite refuse him before others. But she will not yield tenderness till he speaks fairly and asks pardon.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her guarded compliance, insistence on 'justice,' and inward resolve to withhold tenderness until he speaks fairly and asks pardon all fit Emily's hurt, defiant early-phase stance, with no anachronism or knowledge beyond chapter 7."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought makes intimacy explicitly conditional on Louis speaking justly and asking pardon, which matches the initial rupture phase more than later defensive separation or pity-driven caregiving."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "She remains where she is and declines, keeping another lady beside her as she answers him.",
+              "gt_speech": "Not alone, if you please. Whatever is needful may be said here.",
+              "gt_thought": "A private meeting offers him power to accuse, command, or twist her words afterward. She thinks first of safety and witness now; courtesy must serve as her shield.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her refusal of privacy, insistence on witnesses, and guardedly civil phrasing fit Emily's separated, defensive stance by chapter 38, and the language is suitably Victorian without knowing too much."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her refusal of any private interview because she anticipates accusation and needs witnesses shows defensive distance, fear, and tactical self-protection rather than merely conditional intimacy or later pitying care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "She goes with him a little apart, yet keeps the door unclosed and her manner quiet rather than fond.",
+              "gt_speech": "I will come, Louis; but only for a few minutes.",
+              "gt_thought": "She no longer expects justice from him, but she sees suffering where once she saw only tyranny. She can bear nearness out of duty and pity, while still guarding her heart and her peace.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily's late-phase mixture of guarded distance and compassionate duty: the open door, restrained speech, and inward language of pity without restored trust are era-appropriate and consistent with chapter-83 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly replaces grievance with pity and duty—she permits guarded nearness without trusting conjugal intimacy, which is most characteristic of the 'Pity and duty' phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the Victorian domestic world around chapter 38, uses only plausible contemporaries and social pressures, and the phase responses track Emily’s arc without reproducing any specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust-versus-guarded-distance axis: P0→P1 moves from conditional willingness to meet privately to refusal of private access, and P1→P2 moves from witness-protected avoidance to limited private nearness motivated by pity and duty rather than trust."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Separation and hostility",
+          "anchor_query_chapter": 38,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "willingness to sustain intimate trust versus maintaining protective emotional distance under conditions of perceived relational threat",
+          "abstract_phases": [
+            "injured attachment with conditional openness pending repair",
+            "defensive withdrawal marked by distrust, fear, and strategic distance",
+            "caregiving proximity without restored trust or intimate surrender"
+          ],
+          "scenario": "In the kitchen after supper, Louis Trevelyan shuts off the radio and says he wants a private talk right now, then asks Emily to sit close beside him and \"show a little trust for once.\" He holds the room with his stare as the house goes quiet.",
+          "question": "How does Emily Trevelyan respond when Louis asks for closeness on his terms?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "Emily stays standing by the table instead of sitting beside him.",
+              "gt_speech": "I will listen, Louis, but not while you speak to me as though I've done wrong.",
+              "gt_thought": "She is hurt and angry, but not finished with him. If he would be fair and take back the insult, she could still come toward him; until then, she must hold her ground.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her refusal to sit, the formal wounded firmness of 'I will listen, Louis,' and the thought that she could still yield if he retracts the insult all fit Emily's early hurt-defiant phase, with no knowledge leak or jarring diction beyond the scenario's imposed radio detail."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought makes renewed closeness explicitly conditional on Louis retracting the insult and being fair, which matches the initial rupture phase rather than full separation or later pity-driven duty."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "Emily moves to the doorway and keeps the table between them.",
+              "gt_speech": "Say what you have to say from there.",
+              "gt_thought": "Any show of softness feels dangerous now, something he will turn against her later. She thinks first of keeping herself steady, giving him as little hold over her as possible.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her guarded movement, curt refusal of closeness, and inward resolve to give him no advantage fit Emily's separated, defensive stance by chapter 38, and the language is plain enough for the period without obvious anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her physical distancing, refusal of closeness on his terms, and thought that any softness is dangerous and must be tactically minimized fit the separation/hostility phase of grievance, fear, and self-protective management rather than merely conditional intimacy or later pitying care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "Emily pulls out a chair across from him and sits, but leaves space between them.",
+              "gt_speech": "I'm here. You needn't press me.",
+              "gt_thought": "She no longer mistakes nearness for safety, yet she cannot meet him only with anger. He seems fragile enough to stir pity, so she stays and hears him, while keeping the inner part of herself out of reach.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The guarded physical distance, restrained speech, and inward mix of pity with continued self-protection fit Emily's chapter-83 stance toward Louis, and nothing in the wording feels knowledge-breaking or anachronistic for the domestic mid-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought combines continued self-protective distance with softened pity and a willingness to remain near him, which matches the caregiving, non-romantic stance of 'Pity and duty' rather than outright hostile separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The kitchen-radio-landline-era domestic setup fits the mid-century target world, no source-world elements appear, Emily Trevelyan remains the protagonist throughout, and all three phase summaries consistently portray her as a young adult in the required life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust-vs-guarded-distance axis: P0→P1 moves from conditional openness if Louis apologizes to defensive distancing and self-protection, while P1→P2 moves from hostile avoidance to physically remaining near him in a pity-and-duty caregiving stance without restoring trusting intimacy."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Pity and duty",
+          "anchor_query_chapter": 67,
+          "era_label": null,
+          "scenario": "After a painful visit to the house where Louis is hiding with their child, Emily rides away in a cab beside her mother. Louis has just refused to clear the worst meaning of his accusations, and Emily has seen how altered and neglected he looks.",
+          "question": "How does Emily Trevelyan take in what has just passed with Louis on the ride home?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "She turns to her mother in the cab and demands whether Louis truly means the insult he has cast upon her.",
+              "gt_speech": "Do you think he believes it, mamma?",
+              "gt_thought": "She is wounded less by jealousy itself than by the dishonour of being so judged by her husband. If he loves her rightly, he must unsay it; until then she cannot yield, but she still expects reason and justice from him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily in the early rupture: the question to her mother, the emphasis on insult and dishonour over mere jealousy, and her still insisting on apology while expecting justice from Louis are all phase-accurate and period-appropriate for chapter 7."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought still frames intimacy as possible if Louis retracts the insult and behaves justly, which matches the initial rupture phase where trust has collapsed but reconciliation remains conditional on apology rather than full defensive separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "She speaks bitterly to her mother, dwelling on Louis's cruelty and refusing to soften the charge against him.",
+              "gt_speech": "Could he possibly then so accuse me,--the mother of his child!",
+              "gt_thought": "By this point she reads him as dangerous in feeling and tyrannical in conduct, not as a husband with whom truth can be calmly settled. His silence is one more injury, and her mind goes first to protecting herself and her child from him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The bitterness, wounded maternal emphasis, and self-protective reading of Louis as cruel and unsafe fit Emily's chapter-38 estrangement, and the diction remains plausible to Trollope's setting without importing later pity or reconciliation."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis not as a husband to reconcile with on fair terms but as a threatening, tyrannical figure from whom she must protect herself and her child, which is most diagnostic of defensive separation and hostility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 67,
+              "gt_action": "She questions her mother about Louis's accusation, then shifts to his appearance and asks whether he ought to be left in such a state.",
+              "gt_speech": "But if he be mad, mamma, ought we to leave him like that?",
+              "gt_thought": "She still feels the outrage of his charge, but his wasted face and broken condition disturb her more than her own anger. She begins to construe his cruelty through possible madness, and pity presses against estrangement.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily at chapter 67: the speech is period-appropriate and her thought rightly shifts from injured indignation to pitying alarm at Louis's possible madness without implying any restored marital trust."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The decisive cue is that Emily interprets Louis's cruelty through possible madness and feels pity-driven concern for his condition, which matches the shift from hostility to caregiving without restored trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 67,
+            "event_id": "ch67_evt05",
+            "event_description": "On the journey home, Emily reflects on Louis's demand that she admit she has 'sinned' or 'transgressed,' and she begins to fear that he may truly be mentally unwell, especially after noticing his altered appearance and behavior.",
+            "first_words": "With many embraces, with promises of",
+            "last_words": "even met one of that branch",
+            "key_moment": "Recognition of possible madness",
+            "verbatim_passage": "With many embraces, with promises of motherly love, and with prayers\nfor love in return, the poor woman did at last leave the house, and\nreturn to the cab. As she went there was a doubt on her own mind\nwhether she should ask to kiss her husband; but he made no sign, and\nshe at last passed out without any mark of tenderness. He stood by\nthe cab as they entered it, and closed the door upon them, and then\nwent slowly back to his room. \"My poor bairn,\" he said to the boy;\n\"my poor bairn.\"\n\n\"Why for mamma go?\" sobbed the child.\n\n\"Mamma goes--; oh, heaven and earth, why should she go? She goes\nbecause her spirit is obstinate, and she will not bend. She is\nstiff-necked, and will not submit herself. But Louey must love mamma\nalways;--and mamma some day will come back to him, and be good to\nhim.\"\n\n\"Mamma is good,--always,\" said the child. Trevelyan had intended on\nthis very afternoon to have gone up to town,--to transact business\nwith Bozzle; for he still believed, though the aspect of the man was\nbitter to him as wormwood, that Bozzle was necessary to him in all\nhis business. And he still made appointments with the man, sometimes\nat Stony Walk, in the Borough, and sometimes at the tavern in\nPoulter's Court, even though Bozzle not unfrequently neglected to\nattend the summons of his employer. And he would go to his banker's\nand draw out money, and then walk about the crowded lanes of the\nCity, and afterwards return to his desolate lodgings at Willesden,\nthinking that he had been transacting business,--and that this\nbusiness was exacted from him by the unfortunate position of his\naffairs. But now he gave up his journey. His retreat had been\ndiscovered; and there came upon him at once a fear that if he left\nthe house his child would be taken. His landlady told him on this\nvery day that the boy ought to be sent to his mother, and had made\nhim understand that it would not suit her to find a home any longer\nfor one who was so singular in his proceedings. He believed that his\nchild would be given up at once, if he were not there to guard it.\nHe stayed at home, therefore, turning in his mind many schemes. He\nhad told his wife that he should go either to Italy or to America at\nonce; but in doing so he had had no formed plan in his head. He had\nsimply imagined at the moment that such a threat would bring her to\nsubmission. But now it became a question whether he would do better\nthan go to America. He suggested to himself that he should go to\nCanada, and fix himself with his boy on some remote farm,--far away\nfrom any city; and would then invite his wife to join him if she\nwould. She was too obstinate, as he told himself, ever to yield,\nunless she should be absolutely softened and brought down to the\nground by the loss of her child. What would do this so effectually\nas the interposition of the broad ocean between him and her? He sat\nthinking of this for the rest of the day, and Louey was left to the\ncharge of the mistress of River's Cottage.\n\n\"Do you think he believes it, mamma?\" Mrs. Trevelyan said to her\nmother when they had already made nearly half their journey home in\nthe cab. There had been nothing spoken hitherto between them, except\nsome half-formed words of affection intended for consolation to the\nyoung mother in her great affliction.\n\n\"He does not know what he believes, dearest.\"\n\n\"You heard what he said. I was to own that I had--sinned.\"\n\n\"Sinned;--yes; because you will not obey him like a slave. That is\nsin--to him.\"\n\n\"But I asked him, mamma. Did you not hear me? I could not say\nthe word plainer,--but I asked him whether he meant that sin.\nHe must have known, and he would not answer me. And he spoke of\nmy--transgression. Mamma, if he believed that, he would not let me\ncome back at all.\"\n\n\"He did not believe it, Emily.\"\n\n\"Could he possibly then so accuse me,--the mother of his child! If\nhis heart be utterly hard and false towards me, if it is possible\nthat he should be cruel to me with such cruelty as that,--still he\nmust love his boy. Why did he not answer me, and say that he did not\nthink it?\"\n\n\"Simply because his reason has left him.\"\n\n\"But if he be mad, mamma, ought we to leave him like that? And, then,\ndid you see his eyes, and his face, and his hands? Did you observe\nhow thin he is,--and his back, how bent? And his clothes,--how they\nwere torn and soiled. It cannot be right that he should be left like\nthat.\"\n\n\"We will tell papa when we get home,\" said Lady Rowley, who was\nherself beginning to be somewhat frightened by what she had seen.\nIt is all very well to declare that a friend is mad when one simply\ndesires to justify one's self in opposition to that friend;--but\nthe matter becomes much more serious when evidence of the friend's\ninsanity becomes true and circumstantial. \"I certainly think that a\nphysician should see him,\" continued Lady Rowley. On their return\nhome Sir Marmaduke was told of what had occurred, and there was a\nlong family discussion in which it was decided that Lady Milborough\nshould be consulted, as being the oldest friend of Louis Trevelyan\nhimself with whom they were acquainted. Trevelyan had relatives of\nhis own name living in Cornwall; but Mrs. Trevelyan herself had never\neven met one of that branch of the family."
+          },
+          "probe_id": "emily_trevelyan_final_rel_01_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the cab ride home with Lady Rowley after the visit, and Emily does exactly question the accusation before turning to Louis’s altered appearance and asking, “But if he be mad, mamma, ought we to leave him like that?”, with the thought of pity emerging through her concern over his condition despite her hurt."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust–distance axis: P0→P1 moves from conditional hope for marital justice to defensive self-protection, and P1→P2 moves from hostile avoidance to pitying, duty-based willingness to remain near without restoring trust."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Pity and duty",
+          "anchor_query_chapter": 83,
+          "era_label": null,
+          "scenario": "Late in the evening, Louis is seized with one of his dark fits of distrust and demands that Emily unlock a small escritoire on her table, saying that if she has nothing to hide she will let him see every letter in it. He stands waiting, agitated and watchful, with his hand held out for the key.",
+          "question": "How does Emily Trevelyan answer this demand?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "She keeps the key in her hand and faces him, refusing to open the desk.",
+              "gt_speech": "No, Louis; not while you speak to me in that way. When you can trust me, you may ask it again.",
+              "gt_thought": "His demand is an insult, but not yet the end of all hope. If he would own himself unjust, she could forgive; to yield now would be to confess a fault she has not committed.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily's early hurt defiance well: the refusal is dignified and conditional rather than estranged, the language is period-appropriate, and the thought rightly preserves hope of forgiveness if Louis admits his injustice."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "She refuses submission but still frames renewed intimacy as possible if Louis admits his injustice and trusts her, which matches the early rupture stage where closeness is conditional on apology rather than fully broken into separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "She steps back from the escritoire and rings for a servant rather than give him the key.",
+              "gt_speech": "You shall not have it. I will not be questioned so between ourselves any longer.",
+              "gt_thought": "This is no husband's claim now, but another act of tyranny that may turn dangerous if she stands alone against it. She thinks less of persuading him than of keeping herself from his power and his violence of temper.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Emily's separated, defensive stance by chapter 38: the refusal, appeal to a servant for protection, and inward sense of tyranny and danger are all period-appropriate and true to her grievance and fear without introducing later knowledge or modern phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis not as a husband to be reconciled with but as a dangerous tyrant to be managed through self-protective distance and outside intervention, which is most characteristic of separation and hostility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "She takes the letters from the desk herself, leaves it locked, and offers him only the uppermost paper.",
+              "gt_speech": "You shall see this, if it quiets you; but do not ask me for the key.",
+              "gt_thought": "She no longer believes reason will cure his suspicion, yet she cannot meet his misery with mere defiance. She must soothe him where she can, while still guarding the small remnant of herself that his jealousy has not broken into.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The guarded concession, pitying restraint, and refusal to yield full access fit Emily's chapter-83 stance toward Louis, and the diction is suitably period without reaching beyond what she knows."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought frames Louis less as an opponent to resist than as someone to be soothed in his misery while she maintains boundaries, which matches the pity-and-duty stance rather than outright hostile separation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the novel’s realistic Victorian world and Emily’s late-story relationship with Louis, uses only characters plausibly present by chapter 83, and while it echoes the book’s jealousy dynamics it does not reproduce a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust–distance axis: P0→P1 moves from conditional marital engagement to defensive distancing and third-party protection, while P1→P2 moves from hostile avoidance to limited soothing proximity without restoring trusting intimacy."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Pity and duty",
+          "anchor_query_chapter": 83,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "willingness to sustain intimate trust versus maintaining protective emotional distance under conditions of perceived relational threat",
+          "abstract_phases": [
+            "injured attachment with conditional openness pending repair",
+            "defensive withdrawal marked by distrust, fear, and strategic distance",
+            "caregiving proximity without restored trust or intimate surrender"
+          ],
+          "scenario": "At dusk in the yard, Louis Trevelyan comes back from the fields, asks Emily Trevelyan to come inside with him, and says low that he is weary of cold looks and wants things mended. No one else is near, and he waits for her answer.",
+          "question": "How does Emily Trevelyan answer him in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial rupture",
+              "query_chapter": 7,
+              "gt_action": "Emily stands where she is and meets his gaze, but does not go in with him.",
+              "gt_speech": "When you have spoken fairly to me, I will hear you.",
+              "gt_thought": "She is wounded, but not yet shut against him. If he would own the wrong and speak to her as a husband ought, she could still be softened.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her refusal to go with him, coupled with the conditional willingness to relent upon a fair apology, fits Emily's early hurt-defiant stance in chapter 7, and the diction is period-appropriate and free of later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her stance is hurt and defiant but still conditionally open to reconciliation if Louis apologizes and speaks fairly, which matches the initial rupture rather than full separation or later pity-driven duty."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Separation and hostility",
+              "query_chapter": 38,
+              "gt_action": "Emily steps back toward the yard gate and keeps space between them.",
+              "gt_speech": "Say what you mean here. I do not go in alone with you.",
+              "gt_thought": "She no longer takes his plea for peace as safety or tenderness. Nearness is a thing he may turn against her, and she must guard herself even in small matters.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her guarded movement, refusal to be alone with him, and inward sense that even a plea for peace may be used against her fit Emily's defensive estrangement by chapter 38, and the diction is plain and period-safe."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her stepping back, refusing to be alone with him, and explicitly construing his plea as something potentially dangerous to be used against her fits the defensive distance, fear, and tactical self-protection of separation and hostility rather than merely conditional intimacy or later pitying care."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Pity and duty",
+              "query_chapter": 83,
+              "gt_action": "Emily goes with him to the doorway, but stops short of taking his arm or leaning near.",
+              "gt_speech": "Come in, then. You should sit by the hearth.",
+              "gt_thought": "She cannot trust the old claim of husbandly closeness, yet his weariness moves her. She can stay near enough to tend him, while keeping her heart and judgment apart.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The guarded action, spare domestic speech, and inward resolve to offer care without restored conjugal trust fit Emily's chapter-83 phase well, and the diction is broadly period-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects trusting marital closeness while accepting nearness in a tending, compassionate role, which is the hallmark of pity-and-duty rather than active hostility or conditional intimacy."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "emily_trevelyan_final_rel_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all phase responses fit a generic pre-industrial agrarian setting with no source-world leakage, keep Emily Trevelyan as protagonist throughout, and present her consistently as a young adult in each required phase."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the trust–distance axis: P0→P1 moves from conditional openness to guarded refusal of private intimacy, and P1→P2 moves from defensive avoidance to limited caregiving proximity without restored trust."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "emily_trevelyan_final_rel_01_intext_a1",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "emily_trevelyan_final_rel_01_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases make essentially the same choice to refuse trusting accommodation and keep Louis at a self-protective distance, with the main shift appearing in thought-tone from wounded defiance to seeing him as dangerous tyranny rather than in a different intimacy decision."
+        }
+      ]
+    }
+  ]
+}

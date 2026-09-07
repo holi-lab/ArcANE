@@ -1,0 +1,298 @@
+{
+  "character": "Colonel Osborne",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From socially confident self-assertion to defensive self-justifying agency",
+          "set_b_axis": "From socially expansive self-assertion to guarded self-protective agency",
+          "overlap_description": "Both describe Osborne as remaining strongly agentic while his agency shifts from easy social confidence to defensive, reputation-conscious self-protection under suspicion."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From socially confident self-assertion to defensive self-justifying agency",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From socially expansive self-assertion to guarded self-protective agency",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From easy familiarity to scandal-charged intimacy",
+          "set_b_axis": "From easy familiar intimacy to covert, defended attachment",
+          "overlap_description": "Both track the same core relationship with Emily: it begins as socially easy familiarity and becomes increasingly compromised, hidden, and defended as scandal and surveillance intensify."
+        },
+        {
+          "set_a_axis": "From amused contempt to embattled hostility",
+          "set_b_axis": "From indifferent disregard to defensive antagonism",
+          "overlap_description": "Both describe Osborne's relation to Trevelyan as hardening from casual dismissal and amusement into entrenched antagonism and contempt."
+        },
+        {
+          "set_a_axis": "From easy alliance to strained self-defense",
+          "set_b_axis": "From old-family cordiality to defensive alliance management",
+          "overlap_description": "Both identify a relationship with Sir Marmaduke that shifts from easy elite familiarity to a more tactical, self-justifying posture under scrutiny."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From easy familiarity to scandal-charged intimacy",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From amused contempt to embattled hostility",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From easy alliance to strained self-defense",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From easy familiar intimacy to covert, defended attachment",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From indifferent disregard to defensive antagonism",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From old-family cordiality to defensive alliance management",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From socially confident self-assertion to guarded self-protective agency",
+      "pole_start": "High agency with moderate communion: Osborne begins as socially confident, mobile, and entitled, treating elite access and familiar intimacy as natural and unproblematic.",
+      "pole_end": "Still high agency, but narrowed into defensive self-protection: he remains assertive and controlling, yet increasingly focused on deniability, reputation management, and self-justification under scrutiny.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Baseline social ease and entitlement",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Osborne begins as a polished, self-possessed man who assumes access to Emily Trevelyan's household and moves through elite circles with ease. His agency appears as charm, flirtation, and social confidence rather than overt conflict.",
+          "key_moments": [
+            "Early visits to Mrs. Trevelyan's house",
+            "Uses familiar, affectionate notes",
+            "Shows no guilt or self-scrutiny",
+            "Enjoys the social effect of provoking jealousy"
+          ]
+        },
+        {
+          "phase": "Tactical self-protection under suspicion",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As Trevelyan's jealousy and surveillance intensify, Osborne does not become less agentic; instead, his agency becomes more defensive and strategic. He keeps pressing for access while learning to manage appearances, preserve deniability, and avoid direct confrontation.",
+          "key_moments": [
+            "Continues correspondence and visits despite suspicion",
+            "Feels embarrassment after the failed Clock House visit",
+            "Recognizes he must be more careful after Stanbury's challenge",
+            "Uses ambiguous letters and plausible excuses to maintain contact"
+          ]
+        },
+        {
+          "phase": "Defensive composure and self-justification",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "In the later novel he remains socially forceful but increasingly self-protective. His agency is expressed through controlled explanation, class judgment, and insistence on innocence rather than through open social ease.",
+          "key_moments": [
+            "Continues to be discussed as the scandal's cause",
+            "Defends himself to Sir Marmaduke in chapter 64",
+            "Frames his conduct as innocent and proper",
+            "Judges others from a position of social superiority"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne does not undergo a deep moral reversal. He remains strongly agentic throughout, but the form of that agency shifts from easy social dominance to guarded, reputation-conscious self-protection. Communion never becomes genuinely reciprocal; it is mostly instrumental and increasingly narrowed by scandal."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Colonel Osborne",
+      "target_character": "Emily Trevelyan",
+      "dimension_label": "Intimacy-Discretion",
+      "axis_name": "From easy familiar intimacy to covert, defended attachment",
+      "pole_start": "Open, warm, socially confident familiarity: Osborne treats Emily as a privileged intimate and assumes his access is natural and welcome.",
+      "pole_end": "A relationship still marked by attachment and attraction, but increasingly hidden, tactically managed, and defended against scrutiny.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Familiar intimacy",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "He begins with relaxed, affectionate access to Emily, writing familiar notes and behaving like an old family friend whose intimacy is socially unproblematic.",
+          "key_moments": [
+            "Visits to the Trevelyan household",
+            "Helps with Sir Marmaduke's return",
+            "Uses warm, familiar correspondence"
+          ]
+        },
+        {
+          "phase": "Intimacy under surveillance",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As suspicion grows, the relationship remains emotionally close but becomes more covert and risky. He keeps pursuing contact through ambiguity, plausible excuses, and careful management of appearances.",
+          "key_moments": [
+            "Failed Clock House visit",
+            "Continued letters and visits",
+            "Bozzle's surveillance",
+            "Trevelyan's explicit jealousy"
+          ]
+        },
+        {
+          "phase": "Covert attachment",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "The relationship is no longer publicly sustainable, but Osborne does not renounce it. Instead, he preserves it as a hidden, socially defended attachment while avoiding direct accountability.",
+          "key_moments": [
+            "Public suspicion hardens",
+            "He defends himself to Sir Marmaduke",
+            "Later chapters keep him offstage but implicated",
+            "No remorse or renunciation appears"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Osborne's central relational arc: he never stops valuing Emily's company, but the relationship moves from socially easy intimacy to a covert, reputation-managed attachment. The emotional core remains, while the public form becomes increasingly defensive."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Colonel Osborne",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "Dismissal-Hostility",
+      "axis_name": "From indifferent dismissal to defensive antagonism",
+      "pole_start": "Low concern and low respect: Osborne initially treats Trevelyan's jealousy as unreasonable background noise rather than a serious claim on his behavior.",
+      "pole_end": "A settled posture of contemptuous defensiveness: Trevelyan becomes the jealous, foolish husband whose objections Osborne dismisses and works around.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial indifference",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Osborne does not take Trevelyan seriously. The husband is an obstacle in structure, but not yet a psychologically important adversary.",
+          "key_moments": [
+            "Latent opposition in early chapters",
+            "Continues visiting despite possible impropriety",
+            "No sign of self-questioning about Trevelyan's feelings"
+          ]
+        },
+        {
+          "phase": "Jealous husband as nuisance",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "As Trevelyan's jealousy becomes explicit, Osborne responds with amusement, irritation, and condescension rather than sympathy. He sees the husband's anger as an inconvenience and a source of drama, not as a legitimate grievance.",
+          "key_moments": [
+            "Amused reaction to Trevelyan's jealousy",
+            "Continues contact after warnings",
+            "Treats Trevelyan as unreasonable and overreactive"
+          ]
+        },
+        {
+          "phase": "Consolidated contempt",
+          "chapter_range": [
+            29,
+            99
+          ],
+          "position_description": "By the later chapters, Trevelyan is firmly fixed in Osborne's mind as a jealous, socially absurd opponent. Osborne remains defensive and dismissive, never granting him moral authority.",
+          "key_moments": [
+            "Defends himself to Sir Marmaduke",
+            "Continued framing of Trevelyan as irrational",
+            "No reconciliation or respect emerges"
+          ]
+        }
+      ],
+      "evidence_summary": "Osborne's relation to Trevelyan is stable in one sense—he never respects him—but it hardens into explicit antagonism as jealousy and surveillance intensify. The key change is not emotional depth but defensive consolidation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Colonel Osborne",
+      "target_character": "Sir Marmaduke Rowley",
+      "dimension_label": "Alliance-Justification",
+      "axis_name": "From old-family cordiality to defensive alliance management",
+      "pole_start": "A friendly, socially easy relationship grounded in old acquaintance and mutual elite familiarity.",
+      "pole_end": "A more strategic alliance in which Osborne uses Sir Marmaduke as an audience for self-exculpation and social legitimation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Cordial old acquaintance",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "He begins as a familiar friend of the Rowley household, comfortable enough to use his influence on Sir Marmaduke's behalf.",
+          "key_moments": [
+            "Helps with Sir Marmaduke's colonial return",
+            "Maintains polite, easy social footing"
+          ]
+        },
+        {
+          "phase": "Alliance under strain",
+          "chapter_range": [
+            41,
+            68
+          ],
+          "position_description": "When scrutiny rises, Osborne increasingly treats Sir Marmaduke as the person before whom he must justify himself. The relationship becomes less mutual and more tactical: he wants Marmaduke on his side, or at least not against him.",
+          "key_moments": [
+            "Visits Mr. Outhouse and prepares to see Sir Marmaduke",
+            "Defends himself in chapter 64",
+            "Feels resentful at Sir Marmaduke's ingratitude in chapter 68"
+          ]
+        },
+        {
+          "phase": "Residual social utility",
+          "chapter_range": [
+            69,
+            99
+          ],
+          "position_description": "The relationship remains socially relevant but psychologically thin. Osborne is no longer shown actively cultivating it, yet he still values Sir Marmaduke's judgment when it can help him.",
+          "key_moments": [
+            "Later chapters omit direct interaction",
+            "Earlier self-justifying defense remains the last clear evidence"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship changes less dramatically than Osborne's bond with Emily, but it does become more strategic. Sir Marmaduke shifts from being simply an old friend to being a useful legitimating authority before whom Osborne performs innocence."
+    }
+  ]
+}

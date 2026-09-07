@@ -1,0 +1,514 @@
+{
+  "character": "Jane Bennet",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From quiet relational dependence to steadier mediated agency",
+          "set_b_axis": "From quiet relational openness to modest self-assertion",
+          "overlap_description": "Both describe Jane’s subtle movement from passive, harmony-preserving communion toward a limited but real form of self-command and practical agency."
+        },
+        {
+          "set_a_axis": "From hopeful attachment to disciplined resignation and back to grounded hope",
+          "set_b_axis": "From trusting innocence to tempered moral discernment",
+          "overlap_description": "Both track Jane’s emotional education through disappointment: she begins trusting and hopeful, is tested by loss and deception, and ends with a more mature, tempered outlook."
+        },
+        {
+          "set_a_axis": "From instinctive charity to tested discernment without losing generosity",
+          "set_b_axis": "From trusting innocence to tempered moral discernment",
+          "overlap_description": "These are near-identical in concept: Jane remains charitable, but learns to distinguish sincerity from insincerity and to judge more carefully without becoming bitter."
+        },
+        {
+          "set_a_axis": "From untroubled composure to tested emotional endurance",
+          "set_b_axis": "From passive composure to emotionally informed self-command",
+          "overlap_description": "Both emphasize that Jane’s restraint is not static; it becomes more conscious and resilient under emotional strain."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From hopeful attachment to disciplined resignation and back to grounded hope",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From untroubled composure to tested emotional endurance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From trusting innocence to tempered moral discernment",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From passive composure to emotionally informed self-command",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From hopeful admiration to tested and then secure attachment",
+          "set_b_axis": "From hopeful admiration to secure reciprocal love",
+          "overlap_description": "Both describe Jane and Bingley’s relationship as a central romantic arc moving from attraction through separation and uncertainty to secure mutual attachment."
+        },
+        {
+          "set_a_axis": "From affectionate confidence to deeper mutual reliance",
+          "set_b_axis": "From affectionate intimacy to deeper mutual reliance",
+          "overlap_description": "Both capture the sisterly bond with Elizabeth as already close at the start and made more consequential by shared disappointment and crisis."
+        },
+        {
+          "set_a_axis": "From polite goodwill to wary disengagement and eventual softening",
+          "set_b_axis": "From charitable openness to polite mistrust",
+          "overlap_description": "Both identify Jane’s disillusionment with Caroline Bingley: initial civility gives way to distrust, though Jane remains polite and not vindictive."
+        },
+        {
+          "set_a_axis": "From charitable reserve to indirect moral suspicion and partial rehabilitation",
+          "set_b_axis": "From sympathetic curiosity to guarded moral distrust",
+          "overlap_description": "Both recognize that Darcy functions as a moral obstacle in Jane’s emotional world, though the relationship is indirect and filtered through his effect on Bingley and Elizabeth."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From patient sisterhood to burdened guardianship",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From sympathetic curiosity to guarded moral distrust",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency communion",
+      "axis_name": "From quiet relational dependence to modest self-command",
+      "pole_start": "Primarily communion-oriented: warm, accommodating, trusting, and emotionally interdependent, with little self-assertion and a tendency to let relationships and circumstances carry her along.",
+      "pole_end": "Still strongly communion-oriented, but with a slightly stronger capacity for self-trust, private judgment, and quiet practical agency in family and social crises.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial relational receptivity",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "Jane begins as gentle, receptive, and harmony-preserving. She is pleased by Bingley’s attention, charitable toward others, and largely passive in the social world around her; even her illness at Netherfield places her in a position of being cared for rather than acting.",
+          "key_moments": [
+            "Meryton assembly and Bingley’s attention",
+            "Quiet pleasure at Bingley’s attentions",
+            "Patient endurance during illness at Netherfield",
+            "Habitual charitable interpretation of others"
+          ]
+        },
+        {
+          "phase": "Endurance under disappointment",
+          "chapter_range": [
+            16,
+            39
+          ],
+          "position_description": "Bingley’s departure and the long silence force Jane into inward discipline. She absorbs hurt without complaint, resists bitterness, and begins to show a little more private firmness in sustaining her own judgment while still avoiding overt self-assertion.",
+          "key_moments": [
+            "Caroline’s letter announcing the London departure",
+            "Quiet grief and self-denial",
+            "Letters showing diminished spirits",
+            "Recognition that appearances may mislead"
+          ]
+        },
+        {
+          "phase": "Mediating responsibility",
+          "chapter_range": [
+            44,
+            53
+          ],
+          "position_description": "During the Lydia crisis and Bingley’s return, Jane becomes more visibly active in a gentle but consequential way. She writes urgently, helps manage the household response, persuades her father to act with dignity, and handles renewed courtship with calm self-command.",
+          "key_moments": [
+            "Urgent letters about Lydia’s elopement",
+            "Support during family disgrace",
+            "Persuading Mr. Bennet to receive Lydia and Wickham",
+            "Managing Bingley’s renewed attention with composure"
+          ]
+        },
+        {
+          "phase": "Settled domestic self-possession",
+          "chapter_range": [
+            53,
+            59
+          ],
+          "position_description": "By the end, Jane remains modest and communion-driven, but her happiness is steadier and more self-possessed. She can inhabit marriage and sisterhood without self-erasure, combining warmth with a quiet, mature confidence.",
+          "key_moments": [
+            "Open joy at the confirmed engagement",
+            "Gracious handling of family and social propriety",
+            "Warm acceptance of Elizabeth’s engagement to Darcy",
+            "Final domestic contentment"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane does not become strongly independent, but she does gain a limited, mature form of agency: she learns to regulate her feelings, mediate family crises, and act with quiet practical influence while remaining fundamentally communion-driven."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "hope discernment",
+      "axis_name": "From trusting innocence to tempered hope and discernment",
+      "pole_start": "Open, quietly confident hope that others’ goodwill is sincere and that affection or civility can be trusted at face value.",
+      "pole_end": "A more grounded hope: she can trust affection again, but only with greater caution, discernment, and emotional discipline.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Baseline trust",
+          "chapter_range": [
+            2,
+            15
+          ],
+          "position_description": "Jane initially interprets people generously and resists suspicion. She credits Bingley’s goodness, accepts social civility at face value, and remains open to others, including the Bingley circle and Darcy.",
+          "key_moments": [
+            "Admiration of Bingley’s manners and character",
+            "Willingness to think well of Miss Bingley and Mrs. Hurst",
+            "Charitable reading of Darcy’s behavior",
+            "General refusal to censure others harshly"
+          ]
+        },
+        {
+          "phase": "Disappointment and self-denial",
+          "chapter_range": [
+            16,
+            36
+          ],
+          "position_description": "Bingley’s absence and Caroline’s letter wound Jane deeply. Hope cools into resignation, but she does not become cynical; instead she learns to endure disappointment privately and to suspect that appearances may mislead.",
+          "key_moments": [
+            "Caroline’s letter announcing the departure",
+            "Pain at Caroline Bingley’s coldness",
+            "Quiet grief after hope is extinguished",
+            "Subdued letters and continued refusal to complain"
+          ]
+        },
+        {
+          "phase": "Mature discernment",
+          "chapter_range": [
+            39,
+            47
+          ],
+          "position_description": "The Lydia scandal and Wickham’s exposure sharpen Jane’s judgment. She becomes more aware of moral danger and insincerity, yet keeps charity intact, distinguishing between forgiveness and gullibility.",
+          "key_moments": [
+            "Revision of opinion about Wickham after his exposure",
+            "Growing conviction that he is morally corrupt",
+            "Continued reluctance to condemn Lydia absolutely",
+            "Guarded relief when marriage becomes possible"
+          ]
+        },
+        {
+          "phase": "Restored but tempered hope",
+          "chapter_range": [
+            51,
+            59
+          ],
+          "position_description": "Bingley’s return reopens hope, but Jane no longer trusts blindly. She allows herself happiness only after reality becomes unmistakable, and her final confidence is grounded in experience rather than innocence.",
+          "key_moments": [
+            "Bingley’s renewed attentions at Longbourn",
+            "Jane’s guarded response and visible embarrassment",
+            "Open acknowledgment of the engagement",
+            "Final stable moral confidence"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane’s defining change is not from innocence to cynicism, but from innocence to tempered discernment. She keeps her charitable temperament, yet learns that people can deceive, that appearances can mislead, and that hope must be disciplined by experience."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "composure self-command",
+      "axis_name": "From passive composure to emotionally informed self-command",
+      "pole_start": "Emotionally restrained in a largely instinctive way; she suppresses feeling by temperament rather than by conscious control.",
+      "pole_end": "Still restrained, but now with more deliberate management of feeling, especially in public and socially delicate situations.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Natural composure",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "Jane’s calmness is initially effortless and temperamentally rooted. She is gentle, quiet, and uncomplaining, and her feelings remain mostly hidden beneath social grace.",
+          "key_moments": [
+            "Quiet delight at Bingley’s attention",
+            "Illness at Netherfield borne without complaint",
+            "Polite social conduct under observation"
+          ]
+        },
+        {
+          "phase": "Endurance under strain",
+          "chapter_range": [
+            20,
+            39
+          ],
+          "position_description": "As disappointment accumulates, restraint becomes a conscious practice. Jane actively suppresses pain, avoids burdening others, and manages her grief through decorum and understatement.",
+          "key_moments": [
+            "Caroline’s letter and Bingley’s absence",
+            "Quiet grief after hope is extinguished",
+            "Letters showing subdued spirits",
+            "Continued refusal to complain"
+          ]
+        },
+        {
+          "phase": "Conscious composure in crisis and happiness",
+          "chapter_range": [
+            44,
+            59
+          ],
+          "position_description": "During Lydia’s elopement and Bingley’s return, Jane’s self-command becomes more deliberate. She carefully regulates what she says and how she appears, balancing feeling with propriety in both distress and joy.",
+          "key_moments": [
+            "Calm letters during Lydia crisis",
+            "Supportive but restrained behavior during family shame",
+            "Visible embarrassment at Bingley’s return",
+            "Careful denial and then controlled joy at the engagement"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane is always restrained, but the quality of that restraint changes. Early on it is simply temperament; later it becomes a more conscious form of self-management, especially when her emotions are strongest."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Jane Bennet",
+      "target_character": "Charles Bingley",
+      "dimension_label": "attachment security",
+      "axis_name": "From hopeful admiration to secure reciprocal love",
+      "pole_start": "A gentle, hopeful attraction based on Bingley’s attention and Jane’s charitable interpretation of his character; she is pleased but uncertain.",
+      "pole_end": "A secure, openly mutual attachment grounded in confirmed engagement and domestic happiness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial attraction",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "Jane is quietly pleased by Bingley’s attention and begins to feel clear affection, though she remains modest and unassuming.",
+          "key_moments": [
+            "Ball attentions in chapters 2-3",
+            "Sustained favorable view of Bingley",
+            "Growing attachment in chapter 5"
+          ]
+        },
+        {
+          "phase": "Separation and uncertainty",
+          "chapter_range": [
+            20,
+            36
+          ],
+          "position_description": "Bingley’s absence wounds her deeply. She remains affectionate, but hope cools into resignation as she receives Caroline’s letters and sees no return.",
+          "key_moments": [
+            "Caroline’s letter in chapter 20",
+            "Confirmation of Bingley’s absence in chapter 23",
+            "Subdued letters and quiet suffering in chapters 32-36"
+          ]
+        },
+        {
+          "phase": "Renewed hope",
+          "chapter_range": [
+            51,
+            52
+          ],
+          "position_description": "Bingley’s return unsettles her, but the emotional current turns back toward hope. She denies attachment publicly while clearly feeling its force.",
+          "key_moments": [
+            "Visible embarrassment at Bingley’s visit",
+            "Careful denial of feeling in conversation with Elizabeth"
+          ]
+        },
+        {
+          "phase": "Confirmed union",
+          "chapter_range": [
+            53,
+            59
+          ],
+          "position_description": "His intentions are confirmed, and Jane moves into secure happiness. The relationship becomes stable, reciprocal, and socially recognized.",
+          "key_moments": [
+            "Open joy at the engagement in chapter 53",
+            "Protected happiness in chapter 54",
+            "Stable domestic contentment by the end"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Jane’s central relational arc. It moves from quiet attraction through painful separation and back to confirmed mutual love. The emotional stakes are high, but her manner remains restrained throughout."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Jane Bennet",
+      "target_character": "Elizabeth Bennet",
+      "dimension_label": "sisterly reliance",
+      "axis_name": "From affectionate intimacy to deeper mutual reliance",
+      "pole_start": "Close, affectionate, and trusting sisterhood with high intimacy from the beginning.",
+      "pole_end": "An even more secure bond of mutual reliance, especially in moments of disappointment, crisis, and joy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Stable intimacy",
+          "chapter_range": [
+            2,
+            19
+          ],
+          "position_description": "Jane and Elizabeth begin as already intimate sisters, with Jane confiding in Elizabeth and Elizabeth reading her feelings accurately.",
+          "key_moments": [
+            "Elizabeth perceives Jane’s pleasure in Bingley",
+            "Shared conversation about social judgments",
+            "Elizabeth as confidante during illness"
+          ]
+        },
+        {
+          "phase": "Emotional support in disappointment",
+          "chapter_range": [
+            20,
+            36
+          ],
+          "position_description": "Elizabeth becomes Jane’s main emotional witness during Bingley’s absence. Jane remains reserved, but the bond deepens through shared pain and private understanding.",
+          "key_moments": [
+            "Elizabeth interprets Caroline’s letter",
+            "Jane’s subdued suffering is mediated through letters and conversation",
+            "Elizabeth’s protective concern"
+          ]
+        },
+        {
+          "phase": "Crisis and recovery",
+          "chapter_range": [
+            44,
+            53
+          ],
+          "position_description": "During Lydia’s elopement and Jane’s renewed hope for Bingley, the sisters function as emotional allies. Their intimacy is tested by Jane’s restraint, but not weakened.",
+          "key_moments": [
+            "Jane’s letters during the Lydia crisis",
+            "Shared concern over family disgrace",
+            "Elizabeth and Jane’s mutual joy over Bingley’s return and engagement"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane and Elizabeth begin as close sisters and end as even more mutually dependent confidantes. The relationship does not transform dramatically, but it becomes more emotionally consequential as the novel progresses."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Jane Bennet",
+      "target_character": "Caroline Bingley",
+      "dimension_label": "trust disillusionment",
+      "axis_name": "From charitable openness to polite mistrust",
+      "pole_start": "Open, charitable, and willing to believe Caroline’s civility and friendship are sincere.",
+      "pole_end": "Cordial but no longer trusting; Jane recognizes Caroline’s insincerity and keeps her at a distance without open hostility.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial openness",
+          "chapter_range": [
+            3,
+            11
+          ],
+          "position_description": "Jane receives Caroline’s attention kindly and assumes good intentions, even during her illness at Netherfield.",
+          "key_moments": [
+            "Friendly reception of Caroline’s civility",
+            "Gratitude for nursing attentions",
+            "No suspicion of mixed motives"
+          ]
+        },
+        {
+          "phase": "First hurt and uncertainty",
+          "chapter_range": [
+            20,
+            25
+          ],
+          "position_description": "Caroline’s letter and later coldness wound Jane. She still tries to excuse her, but the friendship is no longer secure in her mind.",
+          "key_moments": [
+            "Pain at Caroline’s letter in chapter 20",
+            "Recognition that the friendship may not be genuine in chapter 25"
+          ]
+        },
+        {
+          "phase": "Final disillusionment",
+          "chapter_range": [
+            26,
+            58
+          ],
+          "position_description": "Jane no longer treats Caroline as a true friend. She remains polite and forgiving, but trust is gone and her responses become formally civil rather than intimate.",
+          "key_moments": [
+            "Continued withdrawal from Caroline",
+            "No renewed intimacy in later chapters",
+            "Gracious but non-credulous response to Caroline’s congratulatory letter"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane’s relationship with Caroline is a clear case of disillusionment. She does not become bitter, but she learns to distinguish civility from genuine affection and to keep emotional distance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Jane Bennet",
+      "target_character": "George Wickham",
+      "dimension_label": "moral trust",
+      "axis_name": "From sympathetic curiosity to guarded moral distrust",
+      "pole_start": "Initially open and sympathetic, inclined to trust Wickham’s amiable appearance and apparent suffering.",
+      "pole_end": "Suspicious and morally wary, though still not vindictive or wholly condemnatory.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial openness",
+          "chapter_range": [
+            14,
+            16
+          ],
+          "position_description": "Jane is curious about Wickham and willing to think well of him, even when the Darcy-Wickham story is confusing.",
+          "key_moments": [
+            "Curious reaction to Darcy and Wickham’s awkwardness",
+            "Sympathetic response to Elizabeth’s account"
+          ]
+        },
+        {
+          "phase": "Moral shock",
+          "chapter_range": [
+            39,
+            46
+          ],
+          "position_description": "Jane is shocked by Wickham’s revealed bad character and gambling debts. Her trust collapses, though she still avoids harshness.",
+          "key_moments": [
+            "Exposure of Wickham’s misconduct",
+            "Learning of gambling debts",
+            "Growing fear for Lydia’s safety"
+          ]
+        },
+        {
+          "phase": "Practical distrust",
+          "chapter_range": [
+            47,
+            50
+          ],
+          "position_description": "Wickham’s willingness to marry Lydia softens the immediate crisis but does not restore trust. Jane accepts the marriage as necessary while remaining morally cautious.",
+          "key_moments": [
+            "Guarded relief at the marriage arrangement",
+            "Continued reluctance to trust him",
+            "No return to earlier sympathy"
+          ]
+        }
+      ],
+      "evidence_summary": "Jane’s view of Wickham changes from benevolent openness to cautious distrust. She is not a harsh judge, but she no longer believes appearances or amiable manners are enough to warrant confidence."
+    }
+  ]
+}

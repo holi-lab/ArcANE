@@ -1,0 +1,1020 @@
+{
+  "character": "Alice Madden",
+  "novel": "The Odd Women",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_rel_04",
+      "axis_name": "From conventional protectiveness to sacrificial devotion",
+      "dimension_label": "protective concern",
+      "axis_type": "relational",
+      "target_character": "Monica Madden",
+      "decision_variable": "When Monica is in crisis, does Alice chiefly try to steer her back into socially proper arrangements, or does she chiefly give direct care regardless of propriety or cost?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "Alice shifts from general affectionate oversight within conventional expectations to active intervention that presses Monica toward confession and reconciliation with her husband."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "Alice shifts from trying to correct Monica by restoring propriety to simply tending her suffering and then assuming care of her child without regard to social judgment or personal sacrifice."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "The shift from norm-guided protective concern to unconditional, self-sacrificing caregiving under another’s distress.",
+        "abstract_phases": [
+          "Affectionate oversight shaped by conventional safety norms",
+          "Anxious corrective intervention driven by moral interpretation",
+          "Grief-deepened, unconditional caregiving despite personal cost"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "adult",
+          "approx_age": "mid-30s to early 40s",
+          "rationale": "In chapters 1–7, Alice is presented as an unmarried elder sister managing Monica’s prospects in terms of marriage, propriety, and household stability, which fits a settled adult stage rather than youth."
+        },
+        "1": {
+          "life_stage": "adult",
+          "approx_age": "mid-30s to early 40s",
+          "rationale": "In chapters 28–29, her interventionist pressure about confession and reconciliation reflects the same mature elder-sister role and moral authority, indicating Alice remains in adulthood."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "mid-30s to early 40s",
+          "rationale": "In chapter 31, Alice’s care during Monica’s childbirth, death, and her assumption of responsibility for the baby are adult caregiving roles characteristic of a fully mature woman."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Conventional sisterly care",
+          "anchor_query_chapter": 4,
+          "era_label": null,
+          "scenario": "In the sisters' lodging, Monica comes in pale and shaken after being seen speaking in the street with a gentleman not known to the family; she begs Alice not to question her, saying only that she cannot bear another scene. Alice sees Monica's gloves trembling in her lap.",
+          "question": "How does Alice Madden answer Monica in this moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice sits beside Monica and gently urges her to be open, offering quiet counsel about caution and good appearances.",
+              "gt_speech": "My dear, tell me a little; one must be careful how things look.",
+              "gt_thought": "Alice reads the distress through the ordinary dangers that beset a young woman. If Monica can be guided kindly now, the matter may yet be kept within the bounds of prudence and respectability.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s early, affectionate protectiveness: the gentle urging, concern for appearances, and inward framing in prudence and respectability are era-appropriate and limited to what she could plausibly think by chapter 4."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought frames Monica's distress in terms of prudence, appearances, and keeping matters respectable, which fits affectionate conventional oversight more than active pressure toward confession or sacrificial caregiving."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice presses Monica to explain herself fully and advises her to set matters right by frank acknowledgment.",
+              "gt_speech": "No, Monica; concealment only makes it worse. You must speak plainly, and do what is right.",
+              "gt_thought": "Alice takes secrecy itself for the gravest sign, and her mind runs first to fault that must be owned and repaired. Care shows as pressure: better a painful confession now than deeper wrong and public shame later.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s phase well: the speech and thought are era-appropriate and capture her sincere but misdirected pressure toward confession, propriety, and the avoidance of public shame."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by interventionist moral pressure—treating Monica’s secrecy as presumed fault and urging confession and repair through proper acknowledgment—matching Alice’s misreading, reconciliation-focused phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice takes Monica's hand and lets the questioning drop, staying beside her and attending first to her weakness.",
+              "gt_speech": "Hush, dear; do not force yourself. Sit still, and lean on me if you can.",
+              "gt_thought": "Alice sees suffering before impropriety, and Monica's shaken body outweighs any need to judge or correct. Whatever has happened can wait; the first duty is to spare her and bear what burden she can no longer carry alone.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s late-phase, grief-softened devotion: the speech is simple and period-appropriate, and the thought rightly puts Monica’s immediate suffering above propriety or correction without introducing knowledge beyond chapter 31."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response explicitly suspends judgment and correction in favor of immediate bodily comfort and burden-bearing, which matches Alice's grief-inflected, direct caregiving rather than conventional or interventionist propriety."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The lodging-house scenario fits the late-Victorian realist world and chapter-4 timeframe, uses only plausible present characters and social concerns, avoids any magical/modern leakage, and the phase summaries vary Alice’s response without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from gentle propriety-minded guidance to active pressure for confession and moral repair, and P1→P2 moves from corrective insistence to nonjudgmental direct care focused on Monica's immediate suffering."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Conventional sisterly care",
+          "anchor_query_chapter": 4,
+          "era_label": "modern_urban",
+          "era_description": "Contemporary city, ~2010s–2020s. Smartphones, public transit, office/school institutions.",
+          "abstract_axis": "The shift from norm-guided protective concern to unconditional, self-sacrificing caregiving under another’s distress.",
+          "abstract_phases": [
+            "Affectionate oversight shaped by conventional safety norms",
+            "Anxious corrective intervention driven by moral interpretation",
+            "Grief-deepened, unconditional caregiving despite personal cost"
+          ],
+          "scenario": "Late at night, Monica Madden texts Alice Madden from a clinic waiting room, saying she’s in trouble and doesn’t want anyone else told. When Alice arrives, Monica looks shaken and asks her not to ask questions yet.",
+          "question": "How does Alice Madden respond when Monica asks for help but shuts the door on explanation?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice sits beside Monica and urges her to tell her what has happened so they can sort it out properly.",
+              "gt_speech": "Monica, you must let me help sensibly. Tell me the truth.",
+              "gt_thought": "Alice feels alarmed, but her mind goes first to getting Monica back onto safe, respectable ground. Trouble can still be managed if they are frank and careful now.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits an adult, modernized Alice at her early protective phase: the language is natural enough for a contemporary setting, and her impulse is still to manage Monica’s trouble sensibly and restore her to safe, respectable order."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her response centers on pressing Monica for the truth so the situation can be put back into 'safe, respectable' order, which matches the interventionist, propriety-restoring stance of Phase 1 more than mere general care or later selfless tending."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice presses Monica to explain herself and asks whether there is someone she ought to call and set things right with.",
+              "gt_speech": "If there’s been a mistake, hiding it will only make it worse.",
+              "gt_thought": "Alice reads Monica’s secrecy as a sign that she has done wrong and is shrinking from the consequences. Care means pushing her toward confession before the situation hardens.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Alice well: in a modern register she responds with anxious moral pressure, assuming Monica has done wrong and urging explanation, confession, and practical reconciliation without any knowledge beyond chapter 28."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by interventionist moral pressure—Alice assumes Monica has done wrong and tries to push her toward confession and setting things right, which matches Phase 1 most closely."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice takes Monica’s hand and stays with her, focusing on what she needs in the next hour rather than asking for an account.",
+              "gt_speech": "All right. I’m here. Tell me what you need first.",
+              "gt_thought": "Alice hears distress before fault now. Whatever brought Monica here, the first duty is to steady her body, bear the strain with her, and take the cost as it comes.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Alice well in a modern setting: the quiet, practical reassurance and inward shift from judging Monica to simply bearing her suffering are fully in character, with no knowledge leak or anachronistic phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly suspends judgment and prioritizes immediate bodily and emotional care—'hear distress before fault' and 'take the cost as it comes'—which matches grief-inflected, sacrificial devotion rather than steering Monica back toward propriety."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The clinic-texting scenario is internally consistent with a modern urban setting, contains no source-world leakage, keeps Alice Madden as the protagonist in all phases, and presents her as an adult throughout."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from sensible, respectable management to more forceful moral correction and confession, while P1→P2 shifts decisively from restoring propriety to immediate, nonjudgmental care regardless of explanation or cost."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Moral pressure and misreading",
+          "anchor_query_chapter": 28,
+          "era_label": null,
+          "scenario": "At night in Monica's room, after Alice has explained why she believes Monica must return to her husband and go to Clevedon, Monica angrily rejects the appeal to duty and says she is ill and her head aches. Monica turns back to bed and tells Alice to go downstairs and speak to the servants about supper.",
+          "question": "How does Alice Madden respond when Monica cuts off her appeal and speaks from pain and anger?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice withdraws and goes downstairs with Monica's message.",
+              "gt_speech": "Very well, dear; I will tell them.",
+              "gt_thought": "She takes Monica's sharpness as the effect of headache and nerves, not something to oppose at once. Her mind turns to soothing the disturbance and hoping Monica will be easier and more reasonable by-and-by.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s early, conventional solicitude: the quiet compliance, calling Monica 'dear,' and interpreting her temper as illness and nerves while hoping she will soon be calmer and more reasonable are all period-appropriate and in character."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought still frames Monica's crisis as something to be calmed until she becomes 'more reasonable,' which fits Alice's interventionist, propriety-restoring stance more than simple caregiving."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Alice falls silent, lingers by the bed, and yields for the moment, going to tell them not to wait with supper.",
+                "gt_speech": "Very well, dear; I will go.",
+                "gt_thought": "Monica is overwrought and unwell; pressing her now would only do harm. Alice still thinks the right end is a settled, respectable life, but tenderness must come before lecturing tonight.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the action and speech suit Alice’s gentle solicitude, the scenario and thought import a much later marital crisis with Monica’s husband and Clevedon, which chapter-4 Alice cannot yet know."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 0,
+                    "confidence": "medium",
+                    "note": "Her thought still centers on the 'right end' of restoring Monica to a settled, respectable arrangement, but she temporarily suspends pressure out of tenderness, which best fits the interventionist yet sincere concern of phase 1."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice sobs and says she cannot eat, still grieving over Monica's refusal before going to give the message downstairs.",
+              "gt_speech": "I couldn’t touch a morsel. Oh, everything is too dreadful! Life is too hard!",
+              "gt_thought": "Alice reads Monica's resistance as a terrible moral disaster and clings to the belief that duty to her husband is plain. Her pity is real, but it comes mixed with pressure and helpless dismay.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s chapter-28 state: the speech is period-appropriate and melodramatically sincere, while the thought rightly mixes genuine pity with conventional moral pressure toward returning to her husband."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought centers on Monica's refusal as a moral failing and on pressing the plain duty of returning to her husband, which is diagnostic of interventionist, misreading concern rather than mere conventional care or later selfless tending."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice yields and goes downstairs to tell them not to wait with supper.",
+              "gt_speech": "Very well, dear.",
+              "gt_thought": "Monica's pain checks her for the moment, but Alice still feels that duty cannot be escaped and that rest may bring her to a calmer mind. Her concern is tender, yet it still works through the hope of reconciliation.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The yielding action and simple speech fit, but the thought belongs to the earlier interventionist phase, since at chapter 31 Alice's concern has shifted from pressing duty and reconciliation to direct, grief-softened care for Monica regardless of propriety."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought remains centered on Monica's duty, hoped-for calm, and eventual reconciliation with her husband, which is diagnostic of interventionist moral pressure rather than mere conventional care or self-forgetting direct care."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "Alice checks herself, lowers her voice, and leaves the argument, going downstairs to spare Monica further distress and think what comfort she can give next.",
+                "gt_speech": "I will say so, dear. Try to rest.",
+                "gt_thought": "Monica's suffering matters more than winning obedience or proving a rule. Alice feels the futility of pressing propriety on a woman in pain, and her mind turns from correction to care.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the speech and action fit the scene, the thought is too phase-late: at this point Alice is still pressing Monica toward duty and reconciliation, not yet fully turning from propriety to pure caregiving."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The decisive cue is Alice’s inward shift from pressing Monica toward propriety to prioritizing her immediate suffering and thinking in terms of comfort and care instead of correction."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": {
+            "chapter": 28,
+            "event_id": "ch28_evt02",
+            "event_description": "After the discovery, Alice immediately urges Monica to obey Widdowson and go to Clevedon, treating the move as the proper moral solution and a way to remove Virginia from temptation.",
+            "first_words": "She explained the reason of this belief.",
+            "last_words": "so that they needn’t sit up for you.",
+            "key_moment": "Pressing Monica toward Widdowson",
+            "verbatim_passage": "She explained the reason of this belief.\n\n“You know what it all points to,” said Miss Madden, drying her sallow,\npimpled cheeks. “You must do as your husband wishes, dearest. We must\ngo to Clevedon. There the poor girl will be out of temptation.”\n\n“You and Virgie may go.”\n\n“You too, Monica. My dear sister, it is your duty.”\n\n“Don’t use that word to me!” exclaimed the other angrily. “It is _not_\nmy duty. It can be no woman’s duty to live with a man she hates—or even\nto make a pretence of living with him.”\n\n“But, dearest—”\n\n“You mustn’t begin this to-night, Alice. I have been ill all day, and\nnow my head is aching terribly. Go downstairs and eat the supper they\nhave laid for you.”\n\n“I couldn’t touch a morsel,” sobbed Miss Madden. “Oh, everything is too\ndreadful! Life is too hard!”\n\nMonica had returned to bed, and lay there with her face half hidden\nagainst the pillow.\n\n“If you don’t want any supper,” she said in a moment, “please go and\ntell them, so that they needn’t sit up for you.”"
+          },
+          "probe_id": "alice_madden_final_rel_04_intext_a1",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario and quoted speech match the passage closely, and the action is faithful so long as 'before going to give the message downstairs' is read as implied by Monica’s instruction rather than shown on-page; the thought is a reasonable inference from Alice’s insistence on duty and distressed sobbing."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses ultimately keep Alice oriented toward propriety and reconciliation rather than direct care, with Phase 1 differing mainly in emotional intensity and distress rather than in the decision-variable answer."
+                },
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Phase 2 still frames Alice’s response through duty, rest, and hoped-for reconciliation, so it does not show the expected shift to care regardless of propriety or cost."
+                }
+              ],
+              "note": "The scene constrains action, so thought carries most of the signal here; across all three responses Alice yields outwardly but remains mentally oriented toward reconciliation, making both adjacent contrasts weak."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)",
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Moral pressure and misreading",
+          "anchor_query_chapter": 28,
+          "era_label": null,
+          "scenario": "In the sisters' lodgings, Monica breaks off in the middle of some light talk, turns pale, and says in a low voice that she has had a letter and cannot bear to answer it. She asks Alice not to question her, only to let the matter alone for tonight.",
+          "question": "How does Alice Madden respond when Monica begs to be spared explanation over a letter that has plainly shaken her?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice sits down beside Monica and takes her hand, urging her to tell enough for sensible advice.",
+              "gt_speech": "My dear, you should not sit alone with trouble; tell me what sort of letter it is.",
+              "gt_thought": "Alice reads this as a young woman's distress that ought to be met by affectionate guidance. If Monica is to be kept safe, the matter must be brought within the family's sober judgment.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Alice well: affectionate, gently interventionist, and inclined to bring Monica's trouble under family guidance, with era-appropriate, natural wording and no knowledge beyond chapter 4."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought frames Monica's distress as something to be managed through affectionate guidance and the family's sober judgment, which fits conventional sisterly care more than active pressure toward confession or sacrificial tending."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice keeps beside Monica and presses her to answer the letter honestly and put herself right with the person concerned.",
+              "gt_speech": "No, Monica; silence will only make it worse. If you have done wrong, be frank, and end this miserable suspense.",
+              "gt_thought": "Alice construes the agitation as proof that Monica is hiding something blameworthy, and that indulgence would be cruel. Her care takes the form of moral pressure: better pain now than deeper disgrace after.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s phase well: the speech and thought are period-appropriate and capture her sincere but mistaken moral pressure to force Monica toward frank confession and the setting-right of a suspected wrong."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by sincere but misreading moral pressure—Alice assumes Monica is concealing wrongdoing and urges frank confession and restoration rather than simply offering comfort."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice draws Monica to rest against her and asks no question, staying with her until she is quieter.",
+              "gt_speech": "You shall say nothing tonight, dear. Be still a little; I am with you.",
+              "gt_thought": "Alice sees first the suffering before her, not a case to be set in order. Whatever the letter means, Monica's weakness and fear claim tenderness now, and explanations may wait if they come at all.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s final-phase tenderness well: the action and speech are quiet, protective, and self-effacing, and the thought rightly places Monica’s immediate suffering above moral management without any anachronism or knowledge beyond chapter 31."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly prioritizes Monica’s immediate suffering over explanation, correction, or restoring propriety, which most strongly matches Alice’s grief-inflected, direct-care devotion."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The lodging-room letter crisis fits the late-Victorian realist world and chapter-28 cast, and while it echoes the novel’s tensions around Monica’s secrecy and Alice’s pressure, it does not reproduce a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from affectionate guidance within family judgment to explicit moral pressure toward confession/propriety, and P1→P2 moves from corrective pressure to nonjudgmental direct care that suspends propriety concerns."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Moral pressure and misreading",
+          "anchor_query_chapter": 28,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "The shift from norm-guided protective concern to unconditional, self-sacrificing caregiving under another’s distress.",
+          "abstract_phases": [
+            "Affectionate oversight shaped by conventional safety norms",
+            "Anxious corrective intervention driven by moral interpretation",
+            "Grief-deepened, unconditional caregiving despite personal cost"
+          ],
+          "scenario": "At a crowded railway station, Monica Madden arrives pale and shaken, carrying a small case. She says she has left the lodging where she was staying and begs Alice Madden not to send for the man everyone expects her to go back to.",
+          "question": "How does Alice Madden respond when Monica asks for shelter on those terms?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice leads Monica to a quieter bench and urges her to come home first, so matters can be put straight with dignity.",
+              "gt_speech": "Come home with me, dear, and we shall see what is proper in the morning.",
+              "gt_thought": "Alice reads the scene as a family emergency that must be softened and regularized. Monica must be protected, but protection still means restoring her to safety, respectability, and ordinary order.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s early, conventional protectiveness: the action and thought frame Monica’s distress as something to be gently contained and brought back within propriety, and the diction is period-appropriate and adult without revealing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought frames protection as restoring Monica to safety, respectability, and ordinary order, which matches conventional sisterly care more than active pressure toward confession or sacrificial caregiving."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice takes Monica aside and presses her to explain herself fully before anyone else hears, insisting the breach cannot simply be left as it stands.",
+              "gt_speech": "You must tell me the truth, Monica; this cannot go on in silence.",
+              "gt_thought": "Alice sees danger in concealment as much as in Monica's distress. She assumes some wrong has been done or allowed, and that loving Monica means pushing her toward confession and repair.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s phase-1 posture well: the action, speech, and thought all show her sincere but pressuring concern, with no clear anachronism or knowledge beyond chapter 28."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by urgent intervention aimed at confession and repairing a socially improper breach, with Alice misreading Monica through a moral lens rather than simply sheltering and tending her."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice takes Monica's case, brings her home, and settles her without sending any message that night.",
+              "gt_speech": "You shall stay with me tonight, and say no more till you are fit.",
+              "gt_thought": "Monica's suffering outweighs appearances now. Alice's first care is to ease her body and mind, and she accepts the burden that may follow as simply hers to carry.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s final-phase devotion: the action and thought rightly put Monica’s immediate suffering above propriety, and the speech is simple, period-appropriate, and gently authoritative without any knowledge beyond chapter 31."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly puts Monica’s immediate suffering above appearances and accepts personal burden in order to give direct care, which is most characteristic of the grief-inflected, sacrificial devotion of phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The railway-station scenario and all three phase responses fit an early-20th-century industrial setting, keep Alice Madden as the adult protagonist throughout, and introduce no source-world leakage or obvious anachronisms."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from gentle propriety-oriented sheltering to active pressure for confession and repair, and P1→P2 moves from corrective moral intervention to unconditional direct care without immediate regard for propriety."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Tenderness after suffering",
+          "anchor_query_chapter": 31,
+          "era_label": null,
+          "scenario": "The day after Monica’s funeral, Alice speaks privately with Widdowson about the motherless baby. He offers to provide for Alice if she will take charge of the child, and the moment hangs before she answers.",
+          "question": "How does Alice Madden answer Widdowson’s proposal, and where does her mind go next?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "She hesitates before giving any answer.",
+              "gt_speech": "I hardly know what is best.",
+              "gt_thought": "The proposal strikes her first as a grave domestic question, to be judged by what is proper and manageable for the family. Her pity is real, but her mind turns to whether such a charge can be rightly ordered.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "Though the diction is period-appropriate, this places Alice in a post-funeral, motherless-baby scene she could not possibly know or inhabit by chapter 4, importing her later arc into an earlier phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "Her thought frames the baby chiefly as a question of propriety, family manageability, and right ordering rather than immediate self-sacrificing care, which fits conventional sisterly protectiveness more than grief-driven devotion."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "She accepts the care of the baby, then timidly raises Virginia’s condition and speaks of making an orderly home for the child.",
+                "gt_speech": "I will do my best for the poor little one.",
+                "gt_thought": "She feels the child must be gathered into decent, affectionate keeping, and the household put on a proper footing. Her care still runs along familiar lines: safety, respectability, and a settled domestic plan.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "This gives Alice knowledge and conduct from far beyond chapter 4—accepting Monica’s motherless baby after her funeral and speaking with Widdowson in that aftermath belongs to a much later phase, not her early conventional sisterly care."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "medium",
+                    "note": "Although she accepts care of the baby, her thought frames that care chiefly in terms of decency, respectability, and an orderly domestic footing, which matches conventional sisterly protectiveness more than grief-stricken sacrificial devotion."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "She hesitates, unwilling to answer at once.",
+              "gt_speech": "I cannot speak of this immediately.",
+              "gt_thought": "Alice is seized first by the sense that everything has gone wrong because Monica would not be guided in time. Even here, her mind turns to what ought to have been acknowledged and repaired before any new arrangement is made.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "This imports post-chapter-28 knowledge and phase-2 circumstances—the funeral, motherless baby, and Alice weighing care arrangements after Monica’s death—whereas phase-1 Alice should still be pressing confession and reconciliation, not responding from bereavement."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought centers on Monica not having been 'guided in time' and on what should have been acknowledged and repaired, which is the interventionist, propriety-restoring mindset of moral pressure rather than simple care."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "She accepts the child, then presses the difficulty of Virginia’s drinking and turns quickly to arranging what ought to be done.",
+                "gt_speech": "We must try to place Virginia where she may be cured.",
+                "gt_thought": "Alice reads the crisis as something to be corrected by firm measures and right ordering. Trouble seems to call for confession, remedy, and a return to what can still be made respectable.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "This imports post-chapter-28 knowledge and phase-2 behavior—Monica’s funeral, the baby, and Alice’s practical acceptance of care belong to the later grief-devotion stage, even if the language itself is broadly period-appropriate."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "medium",
+                    "note": "Although she accepts practical responsibility for the child, her thought frames the crisis chiefly as something to be corrected through firm measures, remedy, and restored respectability, which is most diagnostic of the interventionist, propriety-restoring mindset of Phase 1."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "She gladly accepts care of the baby, tearfully tells Widdowson of Virginia’s drinking, asks his help to find an institution, and speaks of later making a home and work with Virginia.",
+              "gt_speech": "“But there’s something I must tell you,” she said, with embarrassed appeal in her wet eyes. “Poor Virginia wishes to go into an institution.”",
+              "gt_thought": "Her first feeling is gratitude that Monica’s child may be kept with her, and her grief turns at once into practical care. She is not guarding appearances now; she is trying to shelter what remains of Monica’s life and gather Virginia in as well.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s final-phase movement into grief-stricken, practical devotion: her thought and action center on caring for Monica’s child and even extending pity to Virginia, and while “institution” is a slightly blunt term, nothing here feels anachronistic or beyond chapter 31 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought centers on direct, grief-shaped care for Monica’s child and Virginia without concern for appearances, which matches the sacrificial devotion of Phase 2 rather than earlier efforts to restore propriety."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 31,
+            "event_id": "ch31_evt01",
+            "event_description": "After Monica’s death, Widdowson asks Alice to take charge of the motherless baby, and she accepts at once, seeing it as a responsibility she can and should bear.",
+            "first_words": "On the day after the funeral—Monica",
+            "last_words": "a wise thing, I have no doubt whatever.",
+            "key_moment": "Taking responsibility for the baby",
+            "verbatim_passage": "On the day after the funeral—Monica was buried in the cemetery, which\nis hard by the old church—Widdowson and the elder sister had a long\nconversation in private. It related first of all to the motherless\nbaby. Widdowson’s desire was that Miss Madden should undertake the care\nof the child. She and Virginia might live wherever they preferred;\ntheir needs would be provided for. Alice had hardly dared to hope for\nsuch a proposal—as it concerned the child, that is to say. Gladly she\naccepted it.\n\n“But there’s something I must tell you,” she said, with embarrassed\nappeal in her wet eyes. “Poor Virginia wishes to go into an\ninstitution.”\n\nWiddowson looked at her, not understanding; whereupon she broke into\ntears, and made known that her sister was such a slave to strong drink\nthat they both despaired of reformation unless by help of the measure\nshe had indicated. There were people, she had heard, who undertook the\ncare of inebriates.\n\n“You know that we are by no means penniless,” sobbed Alice. “We can\nvery well bear the expense. But will you assist us to find a suitable\nplace?”\n\nHe promised to proceed at once in the matter.\n\n“And when she is cured,” said Miss Madden, “she shall come and live\nwith me. And when baby is about two years old we will do what we have\nbeen purposing for a long time. We will open a school for young\nchildren, either here or at Weston. That will afford my poor sister\noccupation. Indeed, we shall both be better for the exertion of such an\nundertaking—don’t you think so?”\n\n“It would be a wise thing, I have no doubt whatever.”"
+          },
+          "probe_id": "alice_madden_final_rel_04_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the private post-funeral conversation, and the response faithfully reflects Alice’s glad acceptance, her tearful disclosure about Virginia, request for help finding an institution, and forward-looking plan, with the thought reasonably inferred from her relief about keeping the child and immediate practical concern for Virginia."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses withhold an immediate answer and keep Alice’s construal focused on what ought properly to have been managed or repaired, so the difference is mostly tone of intervention rather than a clear shift on the propriety-vs-direct-care axis."
+                }
+              ],
+              "note": "P1→P2 is clearly separated because Phase 2 moves from moral/propriety framing into immediate, practical, self-sacrificing care for the baby and Virginia."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Tenderness after suffering",
+          "anchor_query_chapter": 31,
+          "era_label": null,
+          "scenario": "Late in the evening, Monica comes to Alice pale and shaken, saying she has had a quarrel and cannot bear to return where she is expected unless Alice goes with her or lets her stay the night. She will not yet explain the whole matter, only begs not to be pressed before morning.",
+          "question": "How does Alice Madden meet Monica in this moment of refusal and distress?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice draws Monica indoors and settles her by the fire, then urges her to send a proper note before the night grows later.",
+              "gt_speech": "Come in, dear; you shall rest first, but this must be put right in a sensible way.",
+              "gt_thought": "Monica is overwrought and young; a night's quiet may restore her judgment. Alice's care runs at once toward shelter, but also toward keeping appearances and preventing a rash breach.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Alice well: she is affectionate and practical, offering immediate shelter while instinctively thinking of propriety, appearances, and a sensible reconciliation, with no anachronism or knowledge beyond chapter 4."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "Her response combines immediate shelter with a primary concern for propriety, appearances, and restoring sensible order, without the stronger corrective pressure of confession/reconciliation or the self-forgetting caregiving of phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice keeps Monica with her, but presses her to speak plainly and to write for an interview that may end the estrangement.",
+              "gt_speech": "You must tell me the truth, Monica; concealment can only make your position worse.",
+              "gt_thought": "Alice reads the silence as dangerous and suspects Monica has already gone too far in some unhappy error. Kindness means forcing matters into the open and driving her toward confession before scandal hardens.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s phase well: she is sheltering yet morally urgent, inclined to suspect Monica and press for plain speaking, confession, and a restorative interview, all in language and feeling appropriate to the novel’s world."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by interventionist moral pressure—she misreads Monica’s silence as guilt and treats care as forcing confession and reconciliation to avert scandal."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice takes off Monica's bonnet, seats her, and stays beside her without further urging, sending only that she is unwell and safe for the night.",
+              "gt_speech": "Say no more now, dear; you are worn out. You shall stay with me, and we will bear to-morrow when it comes.",
+              "gt_thought": "The first claim is Monica's spent body and frightened mind, not the world's arrangement of her case. Alice has learned that pain may lie deeper than any tidy explanation, and care must come before correction.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s final-phase tenderness: the action and speech are quiet, practical, and protective, and the thought rightly places Monica’s immediate suffering above propriety without using language or knowledge out of keeping with chapter 31."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly prioritizes Monica’s immediate suffering over propriety or correction, matching Alice’s late-phase direct, tender care rather than intervention toward reconciliation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the late-Victorian realist world and chapter-31 timeframe, uses only plausible present characters, and the phase summaries reflect Alice’s arc without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from sheltering care still oriented toward propriety to active pressure for confession/reconciliation, and P1→P2 moves from corrective moral intervention to unconditional direct care without pressing propriety."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Tenderness after suffering",
+          "anchor_query_chapter": 31,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "The shift from norm-guided protective concern to unconditional, self-sacrificing caregiving under another’s distress.",
+          "abstract_phases": [
+            "Affectionate oversight shaped by conventional safety norms",
+            "Anxious corrective intervention driven by moral interpretation",
+            "Grief-deepened, unconditional caregiving despite personal cost"
+          ],
+          "scenario": "In a small suburban bus station, Monica Madden appears at the pay phone after midnight, worn out and asking Alice Madden not to tell anyone she called. She says she cannot go back to where she has been staying and sounds close to collapse.",
+          "question": "How does Alice Madden respond when Monica asks for help but shuts the door on explanations?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Conventional sisterly care",
+              "query_chapter": 4,
+              "gt_action": "Alice tells Monica to come straight home with her and starts asking where she has been and what arrangement can be put right by morning.",
+              "gt_speech": "Come home tonight, Monica, and then we'll see what can be sensibly settled.",
+              "gt_thought": "Alice hears danger, but also disorder that must be tidied before it grows worse. Her care moves toward sheltering Monica inside respectable routine, where older heads can advise and matters may still be mended.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Alice well: the speech and thought are adult, protective, and conventionally minded, with no clear anachronism or knowledge beyond chapter 4, and her impulse is to shelter Monica while getting matters back into respectable order."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought centers on restoring order and sensibly mending matters through respectable arrangements, which is more interventionist and corrective than phase 0’s general care and not yet the unconditional tending of phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Moral pressure and misreading",
+              "query_chapter": 28,
+              "gt_action": "Alice presses Monica to say whom she has left and urges her to send word before the night is over.",
+              "gt_speech": "My dear Monica, you must speak plainly now. If wrong has been done, it is best to avow it at once.",
+              "gt_thought": "Alice hears secrecy as a sign of moral error and assumes Monica is withholding some culpable act. To help her, she thinks, is to force honesty and the first step toward reconciliation.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s phase-1 habit of moralizing, misreading Monica’s distress as culpable secrecy, and pressing her toward confession and reconciliation, with diction like 'speak plainly' and 'avow it' sounding suitably period and mature."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is defined by interventionist moral pressure—Alice interprets Monica’s secrecy as culpability and tries to force confession and reconciliation rather than simply offering care."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Alice presses Monica to say whom she has left and urges her to telephone and explain before the night is over.",
+                "gt_speech": "You must tell the truth now, Monica. Things only get uglier if you keep running from them.",
+                "gt_thought": "Alice reads Monica's distress through a moral lens and assumes some grave wrong has been done or concealed. Helping means pushing her toward confession and return, however painful the talk may be.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The moralizing pressure and misreading fit Alice at chapter 28, but the speech sounds too modern and generic for Gissing’s world—especially 'Things only get uglier' and the bus-station/pay-phone framing tied to a 'mid_century' setting rather than Alice’s proper late-Victorian idiom."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "The response is defined by interventionist moral pressure—Alice interprets Monica's crisis as wrongdoing to be confessed and tries to steer her back toward explanation and return rather than simply caring for her directly."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tenderness after suffering",
+              "query_chapter": 31,
+              "gt_action": "Alice goes to fetch Monica, brings her home, and settles her in bed without demanding an account.",
+              "gt_speech": "Never mind that now. Let me get you home and warm first.",
+              "gt_thought": "Alice no longer believes relief must wait on a proper explanation. Monica's suffering fills the whole frame; what matters is rest, warmth, and staying beside her, whatever people may say tomorrow.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Alice’s late-phase, grief-softened devotion: she gives immediate practical care without pressing for confession, and the language is simple, period-plausible, and adult without invoking knowledge beyond chapter 31."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly rejects waiting for a proper explanation and centers direct, bedside care despite social judgment, which is most diagnostic of Alice’s grief-inflected practical devotion."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "alice_madden_final_rel_04_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The bus-station/pay-phone suburban setup fits the mid-century era, there is no source-world leakage, Alice Madden remains the protagonist in all three phases, and nothing in the phase summaries conflicts with her required adult life-stage."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from sheltering Monica within respectable routine to pressing confession and reconciliation, and P1→P2 moves from moral correction toward unconditional direct care without demanding explanation."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "alice_madden_final_rel_04_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "alice_madden_final_rel_04_intext_a1",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses ultimately keep Alice oriented toward propriety and reconciliation rather than direct care, with Phase 1 differing mainly in emotional intensity and distress rather than in the decision-variable answer."
+        },
+        {
+          "probe_id": "alice_madden_final_rel_04_intext_a1",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Phase 2 still frames Alice’s response through duty, rest, and hoped-for reconciliation, so it does not show the expected shift to care regardless of propriety or cost."
+        },
+        {
+          "probe_id": "alice_madden_final_rel_04_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses withhold an immediate answer and keep Alice’s construal focused on what ought properly to have been managed or repaired, so the difference is mostly tone of intervention rather than a clear shift on the propriety-vs-direct-care axis."
+        }
+      ]
+    }
+  ]
+}

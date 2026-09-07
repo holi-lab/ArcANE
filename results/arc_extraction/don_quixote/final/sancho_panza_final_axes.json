@@ -1,0 +1,550 @@
+{
+  "character": "Sancho Panza",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From dependent squire to self-directed negotiator",
+          "set_b_axis": "From dependent squirely attachment to self-possessed practical agency",
+          "overlap_description": "Both describe Sancho's movement from relational dependence and opportunistic service toward stronger self-direction, bargaining power, and practical autonomy without severing loyalty."
+        },
+        {
+          "set_a_axis": "From practical disbelief to strategic participation in fantasy",
+          "set_b_axis": "From credulous opportunism to hardened practical skepticism",
+          "overlap_description": "Both track Sancho's evolving relation to belief: he begins as a realist who doubts Quixote, then learns to perform or use fantasy tactically while retaining underlying skepticism."
+        },
+        {
+          "set_a_axis": "From bodily comfort to dignified self-respect",
+          "set_b_axis": "From comic rustic to self-conscious public figure",
+          "overlap_description": "Both capture Sancho's rise in self-regard: he remains materially minded, but increasingly cares about dignity, reputation, and how he is publicly seen."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From comic peasant to capable public figure",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From credulous opportunism to hardened practical skepticism",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From hopeful faith to wary, negotiated loyalty",
+          "set_b_axis": "From opportunistic follower to affectionate, skeptical companion",
+          "overlap_description": "Both describe the central Sancho-Quixote bond as moving from reward-based attachment to a durable companionship marked by skepticism, bargaining, and continued loyalty."
+        },
+        {
+          "set_a_axis": "From private husband to ambitious family negotiator",
+          "set_b_axis": "From practical spouse to family-centered status negotiator",
+          "overlap_description": "Both treat Teresa Panza as the domestic counterpart to Sancho's ambitions, showing a shift from private household obligation to negotiated family advancement."
+        },
+        {
+          "set_a_axis": "From practical possession to emotional companion",
+          "set_b_axis": "From practical mount to beloved companion and symbol of freedom",
+          "overlap_description": "Both see Dapple evolving from utility into an emotionally charged companion tied to Sancho's identity, comfort, and homecoming."
+        },
+        {
+          "set_a_axis": "From wary dependence to grateful but guarded favor",
+          "set_b_axis": "From wary dependence to grateful, tactical attachment",
+          "overlap_description": "Both characterize Sancho's relation to the Duchess as one of useful patronage mixed with manipulation, ending in gratitude tempered by caution."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From admiration for a master to respect mixed with criticism",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From useful informant to object of educated mockery",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From hopeful patronage to wary instrumentalism",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From dependent squire to self-possessed practical negotiator",
+      "pole_start": "Sancho begins strongly communion-leaning: he attaches himself to Don Quixote for reward, companionship, and shared adventure, with his identity largely defined by service and dependence.",
+      "pole_end": "He ends with stronger agency while remaining relationally attached: he can govern, bargain, resist coercion, set limits, and define himself as Sancho rather than as a mere appendage to Quixote.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Recruitment and hopeful dependence",
+          "chapter_range": [
+            8,
+            12
+          ],
+          "position_description": "Sancho joins Quixote for promised advancement, but the bond is still marked by trust, deference, and opportunistic hope.",
+          "key_moments": [
+            "Accepts the island promise and sets out as squire",
+            "Balances hope with practical jokes about family and comfort",
+            "Already shows a practical self-interest that will later support agency"
+          ]
+        },
+        {
+          "phase": "Skeptical endurance and tactical self-protection",
+          "chapter_range": [
+            16,
+            33
+          ],
+          "position_description": "Repeated beatings, hunger, and danger push Sancho toward self-protective agency. He stays attached, but increasingly negotiates, corrects, and manages risk rather than simply following.",
+          "key_moments": [
+            "Warns Quixote about real danger and bodily consequences",
+            "Bargains over wages, balsam, and rewards",
+            "Plans conditional withdrawal while continuing to serve"
+          ]
+        },
+        {
+          "phase": "Opportunistic self-fashioning",
+          "chapter_range": [
+            55,
+            63
+          ],
+          "position_description": "Sancho becomes more self-conscious about his public image and more willing to manage deception. He shapes narratives around Dulcinea, his own ambitions, and the printed story of his adventures.",
+          "key_moments": [
+            "Learns his story is in print and reacts defensively",
+            "Uses the false Dulcinea scheme strategically",
+            "Speaks more openly about his own limits and prospects"
+          ]
+        },
+        {
+          "phase": "Governorship and self-assertion",
+          "chapter_range": [
+            97,
+            106
+          ],
+          "position_description": "Sancho reaches a peak of agency in Barataria: he governs, judges, resists humiliation, and insists on his own identity and limits.",
+          "key_moments": [
+            "Accepts and performs the governorship",
+            "Issues practical judgments and ordinances",
+            "Rejects the office when it becomes unsustainable"
+          ]
+        },
+        {
+          "phase": "Return to chosen dependence",
+          "chapter_range": [
+            107,
+            127
+          ],
+          "position_description": "After abandoning office, Sancho does not become passive again; instead, he chooses a more mature dependence on Quixote, grounded in clearer self-knowledge and stronger boundaries.",
+          "key_moments": [
+            "Rejects further ambition in favor of ordinary life",
+            "Returns to Quixote by choice",
+            "Mourns Quixote's death with genuine attachment"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho's arc moves from relationally driven dependence toward a more self-possessed practical agency that still values communion. He ends more autonomous in judgment, but not less attached."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Belief-Skepticism",
+      "axis_name": "From practical disbelief to strategic, hardened skepticism",
+      "pole_start": "Sancho begins as a commonsense realist who sees Quixote's world as deluded and dangerous, though he is willing to entertain the promises enough to join the adventure.",
+      "pole_end": "He ends deeply skeptical of enchantment, chivalric interpretation, and courtly fantasy, while still able to perform belief tactically when it serves survival, loyalty, or profit.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hopeful partial belief",
+          "chapter_range": [
+            8,
+            12
+          ],
+          "position_description": "Sancho accepts the island fantasy enough to follow, but his realism is already present as comic skepticism.",
+          "key_moments": [
+            "Believes in promised island or governorship",
+            "Jokes about his wife's suitability for queenship",
+            "Warns Quixote about ordinary reality"
+          ]
+        },
+        {
+          "phase": "Repeated correction by experience",
+          "chapter_range": [
+            16,
+            24
+          ],
+          "position_description": "Beatings, legal danger, and obvious misreadings make Sancho more skeptical and more insistent on bodily evidence.",
+          "key_moments": [
+            "Recognizes the cost of Quixote's delusions",
+            "Insists windmills and friars are ordinary things",
+            "Treats pain and punishment as real"
+          ]
+        },
+        {
+          "phase": "Strategic disbelief",
+          "chapter_range": [
+            26,
+            50
+          ],
+          "position_description": "Sancho no longer believes fantasy as truth, but he participates in it as a practical strategy, using enchantment language when it helps him survive or profit.",
+          "key_moments": [
+            "Calls Dulcinea a village woman while maintaining the fiction",
+            "Uses enchantment explanations to manage Quixote",
+            "Insists on bodily evidence against illusions"
+          ]
+        },
+        {
+          "phase": "Governorship and post-fantasy realism",
+          "chapter_range": [
+            97,
+            126
+          ],
+          "position_description": "Sancho's skepticism becomes experiential and durable: he knows what office, pain, and public performance really cost, and he is no longer tempted by fantasy as belief.",
+          "key_moments": [
+            "Rejects governorship as his true calling after experiencing it",
+            "Treats omens and courtly games as practical nonsense",
+            "Returns home-oriented and materially grounded"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho moves from partial credulity to a mature skepticism that still allows tactical participation. His realism remains stable, but it becomes sharper and more explicit over time."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Image",
+      "axis_name": "From comic rustic to self-conscious public figure",
+      "pole_start": "Sancho begins as an earthy peasant squire whose identity is defined by appetite, wit, and service, and who is still largely subject to ridicule.",
+      "pole_end": "He ends as a self-aware public person who knows his name, reputation, and role in print, and who actively manages how he is seen.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Earthy selfhood",
+          "chapter_range": [
+            8,
+            18
+          ],
+          "position_description": "Sancho is bodily, practical, and only modestly reflective. He knows what he wants, but not yet how others will narrate him.",
+          "key_moments": [
+            "Prefers bread, onions, food, and comfort",
+            "Defines himself as peaceful and practical",
+            "Already senses his low social position"
+          ]
+        },
+        {
+          "phase": "Public recognition and narrative awareness",
+          "chapter_range": [
+            55,
+            63
+          ],
+          "position_description": "Learning that his adventures are being written changes Sancho's self-conception. He becomes aware of being watched, judged, and represented.",
+          "key_moments": [
+            "Discovers the printed history",
+            "Objects to misrepresentation",
+            "Begins shaping his own story through letters and speeches"
+          ]
+        },
+        {
+          "phase": "Office and identity management",
+          "chapter_range": [
+            97,
+            112
+          ],
+          "position_description": "As governor, Sancho insists on being Sancho Panza, not a false nobleman. He understands that clothing and office are performances, and he tries to control the image.",
+          "key_moments": [
+            "Rejects the honorific 'Don'",
+            "Uses letters to Teresa to manage family identity",
+            "Defends his reputation against false histories"
+          ]
+        },
+        {
+          "phase": "Final self-knowledge",
+          "chapter_range": [
+            123,
+            127
+          ],
+          "position_description": "At the end, Sancho is fully aware of his bodily limits, his love of comfort, and his deep attachment to Quixote. He is no longer merely comic; he is self-defining in grief and loyalty.",
+          "key_moments": [
+            "Negotiates the whipping as labor",
+            "Returns homeward-oriented and identity-conscious",
+            "Mourns Quixote's death with genuine emotional dependence"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho rises from rustic comic function to a figure who knows he is being narrated, judged, and remembered. He becomes increasingly able to speak for himself and defend his identity."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sancho Panza",
+      "target_character": "Don Quixote",
+      "dimension_label": "Loyalty-Skepticism",
+      "axis_name": "From opportunistic follower to affectionate, skeptical companion",
+      "pole_start": "Sancho begins as a hopeful dependent who follows Don Quixote mainly for promised reward and social mobility, with limited emotional attachment.",
+      "pole_end": "He ends as a deeply attached companion who still doubts Quixote's interpretations, but whose loyalty is grounded in affection, shared history, and chosen companionship rather than mere profit.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Recruitment and bargain",
+          "chapter_range": [
+            8,
+            12
+          ],
+          "position_description": "Sancho follows Quixote because he believes the knight can advance him. Trust is high, intimacy moderate, and skepticism still relatively mild.",
+          "key_moments": [
+            "Accepts the island promise",
+            "Accompanies Quixote as squire",
+            "Tests promises through conversation"
+          ]
+        },
+        {
+          "phase": "Frustrated correction",
+          "chapter_range": [
+            16,
+            33
+          ],
+          "position_description": "Repeated harm makes Sancho more skeptical and more openly corrective, but he remains attached and continues to manage Quixote rather than leave him.",
+          "key_moments": [
+            "Warns Quixote about real danger",
+            "Argues against enchantment explanations",
+            "Continues to follow despite beatings and humiliation"
+          ]
+        },
+        {
+          "phase": "Transactional partnership",
+          "chapter_range": [
+            55,
+            96
+          ],
+          "position_description": "Sancho becomes more openly transactional and self-assertive, but the relationship also deepens through shared public life, letters, and the governorship. He is both more critical and more intimate.",
+          "key_moments": [
+            "Defends his own reputation in print",
+            "Uses Quixote's fantasy for his own advancement",
+            "Returns to Quixote after Barataria with renewed attachment"
+          ]
+        },
+        {
+          "phase": "Final affection and grief",
+          "chapter_range": [
+            117,
+            127
+          ],
+          "position_description": "After Quixote's defeat and death, Sancho's skepticism remains, but his emotional dependence becomes unmistakable. He grieves, pleads, and tries to keep the bond alive through pastoral plans.",
+          "key_moments": [
+            "Mourns Quixote's defeat",
+            "Tries to keep him alive and hopeful",
+            "Weeps at his deathbed and resists losing him"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho's central relationship arc moves from self-interested service to a durable, emotionally rich bond in which skepticism and affection coexist. He never stops seeing Quixote as mad, but he increasingly loves him as a person."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sancho Panza",
+      "target_character": "Teresa Panza",
+      "dimension_label": "Domestic Aspiration",
+      "axis_name": "From practical spouse to family-centered status negotiator",
+      "pole_start": "Teresa is initially a beloved but realistically bounded wife, someone Sancho affectionately imagines benefiting from his rise but not yet a major site of social negotiation.",
+      "pole_end": "By the end, Teresa is a full partner in Sancho's social imagination: he writes to her, plans for her status, and frames his ambitions around family advancement and homecoming.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early affectionate realism",
+          "chapter_range": [
+            8,
+            18
+          ],
+          "position_description": "Sancho thinks of Teresa with affection and realism, doubting her fitness for queenship but imagining her as a countess or beneficiary of his rise.",
+          "key_moments": [
+            "Says his wife is not fit to be queen",
+            "Imagines children benefiting from advancement",
+            "Keeps family in the background of his ambitions"
+          ]
+        },
+        {
+          "phase": "Family as motive and audience",
+          "chapter_range": [
+            53,
+            60
+          ],
+          "position_description": "Teresa becomes a more active presence as Sancho writes to her, boasts to her, and imagines her reaction to his prospects.",
+          "key_moments": [
+            "Speaks to Teresa about his adventures",
+            "Uses family as justification for ambition",
+            "Begins to think in terms of household uplift"
+          ]
+        },
+        {
+          "phase": "Status negotiation and social mobility",
+          "chapter_range": [
+            58,
+            105
+          ],
+          "position_description": "Teresa becomes central to Sancho's social project. He wants her to understand rank, accept his ambitions, and share in the material and symbolic benefits of office.",
+          "key_moments": [
+            "Argues with Teresa about rank and reputation",
+            "Sends letters and gifts home",
+            "Frames governorship as family advancement"
+          ]
+        },
+        {
+          "phase": "Homecoming and mutual validation",
+          "chapter_range": [
+            107,
+            127
+          ],
+          "position_description": "Teresa is no longer just a beneficiary of ambition but the emotional anchor of Sancho's return. His desires settle into domesticity, and his bond with her becomes more grounded and reciprocal.",
+          "key_moments": [
+            "Rejects further office and returns homeward",
+            "Corresponds with Teresa as a real partner in status",
+            "Ends with grief and home-centered loyalty"
+          ]
+        }
+      ],
+      "evidence_summary": "Teresa is the main relational anchor for Sancho's domestic and social aspirations. Over time, she shifts from background spouse to active partner in his identity as a man seeking dignity, money, and a stable home."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sancho Panza",
+      "target_character": "Dapple",
+      "dimension_label": "Attachment-Utility",
+      "axis_name": "From practical mount to beloved companion and symbol of freedom",
+      "pole_start": "Dapple begins as Sancho's practical means of travel and a sign of his peasant identity.",
+      "pole_end": "Dapple ends as emotionally central: a companion, a symbol of home and freedom, and something Sancho protects with genuine affection.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical utility",
+          "chapter_range": [
+            8,
+            24
+          ],
+          "position_description": "Dapple is mainly a useful ass, part of Sancho's material equipment and mobility.",
+          "key_moments": [
+            "Prepares for travel with ass and alforjas",
+            "Uses Dapple as practical transport",
+            "Values him as part of ordinary life"
+          ]
+        },
+        {
+          "phase": "Emotional investment",
+          "chapter_range": [
+            31,
+            58
+          ],
+          "position_description": "Loss or threat to Dapple becomes a real grievance. Sancho's attachment becomes visibly affectionate and possessive.",
+          "key_moments": [
+            "Rages over Dapple's theft",
+            "Treats the ass as a symbol of security",
+            "Worries about Dapple's welfare"
+          ]
+        },
+        {
+          "phase": "Protective companionship",
+          "chapter_range": [
+            83,
+            126
+          ],
+          "position_description": "Dapple becomes a stable emotional anchor, especially during the governorship and the return home. Sancho repeatedly worries about his comfort and safety.",
+          "key_moments": [
+            "Protects Dapple in courtly and military settings",
+            "Uses Dapple as a marker of his true identity",
+            "Treats him as part of home and freedom"
+          ]
+        }
+      ],
+      "evidence_summary": "Dapple evolves from utility to intimacy. The donkey becomes a piece of Sancho's selfhood, domestic life, and freedom from aristocratic fantasy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Sancho Panza",
+      "target_character": "Duchess",
+      "dimension_label": "Patronage-Trust",
+      "axis_name": "From wary dependence to grateful, tactical attachment",
+      "pole_start": "Sancho initially sees the Duchess as a powerful noble patron whose favor can be useful but whose games are suspect.",
+      "pole_end": "He remains wary of her manipulation but is genuinely grateful for her protection and attention, and he has learned to navigate her favor tactically.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Initial noble suspicion",
+          "chapter_range": [
+            83,
+            84
+          ],
+          "position_description": "Sancho is dazzled by the Duchess's courtesy and sees her as a source of status, but he is already aware that the castle is theatrical and manipulative.",
+          "key_moments": [
+            "Feels validated by her recognition",
+            "Enjoys noble hospitality",
+            "Begins to see patronage as useful"
+          ]
+        },
+        {
+          "phase": "Courtly dependence and irritation",
+          "chapter_range": [
+            85,
+            90
+          ],
+          "position_description": "Sancho becomes more dependent on the Duchess's favor while also feeling humiliated by courtly jokes and coercion.",
+          "key_moments": [
+            "Resents humiliating courtly pranks",
+            "Bargains over the governorship and Dulcinea",
+            "Uses the Duchess's attention to protect his standing"
+          ]
+        },
+        {
+          "phase": "Managed patronage",
+          "chapter_range": [
+            91,
+            106
+          ],
+          "position_description": "Sancho learns to work within the Duchess's system, speaking more freely while still seeking her protection. He is less dazzled and more strategic.",
+          "key_moments": [
+            "Handles the Trifaldi and Clavileño episodes tactically",
+            "Negotiates the governorship and penance",
+            "Writes to Teresa under noble supervision"
+          ]
+        },
+        {
+          "phase": "Disillusioned gratitude",
+          "chapter_range": [
+            107,
+            124
+          ],
+          "position_description": "After Barataria and later courtly humiliations, Sancho is less enchanted by the Duchess but still grateful for the social capital her world provides.",
+          "key_moments": [
+            "Rejects governorship as a burden after the prank",
+            "Returns to the castle world with caution",
+            "Treats noble favor as useful but not trustworthy"
+          ]
+        }
+      ],
+      "evidence_summary": "The Duchess is a major relational axis because she repeatedly offers Sancho status, protection, and humiliation at once. His relation to her evolves from dazzled opportunism to a more mature, guarded dependence."
+    }
+  ]
+}

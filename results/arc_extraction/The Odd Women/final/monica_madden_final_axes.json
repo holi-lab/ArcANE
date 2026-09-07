@@ -1,0 +1,651 @@
+{
+  "character": "Monica Madden",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational dependence to guarded self-assertion",
+          "set_b_axis": "From sheltered dependence to conflicted self-assertion",
+          "overlap_description": "Both describe Monica's movement from being shaped by others' care, expectations, and protection toward a more self-directing but still constrained assertion of will."
+        },
+        {
+          "set_a_axis": "From conventional duty to self-authored moral law",
+          "set_b_axis": "From craving rescue to demanding freedom",
+          "overlap_description": "Both track Monica's rejection of marriage-as-duty and her growing insistence that freedom, truth, and personal integrity outweigh social convention."
+        },
+        {
+          "set_a_axis": "From undervalued shop-girl to morally self-conscious woman",
+          "set_b_axis": "From social embarrassment to ethical confession",
+          "overlap_description": "Both focus on Monica's deepening inwardness: from externally defined or embarrassed selfhood toward sharper moral self-judgment, confession, and responsibility."
+        },
+        {
+          "set_a_axis": "From openness and social naivety to strategic concealment and final confession",
+          "set_b_axis": "From social embarrassment to ethical confession",
+          "overlap_description": "Both include the arc from early unguardedness and awkwardness through secrecy/deception to a final act of confession and truth-telling."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From undervalued shop-girl to morally self-conscious woman",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From practical marriage fantasy to disenchanted moral realism",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From flattering courtship to mistrustful estrangement",
+          "set_b_axis": "From cautious respect to hostile resistance",
+          "overlap_description": "Both capture the same Widdowson arc: initial pragmatic trust and respect collapse into surveillance, mistrust, and final separation."
+        },
+        {
+          "set_a_axis": "From wary admiration to confiding moral friendship",
+          "set_b_axis": "From wary distance to partial moral alignment",
+          "overlap_description": "Both describe Monica's relationship with Rhoda moving from intimidation and distance toward trust, confession, and moral reliance."
+        },
+        {
+          "set_a_axis": "From emotional rescue fantasy to deadened leverage",
+          "set_b_axis": "From romantic rescue to moral disappointment",
+          "overlap_description": "Both see Bevis as a brief romantic alternative that fails, leaving Monica disillusioned and emotionally detached."
+        },
+        {
+          "set_a_axis": "From family projection to anxious mutual reliance",
+          "set_b_axis": "From affectionate reliance to strained caretaking",
+          "overlap_description": "Both describe Monica and Virginia as a durable sisterly bond that becomes strained under secrecy, crisis, and unequal caretaking."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From practical lodging to stabilizing friendship",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From stimulating confidence to morally risky entanglement",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From grateful dependence to qualified respect",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From sheltered dependence to conflicted self-assertion",
+      "pole_start": "Communion-dominant dependence: Monica begins as a protected, family-shaped presence whose choices are mediated by others' affection, expectations, and practical plans.",
+      "pole_end": "Agency-leaning but constrained self-assertion: Monica ends able to resist, confess, and name her wrongs, yet her agency remains entangled with fear, illness, and relational dependence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Childlike embeddedness and being chosen for others",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Monica is initially an object of family care and projection: she is sheltered, spoken for, and imagined as the sister who must marry or be rescued.",
+          "key_moments": [
+            "Family affection and expectations shape her identity",
+            "Rhoda and Virginia frame work and marriage as solutions for her",
+            "Widdowson's attention gives her social value"
+          ]
+        },
+        {
+          "phase": "Tentative self-formation through work and marriage",
+          "chapter_range": [
+            7,
+            16
+          ],
+          "position_description": "Monica begins to test her own preferences through typewriting, new lodgings, and courtship, but her agency remains relationally dependent and compromised by the desire for protection.",
+          "key_moments": [
+            "Moves into Great Portland Street and studies typewriting",
+            "Accepts Widdowson as a practical and respectable option",
+            "Begins to argue for freedom and equality within marriage"
+          ]
+        },
+        {
+          "phase": "Open resistance and strategic self-protection",
+          "chapter_range": [
+            18,
+            24
+          ],
+          "position_description": "Monica increasingly asserts her will against surveillance and domination. She lies, keeps secrets, and tries to preserve a private self even as the marriage narrows her options.",
+          "key_moments": [
+            "Feels watched and controlled by Widdowson",
+            "Tells the first lie and experiences it as morally damaging",
+            "Attempts to arrange escape through Bevis"
+          ]
+        },
+        {
+          "phase": "Confession and morally explicit agency",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "Monica cannot control events, but she chooses confession, truth-telling, and concern for the child over concealment. Her agency is strongest as moral lucidity rather than worldly freedom.",
+          "key_moments": [
+            "Confesses to Rhoda and accepts practical counsel",
+            "Writes the final confession to Widdowson",
+            "Seeks plain dealing rather than sentimental reconciliation"
+          ]
+        }
+      ],
+      "evidence_summary": "Monica moves from being largely acted upon to increasingly acting for herself, but not into stable autonomy. The arc is a shift from dependence through conflicted self-assertion toward a final, morally lucid yet still constrained agency."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "security-autonomy",
+      "axis_name": "From craving rescue to demanding freedom",
+      "pole_start": "Security-seeking dependence: Monica initially wants relief from work, social protection, and a respectable future, and is drawn toward marriage as shelter from uncertainty.",
+      "pole_end": "Autonomy-seeking resistance: Monica ends by insisting on truth, privacy, and the right to define her own conduct, even when that means separation and moral risk.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Security imagined as solution",
+          "chapter_range": [
+            4,
+            12
+          ],
+          "position_description": "Monica repeatedly treats marriage, respectability, and being cared for as the most plausible escape from drudgery and loneliness.",
+          "key_moments": [
+            "Sees Widdowson as serious, respectable, and protective",
+            "Accepts marriage as a practical route out of shop work",
+            "Wedding-day anxiety reveals the cost of choosing security"
+          ]
+        },
+        {
+          "phase": "Domestic confinement recognized",
+          "chapter_range": [
+            15,
+            19
+          ],
+          "position_description": "Once married, she experiences security as enclosure. The home and marriage become restrictive rather than protective, and she begins to demand freedom within them.",
+          "key_moments": [
+            "Herne Hill life feels oppressive",
+            "Guernsey confrontation over liberty and equality",
+            "Widdowson's jealousy reads as domination"
+          ]
+        },
+        {
+          "phase": "Freedom pursued under pressure",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "Monica actively seeks private freedom, even through secrecy and deception. Autonomy becomes more important than marital security, though the means are morally costly.",
+          "key_moments": [
+            "Visits Bevis and lies to Widdowson",
+            "Feels the lie as degrading but necessary",
+            "Tries to arrange escape from the marriage"
+          ]
+        },
+        {
+          "phase": "Freedom redefined as honest separation",
+          "chapter_range": [
+            29,
+            31
+          ],
+          "position_description": "Her final position is not romantic independence but honest, morally legible freedom: truth, separation, and protection for the child.",
+          "key_moments": [
+            "Confesses to Rhoda and accepts a duty-based survival plan",
+            "Sends the final confession to Widdowson",
+            "Rejects concealment in favor of plain dealing"
+          ]
+        }
+      ],
+      "evidence_summary": "Monica's core motivational conflict is between wanting to be sheltered and wanting to be free. The arc ends with freedom no longer imagined as escape, but as honest self-definition under constraint."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "romantic realism",
+      "axis_name": "From practical marriage fantasy to disenchanted moral realism",
+      "pole_start": "Pragmatic romantic fantasy: Monica initially treats marriage as a workable solution and is susceptible to the idea that a respectable man can provide both love and rescue.",
+      "pole_end": "Disenchanted realism: Monica ends by seeing romance as unstable, secrecy as degrading, and marriage as morally and emotionally compromised unless grounded in truth.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Marriage as plausible future",
+          "chapter_range": [
+            4,
+            11
+          ],
+          "position_description": "She is open to Widdowson because he seems respectable and serious, and she can imagine marriage as both loving and practical.",
+          "key_moments": [
+            "Cautiously entertains Widdowson",
+            "Interprets his proposal as security and affection",
+            "Chooses marriage over independent work"
+          ]
+        },
+        {
+          "phase": "Romance under pressure",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "The wedding and early marriage expose the mismatch between fantasy and reality. She wants companionship, but the actual marriage feels awkward, surveilled, and emotionally costly.",
+          "key_moments": [
+            "Wedding-day tears and sense that the whole thing is silly",
+            "Guernsey reveals her need for freedom within marriage",
+            "Barfoot's attention revives desire for intelligent companionship"
+          ]
+        },
+        {
+          "phase": "Romantic collapse",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "Bevis briefly becomes a romantic alternative, but his hesitation destroys the fantasy. Monica sees that desire, secrecy, and rescue cannot be cleanly separated.",
+          "key_moments": [
+            "Brief exhilaration in Bevis's company",
+            "Plans secret flight",
+            "Realizes hidden affair would be dishonourable",
+            "Bevis's timidity exposes the fragility of her hope"
+          ]
+        },
+        {
+          "phase": "Truth over romance",
+          "chapter_range": [
+            29,
+            31
+          ],
+          "position_description": "She ends by rejecting romantic concealment and choosing confession. Love is no longer a fantasy of rescue but a matter of truth, consequence, and moral accountability.",
+          "key_moments": [
+            "Confession to Rhoda",
+            "Final letter to Widdowson",
+            "Concern for the child supersedes romantic self-fashioning"
+          ]
+        }
+      ],
+      "evidence_summary": "Monica repeatedly tests romantic solutions and finds them inadequate. She moves from practical romantic hope to a hard-earned realism in which truth matters more than rescue."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "moral self-judgment",
+      "axis_name": "From social embarrassment to ethical confession",
+      "pole_start": "Diffuse embarrassment: Monica begins with little explicit moral self-scrutiny, mainly feeling awkward, tired, or socially constrained.",
+      "pole_end": "Explicit confession: Monica ends by naming her conduct, accepting consequences, and seeking moral clarity rather than concealment.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Embarrassment and unease",
+          "chapter_range": [
+            4,
+            12
+          ],
+          "position_description": "She is aware of awkwardness and impropriety, but her moral thinking is still mostly practical and social rather than deeply ethical.",
+          "key_moments": [
+            "Feels uneasy about Bullivant and Widdowson",
+            "Wedding-day tears and sense of silliness",
+            "Recognizes the awkwardness of her situation"
+          ]
+        },
+        {
+          "phase": "Moral fracture",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "The lie to Widdowson becomes a decisive moral event. She feels degraded by deception and begins to see secrecy as ethically corrosive.",
+          "key_moments": [
+            "Tells the first lie to Widdowson",
+            "Feels shame and self-disgust",
+            "Realizes hidden flight would be dishonourable"
+          ]
+        },
+        {
+          "phase": "Confessional clarity",
+          "chapter_range": [
+            29,
+            31
+          ],
+          "position_description": "She adopts confession as a moral act. Her final letters are ethical as well as strategic: they aim at truth, protection of the child, and plain dealing.",
+          "key_moments": [
+            "Confesses to Rhoda in religious language",
+            "Accepts a duty-based framework",
+            "Writes the final confession to Widdowson"
+          ]
+        }
+      ],
+      "evidence_summary": "Monica's moral consciousness becomes progressively sharper. What begins as embarrassment ends as a serious commitment to confession and truth, even though she remains trapped in the consequences of earlier concealment."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Monica Madden",
+      "target_character": "Edmund Widdowson",
+      "dimension_label": "trust-control",
+      "axis_name": "From cautious respect to hostile resistance",
+      "pole_start": "Cautious respect and pragmatic trust: Monica initially sees Widdowson as serious, respectable, and potentially protective, though not emotionally intimate.",
+      "pole_end": "Hostile resistance and near-total mistrust: Monica ends by experiencing him as controlling, humiliating, and morally intolerable, even while still tied to him by marriage and confession.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Cautious courtship",
+          "chapter_range": [
+            4,
+            7
+          ],
+          "position_description": "She is curious and faintly intimidated, but willing to consider him as a socially credible husband.",
+          "key_moments": [
+            "River outing and life story",
+            "Age-gap revelation",
+            "Weekly courtship arrangement"
+          ]
+        },
+        {
+          "phase": "Marriage and early strain",
+          "chapter_range": [
+            11,
+            16
+          ],
+          "position_description": "After marrying him, trust weakens as she experiences his seriousness as possessiveness and his love as narrowing.",
+          "key_moments": [
+            "Wedding-day anxiety",
+            "Guernsey conflict over freedom and equality",
+            "Begins to hide her movements"
+          ]
+        },
+        {
+          "phase": "Surveillance and deception",
+          "chapter_range": [
+            18,
+            24
+          ],
+          "position_description": "Widdowson becomes associated with watching, jealousy, and domination. Monica lies to him, resents him, and feels his trust as a form of lordship.",
+          "key_moments": [
+            "Feels watched during Barfoot conversation",
+            "Tells the first lie",
+            "Widdowson's accusation and violence"
+          ]
+        },
+        {
+          "phase": "Separation and confession",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "The relationship is no longer one of mutual life but of accusation, fear, and final disclosure. Monica addresses him through confession rather than intimacy.",
+          "key_moments": [
+            "Refuses to return to him",
+            "Sends final confession letter",
+            "Asks for plain dealing and protection for the child"
+          ]
+        }
+      ],
+      "evidence_summary": "Widdowson moves from promising security to embodying control. Trust collapses into mistrust, and intimacy is replaced by surveillance, fear, and moral separation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Monica Madden",
+      "target_character": "Rhoda Nunn",
+      "dimension_label": "distance-alignment",
+      "axis_name": "From wary distance to partial moral alignment",
+      "pole_start": "Wary distance: Monica initially admires Rhoda's competence but fears her severity and does not share her worldview.",
+      "pole_end": "Partial moral alignment: Monica ends by trusting Rhoda deeply enough to confess, accept counsel, and rely on her as a moral witness and practical ally.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Uneasy admiration",
+          "chapter_range": [
+            3,
+            7
+          ],
+          "position_description": "Rhoda appears as a strong, practical woman whose ideas Monica respects but does not fully embrace.",
+          "key_moments": [
+            "Miss Nunn's offer of work-based independence",
+            "Monica's discomfort with Rhoda's severity",
+            "Rhoda's worldview remains a challenge rather than a home"
+          ]
+        },
+        {
+          "phase": "Growing validation",
+          "chapter_range": [
+            15,
+            19
+          ],
+          "position_description": "As Monica experiences marriage as confinement, Rhoda's critiques of marriage begin to seem increasingly true.",
+          "key_moments": [
+            "Monica argues for freedom within marriage",
+            "Rhoda's ideas are internalized more than Monica realizes",
+            "Monica's resistance to Widdowson echoes Rhoda's analysis"
+          ]
+        },
+        {
+          "phase": "Confession and trust",
+          "chapter_range": [
+            29,
+            31
+          ],
+          "position_description": "Monica turns to Rhoda as a confidante, confesses her situation, and accepts her guidance. Rhoda becomes the person who can hear the truth without sentimentalizing it.",
+          "key_moments": [
+            "Night-time confession to Rhoda",
+            "Rhoda helps frame Monica's duty to the child",
+            "Monica's final reliance on Rhoda's strength and judgment"
+          ]
+        }
+      ],
+      "evidence_summary": "Rhoda functions as Monica's strongest moral counterpoint. Monica never fully becomes Rhoda's ideological ally, but she ends by trusting her more than anyone else outside the family."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Monica Madden",
+      "target_character": "Virginia Madden",
+      "dimension_label": "dependence-strain",
+      "axis_name": "From affectionate reliance to strained caretaking",
+      "pole_start": "Warm dependence: Monica begins with deep sisterly trust and affection, relying on Virginia as protector, advocate, and emotional support.",
+      "pole_end": "Strained dependence: Monica still relies on Virginia, but the relationship is burdened by Virginia's fragility, drinking, and inability to fully understand Monica's crisis.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Protective sisterhood",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Virginia is Monica's closest family ally, helping her think about work, marriage, and future possibilities.",
+          "key_moments": [
+            "Virginia worries about Monica's overwork",
+            "Supports the move away from drudgery",
+            "Acts as a trusted confidante"
+          ]
+        },
+        {
+          "phase": "Shared domestic strain",
+          "chapter_range": [
+            11,
+            21
+          ],
+          "position_description": "As Monica's marriage becomes troubled, Virginia remains loving but also part of the family pressure around Monica's choices, making the bond both supportive and burdensome.",
+          "key_moments": [
+            "Virginia delights in Monica's engagement",
+            "Monica asks to see her sisters",
+            "Virginia learns of Monica's distress and secrecy"
+          ]
+        },
+        {
+          "phase": "Caretaker and witness under pressure",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "Virginia becomes Monica's anxious caretaker and intermediary, but secrecy, illness, and moral disagreement prevent full intimacy.",
+          "key_moments": [
+            "Virginia reports Monica's illness and refusal to return",
+            "Virginia helps with the Clevedon arrangement",
+            "Monica's dependence remains loving but strained"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia remains one of Monica's most durable ties, but the relationship shifts from hopeful sisterly projection to a fragile mix of care, pressure, and partial understanding."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Monica Madden",
+      "target_character": "Mildred H. Vesper",
+      "dimension_label": "companionship-support",
+      "axis_name": "From practical lodging to stabilizing friendship",
+      "pole_start": "Tentative acquaintance: Monica initially has no deep bond with Mildred, only a practical living arrangement.",
+      "pole_end": "Trusted companionship: Mildred becomes a stabilizing friend and confidante who normalizes Monica's independent life and witnesses her emotional burden.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "New domestic support",
+          "chapter_range": [
+            7,
+            7
+          ],
+          "position_description": "Monica quickly feels at ease in Mildred's lodgings and enjoys her dry humor and practical steadiness.",
+          "key_moments": [
+            "Move in with Mildred Vesper",
+            "Cheerful adjustment to typewriting and study"
+          ]
+        },
+        {
+          "phase": "Confidence under strain",
+          "chapter_range": [
+            11,
+            20
+          ],
+          "position_description": "Mildred becomes the person Monica can quietly confide in about Widdowson's letters and the emotional burden of the marriage, even as the friendship remains understated.",
+          "key_moments": [
+            "Mildred witnesses Monica's collapse",
+            "Monica hides Widdowson's letter",
+            "Mildred is used as cover for the lie to Widdowson"
+          ]
+        }
+      ],
+      "evidence_summary": "Mildred is a steadying female companion who helps make Monica's independent life feel livable, even if the bond remains understated."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Monica Madden",
+      "target_character": "Everard Barfoot",
+      "dimension_label": "flirtation-suspicion",
+      "axis_name": "From stimulating confidence to morally risky entanglement",
+      "pole_start": "Stimulating confidence: Monica initially experiences Barfoot as witty, flattering, and socially enlivening, someone whose attention makes her feel specially noticed.",
+      "pole_end": "Entangled suspicion: by the end, Barfoot is less a possible romance than a figure caught up in Monica's marital crisis and public suspicion.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Confiding attraction",
+          "chapter_range": [
+            18,
+            18
+          ],
+          "position_description": "Monica is flattered by Barfoot's attention and drawn into intimate talk about Rhoda, feeling both elevated and uneasy.",
+          "key_moments": [
+            "Railway conversation about Rhoda",
+            "Burlington House discussion"
+          ]
+        },
+        {
+          "phase": "Publicly compromised association",
+          "chapter_range": [
+            19,
+            26
+          ],
+          "position_description": "Barfoot becomes part of the field of suspicion around Monica. Even where no wrongdoing is shown, his name is used by others to interpret her conduct, and the connection loses innocence.",
+          "key_moments": [
+            "Widdowson watches Monica and Barfoot",
+            "Monica is accused after detective report",
+            "Barfoot's name remains entangled in scandal"
+          ]
+        }
+      ],
+      "evidence_summary": "Barfoot functions less as a sustained love interest than as a catalyst for Monica's sense of being seen, desired, and then morally exposed."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Monica Madden",
+      "target_character": "Bevis",
+      "dimension_label": "idealization-disillusionment",
+      "axis_name": "From romantic rescue to moral disappointment",
+      "pole_start": "Tentative romantic idealization: Monica briefly imagines Bevis as a possible liberating lover who can offer escape and emotional fulfillment.",
+      "pole_end": "Disillusioned attachment: Bevis becomes a source of longing, shame, and disappointment rather than a viable solution.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Flirtation and hope",
+          "chapter_range": [
+            18,
+            22
+          ],
+          "position_description": "Monica is flattered by Bevis's attention and begins to imagine him as the man who might free her from Widdowson.",
+          "key_moments": [
+            "Intimate conversation with Barfoot",
+            "Brief exhilaration in Bevis's company",
+            "Plans secret escape"
+          ]
+        },
+        {
+          "phase": "Collapse of fantasy",
+          "chapter_range": [
+            22,
+            24
+          ],
+          "position_description": "Bevis's hesitation and practical caution destroy the fantasy of rescue. Monica still desires him, but he no longer seems courageous or trustworthy enough to carry her out of her situation.",
+          "key_moments": [
+            "He proves reluctant to act",
+            "She recognizes the shame of a hidden affair",
+            "Her longing persists even as confidence collapses"
+          ]
+        },
+        {
+          "phase": "Emotional deadening",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Bevis becomes unreal and emotionally remote. Monica no longer experiences him as a living romantic future, only as part of the evidence of her crisis.",
+          "key_moments": [
+            "Indifference to his letter",
+            "Final confession reframes him as factual rather than salvific"
+          ]
+        }
+      ],
+      "evidence_summary": "Bevis is the failed alternative to Widdowson: he briefly embodies escape, then collapses into weakness, shame, and emotional unreality."
+    }
+  ]
+}

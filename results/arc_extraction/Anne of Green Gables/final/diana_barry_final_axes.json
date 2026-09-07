@@ -1,0 +1,297 @@
+{
+  "character": "Diana Barry",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From sheltered communal attachment to steadier, more self-managed social belonging",
+          "set_b_axis": "From socially receptive child to consistently communal companion",
+          "overlap_description": "Both describe Diana as fundamentally communion-oriented, with only modest change over time. Set A emphasizes a slight increase in self-management and resilience; Set B emphasizes overall stability and continued relational warmth."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From sheltered communal attachment to steadier, more self-managed social belonging",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From socially receptive child to consistently communal companion",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From delighted first friendship to durable lifelong bond",
+          "set_b_axis": "From anticipated friendship to enduring bosom-friend bond",
+          "overlap_description": "Both track the Diana-Anne relationship from initial idealized or immediate attachment into a lasting, high-trust friendship that survives conflict, secrecy, and separation."
+        },
+        {
+          "set_a_axis": "From untroubled maternal dependence to constrained but respectful obedience",
+          "set_b_axis": "From unquestioning filial compliance to briefly strained but restored obedience",
+          "overlap_description": "Both identify a mild but real shift in Diana's relation to Mrs. Barry when maternal authority temporarily restricts her friendship with Anne, followed by restored compliance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From background boy to admired rescuer",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From neutral school acquaintance to lightly appreciative peer",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From sheltered communal attachment to steadier, more self-managed social belonging",
+      "pole_start": "Communion-dominant: Diana begins as a socially receptive, family-bounded girl whose identity is strongly shaped by friendship, companionship, and adult permission.",
+      "pole_end": "Still communion-dominant, but with greater self-management: she remains relationally oriented while becoming more able to cope with separation, sustain bonds across distance, and function with modest independence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Anticipated companionship",
+          "chapter_range": [
+            2,
+            9
+          ],
+          "position_description": "Diana is first imagined as the ideal friend Anne longs for, already framed by intimacy and companionship before she is fully present in the story.",
+          "key_moments": [
+            "Anne responds with delight to Diana's name",
+            "Diana is positioned as Anne's hoped-for bosom friend"
+          ]
+        },
+        {
+          "phase": "Immediate relational opening",
+          "chapter_range": [
+            10,
+            11
+          ],
+          "position_description": "Diana quickly enters a warm attachment with Anne; her motivation is communal, centered on shared play, mutual plans, and emotional closeness.",
+          "key_moments": [
+            "Accepts Anne's bosom-friend oath",
+            "Begins close friendship and future plans for companionship"
+          ]
+        },
+        {
+          "phase": "Communion under pressure",
+          "chapter_range": [
+            13,
+            18
+          ],
+          "position_description": "Adult authority constrains her attachment; Diana learns that belonging depends on negotiation, obedience, and endurance rather than spontaneous closeness alone.",
+          "key_moments": [
+            "Mrs. Barry forbids contact with Anne",
+            "Diana writes a loyal note while obeying her mother",
+            "Friendship is publicly restored after the crisis"
+          ]
+        },
+        {
+          "phase": "Stable loyal companion",
+          "chapter_range": [
+            19,
+            30
+          ],
+          "position_description": "Diana remains highly communal, but her attachment becomes more durable and less dependent on immediate proximity. She acts as a steady supporter, confidante, and witness to Anne's growth.",
+          "key_moments": [
+            "Visits Anne faithfully during confinement",
+            "Keeps Anne's hair-dye secret",
+            "Panics at Anne's apparent drowning and then rejoices",
+            "Helps arrange the Charlottetown trip and shares Anne's triumph"
+          ]
+        },
+        {
+          "phase": "More independent continuity",
+          "chapter_range": [
+            31,
+            36
+          ],
+          "position_description": "Diana still defines herself through friendship, but she shows more emotional regulation and continuity across change: she can part from Anne, maintain contact, and keep the bond alive without needing constant closeness.",
+          "key_moments": [
+            "Gives a tearful farewell but recovers",
+            "Accepts Anne's move toward Redmond while staying rooted in Avonlea",
+            "Continues their private signaling custom"
+          ]
+        }
+      ],
+      "evidence_summary": "Diana is consistently communion-oriented throughout the novel. The strongest synthesis is not a dramatic shift toward agency, but a modest movement from sheltered relational dependence toward steadier, more resilient social belonging and self-regulation."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Diana Barry",
+      "target_character": "Anne Shirley",
+      "dimension_label": "Intimacy-Loyalty",
+      "axis_name": "From anticipated friendship to enduring bosom-friend bond",
+      "pole_start": "A hoped-for companion, first idealized in Anne's imagination and then immediately embraced in lived friendship.",
+      "pole_end": "A deeply trusted, affectionate, and enduring intimate friend whose bond survives conflict, secrecy, separation, grief, and Anne's growing adulthood.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Imagined friend",
+          "chapter_range": [
+            2,
+            9
+          ],
+          "position_description": "Diana exists first as an anticipated ideal friend, emotionally projected before the relationship is lived.",
+          "key_moments": [
+            "Anne is delighted by Diana's name",
+            "Diana is framed as the hoped-for bosom friend"
+          ]
+        },
+        {
+          "phase": "Immediate bonding",
+          "chapter_range": [
+            10,
+            16
+          ],
+          "position_description": "The friendship becomes real and rapidly deepens into mutual affection, shared play, and emotional reliance.",
+          "key_moments": [
+            "First meeting and instant companionship",
+            "Picnic, playhouse, and school friendship",
+            "Separation after the currant wine incident",
+            "Tearful reconciliation after Minnie May's illness"
+          ]
+        },
+        {
+          "phase": "Consolidated intimacy",
+          "chapter_range": [
+            17,
+            36
+          ],
+          "position_description": "The bond stabilizes at high intimacy and trust. Diana repeatedly proves loyal through secrets, support, celebration, and comfort, even when minor tensions arise.",
+          "key_moments": [
+            "Supports Anne after the bed accident",
+            "Keeps the hair-dye secret",
+            "Panics and rejoices over Anne's near-drowning",
+            "Celebrates Anne's academic success and concert life",
+            "Shows brief jealousy about Stella but quickly reaffirms closeness",
+            "Offers comfort after Matthew's death"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Diana's strongest relational arc. It moves from anticipated or immediate attachment into a tested, resilient, and long-term friendship that remains the emotional center of her story."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Diana Barry",
+      "target_character": "Mrs. Barry",
+      "dimension_label": "Obedience-Autonomy",
+      "axis_name": "From unquestioning filial compliance to briefly strained but restored obedience",
+      "pole_start": "A daughter whose relationship to her mother is initially secure, deferential, and untroubled by visible tension.",
+      "pole_end": "Still obedient and respectful, but now with a clearer sense of the emotional cost of parental control and the need for reconciliation after restriction.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Stable filial dependence",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Mrs. Barry is mostly backgrounded; Diana's family life appears stable and unconflicted before the friendship crisis.",
+          "key_moments": [
+            "Respectful home life",
+            "No resistance to Mrs. Barry's standards"
+          ]
+        },
+        {
+          "phase": "Authority-induced rupture",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "The currant wine incident and resulting ban on Anne make Diana visibly sorrowful and constrained. She obeys, but the cost of obedience becomes emotionally explicit.",
+          "key_moments": [
+            "Mrs. Barry's anger after the tea",
+            "Diana's tearful farewell and enforced separation from Anne"
+          ]
+        },
+        {
+          "phase": "Reconciled compliance",
+          "chapter_range": [
+            16,
+            36
+          ],
+          "position_description": "After Mrs. Barry relents, Diana returns to her usual deferential position, but the relationship now carries the memory of how easily authority can interrupt her attachments.",
+          "key_moments": [
+            "Mrs. Barry welcomes Anne again after the crisis",
+            "Diana resumes normal companionship and family life",
+            "Continued respectful relation to Mrs. Barry in later chapters"
+          ]
+        }
+      ],
+      "evidence_summary": "Diana does not rebel against her mother, so this is a mild relational axis rather than a major one. The key change is from untested compliance to emotionally aware compliance after a painful interruption."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Diana Barry",
+      "target_character": "Gilbert Blythe",
+      "dimension_label": "Esteem-Admiration",
+      "axis_name": "From background boy to admired rescuer",
+      "pole_start": "Gilbert is initially a peripheral schoolboy figure with little special significance in Diana's emotional world.",
+      "pole_end": "Gilbert becomes someone Diana admires for heroic competence and romantic rescue, though he remains secondary to her bond with Anne.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Low salience",
+          "chapter_range": [
+            10,
+            25
+          ],
+          "position_description": "Gilbert remains peripheral to Diana's emotional life; he is present in the school world but not yet a figure of strong feeling.",
+          "key_moments": [
+            "Diana's focus is on Anne, not Gilbert",
+            "Gilbert is part of the school background"
+          ]
+        },
+        {
+          "phase": "Heroic revaluation",
+          "chapter_range": [
+            26,
+            26
+          ],
+          "position_description": "After the pond rescue, Diana responds to Gilbert's action with admiration and labels it splendid and romantic, elevating him in her esteem.",
+          "key_moments": [
+            "Gilbert rescues Anne from the near-drowning",
+            "Diana admires Gilbert's rescue"
+          ]
+        },
+        {
+          "phase": "Quietly sustained regard",
+          "chapter_range": [
+            27,
+            36
+          ],
+          "position_description": "The admiration lingers as part of her broader social imagination, though it remains secondary to her bond with Anne.",
+          "key_moments": [
+            "Gilbert remains part of the social world Diana inhabits",
+            "His proximity is noted in the context of future change"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a smaller relational axis than Diana's bond with Anne, but the pond rescue gives Gilbert a clear rise in Diana's esteem, shifting him from background presence to admired figure."
+    }
+  ]
+}

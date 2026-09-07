@@ -1,0 +1,49 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# ===== Virtual / conda environments =====
+.venv/
+.conda/
+venv/
+env/
+
+# ===== Tool / local caches =====
+.cache/
+.codex/
+.agents/
+.ipynb_checkpoints/
+tmp/
+
+# ===== Claude local settings (machine-specific) =====
+.claude/settings.local.json
+
+# ===== Experiment tracking / run artifacts =====
+wandb/
+logs/
+outputs/
+rollouts/
+ckpt_backup/
+*.log
+
+# ===== Vendored external dependency (clone per rl/README.md) =====
+rl/third_party/
+
+# ===== Large data / model artifacts (kept out of git) =====
+*.jsonl
+*.parquet
+*.parquet.bak
+*.bak
+*.zip
+*.whl
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz

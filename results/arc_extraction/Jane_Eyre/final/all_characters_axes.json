@@ -1,0 +1,2463 @@
+{
+  "Jane Eyre": {
+    "character": "Jane Eyre",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From isolated self-protection to chosen mutual belonging",
+            "set_b_axis": "From self-protective isolation to chosen reciprocal belonging",
+            "overlap_description": "Both describe Jane's movement from defensive solitude and resistance to a mature, freely chosen communion that preserves selfhood."
+          },
+          {
+            "set_a_axis": "From reactive indignation to principled conscience",
+            "set_b_axis": "From wounded self-doubt to principled moral certainty",
+            "overlap_description": "Both track Jane's moral maturation from early emotional injury and uncertainty toward stable inward judgment and refusal of coercion."
+          },
+          {
+            "set_a_axis": "From unwanted outcast to self-respecting equal",
+            "set_b_axis": "From class-shame to dignified independence",
+            "overlap_description": "Both focus on Jane's self-worth as she moves from humiliation and social inferiority toward dignity, equality, and independence."
+          },
+          {
+            "set_a_axis": "From guarded longing to reciprocal, embodied love",
+            "set_b_axis": "From volatile distress to disciplined feeling",
+            "overlap_description": "Both include Jane's emotional regulation and romantic development, though A centers love/desire and B centers affect control; they overlap in the disciplined handling of passion."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From guarded longing to reciprocal, embodied love",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From volatile distress to disciplined feeling",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From betrayed child to forgiving adult",
+            "set_b_axis": "From childhood grievance to moral forgiveness without reconciliation",
+            "overlap_description": "Both describe Jane's relationship with Mrs. Reed as moving from childhood injury and resentment to adult forgiveness without restored intimacy."
+          },
+          {
+            "set_a_axis": "From moral curiosity to reverent grief",
+            "set_b_axis": "From curiosity about patience to profound spiritual friendship",
+            "overlap_description": "Both capture Jane's bond with Helen Burns as moving from fascination and resistance to deep attachment, lasting memory, and moral inheritance after Helen's death."
+          },
+          {
+            "set_a_axis": "From wary pupil to grateful moral dependence",
+            "set_b_axis": "From tentative reliance to sustaining trust in humane authority",
+            "overlap_description": "Both identify Miss Temple as the first trustworthy adult authority for Jane, whose fairness restores dignity and shapes Jane's expectations of humane power."
+          },
+          {
+            "set_a_axis": "From wary fascination to equal marriage",
+            "set_b_axis": "From suspicion to love",
+            "overlap_description": "Both describe the central Rochester arc from curiosity and caution through crisis and separation to reciprocal, equalized marriage."
+          },
+          {
+            "set_a_axis": "From gratitude to refusal of coercive duty",
+            "set_b_axis": "From gratitude and admiration to firm refusal of coercive duty",
+            "overlap_description": "Both portray Jane's relation to St. John Rivers as beginning in gratitude and respect and ending in rejection of his coercive, loveless claim on her life."
+          },
+          {
+            "set_a_axis": "From grateful stranger to beloved cousin",
+            "set_b_axis": "From rescue gratitude to chosen sisterly belonging",
+            "overlap_description": "Both treat Diana Rivers as a restorative female kinship bond that moves from rescue and trust to deep sisterhood and belonging."
+          },
+          {
+            "set_a_axis": "From gentle shelter to family bond",
+            "set_b_axis": "From grateful acquaintance to intimate family attachment",
+            "overlap_description": "Both identify Mary Rivers as a quieter but meaningful kinship relationship that develops from care and gratitude into family attachment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From partial comfort to affectionate recognition",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From self-protective isolation to chosen reciprocal belonging",
+        "pole_start": "Jane begins as inward, defensive, and self-separating: she seeks safety in solitude, resists domination, and experiences attachment as risky vulnerability.",
+        "pole_end": "Jane ends relationally committed but not self-erased: she chooses love, family, and marriage while preserving self-respect, equality, and inner independence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive separation",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Jane's early life is marked by self-protective withdrawal and bursts of resistance: she retreats into books and imagination, defies John Reed, and experiences communion as unsafe.",
+            "key_moments": [
+              "Retreat into Bewick's birds and inward solitude",
+              "Defiance of John Reed and punishment in the red-room",
+              "Open rebellion against Mrs. Reed"
+            ]
+          },
+          {
+            "phase": "Relational opening",
+            "chapter_range": [
+              5,
+              10
+            ],
+            "position_description": "At Lowood, Jane begins to value humane connection while retaining independence; Helen, Miss Temple, and the school community teach her that belonging need not mean self-surrender.",
+            "key_moments": [
+              "Bond with Helen Burns",
+              "Miss Temple's fairness and warmth",
+              "Decision to leave for governess work"
+            ]
+          },
+          {
+            "phase": "Romantic tension",
+            "chapter_range": [
+              11,
+              27
+            ],
+            "position_description": "At Thornfield, Jane's longing for intimacy intensifies through Rochester, but she repeatedly defends her separateness against possession, class hierarchy, and moral compromise.",
+            "key_moments": [
+              "Charged conversations with Rochester",
+              "Jealousy over Blanche Ingram",
+              "Refusal to become Rochester's mistress"
+            ]
+          },
+          {
+            "phase": "Chosen interdependence",
+            "chapter_range": [
+              28,
+              38
+            ],
+            "position_description": "Jane's communion becomes mature and voluntary: she accepts help, discovers kinship with the Riverses, returns to Rochester, and enters marriage as an equal companion.",
+            "key_moments": [
+              "Rescue by the Rivers household",
+              "Discovery of kinship with Diana and Mary",
+              "Return to Rochester after his injury",
+              "Settled married life at Ferndean"
+            ]
+          }
+        ],
+        "evidence_summary": "Jane's arc moves from defensive solitude toward a form of communion that does not cancel agency. She learns to choose intimacy, kinship, and marriage on terms that preserve selfhood."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Self-Trust",
+        "axis_name": "From wounded self-doubt to principled moral certainty",
+        "pole_start": "Jane begins with internalized inferiority and uncertainty about whether her anger, suffering, and difference are legitimate.",
+        "pole_end": "Jane ends with a stable conviction that her conscience is trustworthy and that moral truth matters more than social power, wealth, or passion.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Internalized blame",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Jane partly absorbs the household's accusations and can wonder whether she is wicked or defective, even while sensing injustice.",
+            "key_moments": [
+              "John Reed's assault and Jane's punishment",
+              "The red-room terror",
+              "Mr. Lloyd's questioning"
+            ]
+          },
+          {
+            "phase": "Moral awakening",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "Jane increasingly names cruelty as cruelty and hypocrisy as hypocrisy; vindication at Lowood strengthens her self-trust and moral clarity.",
+            "key_moments": [
+              "Confrontation with Mrs. Reed",
+              "Brocklehurst's public shaming",
+              "Miss Temple's investigation and vindication"
+            ]
+          },
+          {
+            "phase": "Ethical testing",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "Her moral certainty is tested by love, jealousy, and secrecy; she learns to distinguish desire from right action and refuses compromise with Rochester.",
+            "key_moments": [
+              "Helen's death and spiritual questioning",
+              "Rochester's proposal",
+              "Discovery of Bertha Mason",
+              "Decision to leave Thornfield"
+            ]
+          },
+          {
+            "phase": "Settled conscience",
+            "chapter_range": [
+              28,
+              38
+            ],
+            "position_description": "Jane acts from a stable moral center: she survives by principle, refuses St. John's coercion, and returns to Rochester only when love and conscience can coexist.",
+            "key_moments": [
+              "Refusal of St. John's marriage proposal",
+              "Providential return to Rochester",
+              "Marriage and domestic settlement"
+            ]
+          }
+        ],
+        "evidence_summary": "Jane moves from a child who doubts her worth to an adult who can reject romantic and religious coercion because she knows what is right."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Social Self-Worth",
+        "axis_name": "From class-shame to dignified independence",
+        "pole_start": "Jane initially experiences herself as socially inferior, dependent, and easily humiliated by rank and poverty.",
+        "pole_end": "Jane ends with a secure sense that poverty does not diminish worth and that independence can coexist with intimacy and respect.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Humiliation and exclusion",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "At Gateshead and early Lowood, Jane feels like an outsider, a burden, and a discord in other people's world.",
+            "key_moments": [
+              "Reed household cruelty",
+              "Red-room confinement",
+              "Arrival at Lowood"
+            ]
+          },
+          {
+            "phase": "Earned dignity",
+            "chapter_range": [
+              6,
+              10
+            ],
+            "position_description": "Vindication at Lowood and the decision to seek work begin to replace shame with earned self-respect.",
+            "key_moments": [
+              "Miss Temple's defense",
+              "Helen's friendship",
+              "Decision to become a governess"
+            ]
+          },
+          {
+            "phase": "Class tension under romance",
+            "chapter_range": [
+              11,
+              27
+            ],
+            "position_description": "Rochester awakens desire, but Blanche Ingram and the marriage crisis force Jane to confront class hierarchy directly; she refuses to let rank define her soul.",
+            "key_moments": [
+              "Blanche as rival",
+              "Self-comparison and jealousy",
+              "Proposal and rejection of unequal union"
+            ]
+          },
+          {
+            "phase": "Independent equality",
+            "chapter_range": [
+              28,
+              38
+            ],
+            "position_description": "Jane lives as a self-supporting teacher, inherits money, and returns to Rochester not as a dependent but as an equal partner with resources and choice.",
+            "key_moments": [
+              "Work at Morton",
+              "Inheritance and equal division",
+              "Marriage to Rochester"
+            ]
+          }
+        ],
+        "evidence_summary": "Jane's social identity moves from shame to dignity. She learns that status can wound, but it cannot define her moral or personal value."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Emotional Regulation",
+        "axis_name": "From volatile distress to disciplined feeling",
+        "pole_start": "Jane begins emotionally overwhelmed, with fear, rage, grief, and panic often surging beyond control.",
+        "pole_end": "Jane ends able to feel deeply without being ruled by feeling, balancing passion with composure, wit, and practical action.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Raw affect",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Her emotions are immediate and explosive: terror in the red-room, rage at Brocklehurst, humiliation under public accusation.",
+            "key_moments": [
+              "Attack by John Reed",
+              "Red-room collapse",
+              "Brocklehurst's denunciation"
+            ]
+          },
+          {
+            "phase": "Learning steadiness",
+            "chapter_range": [
+              8,
+              15
+            ],
+            "position_description": "Helen, Miss Temple, and Rochester each teach different forms of composure; Jane begins to channel feeling into observation, work, and self-command.",
+            "key_moments": [
+              "Helen's deathbed calm",
+              "Lowood vindication",
+              "Rochester's confessions and the fire episode"
+            ]
+          },
+          {
+            "phase": "Passion under strain",
+            "chapter_range": [
+              16,
+              27
+            ],
+            "position_description": "Her love for Rochester and fear of loss create intense inner conflict, but she increasingly disciplines herself in the face of Blanche and the marriage revelation.",
+            "key_moments": [
+              "Self-criticism over Rochester and Blanche",
+              "Gipsy interview",
+              "Wedding interruption and collapse",
+              "Refusal to become Rochester's mistress"
+            ]
+          },
+          {
+            "phase": "Mature steadiness",
+            "chapter_range": [
+              28,
+              38
+            ],
+            "position_description": "Jane endures deprivation, then recovers into a stable emotional life marked by gratitude, care, and sustained happiness rather than crisis.",
+            "key_moments": [
+              "Survival at Moor House",
+              "Teaching at Morton",
+              "Reunion with Rochester",
+              "Settled domestic life"
+            ]
+          }
+        ],
+        "evidence_summary": "Jane does not become emotionally flat; rather, she learns to govern intensity. The arc is from reactive turbulence toward a disciplined, durable emotional life."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Jane Eyre",
+        "target_character": "Mrs. Reed",
+        "dimension_label": "Resentment-Forgiveness",
+        "axis_name": "From childhood grievance to moral forgiveness without reconciliation",
+        "pole_start": "Jane begins in deep resentment, seeing Mrs. Reed as cold, unjust, and complicit in abuse.",
+        "pole_end": "Jane ends able to forgive Mrs. Reed morally and pity her spiritually, while never restoring intimacy or trust.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early injury",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Mrs. Reed is the central figure of injustice; Jane experiences her as a false guardian and emotional enemy.",
+            "key_moments": [
+              "Punishment after the red-room",
+              "Jane's confrontation with Mrs. Reed"
+            ]
+          },
+          {
+            "phase": "Distance and judgment",
+            "chapter_range": [
+              5,
+              20
+            ],
+            "position_description": "Jane's hostility remains stable but less immediate as she leaves Gateshead and builds a new life.",
+            "key_moments": [
+              "Departure for Lowood",
+              "Return to Gateshead as a young adult"
+            ]
+          },
+          {
+            "phase": "Reconciliation of conscience",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "At Mrs. Reed's deathbed, Jane moves from anger to pity and forgiveness, speaking truth without vengeance.",
+            "key_moments": [
+              "Mrs. Reed's summons",
+              "Deathbed confession and Jane's forgiveness"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship changes from active childhood hatred to a morally mature forgiveness. Jane does not become close to Mrs. Reed, but she no longer needs resentment to define herself."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Jane Eyre",
+        "target_character": "Helen Burns",
+        "dimension_label": "Admiration-Intimacy",
+        "axis_name": "From curiosity about patience to profound spiritual friendship",
+        "pole_start": "Jane first sees Helen as intriguing, strange, and emotionally distant, though morally compelling.",
+        "pole_end": "Jane ends with Helen as a beloved memory and moral exemplar whose influence remains intimate after death.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Curious attraction",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Jane is drawn to Helen's composure and inwardness but resists her philosophy of endurance and forgiveness.",
+            "key_moments": [
+              "First conversations at Lowood",
+              "Debate over endurance and forgiveness"
+            ]
+          },
+          {
+            "phase": "Deepening attachment",
+            "chapter_range": [
+              7,
+              9
+            ],
+            "position_description": "Helen becomes Jane's closest emotional and intellectual companion at Lowood; Jane admires her courage and is devastated by her illness.",
+            "key_moments": [
+              "Helen's silent support during Brocklehurst's humiliation",
+              "Helen's deathbed night"
+            ]
+          },
+          {
+            "phase": "Internalized memory",
+            "chapter_range": [
+              9,
+              38
+            ],
+            "position_description": "Helen's death leaves Jane with a lasting moral inheritance: endurance, inward dignity, and a model of spiritual composure she never fully imitates but never forgets.",
+            "key_moments": [
+              "Helen dies in Jane's arms",
+              "Jane later recalls moral lessons of patience and faith",
+              "Helen remains a touchstone in Jane's understanding of suffering"
+            ]
+          }
+        ],
+        "evidence_summary": "Helen is Jane's first profound intimate friend and moral counterpoint. Their relationship ends in death, but its psychological force persists throughout the novel."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Jane Eyre",
+        "target_character": "Miss Temple",
+        "dimension_label": "Trust-Authority",
+        "axis_name": "From tentative reliance to sustaining trust in humane authority",
+        "pole_start": "Jane initially has no secure trust in authority figures, expecting punishment or hypocrisy.",
+        "pole_end": "Jane ends with Miss Temple as a lasting model of just, nurturing authority, though the relationship remains limited by distance and time.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "First refuge",
+            "chapter_range": [
+              3,
+              8
+            ],
+            "position_description": "Miss Temple becomes the first adult Jane can trust to tell the truth and restore her dignity.",
+            "key_moments": [
+              "Mr. Lloyd's recommendation",
+              "Miss Temple's investigation and vindication"
+            ]
+          },
+          {
+            "phase": "Internalized model",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Jane experiences Miss Temple's departure as a loss of moral atmosphere and a reason to seek her own path.",
+            "key_moments": [
+              "Miss Temple leaving Lowood",
+              "Jane deciding to become a governess"
+            ]
+          }
+        ],
+        "evidence_summary": "Miss Temple matters less as a continuing relationship than as a template for humane authority. Jane's trust in her helps repair Jane's damaged sense of reality and worth."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Jane Eyre",
+        "target_character": "Edward Rochester",
+        "dimension_label": "Love-Trust",
+        "axis_name": "From wary curiosity to reciprocal marital love",
+        "pole_start": "Jane begins with curiosity and caution toward Rochester, intrigued by his roughness and mystery but not yet attached.",
+        "pole_end": "Jane ends in settled, reciprocal, companionate love, with trust and intimacy restored after crisis and transformed into marriage.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Curious attraction",
+            "chapter_range": [
+              11,
+              14
+            ],
+            "position_description": "Jane is fascinated by Rochester's intelligence and strangeness, while still guarding her judgment.",
+            "key_moments": [
+              "First meetings at Thornfield",
+              "Long conversations and moral probing"
+            ]
+          },
+          {
+            "phase": "Deep attachment",
+            "chapter_range": [
+              15,
+              19
+            ],
+            "position_description": "Her attachment intensifies through the fire rescue, Rochester's confidences, and the jealousy of Blanche Ingram.",
+            "key_moments": [
+              "Fire episode",
+              "Blanche Ingram's arrival",
+              "Gipsy interview"
+            ]
+          },
+          {
+            "phase": "Crisis and rupture",
+            "chapter_range": [
+              20,
+              27
+            ],
+            "position_description": "Suspicion of secrecy, the revelation of Bertha Mason, and the interrupted wedding destroy trust and force separation.",
+            "key_moments": [
+              "Night crisis at Thornfield",
+              "Wedding interruption",
+              "Jane's departure"
+            ]
+          },
+          {
+            "phase": "Return and fulfillment",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "Jane returns to Rochester after his ruin, and love becomes mutual, equal, and stable in marriage.",
+            "key_moments": [
+              "Rochester's cry heard at Moor House",
+              "Reunion at Ferndean",
+              "Married domestic life"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Jane's central relational arc: fascination becomes love, love is shattered by deception, and then restored in a morally transformed form after suffering and separation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Jane Eyre",
+        "target_character": "St. John Rivers",
+        "dimension_label": "Respect-Resistance",
+        "axis_name": "From gratitude and admiration to firm refusal of coercive duty",
+        "pole_start": "Jane begins grateful to St. John as a rescuer and respectful of his strength, intelligence, and seriousness.",
+        "pole_end": "Jane ends respecting him still, but resisting his spiritual coercion and refusing to marry without love.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Rescue and respect",
+            "chapter_range": [
+              28,
+              30
+            ],
+            "position_description": "St. John is a protector and capable guide, though already emotionally cold and unsettling.",
+            "key_moments": [
+              "Jane's rescue at Moor House",
+              "Schoolmistress position at Morton"
+            ]
+          },
+          {
+            "phase": "Growing unease",
+            "chapter_range": [
+              31,
+              34
+            ],
+            "position_description": "Jane sees his hidden suffering and severity more clearly, while his authority becomes increasingly oppressive.",
+            "key_moments": [
+              "His scrutiny of Jane",
+              "His proposal and pressure to go to India"
+            ]
+          },
+          {
+            "phase": "Open refusal",
+            "chapter_range": [
+              35,
+              36
+            ],
+            "position_description": "Jane rejects his marriage proposal and his version of duty, choosing conscience and selfhood over self-sacrifice.",
+            "key_moments": [
+              "Refusal of loveless marriage",
+              "Rochester's mysterious call"
+            ]
+          }
+        ],
+        "evidence_summary": "St. John is a crucial counterforce in the novel. Jane's relation to him moves from gratitude to resistance as she recognizes that duty without love would annihilate her."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Jane Eyre",
+        "target_character": "Diana Rivers",
+        "dimension_label": "Gratitude-Sisterhood",
+        "axis_name": "From rescue gratitude to chosen sisterly belonging",
+        "pole_start": "Jane first experiences Diana as a kind rescuer and trustworthy stranger.",
+        "pole_end": "Jane ends with Diana as a beloved sister and intimate member of her chosen family.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Immediate trust",
+            "chapter_range": [
+              28,
+              29
+            ],
+            "position_description": "Diana's warmth and practical care restore Jane's sense of safety and dignity.",
+            "key_moments": [
+              "Admission into the Rivers household",
+              "Jane's recovery from starvation"
+            ]
+          },
+          {
+            "phase": "Sisterly intimacy",
+            "chapter_range": [
+              30,
+              33
+            ],
+            "position_description": "Shared conversation, affection, and kinship deepen into genuine family feeling.",
+            "key_moments": [
+              "Jane's life at Moor House",
+              "Discovery of kinship and inheritance"
+            ]
+          },
+          {
+            "phase": "Enduring bond",
+            "chapter_range": [
+              34,
+              38
+            ],
+            "position_description": "Diana becomes part of Jane's moral and emotional home, supporting her choices and blessing her marriage.",
+            "key_moments": [
+              "Diana's support during St. John's pressure",
+              "Jane's final settled happiness"
+            ]
+          }
+        ],
+        "evidence_summary": "Diana is one of the novel's clearest examples of restorative female kinship. The relationship develops from rescue into chosen sisterhood."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_07",
+        "source_character": "Jane Eyre",
+        "target_character": "Mary Rivers",
+        "dimension_label": "Warmth-Belonging",
+        "axis_name": "From grateful acquaintance to intimate family attachment",
+        "pole_start": "Jane initially sees Mary as gentle and trustworthy, but less vivid than Diana.",
+        "pole_end": "Jane ends with Mary as a cherished sister and part of her stable domestic circle.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Gentle trust",
+            "chapter_range": [
+              28,
+              30
+            ],
+            "position_description": "Mary's quiet kindness helps Jane recover and feel human again.",
+            "key_moments": [
+              "Jane's admission to Moor House",
+              "Recovery and conversation"
+            ]
+          },
+          {
+            "phase": "Sustained sisterhood",
+            "chapter_range": [
+              31,
+              38
+            ],
+            "position_description": "Mary becomes part of the family Jane chooses and helps sustain through letters, visits, and mutual affection.",
+            "key_moments": [
+              "Inheritance and reunion",
+              "Final domestic settlement"
+            ]
+          }
+        ],
+        "evidence_summary": "Mary's arc is less dramatic than Diana's, but still meaningful: Jane moves from gratitude to genuine family belonging."
+      }
+    ]
+  },
+  "Edward Rochester": {
+    "character": "Edward Rochester",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From guarded mastery to humbled interdependence",
+            "set_b_axis": "From commanding self-mastery to mutual interdependence",
+            "overlap_description": "Both describe Rochester moving from dominance, secrecy, and control toward a more reciprocal, dependent, and humble mode of relating by the novel's end."
+          },
+          {
+            "set_a_axis": "From self-justifying fatalism to penitential acceptance",
+            "set_b_axis": "From guarded concealment to repentant disclosure",
+            "overlap_description": "Both capture Rochester's shift away from defensive self-protection toward moral openness, confession, and acceptance of guilt and suffering."
+          },
+          {
+            "set_a_axis": "From ironic control to exposed vulnerability",
+            "set_b_axis": "From restless self-ruin to redeemed domestic peace",
+            "overlap_description": "Both track the collapse of Rochester's emotional defenses and his movement from turbulence and concealment toward a quieter, more vulnerable, and settled end-state."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-justifying fatalism to penitential acceptance",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From guarded concealment to repentant disclosure",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From restless self-ruin to redeemed domestic peace",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From testing authority to humbled reciprocity",
+            "set_b_axis": "From testing authority to mutual, though unequal, intimacy",
+            "overlap_description": "Both describe the Rochester-Jane relationship moving from scrutiny, asymmetry, and control toward intimacy, dependence, and a more mutual bond."
+          },
+          {
+            "set_a_axis": "From hidden burden to acknowledged moral catastrophe",
+            "set_b_axis": "From hidden burden to openly acknowledged catastrophe",
+            "overlap_description": "Both track Bertha Mason as a concealed marital fact that becomes public catastrophe and a central source of Rochester's ruin and moral reckoning."
+          },
+          {
+            "set_a_axis": "From performative courtship to instrumental deception",
+            "set_b_axis": "From social flirtation to exposed instrumentalism",
+            "overlap_description": "Both identify Rochester's relation to Blanche Ingram as a social performance that is later revealed to be strategic, manipulative, and non-genuine."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From uneasy acquaintance to hostile witness",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From guarded reliance to secretive containment",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From guarded mastery to mutual interdependence",
+        "pole_start": "Rochester begins as a highly agentic, self-assertive, controlling figure who values secrecy, mastery, and emotional independence, using authority and performance to dominate his household and relationships.",
+        "pole_end": "He ends as a humbled, receptive, and still-active partner who accepts care, dependence, intimacy, and shared life with Jane without needing to dominate the bond.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Mastery and control",
+            "chapter_range": [
+              11,
+              20
+            ],
+            "position_description": "Rochester is introduced as a commanding household presence: brusque, testing, secretive, and invested in controlling information, social scenes, and emotional distance.",
+            "key_moments": [
+              "First encounter on the lane after the horse slips",
+              "Drawing-room questioning of Jane",
+              "Late-night probing conversations and confessional fragments",
+              "Gipsy disguise and management of the Mason crisis"
+            ]
+          },
+          {
+            "phase": "Possessive intimacy",
+            "chapter_range": [
+              21,
+              25
+            ],
+            "position_description": "His agency becomes fused with attachment. He seeks Jane's confidence and love, but also tries to shape her future, manage her appearance, and keep relational power through secrecy and emotional pressure.",
+            "key_moments": [
+              "Pressing Jane to accept money and future support",
+              "Testing her with the Blanche Ingram courtship",
+              "Open proposal and engagement",
+              "Attempts to dress and arrange Jane according to his wishes",
+              "Concealment of Bertha and the veil incident"
+            ]
+          },
+          {
+            "phase": "Collapse and chastening",
+            "chapter_range": [
+              26,
+              27
+            ],
+            "position_description": "Public exposure destroys his controlling self-image. He is forced into anguish, remorse, and recognition that he cannot possess Jane through deception or force.",
+            "key_moments": [
+              "Briggs exposes the existing marriage at the church",
+              "Jane refuses to become his mistress",
+              "Jane leaves and Rochester is left in anguish"
+            ]
+          },
+          {
+            "phase": "Humbled dependence and renewed mutuality",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "After bodily ruin and Jane's return, Rochester is no longer the masterful controller. He accepts dependence, repentance, and care, and the relationship becomes reciprocal and spiritually softened.",
+            "key_moments": [
+              "Loss of eye and hand, then full blindness",
+              "Jane's return to Ferndean and his ecstatic recognition of her",
+              "Repentance and interpretation of suffering as divine chastening",
+              "Partial recovery of sight and shared future with Jane"
+            ]
+          }
+        ],
+        "evidence_summary": "Rochester's arc is defined by the tension between dominance and attachment. He begins controlling and self-protective, moves into possessive emotional dependence, is broken by exposure and loss, and ends in a more humbled, interdependent mode of being."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "secrecy-honesty",
+        "axis_name": "From guarded concealment to repentant disclosure",
+        "pole_start": "Rochester begins deeply secretive and compartmentalized, withholding the truth about his past, his household, and his intentions while managing others through performance and selective revelation.",
+        "pole_end": "He ends more open, morally candid, and confessionally oriented, able to name guilt, accept judgment, and live without the same need for concealment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Controlled opacity",
+            "chapter_range": [
+              11,
+              20
+            ],
+            "position_description": "He conceals his inner life and domestic secrets, revealing only fragments to Jane while keeping Bertha, Grace Poole, and his marital history hidden.",
+            "key_moments": [
+              "Enigmatic offstage presence at Thornfield",
+              "Late-night partial confessions",
+              "Fire secrecy",
+              "Gipsy disguise",
+              "Mason crisis managed in private"
+            ]
+          },
+          {
+            "phase": "Strategic deception",
+            "chapter_range": [
+              22,
+              26
+            ],
+            "position_description": "His secrecy hardens into active deception: he stages the Blanche Ingram courtship, withholds the truth from Jane, and tries to force the marriage forward before disclosure becomes unavoidable.",
+            "key_moments": [
+              "Maintains ambiguity about Blanche",
+              "Proposes to Jane while concealing the legal truth",
+              "Attempts to proceed with wedding despite bigamy"
+            ]
+          },
+          {
+            "phase": "Forced confession",
+            "chapter_range": [
+              26,
+              27
+            ],
+            "position_description": "When exposed, he is compelled into direct admission of the truth. He can no longer sustain concealment and begins to speak more openly about his past and guilt.",
+            "key_moments": [
+              "Bertha revealed at the altar",
+              "Admits the marriage is invalid",
+              "Explains his past and ruined hopes to Jane"
+            ]
+          },
+          {
+            "phase": "Repentant openness",
+            "chapter_range": [
+              37,
+              38
+            ],
+            "position_description": "At Ferndean he is no longer defined by concealment; he accepts vulnerability, speaks with moral clarity, and lives within a more transparent emotional and spiritual frame.",
+            "key_moments": [
+              "Acknowledges divine chastisement",
+              "Accepts Jane's knowledge of his broken state",
+              "Lives in settled domestic openness"
+            ]
+          }
+        ],
+        "evidence_summary": "A major throughline of Rochester's arc is the collapse of secrecy. He moves from manipulation and compartmentalization to confession, repentance, and a more honest relational life."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-judgment",
+        "axis_name": "From self-justifying fatalism to humbled repentance",
+        "pole_start": "Rochester begins by minimizing wrongdoing, framing his conduct as error, fate, or circumstance, and protecting his self-image through wit, fatalism, and blame-shifting.",
+        "pole_end": "He ends in genuine repentance, interpreting suffering as deserved correction and accepting moral accountability before God and Jane.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Partial self-critique",
+            "chapter_range": [
+              14,
+              20
+            ],
+            "position_description": "He admits regret and shame, but still turns self-criticism into self-dramatization and excuses his conduct as shaped by destiny or bad luck.",
+            "key_moments": [
+              "Calls his past a misuse of life",
+              "Describes himself as worldly and restless",
+              "Frames wrongdoing as an error rather than a crime"
+            ]
+          },
+          {
+            "phase": "Defensive escalation",
+            "chapter_range": [
+              23,
+              27
+            ],
+            "position_description": "His rationalization hardens under pressure. He insists his love for Jane justifies exceptional action, blames Bertha and circumstance, and resists full moral reckoning even after the wedding collapses.",
+            "key_moments": [
+              "Claims Jane is his equal and therefore his rightful partner",
+              "Justifies the Blanche deception",
+              "Blames Bertha and social fraud for his ruin"
+            ]
+          },
+          {
+            "phase": "Repentant humility",
+            "chapter_range": [
+              37,
+              38
+            ],
+            "position_description": "He finally accepts suffering as morally meaningful, not merely unfortunate. He speaks in the language of chastisement, mercy, and gratitude, showing a more stable repentance than earlier self-reproach.",
+            "key_moments": [
+              "Interprets blindness and loss as divine correction",
+              "Expresses gratitude and moral humility",
+              "Accepts dependence without shame"
+            ]
+          }
+        ],
+        "evidence_summary": "Rochester's self-understanding evolves from defensive rationalization to genuine repentance. The shift is incomplete in the middle of the novel but becomes clear and durable by the end."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "despair-renewal",
+        "axis_name": "From restless self-ruin to redeemed domestic peace",
+        "pole_start": "Rochester begins emotionally restless, brooding, and inwardly damaged, with his life marked by shame, jealousy, and unresolved burden.",
+        "pole_end": "He ends in stable, grateful contentment, with suffering transformed into a basis for intimacy, humility, and peace.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Restless dissatisfaction",
+            "chapter_range": [
+              14,
+              20
+            ],
+            "position_description": "He is emotionally volatile, brooding, and dissatisfied with his past and present, even when witty or affectionate.",
+            "key_moments": [
+              "Confessional late-night talk",
+              "Fire scene",
+              "Mason crisis"
+            ]
+          },
+          {
+            "phase": "Crisis and collapse",
+            "chapter_range": [
+              26,
+              36
+            ],
+            "position_description": "His emotional world breaks apart after the failed wedding and Thornfield's destruction. He is left in grief, isolation, blindness, and likely despair.",
+            "key_moments": [
+              "Wedding exposed as invalid",
+              "Jane leaves",
+              "Thornfield burns",
+              "Rochester is left blind at Ferndean"
+            ]
+          },
+          {
+            "phase": "Renewed peace",
+            "chapter_range": [
+              37,
+              38
+            ],
+            "position_description": "Jane's return reanimates him, and the novel closes with a settled, grateful happiness that replaces earlier turbulence.",
+            "key_moments": [
+              "Jane returns to Ferndean",
+              "He is joyfully revived",
+              "Marriage becomes a stable domestic reality"
+            ]
+          }
+        ],
+        "evidence_summary": "Rochester's emotional arc is not linear improvement but a collapse followed by renewal. The ending is quieter and more integrated than the beginning, with suffering converted into peace."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Edward Rochester",
+        "target_character": "Jane Eyre",
+        "dimension_label": "control-mutuality",
+        "axis_name": "From testing authority to mutual intimacy",
+        "pole_start": "Rochester begins by treating Jane as a subordinate to be assessed, tested, and managed, with curiosity but little emotional openness.",
+        "pole_end": "He ends in a deeply intimate marriage marked by affection, trust, dependence, and shared domestic life, with his possessive streak reduced though not erased.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Testing curiosity",
+            "chapter_range": [
+              12,
+              13
+            ],
+            "position_description": "He questions Jane's background and drawings, using authority and scrutiny rather than vulnerability.",
+            "key_moments": [
+              "First direct meeting",
+              "Questions Jane about her life and art"
+            ]
+          },
+          {
+            "phase": "Confessional attachment",
+            "chapter_range": [
+              14,
+              20
+            ],
+            "position_description": "He increasingly trusts Jane as a confidante and moral witness, drawing her into private conversation and relying on her emotional steadiness.",
+            "key_moments": [
+              "Late-night confession",
+              "Fire rescue",
+              "Mason crisis and gipsy disguise"
+            ]
+          },
+          {
+            "phase": "Possessive courtship",
+            "chapter_range": [
+              22,
+              27
+            ],
+            "position_description": "His attachment becomes openly romantic and possessive. He seeks to bind Jane to him through marriage, but also tries to control the terms of her knowledge and consent.",
+            "key_moments": [
+              "Open proposal",
+              "Wedding interruption",
+              "Attempts to persuade Jane to stay after the revelation"
+            ]
+          },
+          {
+            "phase": "Mutual domesticity",
+            "chapter_range": [
+              37,
+              38
+            ],
+            "position_description": "Their relationship settles into reciprocal love and care. He depends on Jane physically and emotionally, while she freely chooses him as husband and companion.",
+            "key_moments": [
+              "Jane returns to Ferndean",
+              "He accepts her guidance",
+              "Stable married life"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Rochester's central relational arc: Jane moves from being an object of scrutiny and desire to a chosen partner whose presence reorganizes his emotional and moral life."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Edward Rochester",
+        "target_character": "Bertha Mason",
+        "dimension_label": "concealment-confrontation",
+        "axis_name": "From hidden burden to openly acknowledged catastrophe",
+        "pole_start": "Bertha begins as a concealed, managed secret: Rochester treats her as something to hide, contain, and keep out of public and moral view.",
+        "pole_end": "She ends as the openly acknowledged catastrophe at the center of his ruined marriage and destroyed life, though he still frames her in dehumanizing terms.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hidden containment",
+            "chapter_range": [
+              15,
+              25
+            ],
+            "position_description": "Bertha is kept secret through Grace Poole, locked spaces, and Rochester's evasions. She is a source of fear and concealment rather than direct confrontation.",
+            "key_moments": [
+              "Fire at Thornfield",
+              "Grace Poole's suspicious role",
+              "Veil incident",
+              "Repeated evasions about the third storey"
+            ]
+          },
+          {
+            "phase": "Public revelation",
+            "chapter_range": [
+              26,
+              27
+            ],
+            "position_description": "At the altar, Bertha is revealed as the legal obstacle to marriage and the embodied truth Rochester can no longer suppress.",
+            "key_moments": [
+              "Mr. Mason and Mr. Briggs expose the marriage",
+              "Bertha is brought into view",
+              "Rochester admits the bigamy"
+            ]
+          },
+          {
+            "phase": "Tragic aftermath",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "After Thornfield's destruction, Bertha becomes the catastrophic force that has ended his former life. Rochester's relation to her is now one of tragic consequence and moral ruin.",
+            "key_moments": [
+              "Thornfield burns",
+              "Rochester is blinded and maimed",
+              "His life is reconstituted only after her death"
+            ]
+          }
+        ],
+        "evidence_summary": "Bertha's relation to Rochester is defined by concealment, then revelation, then catastrophic aftermath. The arc is less about emotional development than about the collapse of a secret structure of control."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Edward Rochester",
+        "target_character": "Blanche Ingram",
+        "dimension_label": "performance-deception",
+        "axis_name": "From social flirtation to exposed instrumentalism",
+        "pole_start": "Rochester begins by appearing publicly flirtatious and potentially interested, using Blanche as part of his social performance and as a possible cover for his private life.",
+        "pole_end": "He ends as clearly detached and instrumental, with Blanche revealed as a decoy or social mask rather than a genuine romantic attachment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Public courtship performance",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "He courts Blanche in company, apparently as a serious suitor, while Jane and the reader suspect a strategic or theatrical purpose.",
+            "key_moments": [
+              "Socializing at the Leas",
+              "Flirtation in front of guests",
+              "Jane's growing jealousy"
+            ]
+          },
+          {
+            "phase": "Strategic deception",
+            "chapter_range": [
+              19,
+              23
+            ],
+            "position_description": "The Blanche courtship is increasingly revealed as a performance designed to test Jane, manage society, and conceal his true attachment.",
+            "key_moments": [
+              "Gipsy disguise",
+              "Continued ambiguity about engagement",
+              "Open proposal to Jane reveals Blanche is not the true intended bride"
+            ]
+          },
+          {
+            "phase": "Discarded mask",
+            "chapter_range": [
+              24,
+              26
+            ],
+            "position_description": "Blanche loses all romantic centrality once Jane accepts him and the marriage plot collapses. She is exposed as part of the machinery of deception rather than a real beloved.",
+            "key_moments": [
+              "Wedding preparations with Jane",
+              "Marriage interruption",
+              "Blanche no longer matters after exposure"
+            ]
+          }
+        ],
+        "evidence_summary": "Rochester's relation to Blanche is not a true love arc but a performance arc. It moves from apparent courtship to revealed instrumental use."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Edward Rochester",
+        "target_character": "Mr. Mason",
+        "dimension_label": "threat-management",
+        "axis_name": "From latent threat to hostile witness",
+        "pole_start": "Mason begins as a socially distant figure whose arrival signals the return of Rochester's buried past.",
+        "pole_end": "He ends as a hostile witness and source of exposure, associated with dread, injury, and the collapse of Rochester's secrecy.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Latent threat",
+            "chapter_range": [
+              18,
+              19
+            ],
+            "position_description": "Mason's arrival unsettles Rochester because it signals that the past is returning in embodied form.",
+            "key_moments": [
+              "Mason arrives from Jamaica",
+              "Rochester's shock when Jane mentions Mason"
+            ]
+          },
+          {
+            "phase": "Containment and confrontation",
+            "chapter_range": [
+              19,
+              26
+            ],
+            "position_description": "Rochester tries to control Mason privately, but Mason's presence ultimately contributes to the public exposure of Rochester's marriage and disgrace.",
+            "key_moments": [
+              "Private summoning of Mason",
+              "Nocturnal crisis and injury",
+              "Wedding interruption and testimony"
+            ]
+          }
+        ],
+        "evidence_summary": "Mason functions as the living return of Rochester's past and a catalyst for his collapse."
+      }
+    ]
+  },
+  "Mrs. Reed": {
+    "character": "Mrs. Reed",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From controlling household authority to isolated deathbed confession",
+            "set_b_axis": "From cold domestic dominance to weakened, partial relational openness",
+            "overlap_description": "Both describe the same core arc: Mrs. Reed begins as a controlling, emotionally separate authority figure and ends in a late, illness-driven confession that softens her stance only partially."
+          },
+          {
+            "set_a_axis": "From unexamined righteousness to partial guilt without full repentance",
+            "set_b_axis": "From unexamined righteousness to partial guilt without full repentance",
+            "overlap_description": "These are essentially identical: Mrs. Reed moves from self-justifying moral certainty to belated acknowledgment of wrongdoing, but never reaches full repentance or transformation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From controlling household authority to isolated deathbed confession",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From controlled detachment to destabilized vulnerability",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From punitive exclusion to reluctant deathbed confession",
+            "set_b_axis": "From punitive rejection to partial confession",
+            "overlap_description": "Both track the Jane-Mrs. Reed relationship from harsh exclusion and punishment to a final, incomplete confession that does not become genuine reconciliation."
+          },
+          {
+            "set_a_axis": "From protected favoritism to troubled disapproval",
+            "set_b_axis": "From indulgent favoritism to resentful estrangement",
+            "overlap_description": "Both identify a second relationship arc involving Mrs. Reed's favored child(ren), beginning in preferential protection and ending in strain, disappointment, and weakened approval."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From protected favoritism to troubled disapproval",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From indulgent favoritism to resentful estrangement",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From cold domestic dominance to weakened, partial relational openness",
+        "pole_start": "Strongly agency-coded: self-assertive, controlling, hierarchical, and emotionally separate, using authority to dominate the household and exclude Jane.",
+        "pole_end": "Still largely agency-coded, but softened by illness and deathbed confession into a limited, reluctant communion: vulnerable, dependent, and briefly willing to acknowledge Jane as a moral witness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Established household dominance",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Mrs. Reed begins as a firmly agency-dominant figure, enforcing hierarchy, punishing Jane, and preserving household order through exclusion and institutional transfer.",
+            "key_moments": [
+              "Excludes Jane from the family circle and sends her to the red-room",
+              "Treats Jane's fear as manipulation and maintains punitive control",
+              "Arranges Jane's removal to Lowood and sustains the household narrative of superiority"
+            ]
+          },
+          {
+            "phase": "Persistent emotional distance",
+            "chapter_range": [
+              7,
+              20
+            ],
+            "position_description": "She remains psychologically fixed in separation and self-protection, with no evidence of warmth, repair, or mutuality; her authority is absent in practice but still felt in memory.",
+            "key_moments": [
+              "Refuses further involvement in Jane's affairs in chapter 10",
+              "Continues to be remembered as cold, punitive, and self-justifying",
+              "Shows no meaningful movement toward relational responsibility"
+            ]
+          },
+          {
+            "phase": "Illness-driven vulnerability",
+            "chapter_range": [
+              21,
+              21
+            ],
+            "position_description": "Physical decline weakens her dominance and destabilizes her emotional control, producing fear, agitation, and a brief opening toward confession and moral witness.",
+            "key_moments": [
+              "Seeks Jane out on her deathbed",
+              "Oscillates between lucidity and distress",
+              "Admits wrongdoing and acknowledges Jane as someone she wronged"
+            ]
+          },
+          {
+            "phase": "Terminal withdrawal",
+            "chapter_range": [
+              22,
+              38
+            ],
+            "position_description": "After death, the arc effectively ends; what remains is a fixed memory of incomplete remorse rather than any further development toward communion.",
+            "key_moments": [
+              "Jane reflects on Mrs. Reed's death and funeral",
+              "No further psychological development is possible after death"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs. Reed's intrapersonal arc is limited but real: she moves from cold, controlling authority toward a brief, illness-induced vulnerability that permits confession. The change is not a full moral or emotional conversion, but a weakening of agency and a partial opening that remains incomplete."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "moral self-justification",
+        "axis_name": "From unexamined righteousness to partial guilt without full repentance",
+        "pole_start": "Fully self-justifying: she believes her harshness is proper discipline and sees herself as morally correct.",
+        "pole_end": "Partially self-aware: she recognizes specific wrongs and feels guilt, but remains defensive, resentful, and unable to integrate remorse into genuine moral change.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Moral certainty",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Mrs. Reed consistently frames herself as justified, treating Jane's suffering as deserved correction and refusing to question her own conduct.",
+            "key_moments": [
+              "Sends Jane to the red-room as punishment",
+              "Interprets Jane's distress as deceit or artifice",
+              "Uses Brocklehurst and Lowood as validation for her judgment"
+            ]
+          },
+          {
+            "phase": "Crack in certainty",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Jane's direct accusation briefly unsettles her, but the discomfort does not become reflection; it only exposes a momentary crack in her moral certainty.",
+            "key_moments": [
+              "Shows fear and discomfort when Jane invokes the dead Reed family",
+              "Briefly appears shaken by Jane's forceful accusation"
+            ]
+          },
+          {
+            "phase": "Deathbed acknowledgment",
+            "chapter_range": [
+              21,
+              21
+            ],
+            "position_description": "She finally admits wrongdoing, including blocking Jane's inheritance and future, but the confession is mixed with defensiveness and self-protection rather than full repentance.",
+            "key_moments": [
+              "Confesses to Jane in her final illness",
+              "Acknowledges she wronged Jane twice",
+              "Admits hatred was rooted in fixed dislike and mortification"
+            ]
+          },
+          {
+            "phase": "Incomplete closure",
+            "chapter_range": [
+              22,
+              38
+            ],
+            "position_description": "Her guilt remains the last meaningful moral movement, but it is not developed into repair or transformation; she is remembered as remorseful yet unresolved.",
+            "key_moments": [
+              "Jane reflects on her funeral and death",
+              "No further opportunity for restitution or moral revision"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs. Reed's moral arc runs from total self-justification to partial guilt. The late confession matters, but it never becomes sustained repentance or ethical change, leaving her as a figure of belated but incomplete recognition."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "emotional rigidity",
+        "axis_name": "From controlled detachment to destabilized vulnerability",
+        "pole_start": "Emotionally closed, cold, and composed; she suppresses sympathy and maintains a disciplined surface.",
+        "pole_end": "Physically and emotionally weakened, with fear, regret, irritation, and delirium breaking through her former composure.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Composed coldness",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Her emotional life is tightly controlled and flattened into punitive authority; she shows irritation but little visible vulnerability.",
+            "key_moments": [
+              "Calmly enforces Jane's exclusion",
+              "Responds to Jane's distress with punishment rather than comfort",
+              "Maintains a self-satisfied maternal posture toward her own children"
+            ]
+          },
+          {
+            "phase": "Persistent emotional distance",
+            "chapter_range": [
+              7,
+              20
+            ],
+            "position_description": "Even when absent, she remains defined by emotional withholding and refusal of attachment or responsibility.",
+            "key_moments": [
+              "Curtly declines involvement in Jane's affairs in chapter 10",
+              "Continues to be recalled as cold and rejecting"
+            ]
+          },
+          {
+            "phase": "Breakdown under illness",
+            "chapter_range": [
+              21,
+              21
+            ],
+            "position_description": "Illness destabilizes her emotional control, producing fear, agitation, guilt, and moments of lucidity that puncture her habitual detachment.",
+            "key_moments": [
+              "Oscillates between stupor and lucidity",
+              "Feels fear and discomfort",
+              "Confesses wrongdoing to Jane"
+            ]
+          },
+          {
+            "phase": "Posthumous fixity",
+            "chapter_range": [
+              22,
+              38
+            ],
+            "position_description": "After death, emotional movement ceases; what remains is the memory of a woman whose rigidity only briefly gave way to vulnerability.",
+            "key_moments": [
+              "Jane reflects on her death",
+              "No further emotional development"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs. Reed remains emotionally closed for most of the narrative, but chapter 21 introduces a meaningful destabilization. This axis captures the shift from rigid composure to brief, terminal vulnerability."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Mrs. Reed",
+        "target_character": "Jane Eyre",
+        "dimension_label": "hostility-remorse",
+        "axis_name": "From punitive rejection to partial confession",
+        "pole_start": "Cold, punitive, distrustful, and morally dismissive; Jane is treated as an inferior child whose suffering is deserved.",
+        "pole_end": "Still emotionally distant, but capable of brief remorse and acknowledgment of wrongdoing before death.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Active rejection",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Mrs. Reed treats Jane as a problem to be controlled, not a child to be loved or protected.",
+            "key_moments": [
+              "Sends Jane to the red-room",
+              "Interprets Jane's fear as manipulation",
+              "Arranges Jane's removal to Lowood"
+            ]
+          },
+          {
+            "phase": "Offstage dismissal",
+            "chapter_range": [
+              7,
+              20
+            ],
+            "position_description": "She remains emotionally absent but still functions as a remembered source of exclusion and injustice.",
+            "key_moments": [
+              "Refuses further involvement in Jane's affairs in chapter 10",
+              "Jane continues to remember her as cold and punitive"
+            ]
+          },
+          {
+            "phase": "Deathbed confession",
+            "chapter_range": [
+              21,
+              21
+            ],
+            "position_description": "Her attitude shifts from pure hostility to conflicted remorse: she admits she wronged Jane, though she cannot fully soften into affection.",
+            "key_moments": [
+              "Confesses to Jane",
+              "Admits blocking Jane's inheritance and future",
+              "Shows guilt mixed with defensiveness"
+            ]
+          },
+          {
+            "phase": "Aftermath and closure",
+            "chapter_range": [
+              22,
+              38
+            ],
+            "position_description": "The relationship ends in death and memory; Jane carries the unresolved history forward, but Mrs. Reed can no longer act on it.",
+            "key_moments": [
+              "Jane reflects on her death and funeral",
+              "No further relational repair occurs"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Mrs. Reed's clearest relational arc with Jane: it moves from punitive rejection to a late, partial confession that never becomes genuine intimacy. The change is real but limited, and it occurs only at the end of her life."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Mrs. Reed",
+        "target_character": "Her own children",
+        "dimension_label": "favoritism-disillusion",
+        "axis_name": "From indulgent favoritism to resentful estrangement",
+        "pole_start": "Warm, indulgent, and preferential toward John, Eliza, and Georgiana; she centers them within the family hierarchy.",
+        "pole_end": "By chapter 21, her feelings are more burdened and estranged, especially toward John and the family legacy, with little warmth left and more irritation, resentment, and fatigue.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Favored children",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "She is affectionate and indulgent toward her own children, excusing their faults and reinforcing their privileged status.",
+            "key_moments": [
+              "Protects John and overlooks his cruelty",
+              "Supports Eliza and Georgiana as part of the favored circle"
+            ]
+          },
+          {
+            "phase": "Background strain",
+            "chapter_range": [
+              10,
+              20
+            ],
+            "position_description": "The family bond becomes increasingly administrative rather than loving, with concern over conduct and social standing but little warmth.",
+            "key_moments": [
+              "Bessie reports on household matters and the children's behavior",
+              "Mrs. Reed remains emotionally distant in practical matters"
+            ]
+          },
+          {
+            "phase": "Late-life resentment",
+            "chapter_range": [
+              21,
+              21
+            ],
+            "position_description": "Illness reveals that the family bond has become a source of burden and resentment, especially regarding John, whose destructiveness and financial ruin weigh on her.",
+            "key_moments": [
+              "Describes John as destructive and financially ruinous",
+              "Shows cold detachment toward Eliza and Georgiana"
+            ]
+          }
+        ],
+        "evidence_summary": "This secondary relational axis captures a meaningful but less central shift: Mrs. Reed begins as a preferential mother and ends as a weakened, resentful figure whose family attachments have lost their warmth."
+      }
+    ]
+  },
+  "St. John Rivers": {
+    "character": "St. John Rivers",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From disciplined self-mastery to coercive vocational dominance",
+            "set_b_axis": "From austere self-mastery to mission-bound relational control",
+            "overlap_description": "Both track St. John as strongly agentic, self-disciplined, and increasingly controlling, with vocation becoming a justification for directing others rather than relating reciprocally."
+          },
+          {
+            "set_a_axis": "From repressed feeling to triumphant renunciation",
+            "set_b_axis": "From seamless duty to acknowledged inner conflict",
+            "overlap_description": "Both identify the emergence of desire or inner strain and its repression under duty; the difference is emphasis, with A stressing renunciation as victory and B stressing conflict becoming visible."
+          },
+          {
+            "set_a_axis": "From principled helper to self-authorizing moral director",
+            "set_b_axis": "From opaque certainty to partial self-recognition",
+            "overlap_description": "Both concern his moral self-conception: he begins as a serious, duty-driven authority and becomes more explicit about his hardness and ambition, though not more ethically flexible."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From disciplined self-mastery to coercive vocational dominance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From repressed feeling to triumphant renunciation",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From principled helper to self-authorizing moral director",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From austere self-mastery to mission-bound relational control",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From seamless duty to acknowledged inner conflict",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From opaque certainty to partial self-recognition",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From guarded benefactor to coercive spiritual claimant",
+            "set_b_axis": "From charitable appraisal to coercive mission-binding",
+            "overlap_description": "Both describe the same Jane arc: practical aid and guarded respect give way to increasingly coercive attempts to bind her to his mission and authority."
+          },
+          {
+            "set_a_axis": "From awakened attraction to disciplined refusal",
+            "set_b_axis": "From suppressed attraction to deliberate renunciation",
+            "overlap_description": "Both track St. John’s response to Rosamond as a test of desire versus vocation, ending in conscious renunciation rather than romantic fulfillment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From familial alignment to stable kinship",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From charitable appraisal to coercive mission-binding",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From austere self-mastery to mission-bound relational control",
+        "pole_start": "St. John begins as a highly disciplined, self-contained man whose communion is limited to practical care, kinship duty, and restrained benevolence.",
+        "pole_end": "He ends still agency-dominant, but with that agency hardened into coercive, mission-driven control over others, especially in the name of divine purpose.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Restrained helper and practical authority",
+            "chapter_range": [
+              28,
+              30
+            ],
+            "position_description": "He enters the narrative as calm, ordered, and duty-driven, offering shelter and work to Jane while keeping emotional distance and maintaining command.",
+            "key_moments": [
+              "He shelters Jane and arranges her care",
+              "He helps her find work and offers the schoolmistress post",
+              "He interrogates her background with controlled authority"
+            ]
+          },
+          {
+            "phase": "Self-command under strain",
+            "chapter_range": [
+              30,
+              32
+            ],
+            "position_description": "His self-mastery is shown to be costly: desire, restlessness, and emotional deprivation surface, but he responds by tightening discipline rather than opening toward communion.",
+            "key_moments": [
+              "Chapter 30 reveals inward restlessness",
+              "Rosamond Oliver visibly unsettles him",
+              "He names himself as cold, hard, and ambitious"
+            ]
+          },
+          {
+            "phase": "Moralized control of Jane",
+            "chapter_range": [
+              33,
+              35
+            ],
+            "position_description": "His authority becomes explicitly interpersonal. He reads Jane as a providentially suited instrument, manages her circumstances, and presses marriage as a religious duty.",
+            "key_moments": [
+              "He reveals Jane's inheritance and frames her as family",
+              "He intensifies her lessons and manages her grief",
+              "He proposes marriage as a missionary necessity",
+              "He treats refusal as moral error"
+            ]
+          },
+          {
+            "phase": "Detached vocation, unchanged severity",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "After Jane resists, he does not soften; he withdraws into mission and eschatological certainty, preserving the same hard-edged self-command in a more distant form.",
+            "key_moments": [
+              "He departs on mission",
+              "He remains severe and emotionally reserved",
+              "His final letter presents death as fulfillment"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, St. John is consistently agency-dominant. The merged reading emphasizes that his self-mastery does not mature into healthier reciprocity; it intensifies into mission-bound control, with communion remaining secondary and instrumental."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Duty-Desire",
+        "axis_name": "From disciplined duty to acknowledged but subordinated desire",
+        "pole_start": "He begins organized around duty, religion, and self-denial, with desire largely muted or held in reserve.",
+        "pole_end": "He ends still committed to duty, but with desire and ambition clearly recognized as persistent forces that are never genuinely integrated.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Stable discipline",
+            "chapter_range": [
+              28,
+              29
+            ],
+            "position_description": "Duty appears seamless: he acts as a practical clergyman whose charity is orderly, controlled, and morally framed.",
+            "key_moments": [
+              "He tends Jane's distress through controlled charity",
+              "He frames help as responsibility"
+            ]
+          },
+          {
+            "phase": "Desire becomes visible",
+            "chapter_range": [
+              30,
+              32
+            ],
+            "position_description": "Rosamond Oliver exposes the emotional cost of his self-denial. He experiences attraction, restlessness, and bodily susceptibility, but immediately reasserts vocation.",
+            "key_moments": [
+              "Chapter 30 reveals spiritual unease",
+              "Rosamond stirs visible attraction",
+              "He explicitly calls himself cold and ambitious"
+            ]
+          },
+          {
+            "phase": "Renunciation as self-justification",
+            "chapter_range": [
+              32,
+              35
+            ],
+            "position_description": "He converts desire into proof of discipline, treating renunciation as moral victory and using duty-language to authorize his pressure on Jane.",
+            "key_moments": [
+              "He frames attraction as something to conquer",
+              "He calls Rosamond's engagement a victory",
+              "He proposes marriage as divine duty"
+            ]
+          },
+          {
+            "phase": "Outward steadiness, inward remainder",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "He returns to calm seriousness, but the merged evidence suggests not healing or transformation, only continued suppression and redirection of desire into vocation.",
+            "key_moments": [
+              "He continues missionary work",
+              "He is remembered as severe and utilitarian",
+              "He accepts Jane's marriage without visible upheaval"
+            ]
+          }
+        ],
+        "evidence_summary": "The arc is not a conversion from desire to peace, but a sustained tension in which desire becomes more conscious while duty remains dominant. Renunciation is real, yet it functions more as self-justification than resolution."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Moral Self-Knowledge",
+        "axis_name": "From confident certainty to partial self-recognition",
+        "pole_start": "He begins with opaque certainty: a man who assumes his judgments are morally and spiritually correct.",
+        "pole_end": "He ends with some explicit recognition of his hardness, ambition, and severity, but without deep ethical revision.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Unquestioned authority",
+            "chapter_range": [
+              28,
+              29
+            ],
+            "position_description": "He acts with little self-doubt, overruling others and interrogating Jane as though his moral reading of events were simply authoritative.",
+            "key_moments": [
+              "He overrules Hannah",
+              "He questions Jane with confidence"
+            ]
+          },
+          {
+            "phase": "Self-description and strain",
+            "chapter_range": [
+              30,
+              32
+            ],
+            "position_description": "He begins to name his own restlessness and hardness, especially in relation to Rosamond and the demands of vocation.",
+            "key_moments": [
+              "Chapter 30 exposes inward strain",
+              "He calls himself a cold, hard, ambitious man",
+              "He acknowledges Christianity as redirection rather than erasure"
+            ]
+          },
+          {
+            "phase": "Partial insight, no revision",
+            "chapter_range": [
+              33,
+              38
+            ],
+            "position_description": "He remains aware of his severity but does not see it as morally problematic. His self-knowledge stays bounded by the same principles that justify his control.",
+            "key_moments": [
+              "He continues to pressure Jane as if duty authorizes him",
+              "He shows no recognition of the dehumanizing quality of his courtship",
+              "He remains calm and serious after Jane's marriage"
+            ]
+          }
+        ],
+        "evidence_summary": "The merged evidence supports a limited increase in self-recognition, but not a meaningful ethical transformation. St. John can name his severity; he cannot revise it."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Kinship-Authority",
+        "axis_name": "From bounded helper to family-centered authority",
+        "pole_start": "He begins as a restrained helper whose authority is limited by circumstance and whose kinship ties are not yet fully disclosed.",
+        "pole_end": "He ends with family recognition stabilized, but still under the sign of moral authority rather than mutual intimacy.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Practical aid within distance",
+            "chapter_range": [
+              28,
+              31
+            ],
+            "position_description": "He offers shelter, work, and guidance to Jane while maintaining emotional reserve and a formal, duty-based manner.",
+            "key_moments": [
+              "He shelters Jane",
+              "He helps her find work",
+              "He offers the schoolmistress position"
+            ]
+          },
+          {
+            "phase": "Kinship disclosed and absorbed",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "The revelation of Jane's family connection expands his relational field, but he absorbs kinship into the same framework of order, duty, and moral supervision.",
+            "key_moments": [
+              "Jane is revealed as a cousin",
+              "The inheritance is divided among the cousins",
+              "He continues to frame relations through duty"
+            ]
+          },
+          {
+            "phase": "Stable family field, no intimacy shift",
+            "chapter_range": [
+              35,
+              38
+            ],
+            "position_description": "The family network remains intact and non-conflictual in the background, but it does not soften his governing temperament or create genuine reciprocity.",
+            "key_moments": [
+              "He departs on mission",
+              "Diana remains a stable kinship presence",
+              "His final letter preserves distance"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis is supported mainly by the event-graph reading. It captures the way kinship is disclosed and stabilized without changing St. John’s controlling mode of relation."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "St. John Rivers",
+        "target_character": "Jane Eyre",
+        "dimension_label": "Trust-Control",
+        "axis_name": "From charitable appraisal to coercive mission-binding",
+        "pole_start": "He begins by treating Jane as a vulnerable stranger worthy of aid, respect, and practical support, though still at a distance.",
+        "pole_end": "He ends by treating her as a providentially suited instrument for his mission, pressing her toward submission rather than mutual love.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial aid and assessment",
+            "chapter_range": [
+              28,
+              29
+            ],
+            "position_description": "He admits Jane, questions her background, and helps her find work. The relation is cautious but genuinely protective.",
+            "key_moments": [
+              "He intervenes at the door and shelters Jane",
+              "He questions her history and capabilities",
+              "He plans practical employment for her"
+            ]
+          },
+          {
+            "phase": "Familial recognition and supervision",
+            "chapter_range": [
+              30,
+              33
+            ],
+            "position_description": "As kinship is revealed, he grows more invested, but the warmth is structured by evaluation and control rather than equality.",
+            "key_moments": [
+              "He sees Jane as capable and restless",
+              "He reveals her inheritance",
+              "He manages the disclosure strategically"
+            ]
+          },
+          {
+            "phase": "Coercive courtship",
+            "chapter_range": [
+              34,
+              35
+            ],
+            "position_description": "The relationship hardens into overt pressure: he proposes marriage for missionary service and interprets refusal as spiritual error.",
+            "key_moments": [
+              "He proposes as a missionary husband",
+              "He insists only marriage will do",
+              "He reacts to refusal with coldness and continued pressure"
+            ]
+          },
+          {
+            "phase": "Distance without reconciliation",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "After Jane breaks away, the coercive relationship ends, but not in mutual understanding. He remains serious and distant, and Jane’s later reverence does not restore intimacy.",
+            "key_moments": [
+              "He departs on mission",
+              "Jane receives his final letter with spiritual joy",
+              "The bond remains morally charged but unresolved"
+            ]
+          }
+        ],
+        "evidence_summary": "This is the central relational arc in both sets. St. John moves from protective, evaluative care to coercive spiritual claim-making, and the relationship never becomes mutual in any sustained sense."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "St. John Rivers",
+        "target_character": "Rosamond Oliver",
+        "dimension_label": "Desire-Renunciation",
+        "axis_name": "From awakened attraction to disciplined renunciation",
+        "pole_start": "Rosamond awakens genuine attraction and emotional vulnerability in him, making his repressed desire visible.",
+        "pole_end": "He decisively renounces her as a possible partner and treats the loss as proof of spiritual discipline.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Attraction and disturbance",
+            "chapter_range": [
+              31,
+              32
+            ],
+            "position_description": "Her presence visibly unsettles him; his composure cracks and his emotional hunger becomes apparent.",
+            "key_moments": [
+              "Jane observes him blanched and shaken",
+              "Rosamond's beauty and warmth visibly affect him"
+            ]
+          },
+          {
+            "phase": "Conscious struggle",
+            "chapter_range": [
+              32,
+              34
+            ],
+            "position_description": "He names the force of desire and then reasserts ascetic discipline, converting attraction into a test of vocation.",
+            "key_moments": [
+              "He calls himself cold, hard, and ambitious",
+              "He distinguishes bodily passion from soul commitment",
+              "He frames renunciation as Christian redirection"
+            ]
+          },
+          {
+            "phase": "Displacement into duty",
+            "chapter_range": [
+              33,
+              35
+            ],
+            "position_description": "Rosamond recedes from immediate focus as his attention shifts to Jane and the demands of mission, showing that desire is not resolved so much as redirected.",
+            "key_moments": [
+              "Inheritance disclosure takes center stage",
+              "Marriage pressure on Jane dominates",
+              "Rosamond is no longer central"
+            ]
+          },
+          {
+            "phase": "Aftermath and continued detachment",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "He remains serious and detached, with no sign of renewed romantic pursuit. The renunciation is complete, but not emotionally healed.",
+            "key_moments": [
+              "He continues missionary plans",
+              "He is later described as calm and serious",
+              "No further Rosamond-centered conflict appears"
+            ]
+          }
+        ],
+        "evidence_summary": "Rosamond is the clearest test of St. John’s repressed desire. Both analyses agree that he does not move toward intimacy; he converts attraction into proof of self-denial and then redirects the energy into vocation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "St. John Rivers",
+        "target_character": "Diana Rivers",
+        "dimension_label": "Kinship Solidarity",
+        "axis_name": "From stable family alignment to enduring kinship field",
+        "pole_start": "He begins within a close family structure, with Diana as a trusted moral ally and part of his domestic order.",
+        "pole_end": "He ends with the family bond still stable and widened through Jane’s incorporation, without major conflict or transformation.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Shared domestic and moral alignment",
+            "chapter_range": [
+              28,
+              33
+            ],
+            "position_description": "Diana supports his decisions and his care for Jane, reinforcing trust and intimacy within the household.",
+            "key_moments": [
+              "Diana's compassion aligns with his hospitality",
+              "Diana is revealed as Jane's cousin"
+            ]
+          },
+          {
+            "phase": "Family solidarity through Jane",
+            "chapter_range": [
+              33,
+              38
+            ],
+            "position_description": "The kinship network is confirmed and widened; Diana remains part of a stable moral family rather than a site of tension.",
+            "key_moments": [
+              "The inheritance is divided among the cousins",
+              "Jane's later reverence implies enduring family connection"
+            ]
+          }
+        ],
+        "evidence_summary": "Diana is not a major site of conflict for St. John, but she represents a stable kinship field that contrasts with his coercive bond to Jane and his renounced desire for Rosamond."
+      }
+    ]
+  },
+  "Helen Burns": {
+    "character": "Helen Burns",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From inward self-surrender to spiritually grounded communion",
+            "set_b_axis": "From inward self-containment to spiritually fused relational care",
+            "overlap_description": "Both describe Helen as consistently communion-oriented rather than agentic, with the arc emphasizing deepening spiritualized relationality and self-effacing moral presence."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From disciplined endurance to fully settled religious transcendence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From bodily frailty to sanctified detachment",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From disciplined endurance to fully settled religious transcendence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From bodily frailty to sanctified detachment",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From admired classmate to intimate spiritual companion",
+            "set_b_axis": "From guarded acquaintance to intimate spiritual companionship",
+            "overlap_description": "Both track Helen's relationship with Jane from initial reserve/distance to intimate, spiritually inflected companionship, especially through comfort, instruction, memory, and deathbed closeness."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From punitive authority to morally rejected oppressor",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From respectful esteem to warm grateful attachment",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From inward self-containment to spiritually grounded communion",
+        "pole_start": "Helen begins strongly on the communion side: she is quiet, reserved, patient under suffering, and oriented toward moral fellowship rather than self-assertion or control.",
+        "pole_end": "She remains on the communion side, but in a more transcendent form: her endurance becomes explicit spiritual trust, and her presence is figured as consoling, guiding, and relationally fused with Jane's inner life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Quiet reserve and endurance",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Helen is already low in agency and high in communion: she prefers reading and privacy, answers Jane patiently, and accepts punishment without protest.",
+            "key_moments": [
+              "First meeting in the verandah",
+              "Helen's patient, restrained replies",
+              "Acceptance of punishment and humiliation"
+            ]
+          },
+          {
+            "phase": "Moral and spiritual instruction",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "Her communion becomes more explicit through comfort, forgiveness, and moral guidance. She supports Jane emotionally while remaining non-assertive and inwardly composed.",
+            "key_moments": [
+              "Explains forgiveness and endurance",
+              "Smiles and glances at Jane during humiliation",
+              "Offers calm moral support"
+            ]
+          },
+          {
+            "phase": "Transcendent companionship",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "Helen's communion is spiritualized into a posthumous, protective presence: she comforts Jane at death, promises reunion with God, and persists in memory and dream as a guide.",
+            "key_moments": [
+              "Comforts Jane while dying",
+              "Says she is going to God",
+              "Reappears in memory and dream as a guide"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Helen shows little to no movement toward agency; instead, the arc deepens an already established posture of quiet, spiritually grounded communion that becomes more transcendent after death."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Faith-Transcendence",
+        "axis_name": "From disciplined endurance to fully settled religious transcendence",
+        "pole_start": "Helen begins with embodied Christian patience: she accepts suffering, values forgiveness, and treats endurance as a moral and spiritual discipline lived in the present.",
+        "pole_end": "She ends in complete transcendence: death is peaceful reunion with God, free of fear or resentment, and her spiritual certainty continues as guidance beyond earthly life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Endurance as lived faith",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Helen's faith is first shown through composure under punishment and her insistence on forgiveness rather than retaliation.",
+            "key_moments": [
+              "Accepts punishment without complaint",
+              "Explains retaliation as morally wrong",
+              "Frames suffering as spiritually meaningful"
+            ]
+          },
+          {
+            "phase": "Faith made luminous",
+            "chapter_range": [
+              7,
+              8
+            ],
+            "position_description": "Her religious outlook remains stable but becomes more vivid, expansive, and intellectually radiant, especially in the shelter of Miss Temple's room.",
+            "key_moments": [
+              "Conversation in Miss Temple's room",
+              "Helen's calm under humiliation",
+              "Visible warmth and spiritual poise"
+            ]
+          },
+          {
+            "phase": "Completed transcendence",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "Helen dies calmly, speaks of going to God, and continues to appear in Jane's memory and dream as a moral and spiritual guide.",
+            "key_moments": [
+              "Dies peacefully beside Jane",
+              "Promises reunion in a future state",
+              "Appears in memory and dream as a heavenly guide"
+            ]
+          }
+        ],
+        "evidence_summary": "Helen's faith does not radically change, but it deepens from disciplined endurance into fully internalized transcendence, making her a stable yet increasingly luminous spiritual presence."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Body-Spirit",
+        "axis_name": "From bodily frailty to sanctified detachment",
+        "pole_start": "Helen begins as a physically vulnerable child whose calmness coexists with fatigue, cough, and sadness.",
+        "pole_end": "She ends as a figure whose bodily life has receded, leaving only serene spiritual presence and posthumous influence.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Frailty beneath composure",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "Helen's body is increasingly marked by fragility even as her mind remains calm and spiritually poised.",
+            "key_moments": [
+              "Public punishment",
+              "Coughing and sighs in Miss Temple's room",
+              "Jane senses sadness beneath her tranquility"
+            ]
+          },
+          {
+            "phase": "Death and afterlife",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "Her physical decline ends in death, after which she persists only as memory and dream-vision in Jane's inner life.",
+            "key_moments": [
+              "Helen dies peacefully",
+              "Jane remembers her during later crises",
+              "Helen appears in a dream as a guiding presence"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures the bodily dimension of Helen's arc: not a psychological reversal, but a progressive withdrawal from embodied life into sanctified memory and symbolic presence."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Helen Burns",
+        "target_character": "Jane Eyre",
+        "dimension_label": "Distance-Intimacy",
+        "axis_name": "From guarded acquaintance to intimate spiritual companionship",
+        "pole_start": "Helen begins as a reserved, mildly distant peer who values solitude and limits conversation, though she is already quietly sympathetic to Jane.",
+        "pole_end": "She ends as a deeply trusted moral companion, comforter, and spiritual guide in Jane's inner life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cautious opening",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Helen is polite but guarded; she answers Jane patiently, then withdraws when Jane presses too much.",
+            "key_moments": [
+              "First meeting in the verandah",
+              "Helen prefers reading and privacy",
+              "Jane's curiosity meets Helen's reserve"
+            ]
+          },
+          {
+            "phase": "Mentor-like closeness",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "The relationship warms into trust and moral intimacy as Helen explains her beliefs and comforts Jane during humiliation.",
+            "key_moments": [
+              "Explains forgiveness and endurance",
+              "Comforts Jane after punishment",
+              "Jane is drawn to Helen's calm and wisdom"
+            ]
+          },
+          {
+            "phase": "Intimate spiritual bond",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "After Helen's death, Jane continues to experience her as a consoling inner presence through memory and dream, making the bond less social but more spiritually intimate.",
+            "key_moments": [
+              "Helen comforts Jane on her deathbed",
+              "Jane remembers Helen during later crises",
+              "Helen appears in Jane's dream as a guide"
+            ]
+          }
+        ],
+        "evidence_summary": "Helen's relationship with Jane intensifies from reserve to profound intimacy, expressed through moral instruction, consolation, memory, and dream rather than ordinary companionship."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Helen Burns",
+        "target_character": "Miss Scatcherd",
+        "dimension_label": "Antagonism-Esteem",
+        "axis_name": "From punitive authority to morally rejected oppressor",
+        "pole_start": "Miss Scatcherd is a disciplinary authority who exerts coercive power over Helen and embodies public shame and humiliation.",
+        "pole_end": "She remains a degrading and antagonistic oppressor whose cruelty is never openly resisted by Helen but is morally rejected by the narrative and by Helen's inward stance.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Established disciplinary hostility",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Miss Scatcherd's punishments define the relationship as one of authority, shame, and coercion.",
+            "key_moments": [
+              "Public punishments",
+              "Helen's composure under discipline"
+            ]
+          },
+          {
+            "phase": "Internalized submission under hostility",
+            "chapter_range": [
+              7,
+              8
+            ],
+            "position_description": "The relationship remains antagonistic, but Helen's response shifts toward resignation and self-blame rather than resistance.",
+            "key_moments": [
+              "Helen accepts punishment as deserved",
+              "Ongoing humiliation without open conflict"
+            ]
+          }
+        ],
+        "evidence_summary": "Helen's relation to Miss Scatcherd is stable rather than dynamic: the power structure remains antagonistic, with the main change occurring in Helen's increasing resignation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Helen Burns",
+        "target_character": "Miss Temple",
+        "dimension_label": "Admiration-Attachment",
+        "axis_name": "From respectful esteem to warm grateful attachment",
+        "pole_start": "Helen begins with strong respect for Miss Temple as a humane and capable authority figure.",
+        "pole_end": "She ends with sustained grateful attachment and emotional nourishment from Miss Temple's kindness.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful admiration",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Helen already regards Miss Temple as the best teacher and a morally superior presence.",
+            "key_moments": [
+              "Helen identifies Miss Temple as the best teacher",
+              "She aligns herself with Miss Temple's gentler authority"
+            ]
+          },
+          {
+            "phase": "Warm attachment",
+            "chapter_range": [
+              8,
+              9
+            ],
+            "position_description": "In Miss Temple's room, Helen becomes visibly animated and emotionally sustained by her presence, suggesting a deeper attachment than simple respect.",
+            "key_moments": [
+              "Helen brightens in Miss Temple's room",
+              "She is sheltered and cared for there",
+              "Her conversation becomes more expansive and alive"
+            ]
+          }
+        ],
+        "evidence_summary": "Helen's bond with Miss Temple develops from admiration into warm attachment, showing that she is responsive to humane kindness even while remaining spiritually detached."
+      }
+    ]
+  }
+}

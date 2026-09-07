@@ -1,0 +1,712 @@
+{
+  "character": "Dr. Livesey",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From detached authority to embedded command ally",
+          "set_b_axis": "From civic authority to cooperative leadership",
+          "overlap_description": "Both describe Livesey moving from a solitary, authoritative civic figure toward a more collaborative leadership role within the loyal coalition."
+        },
+        {
+          "set_a_axis": "From confident discernment to wary, evidence-based judgment",
+          "set_b_axis": "From moral indignation to disciplined wartime realism",
+          "overlap_description": "Both track a shift from early confidence in moral/social judgment toward a more cautious, pragmatic, evidence-based stance under the pressure of betrayal and crisis."
+        },
+        {
+          "set_a_axis": "From healer of bodies to strategist under fire",
+          "set_b_axis": "From unruffled calm to tested but resilient strain",
+          "overlap_description": "Both capture Livesey's adaptation to crisis: his professional identity broadens into tactical leadership, while his composure is tested but remains intact."
+        },
+        {
+          "set_a_axis": "From humane restraint to hard-edged necessity",
+          "set_b_axis": "From moral indignation to disciplined wartime realism",
+          "overlap_description": "Both emphasize Livesey's movement toward harder, more realistic decisions in wartime, while retaining humane limits."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From detached authority to embedded command ally",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From confident discernment to wary, evidence-based judgment",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From healer of bodies to strategist under fire",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From humane restraint to hard-edged necessity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From civic authority to cooperative leadership",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From moral indignation to disciplined wartime realism",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unruffled calm to tested but resilient strain",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From reassuring adult to trusted guardian",
+          "set_b_axis": "From benevolent adult to trusted guardian and ally",
+          "overlap_description": "Both describe the Jim relationship as deepening from protective adult guidance into a durable bond of trust and alliance."
+        },
+        {
+          "set_a_axis": "From cautious respect to full strategic alliance",
+          "set_b_axis": "From respectful caution to full tactical partnership",
+          "overlap_description": "Both present Livesey and Smollett as moving from mutual respect into a stable command partnership."
+        },
+        {
+          "set_a_axis": "From misplaced approval to strategic hostility",
+          "set_b_axis": "From surface civility to wary strategic engagement",
+          "overlap_description": "Both track the Silver relationship from early misreading to hard distrust, with limited tactical engagement later."
+        },
+        {
+          "set_a_axis": "From restrained skepticism to disciplined partnership",
+          "set_b_axis": "From cordial confidence to restrained correction",
+          "overlap_description": "Both show Livesey maintaining respect for Trelawney while increasingly correcting his impulsiveness and relying on him only within a disciplined crisis context."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From clinical concern to legal antagonism",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From reassuring adult to trusted guardian",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From restrained skepticism to disciplined partnership",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From misplaced approval to strategic hostility",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unknown oddity to valued ally",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From benevolent adult to trusted guardian and ally",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From respectful caution to full tactical partnership",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From cordial confidence to restrained correction",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From surface civility to wary strategic engagement",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From neutral acceptance to confirmed trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From civic authority to cooperative command leadership",
+      "pole_start": "Strongly self-possessed and authoritative: Livesey begins as a magistrate-doctor who asserts order through calm mastery, legal standing, and professional control.",
+      "pole_end": "A disciplined coalition leader: still authoritative, but now embedded in mutual dependence with Smollett, Trelawney, Jim, Gray, and other loyal allies.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Establishing authority",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Livesey starts from a position of detached civic authority, confronting Billy Bones, stabilizing crises medically, and acting as a calm organizer from outside the main conflict.",
+          "key_moments": [
+            "Ch. 1: warns Billy Bones as magistrate and asserts legal oversight",
+            "Ch. 2: treats Billy Bones while maintaining professional distance",
+            "Ch. 6: manages Jim and the packet with composed authority"
+          ]
+        },
+        {
+          "phase": "Strategic cooperation",
+          "chapter_range": [
+            6,
+            13
+          ],
+          "position_description": "He remains highly agentic, but begins working through shared planning and secrecy, joining the expedition and aligning with Smollett's caution rather than relying on solitary judgment.",
+          "key_moments": [
+            "Ch. 6: agrees to the expedition and stresses secrecy",
+            "Ch. 9-12: coordinates with Smollett and helps manage the mutiny threat",
+            "Ch. 13: participates in the cabin council and accepts tactical delay"
+          ]
+        },
+        {
+          "phase": "Coalition leadership",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "Under siege, Livesey becomes fully embedded in a shared command structure. His authority now functions through teamwork, shared risk, and practical loyalty rather than detached oversight.",
+          "key_moments": [
+            "Ch. 16: helps organize evacuation of supplies and arms",
+            "Ch. 18-22: coordinates defense, assigns roles, and functions as battlefield leader",
+            "Ch. 33-34: remains steady within the loyal group through victory and departure"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey never loses authority, but the novel shifts him from solitary civic oversight toward cooperative wartime leadership. The strongest synthesis of both analyses is a movement from detached command to embedded command."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Trust Calibration",
+      "axis_name": "From confident discernment to disciplined, evidence-based judgment",
+      "pole_start": "He begins with strong confidence in his ability to read people and situations, assuming that calm observation and gentlemanly discernment can identify character reliably.",
+      "pole_end": "He ends as a more cautious but better-calibrated judge, trusting only provisionally and grounding conclusions in repeated evidence, strategic necessity, and hard experience.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early confidence",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "Livesey initially trusts his own reading of people too readily at times, even while correctly identifying obvious threats like Billy Bones.",
+          "key_moments": [
+            "Ch. 1-3: identifies Billy Bones as dangerous and commits to surveillance",
+            "Ch. 8: endorses Silver as suitable, showing confidence in discernment",
+            "Ch. 9: tentatively credits Silver and the captain as honest men"
+          ]
+        },
+        {
+          "phase": "Betrayal and recalibration",
+          "chapter_range": [
+            11,
+            14
+          ],
+          "position_description": "The apple-barrel overhearing and the widening mutiny force him to abandon naive trust in appearances and adopt a more skeptical, evidence-driven judgment.",
+          "key_moments": [
+            "Ch. 11: overhears Silver manipulating crewmen and sees the mask drop",
+            "Ch. 11-12: realizes the mutiny is broader and deadlier than expected",
+            "Ch. 14: violence confirms that trust in the pirates is impossible"
+          ]
+        },
+        {
+          "phase": "Provisional trust under siege",
+          "chapter_range": [
+            15,
+            34
+          ],
+          "position_description": "He does not become cynical across the board; instead, he learns to trust selectively, especially Jim, Smollett, Gray, and Ben Gunn, while maintaining hard distrust of Silver and the mutineers.",
+          "key_moments": [
+            "Ch. 15: accepts Ben Gunn as a possible ally",
+            "Ch. 16-22: repeatedly validates loyal men through action",
+            "Ch. 34: finalizes his judgment that Silver is self-serving and dangerous"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey's arc is not from trust to distrust in general, but from overconfidence in personal discernment to disciplined, evidence-based trust. Silver's betrayal is the key turning point."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Medical-Warrior",
+      "axis_name": "From healer of bodies to strategist under fire",
+      "pole_start": "He begins as a physician whose authority comes from diagnosis, treatment, and moral steadiness rather than combat or command.",
+      "pole_end": "He ends as a hybrid healer-strategist who can treat wounds, make tactical decisions, and function effectively in violent conflict.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Medical authority",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Livesey's identity is initially grounded in medicine and civic order: he treats Billy Bones, gives preventive advice, and manages danger through professional calm.",
+          "key_moments": [
+            "Ch. 2: saves Billy Bones from collapse and prescribes rest and abstinence",
+            "Ch. 6: feeds and protects Jim while examining the packet"
+          ]
+        },
+        {
+          "phase": "Strategic expansion",
+          "chapter_range": [
+            9,
+            19
+          ],
+          "position_description": "As the mutiny threat grows, he begins thinking like a military planner: securing arms, supporting the captain, and helping shape defensive strategy.",
+          "key_moments": [
+            "Ch. 9: helps convert the ship into a defensive stronghold",
+            "Ch. 12-13: participates in war councils",
+            "Ch. 16-19: organizes supplies and endorses attritional survival tactics"
+          ]
+        },
+        {
+          "phase": "Battlefield competence",
+          "chapter_range": [
+            20,
+            34
+          ],
+          "position_description": "He fully inhabits a wartime role, including sentry duty, direct combat, triage, and hard choices about enemies and survivors. Medicine remains central, but now as part of a larger survival practice.",
+          "key_moments": [
+            "Ch. 20: takes a defensive watch",
+            "Ch. 21: engages in close-quarters fighting",
+            "Ch. 22 and 30: tends the wounded while also acting strategically",
+            "Ch. 34: supports abandoning the mutineers with limited provisions"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey's professional identity broadens rather than disappears. He remains a doctor, but the novel steadily converts him into a crisis leader whose healing role coexists with tactical violence and command."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Mercy-Resolve",
+      "axis_name": "From humane restraint to disciplined wartime realism",
+      "pole_start": "He begins with a humane, orderly temperament that prefers prevention, restraint, and lawful containment over punishment or violence.",
+      "pole_end": "He ends with a morally burdened but firm acceptance that harsh measures, including abandonment and armed resistance, are sometimes necessary for the greater good.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Restrained humanitarianism",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Livesey's early responses emphasize care, legality, and containment rather than vengeance. Even when he condemns Billy Bones, he frames the response in terms of duty and medical management.",
+          "key_moments": [
+            "Ch. 2: treats Billy Bones and recommends rest rather than punishment",
+            "Ch. 6: protects Jim and handles the packet carefully"
+          ]
+        },
+        {
+          "phase": "Hardening under siege",
+          "chapter_range": [
+            11,
+            21
+          ],
+          "position_description": "As Silver's treachery becomes clear and violence escalates, Livesey's moral reasoning hardens. He accepts that enemies may need to be outlasted, fought, and denied mercy in practical terms.",
+          "key_moments": [
+            "Ch. 11-14: realizes the mutiny is murderous",
+            "Ch. 19: endorses attrition warfare",
+            "Ch. 21: fights directly in the stockade assault"
+          ]
+        },
+        {
+          "phase": "Disciplined mercy",
+          "chapter_range": [
+            22,
+            34
+          ],
+          "position_description": "By the end, he is neither cruel nor naive. He can pity the abandoned mutineers while still supporting the decision to leave them behind, showing a mature balance of compassion and necessity.",
+          "key_moments": [
+            "Ch. 22: continues to heal while pursuing strategy",
+            "Ch. 34: supports leaving supplies for the marooned mutineers but not rescuing them"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey does not become less humane; he becomes more capable of bearing the moral cost of hard decisions. His mercy is increasingly disciplined by survival logic."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Composure-Intensity",
+      "axis_name": "From unruffled calm to tested but resilient strain",
+      "pole_start": "Cool, composed, and almost unshakably controlled, with little visible fear or emotional volatility.",
+      "pole_end": "Still composed, but now visibly burdened by grief, fatigue, and pressure while remaining functional and steady.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Baseline composure",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Livesey is consistently brisk, calm, and professionally detached, even in sudden danger.",
+          "key_moments": [
+            "faces Billy Bones without panic",
+            "treats the collapse clinically",
+            "remains steady during the expedition's preparations"
+          ]
+        },
+        {
+          "phase": "Pressure and grief",
+          "chapter_range": [
+            16,
+            19
+          ],
+          "position_description": "The siege and Tom Redruth's death expose strain, but he channels it into action rather than breakdown.",
+          "key_moments": [
+            "worries for Jim during evacuation",
+            "responds to the stockade crisis",
+            "grieves Tom Redruth",
+            "keeps working despite exhaustion"
+          ]
+        },
+        {
+          "phase": "Controlled relief",
+          "chapter_range": [
+            20,
+            34
+          ],
+          "position_description": "He remains under pressure but becomes more openly relieved as the loyal party gains the upper hand. His emotional life stays disciplined, with satisfaction and pity replacing earlier tension.",
+          "key_moments": [
+            "withstands Silver's parley",
+            "stays calm through battle",
+            "shows relief after the mutiny breaks",
+            "pities the defeated mutineers"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey is not emotionally transformed in a dramatic way, but the novel tests his composure repeatedly. The result is a stable, resilient temperament that absorbs strain without losing clarity."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Dr. Livesey",
+      "target_character": "Jim Hawkins",
+      "dimension_label": "Protective Trust",
+      "axis_name": "From benevolent adult to trusted guardian and ally",
+      "pole_start": "Respectful, benevolent adult presence with high esteem but limited intimacy at the outset.",
+      "pole_end": "Deeply trusted protector and tactical ally, with sustained affection, confidence, and shared purpose.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial benevolence",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Livesey is already seen as safe, respectable, and protective, but the bond is still mostly adult-to-child and not yet collaborative.",
+          "key_moments": [
+            "Jim admires him as a reassuring adult",
+            "Livesey is invoked as household protection",
+            "Jim instinctively wants to bring him the mysterious papers"
+          ]
+        },
+        {
+          "phase": "Trusted inclusion",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "Livesey begins treating Jim as capable and trustworthy, bringing him into the circle of secrecy and action.",
+          "key_moments": [
+            "keeps Jim close during the papers discovery",
+            "trusts Jim with information and caution",
+            "uses Jim as an observer and messenger"
+          ]
+        },
+        {
+          "phase": "Protective solidarity",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "Under siege, the relationship becomes more mutual: Livesey is protective, but Jim is also a valued ally whose safety and usefulness matter to the whole loyal party.",
+          "key_moments": [
+            "is alarmed when Jim goes missing",
+            "worries about Jim during evacuation",
+            "continues to treat Jim as brave and reliable"
+          ]
+        },
+        {
+          "phase": "Moral seriousness and affection",
+          "chapter_range": [
+            30,
+            34
+          ],
+          "position_description": "Livesey is disappointed by Jim's disobedience but remains forgiving, morally serious, and warmly protective. The bond is now both ethical and affectionate.",
+          "key_moments": [
+            "responds to Jim's parole situation with concern rather than anger",
+            "speaks to Jim with practical compassion",
+            "continues to value Jim as a brave, earnest boy"
+          ]
+        }
+      ],
+      "evidence_summary": "This is one of Livesey's strongest relational arcs: Jim moves from admired child to trusted junior ally. The relationship deepens in trust, intimacy, and mutual reliance without losing its protective asymmetry."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Dr. Livesey",
+      "target_character": "Captain Smollett",
+      "dimension_label": "Command Trust",
+      "axis_name": "From respectful caution to full tactical partnership",
+      "pole_start": "Respectful but not yet fully aligned, with Livesey as the steadier observer and Smollett as a new authority figure.",
+      "pole_end": "Deep professional trust and tactical partnership, with Livesey openly deferring to Smollett's command in crisis.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial respect",
+          "chapter_range": [
+            8,
+            10
+          ],
+          "position_description": "Livesey recognizes Smollett as competent and increasingly preferable to the squire's impulsiveness.",
+          "key_moments": [
+            "accepts Smollett's practical warnings",
+            "grows more skeptical of Trelawney",
+            "endorses defensive precautions"
+          ]
+        },
+        {
+          "phase": "Shared suspicion and planning",
+          "chapter_range": [
+            12,
+            17
+          ],
+          "position_description": "As mutiny becomes undeniable, Livesey and Smollett operate as a unified command center, with Livesey supporting the captain's tactical judgment.",
+          "key_moments": [
+            "coordinates around Jim's warning",
+            "supports the stockade plan",
+            "follows Smollett's leadership during evacuation"
+          ]
+        },
+        {
+          "phase": "Confirmed partnership",
+          "chapter_range": [
+            18,
+            34
+          ],
+          "position_description": "Their alliance hardens into full trust. Livesey repeatedly treats Smollett as the central tactical authority and measures his own role against the captain's discipline.",
+          "key_moments": [
+            "judges Smollett a better man than himself",
+            "relies on Smollett in battle",
+            "works with him through the final recovery and departure"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett becomes Livesey's clearest adult counterpart: disciplined, practical, and trustworthy. Their relationship evolves into a stable command partnership grounded in mutual respect."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Dr. Livesey",
+      "target_character": "Squire Trelawney",
+      "dimension_label": "Corrective Respect",
+      "axis_name": "From cordial confidence to restrained correction",
+      "pole_start": "Warm respect and shared expedition purpose, with Livesey treating Trelawney as a valued social superior and ally.",
+      "pole_end": "Continued respect, but with clearer awareness of Trelawney's impulsiveness and need for discipline.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cordial alliance",
+          "chapter_range": [
+            5,
+            8
+          ],
+          "position_description": "Livesey works smoothly with Trelawney and values his energy, but already sees the need to temper him.",
+          "key_moments": [
+            "coordinates on the expedition",
+            "handles Trelawney's enthusiasm with tact",
+            "keeps plans secret from careless talk"
+          ]
+        },
+        {
+          "phase": "Growing correction",
+          "chapter_range": [
+            9,
+            13
+          ],
+          "position_description": "As danger mounts, Livesey becomes more openly corrective, especially when Trelawney's judgment or temper threatens discipline.",
+          "key_moments": [
+            "interrupts Trelawney's overtalking",
+            "privately aligns with Smollett's caution",
+            "treats Trelawney as well-meaning but careless"
+          ]
+        },
+        {
+          "phase": "Crisis solidarity",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "The crisis softens tension: Livesey remains the steadier mind, but Trelawney is now a fellow loyalist whose grief and courage are accepted without contempt.",
+          "key_moments": [
+            "works with Trelawney in the stockade",
+            "accepts his remorse and grief",
+            "maintains practical camaraderie through the end"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey never loses respect for Trelawney, but he increasingly sees him as impulsive and in need of correction. The relationship stays cordial, with tension moderated by shared loyalty."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Dr. Livesey",
+      "target_character": "Long John Silver",
+      "dimension_label": "Suspicion-Management",
+      "axis_name": "From surface civility to wary strategic engagement",
+      "pole_start": "Initially willing to judge Silver by appearances and practical competence, with only limited trust.",
+      "pole_end": "Deeply distrustful but strategically attentive, recognizing Silver's intelligence, adaptability, and bargaining power without granting real confidence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Pragmatic openness",
+          "chapter_range": [
+            8,
+            10
+          ],
+          "position_description": "Livesey is briefly willing to credit Silver's apparent honesty and competence, though this remains cautious and provisional.",
+          "key_moments": [
+            "gives Silver cautious surface approval",
+            "continues to monitor him indirectly",
+            "does not yet fully read him as the central threat"
+          ]
+        },
+        {
+          "phase": "Confirmed suspicion",
+          "chapter_range": [
+            12,
+            20
+          ],
+          "position_description": "Silver's duplicity becomes clear, and Livesey's attitude hardens into moral repulsion and tactical wariness.",
+          "key_moments": [
+            "recognizes Silver as a manipulator",
+            "treats his civility as dangerous",
+            "supports defensive measures against him"
+          ]
+        },
+        {
+          "phase": "Strategic containment",
+          "chapter_range": [
+            28,
+            34
+          ],
+          "position_description": "Livesey no longer expects trust, but he does recognize Silver as someone who can be negotiated with, threatened, or temporarily managed through hope and self-interest.",
+          "key_moments": [
+            "engages Silver in bargaining",
+            "uses conditional mercy and legal pressure",
+            "keeps Silver alive under supervision after the crisis"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey's relationship with Silver is not one of trust but of increasingly sophisticated strategic management. He moves from cautious openness to hard suspicion, then to controlled, tactical engagement."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Dr. Livesey",
+      "target_character": "Ben Gunn",
+      "dimension_label": "Suspicion-Alliance",
+      "axis_name": "From unknown oddity to valued ally",
+      "pole_start": "He begins with no direct relationship and only the possibility of an unknown islander being a threat or curiosity.",
+      "pole_end": "He ends regarding Ben Gunn as a trusted and useful ally whose local knowledge materially helps the loyal party.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Emergent possibility",
+          "chapter_range": [
+            15,
+            20
+          ],
+          "position_description": "Ben Gunn enters Livesey's strategic world as a potentially crucial helper, and his usefulness becomes increasingly clear.",
+          "key_moments": [
+            "Jim discovers Ben Gunn and his hidden boat",
+            "Livesey infers that Gunn has already attacked the pirates"
+          ]
+        },
+        {
+          "phase": "Confirmed usefulness",
+          "chapter_range": [
+            20,
+            34
+          ],
+          "position_description": "Livesey's confidence in Gunn solidifies as the loyal side benefits from Gunn's actions and knowledge.",
+          "key_moments": [
+            "realizes Gunn has weakened the mutineers",
+            "the final outcome indirectly validates Gunn's role in the loyal victory"
+          ]
+        }
+      ],
+      "evidence_summary": "Ben Gunn is not a central emotional relationship, but he becomes a meaningful strategic ally. The arc is real, though narrower than Livesey's major interpersonal shifts."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Dr. Livesey",
+      "target_character": "Gray",
+      "dimension_label": "Earned Confidence",
+      "axis_name": "From neutral acceptance to confirmed trust",
+      "pole_start": "Gray begins as a practical subordinate figure with limited personal significance.",
+      "pole_end": "A trusted and respected loyalist whose competence and steadiness are clearly valued.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Functional acceptance",
+          "chapter_range": [
+            7,
+            16
+          ],
+          "position_description": "Livesey treats Gray as part of the expedition's working structure, with no strong personal bond yet.",
+          "key_moments": [
+            "Gray functions as part of the loyal party",
+            "Livesey includes him in practical arrangements"
+          ]
+        },
+        {
+          "phase": "Battle-confirmed trust",
+          "chapter_range": [
+            17,
+            22
+          ],
+          "position_description": "Gray proves himself in crisis, and Livesey's regard warms into genuine confidence and approval.",
+          "key_moments": [
+            "Gray helps in the defense",
+            "Livesey accepts him as dependable",
+            "Gray's loyalty is confirmed in action"
+          ]
+        }
+      ],
+      "evidence_summary": "Gray is a smaller but meaningful relational gain: Livesey's trust becomes more explicit once Gray proves himself under pressure."
+    }
+  ]
+}

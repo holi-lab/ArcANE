@@ -1,0 +1,603 @@
+{
+  "novel": "He Knew He Was Right",
+  "character": "emily_trevelyan",
+  "judge_model": "deepseek/deepseek-v4-flash",
+  "score_scale": 100,
+  "by_model": {
+    "deepseek/deepseek-v4-flash": {
+      "vanilla": {
+        "ptf_alignment": 55.625,
+        "ptf_direction": 50.625,
+        "ptf_shape": 45.0,
+        "average": 50.417,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 55.625,
+            "ptf_direction": 50.625,
+            "ptf_shape": 45.0,
+            "average": 50.417,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 61.875,
+        "ptf_direction": 58.125,
+        "ptf_shape": 52.5,
+        "average": 57.5,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 61.875,
+            "ptf_direction": 58.125,
+            "ptf_shape": 52.5,
+            "average": 57.5,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 66.25,
+        "ptf_direction": 62.5,
+        "ptf_shape": 56.875,
+        "average": 61.875,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 66.25,
+            "ptf_direction": 62.5,
+            "ptf_shape": 56.875,
+            "average": 61.875,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 53.125,
+        "ptf_direction": 47.5,
+        "ptf_shape": 43.75,
+        "average": 48.125,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 53.125,
+            "ptf_direction": 47.5,
+            "ptf_shape": 43.75,
+            "average": 48.125,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 58.75,
+        "ptf_direction": 56.25,
+        "ptf_shape": 50.0,
+        "average": 55.0,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 58.75,
+            "ptf_direction": 56.25,
+            "ptf_shape": 50.0,
+            "average": 55.0,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 65.0,
+        "ptf_direction": 60.0,
+        "ptf_shape": 54.375,
+        "average": 59.792,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 65.0,
+            "ptf_direction": 60.0,
+            "ptf_shape": 54.375,
+            "average": 59.792,
+            "n": 8
+          }
+        }
+      }
+    },
+    "deepseek/deepseek-v4-pro": {
+      "vanilla": {
+        "ptf_alignment": 58.125,
+        "ptf_direction": 53.125,
+        "ptf_shape": 48.125,
+        "average": 53.125,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 58.125,
+            "ptf_direction": 53.125,
+            "ptf_shape": 48.125,
+            "average": 53.125,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 63.125,
+        "ptf_direction": 58.125,
+        "ptf_shape": 53.125,
+        "average": 58.125,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 63.125,
+            "ptf_direction": 58.125,
+            "ptf_shape": 53.125,
+            "average": 58.125,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 51.25,
+        "ptf_direction": 43.75,
+        "ptf_shape": 40.0,
+        "average": 45.0,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 51.25,
+            "ptf_direction": 43.75,
+            "ptf_shape": 40.0,
+            "average": 45.0,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 67.5,
+        "ptf_direction": 62.5,
+        "ptf_shape": 56.875,
+        "average": 62.292,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 67.5,
+            "ptf_direction": 62.5,
+            "ptf_shape": 56.875,
+            "average": 62.292,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 63.125,
+        "ptf_direction": 56.875,
+        "ptf_shape": 51.25,
+        "average": 57.083,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 63.125,
+            "ptf_direction": 56.875,
+            "ptf_shape": 51.25,
+            "average": 57.083,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 71.875,
+        "ptf_direction": 65.625,
+        "ptf_shape": 61.875,
+        "average": 66.458,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 71.875,
+            "ptf_direction": 65.625,
+            "ptf_shape": 61.875,
+            "average": 66.458,
+            "n": 8
+          }
+        }
+      }
+    },
+    "Qwen/Qwen3-8B": {
+      "vanilla": {
+        "ptf_alignment": 35.625,
+        "ptf_direction": 31.875,
+        "ptf_shape": 26.25,
+        "average": 31.25,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 35.625,
+            "ptf_direction": 31.875,
+            "ptf_shape": 26.25,
+            "average": 31.25,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 40.625,
+        "ptf_direction": 35.625,
+        "ptf_shape": 30.625,
+        "average": 35.625,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 40.625,
+            "ptf_direction": 35.625,
+            "ptf_shape": 30.625,
+            "average": 35.625,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 38.125,
+        "ptf_direction": 33.125,
+        "ptf_shape": 27.5,
+        "average": 32.917,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 38.125,
+            "ptf_direction": 33.125,
+            "ptf_shape": 27.5,
+            "average": 32.917,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 36.875,
+        "ptf_direction": 31.875,
+        "ptf_shape": 27.5,
+        "average": 32.083,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 36.875,
+            "ptf_direction": 31.875,
+            "ptf_shape": 27.5,
+            "average": 32.083,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 35.0,
+        "ptf_direction": 31.25,
+        "ptf_shape": 25.625,
+        "average": 30.625,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 35.0,
+            "ptf_direction": 31.25,
+            "ptf_shape": 25.625,
+            "average": 30.625,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 34.375,
+        "ptf_direction": 30.625,
+        "ptf_shape": 25.625,
+        "average": 30.208,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 34.375,
+            "ptf_direction": 30.625,
+            "ptf_shape": 25.625,
+            "average": 30.208,
+            "n": 8
+          }
+        }
+      }
+    },
+    "Qwen/Qwen3-32B": {
+      "vanilla": {
+        "ptf_alignment": 41.25,
+        "ptf_direction": 37.5,
+        "ptf_shape": 31.875,
+        "average": 36.875,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 41.25,
+            "ptf_direction": 37.5,
+            "ptf_shape": 31.875,
+            "average": 36.875,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 41.875,
+        "ptf_direction": 39.375,
+        "ptf_shape": 33.125,
+        "average": 38.125,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 41.875,
+            "ptf_direction": 39.375,
+            "ptf_shape": 33.125,
+            "average": 38.125,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 41.25,
+        "ptf_direction": 36.25,
+        "ptf_shape": 31.25,
+        "average": 36.25,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 41.25,
+            "ptf_direction": 36.25,
+            "ptf_shape": 31.25,
+            "average": 36.25,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 45.625,
+        "ptf_direction": 40.0,
+        "ptf_shape": 35.625,
+        "average": 40.417,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 45.625,
+            "ptf_direction": 40.0,
+            "ptf_shape": 35.625,
+            "average": 40.417,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 41.25,
+        "ptf_direction": 40.0,
+        "ptf_shape": 33.125,
+        "average": 38.125,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 41.25,
+            "ptf_direction": 40.0,
+            "ptf_shape": 33.125,
+            "average": 38.125,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 51.25,
+        "ptf_direction": 51.25,
+        "ptf_shape": 43.75,
+        "average": 48.75,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 51.25,
+            "ptf_direction": 51.25,
+            "ptf_shape": 43.75,
+            "average": 48.75,
+            "n": 8
+          }
+        }
+      }
+    },
+    "arcane-8B-dpo": {
+      "vanilla": {
+        "ptf_alignment": 32.5,
+        "ptf_direction": 30.0,
+        "ptf_shape": 24.375,
+        "average": 28.958,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 32.5,
+            "ptf_direction": 30.0,
+            "ptf_shape": 24.375,
+            "average": 28.958,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 33.125,
+        "ptf_direction": 29.375,
+        "ptf_shape": 23.75,
+        "average": 28.75,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 33.125,
+            "ptf_direction": 29.375,
+            "ptf_shape": 23.75,
+            "average": 28.75,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 30.625,
+        "ptf_direction": 26.875,
+        "ptf_shape": 21.875,
+        "average": 26.458,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 30.625,
+            "ptf_direction": 26.875,
+            "ptf_shape": 21.875,
+            "average": 26.458,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 48.75,
+        "ptf_direction": 47.5,
+        "ptf_shape": 40.625,
+        "average": 45.625,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 48.75,
+            "ptf_direction": 47.5,
+            "ptf_shape": 40.625,
+            "average": 45.625,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 38.125,
+        "ptf_direction": 34.375,
+        "ptf_shape": 28.75,
+        "average": 33.75,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 38.125,
+            "ptf_direction": 34.375,
+            "ptf_shape": 28.75,
+            "average": 33.75,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 58.75,
+        "ptf_direction": 57.5,
+        "ptf_shape": 50.625,
+        "average": 55.625,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 58.75,
+            "ptf_direction": 57.5,
+            "ptf_shape": 50.625,
+            "average": 55.625,
+            "n": 8
+          }
+        }
+      }
+    },
+    "arcane-32B-dpo": {
+      "vanilla": {
+        "ptf_alignment": 38.125,
+        "ptf_direction": 35.625,
+        "ptf_shape": 29.375,
+        "average": 34.375,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 38.125,
+            "ptf_direction": 35.625,
+            "ptf_shape": 29.375,
+            "average": 34.375,
+            "n": 8
+          }
+        }
+      },
+      "summary": {
+        "ptf_alignment": 44.375,
+        "ptf_direction": 43.125,
+        "ptf_shape": 36.25,
+        "average": 41.25,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 44.375,
+            "ptf_direction": 43.125,
+            "ptf_shape": 36.25,
+            "average": 41.25,
+            "n": 8
+          }
+        }
+      },
+      "rag": {
+        "ptf_alignment": 50.0,
+        "ptf_direction": 45.0,
+        "ptf_shape": 40.0,
+        "average": 45.0,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 50.0,
+            "ptf_direction": 45.0,
+            "ptf_shape": 40.0,
+            "average": 45.0,
+            "n": 8
+          }
+        }
+      },
+      "lifechoice": {
+        "ptf_alignment": 40.625,
+        "ptf_direction": 36.875,
+        "ptf_shape": 31.25,
+        "average": 36.25,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 40.625,
+            "ptf_direction": 36.875,
+            "ptf_shape": 31.25,
+            "average": 36.25,
+            "n": 8
+          }
+        }
+      },
+      "timechara": {
+        "ptf_alignment": 40.625,
+        "ptf_direction": 36.875,
+        "ptf_shape": 31.25,
+        "average": 36.25,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 40.625,
+            "ptf_direction": 36.875,
+            "ptf_shape": 31.25,
+            "average": 36.25,
+            "n": 8
+          }
+        }
+      },
+      "arc": {
+        "ptf_alignment": 63.75,
+        "ptf_direction": 62.5,
+        "ptf_shape": 55.625,
+        "average": 60.625,
+        "n": 8,
+        "by_n_phases": {
+          "3": {
+            "ptf_alignment": 63.75,
+            "ptf_direction": 62.5,
+            "ptf_shape": 55.625,
+            "average": 60.625,
+            "n": 8
+          }
+        }
+      }
+    }
+  },
+  "include_thought": true,
+  "this_run": {
+    "trajectories_scored": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0
+  }
+}

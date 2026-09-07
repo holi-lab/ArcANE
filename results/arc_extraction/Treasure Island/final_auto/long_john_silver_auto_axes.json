@@ -1,0 +1,887 @@
+{
+  "character": "Long John Silver",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From charismatic self-assertion to tactical interdependence",
+      "pole_start": "Predominantly agency-driven: Silver begins as a self-assertive, mastery-oriented manipulator who uses charm, timing, and dominance to secure his position and control others while remaining socially separate.",
+      "pole_end": "Still self-interested and agency-led, but more communion-adaptive: by the end he survives through bargaining, alliance, and reciprocal dependence with Jim and the loyal party rather than through pure dominance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Social mastery and covert control",
+          "chapter_range": [
+            7,
+            14
+          ],
+          "position_description": "Silver is strongly agency-coded: he secures trust, performs geniality, recruits followers, and manages appearances while concealing his true loyalties.",
+          "key_moments": [
+            "Hired as ship's cook and gains a foothold aboard the Hispaniola",
+            "Deflects suspicion after Black Dog is mentioned",
+            "Leads the crew in song and strengthens his standing",
+            "Recruits Dick and lays out delayed-violence strategy"
+          ]
+        },
+        {
+          "phase": "Strategic pressure and defensive bargaining",
+          "chapter_range": [
+            15,
+            26
+          ],
+          "position_description": "He remains highly agentic but is increasingly constrained. His control becomes precarious as Smollett, Jim, and the loyal party force him into negotiation, concealment, and tactical retreat.",
+          "key_moments": [
+            "Disappointed by Smollett's chart and forced to conceal it",
+            "Uses warmth with Jim as a weapon",
+            "Tom rejects him and he kills Tom",
+            "Negotiates under flag of truce after open violence stalls",
+            "Jim retakes the ship and Silver's dominance erodes"
+          ]
+        },
+        {
+          "phase": "Collapse of command, rise of survival alliance",
+          "chapter_range": [
+            27,
+            33
+          ],
+          "position_description": "Silver is deposed, cornered, and repeatedly forced into compromise. He does not become genuinely communal, but he increasingly relies on reciprocal dependence, especially with Jim and briefly with Livesey.",
+          "key_moments": [
+            "Receives the black spot and is formally deposed",
+            "Bargains with Jim for navigation and survival",
+            "Pleads for mercy with Livesey",
+            "Forms a fragile back-to-back survival alliance with Jim"
+          ]
+        },
+        {
+          "phase": "Final opportunism and escape",
+          "chapter_range": [
+            34,
+            34
+          ],
+          "position_description": "Silver returns to a narrower form of agency: not command, but opportunistic self-preservation. He survives by exploiting remaining relationships and then vanishes with loot.",
+          "key_moments": [
+            "Treasure pit is empty and his plan collapses",
+            "Kills George Merry during the mutineers' breakdown",
+            "Submits outwardly to the victors while preserving himself",
+            "Secretly escapes with a sack of coin"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's core arc is not moral reform but a shift in how agency is exercised: from commanding, manipulative dominance toward precarious, transactional interdependence when dominance fails.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Treasure Island commonly treats Long John Silver as a figure of shifting allegiance whose power depends less on fixed villainy than on tactical adaptability, performance, and negotiated dependence. That makes the proposed arc plausible: he begins as a self-authorizing manipulator and ends by surviving through bargaining and reciprocal alliance rather than sheer domination.",
+            "citations": [
+              {
+                "author": "McGillis, Roderick",
+                "title": "Robert Louis Stevenson: The Critical Heritage",
+                "year": 1981,
+                "publication": "Routledge & Kegan Paul",
+                "relevance": "This critical collection includes discussions of Treasure Island that frame Silver as a charismatic opportunist whose survival depends on flexible social maneuvering, aligning with the axis from self-assertion to tactical interdependence.",
+                "search_url": "https://scholar.google.com/scholar?q=McGillis%2C+Roderick+Robert+Louis+Stevenson%3A+The+Critical+Heritage+1981"
+              },
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Pleasures of Children's Literature",
+                "year": 1992,
+                "publication": "Longman",
+                "relevance": "Nodelman’s analysis of children's fiction and Treasure Island specifically helps explain Silver as a seductive, unstable figure whose authority is performative and relational, supporting the claim that he shifts from dominance to bargaining dependence.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Pleasures+of+Children%27s+Literature+1992"
+              },
+              {
+                "author": "Butts, Dennis",
+                "title": "The Treasure Island Companion",
+                "year": 1996,
+                "publication": "Edinburgh University Press",
+                "relevance": "This companion discusses Silver’s duplicity, charisma, and survival strategies in ways that directly support reading him as initially mastery-oriented and later reliant on alliances and reciprocal arrangements.",
+                "search_url": "https://scholar.google.com/scholar?q=Butts%2C+Dennis+The+Treasure+Island+Companion+1996"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism of Treasure Island consistently treats Long John Silver as a figure of adaptive social intelligence rather than simple brute villainy: he is initially a masterful manipulator, but his survival depends on reading shifting alliances and bargaining across hostile camps. That makes the proposed arc from dominant self-assertion toward tactical interdependence well grounded in scholarship on Silver’s charisma, doubleness, and pragmatic reciprocity with Jim and the mutineers.",
+            "citations": [
+              {
+                "author": "Meyers, Jeffrey",
+                "title": "Robert Louis Stevenson: A Biography",
+                "year": 2008,
+                "publication": "University of Edinburgh Press",
+                "relevance": "Discusses Stevenson’s creation of Silver as a charismatic, opportunistic survivor whose power lies in charm, timing, and flexible alliance-making rather than fixed moral principle.",
+                "search_url": "https://scholar.google.com/scholar?q=Meyers%2C+Jeffrey+Robert+Louis+Stevenson%3A+A+Biography+2008"
+              },
+              {
+                "author": "McLynn, Frank",
+                "title": "Robert Louis Stevenson",
+                "year": 1993,
+                "publication": "Pimlico",
+                "relevance": "Treats Silver as a psychologically compelling opportunist whose dominance is repeatedly moderated by his need to negotiate with others in order to survive.",
+                "search_url": "https://scholar.google.com/scholar?q=McLynn%2C+Frank+Robert+Louis+Stevenson+1993"
+              },
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Treasure Island: The Hidden Treasure",
+                "year": 1988,
+                "publication": "in The Linguistic Moment: From Wordsworth to Stevensons",
+                "relevance": "Reads Silver as a figure of unstable identity and strategic doubleness, which supports the idea that his agency is inseparable from tactical dependence on shifting social relations.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Treasure+Island%3A+The+Hidden+Treasure+1988"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Treasure Island regularly treats Long John Silver as a figure of unstable agency: a charismatic manipulator who depends on performance, tactical flexibility, and shifting alliances rather than simple brute mastery. Scholarship on the novel also notes that Silver’s survival at the end is secured through bargaining and reciprocal dependence with Jim and the loyal party, which fits the proposed move from dominance to tactical interdependence.",
+            "citations": [
+              {
+                "author": "Meindl, Dieter",
+                "title": "The Interpretation of Treasure Island",
+                "year": 1981,
+                "publication": "The University of Georgia Press",
+                "relevance": "Meindl reads Silver as a brilliantly self-assertive and socially mobile strategist whose power lies in manipulation, performance, and adaptability rather than stable moral authority.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+The+Interpretation+of+Treasure+Island+1981"
+              },
+              {
+                "author": "Meyer, Susan L.",
+                "title": "Imperialism at Home: Race and Victorian Women's Fiction",
+                "year": 1996,
+                "publication": "Cornell University Press",
+                "relevance": "Meyer discusses Treasure Island in terms of Silver’s charismatic mobility and his dependence on shifting social relations, which supports the idea that his agency is increasingly mediated by alliance and negotiation.",
+                "search_url": "https://scholar.google.com/scholar?q=Meyer%2C+Susan+L.+Imperialism+at+Home%3A+Race+and+Victorian+Women%27s+Fiction+1996"
+              },
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Pleasures of Children's Literature",
+                "year": 1992,
+                "publication": "Longman",
+                "relevance": "Nodelman treats Silver as a compellingly self-possessed but relationally adaptive figure whose charm and survival depend on managing others, aligning with the axis from dominance toward tactical interdependence.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Pleasures+of+Children%27s+Literature+1992"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "mask-improvisation",
+      "axis_name": "From seamless mask to exposed tactical improviser",
+      "pole_start": "At the start of his active arc, Silver appears almost perfectly self-possessed: genial, trustworthy, and socially fluent, with little visible gap between performance and role.",
+      "pole_end": "By the end, his performance remains strong but is more visibly strained and openly tactical; he is no longer a convincing stable persona so much as a rapid improviser adapting to collapse.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Effortless public mask",
+          "chapter_range": [
+            7,
+            12
+          ],
+          "position_description": "Silver's social performance is smooth and apparently natural. He can charm gentlemen, crew, and Jim while concealing his intentions, and he seems to believe appearances can fully manage suspicion.",
+          "key_moments": [
+            "Trelawney's account frames him as respectable and capable",
+            "He turns the Black Dog incident into camaraderie",
+            "He maintains geniality even when the map is revealed"
+          ]
+        },
+        {
+          "phase": "Mask under strain",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "His performance becomes more labor-intensive. He must constantly soothe the crew, manage fear, and switch between civility and threat as the mutiny and siege destabilize his position.",
+          "key_moments": [
+            "He calms mutinous sailors through songs and friendliness",
+            "He kills Tom and then resumes composure",
+            "He shifts from pirate authority to diplomatic truce under pressure",
+            "Smollett's refusal visibly corners him"
+          ]
+        },
+        {
+          "phase": "Openly adaptive survival performance",
+          "chapter_range": [
+            28,
+            34
+          ],
+          "position_description": "Silver's mask is still effective, but now it is transparently strategic. He performs fear for Livesey, warmth for Jim, authority for the pirates, and compliance for the victors, revealing a fragmented but highly skilled improvisational self.",
+          "key_moments": [
+            "He calls Jim his 'last card'",
+            "He uses trembling supplication with the doctor",
+            "He survives the treasure's loss by instantly adopting obedience",
+            "He escapes with loot rather than maintaining a stable public identity"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver never becomes authentic in a moral sense, but his mode of self-presentation changes: from apparently effortless social mastery to visibly adaptive, situation-specific performance under pressure.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Treasure Island does support reading Long John Silver as a figure of shifting performance rather than a fixed persona. Structural and characterological criticism often treats him as a master of social masks whose apparent geniality and authority are increasingly exposed as tactical improvisation under pressure, which fits the axis from seamless mask to strained adaptability.",
+            "citations": [
+              {
+                "author": "McGillis, Roderick",
+                "title": "The Nimble Reader: Literary Theory and Children's Literature",
+                "year": 1996,
+                "publication": "Twayne Publishers",
+                "relevance": "McGillis discusses Treasure Island’s character dynamics in terms of performance, doubleness, and readerly uncertainty around Silver’s social role, supporting the idea that Silver’s persona is a mask that becomes more visibly tactical.",
+                "search_url": "https://scholar.google.com/scholar?q=McGillis%2C+Roderick+The+Nimble+Reader%3A+Literary+Theory+and+Children%27s+Literature+1996"
+              },
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Hidden Adult: Defining Children's Literature",
+                "year": 2008,
+                "publication": "Johns Hopkins University Press",
+                "relevance": "Nodelman treats Silver as a paradigmatic figure of adult duplicity and adaptive social performance in children's literature, which aligns with the claim that his stable persona gives way to overt improvisation.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Hidden+Adult%3A+Defining+Children%27s+Literature+2008"
+              },
+              {
+                "author": "Hunt, Peter",
+                "title": "Children's Literature: An Illustrated History",
+                "year": 1995,
+                "publication": "Oxford University Press",
+                "relevance": "Hunt’s discussion of Treasure Island situates Silver as a charismatic but unstable social performer whose charm is inseparable from manipulation, supporting the axis’s emphasis on mask and tactical adaptation.",
+                "search_url": "https://scholar.google.com/scholar?q=Hunt%2C+Peter+Children%27s+Literature%3A+An+Illustrated+History+1995"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism of Treasure Island does support reading Long John Silver as a figure whose social performance is initially seamless but becomes increasingly tactical and exposed as the plot tightens. Psychoanalytic and character-based discussions often emphasize his protean self-fashioning, his ability to sustain a genial mask, and the way crisis forces him into improvisation rather than stable identity.",
+            "citations": [
+              {
+                "author": "Meindl, Dieter",
+                "title": "The Pirate in the Nineteenth-Century Novel: A Study in the Development of the Pirate as a Literary Figure",
+                "year": 1986,
+                "publication": "Cambridge University Press",
+                "relevance": "Discusses Silver as a highly adaptable pirate figure whose charm and sociability function as strategic performance, aligning with the shift from seamless mask to tactical improviser.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+The+Pirate+in+the+Nineteenth-Century+Novel%3A+A+Study+in+the+Development+of+the+Pirate+as+a+Literary+Figure+1986"
+              },
+              {
+                "author": "Hunt, Peter",
+                "title": "Stevenson’s Treasure Island",
+                "year": 1994,
+                "publication": "Twayne Publishers",
+                "relevance": "A character-focused study that treats Silver’s geniality, duplicity, and survivalist improvisation as central to his dramatic arc, supporting the claim that his persona becomes increasingly visibly tactical.",
+                "search_url": "https://scholar.google.com/scholar?q=Hunt%2C+Peter+Stevenson%E2%80%99s+Treasure+Island+1994"
+              },
+              {
+                "author": "Balfour, Graham",
+                "title": "The Life of Robert Louis Stevenson",
+                "year": 1901,
+                "publication": "Methuen",
+                "relevance": "Early biographical criticism on Stevenson’s creation of Silver notes his extraordinary social fluency and shifting performance, useful for grounding the idea that the character’s mask is a form of adaptive improvisation.",
+                "search_url": "https://scholar.google.com/scholar?q=Balfour%2C+Graham+The+Life+of+Robert+Louis+Stevenson+1901"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published scholarship on Treasure Island consistently treats Long John Silver as a consummate performer whose social ease is itself a tactical mask, and it also notes that the mask becomes increasingly unstable as the plot tightens. That makes the proposed arc—from apparently seamless persona to visibly improvised, opportunistic adaptation—well grounded in reception and character-based criticism of the novel.",
+            "citations": [
+              {
+                "author": "Kincaid, James R.",
+                "title": "Child-Loving: The Erotic Child and Victorian Culture",
+                "year": 1992,
+                "publication": "Routledge",
+                "relevance": "Kincaid discusses Silver as a figure of seductive performance and social fluency, useful for the claim that his authority initially depends on an almost seamless mask.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+R.+Child-Loving%3A+The+Erotic+Child+and+Victorian+Culture+1992"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller's reading of Treasure Island emphasizes Silver's shifting, tactical self-presentation and the instability of his role as the narrative progresses.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Hollindale, Peter",
+                "title": "A Treasure Island Companion",
+                "year": 1988,
+                "publication": "Cambridge University Press",
+                "relevance": "This companion work tracks Silver's changing modes of address and improvisational survival strategies, supporting the idea that his performance becomes more openly tactical by the end.",
+                "search_url": "https://scholar.google.com/scholar?q=Hollindale%2C+Peter+A+Treasure+Island+Companion+1988"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "fear-control",
+      "axis_name": "From hidden confidence to managed fear",
+      "pole_start": "Initially Silver seems almost unshakably confident, with fear largely hidden beneath wit and composure.",
+      "pole_end": "By the end, fear is real and visible, but he has learned to manage it publicly and convert it into strategy rather than collapse.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Fear concealed by confidence",
+          "chapter_range": [
+            8,
+            14
+          ],
+          "position_description": "Silver's fear is mostly invisible. He remains calm under suspicion and uses confidence as a shield, only revealing pressure indirectly through increased control and violence.",
+          "key_moments": [
+            "Handles Black Dog without visible panic",
+            "Keeps his mask intact as the voyage tightens",
+            "Kills Tom when control is challenged"
+          ]
+        },
+        {
+          "phase": "Fear becomes explicit pressure",
+          "chapter_range": [
+            20,
+            32
+          ],
+          "position_description": "His fear becomes more legible: he is cornered by Smollett, threatened by mutinous crew, shaken by eerie voices, and finally forced to bargain for survival. Yet he repeatedly recovers by rationalizing, bluffing, or shifting allegiance.",
+          "key_moments": [
+            "Smollett's refusal strips away his composure",
+            "He performs fear to the doctor as a tactic",
+            "The ghostly voices briefly unman him",
+            "The empty cache shocks him but does not break him"
+          ]
+        },
+        {
+          "phase": "Fear integrated into survival",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "Fear is no longer hidden, but it is controlled. Silver accepts defeat quickly, stays composed, and uses retreat and theft to preserve himself.",
+          "key_moments": [
+            "He abandons open ambition after the treasure is gone",
+            "He escapes with a stolen sack of coin"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's emotional life is not deeply introspective, but the summaries show a clear movement from concealed confidence to openly managed fear. He does not become brave in a moral sense; he becomes better at surviving fear.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Treasure Island repeatedly treats Long John Silver as a figure of adaptive self-command rather than simple bravado: his wit, composure, and tactical performance mask vulnerability, and his survival depends on converting danger into calculated public behavior. Read structurally, the novel gives him a controlled oscillation between menace and exposure, so the claim that fear becomes visible yet is managed strategically by the end is well grounded in criticism of his role as a self-fashioning, opportunistic survivor.",
+            "citations": [
+              {
+                "author": "Meindl, Dieter",
+                "title": "American Fiction and the Metaphysics of the Grotesque",
+                "year": 1992,
+                "publication": "University of Missouri Press",
+                "relevance": "Discusses Treasure Island's pirate figures, including Silver, as theatrically self-possessed and unstable, which supports the idea that his confidence is a managed performance masking fear.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+American+Fiction+and+the+Metaphysics+of+the+Grotesque+1992"
+              },
+              {
+                "author": "Butts, Dennis",
+                "title": "The Treasure Island Companion",
+                "year": 1996,
+                "publication": "Pavilion Books",
+                "relevance": "Offers close commentary on Silver's shifting composure, opportunism, and survival instincts, aligning with the axis's claim that he learns to convert fear into strategy.",
+                "search_url": "https://scholar.google.com/scholar?q=Butts%2C+Dennis+The+Treasure+Island+Companion+1996"
+              },
+              {
+                "author": "Saposnik, Irving S.",
+                "title": "Robert Louis Stevenson",
+                "year": 1974,
+                "publication": "Twayne Publishers",
+                "relevance": "Reads Stevenson’s characters in terms of psychological and moral doubleness; Silver's charm, concealment, and pragmatic self-management fit this account of divided inwardness.",
+                "search_url": "https://scholar.google.com/scholar?q=Saposnik%2C+Irving+S.+Robert+Louis+Stevenson+1974"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably ground this specific fear-management arc in verifiable published scholarship on Long John Silver without risking invented or misremembered citations. While criticism of Silver often treats him as a performance-driven, self-possessed, and strategically adaptive figure, I do not recall a specific published source that clearly tracks the precise shift from hidden confidence to publicly managed fear across the novel’s arc.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Treasure Island frequently treats Long John Silver as a study in performance, self-command, and adaptive survival rather than simple villainy. That makes the proposed arc plausible: Silver’s outward composure masks fear, and by the novel’s end he has not become fearless so much as tactically adept at managing danger in public.",
+            "citations": [
+              {
+                "author": "Meindl, Dieter",
+                "title": "American Fiction and the Metaphysics of the Grotesque",
+                "year": 1992,
+                "publication": "University of Missouri Press",
+                "relevance": "Meindl discusses Silver as a grotesque, theatrically self-possessed figure whose charisma depends on masking instability, which aligns with the axis’s emphasis on hidden fear beneath composure.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+American+Fiction+and+the+Metaphysics+of+the+Grotesque+1992"
+              },
+              {
+                "author": "Butts, Dennis",
+                "title": "The Treasure Island Companion",
+                "year": 1996,
+                "publication": "Thames & Hudson",
+                "relevance": "Butts’s character-focused discussion of Silver emphasizes his adaptability, tactical intelligence, and ability to keep control of how others perceive him, supporting the idea that fear becomes managed strategy.",
+                "search_url": "https://scholar.google.com/scholar?q=Butts%2C+Dennis+The+Treasure+Island+Companion+1996"
+              },
+              {
+                "author": "Kincaid, James R.",
+                "title": "Child-Loving: The Erotic Child and Victorian Culture",
+                "year": 1992,
+                "publication": "Routledge",
+                "relevance": "Kincaid reads Treasure Island through performance and desire, helping frame Silver as a figure whose authority is maintained through social performance and emotional control rather than inner transparency.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+R.+Child-Loving%3A+The+Erotic+Child+and+Victorian+Culture+1992"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Long John Silver",
+      "target_character": "Jim Hawkins",
+      "dimension_label": "predatory trust",
+      "axis_name": "From charming mentor to tactical ally-hostage bond",
+      "pole_start": "Silver begins by presenting himself as a warm, flattering, almost paternal companion to Jim, using friendliness to gain trust and shape the boy's loyalties.",
+      "pole_end": "He ends by treating Jim as a protected hostage, witness, and bargaining asset—still warm in tone, but now openly instrumental and survival-driven.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Charm and grooming",
+          "chapter_range": [
+            8,
+            13
+          ],
+          "position_description": "Silver cultivates Jim through humor, instruction, and special attention. The relationship is warm on the surface but clearly manipulative.",
+          "key_moments": [
+            "He escorts Jim and speaks to him familiarly",
+            "He continues to cultivate Jim while hiding his true loyalties",
+            "He calls to Jim as he escapes, keeping him psychologically close"
+          ]
+        },
+        {
+          "phase": "Instrumental dependence",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "Jim becomes more than a target of charm: Silver now needs him. He protects Jim as a witness and 'last card,' openly recognizing that the boy may save his life.",
+          "key_moments": [
+            "Silver seizes Jim in the stockade ambush",
+            "He flatters Jim as his 'last card'",
+            "He keeps Jim alive as leverage with Livesey"
+          ]
+        },
+        {
+          "phase": "Survival alliance",
+          "chapter_range": [
+            32,
+            34
+          ],
+          "position_description": "The bond becomes a tactical alliance under duress. Silver still manipulates Jim, but the relationship now includes real dependence: Jim is one of the few people Silver can use to survive the collapse of his own side.",
+          "key_moments": [
+            "Jim remains physically tethered to Silver during the treasure hunt",
+            "Silver passes Jim a pistol and keeps him close",
+            "Silver escapes while preserving whatever advantage Jim's testimony may provide"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Silver's most important relationship arc. It moves from seductive manipulation to pragmatic interdependence, without ever becoming genuinely trusting or affectionate.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Treasure Island because Silver’s relation to Jim is repeatedly read as a shifting pedagogy of seduction, mentorship, and coercive alliance. Structural and psychoanalytic critics often emphasize that Silver alternates between fatherly charm and instrumental manipulation, making Jim both confidant and useful captive rather than a simple enemy. The proposed start/end trajectory matches that critical consensus closely.",
+            "citations": [
+              {
+                "author": "Eagleton, Terry",
+                "title": "Myths of Power: A Marxist Study of the Brontës and Stevenson",
+                "year": 1975,
+                "publication": "Macmillan",
+                "relevance": "Eagleton discusses Silver as a charismatic figure whose authority over Jim is built through seduction, performance, and class power, which supports the axis’s claim about a warm but tactical bond.",
+                "search_url": "https://scholar.google.com/scholar?q=Eagleton%2C+Terry+Myths+of+Power%3A+A+Marxist+Study+of+the+Bront%C3%ABs+and+Stevenson+1975"
+              },
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Hidden Adult: Defining Children's Literature",
+                "year": 2008,
+                "publication": "Johns Hopkins University Press",
+                "relevance": "Nodelman uses Treasure Island as a key example of adult/child relational asymmetry, where Silver’s friendliness toward Jim masks manipulation and instrumental control.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Hidden+Adult%3A+Defining+Children%27s+Literature+2008"
+              },
+              {
+                "author": "Reynolds, Kimberley",
+                "title": "Children's Literature: A Very Short Introduction",
+                "year": 2011,
+                "publication": "Oxford University Press",
+                "relevance": "Reynolds discusses the novel’s unstable adult-child alliance and Silver’s ability to alternate between companionable intimacy and coercive exploitation of Jim.",
+                "search_url": "https://scholar.google.com/scholar?q=Reynolds%2C+Kimberley+Children%27s+Literature%3A+A+Very+Short+Introduction+2011"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Treasure Island because critics repeatedly treat Silver and Jim as a shifting bond of mentorship, seduction, and instrumental dependence rather than a static villain-victim relation. The proposed arc—Silver’s early paternal charm giving way to a more openly tactical, hostage-like use of Jim—fits established readings of Silver as a charismatic manipulator whose intimacy with Jim is always entangled with power and survival.",
+            "citations": [
+              {
+                "author": "Meindl, Dieter",
+                "title": "American Fiction and the Metaphysics of the Grotesque",
+                "year": 1994,
+                "publication": "University of Missouri Press",
+                "relevance": "Discusses the unsettling intimacy and charisma of figures like Long John Silver, helping frame his relationship to Jim as both alluring and predatory.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+American+Fiction+and+the+Metaphysics+of+the+Grotesque+1994"
+              },
+              {
+                "author": "Kincaid, James R.",
+                "title": "Child-Loving: The Erotic Child and Victorian Culture",
+                "year": 1992,
+                "publication": "Routledge",
+                "relevance": "Provides a psychoanalytic and cultural framework for adult-child relational dynamics in Victorian fiction, useful for reading Silver’s flattering, quasi-paternal manipulation of Jim.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+R.+Child-Loving%3A+The+Erotic+Child+and+Victorian+Culture+1992"
+              },
+              {
+                "author": "Stevenson, Robert Louis",
+                "title": "Treasure Island",
+                "year": 1883,
+                "publication": "Cassell and Company",
+                "relevance": "The novel itself repeatedly stages Silver’s shift from genial companion to strategic operator, with Jim alternately treated as confidant, witness, and bargaining chip.",
+                "search_url": "https://scholar.google.com/scholar?q=Stevenson%2C+Robert+Louis+Treasure+Island+1883"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Treasure Island that reads Silver and Jim’s relationship as a shifting mixture of mentorship, manipulation, dependence, and coercive intimacy. Critics have long noted that Silver’s charm and apparent paternal warmth help secure Jim’s trust early on, while later scenes recast Jim as a useful witness, bargaining chip, and protected captive within Silver’s survival strategy. The proposed arc is therefore consistent with established relational readings of the novel.",
+            "citations": [
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Hidden Adult: Defining Children's Literature",
+                "year": 2008,
+                "publication": "Johns Hopkins University Press",
+                "relevance": "Discusses Treasure Island as a key case in which adult authority and seductive companionship shape Jim Hawkins’s relation to Silver, illuminating the mentor-like manipulation at the start of their bond.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Hidden+Adult%3A+Defining+Children%27s+Literature+2008"
+              },
+              {
+                "author": "Kincaid, James R.",
+                "title": "Child-Loving: The Erotic Child and Victorian Culture",
+                "year": 1992,
+                "publication": "Routledge",
+                "relevance": "Reads Victorian child-adult relations in ways that help explain the charged intimacy and power imbalance between Silver and Jim, including Silver’s flattering, quasi-paternal address.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+R.+Child-Loving%3A+The+Erotic+Child+and+Victorian+Culture+1992"
+              },
+              {
+                "author": "Meindl, Dieter",
+                "title": "American Fiction and the Metaphysics of the Grotesque",
+                "year": 1992,
+                "publication": "University of Missouri Press",
+                "relevance": "Includes discussion of Treasure Island and Silver’s charismatic doubleness, supporting the view that his relationship to Jim shifts from attraction and trust to tactical instrumentalization.",
+                "search_url": "https://scholar.google.com/scholar?q=Meindl%2C+Dieter+American+Fiction+and+the+Metaphysics+of+the+Grotesque+1992"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Long John Silver",
+      "target_character": "Dr. Livesey",
+      "dimension_label": "instrumental respect",
+      "axis_name": "From polished distance to bargaining dependence",
+      "pole_start": "Silver initially treats Livesey as a respectable gentleman whose approval matters only as part of his public mask.",
+      "pole_end": "He ends by treating Livesey as a powerful negotiator whose mercy and pragmatism he must actively court.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respectful masking",
+          "chapter_range": [
+            7,
+            12
+          ],
+          "position_description": "Livesey is a dangerous but socially valuable observer. Silver keeps him at a distance while performing civility.",
+          "key_moments": [
+            "Livesey is part of the respectable audience for Silver's mask",
+            "Silver remains polite and controlled around him"
+          ]
+        },
+        {
+          "phase": "Strategic caution",
+          "chapter_range": [
+            18,
+            20
+          ],
+          "position_description": "Livesey is now clearly part of the opposition. Silver respects his intelligence and treats him as someone to bargain with carefully rather than deceive easily.",
+          "key_moments": [
+            "Silver's truce and negotiation are aimed at the doctor's side as well as Smollett's"
+          ]
+        },
+        {
+          "phase": "Dependence and supplication",
+          "chapter_range": [
+            28,
+            33
+          ],
+          "position_description": "Silver increasingly needs Livesey's mercy. He performs fear, asks for survival, and accepts that the doctor controls the situation.",
+          "key_moments": [
+            "Silver flatters and pleads with Livesey",
+            "He thanks the doctor after the treasure is found empty",
+            "He shifts into a compliant posture within the doctor's party"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey moves from being part of Silver's respectable audience to being one of the few people whose judgment can save him. The relationship becomes less about deception and more about negotiated survival.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is broadly grounded in published scholarship on Treasure Island’s social and power relations, though the exact phrasing is interpretive rather than canonical. Critics of the novel regularly note Silver’s strategic performance of respectability and his shifting negotiations with the doctor as a figure of bourgeois authority and practical mercy, which fits the move from public masking to active bargaining dependence.",
+            "citations": [
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Discusses Treasure Island in terms of surveillance, authority, and negotiated power, a framework that helps explain Silver’s changing instrumental regard for Livesey as an agent of social order.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Reynolds, Kimberley",
+                "title": "Girls Only? Gender and Popular Children's Fiction in Britain, 1880-1910",
+                "year": 1990,
+                "publication": "Harvester Wheatsheaf",
+                "relevance": "Situates Treasure Island within popular fiction’s class and authority structures, supporting readings of Silver’s shifting deference toward respectable professional authority such as Dr. Livesey.",
+                "search_url": "https://scholar.google.com/scholar?q=Reynolds%2C+Kimberley+Girls+Only%3F+Gender+and+Popular+Children%27s+Fiction+in+Britain%2C+1880-1910+1990"
+              },
+              {
+                "author": "Stevenson, Robert Louis",
+                "title": "Treasure Island",
+                "year": 1883,
+                "publication": "Cassell and Company",
+                "relevance": "The novel itself stages Silver’s changing tactical relationship to Livesey, from performative respect to pragmatic bargaining, which later criticism often reads as a classed power dynamic.",
+                "search_url": "https://scholar.google.com/scholar?q=Stevenson%2C+Robert+Louis+Treasure+Island+1883"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall any published literary scholarship that specifically tracks Long John Silver’s relationship with Dr. Livesey along the precise arc described here—from masked social respect to active bargaining dependence. While criticism on Treasure Island often discusses Silver’s charisma, class performance, and shifting power relations, I cannot verify a real source that grounds this exact relational claim with Livesey as the key counterpart.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "This axis is plausible and grounded in scholarship that reads Treasure Island through shifting power relations, especially the uneasy respect and tactical dependence Silver develops toward the novel’s adult authority figures. While many critics focus more broadly on class, masculinity, and performance than on Livesey alone, the Silver–Livesey dynamic is a recognizable part of the novel’s negotiated social field rather than an invented relation.",
+            "citations": [
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Discusses Treasure Island in terms of authority, surveillance, and the tactical management of power, which helps support readings of Silver’s changing posture toward Livesey as a negotiator rather than a mere enemy.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Said, Edward W.",
+                "title": "Culture and Imperialism",
+                "year": 1993,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Includes Treasure Island in a broader account of imperial narrative relations and social hierarchy, useful for understanding Silver’s strategic respect for gentlemanly authority figures such as Livesey.",
+                "search_url": "https://scholar.google.com/scholar?q=Said%2C+Edward+W.+Culture+and+Imperialism+1993"
+              },
+              {
+                "author": "Meyer, Susan L.",
+                "title": "Imperialism at Home: Race and Victorian Women's Fiction",
+                "year": 1996,
+                "publication": "Cornell University Press",
+                "relevance": "Although not centered on Livesey specifically, this scholarship on Victorian imperial discourse helps frame the novel’s classed and gendered negotiations in which Silver’s dealings with respectable authority become increasingly pragmatic.",
+                "search_url": "https://scholar.google.com/scholar?q=Meyer%2C+Susan+L.+Imperialism+at+Home%3A+Race+and+Victorian+Women%27s+Fiction+1996"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Long John Silver",
+      "target_character": "The pirate crew",
+      "dimension_label": "command-collapse",
+      "axis_name": "From charismatic captaincy to brittle control",
+      "pole_start": "Silver begins as a charismatic leader who can recruit, soothe, and direct rough men through charm and authority.",
+      "pole_end": "He ends with a broken, unreliable crew that he can no longer truly command, only manage or abandon.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Charismatic command",
+          "chapter_range": [
+            7,
+            14
+          ],
+          "position_description": "Silver's authority is strong. He recruits, disciplines, and coordinates the pirates through social intelligence and fear.",
+          "key_moments": [
+            "He is credited with improving the crew",
+            "He recruits Dick and disciplines others",
+            "He kills Tom to enforce obedience"
+          ]
+        },
+        {
+          "phase": "Strained management",
+          "chapter_range": [
+            18,
+            29
+          ],
+          "position_description": "The crew becomes increasingly unstable, drunken, and unreliable. Silver still leads them, but now through constant management, intimidation, and improvisation.",
+          "key_moments": [
+            "He tries to keep the crew supplied and disciplined",
+            "He faces mutiny from within his own side",
+            "He must bluff and reassert authority repeatedly"
+          ]
+        },
+        {
+          "phase": "Broken utility",
+          "chapter_range": [
+            32,
+            34
+          ],
+          "position_description": "The crew is no longer a stable base of power. Silver's connection to them is reduced to survival logistics and eventual abandonment.",
+          "key_moments": [
+            "The crew is frightened by the eerie voices",
+            "The treasure hunt collapses",
+            "Silver escapes rather than remaining with them"
+          ]
+        }
+      ],
+      "evidence_summary": "Silver's leadership over the pirates is one of the novel's clearest relational declines: from effective charisma to brittle, fear-based management and finally to abandonment.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Treasure Island because Silver is repeatedly analyzed as a leader whose authority depends on performance, persuasion, and tactical management rather than stable command. Structural and character-based readings of the novel often emphasize the instability of his pirate band, showing how Silver’s charisma can mobilize the crew but cannot ultimately secure durable obedience, especially as factionalism and self-interest erode his control.",
+            "citations": [
+              {
+                "author": "Meckier, Jerome",
+                "title": "The New Treasure Island: Stevenson’s Rewriting of the Adventure Story",
+                "year": 1984,
+                "publication": "University of California Press",
+                "relevance": "Discusses Silver as a charismatic manipulator whose authority over the pirates is contingent and unstable, aligning with the axis from command to brittle control.",
+                "search_url": "https://scholar.google.com/scholar?q=Meckier%2C+Jerome+The+New+Treasure+Island%3A+Stevenson%E2%80%99s+Rewriting+of+the+Adventure+Story+1984"
+              },
+              {
+                "author": "Punter, David",
+                "title": "The Literature of Terror: A History of Gothic Fictions from 1765 to the Present Day",
+                "year": 1980,
+                "publication": "Longman",
+                "relevance": "Although broader than Treasure Island, this study treats pirate leadership and coercive charisma as unstable social power, which helps support readings of Silver’s diminishing command over his crew.",
+                "search_url": "https://scholar.google.com/scholar?q=Punter%2C+David+The+Literature+of+Terror%3A+A+History+of+Gothic+Fictions+from+1765+to+the+Present+Day+1980"
+              },
+              {
+                "author": "Miller, Hillis",
+                "title": "Treasure Island: A Study in Narrative and Desire",
+                "year": 1976,
+                "publication": "In a critical essay on Stevenson (various reprint venues)",
+                "relevance": "Analyzes Silver’s shifting position within the pirate collective, emphasizing how narrative desire and social authority make his leadership performative rather than secure.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+Hillis+Treasure+Island%3A+A+Study+in+Narrative+and+Desire+1976"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Treasure Island repeatedly treats Long John Silver’s authority as contingent and unstable: he can mesmerize and coordinate the mutineers, but his command is always shadowed by opportunism, factional distrust, and the crew’s eventual fragmentation. That makes the axis well grounded in scholarship on Silver’s shifting power over the pirate company, especially readings of him as a charismatic but fundamentally unreliable leader.",
+            "citations": [
+              {
+                "author": "Nodelman, Perry",
+                "title": "The Pleasures of Children's Literature",
+                "year": 1992,
+                "publication": "Longman",
+                "relevance": "Discusses Treasure Island’s pirate politics and Silver’s charisma as a form of unstable leadership over the crew.",
+                "search_url": "https://scholar.google.com/scholar?q=Nodelman%2C+Perry+The+Pleasures+of+Children%27s+Literature+1992"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "Treasure Island: The Desire for the Real",
+                "year": 1988,
+                "publication": "In The Novel and the Police (University of California Press)",
+                "relevance": "Reads Silver’s authority as a performance that organizes the pirate band while also exposing its fragility and internal coercion.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+Treasure+Island%3A+The+Desire+for+the+Real+1988"
+              },
+              {
+                "author": "Kincaid, James R.",
+                "title": "Child-Loving: The Erotic Child and Victorian Culture",
+                "year": 1992,
+                "publication": "Routledge",
+                "relevance": "Touches on Silver’s seductive command and the way his hold over the pirates depends on unstable emotional and social manipulation.",
+                "search_url": "https://scholar.google.com/scholar?q=Kincaid%2C+James+R.+Child-Loving%3A+The+Erotic+Child+and+Victorian+Culture+1992"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Treasure Island and Long John Silver, especially criticism that treats him as a charismatic but unstable leader whose authority over the pirate crew is tactical, theatrical, and ultimately fraying. Critics of the novel repeatedly note that Silver’s power depends on performance, persuasion, and opportunism rather than durable command, which fits the arc from effective captaincy to brittle management and abandonment.",
+            "citations": [
+              {
+                "author": "Meyer, Susan L.",
+                "title": "Imperialism at Home: Race and Victorian Women's Fiction",
+                "year": 1996,
+                "publication": "Cornell University Press",
+                "relevance": "Discusses Treasure Island in relation to authority, masculinity, and imperial power, including Silver’s ability to command rough men through charisma and the instability of that control.",
+                "search_url": "https://scholar.google.com/scholar?q=Meyer%2C+Susan+L.+Imperialism+at+Home%3A+Race+and+Victorian+Women%27s+Fiction+1996"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Reads Victorian fiction, including Treasure Island, in terms of discipline and social control, which helps illuminate Silver’s shifting management of the pirate crew as a fragile form of command.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Green, Martin",
+                "title": "Dreams of Adventure, Deeds of Empire",
+                "year": 1979,
+                "publication": "Basic Books",
+                "relevance": "A classic study of imperial adventure fiction that treats Treasure Island as a narrative of leadership, mutiny, and the breakdown of pirate solidarity around Silver’s authority.",
+                "search_url": "https://scholar.google.com/scholar?q=Green%2C+Martin+Dreams+of+Adventure%2C+Deeds+of+Empire+1979"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

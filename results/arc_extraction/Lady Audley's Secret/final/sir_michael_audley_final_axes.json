@@ -1,0 +1,397 @@
+{
+  "character": "Sir Michael Audley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From devoted relational merger to wounded self-withdrawal",
+          "set_b_axis": "From Romantic Self-Diminishment to Withdrawn Self-Containment",
+          "overlap_description": "Both describe a movement from emotionally merging, communion-heavy attachment toward post-betrayal withdrawal and self-protective distance."
+        },
+        {
+          "set_a_axis": "From trusting devotion to estranged repudiation",
+          "set_b_axis": "From Naive Trust to Wounded Recognition",
+          "overlap_description": "Both track the collapse of Sir Michael's trust in Lucy/Lady Audley, ending in recognition of deception and emotional separation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From domestic fantasy to haunted avoidance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From Domestic Fantasy to Humiliated Realism",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From trusting devotion to estranged repudiation",
+          "set_b_axis": "From Devoted Husband to Betrayed Exile",
+          "overlap_description": "Both capture the same core relationship arc with Lady Audley: from intimate trust and protection to repudiation, exclusion, and emotional distance after revelation."
+        },
+        {
+          "set_a_axis": "From paternal esteem to suspicious exclusion",
+          "set_b_axis": "From Hospitable Nephewhood to Delegated Reliance",
+          "overlap_description": "Both describe the relationship with Robert Audley as moving from warm hospitality into a crisis-mediated practical reliance, though Set A emphasizes suspicion more strongly and Set B emphasizes delegation and trust after the collapse."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From domestic belonging to haunted avoidance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From Mild Domestic Affection to Loyal Comfort",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From communion-seeking self-effacement to withdrawn self-containment",
+      "pole_start": "Communion-dominant and self-diminishing: he seeks emotional fusion, measures his worth through relational acceptance, and defines himself through loving domestic harmony with Lucy/Lady Audley.",
+      "pole_end": "More agency-oriented but still restrained: after betrayal, he protects his dignity through distance, emotional containment, and withdrawal rather than continued fusion.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Romantic self-effacement",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "He begins in a strongly communion-oriented mode, proposing sincerely, longing for mutual love, and accepting Lucy while subordinating self-assertion to relational harmony.",
+          "key_moments": [
+            "Feverish, morally earnest proposal to Lucy Graham",
+            "Acceptance of Lucy despite unease",
+            "Desire for pure, sincere marriage and domestic harmony"
+          ]
+        },
+        {
+          "phase": "Domestic communion and trust",
+          "chapter_range": [
+            7,
+            33
+          ],
+          "position_description": "He remains highly relational and protective, preserving connection over independence. He cares for Lucy, welcomes Robert into the household, and repeatedly lets Lucy's account shape his judgments.",
+          "key_moments": [
+            "Tender care during the storm",
+            "Hospitality toward Robert and family peacekeeping",
+            "Continued reliance on Lucy's version of events",
+            "Growing but unpursued sense that something is amiss"
+          ]
+        },
+        {
+          "phase": "Betrayal and separation",
+          "chapter_range": [
+            34,
+            41
+          ],
+          "position_description": "After the confession, he can no longer sustain relational fusion. He withdraws, leaves Audley Court, and preserves himself through controlled distance and silence.",
+          "key_moments": [
+            "Lady Audley's confession",
+            "Stunned withdrawal from the room",
+            "Permanent departure from Audley Court",
+            "Refusal to reopen the scandal"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Michael begins as a communion-seeking lover who idealizes marriage as mutual restoration. The betrayal does not make him fully independent, but it decisively breaks the fusion and leaves him living in wounded, self-protective distance."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Trust-Suspicion",
+      "axis_name": "From trusting innocence to wounded recognition",
+      "pole_start": "Naively trusting and benevolent: he assumes Lucy's innocence, reads domestic life as legible and safe, and gives others the benefit of the doubt.",
+      "pole_end": "Wounded but bounded recognition: he accepts that Lucy deceived him and that his domestic world was false, without becoming broadly paranoid or investigative.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Baseline trust",
+          "chapter_range": [
+            1,
+            16
+          ],
+          "position_description": "He interprets Lucy, Robert, and the household through trust and benevolence. Small signs of distress or oddity are minimized or explained away.",
+          "key_moments": [
+            "Accepts Lucy's engagement and domestic role",
+            "Supports her London errand without suspicion",
+            "Reads the bruise as harmless or insignificant",
+            "Briefly senses mystery but does not pursue it"
+          ]
+        },
+        {
+          "phase": "Manipulated suspicion",
+          "chapter_range": [
+            30,
+            33
+          ],
+          "position_description": "His trust is redirected rather than destroyed. He begins to suspect Robert's instability because Lucy frames events that way, but he remains unable to suspect Lucy herself.",
+          "key_moments": [
+            "Lucy presents Robert as dangerous",
+            "He considers consulting a physician",
+            "He grows perplexed by Robert's behavior",
+            "He remains subordinate to Lucy's account"
+          ]
+        },
+        {
+          "phase": "Recognition of deception",
+          "chapter_range": [
+            34,
+            41
+          ],
+          "position_description": "He finally recognizes that Lucy has fundamentally deceived him. Trust collapses in that relationship, but he settles into controlled recognition rather than generalized cynicism.",
+          "key_moments": [
+            "Lady Audley's confession",
+            "His stunned repudiation",
+            "Refusal to hear more",
+            "Later insistence on distance and silence"
+          ]
+        }
+      ],
+      "evidence_summary": "The arc moves from uncritical trust to painful recognition of Lucy's falsehood. Sir Michael does not become broadly suspicious; instead, he absorbs a specific betrayal and responds with bounded withdrawal."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Idealization-Disillusionment",
+      "axis_name": "From domestic fantasy to humiliated realism",
+      "pole_start": "Idealizing and romanticizing: he imagines Lucy as beautiful, innocent, and fated, and marriage as morally elevating and emotionally restorative.",
+      "pole_end": "Disillusioned realism: he accepts the marriage as a site of falsehood and humiliation, no longer sustaining the fantasy of transcendent domestic happiness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Romantic idealization",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "He projects purity, delicacy, and destiny onto Lucy, and experiences domestic life as harmonious and meaningful despite early unease.",
+          "key_moments": [
+            "Feverish love in chapter 1",
+            "Admiration of Lucy's beauty and fragility",
+            "Belief in household harmony",
+            "Willingness to excuse minor oddities"
+          ]
+        },
+        {
+          "phase": "Strained idealization",
+          "chapter_range": [
+            16,
+            33
+          ],
+          "position_description": "His idealization is pressured but not broken. He notices oddities, yet converts them into harmless explanations that preserve the domestic fantasy.",
+          "key_moments": [
+            "Brief sense that there is some mystery",
+            "Acceptance of Lucy's account of Robert",
+            "Belief that Robert may be insane",
+            "Continued desire for family reconciliation"
+          ]
+        },
+        {
+          "phase": "Collapse of fantasy",
+          "chapter_range": [
+            34,
+            41
+          ],
+          "position_description": "The confession destroys the fantasy of Lucy as innocent wife and of marriage as restorative. He survives by replacing idealization with distance and silence.",
+          "key_moments": [
+            "Confession scene in chapter 34",
+            "Emotional collapse and departure",
+            "Permanent separation",
+            "Refusal to revisit the scandal"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Michael's deepest psychological movement is the collapse of a romantic domestic ideal. He begins by investing Lucy and marriage with salvific meaning, and ends by living with the knowledge that the ideal was false."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sir Michael Audley",
+      "target_character": "Lady Audley",
+      "dimension_label": "Trust-Repudiation",
+      "axis_name": "From devoted husband to betrayed exile",
+      "pole_start": "Deeply enamored, trusting, protective, and emotionally dependent; he sees Lucy as innocent, delicate, and worthy of total confidence.",
+      "pole_end": "Repudiating, wounded, and emotionally distant; he no longer trusts her and excludes her from his life, though with lingering pity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Idealizing devotion",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "He treats Lucy as the center of his emotional life, trusts her completely, and interprets her fragility as endearing and true.",
+          "key_moments": [
+            "Proposal and engagement in chapter 1",
+            "Protective concern during the storm",
+            "Admiration of her beauty before Robert",
+            "Acceptance of her explanations"
+          ]
+        },
+        {
+          "phase": "Credulous defense",
+          "chapter_range": [
+            16,
+            33
+          ],
+          "position_description": "Even when unsettled, he remains on Lucy's side, believing her account over contrary evidence and allowing her to shape his understanding of Robert.",
+          "key_moments": [
+            "He follows Lucy's lead in sending Robert away",
+            "He accepts her claim that Robert is mad",
+            "He remains emotionally dependent on her care",
+            "He does not suspect her bruise or distress"
+          ]
+        },
+        {
+          "phase": "Betrayal and exclusion",
+          "chapter_range": [
+            34,
+            41
+          ],
+          "position_description": "After the confession, trust collapses. He cannot bear her presence, leaves the house, and thereafter keeps her as a closed, morally excluded chapter.",
+          "key_moments": [
+            "Lady Audley's confession",
+            "His stunned withdrawal",
+            "Permanent separation from Audley Court",
+            "Refusal to know more about her fate"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Sir Michael's central relational arc. The relationship moves from total trust and romantic dependence to repudiation and enforced emotional distance after revelation of deception."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sir Michael Audley",
+      "target_character": "Robert Audley",
+      "dimension_label": "Esteem-Dependence",
+      "axis_name": "From hospitable family inclusion to delegated reliance",
+      "pole_start": "Warm, trusting, and socially open; Robert is welcomed as family and guest, with no suspicion and no special burden of crisis-management.",
+      "pole_end": "Practical reliance and delegated authority; Robert becomes the person Sir Michael trusts to handle the aftermath, even as Sir Michael withdraws emotionally from the crisis.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Warm family incorporation",
+          "chapter_range": [
+            7,
+            16
+          ],
+          "position_description": "He receives Robert as a welcome guest and surrogate son, extending hospitality and affection without suspicion.",
+          "key_moments": [
+            "Dinner invitation at Audley Court",
+            "Warm hospitality",
+            "Invitation to remain indefinitely"
+          ]
+        },
+        {
+          "phase": "Manipulated suspicion",
+          "chapter_range": [
+            25,
+            33
+          ],
+          "position_description": "Under Lucy's influence, he begins to see Robert as troubling or possibly unstable. Esteem is not erased, but it is increasingly overridden by alarm and a need to manage him.",
+          "key_moments": [
+            "Robert's warning unsettles him",
+            "Lucy frames Robert as dangerous",
+            "He considers a physician",
+            "He keeps Robert at a distance"
+          ]
+        },
+        {
+          "phase": "Delegated trust",
+          "chapter_range": [
+            34,
+            38
+          ],
+          "position_description": "After the confession, Robert becomes the practical agent to whom Sir Michael delegates the crisis. Trust becomes functional and explicit, even as emotional intimacy remains limited.",
+          "key_moments": [
+            "He asks Robert to take responsibility",
+            "He authorizes Robert to act mercifully",
+            "He relies on Robert's discretion and management"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert begins as an ordinary family presence and ends as the competent agent Sir Michael relies on after the marriage collapses. The relationship shifts from hospitality to practical dependence, with suspicion briefly interrupting but not overturning the final reliance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sir Michael Audley",
+      "target_character": "Audley Court",
+      "dimension_label": "Attachment-Avoidance",
+      "axis_name": "From domestic belonging to haunted avoidance",
+      "pole_start": "Strong attachment: Audley Court is the center of his imagined happy domestic life and the setting of his marital identity.",
+      "pole_end": "Avoidant estrangement: the house becomes inseparable from loss, deception, and scandal, so he refuses to return to it.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "House as home",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "The Court functions as a stable domestic center, organized around Lady Audley and his role as host and husband.",
+          "key_moments": [
+            "Public harmony at the house",
+            "Household centered on Lady Audley's return",
+            "Hosting guests at the Court",
+            "Domestic life appears restored"
+          ]
+        },
+        {
+          "phase": "House as site of contamination",
+          "chapter_range": [
+            25,
+            36
+          ],
+          "position_description": "As secrecy, illness, and revelation accumulate, the house becomes associated with hidden danger and moral collapse rather than comfort.",
+          "key_moments": [
+            "Sir Michael is confined and weakened at the Court",
+            "The domestic scene is shadowed by suspicion",
+            "The confession reinterprets the marriage as false",
+            "His collapse alters the household atmosphere"
+          ]
+        },
+        {
+          "phase": "Avoidant aftermath",
+          "chapter_range": [
+            41,
+            41
+          ],
+          "position_description": "He deliberately stays away from Audley Court and plans a new life elsewhere, signaling that the place can no longer be inhabited as a home.",
+          "key_moments": [
+            "Remains in London and refuses to return to Audley Court"
+          ]
+        }
+      ],
+      "evidence_summary": "Audley Court changes from the symbolic center of Sir Michael's domestic identity into a site of trauma. His final refusal to return marks a clear withdrawal from the house itself."
+    }
+  ]
+}

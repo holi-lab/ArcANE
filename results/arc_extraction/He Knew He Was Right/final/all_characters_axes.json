@@ -1,0 +1,2810 @@
+{
+  "Louis Trevelyan": {
+    "character": "Louis Trevelyan",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From possessive marital mastery to exhausted, partial relational surrender",
+            "set_b_axis": "From possessive mastery to broken, sacrificial attachment",
+            "overlap_description": "Both describe Louis's movement from coercive marital control toward a weakened, late-life yielding that is only partially reconciliatory."
+          },
+          {
+            "set_a_axis": "From jealous certainty to fragile, late trust",
+            "set_b_axis": "From denial of jealousy to belated, partial trust",
+            "overlap_description": "Both track the same jealousy-to-trust arc: Louis begins in denial and suspicion, then ends with a minimal, nonverbal trust gesture toward Emily."
+          },
+          {
+            "set_a_axis": "From self-justifying pride to degraded self-knowledge",
+            "set_b_axis": "From moral certainty to degraded self-reproach",
+            "overlap_description": "Both capture the erosion of Louis's self-righteousness into shame, humiliation, and a late awareness of his own ruin."
+          },
+          {
+            "set_a_axis": "From compulsive management to exhausted relinquishment",
+            "set_b_axis": "From coercive command to reluctant relinquishment",
+            "overlap_description": "Both identify a control-to-surrender pattern, with Louis's need to manage people and events collapsing into inability and reluctant yielding."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From possessive marital mastery to exhausted, partial relational surrender",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From jealous certainty to fragile, late trust",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From self-justifying pride to degraded self-knowledge",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From compulsive management to exhausted relinquishment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From possessive mastery to broken, sacrificial attachment",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From denial of jealousy to belated, partial trust",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From moral certainty to degraded self-reproach",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From coercive command to reluctant relinquishment",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From marital trust to accusatory estrangement and partial final release",
+            "set_b_axis": "From wounded love to final, fragile trust",
+            "overlap_description": "Both describe the Louis-Emily relationship as moving from compromised marital intimacy into suspicion, estrangement, and a final but incomplete softening."
+          },
+          {
+            "set_a_axis": "From social dislike to obsessive rival hatred",
+            "set_b_axis": "From social suspicion to obsessive enemy-making",
+            "overlap_description": "Both treat Osborne as the external rival who becomes the symbolic center of Louis's jealousy and hostility."
+          },
+          {
+            "set_a_axis": "From possible confidant to rejected mediator and finally uneasy ally",
+            "set_b_axis": "From possible confidant to rejected mediator and finally uneasy ally",
+            "overlap_description": "These are effectively the same arc: Stanbury moves from potential confidant to rebuffed intermediary, then to a practical but emotionally limited ally."
+          },
+          {
+            "set_a_axis": "From instrumental suspicion to degrading dependence",
+            "set_b_axis": "From disgusted use to desperate reliance",
+            "overlap_description": "Both describe Louis's relationship to Bozzle as a degrading instrumental dependence that deepens as his isolation grows."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From marital trust to accusatory estrangement and partial final release",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From social dislike to obsessive rival hatred",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From possible confidant to rejected mediator and finally uneasy ally",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From instrumental suspicion to degrading dependence",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From wounded love to final, fragile trust",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From social suspicion to obsessive enemy-making",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From disgusted use to desperate reliance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From possessive paternal control to wounded love",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From possessive mastery to broken, sacrificial attachment",
+        "pole_start": "Begins strongly on the agency side: self-assertive, controlling, possessive, and intent on mastering Emily's conduct and the marriage through authority, surveillance, and exclusion.",
+        "pole_end": "Ends closer to communion, but in a damaged and exhausted form: emotionally dependent, briefly tender, and willing to yield in a final act of reparation, though without full reconciliation or stable mutuality.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial possessive assertion",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Louis begins by asserting dominance over Emily's conduct, insisting on obedience and treating marital harmony as something to be secured by authority rather than mutuality.",
+            "key_moments": [
+              "First suspicion of Osborne and insistence he is not jealous",
+              "Ultimatum that Emily must never see Osborne again",
+              "Drafting a controlling letter that demands submission"
+            ]
+          },
+          {
+            "phase": "Coercive control and surveillance",
+            "chapter_range": [
+              9,
+              33
+            ],
+            "position_description": "His agency hardens into punitive control: he uses letters, intermediaries, legal pressure, and Bozzle to preserve mastery while intimacy collapses.",
+            "key_moments": [
+              "Rejecting outside interference and preparing stern confrontation",
+              "Using Lady Milborough, Hugh, and Bozzle as instruments",
+              "Formal separation and threats of legal retaliation"
+            ]
+          },
+          {
+            "phase": "Collapse of mastery",
+            "chapter_range": [
+              37,
+              93
+            ],
+            "position_description": "Control erodes under separation, illness, fear of confinement, and emotional exhaustion. He becomes increasingly dependent and unable to govern events, though he still clings to the child as a residual site of authority.",
+            "key_moments": [
+              "Grieving separation from wife and child",
+              "Dependence on Bozzle and the failure of legal mastery",
+              "Physical and emotional deterioration in Italy",
+              "Brief moments of tenderness toward Emily and Louey"
+            ]
+          },
+          {
+            "phase": "Final partial surrender",
+            "chapter_range": [
+              93,
+              99
+            ],
+            "position_description": "By the end, agency is largely spent; he can no longer sustain accusation with full force and yields through gesture rather than argument, offering a weak but real movement toward reparation.",
+            "key_moments": [
+              "Saying 'Yes; yes; yes.' to Emily",
+              "Allowing the kiss on his hand",
+              "Deathbed gesture of acquittal/reparation"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Louis's arc is a clear collapse of coercive mastery into exhausted, damaged attachment. The ending is not full reconciliation, but it does mark a real shift from domination toward yielding and partial communion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Jealousy-Trust",
+        "axis_name": "From denial of jealousy to belated, partial trust",
+        "pole_start": "Starts in denial and misrecognition: he insists he is not jealous even while acting from jealousy, suspicion, and possessiveness.",
+        "pole_end": "Ends with a minimal but meaningful act of trust toward Emily, though only at the point of death and without a full intellectual conversion.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Jealous denial",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "He is already jealous, but cannot admit it. He frames distress as principle, duty, and wounded dignity rather than mistrust.",
+            "key_moments": [
+              "Calling Osborne a snake in the grass while denying jealousy",
+              "Interpreting secrecy as proof of guilt",
+              "Issuing an ultimatum to Emily"
+            ]
+          },
+          {
+            "phase": "Obsessive suspicion",
+            "chapter_range": [
+              19,
+              45
+            ],
+            "position_description": "Jealousy becomes the organizing principle of his mind. He relies on surveillance, Bozzle, and rumor, and his suspicion hardens into near-certainty.",
+            "key_moments": [
+              "Bozzle surveillance and detective work",
+              "Treating Osborne's letters and visits as incriminating evidence",
+              "Accepting accusations as confirmation of betrayal"
+            ]
+          },
+          {
+            "phase": "Exhausted doubt",
+            "chapter_range": [
+              59,
+              93
+            ],
+            "position_description": "His jealousy remains, but physical collapse and emotional exhaustion weaken its absolute grip. He becomes more vulnerable to Emily's care and less able to sustain total certainty.",
+            "key_moments": [
+              "Physical decline and isolation in Italy",
+              "Brief tenderness toward Emily and Louey",
+              "Fear of confinement and persecution",
+              "Reluctant acceptance of the journey home"
+            ]
+          },
+          {
+            "phase": "Final trust gesture",
+            "chapter_range": [
+              93,
+              99
+            ],
+            "position_description": "At the end, he gives Emily a faint sign of trust, which is not a full renunciation of jealousy but a final collapse of resistance and a posthumous acknowledgment of her innocence.",
+            "key_moments": [
+              "Final kiss interpreted as trust",
+              "Death followed by retrospective reading of reparation"
+            ]
+          }
+        ],
+        "evidence_summary": "Louis's arc is not a clean conversion from jealousy to trust, but it does move from denial and obsessive suspicion toward a final, minimal trust gesture. The ending matters because it reverses the absolute mistrust that governed most of the novel."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Self-Justification-Shame",
+        "axis_name": "From moral certainty to degraded self-reproach",
+        "pole_start": "Begins with strong self-justification: he sees himself as rational, principled, and morally entitled to govern the marriage.",
+        "pole_end": "Ends in self-lacerating awareness of his own ruin, with shame, exhaustion, and a sense that he has become degraded and unworthy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Principled self-image",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "He repeatedly frames his conduct as duty, justice, and husbandly responsibility, refusing to see jealousy as the real motive.",
+            "key_moments": [
+              "Calling his objections principled rather than jealous",
+              "Seeking validation from Bideawhile and Lady Milborough",
+              "Treating obedience as the basis of marriage"
+            ]
+          },
+          {
+            "phase": "Humiliation and exposure",
+            "chapter_range": [
+              23,
+              45
+            ],
+            "position_description": "His reliance on Bozzle and surveillance begins to feel sordid. He still justifies himself, but shame and disgust increasingly accompany his actions.",
+            "key_moments": [
+              "Feeling degraded by Bozzle",
+              "Recognizing the filthiness of evidence-gathering",
+              "Becoming more isolated and publicly judged"
+            ]
+          },
+          {
+            "phase": "Self-lacerating collapse",
+            "chapter_range": [
+              59,
+              86
+            ],
+            "position_description": "He becomes aware of his own deterioration: ill-dressed, haggard, feverish, and mentally unstable. He begins to see himself as ruined, though not yet morally repentant.",
+            "key_moments": [
+              "Describing himself as degraded and dependent on brandy",
+              "Thinking of his suffering as expiation",
+              "Calling attention to his own physical and mental decline"
+            ]
+          },
+          {
+            "phase": "Fatalistic remorse",
+            "chapter_range": [
+              91,
+              99
+            ],
+            "position_description": "At the end, self-reproach becomes more explicit, though still incomplete. He is no longer merely self-justifying; he is a broken figure whose final gesture implies regret and reparation.",
+            "key_moments": [
+              "Withering away at Casalunga",
+              "Final softening toward Emily",
+              "Posthumous framing of his last act as reparation"
+            ]
+          }
+        ],
+        "evidence_summary": "Louis never fully abandons self-justification in life, but he does move toward shame and self-reproach. The late chapters make his own degradation impossible to ignore, and the ending converts that degradation into a muted form of remorse."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Control-Surrender",
+        "axis_name": "From coercive command to reluctant relinquishment",
+        "pole_start": "Starts with a need to command Emily, exclude Osborne, and regulate every aspect of the marriage.",
+        "pole_end": "Ends with reluctant surrender: he gives up control over the child, weakly yields to Emily's care, and dies having partially relinquished his claim to mastery.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Commanding control",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "He tries to dictate Emily's conduct through ultimatums, letters, and social pressure.",
+            "key_moments": [
+              "Demanding Osborne's exclusion",
+              "Drafting controlling correspondence",
+              "Arranging separation and relocation"
+            ]
+          },
+          {
+            "phase": "Legal and paternal coercion",
+            "chapter_range": [
+              26,
+              61
+            ],
+            "position_description": "Control becomes formalized through surveillance, legal threats, and custody claims. He tries to dominate through institutions when direct authority fails.",
+            "key_moments": [
+              "Using Bozzle to gather evidence",
+              "Threatening separation and custody loss",
+              "Attempting to retain Louey"
+            ]
+          },
+          {
+            "phase": "Control breaking down",
+            "chapter_range": [
+              69,
+              93
+            ],
+            "position_description": "His body and mind fail him, and control becomes increasingly impossible. He resists intervention but is forced into movement, medical scrutiny, and dependence.",
+            "key_moments": [
+              "Fear of being declared mad",
+              "Plan to flee to America",
+              "Reluctant return and acceptance of care"
+            ]
+          },
+          {
+            "phase": "Relinquishment",
+            "chapter_range": [
+              94,
+              99
+            ],
+            "position_description": "He no longer meaningfully controls the situation. His final act is a weak trust gesture, and the narrative closes on his death rather than mastery.",
+            "key_moments": [
+              "Final kiss to Emily",
+              "Death and retrospective absolution"
+            ]
+          }
+        ],
+        "evidence_summary": "The novel traces a clear collapse of Louis's controlling will. He begins as a coercive husband and ends unable to sustain control, with his last meaningful act being a surrender of resistance."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Louis Trevelyan",
+        "target_character": "Emily Trevelyan",
+        "dimension_label": "Trust-Suspicion",
+        "axis_name": "From wounded love to final, fragile trust",
+        "pole_start": "Begins with love mixed with suspicion, possessiveness, and a need for Emily's submission; he does not trust her independence or her explanations.",
+        "pole_end": "Ends with a faint but meaningful gesture of trust and posthumous reparation, though the relationship never fully heals in life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early marital fracture",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "He loves Emily but immediately interprets her defense of Osborne as a threat. Trust is already compromised by wounded pride.",
+            "key_moments": [
+              "Insulted by Emily's defense of Osborne",
+              "Ultimatum that she must not receive him",
+              "Attempts at apology blocked by pride"
+            ]
+          },
+          {
+            "phase": "Open suspicion and coercion",
+            "chapter_range": [
+              9,
+              29
+            ],
+            "position_description": "Trust collapses into suspicion. He treats Emily's secrecy and correspondence as proof of guilt and uses intermediaries to pressure her.",
+            "key_moments": [
+              "Demanding promises never to see Osborne",
+              "Bozzle surveillance",
+              "Threatening separation and banishment"
+            ]
+          },
+          {
+            "phase": "Conditional dependence",
+            "chapter_range": [
+              59,
+              86
+            ],
+            "position_description": "He still mistrusts her, but physical collapse makes him dependent on her care. Brief tenderness appears, though always under the condition that she confess and submit.",
+            "key_moments": [
+              "Brief reunion with Emily and Louey",
+              "Momentary tenderness followed by renewed demands",
+              "Self-punishing longing for reconciliation"
+            ]
+          },
+          {
+            "phase": "Final trust gesture",
+            "chapter_range": [
+              98,
+              99
+            ],
+            "position_description": "At the end, he gives Emily a final sign of trust, which functions as a belated acknowledgment of her innocence and a last act of repair.",
+            "key_moments": [
+              "Final kiss interpreted as trust",
+              "Death and retrospective absolution"
+            ]
+          }
+        ],
+        "evidence_summary": "This is the central relational arc in the novel. Louis moves from mistrustful love into obsessive suspicion, then into exhausted dependence, and finally into a dying gesture of trust."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Louis Trevelyan",
+        "target_character": "Colonel Osborne",
+        "dimension_label": "Rivalry-Hostility",
+        "axis_name": "From social suspicion to obsessive enemy-making",
+        "pole_start": "Begins with suspicion and moral dislike, but not yet total fixation.",
+        "pole_end": "Ends in entrenched hostility, with Osborne functioning as the symbolic cause of Louis's humiliation and jealousy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial suspicion",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Osborne is already unwelcome and morally suspect, but Louis still frames his concern as principled concern rather than full rivalry.",
+            "key_moments": [
+              "Calling Osborne a snake in the grass",
+              "Insisting he is not jealous"
+            ]
+          },
+          {
+            "phase": "Rival becomes contaminant",
+            "chapter_range": [
+              5,
+              26
+            ],
+            "position_description": "Osborne becomes the central rival and contaminating presence whose letters, visits, and proximity to Emily justify Louis's anger.",
+            "key_moments": [
+              "Demanding Osborne's exclusion",
+              "Treating correspondence as proof of guilt",
+              "Using surveillance to track Osborne"
+            ]
+          },
+          {
+            "phase": "Fixed symbolic enemy",
+            "chapter_range": [
+              38,
+              61
+            ],
+            "position_description": "Osborne is now the imagined adulterer and embodiment of dishonor. Louis's hatred is less about evidence than about the need to stabilize his grievance.",
+            "key_moments": [
+              "Bozzle reports intensify suspicion",
+              "Louis treats Osborne as the source of ruin",
+              "Custody and separation are justified by Osborne's supposed influence"
+            ]
+          },
+          {
+            "phase": "Persistent post-collapse hostility",
+            "chapter_range": [
+              67,
+              99
+            ],
+            "position_description": "Even as Louis weakens, Osborne remains the enemy figure in his mind. The hostility does not disappear; it simply becomes part of the tragic residue of his breakdown.",
+            "key_moments": [
+              "Continued references to Osborne as corrupter",
+              "Final unresolved grievance before death"
+            ]
+          }
+        ],
+        "evidence_summary": "Osborne never becomes a nuanced rival in Louis's mind; he becomes a fixed symbolic enemy. The relationship is one of escalating hostility with no real reversal."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Louis Trevelyan",
+        "target_character": "Hugh Stanbury",
+        "dimension_label": "Trust-Isolation",
+        "axis_name": "From possible confidant to rejected mediator and finally uneasy ally",
+        "pole_start": "Begins with the possibility of friendship and confession; Stanbury is a trusted listener Louis might have relied on.",
+        "pole_end": "Ends in a strained, partial trust: Stanbury helps him practically, but Louis remains suspicious and emotionally isolated.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Confidential possibility",
+            "chapter_range": [
+              4,
+              6
+            ],
+            "position_description": "Louis considers telling Stanbury the whole story, but pride and shame prevent full disclosure.",
+            "key_moments": [
+              "Decides not to confide in Stanbury",
+              "Speaks coldly and formally to him"
+            ]
+          },
+          {
+            "phase": "Rejection of mediation",
+            "chapter_range": [
+              9,
+              32
+            ],
+            "position_description": "Stanbury repeatedly tries to mediate, but Louis rejects interference and eventually quarrels with him, breaking the friendship's trust.",
+            "key_moments": [
+              "Cuts short Stanbury's attempt at conciliation",
+              "Refuses softening of the matter",
+              "Quarrels with Stanbury and leaves for Paris"
+            ]
+          },
+          {
+            "phase": "Practical dependence without intimacy",
+            "chapter_range": [
+              37,
+              93
+            ],
+            "position_description": "Stanbury becomes useful as organizer, witness, and escort, but Louis never fully reopens trust; the relationship is functional rather than intimate.",
+            "key_moments": [
+              "Feels intruded upon by the wider social circle",
+              "Infers legal danger and plans escape",
+              "Submits to Stanbury's plan to return to England"
+            ]
+          }
+        ],
+        "evidence_summary": "Stanbury is the main relational counterweight to Louis's isolation. The arc moves from potential confidant to rejected mediator, then to a grudging practical ally whose trust is never fully restored."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Louis Trevelyan",
+        "target_character": "Samuel Bozzle",
+        "dimension_label": "Contempt-Dependence",
+        "axis_name": "From disgusted use to desperate reliance",
+        "pole_start": "Begins with reluctance and moral distaste; Bozzle is useful but degrading.",
+        "pole_end": "Ends in near-exclusive dependence, with Bozzle as the only trusted ally in Louis's isolated world.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Reluctant instrument",
+            "chapter_range": [
+              19,
+              23
+            ],
+            "position_description": "Louis uses Bozzle for surveillance but feels contaminated by the association and ashamed of the method.",
+            "key_moments": [
+              "Private-detective surveillance",
+              "Feeling degraded by Bozzle's vulgarity"
+            ]
+          },
+          {
+            "phase": "Necessary evil",
+            "chapter_range": [
+              26,
+              45
+            ],
+            "position_description": "Bozzle becomes indispensable because he supplies the facts Louis craves. Contempt remains, but utility dominates.",
+            "key_moments": [
+              "Bozzle's reports intensify jealousy",
+              "Louis relies on him for evidence against Emily and Osborne"
+            ]
+          },
+          {
+            "phase": "Only loyal ally",
+            "chapter_range": [
+              59,
+              76
+            ],
+            "position_description": "As Louis becomes isolated, Bozzle is the only person he still trusts. This is not warmth but desperate dependence.",
+            "key_moments": [
+              "Bozzle as sole trusted ally",
+              "Keeping his address known only to Bozzle",
+              "Using Bozzle in legal and custodial pressure"
+            ]
+          },
+          {
+            "phase": "Residual dependence under collapse",
+            "chapter_range": [
+              78,
+              99
+            ],
+            "position_description": "Even as Louis weakens, Bozzle remains the practical extension of his will. The relationship is still instrumental and morally degrading.",
+            "key_moments": [
+              "Bozzle used in custody attempts",
+              "Continued reliance on surveillance and enforcement"
+            ]
+          }
+        ],
+        "evidence_summary": "Bozzle is the clearest sign of Louis's moral and psychological degradation. The relationship moves from shameful utility to desperate dependence, with no genuine intimacy."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Louis Trevelyan",
+        "target_character": "Louey",
+        "dimension_label": "Possession-Tenderness",
+        "axis_name": "From paternal leverage to wounded love",
+        "pole_start": "Begins with possessive paternal control: the child is part of Louis's claim over Emily and the marriage.",
+        "pole_end": "Ends with a more openly tender but still wounded attachment, though the child remains entangled in control and loss.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Child as leverage",
+            "chapter_range": [
+              52,
+              61
+            ],
+            "position_description": "Louis treats Louey as an object of rightful recovery and a means of pressuring Emily.",
+            "key_moments": [
+              "Attempt to recover custody through Bozzle",
+              "Child used as leverage in the marital struggle"
+            ]
+          },
+          {
+            "phase": "Emotional injury through the child",
+            "chapter_range": [
+              67,
+              86
+            ],
+            "position_description": "His attachment becomes more visibly emotional. He is hurt by the child's fear and preference for Emily, and this deepens his sense of rejection.",
+            "key_moments": [
+              "Weeping over Louey",
+              "Child's reluctance and fear",
+              "Decision to surrender the boy bitterly"
+            ]
+          },
+          {
+            "phase": "Final separation and loss",
+            "chapter_range": [
+              91,
+              99
+            ],
+            "position_description": "Louey remains central to Louis's longing, but the relationship is now defined by loss rather than control. The child is no longer a tool alone; he is a source of grief and final vulnerability.",
+            "key_moments": [
+              "Physical decline while separated from the child",
+              "Final emotional collapse and death"
+            ]
+          }
+        ],
+        "evidence_summary": "Louis never stops being possessive of his son, but the relationship acquires genuine tenderness and grief as the novel progresses. The child becomes both leverage and wound."
+      }
+    ]
+  },
+  "Emily Trevelyan": {
+    "character": "Emily Trevelyan",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From proud self-assertion to dutiful relational endurance",
+            "set_b_axis": "From proud self-assertion to duty-bound relational care",
+            "overlap_description": "Both describe Emily's movement from defiant self-assertion toward a later ethic of duty, care, and endurance, with agency redirected away from self-defense and toward relational obligation."
+          },
+          {
+            "set_a_axis": "From honor-defense to self-abasing reconciliation",
+            "set_b_axis": "From self-justifying innocence to chastened moral acquittal",
+            "overlap_description": "Both track Emily's changing relation to moral innocence and apology: she begins by defending herself absolutely, then ends in a posture of humility, tactical self-blame, and final acquittal rather than continued insistence on pride."
+          },
+          {
+            "set_a_axis": "From indignation to compassionate endurance",
+            "set_b_axis": "From hot indignation to disciplined endurance",
+            "overlap_description": "Both capture the same emotional shift from reactive anger and wounded pride toward a more controlled, enduring response shaped by pity, duty, and sustained care."
+          },
+          {
+            "set_a_axis": "From social confidence to precarious dependence",
+            "set_b_axis": "From wounded wife to child-centered protector",
+            "overlap_description": "These are complementary rather than identical: both note Emily's loss of secure social footing and the increasing centrality of motherhood, but B isolates maternal priority while A emphasizes broader social precarity."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From proud self-assertion to dutiful relational endurance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From honor-defense to self-abasing reconciliation",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From insisting on innocence to accepting sacrificial blame",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From indignation to compassionate endurance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From social confidence to precarious dependence",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From proud self-assertion to duty-bound relational care",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From self-justifying innocence to chastened moral acquittal",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From hot indignation to disciplined endurance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From wounded wife to child-centered protector",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From marital trust to mutual suspicion and partial posthumous reconciliation",
+            "set_b_axis": "From wounded wifehood to duty-bound estrangement",
+            "overlap_description": "Both describe the collapse of marital trust with Louis Trevelyan, followed by a late-stage shift from antagonism toward pity, duty, and symbolic rather than fully restored reconciliation."
+          },
+          {
+            "set_a_axis": "From trusted family friend to socially dangerous association",
+            "set_b_axis": "From trusted friend to socially dangerous attachment",
+            "overlap_description": "Both treat Colonel Osborne as moving from harmless family acquaintance to a socially compromised figure whose significance is transformed by secrecy, suspicion, and scandal."
+          },
+          {
+            "set_a_axis": "From irritated dependence to deepened sisterly alliance",
+            "set_b_axis": "From intimate sisterly alliance to strained but enduring support",
+            "overlap_description": "Both identify Nora Rowley as a stable sisterly bond that survives conflict and becomes a crucial source of mediation, witness, and emotional support."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From incidental acquaintance to trusted moral ally",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From friction to candid respect",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From beloved child to absolute emotional center",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency–Communion",
+        "axis_name": "From proud self-assertion to duty-bound relational care",
+        "pole_start": "Emily begins as strongly self-assertive, proud, resistant to control, and determined to preserve her independence and dignity against marital pressure.",
+        "pole_end": "She ends more communion-oriented: still self-respecting, but increasingly defined by duty, pity, maternal care, and endurance near Trevelyan and her child.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defiant autonomy",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Emily resists Louis's implied authority, insists on her own judgment, and treats submission as humiliation. Her agency is expressed as pride, resistance, and refusal to concede.",
+            "key_moments": [
+              "Refuses to treat Colonel Osborne as improper",
+              "Insists on apology before reconciliation",
+              "Rejects confession of wrongdoing"
+            ]
+          },
+          {
+            "phase": "Maternal pressure and tactical compliance",
+            "chapter_range": [
+              14,
+              33
+            ],
+            "position_description": "Her agency remains strong, but it is increasingly constrained by maternal fear, social stigma, and practical dependence. She begins to negotiate rather than simply resist.",
+            "key_moments": [
+              "Settles into the Clock House with the baby",
+              "Uses intermediaries and controlled withdrawal",
+              "Fears losing access to Louey"
+            ]
+          },
+          {
+            "phase": "Duty-bound care",
+            "chapter_range": [
+              52,
+              99
+            ],
+            "position_description": "Emily's self-assertion is redirected into caregiving, vigilance, and endurance. She acts less to win the quarrel than to preserve her child, nurse Trevelyan, and maintain moral order.",
+            "key_moments": [
+              "Panic over Louey's custody and safety",
+              "Stays near Trevelyan in Italy under unstable conditions",
+              "Nurses Trevelyan through illness and seeks peace"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily moves from proud confrontation toward a more relationally bound ethic of care and endurance. She never becomes passive, but her agency is increasingly expressed through duty, maternal protection, and service rather than resistance."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Pride–Humility",
+        "axis_name": "From honor-defense to sacrificial humility",
+        "pole_start": "Emily initially treats yielding as humiliation and frames conflict as a test of honor and moral standing.",
+        "pole_end": "By the end she is willing to abase herself, confess fault strategically, and seek forgiveness to preserve peace and care for Trevelyan.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Honor as self-defense",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Emily insists on her innocence and refuses to soften first. Pride functions as moral armor against coercion and shame.",
+            "key_moments": [
+              "Declares Louis must apologize before she will yield",
+              "Refuses to appear afraid or compromised",
+              "Withdraws rather than accept a false reconciliation"
+            ]
+          },
+          {
+            "phase": "Pride under pressure",
+            "chapter_range": [
+              14,
+              63
+            ],
+            "position_description": "Her pride remains strong, but it is increasingly strained by threats to her child, her reputation, and her security. She begins to accept tactical humility without inward surrender.",
+            "key_moments": [
+              "Accepts separation arrangements on practical terms",
+              "Endures social stigma and custody threats",
+              "Considers humility as a means of recovering Louey"
+            ]
+          },
+          {
+            "phase": "Sacrificial humility",
+            "chapter_range": [
+              93,
+              99
+            ],
+            "position_description": "Emily kneels, begs forgiveness, and even confesses fault to soothe Trevelyan. Pride is no longer governing; mercy, care, and survival are.",
+            "key_moments": [
+              "Begs Trevelyan to forgive her",
+              "Tells him all the fault was hers",
+              "Waits for his final sign of acquittal"
+            ]
+          }
+        ],
+        "evidence_summary": "The arc runs from pride as defensive identity to humility as an accepted moral and emotional cost of sustaining relationship and peace."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Innocence–Self-Sacrifice",
+        "axis_name": "From defending innocence to accepting sacrificial blame",
+        "pole_start": "Emily begins by insisting that she is innocent and that any concession would falsely validate Louis's jealousy.",
+        "pole_end": "She ends by accepting blame strategically and sacrificially, even when she knows it is not true, in order to protect Trevelyan and preserve peace.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Innocence defended",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Emily repeatedly insists that she has done nothing wrong and that Louis's suspicions are unreasonable. Her moral identity depends on being seen as innocent.",
+            "key_moments": [
+              "Refuses to treat Osborne's visits as improper",
+              "Rejects warnings about secrecy",
+              "Insists she will not admit guilt"
+            ]
+          },
+          {
+            "phase": "Innocence under siege",
+            "chapter_range": [
+              27,
+              67
+            ],
+            "position_description": "Trevelyan's accusations, threats, and coercive letters make innocence harder to sustain socially, even though Emily internally maintains it. She learns that appearances can overpower truth.",
+            "key_moments": [
+              "Receives threats about child custody and support",
+              "Is publicly framed as disgraceful",
+              "Begins to suspect Trevelyan may be mentally unwell"
+            ]
+          },
+          {
+            "phase": "Sacrificial confession",
+            "chapter_range": [
+              95,
+              99
+            ],
+            "position_description": "Emily accepts blame to calm Trevelyan and preserve his peace, treating confession as a form of endurance rather than truth.",
+            "key_moments": [
+              "Tells Trevelyan all the fault was hers",
+              "Continues silent attendance despite abuse",
+              "Seeks posthumous vindication only at the end"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily's moral center shifts from defending innocence as a public claim to using self-blame as a protective, sacrificial act."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Pity–Indignation",
+        "axis_name": "From indignation to compassionate endurance",
+        "pole_start": "Emily begins in indignation, interpreting conflict as insult, injustice, and humiliation.",
+        "pole_end": "She ends in pity-driven endurance, seeing Trevelyan as ill and vulnerable and responding with care rather than retaliation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Indignant injury",
+            "chapter_range": [
+              1,
+              28
+            ],
+            "position_description": "Her emotional life is dominated by wounded pride, resentment, and the need to answer insult with resistance.",
+            "key_moments": [
+              "Treats Louis's tone as a gross insult",
+              "Frames the quarrel as persecution",
+              "Threatens exposure in response to accusations"
+            ]
+          },
+          {
+            "phase": "Pity enters the frame",
+            "chapter_range": [
+              67,
+              92
+            ],
+            "position_description": "As Trevelyan's condition worsens, Emily begins to interpret him as possibly mad or physically broken. Her anger is increasingly complicated by pity and responsibility.",
+            "key_moments": [
+              "Fears he may be mentally unwell",
+              "Learns he looks wasted and unsafe",
+              "Decides to remain near him in Italy"
+            ]
+          },
+          {
+            "phase": "Compassionate vigilance",
+            "chapter_range": [
+              92,
+              99
+            ],
+            "position_description": "Emily becomes a nurse-like presence, absorbing abuse and seeking to protect Trevelyan from himself. Pity now governs her conduct more than grievance does.",
+            "key_moments": [
+              "Visits him daily despite insults",
+              "Describes his mind as diseased",
+              "Stays at his bedside through his final days"
+            ]
+          }
+        ],
+        "evidence_summary": "The emotional center of Emily's arc shifts from reactive indignation to compassionate caretaking. She does not stop suffering, but she increasingly converts suffering into pity and duty."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "Security–Precarity",
+        "axis_name": "From social confidence to precarious dependence",
+        "pole_start": "Emily begins socially secure, newly married, and confident in the respectability of her position.",
+        "pole_end": "She ends as a widow whose remaining stability comes from property and motherhood, after passing through repeated experiences of social exposure and dependence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial security",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Marriage initially seems fortunate and socially validating. Emily assumes she occupies a stable, admired position.",
+            "key_moments": [
+              "Marries Louis and leaves the Mandarins for London",
+              "Feels hopeful and secure in her new status"
+            ]
+          },
+          {
+            "phase": "Exposure and stigma",
+            "chapter_range": [
+              5,
+              29
+            ],
+            "position_description": "Secrecy, gossip, and domestic conflict make her position increasingly unstable. She learns that even shelter and family support are conditional and socially risky.",
+            "key_moments": [
+              "Fears losing her child in separation",
+              "Feels shame in front of servants and household observers",
+              "Learns the Clock House refuge carries social cost"
+            ]
+          },
+          {
+            "phase": "Dependence and narrowed future",
+            "chapter_range": [
+              60,
+              99
+            ],
+            "position_description": "Emily's life becomes contingent on Trevelyan's illness, others' mediation, and her child's fate. By the end, widowhood gives her material security, but not the expansive future she once had.",
+            "key_moments": [
+              "Returns to her father as a practical refuge",
+              "Lives in Italy near Trevelyan under unstable conditions",
+              "Ends in widowhood with her child as her main source of meaning"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily's arc is marked by a steady loss of social certainty. She moves from a secure marriage plot into a world of conditional shelter, dependency, and finally narrowed but stable widowhood."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Emily Trevelyan",
+        "target_character": "Louis Trevelyan",
+        "dimension_label": "Trust–Suspicion",
+        "axis_name": "From marital trust to duty-bound estrangement",
+        "pole_start": "Emily begins with affectionate trust in Louis as a valued husband, even as his possessiveness foreshadows conflict.",
+        "pole_end": "She ends in near-total distrust and emotional estrangement, softened only by pity, duty, and the need to manage his illness rather than by restored marital trust.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial rupture",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Emily begins hurt and defiant, then moves through repeated confrontations in which trust collapses and intimacy becomes conditional on Louis's apology.",
+            "key_moments": [
+              "Insult over Colonel Osborne",
+              "Public accusation",
+              "Refusal to submit"
+            ]
+          },
+          {
+            "phase": "Separation and hostility",
+            "chapter_range": [
+              14,
+              63
+            ],
+            "position_description": "The marriage breaks into separation, custody conflict, and public scandal. Trust is effectively gone; Emily's relation to Louis becomes one of grievance, fear, and tactical management.",
+            "key_moments": [
+              "Departure from the Clock House",
+              "Child-custody crisis",
+              "Desperate attempts to reach him"
+            ]
+          },
+          {
+            "phase": "Pity and duty",
+            "chapter_range": [
+              67,
+              99
+            ],
+            "position_description": "After seeing Trevelyan's decline, Emily's relation to him is no longer only antagonistic. She still distrusts him, but pity, duty, and caregiving create a fragile, non-romantic intimacy that culminates in his final acquittal of her.",
+            "key_moments": [
+              "Recognition of possible madness",
+              "Softened care and willingness to remain near him",
+              "Final kiss and symbolic absolution"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily moves from an embattled marriage still seeking recognition, to estrangement and custody conflict, and finally to a duty-bound, pitying proximity that ends in symbolic moral release rather than restored marital trust."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Emily Trevelyan",
+        "target_character": "Colonel Osborne",
+        "dimension_label": "Familiarity–Scandal",
+        "axis_name": "From trusted family friend to socially dangerous attachment",
+        "pole_start": "Emily initially experiences Colonel Osborne as an old family friend whose visits seem innocent and proper.",
+        "pole_end": "He becomes a socially dangerous, morally compromised figure whose importance fades as scandal and danger intensify.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Trusted familiarity",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Emily defends Osborne as a harmless, longstanding acquaintance and accepts his help for her parents.",
+            "key_moments": [
+              "Refuses to treat Louis's discomfort as valid",
+              "Accepts his assistance"
+            ]
+          },
+          {
+            "phase": "Charged secrecy",
+            "chapter_range": [
+              3,
+              24
+            ],
+            "position_description": "Letters, visits, and secrecy make the relationship increasingly ambiguous. Emily insists on propriety, but the social meaning of the connection becomes unstable.",
+            "key_moments": [
+              "Secret correspondence",
+              "Permits visits under caution",
+              "Damage control amid suspicion"
+            ]
+          },
+          {
+            "phase": "Withdrawal from scandal",
+            "chapter_range": [
+              28,
+              99
+            ],
+            "position_description": "As the marital crisis deepens and Trevelyan's illness overtakes the story, Osborne recedes from emotional centrality. He remains part of the old scandal rather than a live attachment.",
+            "key_moments": [
+              "Tactical departure and reduced emphasis on Osborne",
+              "Shift to Louey and Trevelyan's illness",
+              "Osborne no longer central to her emotional life"
+            ]
+          }
+        ],
+        "evidence_summary": "Osborne shifts from trusted friend to a socially risky figure whose significance fades as maternal and duty-based concerns take over."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Emily Trevelyan",
+        "target_character": "Nora Rowley",
+        "dimension_label": "Confiding–Mediation",
+        "axis_name": "From intimate sisterly alliance to strained but enduring support",
+        "pole_start": "Emily begins with a warm, high-trust sisterly bond in which she confides freely and expects Nora to understand her.",
+        "pole_end": "The bond remains strong but more burdened, with Nora serving as emotional shelter, witness, and mediator even as Emily becomes more defensive and dependent on restraint.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Close confidantes",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Emily relies on Nora as a trusted confidante and mediator, though she sometimes dismisses Nora's caution.",
+            "key_moments": [
+              "Nora's warnings about Osborne",
+              "Mediation during outward reconciliation",
+              "Nora as emotional shelter"
+            ]
+          },
+          {
+            "phase": "Shared crisis",
+            "chapter_range": [
+              14,
+              63
+            ],
+            "position_description": "Nora remains central, but the relationship becomes more strained by Emily's need to manage scandal, separation, and custody. Nora is still trusted, yet Emily increasingly uses her as witness and support rather than as equal confidante.",
+            "key_moments": [
+              "Departure and reliance on Nora",
+              "Parallel romantic crisis",
+              "Continued dependence during Louey crisis"
+            ]
+          },
+          {
+            "phase": "Enduring sisterhood",
+            "chapter_range": [
+              67,
+              99
+            ],
+            "position_description": "Even as Emily's life narrows into duty and Trevelyan's illness, Nora remains a stable emotional ally. The bond is less central to plot than before, but it remains warm, intimate, and reliable.",
+            "key_moments": [
+              "Witness to Louey crisis",
+              "Continued support during reconciliation attempts",
+              "Witness to Trevelyan's final acquittal"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora is Emily's most stable human attachment besides her child. Their bond is tested by scandal and defensiveness, but it never breaks; it becomes more burdened while remaining intimate and reliable."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Emily Trevelyan",
+        "target_character": "Louey Trevelyan",
+        "dimension_label": "Custody–Devotion",
+        "axis_name": "From beloved child to absolute emotional center",
+        "pole_start": "Louey begins as a loved child within the family, important but not yet the sole center of Emily's emotional life.",
+        "pole_end": "He becomes the absolute center of her love, fear, and purpose; his safety and presence are the main measure of her happiness and moral endurance.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Growing maternal concern",
+            "chapter_range": [
+              5,
+              29
+            ],
+            "position_description": "Fear of losing her son begins to dominate Emily's thinking, and she increasingly measures the marriage crisis by its effect on him.",
+            "key_moments": [
+              "Fear of losing custody",
+              "Relief at keeping the baby",
+              "Departure with the child"
+            ]
+          },
+          {
+            "phase": "Custody crisis",
+            "chapter_range": [
+              52,
+              67
+            ],
+            "position_description": "Louey becomes the center of a direct struggle between Emily and Trevelyan. Her emotional life is dominated by panic, vigilance, and desperate attempts to keep him safe.",
+            "key_moments": [
+              "Bozzle's arrival to claim the child",
+              "Abduction and panic",
+              "Reunion and renewed fear"
+            ]
+          },
+          {
+            "phase": "Restored but fragile attachment",
+            "chapter_range": [
+              79,
+              99
+            ],
+            "position_description": "After repeated crises, Louey's return gives Emily relief and purpose. By the end, he is the main source of meaning in her life and the anchor of her future.",
+            "key_moments": [
+              "Reunion at Casalunga",
+              "Louey safely restored",
+              "Future life centered on the child"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily's maternal arc is one of the novel's strongest emotional lines. Louey moves from being one important family member to the central object of her love, fear, and purpose, especially after the custody crisis and Trevelyan's death."
+      }
+    ]
+  },
+  "Colonel Osborne": {
+    "character": "Colonel Osborne",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From socially confident self-assertion to defensive self-justifying agency",
+            "set_b_axis": "From socially expansive self-assertion to guarded self-protective agency",
+            "overlap_description": "Both describe Osborne as remaining strongly agentic while his agency shifts from easy social confidence to defensive, reputation-conscious self-protection under suspicion."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From socially confident self-assertion to defensive self-justifying agency",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From socially expansive self-assertion to guarded self-protective agency",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From easy familiarity to scandal-charged intimacy",
+            "set_b_axis": "From easy familiar intimacy to covert, defended attachment",
+            "overlap_description": "Both track the same core relationship with Emily: it begins as socially easy familiarity and becomes increasingly compromised, hidden, and defended as scandal and surveillance intensify."
+          },
+          {
+            "set_a_axis": "From amused contempt to embattled hostility",
+            "set_b_axis": "From indifferent disregard to defensive antagonism",
+            "overlap_description": "Both describe Osborne's relation to Trevelyan as hardening from casual dismissal and amusement into entrenched antagonism and contempt."
+          },
+          {
+            "set_a_axis": "From easy alliance to strained self-defense",
+            "set_b_axis": "From old-family cordiality to defensive alliance management",
+            "overlap_description": "Both identify a relationship with Sir Marmaduke that shifts from easy elite familiarity to a more tactical, self-justifying posture under scrutiny."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From easy familiarity to scandal-charged intimacy",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From amused contempt to embattled hostility",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From easy alliance to strained self-defense",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From easy familiar intimacy to covert, defended attachment",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From indifferent disregard to defensive antagonism",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From old-family cordiality to defensive alliance management",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From socially confident self-assertion to guarded self-protective agency",
+        "pole_start": "High agency with moderate communion: Osborne begins as socially confident, mobile, and entitled, treating elite access and familiar intimacy as natural and unproblematic.",
+        "pole_end": "Still high agency, but narrowed into defensive self-protection: he remains assertive and controlling, yet increasingly focused on deniability, reputation management, and self-justification under scrutiny.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Baseline social ease and entitlement",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Osborne begins as a polished, self-possessed man who assumes access to Emily Trevelyan's household and moves through elite circles with ease. His agency appears as charm, flirtation, and social confidence rather than overt conflict.",
+            "key_moments": [
+              "Early visits to Mrs. Trevelyan's house",
+              "Uses familiar, affectionate notes",
+              "Shows no guilt or self-scrutiny",
+              "Enjoys the social effect of provoking jealousy"
+            ]
+          },
+          {
+            "phase": "Tactical self-protection under suspicion",
+            "chapter_range": [
+              11,
+              28
+            ],
+            "position_description": "As Trevelyan's jealousy and surveillance intensify, Osborne does not become less agentic; instead, his agency becomes more defensive and strategic. He keeps pressing for access while learning to manage appearances, preserve deniability, and avoid direct confrontation.",
+            "key_moments": [
+              "Continues correspondence and visits despite suspicion",
+              "Feels embarrassment after the failed Clock House visit",
+              "Recognizes he must be more careful after Stanbury's challenge",
+              "Uses ambiguous letters and plausible excuses to maintain contact"
+            ]
+          },
+          {
+            "phase": "Defensive composure and self-justification",
+            "chapter_range": [
+              29,
+              99
+            ],
+            "position_description": "In the later novel he remains socially forceful but increasingly self-protective. His agency is expressed through controlled explanation, class judgment, and insistence on innocence rather than through open social ease.",
+            "key_moments": [
+              "Continues to be discussed as the scandal's cause",
+              "Defends himself to Sir Marmaduke in chapter 64",
+              "Frames his conduct as innocent and proper",
+              "Judges others from a position of social superiority"
+            ]
+          }
+        ],
+        "evidence_summary": "Osborne does not undergo a deep moral reversal. He remains strongly agentic throughout, but the form of that agency shifts from easy social dominance to guarded, reputation-conscious self-protection. Communion never becomes genuinely reciprocal; it is mostly instrumental and increasingly narrowed by scandal."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Colonel Osborne",
+        "target_character": "Emily Trevelyan",
+        "dimension_label": "Intimacy-Discretion",
+        "axis_name": "From easy familiar intimacy to covert, defended attachment",
+        "pole_start": "Open, warm, socially confident familiarity: Osborne treats Emily as a privileged intimate and assumes his access is natural and welcome.",
+        "pole_end": "A relationship still marked by attachment and attraction, but increasingly hidden, tactically managed, and defended against scrutiny.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Familiar intimacy",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "He begins with relaxed, affectionate access to Emily, writing familiar notes and behaving like an old family friend whose intimacy is socially unproblematic.",
+            "key_moments": [
+              "Visits to the Trevelyan household",
+              "Helps with Sir Marmaduke's return",
+              "Uses warm, familiar correspondence"
+            ]
+          },
+          {
+            "phase": "Intimacy under surveillance",
+            "chapter_range": [
+              11,
+              28
+            ],
+            "position_description": "As suspicion grows, the relationship remains emotionally close but becomes more covert and risky. He keeps pursuing contact through ambiguity, plausible excuses, and careful management of appearances.",
+            "key_moments": [
+              "Failed Clock House visit",
+              "Continued letters and visits",
+              "Bozzle's surveillance",
+              "Trevelyan's explicit jealousy"
+            ]
+          },
+          {
+            "phase": "Covert attachment",
+            "chapter_range": [
+              29,
+              99
+            ],
+            "position_description": "The relationship is no longer publicly sustainable, but Osborne does not renounce it. Instead, he preserves it as a hidden, socially defended attachment while avoiding direct accountability.",
+            "key_moments": [
+              "Public suspicion hardens",
+              "He defends himself to Sir Marmaduke",
+              "Later chapters keep him offstage but implicated",
+              "No remorse or renunciation appears"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Osborne's central relational arc: he never stops valuing Emily's company, but the relationship moves from socially easy intimacy to a covert, reputation-managed attachment. The emotional core remains, while the public form becomes increasingly defensive."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Colonel Osborne",
+        "target_character": "Louis Trevelyan",
+        "dimension_label": "Dismissal-Hostility",
+        "axis_name": "From indifferent dismissal to defensive antagonism",
+        "pole_start": "Low concern and low respect: Osborne initially treats Trevelyan's jealousy as unreasonable background noise rather than a serious claim on his behavior.",
+        "pole_end": "A settled posture of contemptuous defensiveness: Trevelyan becomes the jealous, foolish husband whose objections Osborne dismisses and works around.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Initial indifference",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Osborne does not take Trevelyan seriously. The husband is an obstacle in structure, but not yet a psychologically important adversary.",
+            "key_moments": [
+              "Latent opposition in early chapters",
+              "Continues visiting despite possible impropriety",
+              "No sign of self-questioning about Trevelyan's feelings"
+            ]
+          },
+          {
+            "phase": "Jealous husband as nuisance",
+            "chapter_range": [
+              11,
+              28
+            ],
+            "position_description": "As Trevelyan's jealousy becomes explicit, Osborne responds with amusement, irritation, and condescension rather than sympathy. He sees the husband's anger as an inconvenience and a source of drama, not as a legitimate grievance.",
+            "key_moments": [
+              "Amused reaction to Trevelyan's jealousy",
+              "Continues contact after warnings",
+              "Treats Trevelyan as unreasonable and overreactive"
+            ]
+          },
+          {
+            "phase": "Consolidated contempt",
+            "chapter_range": [
+              29,
+              99
+            ],
+            "position_description": "By the later chapters, Trevelyan is firmly fixed in Osborne's mind as a jealous, socially absurd opponent. Osborne remains defensive and dismissive, never granting him moral authority.",
+            "key_moments": [
+              "Defends himself to Sir Marmaduke",
+              "Continued framing of Trevelyan as irrational",
+              "No reconciliation or respect emerges"
+            ]
+          }
+        ],
+        "evidence_summary": "Osborne's relation to Trevelyan is stable in one sense—he never respects him—but it hardens into explicit antagonism as jealousy and surveillance intensify. The key change is not emotional depth but defensive consolidation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Colonel Osborne",
+        "target_character": "Sir Marmaduke Rowley",
+        "dimension_label": "Alliance-Justification",
+        "axis_name": "From old-family cordiality to defensive alliance management",
+        "pole_start": "A friendly, socially easy relationship grounded in old acquaintance and mutual elite familiarity.",
+        "pole_end": "A more strategic alliance in which Osborne uses Sir Marmaduke as an audience for self-exculpation and social legitimation.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Cordial old acquaintance",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "He begins as a familiar friend of the Rowley household, comfortable enough to use his influence on Sir Marmaduke's behalf.",
+            "key_moments": [
+              "Helps with Sir Marmaduke's colonial return",
+              "Maintains polite, easy social footing"
+            ]
+          },
+          {
+            "phase": "Alliance under strain",
+            "chapter_range": [
+              41,
+              68
+            ],
+            "position_description": "When scrutiny rises, Osborne increasingly treats Sir Marmaduke as the person before whom he must justify himself. The relationship becomes less mutual and more tactical: he wants Marmaduke on his side, or at least not against him.",
+            "key_moments": [
+              "Visits Mr. Outhouse and prepares to see Sir Marmaduke",
+              "Defends himself in chapter 64",
+              "Feels resentful at Sir Marmaduke's ingratitude in chapter 68"
+            ]
+          },
+          {
+            "phase": "Residual social utility",
+            "chapter_range": [
+              69,
+              99
+            ],
+            "position_description": "The relationship remains socially relevant but psychologically thin. Osborne is no longer shown actively cultivating it, yet he still values Sir Marmaduke's judgment when it can help him.",
+            "key_moments": [
+              "Later chapters omit direct interaction",
+              "Earlier self-justifying defense remains the last clear evidence"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship changes less dramatically than Osborne's bond with Emily, but it does become more strategic. Sir Marmaduke shifts from being simply an old friend to being a useful legitimating authority before whom Osborne performs innocence."
+      }
+    ]
+  },
+  "Nora Rowley": {
+    "character": "Nora Rowley",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From dependent mediator to self-authoring chooser",
+            "set_b_axis": "From mediated interdependence to self-authoring commitment",
+            "overlap_description": "Both describe Nora’s movement from tactful, family-centered mediation toward a more self-directed stance in love and life, while retaining relational responsibility."
+          },
+          {
+            "set_a_axis": "From worldly security to moral integrity",
+            "set_b_axis": "From cautious practicality to principled romantic commitment",
+            "overlap_description": "Both track Nora’s shift from valuing security, rank, and prudence as primary goods toward choosing love and moral truth, while still respecting practical propriety."
+          },
+          {
+            "set_a_axis": "From anxious self-division to steadier self-trust",
+            "set_b_axis": "From anxious self-suppression to composed self-possession",
+            "overlap_description": "Both capture Nora’s growing confidence and composure: she moves from self-doubt, shame, and suppression toward firmer self-command and trust in her own judgment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From guarded silence to disciplined candor",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From worldly temptation to disciplined self-knowledge",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From cautious practicality to principled romantic commitment",
+            "assessment": "artifact"
+          },
+          {
+            "axis": "From anxious self-suppression to composed self-possession",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From worldly temptation to disciplined self-knowledge",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From cautious sister to steadfast protector",
+            "set_b_axis": "From anxious sisterly mediation to steadfast shared refuge",
+            "overlap_description": "Both describe Nora and Emily’s bond as moving from mediation and deference into durable solidarity, shared suffering, and protective intimacy."
+          },
+          {
+            "set_a_axis": "From wary household observer to compassionate but estranged witness",
+            "set_b_axis": "From wary respect to moral distrust",
+            "overlap_description": "Both show Nora’s relation to Louis Trevelyan hardening from cautious, peace-seeking concern into settled distrust and moral rejection, tempered by pity."
+          },
+          {
+            "set_a_axis": "From uncertain attraction to committed, disciplined love",
+            "set_b_axis": "From guarded admiration to openly confirmed devotion",
+            "overlap_description": "Both identify Hugh Stanbury as Nora’s central romantic arc, moving from uncertainty and restraint to open, mutually recognized commitment."
+          },
+          {
+            "set_a_axis": "From eligible suitor to closed alternative",
+            "set_b_axis": "From viable suitor to relinquished alternative",
+            "overlap_description": "Both treat Glascock as a serious alternative life-path that Nora refuses, regrets, and eventually releases once his marriage to Caroline closes the possibility."
+          },
+          {
+            "set_a_axis": "From compliant daughter to persuasive equal",
+            "set_b_axis": "From obedient daughter to strategically allied adult",
+            "overlap_description": "Both describe Nora’s relationship with Lady Rowley as shifting from filial deference toward adult negotiation and strategic alliance."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From social patronage to chosen friendship",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "Female friendship",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "Unease to suspicion",
+            "assessment": "artifact"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency–Communion",
+        "axis_name": "From mediated interdependence to self-authoring commitment",
+        "pole_start": "Primarily communal and mediating: Nora begins as a tactful, peace-seeking sister who subordinates her own preferences to household harmony, family feeling, and the emotional needs of others.",
+        "pole_end": "More agentic while still relational: Nora ends as someone who can assert her own judgment in love, defend her choice, and act decisively within a marriage she has chosen for herself.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Domestic mediator",
+            "chapter_range": [
+              1,
+              11
+            ],
+            "position_description": "Nora functions as the household peacemaker, trying to soften conflict between Emily and Louis, preserve domestic order, and avoid open confrontation. Her agency is indirect and relational.",
+            "key_moments": [
+              "Urges Emily to soften her stance and avoid provoking Louis",
+              "Carries letters and messages between disputing parties",
+              "Tries to prevent scandal and keep peace in the Trevelyan household"
+            ]
+          },
+          {
+            "phase": "Practical chooser",
+            "chapter_range": [
+              13,
+              25
+            ],
+            "position_description": "Refusing Glascock forces Nora to act on her own moral judgment. She begins to recognize her own desires and limits more clearly, even as she feels the loss of security and approval.",
+            "key_moments": [
+              "Refuses Glascock because she does not love him",
+              "Feels regret and self-doubt over the lost future",
+              "Settles into the Clock House arrangement and accepts consequences"
+            ]
+          },
+          {
+            "phase": "Assertive lover",
+            "chapter_range": [
+              33,
+              53
+            ],
+            "position_description": "Nora becomes increasingly self-defining through her attachment to Hugh. She admits her love, responds to his declaration, and begins to treat her choice as morally binding rather than merely emotional.",
+            "key_moments": [
+              "Feels wounded by Hugh’s reserve, then recognizes her own longing",
+              "Admits to Emily that she loves Hugh",
+              "Writes Hugh a full confession and answers his letter"
+            ]
+          },
+          {
+            "phase": "Committed self-author",
+            "chapter_range": [
+              53,
+              99
+            ],
+            "position_description": "Nora openly claims Hugh, resists parental pressure, negotiates practical arrangements, and enters a marriage that reflects her own judgment. Her relational life remains central, but she now authors it rather than merely enduring it.",
+            "key_moments": [
+              "Defends the match to her parents and refuses to be sent away",
+              "Secures parental support through persuasion rather than submission",
+              "Waits through practical delays and ends married to Hugh"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora begins as a mediator whose identity is organized around preserving others’ peace, but over the novel she becomes increasingly self-directing in love and life. The final marriage does not erase communion; it shows a more agentic form of communion in which she chooses and defends her bond."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Prudence–Romance",
+        "axis_name": "From cautious practicality to principled romantic commitment",
+        "pole_start": "Cautious, security-minded, and skeptical of imprudent feeling: Nora initially treats marriage as something that must be financially and socially workable, and she distrusts choices that ignore material reality.",
+        "pole_end": "Romantically committed but still prudent: Nora ends by accepting love as the governing truth of her life, while retaining a strong sense that marriage must still be honorable, practical, and properly arranged.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Security first",
+            "chapter_range": [
+              1,
+              12
+            ],
+            "position_description": "Nora emphasizes tact, discretion, and the need to avoid scandal. She sees marriage as serious, constrained by women’s limited options, and best managed through practical judgment.",
+            "key_moments": [
+              "Warns against provoking Louis",
+              "Treats secrecy as dangerous",
+              "Accepts women’s dependence and the need for economic realism"
+            ]
+          },
+          {
+            "phase": "Love versus advantage",
+            "chapter_range": [
+              13,
+              25
+            ],
+            "position_description": "The tension becomes explicit. Nora refuses Glascock because she does not love him, but the refusal exposes how much she values security and rank. She is torn between moral sincerity and worldly advantage.",
+            "key_moments": [
+              "Refuses Glascock and then regrets the lost future",
+              "Feels the pull of social elevation and comfort",
+              "Becomes more self-conscious about women’s dependence and her own vulnerability"
+            ]
+          },
+          {
+            "phase": "Love as chosen truth",
+            "chapter_range": [
+              39,
+              53
+            ],
+            "position_description": "Romantic conviction overtakes mere prudence. Nora admits her love for Hugh, resists immediate marriage only because of propriety and poverty, and then moves toward open commitment once his love is confirmed.",
+            "key_moments": [
+              "Refuses Hugh’s immediate proposal on practical grounds",
+              "Receives confirmation of his love and is secretly thrilled",
+              "Answers his letter and treats the engagement as morally real"
+            ]
+          },
+          {
+            "phase": "Prudence integrated with love",
+            "chapter_range": [
+              70,
+              99
+            ],
+            "position_description": "Nora no longer opposes love to prudence; she tries to make them compatible. She insists on proper arrangements, parental consent, and a respectable home, but these now serve the love she has already chosen.",
+            "key_moments": [
+              "Defends Hugh to her parents while acknowledging practical obstacles",
+              "Refuses to be sent away or coerced into a different match",
+              "Settles into marriage as a morally and practically grounded union"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora’s arc is not a rejection of prudence but a reordering of it. Early on, prudence dominates and love is suspect; by the end, love is primary, but prudence remains the form through which she legitimizes and stabilizes that love."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Self-doubt–Self-command",
+        "axis_name": "From anxious self-suppression to composed self-possession",
+        "pole_start": "Self-doubting and emotionally suppressive: Nora begins by hiding her feelings, deferring to others, and worrying that her own desires are either imprudent or socially illegitimate.",
+        "pole_end": "Self-possessed and quietly authoritative: Nora ends able to name her own love, defend her choices, and maintain composure even under family pressure.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Suppressed feeling",
+            "chapter_range": [
+              1,
+              18
+            ],
+            "position_description": "Nora is anxious, tactful, and often distressed, but her distress is managed through restraint. She apologizes, mediates, and keeps her own desires secondary to the needs of others.",
+            "key_moments": [
+              "Tries to prevent quarrels from escalating",
+              "Apologizes after snapping at Priscilla",
+              "Endures regret after refusing Glascock"
+            ]
+          },
+          {
+            "phase": "Visible inner conflict",
+            "chapter_range": [
+              24,
+              41
+            ],
+            "position_description": "Her feelings become harder to suppress. She is hurt, jealous, and embarrassed, but also increasingly aware of what she wants. The emotional pressure makes her less passive and more self-defining.",
+            "key_moments": [
+              "Feels wounded by Hugh’s apparent coldness",
+              "Argues about women’s dependence and capability",
+              "Is shaken and then delighted by Hugh’s directness"
+            ]
+          },
+          {
+            "phase": "Composed assertion",
+            "chapter_range": [
+              53,
+              99
+            ],
+            "position_description": "Nora becomes more confident in her own judgment. She can resist her parents, manage practical arrangements, and remain emotionally steady while waiting for marriage. Her self-command is no longer mere suppression; it is a chosen discipline.",
+            "key_moments": [
+              "Insists on her right to answer Hugh",
+              "Defends her engagement to her father",
+              "Accepts housing, travel, and marriage arrangements with increasing steadiness"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora’s emotional life is marked by restraint throughout, but the quality of that restraint changes. Early restraint is defensive and anxious; later restraint is more like composure, a sign that she has learned to hold her own feelings without being ruled by them."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Class Vanity–Realism",
+        "axis_name": "From worldly temptation to disciplined self-knowledge",
+        "pole_start": "Initially susceptible to the allure of rank, comfort, and social advantage, though she frames herself as practical and morally serious.",
+        "pole_end": "More self-aware and morally disciplined: Nora recognizes her attraction to status, but no longer lets it govern her choices, and she can name it without surrendering to it.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Latent attraction to security",
+            "chapter_range": [
+              4,
+              18
+            ],
+            "position_description": "Nora repeatedly registers the appeal of a secure marriage and the social value of a good match. Her refusal of Glascock is morally sincere, but it leaves her painfully aware of what she has given up.",
+            "key_moments": [
+              "Compares Stanbury and Glascock",
+              "Feels regret over refusing Glascock",
+              "Accepts the practical realities of dependence and respectability"
+            ]
+          },
+          {
+            "phase": "Temptation made explicit",
+            "chapter_range": [
+              16,
+              25
+            ],
+            "position_description": "She becomes more explicit about the pull of social elevation and the shame of dependence. Her talk about women’s capability and work shows that she is thinking through her own relation to class and usefulness.",
+            "key_moments": [
+              "Weighs Glascock against Hugh as a practical future",
+              "Feels humiliation and self-contempt after rejection",
+              "Reflects on women’s dependence and the value of work"
+            ]
+          },
+          {
+            "phase": "Self-correction and acceptance",
+            "chapter_range": [
+              76,
+              96
+            ],
+            "position_description": "Nora can now recognize vanity in herself without being ruled by it. She briefly feels the attraction of grandeur, but corrects herself and reaffirms the worth of a modest, morally clean life with Hugh.",
+            "key_moments": [
+              "Feels a fleeting disappointment when Glascock is unavailable",
+              "Acknowledges the temptation of social rank",
+              "Rejects envy and settles into a simpler domestic ideal"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora never becomes anti-worldly in a simplistic sense; she remains aware that rank and comfort are real goods. The arc is toward moral realism: she learns to see those goods clearly without letting them override love, honesty, and self-respect."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Nora Rowley",
+        "target_character": "Emily Trevelyan",
+        "dimension_label": "Protective solidarity",
+        "axis_name": "From anxious sisterly mediation to steadfast shared refuge",
+        "pole_start": "Affectionate but mediating: Nora begins as Emily’s loving sister, trying to calm her, restrain her, and keep the marriage conflict from worsening.",
+        "pole_end": "Deeply allied and protective: Nora ends as Emily’s enduring companion in domestic crisis, sharing refuge, sympathy, and practical loyalty.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Conflict mediator",
+            "chapter_range": [
+              1,
+              11
+            ],
+            "position_description": "Nora tries to prevent Emily from provoking Louis and repeatedly acts as a buffer between sister and husband.",
+            "key_moments": [
+              "Urges Emily to soften her stance",
+              "Carries messages and tries to de-escalate quarrels",
+              "Protects Emily’s dignity while worrying about her pride"
+            ]
+          },
+          {
+            "phase": "Shared exile",
+            "chapter_range": [
+              14,
+              30
+            ],
+            "position_description": "Their bond becomes more materially and emotionally interdependent as they move through shared domestic displacement and social pressure.",
+            "key_moments": [
+              "Settles with Emily at the Clock House and later elsewhere",
+              "Supports Emily through gossip and scandal",
+              "Leaves with Emily when the household becomes untenable"
+            ]
+          },
+          {
+            "phase": "Crisis ally",
+            "chapter_range": [
+              52,
+              99
+            ],
+            "position_description": "Nora becomes Emily’s steady ally in the face of Trevelyan’s escalating cruelty, child abduction, illness, and final collapse. Their relationship is less conflicted and more a shared moral and domestic refuge.",
+            "key_moments": [
+              "Supports Emily during the child-abduction crisis",
+              "Helps manage Trevelyan’s illness and the household’s practical arrangements",
+              "Stays emotionally aligned with Emily even as her own marriage resolves"
+            ]
+          }
+        ],
+        "evidence_summary": "Emily remains Nora’s most constant female attachment. The relationship moves from anxious mediation to durable solidarity: Nora never stops caring, but she becomes less a referee and more a co-sufferer and protector."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Nora Rowley",
+        "target_character": "Louis Trevelyan",
+        "dimension_label": "Respect–Distrust",
+        "axis_name": "From wary respect to settled moral condemnation",
+        "pole_start": "Initially respectful and cautious: Nora sees Louis as an authority figure whose displeasure matters and whose jealousy may be serious, though she does not yet fully grasp his danger.",
+        "pole_end": "Deeply distrustful and morally disapproving: Nora ends seeing Louis as unjust, deluded, and dangerous, though still pitiable as a suffering man.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Wary deference",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Nora tries to keep peace with Louis and often assumes tact and openness can still repair the marriage.",
+            "key_moments": [
+              "Urges Emily to avoid provoking him",
+              "Tries to explain and soothe rather than confront",
+              "Begins to see secrecy as dangerous"
+            ]
+          },
+          {
+            "phase": "Growing alarm",
+            "chapter_range": [
+              9,
+              20
+            ],
+            "position_description": "As jealousy hardens into suspicion, Nora becomes more alarmed and less sympathetic to Louis’s conduct. She still pities him, but now sees him as a source of escalating danger.",
+            "key_moments": [
+              "Tries to suppress open discussion of the quarrel",
+              "Worries about Colonel Osborne’s visit and its effect on Louis",
+              "Considers him increasingly difficult and likely to worsen the situation"
+            ]
+          },
+          {
+            "phase": "Moral condemnation",
+            "chapter_range": [
+              60,
+              99
+            ],
+            "position_description": "Louis’s cruelty, delusion, and violence toward Emily and the child lead Nora to a settled moral judgment against him. She can still pity his illness, but she no longer treats him as a legitimate moral authority.",
+            "key_moments": [
+              "Responds to the child abduction with alarm and indignation",
+              "Sees his insinuations as morally and mentally disordered",
+              "Treats his death and collapse as the end of a dangerous chapter"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora’s relation to Louis is one of the clearest negative arcs in the novel: she moves from tactful respect to a stable moral rejection shaped by repeated exposure to his jealousy, coercion, and cruelty."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Nora Rowley",
+        "target_character": "Hugh Stanbury",
+        "dimension_label": "Reserve–Devotion",
+        "axis_name": "From guarded admiration to openly confirmed devotion",
+        "pole_start": "Initially admiring but uncertain: Nora is drawn to Hugh, yet doubts his feelings and believes poverty makes the match impractical.",
+        "pole_end": "Openly committed and emotionally secure: Nora ends married to Hugh, convinced of his love and of the moral truth of their bond.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Admiration under constraint",
+            "chapter_range": [
+              4,
+              18
+            ],
+            "position_description": "Nora is attracted to Hugh but keeps him in the background because he lacks money and because she is unsure whether he returns her feelings.",
+            "key_moments": [
+              "Compares him favorably to Glascock emotionally",
+              "Feels the burden of his poverty",
+              "Questions whether she has sacrificed too much"
+            ]
+          },
+          {
+            "phase": "Wounded longing",
+            "chapter_range": [
+              24,
+              33
+            ],
+            "position_description": "Her attachment becomes more emotionally charged. She feels hurt by his reserve, then briefly reassured by signs that he may care for her.",
+            "key_moments": [
+              "Feels ignored and humiliated",
+              "Interprets his silence as possible lack of love",
+              "Is moved by his declaration that he would do anything for her sake"
+            ]
+          },
+          {
+            "phase": "Confirmed reciprocity",
+            "chapter_range": [
+              39,
+              53
+            ],
+            "position_description": "Hugh’s proposal and later letter force Nora to confront her love directly. She refuses immediate marriage on prudential grounds, but the emotional bond is now explicit and mutual.",
+            "key_moments": [
+              "Refuses Hugh’s first proposal because of poverty and propriety",
+              "Is thrilled by his forceful declaration",
+              "Answers his letter and treats herself as engaged"
+            ]
+          },
+          {
+            "phase": "Publicly settled union",
+            "chapter_range": [
+              70,
+              99
+            ],
+            "position_description": "The relationship becomes socially and practically established. Nora defends the match to her parents, waits through delays, and finally enters marriage with Hugh as a secure, honorable union.",
+            "key_moments": [
+              "Defends Hugh to Sir Marmaduke and Lady Rowley",
+              "Secures support and practical arrangements",
+              "Ends the novel married to Hugh"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Nora’s central relational arc. It moves from uncertain attraction through painful ambiguity to confirmed mutual love and eventual marriage, with prudence and propriety shaping the form of the union rather than negating it."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Nora Rowley",
+        "target_character": "Mr. Glascock",
+        "dimension_label": "Refusal–Release",
+        "axis_name": "From viable suitor to relinquished alternative",
+        "pole_start": "Initially a serious and socially attractive marriage possibility: Nora respects Glascock and recognizes the security and status he offers.",
+        "pole_end": "A fully relinquished alternative: Nora ends respectful, grateful, and untroubled by his marriage to Caroline, no longer experiencing him as a live option.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Eligible alternative",
+            "chapter_range": [
+              4,
+              17
+            ],
+            "position_description": "Glascock is the practical match Nora is expected to consider. She respects him, but does not love him, and the proposal exposes the conflict between security and feeling.",
+            "key_moments": [
+              "Compares him with Hugh as a possible husband",
+              "Refuses his proposal because she does not love him",
+              "Feels intense regret over the lost future"
+            ]
+          },
+          {
+            "phase": "Residual regret",
+            "chapter_range": [
+              18,
+              25
+            ],
+            "position_description": "Nora continues to feel the loss of Glascock’s offer, especially its rank and comfort, even while remaining morally committed to her refusal.",
+            "key_moments": [
+              "Feels shame and grief after the refusal",
+              "Acknowledges the social value of the match",
+              "Uses work and self-assertion to manage the emotional aftermath"
+            ]
+          },
+          {
+            "phase": "Resigned release",
+            "chapter_range": [
+              76,
+              81
+            ],
+            "position_description": "Once Glascock is engaged to Caroline, Nora experiences a brief sting of disappointment, then relief and genuine goodwill. The alternative is no longer emotionally active.",
+            "key_moments": [
+              "Feels a fleeting disappointment at his unavailability",
+              "Accepts Caroline as his proper partner",
+              "Writes reassuringly and speaks of the match with composure"
+            ]
+          }
+        ],
+        "evidence_summary": "Glascock matters because he represents the life Nora could have had: secure, respectable, and socially elevated. Her arc with him is not romantic deepening but moral and emotional release from a tempting alternative."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Nora Rowley",
+        "target_character": "Lady Rowley",
+        "dimension_label": "Filial negotiation",
+        "axis_name": "From obedient daughter to strategically allied adult",
+        "pole_start": "Initially deferential and dependent: Nora relies on her mother’s judgment and emotional support, even when she disagrees.",
+        "pole_end": "Still affectionate but more independent: Nora ends seeking her mother’s support strategically rather than submitting to her authority.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Deferential dependence",
+            "chapter_range": [
+              1,
+              18
+            ],
+            "position_description": "Nora is loving and respectful, but her mother’s opinions still carry strong weight, especially on marriage and propriety.",
+            "key_moments": [
+              "Looks to Lady Rowley for support in domestic crises",
+              "Feels the pressure of maternal and social expectations",
+              "Accepts her mother’s concern even when it hurts"
+            ]
+          },
+          {
+            "phase": "Negotiated alliance",
+            "chapter_range": [
+              63,
+              91
+            ],
+            "position_description": "Nora increasingly treats Lady Rowley as an ally to be persuaded rather than an authority to obey. She seeks her help in securing Hugh and in managing the practical future.",
+            "key_moments": [
+              "Presses her mother to support the engagement",
+              "Uses her mother as intermediary in family negotiations",
+              "Relies on her mother’s support while resisting her caution"
+            ]
+          },
+          {
+            "phase": "Affectionate independence",
+            "chapter_range": [
+              94,
+              99
+            ],
+            "position_description": "Nora accepts her mother’s care and hospitality, but no longer treats maternal approval as decisive. Her marriage to Hugh is settled on her own terms.",
+            "key_moments": [
+              "Accepts Lady Milborough’s and Lady Rowley’s arrangements",
+              "Moves toward marriage without surrendering her judgment",
+              "Maintains affection while preserving autonomy"
+            ]
+          }
+        ],
+        "evidence_summary": "Nora’s relation to her mother shifts from filial dependence toward adult negotiation. She remains loving and respectful, but her choices increasingly come from herself rather than from maternal direction."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Nora Rowley",
+        "target_character": "Lady Milborough",
+        "dimension_label": "Patronage–Friendship",
+        "axis_name": "From social patronage to chosen friendship",
+        "pole_start": "A socially useful but somewhat intrusive elder who helps arrange Nora’s prospects.",
+        "pole_end": "A trusted, affectionate, lifelong friend and protector whose guidance Nora values deeply.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Indirect patronage",
+            "chapter_range": [
+              13,
+              24
+            ],
+            "position_description": "Lady Milborough acts on Nora’s behalf in the background, especially around Glascock, but Nora does not yet fully interpret her as a personal ally.",
+            "key_moments": [
+              "Lady Milborough prompts Glascock’s proposal",
+              "Nora later encounters the consequences of that intervention"
+            ]
+          },
+          {
+            "phase": "Warmth and gratitude",
+            "chapter_range": [
+              94,
+              95
+            ],
+            "position_description": "Nora revises her judgment of Lady Milborough, recognizing her kindness and practical intelligence. The relationship becomes emotionally intimate.",
+            "key_moments": [
+              "Feels softened by Lady Milborough’s hospitality",
+              "Vows silent lifelong friendship",
+              "Receives the wedding veil"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Milborough becomes one of Nora’s important adult female supports, moving from social manager to genuine confidante and benefactor."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_07",
+        "source_character": "Nora Rowley",
+        "target_character": "Caroline Spalding",
+        "dimension_label": "Female friendship",
+        "axis_name": "From awkward acquaintance to candid ally",
+        "pole_start": "A socially adjacent acquaintance with some tension around Glascock and class difference.",
+        "pole_end": "A warm, candid, mutually supportive friendship grounded in shared female experience.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Uneasy overlap",
+            "chapter_range": [
+              76,
+              80
+            ],
+            "position_description": "Caroline’s engagement to Glascock initially stings Nora, but Caroline’s frankness opens a path to friendship.",
+            "key_moments": [
+              "Learns Caroline may have taken the place Nora refused",
+              "Hears Caroline’s invitation to friendship"
+            ]
+          },
+          {
+            "phase": "Candid support",
+            "chapter_range": [
+              80,
+              87
+            ],
+            "position_description": "Nora writes to Caroline to correct her earlier hesitation and later reassures her about the marriage, turning the relationship into one of mutual confidence.",
+            "key_moments": [
+              "Writes explanatory letter",
+              "Reassures Caroline about English opinion",
+              "Discusses her own engagement in comparison"
+            ]
+          }
+        ],
+        "evidence_summary": "This smaller arc moves from wounded comparison to a genuinely supportive female friendship that helps Nora think through marriage, class, and social belonging."
+      }
+    ]
+  },
+  "Sir Marmaduke Rowley": {
+    "character": "Sir Marmaduke Rowley",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From paternal mastery to constrained relational dependence",
+            "set_b_axis": "From paternal mastery to constrained, relationally dependent authority",
+            "overlap_description": "Both describe the same core movement: Sir Marmaduke begins as a confident patriarch and ends with reduced control, forced into accommodation and dependence on others."
+          },
+          {
+            "set_a_axis": "From assured patriarch to frustrated bystander",
+            "set_b_axis": "From confident management to frustrated impotence",
+            "overlap_description": "Both capture the erosion of his practical power, especially under legal, bureaucratic, and family pressures, leaving him increasingly sidelined."
+          },
+          {
+            "set_a_axis": "From easy moral confidence to strained, partial doubt",
+            "set_b_axis": "From moral certainty to partial recognition of complexity",
+            "overlap_description": "Both track a limited but real complication of his moral outlook: he remains judgmental, but the novel forces him to acknowledge complexity and the limits of simple condemnation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From social ease to public humiliation",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From admiring trust to hardened hostility",
+            "set_b_axis": "From moral condemnation to alarmed, pitying hostility",
+            "overlap_description": "Both describe the same relationship arc with Trevelyan: early approval gives way to deep hostility, later complicated by pity and alarm rather than restored trust."
+          },
+          {
+            "set_a_axis": "From paternal confidence to wounded, conditional affection",
+            "set_b_axis": "From paternal control to grudging acceptance of Nora's independence",
+            "overlap_description": "Both identify the same father-daughter arc: he tries to control Nora, is defeated by her independence, and ends in reluctant, emotionally compromised acceptance."
+          },
+          {
+            "set_a_axis": "From shared parental footing to quiet dependence",
+            "set_b_axis": "From companionable alignment to practical dependence on Lady Rowley",
+            "overlap_description": "Both show Lady Rowley becoming the more competent practical manager, while Sir Marmaduke increasingly relies on her steadiness and judgment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From affectionate trust to fearful protection",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From paternal mastery to constrained relational dependence",
+        "pole_start": "Begins strongly agency-leaning: Sir Marmaduke trusts paternal authority, social rank, and his own judgment to manage family and public affairs from above.",
+        "pole_end": "Ends still somewhat agency-leaning but clearly constrained: he can no longer command outcomes and must accommodate others' judgments, attachments, and practical authority.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Initial paternal confidence",
+            "chapter_range": [
+              1,
+              33
+            ],
+            "position_description": "He assumes he can direct family order and validate his own position through rank, judgment, and paternal intervention.",
+            "key_moments": [
+              "Approves Trevelyan's anti-dowry doctrine as morally validating his own limitations",
+              "Trusts the husband/father's right to have his own way",
+              "Expects patronage and social standing to secure a useful return to England",
+              "Treats family management as something naturally governed by paternal authority"
+            ]
+          },
+          {
+            "phase": "Authority under pressure",
+            "chapter_range": [
+              61,
+              69
+            ],
+            "position_description": "Repeated crises expose the limits of his mastery. He becomes reactive, dependent on lawyers, doctors, officials, and institutional procedures.",
+            "key_moments": [
+              "The child's abduction forces helpless outrage",
+              "Bozzle rebuffs his attempts to trace Trevelyan",
+              "The parliamentary committee publicly exposes his uncertainty",
+              "He turns from force toward legal and medical advice"
+            ]
+          },
+          {
+            "phase": "Reluctant accommodation",
+            "chapter_range": [
+              70,
+              94
+            ],
+            "position_description": "He remains resistant in temperament, but he increasingly yields in practice to Nora, Emily, Lady Rowley, and institutional arrangements he did not shape.",
+            "key_moments": [
+              "Nora's resistance weakens his paternal certainty",
+              "He is moved to tears and softens toward Nora",
+              "He yields to Emily's wishes and practical necessity",
+              "He watches the family depart according to arrangements beyond his control"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Marmaduke begins as a confident patriarch and ends as a diminished, constrained authority. The arc is not a full conversion to communion, but a clear movement away from unilateral mastery toward managed dependence and reluctant relationality."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "authority-helplessness",
+        "axis_name": "From assured patriarch to frustrated bystander",
+        "pole_start": "Starts with the belief that his judgment and rank should settle domestic matters and secure obedience.",
+        "pole_end": "Ends with a diminished sense of efficacy, able only to preserve appearances while others determine outcomes.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Assumed command",
+            "chapter_range": [
+              1,
+              33
+            ],
+            "position_description": "He treats family order as naturally secured by paternal authority and moral common sense.",
+            "key_moments": [
+              "Assumes a husband should properly guide a wife",
+              "Writes to Trevelyan as though parental authority can still enforce duty"
+            ]
+          },
+          {
+            "phase": "Public and private exposure",
+            "chapter_range": [
+              61,
+              69
+            ],
+            "position_description": "The child abduction, legal obstacles, and committee hearing reveal that his authority does not translate into control.",
+            "key_moments": [
+              "Arrives to find the child abducted and Mrs. Trevelyan in hysterics",
+              "Becomes burdened by legal and investigative remedies",
+              "Fails to get useful information from Bozzle",
+              "Feels confused and defensive before the committee",
+              "Believes his career is over"
+            ]
+          },
+          {
+            "phase": "Managed authority",
+            "chapter_range": [
+              70,
+              94
+            ],
+            "position_description": "He still speaks as a father, but his authority is increasingly symbolic. Others set the terms, and he can only qualify, delay, or bless what he cannot prevent.",
+            "key_moments": [
+              "Nora's calm resistance weakens his command",
+              "He suppresses Nora's letter rather than resolving the issue",
+              "He waits helplessly for Stanbury",
+              "He gives a qualified blessing instead of real consent",
+              "Others plan around him as though his wishes no longer matter"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures the repeated humiliation of Sir Marmaduke's paternal authority. He begins expecting obedience and ends as a largely ceremonial father whose power is repeatedly bypassed."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "moral certainty",
+        "axis_name": "From easy moral confidence to strained, partial doubt",
+        "pole_start": "Begins morally confident, quick to classify conduct as proper or improper and to justify his own position as principled.",
+        "pole_end": "Ends still judgmental, but with more visible strain, partial recognition of complexity, and less confidence that moral condemnation alone can solve anything.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Simple moral framing",
+            "chapter_range": [
+              1,
+              33
+            ],
+            "position_description": "He readily adopts moral formulas about marriage, duty, and propriety, using them to stabilize his own position.",
+            "key_moments": [
+              "Turns lack of dowry into a moral virtue",
+              "Frames Trevelyan's conduct as something parental authority should correct",
+              "Believes a fatherly letter should restore order"
+            ]
+          },
+          {
+            "phase": "Moral outrage intensifies",
+            "chapter_range": [
+              61,
+              78
+            ],
+            "position_description": "Trevelyan's actions provoke harsher moral judgment; he sees him as beyond ordinary decency and imagines him as mad or murderous.",
+            "key_moments": [
+              "Interprets the abduction as legal and moral outrage",
+              "Thinks Trevelyan deserves beating or confinement",
+              "Decides to confront and punish him",
+              "Fears Trevelyan may murder Emily"
+            ]
+          },
+          {
+            "phase": "Qualified judgment",
+            "chapter_range": [
+              69,
+              91
+            ],
+            "position_description": "Pity and practical necessity complicate his certainty. He still judges, but increasingly relies on institutions and accepts that simple condemnation is insufficient.",
+            "key_moments": [
+              "Pity interrupts his intended revenge",
+              "He turns to legal and medical advice",
+              "Nora's tears soften him",
+              "He offers conditional rather than absolute judgment on Nora and Stanbury"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Marmaduke never abandons moral judgment, but the novel steadily complicates it. His certainty hardens into outrage and then becomes more procedural and qualified as he confronts situations he cannot simply condemn into submission."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "status-shame",
+        "axis_name": "From social ease to public humiliation",
+        "pole_start": "Starts with a relatively secure sense of gentlemanly standing, colonial usefulness, and social recognition.",
+        "pole_end": "Ends with a more wounded, defensive self-consciousness, aware that his status is fragile and often dependent on others' tolerance.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Social confidence",
+            "chapter_range": [
+              2,
+              6
+            ],
+            "position_description": "He expects his service and connections to work in his favor and to secure a dignified return to England.",
+            "key_moments": [
+              "Hopes for a summons home and recognition",
+              "His return becomes public gossip, but still as a matter of influence"
+            ]
+          },
+          {
+            "phase": "Exposure and embarrassment",
+            "chapter_range": [
+              68,
+              68
+            ],
+            "position_description": "The committee hearing humiliates him publicly, making him feel ignorant and professionally finished.",
+            "key_moments": [
+              "Confused and discomfited before the committee",
+              "Believes his colonial career is over"
+            ]
+          },
+          {
+            "phase": "Partial restoration, lasting insecurity",
+            "chapter_range": [
+              68,
+              94
+            ],
+            "position_description": "The Under-Secretary's civility relieves immediate shame, but later family crises keep him defensive and conscious of being managed rather than honored.",
+            "key_moments": [
+              "Learns he may remain in town and is not ruined",
+              "Waits impatiently and feels sidelined",
+              "Watches family arrangements proceed without him"
+            ]
+          }
+        ],
+        "evidence_summary": "His arc includes a clear humiliation plot: from social confidence to public exposure, then to weakened but not destroyed self-respect. The shame does not vanish; it becomes part of his defensive temperament."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Sir Marmaduke Rowley",
+        "target_character": "Louis Trevelyan",
+        "dimension_label": "trust-antagonism",
+        "axis_name": "From admiring trust to hardened hostility",
+        "pole_start": "Begins with admiration, gratitude, and trust in Trevelyan as a principled, intelligent son-in-law whose views seem to validate Sir Marmaduke's own position.",
+        "pole_end": "Ends in deep antagonism, moral disgust, and near-total distrust, with Trevelyan seen as deceitful, dangerous, and beyond ordinary family reconciliation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Early admiration",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "He trusts Trevelyan's judgment about marriage, authority, and money, and sees him as a congenial ally.",
+            "key_moments": [
+              "Adopts Trevelyan's anti-dowry doctrine",
+              "Trusts Trevelyan to manage Emily"
+            ]
+          },
+          {
+            "phase": "Suspicion and moral anger",
+            "chapter_range": [
+              33,
+              67
+            ],
+            "position_description": "As Trevelyan's marriage collapses, Sir Marmaduke's view turns sharply negative. He sees him as culpable, then as mad or monstrous.",
+            "key_moments": [
+              "Writes to Trevelyan in anger over the separation crisis",
+              "Learns of the child's abduction",
+              "Thinks Trevelyan deserves beating or confinement",
+              "Resolves to confront and punish him"
+            ]
+          },
+          {
+            "phase": "Hostility complicated by pity",
+            "chapter_range": [
+              69,
+              75
+            ],
+            "position_description": "He remains hostile, but Trevelyan's collapse and suffering introduce reluctant sympathy. The relationship is still antagonistic, but no longer purely punitive.",
+            "key_moments": [
+              "Pity interrupts his intended revenge",
+              "He chooses legal and medical routes",
+              "Refuses Trevelyan's cheque as morally tainted"
+            ]
+          },
+          {
+            "phase": "Persistent estrangement",
+            "chapter_range": [
+              78,
+              93
+            ],
+            "position_description": "Trevelyan is imagined as potentially murderous and is treated as an obstacle to be managed through institutions rather than trusted or reconciled with.",
+            "key_moments": [
+              "Fears Trevelyan may murder Emily",
+              "Sees Trevelyan's crisis as requiring outside intervention",
+              "Others plan around Trevelyan while Sir Marmaduke's influence is bypassed"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Sir Marmaduke's strongest relational arc: from warm approval to profound distrust and antagonism. Even moments of pity do not restore trust; they only complicate the hostility."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Sir Marmaduke Rowley",
+        "target_character": "Nora Rowley",
+        "dimension_label": "authority-intimacy",
+        "axis_name": "From paternal confidence to wounded, conditional affection",
+        "pole_start": "Begins with affectionate paternal confidence: he assumes he can guide Nora's future and trusts his own judgment over her romantic choices.",
+        "pole_end": "Ends with diminished authority but enduring affection: he cannot control her, yet he still loves her and can only offer qualified blessing and emotional support.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Assumed paternal guidance",
+            "chapter_range": [
+              1,
+              63
+            ],
+            "position_description": "He treats Nora as a daughter whose future should be managed by family authority and practical advantage.",
+            "key_moments": [
+              "Family harmony is still intact",
+              "He becomes suspicious and disapproving once Stanbury is revealed"
+            ]
+          },
+          {
+            "phase": "Open conflict over Stanbury",
+            "chapter_range": [
+              63,
+              71
+            ],
+            "position_description": "Nora's independence repeatedly defeats his authority, producing anger, disappointment, and a sense of emotional distance.",
+            "key_moments": [
+              "Nora's resolve undermines his control",
+              "He learns she rejected Glascock",
+              "He tries to forbid the engagement",
+              "Stanbury's note confirms his authority can be bypassed"
+            ]
+          },
+          {
+            "phase": "Softened but unresolved attachment",
+            "chapter_range": [
+              70,
+              94
+            ],
+            "position_description": "Despite continued disapproval, he is moved by Nora's tears and eventually gives a qualified blessing. His authority is reduced, but his affection remains visible.",
+            "key_moments": [
+              "He is moved to tears and kisses Nora",
+              "Calls the match impossible and Nora a fool",
+              "Withholds her letter",
+              "Silence marks estrangement",
+              "Recognizes she will have her own way",
+              "Offers a stiff, qualified blessing",
+              "Watches her depart under others' arrangements"
+            ]
+          }
+        ],
+        "evidence_summary": "The relationship shifts from confident paternal management to a painful mix of resistance, hurt, and enduring love. He never fully accepts Nora's autonomy, but he does end in a state of conditional, emotionally compromised consent."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Sir Marmaduke Rowley",
+        "target_character": "Emily Trevelyan",
+        "dimension_label": "protective-alarm",
+        "axis_name": "From affectionate trust to fearful protection",
+        "pole_start": "Begins with affectionate trust and a willingness to let Emily's marriage be managed by her husband.",
+        "pole_end": "Ends with intense protective alarm, as he fears for her safety and sees her as someone needing defense from Trevelyan's possible violence.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial affection and deference",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "He remains affectionate toward Emily and initially underestimates her temperament, trusting Trevelyan to manage the marriage.",
+            "key_moments": [
+              "Underestimates Emily's independence",
+              "Her connection to him is deferred rather than broken"
+            ]
+          },
+          {
+            "phase": "Protective identification",
+            "chapter_range": [
+              33,
+              67
+            ],
+            "position_description": "As the marriage collapses, he aligns emotionally with Emily's suffering and becomes increasingly protective of her honor and welfare.",
+            "key_moments": [
+              "Writes in anger over Trevelyan's conduct",
+              "Arrives to find her in hysterics after the child's abduction",
+              "Bears the practical and emotional fallout",
+              "Worries about her reputation",
+              "Resolves to confront Trevelyan on her behalf"
+            ]
+          },
+          {
+            "phase": "Fear for her physical safety",
+            "chapter_range": [
+              78,
+              91
+            ],
+            "position_description": "His concern becomes explicitly protective and fearful; he imagines Trevelyan as potentially murderous and resists actions that would expose Emily to danger.",
+            "key_moments": [
+              "Says Trevelyan might murder her",
+              "Reluctantly yields to her wish to go to Casalunga",
+              "Responds to her telegram as an emergency"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Marmaduke's bond with Emily deepens from ordinary paternal affection into anxious protection. The relationship is not mainly conflictual; it is defined by increasing fear, concern, and helpless loyalty."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Sir Marmaduke Rowley",
+        "target_character": "Lady Rowley",
+        "dimension_label": "trust-dependence",
+        "axis_name": "From companionable alignment to practical dependence on Lady Rowley",
+        "pole_start": "Begins as a mutually aligned marital partnership, with shared assumptions and similar hopes about family order.",
+        "pole_end": "Ends with Sir Marmaduke increasingly dependent on Lady Rowley's judgment, moderation, and practical management.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Shared family outlook",
+            "chapter_range": [
+              1,
+              33
+            ],
+            "position_description": "They are aligned in hopes for Emily's marriage and in their general social outlook.",
+            "key_moments": [
+              "Both approve the marriage arrangement",
+              "She shares his anger at Trevelyan"
+            ]
+          },
+          {
+            "phase": "Lady Rowley as moderator",
+            "chapter_range": [
+              64,
+              71
+            ],
+            "position_description": "She increasingly tempers his judgments, moderates his anger, and helps shape family responses more effectively than he does.",
+            "key_moments": [
+              "She helps manage the Osborne confrontation",
+              "She is present as he confronts Nora",
+              "He softens under her influence while writing to Stanbury"
+            ]
+          },
+          {
+            "phase": "Practical dependence",
+            "chapter_range": [
+              85,
+              94
+            ],
+            "position_description": "He relies on her to manage domestic arrangements and to absorb the burden of family order while he remains the formal patriarch.",
+            "key_moments": [
+              "She moderates his response to Nora",
+              "He depends on her to manage the household",
+              "She effectively handles the settlement"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship shifts less in affection than in function: Lady Rowley becomes the more competent manager, and Sir Marmaduke increasingly depends on her practical intelligence."
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "character": "Francis Levison",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From seductive self-assertion to defensive, isolated self-preservation",
+          "set_b_axis": "From socially seductive self-assertion to cornered self-preservation",
+          "overlap_description": "Both describe the same core movement: Levison remains agency-driven throughout, but his agency shifts from confident, manipulative dominance into narrowed, defensive survival under pressure."
+        },
+        {
+          "set_a_axis": "From untroubled cynicism to cornered recognition of disgrace",
+          "set_b_axis": "From unreflective opportunism to exposed but unrepentant self-protection",
+          "overlap_description": "Both track his moral stance as non-redeemed: he begins with low ethical self-awareness and ends with awareness of consequences, shame, and punishment without genuine repentance."
+        },
+        {
+          "set_a_axis": "From untouchable charm to shattered social identity",
+          "set_b_axis": "From polished composure to cornered panic",
+          "overlap_description": "Both capture the collapse of his social poise and self-image under exposure, arrest, and disgrace, though A emphasizes identity collapse while B emphasizes emotional breakdown."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From fearless seducer to frightened fugitive",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From socially seductive self-assertion to cornered self-preservation",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unreflective opportunism to exposed but unrepentant self-protection",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From polished composure to cornered panic",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From seductive fascination to corrosive betrayal",
+          "set_b_axis": "From flirtatious fascination to discarded liability",
+          "overlap_description": "Both describe the Isabel relationship as beginning in seductive attraction and ending in abandonment, betrayal, and emotional damage."
+        },
+        {
+          "set_a_axis": "From useful ally to principled enemy",
+          "set_b_axis": "From polite rival to moral adversary",
+          "overlap_description": "Both show Carlyle moving from a useful or cordial contact into a moral and practical opponent who helps expose Levison."
+        },
+        {
+          "set_a_axis": "From admired gentleman to hated public object",
+          "set_b_axis": "From socially usable outsider to publicly rejected criminal",
+          "overlap_description": "Both track Levison's relation to the wider community as a fall from tolerated or admired outsider into public contempt, punishment, and criminalization."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From brittle alliance to mutual exposure",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From socially usable outsider to publicly rejected criminal",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From seductive self-assertion to cornered self-preservation",
+      "pole_start": "High agency with low communion: Levison begins as a socially dominant, predatory charm-user who seeks mastery through attraction, manipulation, and emotional leverage.",
+      "pole_end": "Still strongly agency-driven, but narrowed into defensive self-preservation: he ends as a disgraced, cornered man focused on concealment, survival, and damage control rather than open dominance or genuine relation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Seductive mastery",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "He performs charm with confidence, courting Isabel and treating intimacy as a field for control rather than mutuality.",
+          "key_moments": [
+            "Introduced as handsome, admired, and predatory toward Isabel",
+            "Uses the broken cross accident to intensify tenderness and influence",
+            "Maintains languishing courtship while avoiding commitment"
+          ]
+        },
+        {
+          "phase": "Instrumental maneuvering",
+          "chapter_range": [
+            20,
+            25
+          ],
+          "position_description": "His agency becomes tactical and opportunistic: he seeks access, leverage, and renewed influence through Carlyle, confession, jealousy, and ambiguity.",
+          "key_moments": [
+            "Re-encounters Isabel at Boulogne and is energized by renewed hold over her",
+            "Seeks Carlyle's help to return to England",
+            "Confesses love as thwarted destiny, then shifts into conciliatory pose",
+            "Uses insinuation about Carlyle and Barbara to stir jealousy"
+          ]
+        },
+        {
+          "phase": "Collapse into defensive survival",
+          "chapter_range": [
+            34,
+            45
+          ],
+          "position_description": "His agency becomes reactive and cornered as public hostility, recognition, arrest, and sentencing force him into fear, concealment, and self-protective endurance.",
+          "key_moments": [
+            "Operates covertly in politics and tries to preserve his cover",
+            "Bethel recognizes him and public hostility intensifies",
+            "He is arrested, tried, sentenced, and commuted to transportation",
+            "Transportation is experienced as prolonged disgrace rather than relief"
+          ]
+        }
+      ],
+      "evidence_summary": "Levison never becomes communal; the arc is a decline in the quality of his agency, from seductive mastery to tactical manipulation to frightened self-preservation under legal and social pressure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Accountability",
+      "axis_name": "From unreflective opportunism to exposed but unrepentant disgrace",
+      "pole_start": "He begins with very low moral self-awareness, treating deception, flirtation, and abandonment as normal tools and obligation as optional.",
+      "pole_end": "He ends aware of ruin, shame, and punishment, but without genuine repentance; his self-knowledge is fear-based rather than ethical.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Cynical instrumentalism",
+          "chapter_range": [
+            2,
+            24
+          ],
+          "position_description": "He repeatedly converts accidents, flirtation, and confession into opportunities for influence, rationalizing noncommitment and subordinating truth to advantage.",
+          "key_moments": [
+            "Converts the broken cross accident into emotional leverage",
+            "Uses evasive language about marriage and commitment",
+            "Confesses love as self-justifying lost destiny rather than culpability",
+            "Stokes Isabel's jealousy without remorse"
+          ]
+        },
+        {
+          "phase": "Exposure without repentance",
+          "chapter_range": [
+            25,
+            42
+          ],
+          "position_description": "As lies unravel, he becomes more aware of consequences, but this awareness is tactical: he tries to evade responsibility, minimize blame, and preserve himself.",
+          "key_moments": [
+            "Evades Isabel's demands and withdraws when pressed",
+            "Seeks to reduce culpability as his identity is exposed",
+            "Arrest, trial, and condemnation force recognition of consequences"
+          ]
+        },
+        {
+          "phase": "Punishment as humiliation",
+          "chapter_range": [
+            45,
+            45
+          ],
+          "position_description": "He experiences punishment as disgrace and bodily degradation rather than moral reckoning; shame is present, but not reform.",
+          "key_moments": [
+            "Commuted sentence is felt as a fate worse than death",
+            "Transportation becomes the final emblem of public disgrace"
+          ]
+        }
+      ],
+      "evidence_summary": "The novel moves Levison from carefree opportunism to forced awareness of consequences, but never into conscience or repentance."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Composure-Panic",
+      "axis_name": "From polished composure to cornered panic and humiliation",
+      "pole_start": "He begins outwardly composed, polished, and socially fluent, with a cool confidence that he can manage people and situations.",
+      "pole_end": "He ends in fear, humiliation, and defensive collapse as public exposure, arrest, and sentencing break his composure.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Composed seducer",
+          "chapter_range": [
+            2,
+            24
+          ],
+          "position_description": "He appears self-possessed and amused, even when manipulating others; confidence functions as part of his social weaponry.",
+          "key_moments": [
+            "Polished and predatory charm in early courtship",
+            "Cool, amused meddling during the Boulogne and jealousy episodes"
+          ]
+        },
+        {
+          "phase": "Cracks in the mask",
+          "chapter_range": [
+            25,
+            38
+          ],
+          "position_description": "Public hostility, recognition, and political failure erode his composure; he becomes evasive, irritated, and visibly uncomfortable.",
+          "key_moments": [
+            "Abandons Isabel and retreats from the relationship",
+            "Public humiliation in West Lynne",
+            "Recognition by Bethel and slinking away"
+          ]
+        },
+        {
+          "phase": "Open panic",
+          "chapter_range": [
+            39,
+            45
+          ],
+          "position_description": "Fear becomes immediate and embodied: arrest, trial, conviction, and transportation leave him shaken and despairing.",
+          "key_moments": [
+            "Arrested for murder",
+            "Justice-room and trial intensify panic",
+            "Commuted sentence is experienced as worse than death"
+          ]
+        }
+      ],
+      "evidence_summary": "Levison’s emotional arc is the collapse of cultivated poise into fear and humiliation; the novel steadily strips away his social confidence until only panic remains."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Francis Levison",
+      "target_character": "Lady Isabel Vane / Lady Isabel Carlyle",
+      "dimension_label": "Seduction-Betrayal",
+      "axis_name": "From flirtatious fascination to discarded liability and betrayal",
+      "pole_start": "He begins as a captivating suitor who attracts Isabel's admiration and emotional openness, keeping intimacy shallow but charged with desire and hope.",
+      "pole_end": "He ends as a figure of betrayal and abandonment, someone whose presence leaves shame, pain, and lasting emotional contamination.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Seductive courtship",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "He cultivates Isabel's attention through charm, tenderness, and ambiguity, deepening fascination while withholding genuine commitment.",
+          "key_moments": [
+            "Introduced as predatory toward Isabel",
+            "Uses the broken cross accident to intensify tenderness",
+            "Maintains languishing courtship while evading marriage"
+          ]
+        },
+        {
+          "phase": "Jealousy manipulation",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "At Boulogne and afterward, he revives the bond, confesses love, then uses jealousy and insinuation to gain leverage over her.",
+          "key_moments": [
+            "Surprise reunion at Boulogne pier",
+            "Confesses long-suppressed love",
+            "Recasts himself as harmless after rejection",
+            "Feeds her jealousy about Carlyle and Barbara"
+          ]
+        },
+        {
+          "phase": "Abandonment and rupture",
+          "chapter_range": [
+            25,
+            26
+          ],
+          "position_description": "When confronted, he withdraws, refuses to stay, and effectively discards Isabel once she becomes costly or inconvenient.",
+          "key_moments": [
+            "Evades responsibility and exits the relationship",
+            "Is revealed to have married Alice Challoner",
+            "Trust collapses into open hostility and shame"
+          ]
+        },
+        {
+          "phase": "Aftermath of disgrace",
+          "chapter_range": [
+            32,
+            45
+          ],
+          "position_description": "He remains a source of terror and moral pressure in her memory, but no longer a viable intimate relation; his name functions as a wound and reminder of ruin.",
+          "key_moments": [
+            "His elopement remains a defining wound",
+            "His reappearance intensifies her terror and remorse",
+            "Public arrest and conviction deepen the shame attached to him"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Levison's central relationship arc: seduction becomes manipulation, then abandonment, and finally enduring emotional damage and shame."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Francis Levison",
+      "target_character": "Archibald Carlyle",
+      "dimension_label": "Rivalry-Antagonism",
+      "axis_name": "From useful ally to principled adversary",
+      "pole_start": "He initially treats Carlyle as a useful patron and intermediary, someone whose goodwill can be exploited for access and survival.",
+      "pole_end": "He ends as Carlyle's public and moral antagonist, a man Carlyle helps expose and bring toward justice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Pragmatic dependence",
+          "chapter_range": [
+            12,
+            21
+          ],
+          "position_description": "Levison uses Carlyle's goodwill to regain access and practical support, establishing a relationship of utility rather than friendship.",
+          "key_moments": [
+            "Carlyle offers assistance with his return to England",
+            "Levison confides in Carlyle about his troubles"
+          ]
+        },
+        {
+          "phase": "Indirect rivalry",
+          "chapter_range": [
+            22,
+            35
+          ],
+          "position_description": "Carlyle becomes a target for jealousy manipulation and a figure whose moral standing threatens Levison's schemes.",
+          "key_moments": [
+            "Insinuates Carlyle's impropriety with Barbara",
+            "Shadows Carlyle and reports exaggerated sightings",
+            "West Lynne election rivalry and public scorn"
+          ]
+        },
+        {
+          "phase": "Open opposition",
+          "chapter_range": [
+            36,
+            42
+          ],
+          "position_description": "Carlyle is now the central moral counterforce: Levison fears his scrutiny, contempt, and legal-social influence.",
+          "key_moments": [
+            "Recognition and exposure intensify",
+            "Carlyle supports legal action without personal revenge",
+            "Trial and condemnation"
+          ]
+        }
+      ],
+      "evidence_summary": "Carlyle moves from practical helper to moral and institutional adversary; Levison repeatedly tries to use him, but Carlyle ultimately helps bring him down."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Francis Levison",
+      "target_character": "West Lynne townspeople",
+      "dimension_label": "Esteem-Hostility",
+      "axis_name": "From admired outsider to rejected criminal",
+      "pole_start": "He begins as a socially mobile outsider who can still move within elite circles and exploit hospitality, patronage, and ambiguity.",
+      "pole_end": "He ends as a publicly condemned criminal, mocked, arrested, and treated as an object of communal judgment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Social access",
+          "chapter_range": [
+            2,
+            24
+          ],
+          "position_description": "He can still enter households, gather information, and use social ease to remain relevant and admired.",
+          "key_moments": [
+            "Introduced as handsome and socially admired",
+            "Returns under patronage and moves through elite spaces",
+            "Meddles while remaining socially usable"
+          ]
+        },
+        {
+          "phase": "Public humiliation",
+          "chapter_range": [
+            35,
+            38
+          ],
+          "position_description": "The community turns hostile: he is mocked, ducked, and forced into retreat as recognition spreads.",
+          "key_moments": [
+            "Pond humiliation",
+            "Public recognition and social scorn",
+            "Town hostility hardens"
+          ]
+        },
+        {
+          "phase": "Legal condemnation",
+          "chapter_range": [
+            39,
+            45
+          ],
+          "position_description": "He is arrested, tried, condemned, and sentenced to transportation, becoming a figure of communal punishment rather than inclusion.",
+          "key_moments": [
+            "Arrest for Hallijohn's murder",
+            "Trial and death sentence",
+            "Transportation"
+          ]
+        }
+      ],
+      "evidence_summary": "Levison's relation to the wider community moves from tolerated or admired outsider to expelled criminal; the town's collective judgment externalizes his collapse."
+    }
+  ]
+}

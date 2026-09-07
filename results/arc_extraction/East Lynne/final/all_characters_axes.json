@@ -1,0 +1,2882 @@
+{
+  "Lady Isabel Vane": {
+    "character": "Lady Isabel Vane",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From sheltered dependence to sacrificial relational selfhood",
+            "set_b_axis": "From compliant social harmony to self-erasing relational dependence",
+            "overlap_description": "Both describe Isabel's movement from protected, compliant, low-agency gentility into a later state defined by dependence, concealment, and self-effacing attachment to others."
+          },
+          {
+            "set_a_axis": "From moral innocence to self-condemning penitence",
+            "set_b_axis": "From innocent impressionability to painful moral self-knowledge",
+            "overlap_description": "Both track a shift from innocence and naivete toward heightened moral awareness, guilt, and self-reproach after crisis and misjudgment."
+          },
+          {
+            "set_a_axis": "From trusting innocence to jealous mistrust",
+            "set_b_axis": "From innocent impressionability to painful moral self-knowledge",
+            "overlap_description": "Set B folds this into broader self-knowledge, but both sets recognize that Isabel's trust is shattered by jealousy, misreading, and belated recognition of error."
+          },
+          {
+            "set_a_axis": "From visible ladyhood to living anonymity",
+            "set_b_axis": "From sheltered dignity to internalized disgrace",
+            "overlap_description": "Both capture the collapse of her public identity into concealment, shame, and near-erasure, though A emphasizes social anonymity and B emphasizes internalized disgrace."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From trusting innocence to jealous mistrust",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From innocent impressionability to painful moral self-knowledge",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From grateful reliance to remorseful, impossible love",
+            "set_b_axis": "From grateful reliance to tragic, remorseful love",
+            "overlap_description": "Both describe the same core bond: Carlyle moves from protector/rescuer to beloved husband and finally to the object of remorseful, irrecoverable attachment."
+          },
+          {
+            "set_a_axis": "From dangerous fascination to confirmed betrayal",
+            "set_b_axis": "From innocent admiration to revulsion and repudiation",
+            "overlap_description": "Both track Levison as a trajectory from attraction and danger into exposure, moral disgust, and total repudiation."
+          },
+          {
+            "set_a_axis": "From curiosity to displaced rivalry",
+            "set_b_axis": "From cordial curiosity to jealous displacement and then wounded recognition",
+            "overlap_description": "Both identify Barbara as the rival/replacement figure whose presence intensifies jealousy and later crystallizes Isabel's sense of lost domestic place."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From hidden motherhood to desperate protective love",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From innocent admiration to revulsion and repudiation",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From sheltered dependence to self-erasing relational dependence",
+        "pole_start": "Begins as a sheltered, compliant young woman whose identity is organized around gentility, harmony, and being cared for rather than self-directing.",
+        "pole_end": "Ends in a deeply communion-bound state of self-effacing dependence, where attachment, concealment, maternal longing, and sacrificial endurance define what little agency remains.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Dutiful social innocence",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "She begins as affectionate, socially compliant, and morally sensitive, with only modest, socially sanctioned agency.",
+            "key_moments": [
+              "Chapter 1: calm, graceful, and dutiful in family and social life",
+              "Chapter 2: emotionally responsive and self-effacing",
+              "Chapter 8: charitable patronage of Mr. Kane"
+            ]
+          },
+          {
+            "phase": "Forced practical agency",
+            "chapter_range": [
+              9,
+              14
+            ],
+            "position_description": "Bereavement and financial collapse briefly force her into decision-making, but this agency is reactive and tethered to dependence on Carlyle and fear of ruin.",
+            "key_moments": [
+              "Chapter 10: confronts debt, creditors, and social collapse",
+              "Chapter 11: accepts Carlyle's rescue",
+              "Chapter 12-14: marriage becomes the only viable path"
+            ]
+          },
+          {
+            "phase": "Domestic dependence",
+            "chapter_range": [
+              15,
+              24
+            ],
+            "position_description": "Marriage narrows her agency again as she becomes emotionally fused with Carlyle, increasingly defined by waiting, reassurance-seeking, jealousy, and reactive distress.",
+            "key_moments": [
+              "Chapter 16: waits for Carlyle and centers her day on him",
+              "Chapter 17-18: seeks reassurance and feels burdened",
+              "Chapter 20-24: jealousy and rupture culminate in flight"
+            ]
+          },
+          {
+            "phase": "Self-erasure and maternal endurance",
+            "chapter_range": [
+              25,
+              47
+            ],
+            "position_description": "Her remaining agency collapses into concealment, disguise, and sacrificial maternal care; she lives by endurance and final pleas for her children.",
+            "key_moments": [
+              "Chapter 27: resolves to remain hidden as Madame Vine",
+              "Chapter 31-35: lives near her children unrecognized",
+              "Chapter 43-46: confesses, seeks mercy, and dies"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Isabel moves from protected dependence into increasingly constrained, reactive, and finally self-erasing forms of relational existence. Any brief gains in agency are overwhelmed by loss, concealment, and sacrificial attachment."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "innocence-guilt",
+        "axis_name": "From innocent impressionability to self-condemning penitence",
+        "pole_start": "Begins with a trusting, impressionable self-image grounded in innocence, benevolence, and limited awareness of danger or consequence.",
+        "pole_end": "Ends in a penitential self-concept marked by guilt, shame, and the conviction that she has caused irreversible harm and must atone through suffering.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Innocent susceptibility",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "She is morally sensitive but not self-analytical, assuming good intentions and social propriety are enough.",
+            "key_moments": [
+              "Chapter 2: stirred by Levison's admiration without full suspicion",
+              "Chapter 8: learns practical moral responsibility through the Kane episode"
+            ]
+          },
+          {
+            "phase": "Cracking assumptions",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "Death, debt, and domestic humiliation dismantle her assumptions about safety, rank, and emotional control.",
+            "key_moments": [
+              "Chapter 10-11: material ruin and dependence",
+              "Chapter 12: marriage as survival rather than ideal choice",
+              "Chapter 17-18: jealousy and vulnerability to rumor"
+            ]
+          },
+          {
+            "phase": "Jealous misreading and collapse",
+            "chapter_range": [
+              19,
+              26
+            ],
+            "position_description": "Her misreading of Carlyle and Barbara, amplified by Levison, culminates in flight and then crushing shame when the truth is revealed.",
+            "key_moments": [
+              "Chapter 22-24: jealousy hardens into certainty",
+              "Chapter 25: Levison's duplicity becomes clearer",
+              "Chapter 26: learns Carlyle was faithful and her suspicion was fatal"
+            ]
+          },
+          {
+            "phase": "Penitent clarity",
+            "chapter_range": [
+              27,
+              47
+            ],
+            "position_description": "In hidden life she becomes painfully clear-eyed about her ruin, guilt, and the consequences of her choices, culminating in confession and deathbed surrender.",
+            "key_moments": [
+              "Chapter 31-35: self-awareness of disguise and illegitimacy",
+              "Chapter 36: horror at Levison's possible murder",
+              "Chapter 43-46: confession, forgiveness, and death"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that Isabel's arc moves from innocence and impressionability toward painful moral self-knowledge. The final state is not liberation but penitence: she understands her own susceptibility, error, and guilt."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "security-shame",
+        "axis_name": "From sheltered dignity to internalized disgrace",
+        "pole_start": "Begins with protected gentility, modest self-respect, and confidence that she can move through the world honorably.",
+        "pole_end": "Ends with internalized disgrace, self-condemnation, and the wish to disappear from public identity altogether.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Sheltered gentility",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "She inhabits a secure social identity as a well-bred young woman, publicly legible and socially assured.",
+            "key_moments": [
+              "Chapter 1: composed and socially secure",
+              "Chapter 7-8: still able to act publicly with dignity"
+            ]
+          },
+          {
+            "phase": "Social collapse",
+            "chapter_range": [
+              9,
+              14
+            ],
+            "position_description": "Her father's death, financial ruin, and humiliation destroy the basis of her former dignity and tie shame to dependence.",
+            "key_moments": [
+              "Chapter 10: creditors and collapse of status",
+              "Chapter 11: humiliating rescue by Carlyle",
+              "Chapter 12-14: East Lynne and marriage become bound up with loss"
+            ]
+          },
+          {
+            "phase": "Moral ruin",
+            "chapter_range": [
+              20,
+              27
+            ],
+            "position_description": "After the flight, shame becomes moral as well as social; she sees herself as ruined and begins to prefer obscurity to recognition.",
+            "key_moments": [
+              "Chapter 24-26: rupture, remorse, and exposure of error",
+              "Chapter 27: obscurity becomes a chosen refuge"
+            ]
+          },
+          {
+            "phase": "Hidden penance",
+            "chapter_range": [
+              31,
+              47
+            ],
+            "position_description": "Her shame is fully internalized in disguise and self-denial, and death becomes the only imaginable release.",
+            "key_moments": [
+              "Chapter 32-35: governess disguise at East Lynne",
+              "Chapter 43-46: confession, surrender, and death"
+            ]
+          }
+        ],
+        "evidence_summary": "Isabel's social dignity collapses into shame, and that shame becomes internalized as a permanent condition. The arc culminates in concealment, penance, and self-erasure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "trust-suspicion",
+        "axis_name": "From trusting innocence to jealous mistrust",
+        "pole_start": "Begins by trusting appearances, assurances, and the emotional security of her social world.",
+        "pole_end": "Ends with a damaged habit of suspicion and mistrust, especially around Carlyle, Barbara, and Levison, though later corrected too late.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Trusting innocence",
+            "chapter_range": [
+              1,
+              16
+            ],
+            "position_description": "She initially relies on others' guidance and assumes benevolent interpretation of events.",
+            "key_moments": [
+              "Chapter 1: trusting within family life",
+              "Chapter 10: relies on Carlyle to manage crisis",
+              "Chapter 16: trusts domestic arrangements"
+            ]
+          },
+          {
+            "phase": "Jealous awakening",
+            "chapter_range": [
+              17,
+              24
+            ],
+            "position_description": "Servant gossip, Barbara's presence, and Levison's insinuations awaken persistent suspicion that she cannot master.",
+            "key_moments": [
+              "Chapter 17: hears Barbara is in love with Carlyle",
+              "Chapter 18: jealousy returns despite reassurance",
+              "Chapter 22-24: misreads scenes as betrayal"
+            ]
+          },
+          {
+            "phase": "Remorseful recognition",
+            "chapter_range": [
+              26,
+              39
+            ],
+            "position_description": "After learning Carlyle was faithful, her suspicion is exposed as tragic error, and she becomes painfully aware that mistrust has destroyed her happiness.",
+            "key_moments": [
+              "Chapter 26: learns Carlyle was not false",
+              "Chapter 33: sees Barbara in her former place",
+              "Chapter 39: public revelations confirm Levison's guilt"
+            ]
+          },
+          {
+            "phase": "Late-life remorse",
+            "chapter_range": [
+              43,
+              46
+            ],
+            "position_description": "Trust is redirected away from romantic security toward mercy and protection for her children; suspicion is replaced by exhausted penitence.",
+            "key_moments": [
+              "Chapter 44: asks others to protect Lucy and the children",
+              "Chapter 46: final plea to Carlyle"
+            ]
+          }
+        ],
+        "evidence_summary": "Isabel's jealousy is a central psychological engine, but the arc is non-linear: trust is broken, then partially restored in a new form of remorseful dependence and protective concern."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Lady Isabel Vane",
+        "target_character": "Archibald Carlyle",
+        "dimension_label": "trust-intimacy",
+        "axis_name": "From grateful reliance to tragic, remorseful love",
+        "pole_start": "Begins with polite receptivity and growing trust in a steady, respectable man who seems kind, practical, and safe.",
+        "pole_end": "Ends in profound love, remorse, and desperate need for forgiveness, with intimacy transformed into a tragic bond completed only through confession and death.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful acquaintance",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "She is polite and mildly receptive to Carlyle, then increasingly trusts his practical goodness.",
+            "key_moments": [
+              "Chapter 1: polite and socially composed",
+              "Chapter 8: recognizes his practical kindness"
+            ]
+          },
+          {
+            "phase": "Protector and rescuer",
+            "chapter_range": [
+              9,
+              15
+            ],
+            "position_description": "In crisis, Carlyle becomes her guide, benefactor, and husband; trust rises sharply as she accepts him as the one who can save her from ruin.",
+            "key_moments": [
+              "Chapter 10-11: relies on him in the East Lynne crisis",
+              "Chapter 12: accepts his proposal",
+              "Chapter 15: experiences him as protector at East Lynne"
+            ]
+          },
+          {
+            "phase": "Jealous dependence",
+            "chapter_range": [
+              17,
+              24
+            ],
+            "position_description": "Her trust becomes unstable under jealousy. She still loves and depends on him, but Barbara and Levison's insinuations make her suspicious and possessive.",
+            "key_moments": [
+              "Chapter 17-19: jealousy over Barbara Hare",
+              "Chapter 22-24: suspicion hardens into apparent betrayal"
+            ]
+          },
+          {
+            "phase": "Remorseful recognition",
+            "chapter_range": [
+              25,
+              46
+            ],
+            "position_description": "After learning the truth, she reorients toward Carlyle as the faithful husband she wronged. Love becomes grief, reverence, and a plea for forgiveness.",
+            "key_moments": [
+              "Chapter 26: learns Carlyle was faithful",
+              "Chapter 43-46: confesses and seeks forgiveness"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle is the central relational axis of Isabel's life: from safe acquaintance to rescuer, then to the object of jealous misreading, and finally to the beloved husband whose forgiveness becomes the emotional climax of her arc."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Lady Isabel Vane",
+        "target_character": "Francis Levison",
+        "dimension_label": "attraction-distrust",
+        "axis_name": "From innocent admiration to revulsion and repudiation",
+        "pole_start": "Begins as shy, flattered attraction to a charming man whose attention feels graceful and harmless, with little suspicion of danger.",
+        "pole_end": "Ends in open contempt, horror, and moral revulsion, with Levison understood as deceitful, corrupt, and the source of her ruin.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Flattered innocence",
+            "chapter_range": [
+              2,
+              8
+            ],
+            "position_description": "She is stirred by his admiration and initially interprets it as flattering and harmless.",
+            "key_moments": [
+              "Chapter 2: broken cross scene and Levison's admiration"
+            ]
+          },
+          {
+            "phase": "Suspicion and temptation",
+            "chapter_range": [
+              12,
+              20
+            ],
+            "position_description": "Her feelings become conflicted: she senses falseness but still feels attraction, and his presence reawakens emotional vulnerability.",
+            "key_moments": [
+              "Chapter 12: lingering attraction mixed with distrust",
+              "Chapter 20: reunion reawakens dangerous feeling"
+            ]
+          },
+          {
+            "phase": "Manipulation and collapse",
+            "chapter_range": [
+              21,
+              26
+            ],
+            "position_description": "Levison feeds her jealousy and helps drive her toward flight. Once his duplicity is exposed, attraction collapses into contempt and self-reproach.",
+            "key_moments": [
+              "Chapter 21-24: his influence intensifies her rupture",
+              "Chapter 25: she rejects his support",
+              "Chapter 26: sees him as base and deceitful"
+            ]
+          },
+          {
+            "phase": "Moral horror",
+            "chapter_range": [
+              36,
+              38
+            ],
+            "position_description": "Barbara's revelation that Levison may be a murderer turns him into an object of near-total revulsion and contamination.",
+            "key_moments": [
+              "Chapter 36: horror at possible murder",
+              "Chapter 38: public exposure reinforces disgust"
+            ]
+          }
+        ],
+        "evidence_summary": "Levison's arc in Isabel's mind is one of steady moral degradation: from charming admiration to dangerous temptation, then to manipulative villainy, and finally to revulsion and horror."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Lady Isabel Vane",
+        "target_character": "Barbara Hare / Barbara Carlyle",
+        "dimension_label": "rivalry-replacement",
+        "axis_name": "From cordial curiosity to jealous displacement and wounded recognition",
+        "pole_start": "Begins with neutral curiosity and little emotional investment, as Barbara is simply another woman in Carlyle's world.",
+        "pole_end": "Ends with painful recognition of Barbara as the lawful wife occupying Isabel's former place, with jealousy tempered by remorse and by awareness that Barbara is not the original cause of her ruin.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Cordial distance",
+            "chapter_range": [
+              1,
+              15
+            ],
+            "position_description": "Barbara is not yet a major emotional figure; Isabel is polite or merely curious when she appears.",
+            "key_moments": [
+              "Chapter 15: notices Barbara's beauty"
+            ]
+          },
+          {
+            "phase": "Jealous rival",
+            "chapter_range": [
+              17,
+              24
+            ],
+            "position_description": "Barbara becomes the imagined rival whose closeness to Carlyle threatens Isabel's marriage and self-worth.",
+            "key_moments": [
+              "Chapter 17-19: jealousy awakens",
+              "Chapter 22-24: insinuations intensify suspicion"
+            ]
+          },
+          {
+            "phase": "Corrected but painful recognition",
+            "chapter_range": [
+              25,
+              38
+            ],
+            "position_description": "After the truth emerges, Isabel's jealousy weakens into a tragic recognition of Barbara as the legitimate domestic center she has lost.",
+            "key_moments": [
+              "Chapter 25-26: jealousy partially corrected",
+              "Chapter 32-38: Barbara as wife and mother in Isabel's former place"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara becomes the main relational rival in Isabel's inner life, but the relationship evolves from jealousy into tragic recognition of lawful displacement and irrecoverable loss."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Lady Isabel Vane",
+        "target_character": "Lucy Carlyle / the Carlyle children",
+        "dimension_label": "maternal exclusion",
+        "axis_name": "From hidden motherhood to desperate protective love",
+        "pole_start": "Begins with latent maternal feeling that is present but not yet fully activated because the children are not central to her life.",
+        "pole_end": "Ends in intense, self-sacrificing maternal devotion, expressed through concealment, protection, and final pleas for their future.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Latent maternal identity",
+            "chapter_range": [
+              15,
+              31
+            ],
+            "position_description": "Her motherhood exists in the background while she is still learning domestic life and is not yet forced into direct maternal conflict.",
+            "key_moments": [
+              "Chapter 15: enters married domestic life without practical maternal authority",
+              "Chapter 31: fears her children may inherit or repeat her failures"
+            ]
+          },
+          {
+            "phase": "Maternal dispossession",
+            "chapter_range": [
+              32,
+              38
+            ],
+            "position_description": "Returning as Madame Vine, she is denied recognition by her children and forced to watch Barbara occupy her maternal place.",
+            "key_moments": [
+              "Chapter 32: learns the children are living under Barbara's care",
+              "Chapter 33: children do not know her; Lucy is taught to replace her name",
+              "Chapter 34: shared concern for William briefly restores maternal feeling",
+              "Chapter 38: William is diagnosed as dying"
+            ]
+          },
+          {
+            "phase": "Protective finality",
+            "chapter_range": [
+              43,
+              46
+            ],
+            "position_description": "Her motherhood becomes fully sacrificial: she pleads for mercy, asks that the children not be punished for her sin, and seeks to preserve their future after her death.",
+            "key_moments": [
+              "Chapter 43: William dies and she collapses in grief",
+              "Chapter 44: asks Lord Vane to cherish Lucy and not reproach her",
+              "Chapter 46: begs Carlyle not to punish Lucy and Archibald"
+            ]
+          }
+        ],
+        "evidence_summary": "Motherhood is one of Isabel's deepest late-stage identities, but it is defined by exclusion and concealment. Her maternal love intensifies precisely as her access to her children is denied, culminating in protective self-sacrifice."
+      }
+    ]
+  },
+  "Archibald Carlyle": {
+    "character": "Archibald Carlyle",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From discreet social mastery to morally burdened relational interdependence",
+            "set_b_axis": "From self-commanded professional agency to protective relational communion",
+            "overlap_description": "Both describe Carlyle as beginning in controlled, competent self-command and ending in a more relationally embedded identity shaped by care, family duty, grief, and moral responsibility."
+          },
+          {
+            "set_a_axis": "From confident inference to chastened moral caution",
+            "set_b_axis": "From unexamined tact to partial recognition of his own emotional effects",
+            "overlap_description": "Both track a growth in self-awareness: Carlyle becomes less naive about his own judgment and social influence, more careful about truth, and more conscious of the consequences of his actions."
+          },
+          {
+            "set_a_axis": "From tactful concealment to painful truth-telling",
+            "set_b_axis": "From unexamined tact to partial recognition of his own emotional effects",
+            "overlap_description": "Both emphasize a movement away from automatic discretion toward more deliberate honesty, especially when secrecy harms others or distorts relationships."
+          },
+          {
+            "set_a_axis": "From composed self-command to exposed emotional dependence",
+            "set_b_axis": "From restrained feeling to disciplined tenderness",
+            "overlap_description": "Both capture Carlyle's emotional deepening: he remains restrained, but becomes more visibly vulnerable through love, grief, forgiveness, and paternal loss."
+          },
+          {
+            "set_a_axis": "From confident inference to chastened moral caution",
+            "set_b_axis": "From procedural honor to compassionate moral judgment",
+            "overlap_description": "Both show Carlyle moving from a practical, evidence-based ethic toward a more humane and morally careful mode of judgment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From discreet social mastery to morally burdened relational interdependence",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From confident inference to chastened moral caution",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From tactful concealment to painful truth-telling",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From composed self-command to exposed emotional dependence",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From self-commanded professional agency to protective relational communion",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From unexamined tact to partial recognition of his own emotional effects",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From procedural honor to compassionate moral judgment",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From restrained feeling to disciplined tenderness",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From respectful admiration to tragic protective love",
+            "set_b_axis": "From fascinated admiration to protective, wounded, and forgiving love",
+            "overlap_description": "Both describe the same Isabel arc: admiration becomes protective love, then tragic estrangement, and finally forgiveness after revelation and death."
+          },
+          {
+            "set_a_axis": "From ambiguous warmth to disciplined marital trust",
+            "set_b_axis": "From warm, ambiguous kindness to secure, chosen partnership",
+            "overlap_description": "Both track Barbara from ambiguous early warmth and emotional confusion to a stable, chosen marriage grounded in trust and mutual commitment."
+          },
+          {
+            "set_a_axis": "From suspecting Richard to defending his innocence",
+            "set_b_axis": "From cautious doubt to protective vindication",
+            "overlap_description": "Both show Carlyle moving from suspicion to active protection and legal advocacy for Richard Hare."
+          },
+          {
+            "set_a_axis": "From polite acquaintance to principled moral opposition",
+            "set_b_axis": "From courteous tolerance to disciplined contempt",
+            "overlap_description": "Both present Levison as moving from socially manageable acquaintance to morally condemned antagonist, with Carlyle's response remaining restrained and justice-oriented."
+          },
+          {
+            "set_a_axis": "From habitual deference to principled household separation",
+            "set_b_axis": "From family deference to firm domestic self-assertion",
+            "overlap_description": "Both describe Carlyle's relationship with Cornelia as shifting from habitual deference to firmer authority and household boundary-setting."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From respectful admiration to tragic protective love",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From ambiguous warmth to disciplined marital trust",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From habitual deference to principled household separation",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From suspecting Richard to defending his innocence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From polite acquaintance to principled moral opposition",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From fascinated admiration to protective, wounded, and forgiving love",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From warm, ambiguous kindness to secure, chosen partnership",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From cautious doubt to protective vindication",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From courteous tolerance to disciplined contempt",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From family deference to firm domestic self-assertion",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-commanded agency to protective relational communion",
+        "pole_start": "Begins as a self-possessed, tactically effective man oriented toward practical control, discretion, and competent management of crises from a position of relative emotional distance.",
+        "pole_end": "Ends as a disciplined husband-father whose identity is organized around protective care, grief, forgiveness, and moral stewardship within intimate family bonds.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Controlled competence",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "He operates with strong agency: calm, businesslike, and socially masterful, handling negotiations, investigations, and domestic matters through composure and practical judgment.",
+            "key_moments": [
+              "East Lynne purchase and household management",
+              "careful handling of the Hare crisis",
+              "social tact with Isabel and Barbara",
+              "discreet mediation of local affairs"
+            ]
+          },
+          {
+            "phase": "Protective attachment",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "His agency increasingly serves communion as concern for Isabel deepens into rescue, proposal, and marital commitment; he becomes emotionally invested in others' vulnerability.",
+            "key_moments": [
+              "Mount Severn deathbed crisis",
+              "financial and practical aid to Isabel",
+              "marriage proposal as rescue",
+              "tender vigilance during Isabel's illness"
+            ]
+          },
+          {
+            "phase": "Relational strain",
+            "chapter_range": [
+              19,
+              33
+            ],
+            "position_description": "He remains capable and controlling, but his actions are now burdened by secrecy, loyalty, and the emotional consequences of domestic entanglement, especially around Barbara, Isabel, and Levison.",
+            "key_moments": [
+              "investigation of Thorn/Levison",
+              "sheltering Richard Hare",
+              "marriage to Barbara",
+              "unrecognized suffering of Isabel as Madame Vine"
+            ]
+          },
+          {
+            "phase": "Grief-shaped interdependence",
+            "chapter_range": [
+              34,
+              47
+            ],
+            "position_description": "Fatherhood, loss, and revelation strip away any illusion of detached control; he remains authoritative, but his center of gravity is now family care, mourning, forgiveness, and the maintenance of household peace.",
+            "key_moments": [
+              "William's illness and death",
+              "lawful vindication of Richard",
+              "recognition and forgiveness of Isabel",
+              "truth-telling and reassurance to Barbara"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle never loses agency, but the novel steadily reorients that agency toward communion. He begins as a controlled social master and ends as a morally burdened, emotionally interdependent family man."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "judgment-humility",
+        "axis_name": "From confident practical judgment to chastened moral caution",
+        "pole_start": "Starts with confidence in his own ability to read situations correctly through tact, evidence, and reasoned inference.",
+        "pole_end": "Ends with a humbler, more evidence-bound and morally careful mode of knowing, aware that appearances, secrecy, and even his own perceptions can mislead him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial confidence",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "He trusts his practical judgment in the Richard Hare matter and believes careful questioning and social tact can uncover the truth.",
+            "key_moments": [
+              "investigation of Richard Hare",
+              "questioning witnesses",
+              "confidence in orderly inference"
+            ]
+          },
+          {
+            "phase": "Suspicion with restraint",
+            "chapter_range": [
+              19,
+              29
+            ],
+            "position_description": "He grows more certain that hidden wrongdoing exists, but also more aware that direct accusation may be unjust and that certainty requires proof.",
+            "key_moments": [
+              "private investigation of Thorn",
+              "Barbara's clues about Levison",
+              "refusal to act rashly"
+            ]
+          },
+          {
+            "phase": "Moral caution",
+            "chapter_range": [
+              36,
+              42
+            ],
+            "position_description": "He insists on lawful process and refuses revenge, recognizing the danger of personal bias and the need for proper channels of justice.",
+            "key_moments": [
+              "routing Richard's case through Ball",
+              "refusal to make Levison's crimes his own cause",
+              "Levison's arrest and trial"
+            ]
+          },
+          {
+            "phase": "Late humility",
+            "chapter_range": [
+              43,
+              47
+            ],
+            "position_description": "He must live with delayed truth and incomplete knowledge, accepting that being right is not the same as being able to prevent suffering in time.",
+            "key_moments": [
+              "William's death under the shadow of past wrongs",
+              "revelation of Isabel's identity at the end of her life",
+              "choice of disclosure and forgiveness"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle's arc is from confident practical inference toward chastened moral caution. The novel teaches him that perception is not enough; judgment must become humble, lawful, and ethically restrained."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "secrecy-honesty",
+        "axis_name": "From tactful concealment to morally necessary truth-telling",
+        "pole_start": "Begins as a man who treats discretion, omission, and managed appearances as useful tools for preserving order and protecting others.",
+        "pole_end": "Ends as a man who believes truth must be spoken directly, even when painful, because secrecy has moral consequences in intimate life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Discreet management",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "He habitually keeps matters private, conceals plans, and uses tactful omission as a social instrument.",
+            "key_moments": [
+              "handling Barbara's confidence discreetly",
+              "concealing East Lynne plans from Cornelia",
+              "managing social situations without public disclosure"
+            ]
+          },
+          {
+            "phase": "Truth as duty",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "He begins to prefer direct truth when the stakes are life, death, and trust, especially in his dealings with Isabel.",
+            "key_moments": [
+              "telling Isabel the truth about Mount Severn",
+              "refusing false reassurance",
+              "explaining practical realities of the crisis"
+            ]
+          },
+          {
+            "phase": "Secrecy as burden",
+            "chapter_range": [
+              21,
+              24
+            ],
+            "position_description": "His concealments around Levison and Barbara become costly, contributing to jealousy, misunderstanding, and emotional collapse.",
+            "key_moments": [
+              "failure to recognize Levison's danger",
+              "withholding the truth from Isabel",
+              "Isabel's jealousy and disappearance"
+            ]
+          },
+          {
+            "phase": "Final disclosure",
+            "chapter_range": [
+              46,
+              47
+            ],
+            "position_description": "He chooses to tell Barbara the truth himself and handles the revelation with candor, restraint, and moral seriousness.",
+            "key_moments": [
+              "recognition of Isabel as Madame Vine",
+              "forgiveness at the deathbed",
+              "truth-telling to Barbara",
+              "insistence on peace through duty"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle moves from using secrecy as a default instrument of control to treating truth as a moral necessity. The arc culminates in disclosure that is painful but ethically deliberate."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "self-command-vulnerability",
+        "axis_name": "From restrained composure to disciplined tenderness",
+        "pole_start": "Starts emotionally contained, with affection expressed indirectly through courtesy, practical help, and controlled reserve.",
+        "pole_end": "Ends still self-possessed, but openly capable of grief, forgiveness, and tender moral speech under the pressure of loss and revelation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Contained warmth",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "His feelings are present but muted; he is warm without being openly vulnerable.",
+            "key_moments": [
+              "admiration of Isabel",
+              "teasing kindness to Barbara",
+              "benevolent domestic visits"
+            ]
+          },
+          {
+            "phase": "Tender exposure",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "He becomes visibly moved by Isabel's suffering and by the possibility of losing her, though he still channels emotion into action.",
+            "key_moments": [
+              "deathbed urgency",
+              "proposal to Isabel",
+              "anxiety during her illness"
+            ]
+          },
+          {
+            "phase": "Grief and helplessness",
+            "chapter_range": [
+              38,
+              44
+            ],
+            "position_description": "Fatherhood and loss strip away any illusion of control; William's illness and death force him into helpless mourning.",
+            "key_moments": [
+              "William's fatal illness",
+              "watching William die",
+              "continuing to function through grief"
+            ]
+          },
+          {
+            "phase": "Restraint amid revelation",
+            "chapter_range": [
+              46,
+              47
+            ],
+            "position_description": "He is emotionally overwhelmed by Isabel's return and death, but his defining response remains restraint: forgiveness, disclosure, and duty.",
+            "key_moments": [
+              "receiving Isabel's confession",
+              "forgiving her",
+              "telling Barbara the truth",
+              "managing the aftermath with composure"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle remains disciplined throughout, but the novel steadily exposes the cost of that discipline. His arc is toward a more vulnerable, emotionally burdened selfhood in which self-command is still central but no longer sufficient."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "moral reasoning",
+        "axis_name": "From procedural honor to compassionate moral judgment",
+        "pole_start": "Begins with a legalistic, orderly ethic centered on evidence, propriety, and honorable dealing.",
+        "pole_end": "Ends with a broader moral vision that includes forgiveness, pity, Christian resignation, and the protection of the vulnerable.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Order and evidence",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "He thinks in terms of sound investment, proof, reputation, and discreet management; morality is practical and procedural.",
+            "key_moments": [
+              "estate negotiation",
+              "investigation of Richard Hare",
+              "careful handling of witnesses and magistrates"
+            ]
+          },
+          {
+            "phase": "Duty as rescue",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "His moral code expands to include direct intervention on behalf of the suffering, especially Isabel; compassion becomes active duty.",
+            "key_moments": [
+              "Mount Severn's death",
+              "financial aid to Isabel",
+              "marriage proposal as rescue",
+              "defense of Barbara's dignity"
+            ]
+          },
+          {
+            "phase": "Justice without revenge",
+            "chapter_range": [
+              19,
+              40
+            ],
+            "position_description": "He insists on lawful justice, refuses personal vengeance, and accepts that truth must be pursued through proper channels.",
+            "key_moments": [
+              "refusal to prosecute Levison personally",
+              "use of Ball and magistrates",
+              "trial and exposure of Levison"
+            ]
+          },
+          {
+            "phase": "Forgiveness and providence",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "His moral reasoning culminates in pity, forgiveness, and religious resignation; he condemns wrongdoing while extending mercy to the fallen.",
+            "key_moments": [
+              "refusal to indulge sensational disclosure",
+              "William's death and prayerful resignation",
+              "forgiveness of Isabel at deathbed",
+              "careful moral instruction to Barbara"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle's morality evolves from procedural correctness into a more humane, spiritually inflected ethic. He never abandons order, but increasingly subordinates it to mercy, duty, and protection."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Archibald Carlyle",
+        "target_character": "Lady Isabel Carlyle / Lady Isabel Vane",
+        "dimension_label": "protection-intimacy",
+        "axis_name": "From fascinated admiration to protective, wounded, and forgiving love",
+        "pole_start": "Begins as admiration for Isabel's beauty, grace, and sadness, with a sense that she is worthy of protection but not yet fully known.",
+        "pole_end": "Ends in tragic intimacy: he loves, grieves, forgives, and preserves moral tenderness toward her even after betrayal, revelation, and death.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "First fascination",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "He is struck by Isabel's refinement and charity, admiring her from a distance with idealizing fascination and restrained interest.",
+            "key_moments": [
+              "first meeting and early exchanges",
+              "attention to her charitable impulse",
+              "respectful social regard"
+            ]
+          },
+          {
+            "phase": "Protective attachment",
+            "chapter_range": [
+              9,
+              12
+            ],
+            "position_description": "His feeling becomes intimate and urgent as he witnesses her grief and vulnerability, moving from admiration to rescue and proposal.",
+            "key_moments": [
+              "Mount Severn deathbed crisis",
+              "protecting her from humiliation",
+              "marriage proposal"
+            ]
+          },
+          {
+            "phase": "Domestic love under strain",
+            "chapter_range": [
+              13,
+              24
+            ],
+            "position_description": "As husband, he is affectionate and protective, but secrecy, jealousy, and misunderstanding create emotional distance and hidden suffering.",
+            "key_moments": [
+              "preparing East Lynne for her arrival",
+              "marital tenderness",
+              "jealousy crisis",
+              "Isabel's disappearance"
+            ]
+          },
+          {
+            "phase": "Revelation and forgiveness",
+            "chapter_range": [
+              46,
+              47
+            ],
+            "position_description": "He recognizes Madame Vine as Isabel, receives her confession, forgives her, and is left with love transformed by grief and moral memory.",
+            "key_moments": [
+              "recognition of Madame Vine",
+              "deathbed confession",
+              "forgiveness",
+              "final disclosure to Barbara"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Carlyle's central relational arc: admiration becomes protective love, then wounded estrangement, and finally pitying forgiveness. It is the novel's most emotionally and morally consequential relationship."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Archibald Carlyle",
+        "target_character": "Barbara Hare / Barbara Carlyle",
+        "dimension_label": "familiarity-boundary",
+        "axis_name": "From warm, ambiguous kindness to secure marital partnership",
+        "pole_start": "Begins as courteous, teasing, emotionally ambiguous warmth that invites attachment before his intentions are fully clear.",
+        "pole_end": "Ends as a devoted husband whose bond with Barbara is secure, mutually trusted, and publicly affirmed, despite the residue of past pain.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Friendly warmth",
+            "chapter_range": [
+              3,
+              8
+            ],
+            "position_description": "He is kind, playful, and attentive, but not yet fully aware of the emotional meaning of his behavior.",
+            "key_moments": [
+              "gift and cheek kiss",
+              "protective help in the Hare crisis",
+              "easy domestic visits"
+            ]
+          },
+          {
+            "phase": "Emotional complication",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "Barbara's confession and Isabel's jealousy force him to confront the ambiguity of his earlier warmth; he responds with tact, apology, and emotional re-centering.",
+            "key_moments": [
+              "Barbara's confession",
+              "his apology and distancing",
+              "Isabel's jealousy"
+            ]
+          },
+          {
+            "phase": "Chosen partnership",
+            "chapter_range": [
+              29,
+              31
+            ],
+            "position_description": "He turns decisively toward Barbara as his future wife, proposes, and consolidates the marriage with solemn trust and public commitment.",
+            "key_moments": [
+              "proposal",
+              "wedding",
+              "vow of fidelity"
+            ]
+          },
+          {
+            "phase": "Stable domestic intimacy",
+            "chapter_range": [
+              32,
+              47
+            ],
+            "position_description": "Their relationship becomes the secure center of his life: affectionate, companionate, and morally authoritative, even when tested by scandal, grief, and disclosure.",
+            "key_moments": [
+              "domestic scenes with children",
+              "Barbara's support during illness and politics",
+              "truth-telling after Isabel's death"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara moves from being the object of Carlyle's casual warmth to the chosen, stabilizing partner of his mature life. The arc is quieter than the Isabel arc, but essential to his final domestic identity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Archibald Carlyle",
+        "target_character": "Richard Hare",
+        "dimension_label": "suspicion-protection",
+        "axis_name": "From cautious doubt to protective vindication",
+        "pole_start": "Begins with Richard as a legal and moral problem, treated with caution and not yet trusted.",
+        "pole_end": "Ends with Carlyle firmly convinced of Richard's innocence and actively protecting him through secrecy, legal mediation, and practical support.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial suspicion",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "He listens carefully but does not yet believe Richard; he treats him as weak and possibly guilty while testing the story.",
+            "key_moments": [
+              "interview with Richard",
+              "questioning witnesses",
+              "testing the Thorn theory"
+            ]
+          },
+          {
+            "phase": "Cautious sympathy",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "He increasingly doubts the official story and begins to protect Richard indirectly while investigating the truth.",
+            "key_moments": [
+              "Barbara's clues",
+              "private investigation of Thorn/Levison",
+              "quiet corroboration efforts"
+            ]
+          },
+          {
+            "phase": "Active protection",
+            "chapter_range": [
+              24,
+              40
+            ],
+            "position_description": "He shelters Richard, arranges secrecy, and works through lawful channels to clear him, refusing rash or vengeful action.",
+            "key_moments": [
+              "Richard's secret arrival",
+              "household concealment",
+              "legal preparation with Ball",
+              "public exposure of Levison"
+            ]
+          },
+          {
+            "phase": "Vindication",
+            "chapter_range": [
+              39,
+              42
+            ],
+            "position_description": "Richard's innocence is publicly confirmed, and Carlyle's long support is rewarded by the legal outcome.",
+            "key_moments": [
+              "trial outcome",
+              "public exposure of Levison",
+              "Richard's restoration"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle's relation to Richard shifts from legal suspicion to active advocacy. He becomes one of the key agents of Richard's restoration, though always through restrained, lawful means."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Archibald Carlyle",
+        "target_character": "Francis Levison / Captain Thorn",
+        "dimension_label": "civility-hostility",
+        "axis_name": "From courteous tolerance to disciplined contempt",
+        "pole_start": "Begins with polite social accommodation and only mild unease toward a man whose danger he does not yet fully grasp.",
+        "pole_end": "Ends in firm moral condemnation and complete distrust, governed by restraint and legality rather than revenge.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Polite tolerance",
+            "chapter_range": [
+              7,
+              10
+            ],
+            "position_description": "He receives Levison civilly and does not yet fully grasp the danger he represents.",
+            "key_moments": [
+              "social reception at East Lynne",
+              "temporary trust in Levison"
+            ]
+          },
+          {
+            "phase": "Growing suspicion",
+            "chapter_range": [
+              19,
+              23
+            ],
+            "position_description": "He becomes increasingly wary as Thorn and Levison begin to look like the same dangerous man.",
+            "key_moments": [
+              "Barbara's identification of Thorn",
+              "investigative comparisons",
+              "private unease"
+            ]
+          },
+          {
+            "phase": "Moral certainty",
+            "chapter_range": [
+              28,
+              43
+            ],
+            "position_description": "He becomes convinced of Levison's guilt and treats him as contemptible, but refuses to act from revenge.",
+            "key_moments": [
+              "Afy's testimony",
+              "Ball's legal action",
+              "trial and arrest",
+              "public condemnation"
+            ]
+          }
+        ],
+        "evidence_summary": "Levison becomes the principal external antagonist in Carlyle's moral world. The relationship hardens from social civility into principled hostility, but Carlyle's restraint keeps that hostility ethically disciplined."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Archibald Carlyle",
+        "target_character": "Cornelia Carlyle",
+        "dimension_label": "deference-independence",
+        "axis_name": "From family deference to firm domestic self-assertion",
+        "pole_start": "Begins habitually deferential to Cornelia's practical authority and accustomed to her managing role.",
+        "pole_end": "Ends respectful but clearly independent, no longer willing to let her dominate his household or decisions.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Habitual deference",
+            "chapter_range": [
+              3,
+              16
+            ],
+            "position_description": "He treats Cornelia with affection and respect, but also lets her authority shape the household by force of habit.",
+            "key_moments": [
+              "teasing domestic exchanges",
+              "Cornelia's practical oversight",
+              "temporary tolerance of her presence"
+            ]
+          },
+          {
+            "phase": "Strategic concealment",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "He hides his marriage plans and manages her tactfully, signaling that he is no longer fully governed by her expectations.",
+            "key_moments": [
+              "concealing the Isabel marriage",
+              "handling objections",
+              "domestic reorganization"
+            ]
+          },
+          {
+            "phase": "Firm independence",
+            "chapter_range": [
+              29,
+              30
+            ],
+            "position_description": "He decisively informs her she must leave East Lynne, asserting his own authority over the household.",
+            "key_moments": [
+              "Barbara's proposal arc",
+              "Cornelia's removal from East Lynne"
+            ]
+          }
+        ],
+        "evidence_summary": "This quieter relational arc shows Carlyle moving from family habit and deference toward self-directed domestic authority, especially once Barbara becomes his wife."
+      }
+    ]
+  },
+  "Barbara Hare": {
+    "character": "Barbara Hare",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From fearful dependent helper to morally grounded relational agent",
+            "set_b_axis": "From reactive dependence to morally integrated relational agency",
+            "overlap_description": "Both describe Barbara's movement from emotionally dependent, family-bound responsiveness toward a more self-directed but still relational form of agency."
+          },
+          {
+            "set_a_axis": "From anxious suspicion to disciplined moral certainty",
+            "set_b_axis": "From romantic projection to chastened, reality-tested love",
+            "overlap_description": "Both track Barbara's growing ability to distinguish appearance from reality, especially in relation to Carlyle, Isabel, and Levison, and to replace volatile feeling with more disciplined judgment."
+          },
+          {
+            "set_a_axis": "From private longing and rivalry to chastened marital fidelity",
+            "set_b_axis": "From romantic projection to chastened, reality-tested love",
+            "overlap_description": "Both capture the romantic arc: Barbara begins in idealization, longing, and jealousy, and ends in a more sober, morally regulated commitment to Carlyle."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From anxious suspicion to disciplined moral certainty",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From panic and superstition to steadier crisis management",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unreflective goodness to chastened moral self-awareness",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From trusted ally to beloved husband and moral anchor",
+            "set_b_axis": "From hopeful admiration to settled marital devotion",
+            "overlap_description": "Both describe the same Carlyle relationship arc: practical trust and romantic hope become wounded by Isabel, then stabilize into marriage and durable devotion."
+          },
+          {
+            "set_a_axis": "From frightened sibling loyalty to steadfast advocacy",
+            "set_b_axis": "From affectionate concern to active advocacy",
+            "overlap_description": "Both describe Barbara's relationship to Richard as a protective sisterly bond that becomes increasingly active, confident, and public in defending his innocence."
+          },
+          {
+            "set_a_axis": "From distant curiosity to moral rivalry shadowed by pity",
+            "set_b_axis": "From admiration and sympathy to wounded rivalry and moral reconciliation",
+            "overlap_description": "Both capture Barbara's shifting relation to Isabel: initial fascination and sympathy, then jealousy and rivalry, followed by a chastened but unresolved moral accommodation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From vague unease to settled moral condemnation",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From dutiful deference to guarded evasiveness",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency communion",
+        "axis_name": "From reactive dependence to morally integrated relational agency",
+        "pole_start": "Barbara begins strongly communion-oriented: emotionally fused with family, fearful, and reliant on others' judgment and protection. Her action is initially reactive, secretive, and caretaking rather than self-directed.",
+        "pole_end": "Barbara ends with a more self-authorizing agency that remains relational: she can interpret evidence, act strategically, bear moral responsibility, and sustain others within marriage and family life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Fearful caretaking and dependence",
+            "chapter_range": [
+              3,
+              6
+            ],
+            "position_description": "Barbara is emotionally porous and protective, moving toward danger out of loyalty rather than confidence. She hides Richard, seeks Carlyle's help, and acts from communion-bound fear.",
+            "key_moments": [
+              "She approaches the mysterious figure despite terror",
+              "She recognizes Richard and responds with pity and urgency",
+              "She keeps secrets to protect family members",
+              "She relies on Carlyle as the practical adult who can help"
+            ]
+          },
+          {
+            "phase": "Observant but still reactive",
+            "chapter_range": [
+              7,
+              19
+            ],
+            "position_description": "Barbara becomes more socially alert and self-conscious, but she is still largely carried by events. Isabel, Carlyle, and the Thorn mystery provoke feeling before action, though she begins to notice, compare, and suspect.",
+            "key_moments": [
+              "She becomes preoccupied with Carlyle and Isabel",
+              "She experiences jealousy and humiliation at the marriage revelation",
+              "She begins to identify Thorn as a possible murderer"
+            ]
+          },
+          {
+            "phase": "Strategic protector and interpreter",
+            "chapter_range": [
+              19,
+              31
+            ],
+            "position_description": "Barbara's agency becomes visible as she identifies threats, consults Carlyle, coordinates secrecy, and helps manage Richard's return. Her action is now purposeful and judgment-based, not merely emotional.",
+            "key_moments": [
+              "She reports Thorn to Carlyle",
+              "She presses for clarification and verification",
+              "She helps arrange Richard's movements and return",
+              "She accepts Carlyle's proposal and chooses marriage"
+            ]
+          },
+          {
+            "phase": "Integrated domestic authority",
+            "chapter_range": [
+              32,
+              47
+            ],
+            "position_description": "Barbara ends as wife, mother, and moral center of the household. She acts with steadier judgment, offers care, and revises her feelings responsibly, integrating agency with communion rather than opposing them.",
+            "key_moments": [
+              "She assumes moral guardianship of the children",
+              "She comforts family members in crisis",
+              "She offers practical kindness to others",
+              "She confesses jealousy and works to overcome it"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's arc is not a move from dependence to isolation, but from frightened, relationally bound responsiveness toward a more deliberate and morally self-authorizing form of care. Both analyses agree that her agency strengthens within attachment rather than replacing it."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "trust certainty",
+        "axis_name": "From romantic projection and suspicion to disciplined reality-tested judgment",
+        "pole_start": "Barbara begins in unstable interpretation: she projects romantic meaning onto Carlyle's gestures and is vulnerable to dread, rumor, and partial knowledge about Richard, Isabel, and Thorn.",
+        "pole_end": "Barbara ends with firmer but chastened certainty: she trusts her judgments more, recognizes when to verify and when to repent of misreading, and grounds love and suspicion in reality rather than fantasy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hope and foreboding",
+            "chapter_range": [
+              3,
+              7
+            ],
+            "position_description": "Barbara oscillates between romantic hope and ominous fear. She reads Carlyle's attention as significant, yet she also senses danger without being able to interpret it clearly.",
+            "key_moments": [
+              "Carlyle's gift and kiss intensify her hope",
+              "She treats the mysterious figure as an ominous sign",
+              "She becomes preoccupied with Carlyle's connection to East Lynne"
+            ]
+          },
+          {
+            "phase": "Suspicion becomes actionable",
+            "chapter_range": [
+              19,
+              24
+            ],
+            "position_description": "Her suspicions about Thorn harden into practical conviction. She begins to test intuition through action, consultation, and coordinated effort rather than through fear alone.",
+            "key_moments": [
+              "She identifies Thorn as likely murderer",
+              "She sees dream and reality converge",
+              "She asks Carlyle what should be done",
+              "She acts immediately on Richard's sighting"
+            ]
+          },
+          {
+            "phase": "Vindication and clarification",
+            "chapter_range": [
+              26,
+              42
+            ],
+            "position_description": "Barbara learns that some of her earlier interpretations were incomplete or mistaken, especially regarding Carlyle's absence and Levison's guilt. Her certainty becomes more disciplined and ethically informed.",
+            "key_moments": [
+              "She realizes she misjudged Carlyle's absence",
+              "Carlyle confirms her Levison-Thorn suspicion",
+              "She tells Richard the identification is settled",
+              "She witnesses Levison's arrest and Richard's exoneration"
+            ]
+          },
+          {
+            "phase": "Settled but still self-correcting trust",
+            "chapter_range": [
+              44,
+              47
+            ],
+            "position_description": "By the end, Barbara's trust is less anxious and more settled, though not naive. She can still be shaken, but she responds through confession, reassurance-seeking, and self-correction rather than destabilized doubt.",
+            "key_moments": [
+              "She treats Madame Vine with practical respect",
+              "She is shaken by the final revelation about Isabel",
+              "She confesses jealousy and accepts reassurance"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara repeatedly moves from fear-driven uncertainty and romantic projection toward firmer judgment. The key pattern is maturation of trust: she learns when to suspect, when to verify, when to repent of misjudgment, and when to stand by what she knows."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "jealousy fidelity",
+        "axis_name": "From romantic longing and rivalry to chastened marital fidelity",
+        "pole_start": "Barbara begins with hidden romantic longing, idealization, and susceptibility to jealousy, especially around Carlyle and Isabel.",
+        "pole_end": "Barbara ends with a chastened but durable fidelity: she acknowledges jealousy, repents of possessiveness, and consciously commits to selfless marital and stepmaternal love.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealizing longing",
+            "chapter_range": [
+              3,
+              5
+            ],
+            "position_description": "Barbara interprets Carlyle's gestures as signs of love and emotionally invests in the possibility of being chosen. Her desire is intense, private, and vulnerable to fantasy.",
+            "key_moments": [
+              "Carlyle's gift and kiss intensify her hope",
+              "She wants his love openly declared",
+              "Her emotional judgments are hope-driven"
+            ]
+          },
+          {
+            "phase": "Painful rivalry and humiliation",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "Seeing Carlyle as Isabel's husband shatters the earlier fantasy. Barbara's love remains, but it is now wounded by reality and marked by jealousy, shame, and emotional exposure.",
+            "key_moments": [
+              "She sees Carlyle publicly devoted to Isabel",
+              "She collapses at the piano scene",
+              "She confesses love and feels permanently wounded"
+            ]
+          },
+          {
+            "phase": "Reversal through revelation and marriage",
+            "chapter_range": [
+              26,
+              31
+            ],
+            "position_description": "Barbara learns that her earlier assumptions were incomplete, and her emotional life is redirected into legitimate mutual love and marriage. Her longing is no longer fantasy but chosen commitment.",
+            "key_moments": [
+              "She realizes she misread Carlyle's absence",
+              "She accepts Carlyle's proposal",
+              "Marriage solemnizes fidelity"
+            ]
+          },
+          {
+            "phase": "Residual jealousy disciplined into charity",
+            "chapter_range": [
+              32,
+              47
+            ],
+            "position_description": "Jealousy does not disappear, but it is increasingly recognized as something to govern rather than obey. Barbara's later responses to Isabel, the children, and Madame Vine show a struggle to convert possessiveness into moral steadiness.",
+            "key_moments": [
+              "She condemns Isabel as a moral danger",
+              "She fears Isabel's hidden claim on Carlyle",
+              "She admits jealousy toward the children",
+              "She resolves to overcome possessiveness through prayer and self-discipline"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's emotional arc moves from romantic longing and rivalry into a more disciplined, self-aware fidelity. The novel does not erase jealousy, but it transforms it into a moral problem she consciously works on within marriage."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "fear control",
+        "axis_name": "From panic and dread to steadier crisis management",
+        "pole_start": "Barbara starts as highly susceptible to dread, ominous impressions, and emotional panic when danger or mystery appears.",
+        "pole_end": "Barbara ends with much greater composure under pressure: still anxious, but able to manage secrecy, interpret evidence, and act without collapsing into fear.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Ominous sensitivity",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "Barbara is frightened by the mysterious figure outside and by moonlit appearances, showing a mind quick to dread and superstition.",
+            "key_moments": [
+              "She moves from romantic elation to fear at the sight outside",
+              "She experiences the moonlit figure as supernatural-like danger"
+            ]
+          },
+          {
+            "phase": "Anxious but functional",
+            "chapter_range": [
+              5,
+              24
+            ],
+            "position_description": "Fear remains constant, but Barbara increasingly channels it into practical concealment, coordination, and vigilance. She is still alarmed, yet she can think and act under pressure.",
+            "key_moments": [
+              "She hides Richard and manages her father",
+              "She coordinates with Carlyle",
+              "She pursues Thorn identification despite uncertainty"
+            ]
+          },
+          {
+            "phase": "Controlled urgency",
+            "chapter_range": [
+              30,
+              47
+            ],
+            "position_description": "Barbara's fear does not vanish, but it is subordinated to duty, love, and moral purpose. Even revelations that might destabilize her are met with composure, repentance, and renewed steadiness.",
+            "key_moments": [
+              "She helps Richard and accepts Carlyle",
+              "She endures the Isabel revelation and recovers",
+              "She resolves jealousy through prayer and self-discipline"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara is never fearless, but her relationship to fear changes markedly. Early on she is alarm-prone and impressionable; later she becomes a capable crisis-manager whose anxiety is real but organized."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "moral self-knowledge",
+        "axis_name": "From unreflective goodness to chastened moral self-awareness",
+        "pole_start": "Barbara begins sincere and affectionate, but with limited self-reflection about how her feelings, projections, and loyalties shape her judgments.",
+        "pole_end": "Barbara ends with clearer moral self-awareness: she recognizes jealousy, possessiveness, and the need for self-control, and she consciously chooses prayerful discipline.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Partial awareness",
+            "chapter_range": [
+              3,
+              19
+            ],
+            "position_description": "Barbara notices some of her own agitation and dissimulation, but she does not yet deeply analyze her motives. She acts from instinctive loyalty and feeling.",
+            "key_moments": [
+              "She hides Richard from her father",
+              "She recognizes her own pallor and agitation",
+              "She does not yet understand the depth of her romantic attachment"
+            ]
+          },
+          {
+            "phase": "Emerging self-recognition",
+            "chapter_range": [
+              30,
+              31
+            ],
+            "position_description": "Barbara begins to name her own beliefs and feelings more clearly, especially her suspicion of Levison and her love for Carlyle. Marriage gives her a framework for self-understanding.",
+            "key_moments": [
+              "She tells Joyce she suspects Levison",
+              "She inwardly accepts Carlyle's love",
+              "She takes vows with solemn seriousness"
+            ]
+          },
+          {
+            "phase": "Chastened introspection",
+            "chapter_range": [
+              47,
+              47
+            ],
+            "position_description": "The revelation about Isabel forces Barbara to see her jealousy and possessiveness toward Carlyle's children. She explicitly recognizes this as wrong and resolves to overcome it.",
+            "key_moments": [
+              "She fears Carlyle's love may be lessened",
+              "She repents of jealousy toward the children",
+              "She commits herself to prayer and self-discipline"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's self-knowledge deepens at key moments of crisis and moral testing. The strongest evidence comes late, when she can finally identify jealousy as a flaw rather than merely feel it."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Barbara Hare",
+        "target_character": "Archibald Carlyle",
+        "dimension_label": "romantic trust",
+        "axis_name": "From hopeful admiration to settled marital devotion",
+        "pole_start": "Barbara begins with intense romantic hope, idealization, and trust in Carlyle as a morally superior figure whose gestures seem to promise love.",
+        "pole_end": "Barbara ends as his wife, with deep trust, affection, and committed devotion grounded in marriage rather than fantasy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealizing attraction",
+            "chapter_range": [
+              3,
+              5
+            ],
+            "position_description": "Barbara reads Carlyle's attention as romantic significance and relies on him as the one trustworthy man in her crisis.",
+            "key_moments": [
+              "Gift and kiss intensify her hope",
+              "She seeks his help for Richard",
+              "She treats him as the central ally in danger"
+            ]
+          },
+          {
+            "phase": "Wounded attachment",
+            "chapter_range": [
+              16,
+              17
+            ],
+            "position_description": "His public marriage to Isabel wounds her deeply, turning admiration into jealousy and humiliation while preserving emotional attachment.",
+            "key_moments": [
+              "She sees him with Isabel as husband",
+              "She confesses her love in hysteria",
+              "She feels shame at her own exposure"
+            ]
+          },
+          {
+            "phase": "Reconciled devotion",
+            "chapter_range": [
+              30,
+              47
+            ],
+            "position_description": "Barbara's attachment becomes stable and reciprocal. She accepts his proposal, marries him, and later reaffirms trust after the Isabel revelation.",
+            "key_moments": [
+              "She inwardly accepts Carlyle's proposal",
+              "Marriage confirms their bond",
+              "She recovers from jealousy after learning Madame Vine's identity"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Barbara's central relational arc. It moves from romantic idealization through painful disillusionment to a mature, committed marriage grounded in trust and moral seriousness."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Barbara Hare",
+        "target_character": "Richard Hare",
+        "dimension_label": "protective loyalty",
+        "axis_name": "From affectionate concern to active advocacy",
+        "pole_start": "Barbara begins with family affection and pity for Richard, but with limited certainty about his innocence and limited ability to help him.",
+        "pole_end": "Barbara ends as a firm advocate for Richard, convinced of his innocence and actively helping to clear him and protect him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Concern and uncertainty",
+            "chapter_range": [
+              4,
+              6
+            ],
+            "position_description": "Barbara is shocked by Richard's degraded condition and wants to help, but her trust in his innocence is still developing.",
+            "key_moments": [
+              "She discovers Richard in disguise",
+              "She arranges secrecy and money",
+              "She begins to believe his innocence"
+            ]
+          },
+          {
+            "phase": "Suspicion becomes conviction",
+            "chapter_range": [
+              19,
+              24
+            ],
+            "position_description": "Thorn's appearance and Richard's testimony harden her belief that Richard is innocent and wronged.",
+            "key_moments": [
+              "She identifies Captain Thorn as likely murderer",
+              "She waits anxiously for Richard's return",
+              "She coordinates with Carlyle to pursue the truth"
+            ]
+          },
+          {
+            "phase": "Active vindication",
+            "chapter_range": [
+              30,
+              43
+            ],
+            "position_description": "Barbara now acts on behalf of Richard's restoration: she helps with his movements, supports the investigation, and remains emotionally invested in his safety and honor.",
+            "key_moments": [
+              "She tells Joyce she suspects Levison",
+              "She helps summon Richard",
+              "She comforts her mother after the public crisis"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's bond with Richard is consistently protective, but it becomes more confident and active over time. She moves from worried sisterly concern to a sustained role as his advocate and emotional protector."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Barbara Hare",
+        "target_character": "Lady Isabel Carlyle / Madame Vine",
+        "dimension_label": "sympathy jealousy",
+        "axis_name": "From admiration and sympathy to wounded rivalry and moral reconciliation",
+        "pole_start": "Barbara initially admires Isabel's beauty and sweetness and sees her as a socially refined figure worthy of respect and sympathy.",
+        "pole_end": "Barbara ends with a conflicted but chastened stance: jealousy and hurt are real, but she accepts Isabel's place in the past and works to master possessiveness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Admiration and curiosity",
+            "chapter_range": [
+              7,
+              9
+            ],
+            "position_description": "Barbara is fascinated by Isabel's elegance and watches her with curiosity and sympathy.",
+            "key_moments": [
+              "She is struck by Isabel's appearance at church",
+              "She watches Isabel closely at the concert"
+            ]
+          },
+          {
+            "phase": "Jealous shock",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "Seeing Isabel as Carlyle's wife turns admiration into pain and rivalry; Barbara becomes emotionally wounded and socially exposed.",
+            "key_moments": [
+              "She sees Isabel publicly installed as Carlyle's wife",
+              "She confesses her love and feels shame",
+              "Isabel's presence casts Barbara as a rival"
+            ]
+          },
+          {
+            "phase": "Moral accommodation",
+            "chapter_range": [
+              32,
+              47
+            ],
+            "position_description": "Barbara judges Isabel harshly as the abandoned wife and mother, but the final revelation reactivates pity and jealousy together. She repents of possessiveness and accepts the past with prayerful self-control.",
+            "key_moments": [
+              "She condemns Isabel's abandonment",
+              "She fears Isabel's hidden claim on Carlyle",
+              "She admits jealousy toward the children",
+              "She resolves to love without possessiveness"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's relation to Isabel is one of the novel's most psychologically revealing tensions. It begins in admiration, becomes jealousy when Isabel is revealed as Carlyle's wife, and ends in a chastened accommodation that does not erase hurt but does discipline it."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Barbara Hare",
+        "target_character": "Sir Francis Levison",
+        "dimension_label": "suspicion hostility",
+        "axis_name": "From vague unease to settled moral condemnation",
+        "pole_start": "Barbara begins with uncertainty and partial suspicion, sensing that Levison may be connected to Thorn but lacking proof.",
+        "pole_end": "Barbara ends in near-certainty and moral condemnation, treating Levison as the source of Richard's suffering and the family's wider ruin.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Suspicion forms",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Barbara first identifies Thorn-like traits in Captain Thorn and later in Levison, but the connection is still intuitive and unstable.",
+            "key_moments": [
+              "She sees Thorn in the street",
+              "She feels dream and reality converge",
+              "She tells Carlyle Thorn is likely the murderer"
+            ]
+          },
+          {
+            "phase": "Theory hardens",
+            "chapter_range": [
+              30,
+              37
+            ],
+            "position_description": "Barbara's suspicion becomes a coherent theory. She confides it to Joyce, then receives Carlyle's corroboration and repeats it to Richard as settled truth.",
+            "key_moments": [
+              "She tells Joyce Levison may be Thorn",
+              "She recognizes Levison by mannerism and ring",
+              "Carlyle confirms the identification",
+              "She tells Richard Levison and Thorn are the same man"
+            ]
+          },
+          {
+            "phase": "Public vindication and hardened antagonism",
+            "chapter_range": [
+              38,
+              41
+            ],
+            "position_description": "The hearings and arrest publicly validate Barbara's suspicion. Levison becomes, in her moral imagination, the true villain behind multiple family disasters.",
+            "key_moments": [
+              "She hears the case turning against Levison",
+              "She witnesses his arrest",
+              "She sees the case decisively shift",
+              "She hears Lady Levison's account of his damage"
+            ]
+          }
+        ],
+        "evidence_summary": "Barbara's relation to Levison is one of the novel's clearest suspicion arcs. It moves from intuition to conviction to public confirmation, and it strongly shapes her sense of justice, danger, and family injury."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Barbara Hare",
+        "target_character": "Justice Hare",
+        "dimension_label": "obedience fear",
+        "axis_name": "From dutiful deference to guarded evasiveness",
+        "pole_start": "Barbara begins as a daughter who accepts paternal authority, even when she finds it harsh or intimidating.",
+        "pole_end": "Barbara ends as someone who remains outwardly dutiful but is psychologically guarded, evasive, and wary of his judgment and temper.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Initial deference",
+            "chapter_range": [
+              3,
+              5
+            ],
+            "position_description": "Barbara is irritated by him at times, but still operates within his household authority.",
+            "key_moments": [
+              "She is sensitive to his criticism",
+              "She hides Richard's presence from him"
+            ]
+          },
+          {
+            "phase": "Heightened caution",
+            "chapter_range": [
+              19,
+              24
+            ],
+            "position_description": "His presence becomes associated with danger, exposure, and punishment, so Barbara becomes more evasive and careful.",
+            "key_moments": [
+              "She fears his discovery of Richard",
+              "She manages appearances and secrecy"
+            ]
+          },
+          {
+            "phase": "Stable guardedness",
+            "chapter_range": [
+              27,
+              39
+            ],
+            "position_description": "Barbara remains respectful but emotionally constrained, especially when family pressure or public scandal makes his authority feel threatening.",
+            "key_moments": [
+              "She is distressed by his pressure over marriage",
+              "She continues to conceal sensitive matters"
+            ]
+          }
+        ],
+        "evidence_summary": "This is a smaller arc than Barbara's romantic or familial ones, but it is consistent: paternal authority remains real, yet Barbara increasingly experiences it as something to evade rather than trust."
+      }
+    ]
+  },
+  "Francis Levison": {
+    "character": "Francis Levison",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From seductive self-assertion to defensive, isolated self-preservation",
+            "set_b_axis": "From socially seductive self-assertion to cornered self-preservation",
+            "overlap_description": "Both describe the same core movement: Levison remains agency-driven throughout, but his agency shifts from confident, manipulative dominance into narrowed, defensive survival under pressure."
+          },
+          {
+            "set_a_axis": "From untroubled cynicism to cornered recognition of disgrace",
+            "set_b_axis": "From unreflective opportunism to exposed but unrepentant self-protection",
+            "overlap_description": "Both track his moral stance as non-redeemed: he begins with low ethical self-awareness and ends with awareness of consequences, shame, and punishment without genuine repentance."
+          },
+          {
+            "set_a_axis": "From untouchable charm to shattered social identity",
+            "set_b_axis": "From polished composure to cornered panic",
+            "overlap_description": "Both capture the collapse of his social poise and self-image under exposure, arrest, and disgrace, though A emphasizes identity collapse while B emphasizes emotional breakdown."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From fearless seducer to frightened fugitive",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From socially seductive self-assertion to cornered self-preservation",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unreflective opportunism to exposed but unrepentant self-protection",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From polished composure to cornered panic",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From seductive fascination to corrosive betrayal",
+            "set_b_axis": "From flirtatious fascination to discarded liability",
+            "overlap_description": "Both describe the Isabel relationship as beginning in seductive attraction and ending in abandonment, betrayal, and emotional damage."
+          },
+          {
+            "set_a_axis": "From useful ally to principled enemy",
+            "set_b_axis": "From polite rival to moral adversary",
+            "overlap_description": "Both show Carlyle moving from a useful or cordial contact into a moral and practical opponent who helps expose Levison."
+          },
+          {
+            "set_a_axis": "From admired gentleman to hated public object",
+            "set_b_axis": "From socially usable outsider to publicly rejected criminal",
+            "overlap_description": "Both track Levison's relation to the wider community as a fall from tolerated or admired outsider into public contempt, punishment, and criminalization."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From brittle alliance to mutual exposure",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From socially usable outsider to publicly rejected criminal",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From seductive self-assertion to cornered self-preservation",
+        "pole_start": "High agency with low communion: Levison begins as a socially dominant, predatory charm-user who seeks mastery through attraction, manipulation, and emotional leverage.",
+        "pole_end": "Still strongly agency-driven, but narrowed into defensive self-preservation: he ends as a disgraced, cornered man focused on concealment, survival, and damage control rather than open dominance or genuine relation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Seductive mastery",
+            "chapter_range": [
+              2,
+              12
+            ],
+            "position_description": "He performs charm with confidence, courting Isabel and treating intimacy as a field for control rather than mutuality.",
+            "key_moments": [
+              "Introduced as handsome, admired, and predatory toward Isabel",
+              "Uses the broken cross accident to intensify tenderness and influence",
+              "Maintains languishing courtship while avoiding commitment"
+            ]
+          },
+          {
+            "phase": "Instrumental maneuvering",
+            "chapter_range": [
+              20,
+              25
+            ],
+            "position_description": "His agency becomes tactical and opportunistic: he seeks access, leverage, and renewed influence through Carlyle, confession, jealousy, and ambiguity.",
+            "key_moments": [
+              "Re-encounters Isabel at Boulogne and is energized by renewed hold over her",
+              "Seeks Carlyle's help to return to England",
+              "Confesses love as thwarted destiny, then shifts into conciliatory pose",
+              "Uses insinuation about Carlyle and Barbara to stir jealousy"
+            ]
+          },
+          {
+            "phase": "Collapse into defensive survival",
+            "chapter_range": [
+              34,
+              45
+            ],
+            "position_description": "His agency becomes reactive and cornered as public hostility, recognition, arrest, and sentencing force him into fear, concealment, and self-protective endurance.",
+            "key_moments": [
+              "Operates covertly in politics and tries to preserve his cover",
+              "Bethel recognizes him and public hostility intensifies",
+              "He is arrested, tried, sentenced, and commuted to transportation",
+              "Transportation is experienced as prolonged disgrace rather than relief"
+            ]
+          }
+        ],
+        "evidence_summary": "Levison never becomes communal; the arc is a decline in the quality of his agency, from seductive mastery to tactical manipulation to frightened self-preservation under legal and social pressure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Accountability",
+        "axis_name": "From unreflective opportunism to exposed but unrepentant disgrace",
+        "pole_start": "He begins with very low moral self-awareness, treating deception, flirtation, and abandonment as normal tools and obligation as optional.",
+        "pole_end": "He ends aware of ruin, shame, and punishment, but without genuine repentance; his self-knowledge is fear-based rather than ethical.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Cynical instrumentalism",
+            "chapter_range": [
+              2,
+              24
+            ],
+            "position_description": "He repeatedly converts accidents, flirtation, and confession into opportunities for influence, rationalizing noncommitment and subordinating truth to advantage.",
+            "key_moments": [
+              "Converts the broken cross accident into emotional leverage",
+              "Uses evasive language about marriage and commitment",
+              "Confesses love as self-justifying lost destiny rather than culpability",
+              "Stokes Isabel's jealousy without remorse"
+            ]
+          },
+          {
+            "phase": "Exposure without repentance",
+            "chapter_range": [
+              25,
+              42
+            ],
+            "position_description": "As lies unravel, he becomes more aware of consequences, but this awareness is tactical: he tries to evade responsibility, minimize blame, and preserve himself.",
+            "key_moments": [
+              "Evades Isabel's demands and withdraws when pressed",
+              "Seeks to reduce culpability as his identity is exposed",
+              "Arrest, trial, and condemnation force recognition of consequences"
+            ]
+          },
+          {
+            "phase": "Punishment as humiliation",
+            "chapter_range": [
+              45,
+              45
+            ],
+            "position_description": "He experiences punishment as disgrace and bodily degradation rather than moral reckoning; shame is present, but not reform.",
+            "key_moments": [
+              "Commuted sentence is felt as a fate worse than death",
+              "Transportation becomes the final emblem of public disgrace"
+            ]
+          }
+        ],
+        "evidence_summary": "The novel moves Levison from carefree opportunism to forced awareness of consequences, but never into conscience or repentance."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Composure-Panic",
+        "axis_name": "From polished composure to cornered panic and humiliation",
+        "pole_start": "He begins outwardly composed, polished, and socially fluent, with a cool confidence that he can manage people and situations.",
+        "pole_end": "He ends in fear, humiliation, and defensive collapse as public exposure, arrest, and sentencing break his composure.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Composed seducer",
+            "chapter_range": [
+              2,
+              24
+            ],
+            "position_description": "He appears self-possessed and amused, even when manipulating others; confidence functions as part of his social weaponry.",
+            "key_moments": [
+              "Polished and predatory charm in early courtship",
+              "Cool, amused meddling during the Boulogne and jealousy episodes"
+            ]
+          },
+          {
+            "phase": "Cracks in the mask",
+            "chapter_range": [
+              25,
+              38
+            ],
+            "position_description": "Public hostility, recognition, and political failure erode his composure; he becomes evasive, irritated, and visibly uncomfortable.",
+            "key_moments": [
+              "Abandons Isabel and retreats from the relationship",
+              "Public humiliation in West Lynne",
+              "Recognition by Bethel and slinking away"
+            ]
+          },
+          {
+            "phase": "Open panic",
+            "chapter_range": [
+              39,
+              45
+            ],
+            "position_description": "Fear becomes immediate and embodied: arrest, trial, conviction, and transportation leave him shaken and despairing.",
+            "key_moments": [
+              "Arrested for murder",
+              "Justice-room and trial intensify panic",
+              "Commuted sentence is experienced as worse than death"
+            ]
+          }
+        ],
+        "evidence_summary": "Levison’s emotional arc is the collapse of cultivated poise into fear and humiliation; the novel steadily strips away his social confidence until only panic remains."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Francis Levison",
+        "target_character": "Lady Isabel Vane / Lady Isabel Carlyle",
+        "dimension_label": "Seduction-Betrayal",
+        "axis_name": "From flirtatious fascination to discarded liability and betrayal",
+        "pole_start": "He begins as a captivating suitor who attracts Isabel's admiration and emotional openness, keeping intimacy shallow but charged with desire and hope.",
+        "pole_end": "He ends as a figure of betrayal and abandonment, someone whose presence leaves shame, pain, and lasting emotional contamination.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Seductive courtship",
+            "chapter_range": [
+              2,
+              12
+            ],
+            "position_description": "He cultivates Isabel's attention through charm, tenderness, and ambiguity, deepening fascination while withholding genuine commitment.",
+            "key_moments": [
+              "Introduced as predatory toward Isabel",
+              "Uses the broken cross accident to intensify tenderness",
+              "Maintains languishing courtship while evading marriage"
+            ]
+          },
+          {
+            "phase": "Jealousy manipulation",
+            "chapter_range": [
+              20,
+              24
+            ],
+            "position_description": "At Boulogne and afterward, he revives the bond, confesses love, then uses jealousy and insinuation to gain leverage over her.",
+            "key_moments": [
+              "Surprise reunion at Boulogne pier",
+              "Confesses long-suppressed love",
+              "Recasts himself as harmless after rejection",
+              "Feeds her jealousy about Carlyle and Barbara"
+            ]
+          },
+          {
+            "phase": "Abandonment and rupture",
+            "chapter_range": [
+              25,
+              26
+            ],
+            "position_description": "When confronted, he withdraws, refuses to stay, and effectively discards Isabel once she becomes costly or inconvenient.",
+            "key_moments": [
+              "Evades responsibility and exits the relationship",
+              "Is revealed to have married Alice Challoner",
+              "Trust collapses into open hostility and shame"
+            ]
+          },
+          {
+            "phase": "Aftermath of disgrace",
+            "chapter_range": [
+              32,
+              45
+            ],
+            "position_description": "He remains a source of terror and moral pressure in her memory, but no longer a viable intimate relation; his name functions as a wound and reminder of ruin.",
+            "key_moments": [
+              "His elopement remains a defining wound",
+              "His reappearance intensifies her terror and remorse",
+              "Public arrest and conviction deepen the shame attached to him"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Levison's central relationship arc: seduction becomes manipulation, then abandonment, and finally enduring emotional damage and shame."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Francis Levison",
+        "target_character": "Archibald Carlyle",
+        "dimension_label": "Rivalry-Antagonism",
+        "axis_name": "From useful ally to principled adversary",
+        "pole_start": "He initially treats Carlyle as a useful patron and intermediary, someone whose goodwill can be exploited for access and survival.",
+        "pole_end": "He ends as Carlyle's public and moral antagonist, a man Carlyle helps expose and bring toward justice.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Pragmatic dependence",
+            "chapter_range": [
+              12,
+              21
+            ],
+            "position_description": "Levison uses Carlyle's goodwill to regain access and practical support, establishing a relationship of utility rather than friendship.",
+            "key_moments": [
+              "Carlyle offers assistance with his return to England",
+              "Levison confides in Carlyle about his troubles"
+            ]
+          },
+          {
+            "phase": "Indirect rivalry",
+            "chapter_range": [
+              22,
+              35
+            ],
+            "position_description": "Carlyle becomes a target for jealousy manipulation and a figure whose moral standing threatens Levison's schemes.",
+            "key_moments": [
+              "Insinuates Carlyle's impropriety with Barbara",
+              "Shadows Carlyle and reports exaggerated sightings",
+              "West Lynne election rivalry and public scorn"
+            ]
+          },
+          {
+            "phase": "Open opposition",
+            "chapter_range": [
+              36,
+              42
+            ],
+            "position_description": "Carlyle is now the central moral counterforce: Levison fears his scrutiny, contempt, and legal-social influence.",
+            "key_moments": [
+              "Recognition and exposure intensify",
+              "Carlyle supports legal action without personal revenge",
+              "Trial and condemnation"
+            ]
+          }
+        ],
+        "evidence_summary": "Carlyle moves from practical helper to moral and institutional adversary; Levison repeatedly tries to use him, but Carlyle ultimately helps bring him down."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Francis Levison",
+        "target_character": "West Lynne townspeople",
+        "dimension_label": "Esteem-Hostility",
+        "axis_name": "From admired outsider to rejected criminal",
+        "pole_start": "He begins as a socially mobile outsider who can still move within elite circles and exploit hospitality, patronage, and ambiguity.",
+        "pole_end": "He ends as a publicly condemned criminal, mocked, arrested, and treated as an object of communal judgment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Social access",
+            "chapter_range": [
+              2,
+              24
+            ],
+            "position_description": "He can still enter households, gather information, and use social ease to remain relevant and admired.",
+            "key_moments": [
+              "Introduced as handsome and socially admired",
+              "Returns under patronage and moves through elite spaces",
+              "Meddles while remaining socially usable"
+            ]
+          },
+          {
+            "phase": "Public humiliation",
+            "chapter_range": [
+              35,
+              38
+            ],
+            "position_description": "The community turns hostile: he is mocked, ducked, and forced into retreat as recognition spreads.",
+            "key_moments": [
+              "Pond humiliation",
+              "Public recognition and social scorn",
+              "Town hostility hardens"
+            ]
+          },
+          {
+            "phase": "Legal condemnation",
+            "chapter_range": [
+              39,
+              45
+            ],
+            "position_description": "He is arrested, tried, condemned, and sentenced to transportation, becoming a figure of communal punishment rather than inclusion.",
+            "key_moments": [
+              "Arrest for Hallijohn's murder",
+              "Trial and death sentence",
+              "Transportation"
+            ]
+          }
+        ],
+        "evidence_summary": "Levison's relation to the wider community moves from tolerated or admired outsider to expelled criminal; the town's collective judgment externalizes his collapse."
+      }
+    ]
+  },
+  "William, Earl of Mount Severn": {
+    "character": "William, Earl of Mount Severn",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From defensive self-protection to duty-bound relational stewardship",
+            "set_b_axis": "From self-protective aristocratic control to duty-bound paternal communion",
+            "overlap_description": "Both track William's movement from guarded, status-preserving self-protection toward a more relational, duty-oriented stance centered on family responsibility and care."
+          },
+          {
+            "set_a_axis": "From cynical suspicion to chastened moral responsibility",
+            "set_b_axis": "From suspicious censure to chastened pity",
+            "overlap_description": "Both describe a softening of William's harsh judgment into a more measured, fact-aware, and compassionate moral outlook, without losing his seriousness about wrongdoing."
+          },
+          {
+            "set_a_axis": "From compromised fatherhood to protective family stewardship",
+            "set_b_axis": "From self-excusing ruin to accountable guardianship",
+            "overlap_description": "These axes overlap in William's shift from feeling failed or trapped into actively assuming responsibility for Isabel and the family's consequences."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From compromised fatherhood to protective family stewardship",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From self-excusing ruin to accountable guardianship",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From cautious transaction to loyal alliance",
+            "set_b_axis": "From cautious transaction to warm respect and alliance",
+            "overlap_description": "Both describe the same relationship arc: Carlyle begins as a practical buyer/acquaintance and becomes a trusted moral ally and public supporter."
+          },
+          {
+            "set_a_axis": "From anxious fatherhood to protective but tragic guardianship",
+            "set_b_axis": "From proud paternal affection to chastened protective responsibility",
+            "overlap_description": "Both capture William's bond with Isabel as moving from proud, anxious fatherhood into sorrowful, duty-bound protection and posthumous care."
+          },
+          {
+            "set_a_axis": "From wary suspicion to absolute moral contempt",
+            "set_b_axis": "From wary suspicion to outright condemnation",
+            "overlap_description": "Both identify William's stable but intensifying hostility toward Levison, culminating in public moral rejection."
+          },
+          {
+            "set_a_axis": "From managed marriage to open household rupture",
+            "set_b_axis": "From household dependence to open distrust",
+            "overlap_description": "Both refer to William's deteriorating marriage with Lady Mount Severn, though Set B frames it more narrowly as distrust and Set A as broader domestic estrangement."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From managed marriage to open household rupture",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From household dependence to open distrust",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From self-protective aristocratic control to duty-bound relational stewardship",
+        "pole_start": "Starts on the agency side: guarded, status-conscious, secrecy-driven, and focused on preserving control, dignity, and survival amid financial ruin.",
+        "pole_end": "Ends closer to communion: still authoritative, but increasingly oriented toward care, moral responsibility, emotional attachment, and protective interdependence with family and allies.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive self-management",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "William is strongly agency-coded: anxious over debts, determined to conceal the East Lynne sale, and focused on preserving rank, privacy, and control while the household and his health remain unstable.",
+            "key_moments": [
+              "He privately arranges the sale of East Lynne and insists on concealment.",
+              "He worries about ruin, exposure, and social embarrassment.",
+              "He manages appearances at East Lynne and remains socially composed despite dependence and illness."
+            ]
+          },
+          {
+            "phase": "Moral correction and responsibility",
+            "chapter_range": [
+              14,
+              27
+            ],
+            "position_description": "Confronted with Isabel's marriage, Carlyle's honor, and the reality of Isabel's suffering, he shifts away from pure self-protection toward accountability, guardianship, and practical duty.",
+            "key_moments": [
+              "He initially reacts with shock but revises his judgment of Carlyle.",
+              "He recognizes that Isabel has been mistreated and that his own authority has limits.",
+              "He confronts Isabel in Grenoble and assumes a guardian-like role."
+            ]
+          },
+          {
+            "phase": "Public duty and relational steadiness",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "He remains authoritative and morally severe, but his actions are increasingly guided by loyalty, family obligation, and restrained compassion rather than self-preservation alone.",
+            "key_moments": [
+              "He supports Carlyle publicly against Levison.",
+              "He responds to Isabel's death and hidden identity with quiet grief and composure.",
+              "He helps manage burial and memorial arrangements."
+            ]
+          }
+        ],
+        "evidence_summary": "William begins as a financially ruined aristocrat whose energy is devoted to concealment, control, and status preservation. Across the novel, especially after Isabel's marriage and later downfall, he becomes less self-protective and more duty-bound, protective, and relationally responsive. He never becomes fully self-effacing, but the arc clearly moves away from isolated aristocratic agency toward paternal obligation and moral connectedness."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Judgment-Compassion",
+        "axis_name": "From suspicious censure to chastened pity",
+        "pole_start": "Starts on the judgment side: suspicious, cynical, quick to interpret events through scandal, impropriety, and social danger.",
+        "pole_end": "Ends with more compassion: still morally serious, but capable of pity, verification, and restrained sympathy rather than immediate condemnation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Suspicious moralizing",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "He defaults to distrust and social cynicism, viewing marriage, society, and appearances as dangerous and deceptive, even when his concern for Isabel is genuine.",
+            "key_moments": [
+              "He voices cynical beliefs about society and hidden dangers.",
+              "He scolds Isabel's vanity while still protecting her."
+            ]
+          },
+          {
+            "phase": "Evidence-based correction",
+            "chapter_range": [
+              14,
+              27
+            ],
+            "position_description": "He tempers judgment with fact, first misreading Isabel's marriage and then correcting himself; later he judges her severely but also responds to her weakness and suffering with increasing restraint.",
+            "key_moments": [
+              "He accepts Carlyle's explanation and acknowledges being wrong.",
+              "He turns a severe interview with Isabel into a partly protective encounter.",
+              "He verifies Isabel's reported death before accepting it."
+            ]
+          },
+          {
+            "phase": "Pity under restraint",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "He remains morally stern, but his responses are less purely condemnatory and more tempered by pity, discretion, and concern for avoiding needless harm.",
+            "key_moments": [
+              "He condemns Levison on principled grounds.",
+              "He asks about forgiveness and divine judgment.",
+              "He reacts to Isabel's revelation with pity and composure."
+            ]
+          }
+        ],
+        "evidence_summary": "William never abandons moral judgment, but he becomes less impulsively suspicious and more willing to verify facts, acknowledge error, and feel pity. His arc is not a conversion to softness; it is a moderation of severity into more humane judgment."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Responsibility-Resignation",
+        "axis_name": "From self-excusing ruin to accountable guardianship",
+        "pole_start": "Starts with self-pity and rationalization: he sees himself as trapped by circumstances and treats ruin as something that has happened to him, not fully as a consequence of his own conduct.",
+        "pole_end": "Ends with greater responsibility: he accepts practical obligations toward Isabel, verifies facts, and acts as a guardian who must respond to consequences rather than merely lament them.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Self-pity and rationalization",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "He is aware of his debts but frames them through weariness, bad luck, and social danger. He wants relief and concealment more than accountability.",
+            "key_moments": [
+              "He sees ruin as trapping him.",
+              "He focuses on inconvenience, dignity, and preservation rather than self-examination."
+            ]
+          },
+          {
+            "phase": "Assumption of duty",
+            "chapter_range": [
+              14,
+              27
+            ],
+            "position_description": "He increasingly behaves as someone who must act on consequences. He confronts misinformation, takes responsibility for Isabel's welfare, and arranges support after her fall.",
+            "key_moments": [
+              "He takes charge of the truth about the marriage.",
+              "He resolves to provide an allowance and prevent further degradation.",
+              "He verifies Isabel's death and handles the aftermath responsibly."
+            ]
+          },
+          {
+            "phase": "Stable duty without self-analysis",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "He remains duty-driven, but without deep introspection. Responsibility is now habitual: he supports Carlyle, condemns Levison, and responds to revelations with controlled action.",
+            "key_moments": [
+              "He goes to support Carlyle publicly.",
+              "He manages the Isabel revelation discreetly.",
+              "He prioritizes practical and moral obligations over lamentation."
+            ]
+          }
+        ],
+        "evidence_summary": "William begins as a man who feels ruined by forces around him and ends as one who, while still socially proud, acts more consistently from obligation. The change is partial rather than transformative, but it is meaningful: he moves from lamenting consequences to managing them."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "William, Earl of Mount Severn",
+        "target_character": "Lady Isabel Vane / Lady Isabel Carlyle",
+        "dimension_label": "Paternal Protection",
+        "axis_name": "From proud paternal affection to chastened protective responsibility",
+        "pole_start": "Starts as affectionate, proud, and protective, but with a strong element of social display and control; Isabel is his beloved daughter and also a symbol of family standing and vulnerability.",
+        "pole_end": "Ends as still protective, but more chastened, duty-bound, and sorrowful; he sees her as morally fallen yet still his responsibility and treats her with pity and practical care.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Affectionate pride",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "He is tender toward Isabel, proud of her beauty and social grace, and anxious about her future security.",
+            "key_moments": [
+              "He is softened by the sight of his daughter.",
+              "He admires her presentation and continues to protect her.",
+              "He scolds her vanity while still expressing concern."
+            ]
+          },
+          {
+            "phase": "Shock, judgment, and renewed guardianship",
+            "chapter_range": [
+              14,
+              27
+            ],
+            "position_description": "He is initially outraged by her marriage and later severely judges her fall, but this judgment is increasingly joined to pity and practical guardianship.",
+            "key_moments": [
+              "He assumes scandal, then learns the truth about the marriage.",
+              "He turns a stern interview into material support.",
+              "He reacts to her reported death with quiet grief and verification."
+            ]
+          },
+          {
+            "phase": "Posthumous pity and memory",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "He no longer relates to her as a living dependent, but his responses remain marked by concern for her memory, fate, and family meaning.",
+            "key_moments": [
+              "He concerns himself with forgiveness and Heaven.",
+              "He responds to the revelation of her identity with pity and discomfort.",
+              "He helps arrange burial and memorial details."
+            ]
+          }
+        ],
+        "evidence_summary": "This is William's most important relationship and the clearest emotional arc. He never stops loving Isabel, but his love changes from proud, controlling affection into a more chastened, duty-bound, and sorrowful protection shaped by her suffering and death."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "William, Earl of Mount Severn",
+        "target_character": "Mr. Carlyle",
+        "dimension_label": "Trust-Esteem",
+        "axis_name": "From cautious transaction to warm respect and alliance",
+        "pole_start": "Starts as suspicious and transactional, with limited trust and esteem; Carlyle is a useful buyer and social equal only insofar as he proves honorable.",
+        "pole_end": "Ends in high trust and esteem, with William treating Carlyle as a morally serious ally, protector of Isabel, and public standard-bearer of honor.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cautious cooperation",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "He is wary at first but becomes cooperative once Carlyle proves honorable and useful in the East Lynne transaction.",
+            "key_moments": [
+              "He privately arranges the sale of East Lynne.",
+              "He appreciates Carlyle's hospitality and practical help.",
+              "He grows attached to Carlyle during illness."
+            ]
+          },
+          {
+            "phase": "Respect after correction",
+            "chapter_range": [
+              14,
+              27
+            ],
+            "position_description": "He first misjudges Carlyle, then openly revises his opinion and comes to admire him as truthful and honorable.",
+            "key_moments": [
+              "He accepts Carlyle's explanation and acknowledges being wrong.",
+              "He admires Carlyle while judging Isabel.",
+              "He forwards Isabel's letter to Carlyle."
+            ]
+          },
+          {
+            "phase": "Public alliance",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "He aligns himself with Carlyle in public and private, supporting him against Levison and trusting his judgment in the family's moral crisis.",
+            "key_moments": [
+              "He goes to support Carlyle against Levison.",
+              "He remains steady and discreet in the face of the Isabel revelation.",
+              "He cooperates in the aftermath of Isabel's death and burial."
+            ]
+          }
+        ],
+        "evidence_summary": "William's relationship with Carlyle warms substantially. It begins as a practical arrangement and becomes a genuine alliance grounded in respect for Carlyle's honor, truthfulness, and protective role toward Isabel."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "William, Earl of Mount Severn",
+        "target_character": "Francis Levison",
+        "dimension_label": "Moral Antagonism",
+        "axis_name": "From wary suspicion to outright condemnation",
+        "pole_start": "Starts with low trust and low esteem, treating Levison as socially dangerous and morally dubious.",
+        "pole_end": "Ends in deep contempt and public hostility, with William seeing him as a villain, corrupter, and scandalous threat to order.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Suspicion and warning",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Levison is already the kind of man William distrusts; he is associated with danger, trickery, and bad luck.",
+            "key_moments": [
+              "He voices a cynical view of society and hidden dangers.",
+              "He warns Isabel to keep Levison at a distance."
+            ]
+          },
+          {
+            "phase": "Outrage and repudiation",
+            "chapter_range": [
+              35,
+              35
+            ],
+            "position_description": "His hostility becomes explicit and public when Levison enters the election against Carlyle.",
+            "key_moments": [
+              "He reacts with immediate disgust and goes to West Lynne to condemn Levison."
+            ]
+          }
+        ],
+        "evidence_summary": "William's antagonism toward Levison is consistent and intensifies when Levison becomes a public scandal. This is a stable but sharpened axis of moral hostility rather than a complex emotional evolution."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "William, Earl of Mount Severn",
+        "target_character": "Lady Mount Severn",
+        "dimension_label": "Marital Estrangement",
+        "axis_name": "From managed marriage to open household rupture",
+        "pole_start": "Begins as a strained but still controlled marital relationship, with William trying to manage family affairs and preserve authority.",
+        "pole_end": "Ends in open antagonism and emotional distance, with the marriage functioning as a site of conflict rather than partnership.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Controlled domesticity",
+            "chapter_range": [
+              1,
+              11
+            ],
+            "position_description": "Their marriage is already burdened by secrecy and crisis, but William still acts as the household authority.",
+            "key_moments": [
+              "He conceals the sale of East Lynne.",
+              "He decides Isabel must live with them despite his wife's objections."
+            ]
+          },
+          {
+            "phase": "Open conflict",
+            "chapter_range": [
+              12,
+              14
+            ],
+            "position_description": "Lady Mount Severn's violence toward Isabel and her fury over Isabel's presence turn the marriage into an overtly antagonistic relationship.",
+            "key_moments": [
+              "She assaults Isabel in front of the household.",
+              "William confronts her after learning the truth about Isabel's marriage and mistreatment."
+            ]
+          },
+          {
+            "phase": "Persistent estrangement",
+            "chapter_range": [
+              18,
+              47
+            ],
+            "position_description": "The marriage remains emotionally cold and morally compromised; William's attention shifts away from his wife toward duty, Carlyle, and Isabel's legacy.",
+            "key_moments": [
+              "He gives Isabel a blunt, unsympathetic answer about Carlyle's expense.",
+              "He later learns of Isabel's disguise and burial while his wife remains a source of distance rather than repair."
+            ]
+          }
+        ],
+        "evidence_summary": "William's marriage does not develop toward intimacy; instead it deteriorates into a relationship defined by conflict, mistrust, and emotional estrangement."
+      }
+    ]
+  }
+}

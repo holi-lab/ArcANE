@@ -1,0 +1,384 @@
+{
+  "character": "Lydia Bennet",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From impulsive self-assertion to dependent social captivity",
+          "set_b_axis": "From impulsive social fusion to unchanged impulsive social fusion",
+          "overlap_description": "Both describe Lydia as fundamentally impulsive, socially driven, and lacking reflective growth; A emphasizes the shift into dependence after scandal, while B emphasizes the persistence of the same underlying disposition."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From impulsive self-assertion to dependent social captivity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From reflection-impulsivity to unchanged unreflective immediacy",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From moral obliviousness to unchanged moral obliviousness",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From flirtatious admiration to reckless attachment and dependence",
+          "set_b_axis": "From flirtatious fascination to possessive idealization",
+          "overlap_description": "Both track Lydia's relationship with Wickham from excited flirtation to a more entrenched, self-serving attachment; A stresses dependence and coercive marriage, while B stresses idealization and possessive romanticization."
+        },
+        {
+          "set_a_axis": "From indulged family favorite to source of disgrace and managed distance",
+          "set_b_axis": "From casual sisterhood to unchanged casual sisterhood",
+          "overlap_description": "Both recognize Lydia's family ties as shallow and socially mediated; A focuses on the Bennets' shame and partial distancing after the elopement, while B emphasizes the lack of deep change in ordinary sisterly familiarity."
+        },
+        {
+          "set_a_axis": "From mutually reinforcing frivolity to shared management of scandal",
+          "set_b_axis": "From aligned excitement to unchanged indulgent alliance",
+          "overlap_description": "Both describe Lydia and Mrs. Bennet as a mutually indulgent pair centered on sociability, vanity, and officers; A adds the post-scandal damage-control dimension, while B stresses continuity."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From indulged family favorite to source of disgrace and managed distance",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From mutually reinforcing frivolity to shared management of scandal",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From casual sisterhood to unchanged casual sisterhood",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From impulsive social self-assertion to dependent social captivity",
+      "pole_start": "Lydia begins as highly self-assertive in a narrow, performative sense: she presses for attention, balls, officers, and flirtation, but her agency is impulsive rather than reflective and her communion is shallow and instrumental.",
+      "pole_end": "By the end she remains outwardly bold but is materially and socially dependent, with her life managed through marriage, family intervention, and Wickham's control rather than genuine independence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early sociable exuberance",
+          "chapter_range": [
+            1,
+            16
+          ],
+          "position_description": "Lydia is socially bold, attention-seeking, and eager for dancing, officers, and gossip. She acts with confidence, but this confidence is reactive and pleasure-driven rather than autonomous.",
+          "key_moments": [
+            "Pressing for balls and entertainments",
+            "Eager focus on officers and dancing",
+            "Immediate fascination with Wickham"
+          ]
+        },
+        {
+          "phase": "Escalation of appetite",
+          "chapter_range": [
+            17,
+            40
+          ],
+          "position_description": "Her social confidence hardens into entitlement and reckless display. She dominates conversation, boasts about flirtation, and treats Brighton and Wickham as prizes in a world of amusement.",
+          "key_moments": [
+            "Boasting about flirtation and social liveliness",
+            "Brighton enthusiasm",
+            "Departing for the regiment with exuberance"
+          ]
+        },
+        {
+          "phase": "Forced dependence",
+          "chapter_range": [
+            44,
+            59
+          ],
+          "position_description": "After the elopement, Lydia's apparent agency collapses into dependence. She resists shame and remains self-assertive in tone, but her future is negotiated by others and tied to Wickham, money, and family management.",
+          "key_moments": [
+            "Elopement framed as adventure",
+            "Marriage arranged through financial settlement",
+            "Post-marriage dependence on Wickham and patronage",
+            "Physical separation to Newcastle"
+          ]
+        }
+      ],
+      "evidence_summary": "The combined evidence shows no moral or psychological maturation. Lydia's outward boldness persists, but her actual agency diminishes as scandal and marriage place her within structures of dependence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Reflection-Impulsivity",
+      "axis_name": "From unreflective immediacy to unchanged unreflective immediacy",
+      "pole_start": "Lydia begins with little self-scrutiny, little concern for consequences, and a tendency to react to whatever is entertaining in the moment.",
+      "pole_end": "She ends in the same impulsive mode, still governed by immediate gratification, with no meaningful increase in foresight, moral reasoning, or self-critique.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Early pleasure-seeking",
+          "chapter_range": [
+            1,
+            15
+          ],
+          "position_description": "Lydia treats social life as immediate amusement. She wants balls, officers, and attention, but does not interpret events strategically or morally.",
+          "key_moments": [
+            "Cheerful anticipation of balls",
+            "Excitement over officers and gossip",
+            "Indifference to criticism"
+          ]
+        },
+        {
+          "phase": "Reckless escalation",
+          "chapter_range": [
+            16,
+            40
+          ],
+          "position_description": "Her impulsivity intensifies into reckless social behavior: she pushes for Brighton, flirts openly, and treats Wickham as an exciting prize. Even the elopement is framed as a joke or adventure.",
+          "key_moments": [
+            "Brighton enthusiasm",
+            "Open flirtation and boasting",
+            "Elopement with Wickham",
+            "Light treatment of scandal"
+          ]
+        },
+        {
+          "phase": "Post-scandal persistence",
+          "chapter_range": [
+            41,
+            59
+          ],
+          "position_description": "After the scandal, Lydia still shows no reflective growth. She remains careless, self-satisfied, and focused on comfort, money, and social display.",
+          "key_moments": [
+            "Marriage treated as triumph",
+            "Post-marriage requests for money and preferment",
+            "Continued casualness about propriety"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Lydia repeatedly shows no sign of learning from events. Her emotional life is immediate and reactive, and even major consequences fail to produce reflection or restraint."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Awareness",
+      "axis_name": "From moral obliviousness to unchanged moral obliviousness",
+      "pole_start": "Lydia begins with little or no moral awareness: she does not register impropriety, social nuance, or the ethical weight of her behavior.",
+      "pole_end": "She ends in the same state, still treating scandal, elopement, and dependence as matters of amusement or convenience rather than ethical responsibility.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial innocence without conscience",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Lydia's interest in men, dancing, and gossip is untempered by moral judgment. She does not appear to understand the social meanings of her conduct.",
+          "key_moments": [
+            "Focus on balls and officers",
+            "Indifference to Mr. Bennet's mockery",
+            "No concern for propriety in flirtation"
+          ]
+        },
+        {
+          "phase": "Open recklessness",
+          "chapter_range": [
+            15,
+            45
+          ],
+          "position_description": "Her conduct becomes more openly reckless, culminating in the elopement. Even then, she frames the act as romantic fun, not wrongdoing.",
+          "key_moments": [
+            "Brighton fixation",
+            "Wickham-centered excitement",
+            "Elopement letter treating the event lightly",
+            "No sign of shame or guilt"
+          ]
+        },
+        {
+          "phase": "Aftermath without repentance",
+          "chapter_range": [
+            46,
+            59
+          ],
+          "position_description": "The later chapters continue to present Lydia as morally unchanged. She seeks money and status, but not reconciliation, insight, or responsibility.",
+          "key_moments": [
+            "Marriage normalized as social settlement",
+            "Post-marriage requests for patronage",
+            "Continued indifference to family embarrassment"
+          ]
+        }
+      ],
+      "evidence_summary": "Lydia never internalizes the moral seriousness of her actions. Her scandal does not produce repentance; it only becomes another occasion for vanity and social maneuvering."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Lydia Bennet",
+      "target_character": "George Wickham",
+      "dimension_label": "Infatuation-Dependence",
+      "axis_name": "From flirtatious fascination to possessive, dependent attachment",
+      "pole_start": "Lydia first sees Wickham as a charming, exciting officer who fits her appetite for flirtation and social novelty.",
+      "pole_end": "By the end she remains attached to him as a romantic and social prize, but the bond is also marked by dependence, compromised trust, and marriage shaped by money and pressure.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "First fascination",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "Wickham instantly becomes the most exciting object in Lydia's social world. She is captivated by his charm and officer status.",
+          "key_moments": [
+            "His arrival in Meryton",
+            "Immediate excitement and interest",
+            "Social energy shifting toward him"
+          ]
+        },
+        {
+          "phase": "Attachment and anticipation",
+          "chapter_range": [
+            16,
+            25
+          ],
+          "position_description": "Her interest deepens into impatient anticipation of dancing with him and being near him. His absence matters because he is central to her amusement and self-image.",
+          "key_moments": [
+            "Impatience for the ball",
+            "Desire to dance with Wickham",
+            "Emotional disappointment at his absence"
+          ]
+        },
+        {
+          "phase": "Elopement and coerced marriage",
+          "chapter_range": [
+            44,
+            59
+          ],
+          "position_description": "Lydia's attachment becomes fully romanticized and possessive, but also entangled with scandal, rescue, and financial settlement. She elopes, writes cheerfully about him, and later presents the marriage as a triumph while remaining dependent on the relationship.",
+          "key_moments": [
+            "Elopement letter treating him as an angel or adventure",
+            "Family negotiation over marriage terms",
+            "Marriage secured through settlement and pressure",
+            "Post-marriage requests for support and patronage"
+          ]
+        }
+      ],
+      "evidence_summary": "Wickham is Lydia's central relational axis. What begins as flirtatious excitement becomes possessive idealization and then a compromised marital dependence; there is no mature reciprocity or reflective love."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Lydia Bennet",
+      "target_character": "The Bennet family",
+      "dimension_label": "Belonging-Shame",
+      "axis_name": "From indulged family favorite to source of disgrace and managed distance",
+      "pole_start": "Lydia begins as an indulged, noisy youngest daughter whose boldness is tolerated and often reinforced, especially by Mrs. Bennet, within a family structure that does not seriously restrain her.",
+      "pole_end": "She ends as a family scandal whose presence must be negotiated and partially distanced; the family still acknowledges her, but affection is strained by shame, distrust, and reputational damage.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Indulgent belonging",
+          "chapter_range": [
+            1,
+            40
+          ],
+          "position_description": "Early on Lydia is integrated into the family as the lively, favored youngest sister. Her mother especially validates her boldness, and the household largely treats her frivolity as part of the family's social noise.",
+          "key_moments": [
+            "Mrs. Bennet encourages her expectations",
+            "Household excitement around balls and officers",
+            "Brighton enthusiasm"
+          ]
+        },
+        {
+          "phase": "Shame and rupture",
+          "chapter_range": [
+            44,
+            50
+          ],
+          "position_description": "The elopement transforms Lydia from troublesome daughter into a family crisis. Her actions provoke condemnation, fear, and a sense that she has damaged the Bennet name beyond ordinary repair.",
+          "key_moments": [
+            "Elopement from Brighton",
+            "Family treats the event as grave dishonour",
+            "Negotiation of her future as public scandal"
+          ]
+        },
+        {
+          "phase": "Partial reintegration without intimacy",
+          "chapter_range": [
+            48,
+            59
+          ],
+          "position_description": "The family does not fully sever ties, but Lydia's place is now conditional and awkward. She is received as a married daughter, yet the bond is marked by distance, embarrassment, and management rather than warmth.",
+          "key_moments": [
+            "Jane and Elizabeth plead for her to be received",
+            "Lydia returns self-satisfied and shameless",
+            "She is sent away, physically separated from the household"
+          ]
+        }
+      ],
+      "evidence_summary": "Lydia's family relationship changes meaningfully, but not through self-awareness. She moves from indulged belonging to disgraceful distance, with only a limited, formal restoration of family recognition after marriage."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Lydia Bennet",
+      "target_character": "Mrs. Bennet",
+      "dimension_label": "Indulgence-Complicity",
+      "axis_name": "From mutually reinforcing frivolity to shared management of scandal",
+      "pole_start": "Lydia begins in a highly indulgent bond with her mother, who encourages her confidence, validates her social ambitions, and shares her delight in officers and gossip.",
+      "pole_end": "By the end the bond remains affectionate in tone but is compromised by scandal and separation; Mrs. Bennet still indulges Lydia, yet the relationship is now shaped by damage control rather than simple mutual delight.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Mutual reinforcement",
+          "chapter_range": [
+            1,
+            38
+          ],
+          "position_description": "Mrs. Bennet consistently feeds Lydia's sense that attention, balls, and officers matter most. Lydia in turn responds with enthusiasm and confidence, creating a complicit, indulgent dyad.",
+          "key_moments": [
+            "Shared anticipation of Bingley",
+            "Open pressing for balls and officers",
+            "Brighton enthusiasm"
+          ]
+        },
+        {
+          "phase": "Scandal without correction",
+          "chapter_range": [
+            44,
+            49
+          ],
+          "position_description": "Even after the elopement, Mrs. Bennet's response is not moral correction but continued emotional indulgence and social concern. Lydia remains unrepentant and expects approval.",
+          "key_moments": [
+            "Scandal breaks",
+            "Mother focuses on marriage's social display",
+            "Lydia demands and receives maternal enthusiasm"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a strong secondary axis. Mrs. Bennet is Lydia's main enabler, and their bond persists through scandal, shifting from playful indulgence to reputation management without any real correction."
+    }
+  ]
+}

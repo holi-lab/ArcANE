@@ -1,0 +1,372 @@
+{
+  "character": "Mrs. Reed",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From controlling household authority to isolated deathbed confession",
+          "set_b_axis": "From cold domestic dominance to weakened, partial relational openness",
+          "overlap_description": "Both describe the same core arc: Mrs. Reed begins as a controlling, emotionally separate authority figure and ends in a late, illness-driven confession that softens her stance only partially."
+        },
+        {
+          "set_a_axis": "From unexamined righteousness to partial guilt without full repentance",
+          "set_b_axis": "From unexamined righteousness to partial guilt without full repentance",
+          "overlap_description": "These are essentially identical: Mrs. Reed moves from self-justifying moral certainty to belated acknowledgment of wrongdoing, but never reaches full repentance or transformation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From controlling household authority to isolated deathbed confession",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From controlled detachment to destabilized vulnerability",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From punitive exclusion to reluctant deathbed confession",
+          "set_b_axis": "From punitive rejection to partial confession",
+          "overlap_description": "Both track the Jane-Mrs. Reed relationship from harsh exclusion and punishment to a final, incomplete confession that does not become genuine reconciliation."
+        },
+        {
+          "set_a_axis": "From protected favoritism to troubled disapproval",
+          "set_b_axis": "From indulgent favoritism to resentful estrangement",
+          "overlap_description": "Both identify a second relationship arc involving Mrs. Reed's favored child(ren), beginning in preferential protection and ending in strain, disappointment, and weakened approval."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From protected favoritism to troubled disapproval",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From indulgent favoritism to resentful estrangement",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From cold domestic dominance to weakened, partial relational openness",
+      "pole_start": "Strongly agency-coded: self-assertive, controlling, hierarchical, and emotionally separate, using authority to dominate the household and exclude Jane.",
+      "pole_end": "Still largely agency-coded, but softened by illness and deathbed confession into a limited, reluctant communion: vulnerable, dependent, and briefly willing to acknowledge Jane as a moral witness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Established household dominance",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Mrs. Reed begins as a firmly agency-dominant figure, enforcing hierarchy, punishing Jane, and preserving household order through exclusion and institutional transfer.",
+          "key_moments": [
+            "Excludes Jane from the family circle and sends her to the red-room",
+            "Treats Jane's fear as manipulation and maintains punitive control",
+            "Arranges Jane's removal to Lowood and sustains the household narrative of superiority"
+          ]
+        },
+        {
+          "phase": "Persistent emotional distance",
+          "chapter_range": [
+            7,
+            20
+          ],
+          "position_description": "She remains psychologically fixed in separation and self-protection, with no evidence of warmth, repair, or mutuality; her authority is absent in practice but still felt in memory.",
+          "key_moments": [
+            "Refuses further involvement in Jane's affairs in chapter 10",
+            "Continues to be remembered as cold, punitive, and self-justifying",
+            "Shows no meaningful movement toward relational responsibility"
+          ]
+        },
+        {
+          "phase": "Illness-driven vulnerability",
+          "chapter_range": [
+            21,
+            21
+          ],
+          "position_description": "Physical decline weakens her dominance and destabilizes her emotional control, producing fear, agitation, and a brief opening toward confession and moral witness.",
+          "key_moments": [
+            "Seeks Jane out on her deathbed",
+            "Oscillates between lucidity and distress",
+            "Admits wrongdoing and acknowledges Jane as someone she wronged"
+          ]
+        },
+        {
+          "phase": "Terminal withdrawal",
+          "chapter_range": [
+            22,
+            38
+          ],
+          "position_description": "After death, the arc effectively ends; what remains is a fixed memory of incomplete remorse rather than any further development toward communion.",
+          "key_moments": [
+            "Jane reflects on Mrs. Reed's death and funeral",
+            "No further psychological development is possible after death"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs. Reed's intrapersonal arc is limited but real: she moves from cold, controlling authority toward a brief, illness-induced vulnerability that permits confession. The change is not a full moral or emotional conversion, but a weakening of agency and a partial opening that remains incomplete."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral self-justification",
+      "axis_name": "From unexamined righteousness to partial guilt without full repentance",
+      "pole_start": "Fully self-justifying: she believes her harshness is proper discipline and sees herself as morally correct.",
+      "pole_end": "Partially self-aware: she recognizes specific wrongs and feels guilt, but remains defensive, resentful, and unable to integrate remorse into genuine moral change.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Moral certainty",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Mrs. Reed consistently frames herself as justified, treating Jane's suffering as deserved correction and refusing to question her own conduct.",
+          "key_moments": [
+            "Sends Jane to the red-room as punishment",
+            "Interprets Jane's distress as deceit or artifice",
+            "Uses Brocklehurst and Lowood as validation for her judgment"
+          ]
+        },
+        {
+          "phase": "Crack in certainty",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Jane's direct accusation briefly unsettles her, but the discomfort does not become reflection; it only exposes a momentary crack in her moral certainty.",
+          "key_moments": [
+            "Shows fear and discomfort when Jane invokes the dead Reed family",
+            "Briefly appears shaken by Jane's forceful accusation"
+          ]
+        },
+        {
+          "phase": "Deathbed acknowledgment",
+          "chapter_range": [
+            21,
+            21
+          ],
+          "position_description": "She finally admits wrongdoing, including blocking Jane's inheritance and future, but the confession is mixed with defensiveness and self-protection rather than full repentance.",
+          "key_moments": [
+            "Confesses to Jane in her final illness",
+            "Acknowledges she wronged Jane twice",
+            "Admits hatred was rooted in fixed dislike and mortification"
+          ]
+        },
+        {
+          "phase": "Incomplete closure",
+          "chapter_range": [
+            22,
+            38
+          ],
+          "position_description": "Her guilt remains the last meaningful moral movement, but it is not developed into repair or transformation; she is remembered as remorseful yet unresolved.",
+          "key_moments": [
+            "Jane reflects on her funeral and death",
+            "No further opportunity for restitution or moral revision"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs. Reed's moral arc runs from total self-justification to partial guilt. The late confession matters, but it never becomes sustained repentance or ethical change, leaving her as a figure of belated but incomplete recognition."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "emotional rigidity",
+      "axis_name": "From controlled detachment to destabilized vulnerability",
+      "pole_start": "Emotionally closed, cold, and composed; she suppresses sympathy and maintains a disciplined surface.",
+      "pole_end": "Physically and emotionally weakened, with fear, regret, irritation, and delirium breaking through her former composure.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Composed coldness",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Her emotional life is tightly controlled and flattened into punitive authority; she shows irritation but little visible vulnerability.",
+          "key_moments": [
+            "Calmly enforces Jane's exclusion",
+            "Responds to Jane's distress with punishment rather than comfort",
+            "Maintains a self-satisfied maternal posture toward her own children"
+          ]
+        },
+        {
+          "phase": "Persistent emotional distance",
+          "chapter_range": [
+            7,
+            20
+          ],
+          "position_description": "Even when absent, she remains defined by emotional withholding and refusal of attachment or responsibility.",
+          "key_moments": [
+            "Curtly declines involvement in Jane's affairs in chapter 10",
+            "Continues to be recalled as cold and rejecting"
+          ]
+        },
+        {
+          "phase": "Breakdown under illness",
+          "chapter_range": [
+            21,
+            21
+          ],
+          "position_description": "Illness destabilizes her emotional control, producing fear, agitation, guilt, and moments of lucidity that puncture her habitual detachment.",
+          "key_moments": [
+            "Oscillates between stupor and lucidity",
+            "Feels fear and discomfort",
+            "Confesses wrongdoing to Jane"
+          ]
+        },
+        {
+          "phase": "Posthumous fixity",
+          "chapter_range": [
+            22,
+            38
+          ],
+          "position_description": "After death, emotional movement ceases; what remains is the memory of a woman whose rigidity only briefly gave way to vulnerability.",
+          "key_moments": [
+            "Jane reflects on her death",
+            "No further emotional development"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs. Reed remains emotionally closed for most of the narrative, but chapter 21 introduces a meaningful destabilization. This axis captures the shift from rigid composure to brief, terminal vulnerability."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Mrs. Reed",
+      "target_character": "Jane Eyre",
+      "dimension_label": "hostility-remorse",
+      "axis_name": "From punitive rejection to partial confession",
+      "pole_start": "Cold, punitive, distrustful, and morally dismissive; Jane is treated as an inferior child whose suffering is deserved.",
+      "pole_end": "Still emotionally distant, but capable of brief remorse and acknowledgment of wrongdoing before death.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Active rejection",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Mrs. Reed treats Jane as a problem to be controlled, not a child to be loved or protected.",
+          "key_moments": [
+            "Sends Jane to the red-room",
+            "Interprets Jane's fear as manipulation",
+            "Arranges Jane's removal to Lowood"
+          ]
+        },
+        {
+          "phase": "Offstage dismissal",
+          "chapter_range": [
+            7,
+            20
+          ],
+          "position_description": "She remains emotionally absent but still functions as a remembered source of exclusion and injustice.",
+          "key_moments": [
+            "Refuses further involvement in Jane's affairs in chapter 10",
+            "Jane continues to remember her as cold and punitive"
+          ]
+        },
+        {
+          "phase": "Deathbed confession",
+          "chapter_range": [
+            21,
+            21
+          ],
+          "position_description": "Her attitude shifts from pure hostility to conflicted remorse: she admits she wronged Jane, though she cannot fully soften into affection.",
+          "key_moments": [
+            "Confesses to Jane",
+            "Admits blocking Jane's inheritance and future",
+            "Shows guilt mixed with defensiveness"
+          ]
+        },
+        {
+          "phase": "Aftermath and closure",
+          "chapter_range": [
+            22,
+            38
+          ],
+          "position_description": "The relationship ends in death and memory; Jane carries the unresolved history forward, but Mrs. Reed can no longer act on it.",
+          "key_moments": [
+            "Jane reflects on her death and funeral",
+            "No further relational repair occurs"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Mrs. Reed's clearest relational arc with Jane: it moves from punitive rejection to a late, partial confession that never becomes genuine intimacy. The change is real but limited, and it occurs only at the end of her life."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Mrs. Reed",
+      "target_character": "Her own children",
+      "dimension_label": "favoritism-disillusion",
+      "axis_name": "From indulgent favoritism to resentful estrangement",
+      "pole_start": "Warm, indulgent, and preferential toward John, Eliza, and Georgiana; she centers them within the family hierarchy.",
+      "pole_end": "By chapter 21, her feelings are more burdened and estranged, especially toward John and the family legacy, with little warmth left and more irritation, resentment, and fatigue.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Favored children",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "She is affectionate and indulgent toward her own children, excusing their faults and reinforcing their privileged status.",
+          "key_moments": [
+            "Protects John and overlooks his cruelty",
+            "Supports Eliza and Georgiana as part of the favored circle"
+          ]
+        },
+        {
+          "phase": "Background strain",
+          "chapter_range": [
+            10,
+            20
+          ],
+          "position_description": "The family bond becomes increasingly administrative rather than loving, with concern over conduct and social standing but little warmth.",
+          "key_moments": [
+            "Bessie reports on household matters and the children's behavior",
+            "Mrs. Reed remains emotionally distant in practical matters"
+          ]
+        },
+        {
+          "phase": "Late-life resentment",
+          "chapter_range": [
+            21,
+            21
+          ],
+          "position_description": "Illness reveals that the family bond has become a source of burden and resentment, especially regarding John, whose destructiveness and financial ruin weigh on her.",
+          "key_moments": [
+            "Describes John as destructive and financially ruinous",
+            "Shows cold detachment toward Eliza and Georgiana"
+          ]
+        }
+      ],
+      "evidence_summary": "This secondary relational axis captures a meaningful but less central shift: Mrs. Reed begins as a preferential mother and ends as a weakened, resentful figure whose family attachments have lost their warmth."
+    }
+  ]
+}

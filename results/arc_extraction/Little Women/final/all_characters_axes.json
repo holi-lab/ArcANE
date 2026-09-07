@@ -1,0 +1,2990 @@
+{
+  "Josephine March": {
+    "character": "Josephine March",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-assertive independence to chosen interdependence",
+            "set_b_axis": "From boyish self-assertion to chosen interdependence",
+            "overlap_description": "Both describe Jo's movement from defiant self-assertion and resistance to feminine/domestic constraint toward a mature, chosen interdependence grounded in love, family, and shared purpose."
+          },
+          {
+            "set_a_axis": "From fame-seeking ambition to vocation grounded in service",
+            "set_b_axis": "From vanity and insecurity to grounded self-respect",
+            "overlap_description": "Both track Jo's revaluation of success: early striving for distinction and self-display gives way to a more grounded identity shaped by usefulness, moral seriousness, and service."
+          },
+          {
+            "set_a_axis": "From impulsive temper to disciplined self-command",
+            "set_b_axis": "From impulsive anger to disciplined self-command",
+            "overlap_description": "Both identify Jo's temper as a central internal problem and show her learning restraint, self-governance, and morally informed emotional control without losing vitality."
+          },
+          {
+            "set_a_axis": "From feeling overlooked to knowing she is deeply loved",
+            "set_b_axis": "From vanity and insecurity to grounded self-respect",
+            "overlap_description": "Both include Jo's insecurity about appearance, value, and belonging, and her eventual arrival at a steadier self-worth rooted in love and recognition."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From fame-seeking ambition to vocation grounded in service",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From anti-romantic resistance to mature love",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From combative rivalry to hard-won sisterly respect",
+            "set_b_axis": "From teasing antagonism to affectionate respect",
+            "overlap_description": "Both describe the Jo-Amy relationship as moving from sibling antagonism and teasing conflict toward mutual respect and affectionate acceptance."
+          },
+          {
+            "set_a_axis": "From affectionate sisterhood to sacred caregiving devotion",
+            "set_b_axis": "From affectionate fondness to reverent devotion",
+            "overlap_description": "Both track Jo's deepening bond with Beth from warm affection into reverence, caregiving, grief, and moral inheritance."
+          },
+          {
+            "set_a_axis": "From mischievous companionship to transformed lifelong affection",
+            "set_b_axis": "From kindred playmate to relinquished beloved and brotherly friend",
+            "overlap_description": "Both describe Jo and Laurie's bond as beginning in playful equality, passing through romantic rupture, and ending in a durable non-romantic affection."
+          },
+          {
+            "set_a_axis": "From moral admiration to reciprocal romantic love",
+            "set_b_axis": "From moral admiration to reciprocal romantic partnership",
+            "overlap_description": "Both identify Bhaer as the relationship through which Jo's admiration and moral growth become mutual romantic commitment and marriage."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From resisting maternal correction to trusting Marmee’s moral authority",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From eager approval-seeking to mature internalization of guidance",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-assertive independence to chosen interdependence",
+        "pole_start": "Jo begins as intensely self-assertive: she resists feminine constraint, prizes freedom and mastery, and defines herself through independence, wit, and force of will.",
+        "pole_end": "Jo ends still independent, but her agency is now freely expressed through interdependence: marriage, family duty, caregiving, teaching, and shared labor.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Rebellious self-assertion",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Jo is strongly agency-driven, longing for boyish freedom, resisting domestic expectations, and treating self-mastery as a way to preserve autonomy.",
+            "key_moments": [
+              "Christmas wish to be a boy",
+              "defiance of feminine roles",
+              "early delight in Laurie as a kindred spirit"
+            ]
+          },
+          {
+            "phase": "Agency disciplined by duty",
+            "chapter_range": [
+              6,
+              18
+            ],
+            "position_description": "Her independence remains strong, but it is increasingly redirected toward service: household labor, care for Beth, support for Marmee, and practical responsibility for others.",
+            "key_moments": [
+              "selling her hair for family need",
+              "household labor during Marmee's absence",
+              "nursing Beth",
+              "learning usefulness as strength"
+            ]
+          },
+          {
+            "phase": "Agency tested by loss",
+            "chapter_range": [
+              19,
+              35
+            ],
+            "position_description": "Grief, ambition, and relational change complicate Jo's self-direction. She seeks self-support through work and writing, but loss forces her to accept limits and choose honesty over self-display.",
+            "key_moments": [
+              "publication success",
+              "Meg's marriage",
+              "Amy's departure and growth",
+              "Laurie's proposal and Jo's refusal",
+              "Beth's decline"
+            ]
+          },
+          {
+            "phase": "Chosen communion",
+            "chapter_range": [
+              36,
+              47
+            ],
+            "position_description": "Jo's agency becomes the power to love, nurture, teach, and build a shared home. She does not surrender selfhood; she integrates it into reciprocal adult life.",
+            "key_moments": [
+              "Beth's death and renunciation of old ambitions",
+              "Bhaer's return and proposal",
+              "marriage",
+              "Plumfield and shared domestic life"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo's arc moves from resisting dependence and domesticity toward embracing interdependence as a chosen, dignified form of life. Her agency remains intact, but it is increasingly fulfilled through communion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "ambition-duty",
+        "axis_name": "From fame-seeking ambition to vocation grounded in service",
+        "pole_start": "Jo begins with a strong desire for distinction, literary genius, and public achievement, imagining fame as proof of her exceptional self.",
+        "pole_end": "Jo ends valuing talent and work, but understanding vocation as service, honest labor, and care within family and marriage rather than fame for its own sake.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Grand aspiration",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Jo openly imagines a future of literary greatness, riches, and renown. Her ambition is expansive, public, and self-defining.",
+            "key_moments": [
+              "dreams of fame and literary success",
+              "early writing aspirations",
+              "desire to do something splendid"
+            ]
+          },
+          {
+            "phase": "Success and moral testing",
+            "chapter_range": [
+              27,
+              34
+            ],
+            "position_description": "Publication and money confirm her talent, but also expose the costs of ambition: compromise, secrecy, and the temptation to value success over integrity.",
+            "key_moments": [
+              "publication success",
+              "earning money through writing",
+              "moral criticism of sensational fiction",
+              "pressure to compromise"
+            ]
+          },
+          {
+            "phase": "Reorientation through grief and duty",
+            "chapter_range": [
+              40,
+              42
+            ],
+            "position_description": "Beth's death and the family's losses revise Jo's priorities. She recognizes that love, duty, and family service matter more than public distinction.",
+            "key_moments": [
+              "Beth's deathbed and death",
+              "renunciation of old ambitions",
+              "acceptance of grief as moral instruction"
+            ]
+          },
+          {
+            "phase": "Vocation in shared life",
+            "chapter_range": [
+              46,
+              47
+            ],
+            "position_description": "Jo's writing remains important, but it is integrated into a larger life of mutual labor, marriage, and home-making. Success is measured by usefulness and affection.",
+            "key_moments": [
+              "Bhaer's proposal and mutual commitment",
+              "shared plans for work and home",
+              "Plumfield as lived vocation"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo never stops being ambitious, but the novel steadily revises what ambition is for: from distinction and genius toward care, support, and meaningful work within relationships."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "temper-control",
+        "axis_name": "From impulsive anger to disciplined self-command",
+        "pole_start": "Jo begins volatile, quick to mock or flare up, and prone to letting pride and irritation govern her speech and actions.",
+        "pole_end": "Jo ends with a stable capacity for restraint, patience, and reflective self-governance, while retaining wit and energy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Temper as identity",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "Jo's anger and sarcasm are part of her forceful personality. She often acts first and reflects later, especially in conflict with Amy.",
+            "key_moments": [
+              "defiance in early chapters",
+              "mocking Amy",
+              "manuscript-burning conflict",
+              "remorse after crisis"
+            ]
+          },
+          {
+            "phase": "Learning restraint",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "She begins to practice self-command, learning from Marmee and from painful consequences that temper is a moral danger rather than a harmless quirk.",
+            "key_moments": [
+              "controlled anger in social settings",
+              "household labor and frustration",
+              "Marmee's guidance",
+              "Beth's illness and care"
+            ]
+          },
+          {
+            "phase": "Temper subordinated to conscience",
+            "chapter_range": [
+              19,
+              47
+            ],
+            "position_description": "Jo still has flashes of irritation, but they are increasingly brief and managed. Her energy is redirected into work, honesty, caregiving, and mature love.",
+            "key_moments": [
+              "writing criticism and moral re-evaluation",
+              "Laurie's proposal handled honestly",
+              "Beth's deathbed endurance",
+              "Bhaer relationship grounded in seriousness"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo's temper is a clear internal problem that gradually yields to disciplined, morally informed self-control without extinguishing her vitality."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "self-worth",
+        "axis_name": "From insecurity and comparison to grounded self-respect",
+        "pole_start": "Jo begins with a conflicted self-image: proud and defensive, yet vulnerable about femininity, appearance, and whether she is valued.",
+        "pole_end": "Jo ends with a steadier sense of worth rooted in usefulness, love, and moral seriousness rather than looks, fame, or comparison.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive pride",
+            "chapter_range": [
+              1,
+              15
+            ],
+            "position_description": "Jo resists feminine expectations, craves approval, and is privately wounded by embarrassment, awkwardness, and the fear of not being enough.",
+            "key_moments": [
+              "wish to be a boy",
+              "party awkwardness",
+              "hair sacrifice and shame",
+              "first literary success mixed with insecurity"
+            ]
+          },
+          {
+            "phase": "Worth through usefulness",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "Jo increasingly measures herself by what she can do for others: work, earn money, nurse, teach, and write honestly. Competence replaces display as the basis of self-respect.",
+            "key_moments": [
+              "household labor",
+              "earning money through writing",
+              "nursing Beth",
+              "moral rejection of sensational fiction"
+            ]
+          },
+          {
+            "phase": "Mature self-acceptance",
+            "chapter_range": [
+              35,
+              47
+            ],
+            "position_description": "Jo no longer needs fame or beauty to justify herself. She accepts love, marriage, and domestic work as worthy forms of life, and her identity becomes anchored in service and mutual devotion.",
+            "key_moments": [
+              "honest refusal of Laurie",
+              "Beth's deathbed teaching",
+              "acceptance of Bhaer",
+              "Plumfield and motherhood"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo's self-esteem is repeatedly tested by vanity, criticism, and comparison, but the arc ends in a more grounded and less defensive self-regard."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "romantic openness",
+        "axis_name": "From anti-romantic resistance to mature love",
+        "pole_start": "Jo begins suspicious of romance and marriage, treating them as threats to freedom, family intimacy, and self-determination.",
+        "pole_end": "Jo ends capable of deep, reciprocal romantic love that integrates with independence, duty, and shared purpose.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Romance as disruption",
+            "chapter_range": [
+              1,
+              23
+            ],
+            "position_description": "Jo resists romance in principle and practice. She is protective of family bonds and inclined to see love as something that separates people.",
+            "key_moments": [
+              "rejection of feminine roles",
+              "Meg's courtship and engagement",
+              "hostility to Brooke",
+              "fear of losing Laurie and family closeness"
+            ]
+          },
+          {
+            "phase": "Reluctant recognition",
+            "chapter_range": [
+              24,
+              35
+            ],
+            "position_description": "Jo begins to see that love can be serious and morally binding, but she still experiences it as loss. Laurie's proposal and her refusal mark the turning point toward emotional honesty.",
+            "key_moments": [
+              "Meg's wedding",
+              "Amy's engagement",
+              "Laurie's proposal and Jo's rejection",
+              "growing loneliness after family changes"
+            ]
+          },
+          {
+            "phase": "Reciprocal love",
+            "chapter_range": [
+              43,
+              47
+            ],
+            "position_description": "Jo becomes romantically open in a full adult sense. Bhaer is a companion in work, ethics, and home-making; her love is mutual, practical, and emotionally secure.",
+            "key_moments": [
+              "Laurie's emotional closure",
+              "Bhaer's renewed presence",
+              "proposal and acceptance",
+              "marriage and shared life at Plumfield"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo moves from anti-romantic defensiveness to a mature acceptance of love as compatible with independence, labor, and moral seriousness."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Josephine March",
+        "target_character": "Amy March",
+        "dimension_label": "sibling rivalry",
+        "axis_name": "From teasing antagonism to affectionate respect",
+        "pole_start": "Jo begins as a mocking, exasperated older sister who finds Amy vain and irritating, even when the conflict remains affectionate rather than cruel.",
+        "pole_end": "Jo ends as a sister who still teases Amy but genuinely admires her tact, generosity, and social competence, with rivalry softened into warm respect.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Comic sparring",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "Jo and Amy are in familiar sibling conflict: teasing, retaliation, and emotional closeness coexist.",
+            "key_moments": [
+              "early teasing and mockery",
+              "Amy's punishment and Jo's protective anger",
+              "manuscript-burning quarrel"
+            ]
+          },
+          {
+            "phase": "Protective rivalry",
+            "chapter_range": [
+              9,
+              30
+            ],
+            "position_description": "Jo becomes more protective of Amy's dignity even while still judging her vanity. Amy's competence and composure increasingly force Jo to revise her contempt.",
+            "key_moments": [
+              "Amy's social ambitions",
+              "Aunt Carrol choosing Amy",
+              "Jo's self-reproach over her tongue"
+            ]
+          },
+          {
+            "phase": "Affectionate acceptance",
+            "chapter_range": [
+              31,
+              47
+            ],
+            "position_description": "Amy becomes less a rival than a beloved sister whose happiness Jo can finally celebrate. Jo accepts Amy's marriage to Laurie and sees her as part of family harmony.",
+            "key_moments": [
+              "Amy and Laurie's engagement",
+              "Jo's loneliness and acceptance",
+              "family reunion and domestic peace"
+            ]
+          }
+        ],
+        "evidence_summary": "Jo's relationship with Amy is one of the most dynamic sibling arcs: rivalry never disappears, but it matures into respect as Amy's social intelligence and generosity become clearer."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Josephine March",
+        "target_character": "Beth March",
+        "dimension_label": "protective devotion",
+        "axis_name": "From affectionate fondness to reverent devotion",
+        "pole_start": "Jo begins loving Beth warmly as a gentle, soothing sister, but Beth is initially one beloved sibling among others.",
+        "pole_end": "Jo ends regarding Beth as her conscience, saintly model, and irreplaceable emotional center, with love sharpened into reverence and grief.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Gentle affection",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Jo is tender toward Beth from the start, valuing her peace-making and sweetness, but Beth is still part of the family whole rather than singularly central.",
+            "key_moments": [
+              "Beth soothing family tensions",
+              "Jo's protectiveness in early chapters",
+              "Beth's quiet goodness in the Laurence connection"
+            ]
+          },
+          {
+            "phase": "Protective admiration",
+            "chapter_range": [
+              11,
+              19
+            ],
+            "position_description": "Beth's goodness becomes more precious to Jo as domestic competence, illness, and family strain reveal Beth's quiet strength. Jo increasingly turns to Beth for moral balance and comfort.",
+            "key_moments": [
+              "Beth's support during household failures",
+              "Beth's role in the family crisis",
+              "Beth's illness and Jo's guilt"
+            ]
+          },
+          {
+            "phase": "Reverence and grief",
+            "chapter_range": [
+              20,
+              47
+            ],
+            "position_description": "Beth becomes Jo's moral touchstone. Her decline and death transform Jo's love into reverence, sorrow, and a lasting sense of obligation to live well in Beth's memory.",
+            "key_moments": [
+              "Beth's worsening illness",
+              "deathbed scenes",
+              "Beth's death and Jo's renunciation",
+              "Beth's continuing spiritual presence"
+            ]
+          }
+        ],
+        "evidence_summary": "Beth is the emotional and moral center of Jo's later arc; the relationship deepens from affection into a sacred bond shaped by caregiving, loss, and ethical inheritance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Josephine March",
+        "target_character": "Theodore Laurence",
+        "dimension_label": "friendship-love",
+        "axis_name": "From kindred playmate to relinquished beloved and brotherly friend",
+        "pole_start": "Jo begins with Laurie as a rare kindred spirit who shares her wit, freedom, and love of play.",
+        "pole_end": "Jo ends with Laurie as a cherished brotherly friend, no longer a romantic possibility but still a beloved part of her emotional world.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Instant camaraderie",
+            "chapter_range": [
+              2,
+              14
+            ],
+            "position_description": "Jo delights in Laurie as a companion in mischief, performance, and intellectual play. Their bond is warm, easy, and unusually equal.",
+            "key_moments": [
+              "first meeting and immediate liking",
+              "party and skating companionship",
+              "Pickwick Club and shared jokes",
+              "Jo's literary confidence with Laurie"
+            ]
+          },
+          {
+            "phase": "Strain and misreading",
+            "chapter_range": [
+              15,
+              35
+            ],
+            "position_description": "As Jo's life changes, Laurie becomes emotionally more complicated: he is a helper, confidant, and eventually a suitor. Jo's refusal of him is an act of honesty that wounds both of them.",
+            "key_moments": [
+              "hair sacrifice and crisis support",
+              "Beth's illness and Laurie's help",
+              "Jo's suspicion of Laurie's feelings",
+              "Laurie's proposal and Jo's rejection"
+            ]
+          },
+          {
+            "phase": "Brotherly settlement",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "Laurie is finally redefined as family. Jo accepts his marriage to Amy, welcomes his happiness, and no longer experiences him as a romantic threat or unresolved possibility.",
+            "key_moments": [
+              "Laurie's emotional release after Beth's death",
+              "Amy and Laurie's engagement and marriage",
+              "Laurie's return and mature friendship",
+              "Jo's settled warmth toward him"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Jo's most important relational arc: a friendship of equals becomes a painful romantic near-miss, then resolves into mature, non-romantic affection."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Josephine March",
+        "target_character": "Mrs. March",
+        "dimension_label": "moral dependence",
+        "axis_name": "From eager approval-seeking to mature internalization of guidance",
+        "pole_start": "Jo begins deeply admiring and dependent on Marmee, wanting to please her and borrowing her moral authority.",
+        "pole_end": "Jo ends with Marmee's values internalized: she still loves her mother, but now acts from an inwardly owned ethic of duty, love, and practical goodness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Approval-seeking daughter",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "Jo looks to Marmee for moral framing and comfort, especially when her temper or pride is at issue.",
+            "key_moments": [
+              "father's letter filtered through Marmee's teaching",
+              "morning readings and charity",
+              "Marmee's confession about temper"
+            ]
+          },
+          {
+            "phase": "Guided self-correction",
+            "chapter_range": [
+              9,
+              27
+            ],
+            "position_description": "Jo increasingly uses Marmee's standards to judge herself: temper, work, writing, and social tact all become matters of internalized maternal teaching.",
+            "key_moments": [
+              "household experiment",
+              "Beth's illness and Marmee's absence",
+              "writing success and moral criticism",
+              "hair sacrifice and family crisis"
+            ]
+          },
+          {
+            "phase": "Internalized motherhood",
+            "chapter_range": [
+              28,
+              47
+            ],
+            "position_description": "Jo no longer merely seeks Marmee's approval; she acts as a moral adult in her own right, though still within Marmee's loving orbit. Marmee's values now structure Jo's marriage, work, and caregiving.",
+            "key_moments": [
+              "Beth's deathbed lessons",
+              "Laurie's proposal and Jo's honesty",
+              "Bhaer relationship and marriage",
+              "Plumfield as a home shaped by inherited maternal ethics"
+            ]
+          }
+        ],
+        "evidence_summary": "Marmee is the primary moral influence in Jo's life, and the arc moves from dependence to internalization rather than rebellion."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Josephine March",
+        "target_character": "Professor Friedrich Bhaer",
+        "dimension_label": "admiration-love",
+        "axis_name": "From moral admiration to reciprocal romantic partnership",
+        "pole_start": "Jo begins with curiosity and esteem for Bhaer as a kind, intelligent, morally serious man who sees and corrects her honestly.",
+        "pole_end": "Jo ends in committed love and marriage, seeing Bhaer as her true companion in work, ethics, and home-making.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful admiration",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "Jo is drawn to Bhaer's warmth, intelligence, and moral seriousness. His criticism of her writing hurts, but it also deepens her respect.",
+            "key_moments": [
+              "New York teaching life",
+              "Bhaer's guidance and kindness",
+              "moral rejection of sensation writing"
+            ]
+          },
+          {
+            "phase": "Shy emotional attachment",
+            "chapter_range": [
+              43,
+              45
+            ],
+            "position_description": "Bhaer becomes emotionally central. Jo is shy, hopeful, and increasingly aware that her feelings are more than admiration, especially as he participates in the children's world.",
+            "key_moments": [
+              "Bhaer's return",
+              "family scenes with the children",
+              "Jo's visible delight and self-consciousness"
+            ]
+          },
+          {
+            "phase": "Reciprocal love and marriage",
+            "chapter_range": [
+              46,
+              47
+            ],
+            "position_description": "Bhaer's confession and proposal transform admiration into mutual love. Jo accepts a partnership grounded in shared labor, moral purpose, and domestic creation.",
+            "key_moments": [
+              "Bhaer's confession",
+              "Jo's acceptance",
+              "shared plans for work and home",
+              "marriage and Plumfield"
+            ]
+          }
+        ],
+        "evidence_summary": "Bhaer is the final romantic destination of Jo's arc: he converts her ideals of goodness and usefulness into a lived partnership."
+      }
+    ]
+  },
+  "Margaret March": {
+    "character": "Margaret March",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-conscious social striving to settled relational belonging",
+            "set_b_axis": "From self-assertive social aspiration to settled maternal communion",
+            "overlap_description": "Both describe Meg moving away from status-seeking, self-conscious social aspiration and toward a mature identity grounded in family belonging, care, and domestic life."
+          },
+          {
+            "set_a_axis": "From admiration-hungry vanity to chastened self-respect",
+            "set_b_axis": "From vanity and social comparison to chastened modesty",
+            "overlap_description": "Both track Meg’s early vulnerability to vanity, appearance, and admiration, and her later growth into modesty and a more secure sense of worth."
+          },
+          {
+            "set_a_axis": "From emotional impulsiveness to practiced self-command",
+            "set_b_axis": "From romantic domestic idealization to realistic household wisdom",
+            "overlap_description": "These overlap partially: both emphasize Meg’s maturation through experience, but A centers self-regulation while B centers learning realism about home and marriage."
+          },
+          {
+            "set_a_axis": "From longing for worldly distinction to contentment with ordinary happiness",
+            "set_b_axis": "From vanity and social comparison to chastened modesty",
+            "overlap_description": "Both include the movement from envy of wealth/status toward acceptance of modest domestic happiness, though A frames it as contentment and B as humility."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From emotional impulsiveness to practiced self-command",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From longing for worldly distinction to contentment with ordinary happiness",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From romantic domestic idealization to realistic household wisdom",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From sisterly friction to mature mutual regard",
+            "set_b_axis": "From corrective elder sister to steadier equal companion",
+            "overlap_description": "Both describe Meg and Jo moving from early friction and correction into a durable, affectionate adult bond with less hierarchy and more mutual respect."
+          },
+          {
+            "set_a_axis": "From receiving maternal correction to embodying Marmee’s values",
+            "set_b_axis": "From dutiful daughter to maternal co-steward",
+            "overlap_description": "Both capture Meg’s relationship to Mrs. March as one of moral inheritance: she begins as a guided daughter and ends by embodying Marmee’s domestic and ethical authority."
+          },
+          {
+            "set_a_axis": "From affectionate sisterhood to reverent care",
+            "set_b_axis": "From affectionate sisterhood to maternal tenderness",
+            "overlap_description": "Both show Meg’s bond with Beth deepening from warm affection into more protective, reverent tenderness, especially under the pressure of Beth’s illness and death."
+          },
+          {
+            "set_a_axis": "From shy esteem to reciprocal domestic partnership",
+            "set_b_axis": "From respectful admiration to committed marital intimacy",
+            "overlap_description": "Both describe Meg’s relationship with John Brooke as moving from cautious admiration into a stable, reciprocal marriage centered on trust, sacrifice, and domestic life."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From peacemaking sister to admiring ally",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From playful neighborliness to morally serious trust",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From corrective elder sister to steadier equal companion",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From dutiful daughter to maternal co-steward",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From respectful admiration to committed marital intimacy",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From social aspiration to settled domestic communion",
+        "pole_start": "Meg begins partly oriented toward agency through social aspiration: she wants to look well, be admired, and rise above poverty through refinement, propriety, and self-presentation, even though she is already affectionate and family-centered.",
+        "pole_end": "She ends strongly communion-oriented: a wife, mother, and household anchor whose identity is grounded in care, mutual dependence, domestic harmony, and fulfillment in ordinary family life rather than status.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early aspiration and self-consciousness",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Meg is dutiful and loving, but she also wants elegance, respectability, and social approval. Her sense of self is tied to appearance and the hope that refinement can improve her standing.",
+            "key_moments": [
+              "Wanting to look elegant at the party",
+              "Poverty felt as a limit on social standing",
+              "Morning-after envy of richer girls",
+              "Concern over how she appears to others"
+            ]
+          },
+          {
+            "phase": "Temptation and correction",
+            "chapter_range": [
+              6,
+              12
+            ],
+            "position_description": "The Moffat episode intensifies her attraction to fashionable life, but embarrassment, Marmee’s counsel, and moral contrast begin redirecting her toward sincerity and usefulness.",
+            "key_moments": [
+              "Fashionable imitation at the Moffats",
+              "Gossip and humiliation",
+              "Laurie’s criticism",
+              "Confession and maternal correction"
+            ]
+          },
+          {
+            "phase": "Duty-centered maturity",
+            "chapter_range": [
+              13,
+              24
+            ],
+            "position_description": "Family illness and responsibility make Meg’s agency increasingly practical rather than social. She becomes a peacemaker, caretaker, and household stabilizer, learning that communion requires labor and self-command.",
+            "key_moments": [
+              "Taking on domestic responsibility",
+              "Father’s illness and household strain",
+              "Beth’s illness and Meg’s guilt",
+              "Learning to act rather than merely feel"
+            ]
+          },
+          {
+            "phase": "Marriage as chosen communion",
+            "chapter_range": [
+              25,
+              38
+            ],
+            "position_description": "In marriage, Meg reconciles her desire for refinement with mutual care and sacrifice. She learns that love is sustained by humility, compromise, and shared domestic work.",
+            "key_moments": [
+              "Courtship with John Brooke",
+              "Housekeeping failures and apology",
+              "Violet silk dress and shame",
+              "Revaluing John’s sacrifice"
+            ]
+          },
+          {
+            "phase": "Stable domestic fulfillment",
+            "chapter_range": [
+              39,
+              47
+            ],
+            "position_description": "Meg settles into a mature identity as wife, mother, and family anchor. Her agency now appears as emotional steadiness, domestic competence, and the ability to sustain others.",
+            "key_moments": [
+              "Mothering her children",
+              "Comforting Jo after Beth’s death",
+              "Plumfield family contentment",
+              "Final sense of fulfilled home life"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Meg’s clearest movement is away from social self-display and toward a fulfilled domestic life. She does not become independent in a solitary sense; instead, her agency is increasingly expressed through chosen communion, care, and household stewardship."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Vanity-Humility",
+        "axis_name": "From vanity and comparison to modest self-respect",
+        "pole_start": "Meg is vulnerable to vanity: she cares about dresses, looks, elegance, and being admired, and she feels poverty as a threat to attractiveness and social worth.",
+        "pole_end": "She becomes more modest and self-possessed, still appreciating beauty but no longer letting admiration or class comparison govern her self-worth.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Vanity exposed",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Meg openly feels the pull of pretty things and social polish. Her vanity is tied to disappointment about poverty and the wish to appear elegant.",
+            "key_moments": [
+              "Admitting concern for her looks",
+              "Wanting to look elegant at the party",
+              "Feeling deprived by poverty",
+              "Comparing herself to richer girls"
+            ]
+          },
+          {
+            "phase": "Vanity punished and clarified",
+            "chapter_range": [
+              9,
+              12
+            ],
+            "position_description": "The Moffat-party episode exposes the fragility of social vanity. Flattery, gossip, and embarrassment show how quickly admiration can become humiliation.",
+            "key_moments": [
+              "Fashionable attention at the Moffats",
+              "Gossip and shame",
+              "Laurie’s blunt criticism",
+              "Marmee’s corrective moral framing"
+            ]
+          },
+          {
+            "phase": "Humility internalized",
+            "chapter_range": [
+              13,
+              25
+            ],
+            "position_description": "Meg increasingly accepts modest domestic life as honorable. She learns to value work, gratitude, and a simple home over display or borrowed elegance.",
+            "key_moments": [
+              "Return to useful work",
+              "Lessons in modesty and hidden worth",
+              "Choosing a modest wedding and home",
+              "Feeling gratitude rather than envy"
+            ]
+          },
+          {
+            "phase": "Stable modest maturity",
+            "chapter_range": [
+              26,
+              47
+            ],
+            "position_description": "Vanity is no longer central. Meg still has moments of pride or embarrassment, but they are absorbed into a more mature humility and self-respect.",
+            "key_moments": [
+              "Domestic mistakes and self-reproach",
+              "Learning patience and realism",
+              "Settled maternal life",
+              "Less concern for display"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that Meg’s early concern with appearance is steadily corrected. By the end, she retains grace and femininity, but her worth rests on humility, usefulness, and inner steadiness rather than admiration."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Reality-Wisdom",
+        "axis_name": "From idealized domestic dreaming to realistic household wisdom",
+        "pole_start": "Meg initially imagines comfort, prettiness, and respectable domestic life in idealized terms, as if goodness and elegance should naturally coincide.",
+        "pole_end": "She ends with a realistic understanding that marriage and home require labor, compromise, patience, and imperfect adjustment.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealized domestic longing",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Meg wants a beautiful, orderly, morally pleasing world and often imagines domestic life as something that should be harmonious if one is good enough.",
+            "key_moments": [
+              "Longing for pretty things despite poverty",
+              "Admiring orderly sociability",
+              "Castle-in-the-air of comfort and refinement"
+            ]
+          },
+          {
+            "phase": "Reality checks",
+            "chapter_range": [
+              15,
+              24
+            ],
+            "position_description": "Illness, strain, and courtship expose the limits of her idealism. She learns that duty can be exhausting, romance can be humiliating, and a home is built through work rather than fantasy.",
+            "key_moments": [
+              "Father’s illness and household strain",
+              "Beth’s sickness and caretaking burden",
+              "Prank humiliation over John Brooke",
+              "Learning to value a modest home"
+            ]
+          },
+          {
+            "phase": "Practical domestic maturity",
+            "chapter_range": [
+              28,
+              47
+            ],
+            "position_description": "Meg becomes a realistic wife and mother, aware of money, labor, children, and compromise. Her domestic ideal remains, but it is now grounded in practice.",
+            "key_moments": [
+              "Marriage difficulties and reconciliation",
+              "Managing children and household balance",
+              "Motherhood as daily labor rather than fantasy"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis adds an important nuance: Meg’s growth is not only moral but practical. She learns that domestic happiness is not automatic; it must be built and maintained through work, patience, and realism."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Margaret March",
+        "target_character": "Jo March",
+        "dimension_label": "Sisterly authority",
+        "axis_name": "From corrective elder sister to equal companion",
+        "pole_start": "Meg begins as the more proper, corrective sister: affectionate, but often trying to restrain Jo’s roughness, impulsiveness, and impropriety.",
+        "pole_end": "By the end, the bond is still affectionate but less hierarchical. Meg remains a moral presence, yet Jo’s adulthood makes the relationship more companionate than supervisory.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early correction and friction",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Meg frequently scolds or manages Jo around propriety, appearance, and behavior. Their differences create recurring tension, but also establish Meg’s role as the more polished sister.",
+            "key_moments": [
+              "Trying to restrain Jo’s roughness",
+              "Worrying about Jo’s behavior at parties",
+              "Disagreement over teasing and impropriety"
+            ]
+          },
+          {
+            "phase": "Crisis solidarity",
+            "chapter_range": [
+              15,
+              20
+            ],
+            "position_description": "Family illness and shared labor reduce correction and increase solidarity. Meg admires Jo’s devotion and depends on her as a fellow helper.",
+            "key_moments": [
+              "Jo’s sacrifice during the father’s illness",
+              "Shared anxiety over Beth’s fever",
+              "Working together in household crisis"
+            ]
+          },
+          {
+            "phase": "Adult equality and mutual regard",
+            "chapter_range": [
+              21,
+              47
+            ],
+            "position_description": "As Jo grows into adulthood and independent purpose, Meg’s supervisory role fades. Their bond remains strong, but it becomes more equal, affectionate, and mutually respectful.",
+            "key_moments": [
+              "Jo’s prank and Meg’s hurt",
+              "Meg’s embarrassment over romance and marriage",
+              "Later family gatherings with Jo as an adult",
+              "Mutual admiration across different life paths"
+            ]
+          }
+        ],
+        "evidence_summary": "Meg and Jo move from a sibling dynamic shaped by correction and propriety to one of durable adult affection. The relationship does not erase difference; it matures into respectful equality."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Margaret March",
+        "target_character": "Mrs. March",
+        "dimension_label": "Maternal alignment",
+        "axis_name": "From dutiful daughter to embodied maternal authority",
+        "pole_start": "Meg begins as a loving, obedient daughter who looks to Marmee for moral authority, comfort, and standards of conduct.",
+        "pole_end": "She ends as a woman who still reveres her mother, but now also embodies Marmee’s values herself as a wife and mother, extending the maternal role into her own household.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Obedient daughterhood",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Meg is deeply aligned with her mother’s moral framework and seeks approval around duty, gratitude, and propriety.",
+            "key_moments": [
+              "Marmee’s moral framing",
+              "Accepting lessons on gratitude and modesty",
+              "Confession after the Moffats"
+            ]
+          },
+          {
+            "phase": "Dependence in crisis",
+            "chapter_range": [
+              15,
+              20
+            ],
+            "position_description": "When Marmee is absent, Meg’s dependence becomes explicit. She tries to hold the household together and is relieved by her mother’s return.",
+            "key_moments": [
+              "Managing the house while Marmee is away",
+              "Beth’s illness and need for guidance",
+              "Relief at Marmee’s return"
+            ]
+          },
+          {
+            "phase": "Inheritance and embodiment",
+            "chapter_range": [
+              21,
+              47
+            ],
+            "position_description": "As a wife and mother, Meg increasingly acts from Marmee’s principles on her own: she manages a home, raises children, and uses domestic wisdom as a moral practice.",
+            "key_moments": [
+              "Marriage and housekeeping lessons",
+              "Meg as mother to Demi and Daisy",
+              "Domestic harmony reflecting Marmee’s influence",
+              "Comforting others with gentle authority"
+            ]
+          }
+        ],
+        "evidence_summary": "Meg’s bond with Mrs. March is one of the novel’s most stable lines of inheritance. She moves from daughterly dependence to embodied continuation of Marmee’s domestic and moral authority."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Margaret March",
+        "target_character": "Beth March",
+        "dimension_label": "Protective tenderness",
+        "axis_name": "From affectionate sisterhood to reverent maternal tenderness",
+        "pole_start": "Meg begins with warm, protective affection for Beth, valuing her sweetness and peace-making nature.",
+        "pole_end": "She ends with a more maternal, reverent tenderness toward Beth, especially as illness and death make Beth precious and fragile.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Gentle affection",
+            "chapter_range": [
+              1,
+              12
+            ],
+            "position_description": "Beth is already one of Meg’s most beloved sisters, and Meg responds with admiration, protectiveness, and comfort.",
+            "key_moments": [
+              "Beth’s innocence and sweetness",
+              "Meg’s delight in Beth’s happiness",
+              "Shared domestic harmony"
+            ]
+          },
+          {
+            "phase": "Caretaking and concern",
+            "chapter_range": [
+              17,
+              20
+            ],
+            "position_description": "Beth’s illness transforms Meg’s affection into active care and fear. Meg becomes one of the household’s main attendants and feels the burden of Beth’s vulnerability.",
+            "key_moments": [
+              "Beth’s scarlet fever",
+              "Meg’s guilt and worry",
+              "Tending Beth during the crisis"
+            ]
+          },
+          {
+            "phase": "Reverent grief",
+            "chapter_range": [
+              40,
+              47
+            ],
+            "position_description": "Beth’s decline and death deepen Meg’s tenderness into reverence. Beth becomes a sacred memory and a moral center of the family’s grief and love.",
+            "key_moments": [
+              "Creating Beth’s peaceful room",
+              "Family mourning and remembrance",
+              "Beth’s memory shaping domestic values"
+            ]
+          }
+        ],
+        "evidence_summary": "Meg’s relationship with Beth is consistently loving, but it becomes more protective and reverent as Beth becomes ill and then dies. The arc is less about conflict than about deepening tenderness under the pressure of loss."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Margaret March",
+        "target_character": "John Brooke",
+        "dimension_label": "Courtship trust",
+        "axis_name": "From respectful admiration to committed marital intimacy",
+        "pole_start": "Meg begins with respectful curiosity and appreciation from a distance, then grows into shy admiration and embarrassment as Brooke’s attention becomes personal.",
+        "pole_end": "She ends in secure marital intimacy: affectionate, trusting, and committed, with Brooke integrated into her domestic and emotional life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial respect and attraction",
+            "chapter_range": [
+              2,
+              12
+            ],
+            "position_description": "Meg notices Brooke as kind, well-mannered, and respectable. Her interest is mild and socially filtered at first.",
+            "key_moments": [
+              "Accepting his kindness and manners",
+              "Being flattered by his attention",
+              "Seeing him as a socially pleasing presence"
+            ]
+          },
+          {
+            "phase": "Emerging attachment and embarrassment",
+            "chapter_range": [
+              20,
+              23
+            ],
+            "position_description": "Her feelings become more conscious and emotionally charged. She is pleased by his affection, then humiliated by the prank and forced to confront her attachment.",
+            "key_moments": [
+              "Quietly opening toward his affection",
+              "The forged love-letter prank",
+              "Aunt March’s opposition and Brooke’s confession"
+            ]
+          },
+          {
+            "phase": "Commitment and domestic partnership",
+            "chapter_range": [
+              24,
+              38
+            ],
+            "position_description": "After accepting him, Meg’s relation to Brooke becomes fully intimate and practical. She learns marriage, domestic compromise, and shared household life.",
+            "key_moments": [
+              "Wedding and modest home-making",
+              "Domestic realism and marital adjustment",
+              "Rebalancing the marriage with Marmee’s advice"
+            ]
+          },
+          {
+            "phase": "Stable marital affection",
+            "chapter_range": [
+              39,
+              47
+            ],
+            "position_description": "Brooke is now a settled husband and father within Meg’s life. Their relationship is a mature domestic partnership marked by trust, shared labor, and affection.",
+            "key_moments": [
+              "His support during Beth’s decline",
+              "Family harmony in later chapters",
+              "Meg as wife and mother in a stable household"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Meg’s clearest relational arc. It moves from polite admiration to romantic embarrassment, then to committed marriage and mature domestic intimacy."
+      }
+    ]
+  },
+  "Elizabeth March": {
+    "character": "Elizabeth March",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From shy self-effacement to loving, trusted communion",
+            "set_b_axis": "From self-effacing communion to spiritually grounded selfhood",
+            "overlap_description": "Both describe Beth as fundamentally communion-oriented, with growth occurring not toward independence but toward a more secure, conscious, and meaningful inner life."
+          },
+          {
+            "set_a_axis": "From fearful withdrawal to quiet brave action",
+            "set_b_axis": "From timid composure to serene acceptance",
+            "overlap_description": "Both track Beth's movement from timidity and vulnerability toward a steadier form of courage or composure under pressure, especially in illness and death."
+          },
+          {
+            "set_a_axis": "From believing her wants must be postponed to recognizing her life has value",
+            "set_b_axis": "From unselfconscious modesty to acknowledged inner life",
+            "overlap_description": "Both focus on Beth's growing self-recognition: she comes to name her own needs, pain, and worth rather than remaining wholly self-effacing."
+          },
+          {
+            "set_a_axis": "From anxious hopefulness to peaceful acceptance of loss",
+            "set_b_axis": "From timid composure to serene acceptance",
+            "overlap_description": "Both include Beth's final acceptance of mortality and suffering, though Set B frames it more explicitly as spiritual serenity."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From anxious hopefulness to peaceful acceptance of loss",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From self-effacing communion to spiritually grounded selfhood",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unselfconscious modesty to acknowledged inner life",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From timid composure to serene acceptance",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From affectionate sisterhood to intimate emotional confidante",
+            "set_b_axis": "From gentle sisterly closeness to final confidante bond",
+            "overlap_description": "Both describe Beth and Jo's bond as deepening from warm sisterhood into final confessional intimacy around Beth's dying and emotional truth."
+          },
+          {
+            "set_a_axis": "From obedient daughter to cherished maternal confidante",
+            "set_b_axis": "From loving dependence to protected farewell",
+            "overlap_description": "Both capture Beth's stable but deepening bond with Marmee, emphasizing dependence, trust, and the emotional meaning of separation and care."
+          },
+          {
+            "set_a_axis": "From timid fear to affectionate trust",
+            "set_b_axis": "From cautious friendliness to warm, trusting affection",
+            "overlap_description": "Both identify Beth's relationship with Mr. Laurence as moving from fear or caution to warm trust through his kindness and generosity."
+          },
+          {
+            "set_a_axis": "From shy acquaintance to trusted emotional ally",
+            "set_b_axis": "From cautious friendliness to warm, trusting affection",
+            "overlap_description": "Both treat Beth's bond with Laurie as a gentle, non-romantic affection that becomes more secure, familiar, and emotionally integrated over time."
+          },
+          {
+            "set_a_axis": "From gentle caretaking to mutual admiration",
+            "set_b_axis": "From gentle sisterly closeness to final confidante bond",
+            "overlap_description": "This is not a direct one-to-one match, but Set B's emphasis on Beth's relational centrality and moral exemplarity partially overlaps with Set A's reciprocal esteem between Beth and Amy."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From gentle caretaking to mutual admiration",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From loving dependence to protected farewell",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Communion-Agency",
+        "axis_name": "From self-effacing communion to spiritually grounded selfhood",
+        "pole_start": "Beth begins as deeply communion-oriented: shy, yielding, service-focused, and defined by care, harmony, and domestic duty rather than self-assertion.",
+        "pole_end": "Beth remains communion-oriented, but ends with a clearer, more secure inner self: she can name her pain, recognize her limits, accept her life and death as meaningful, and speak with quiet confidence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early domestic communion",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Beth lives almost entirely on the communion side of the axis. She seeks peace, serves others, and treats her own wishes as secondary, yet her gentleness already carries moral purpose.",
+            "key_moments": [
+              "She frames duty and gratitude through her father's letter and Marmee's teaching.",
+              "She comforts the Hummels and helps sustain family harmony.",
+              "She delights in music and Mr. Laurence's kindness without becoming self-assertive."
+            ]
+          },
+          {
+            "phase": "Communion under strain",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Illness, grief, and caretaking test Beth's relational identity. She continues to serve and preserve order, but now her fragility, self-denial, and quiet endurance become more visible and costly.",
+            "key_moments": [
+              "Father's illness and Marmee's departure intensify her domestic responsibility.",
+              "The Hummel baby episode leads to fever and delirium.",
+              "She longs for the seaside but immediately suppresses her own claim on it."
+            ]
+          },
+          {
+            "phase": "Conscious selfhood within communion",
+            "chapter_range": [
+              32,
+              40
+            ],
+            "position_description": "Beth becomes more inwardly articulate. She recognizes that she is dying, can name her sorrow, and understands that her life has value even without outward ambition or mastery.",
+            "key_moments": [
+              "She tells Jo she has long known she is dying.",
+              "She asks for companionship without false hope.",
+              "She receives Jo's poem as confirmation that her life mattered."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth does not move toward independence in a strong sense; instead, she deepens and clarifies a communion-based identity. The merged evidence shows a shift from shy self-effacement to spiritually grounded selfhood, with greater inner security, self-recognition, and acceptance."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Timidity-Courage",
+        "axis_name": "From fearful withdrawal to quiet brave action",
+        "pole_start": "Beth begins timid, bashful, and easily intimidated by unfamiliar adults, public exposure, and bodily discomfort.",
+        "pole_end": "Beth remains shy, but can act with quiet courage when love, duty, or truth require it, especially in illness and final confession.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Baseline shyness",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Beth is marked by fear of people and a preference for sheltered domestic safety.",
+            "key_moments": [
+              "She names fear of people as one of her burdens.",
+              "She is too bashful to attend school.",
+              "She retreats into homebound routines."
+            ]
+          },
+          {
+            "phase": "First brave openings",
+            "chapter_range": [
+              6,
+              14
+            ],
+            "position_description": "Beth begins to test her fear through small acts of social courage and trust.",
+            "key_moments": [
+              "She approaches and thanks Mr. Laurence.",
+              "She accepts and plays the piano.",
+              "She speaks up in the club and includes Laurie."
+            ]
+          },
+          {
+            "phase": "Courage as endurance",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Her courage becomes less social and more sacrificial: she endures illness, keeps helping, and accepts discomfort without complaint.",
+            "key_moments": [
+              "She continues household duty during Marmee's absence.",
+              "She sings or comforts others through grief.",
+              "She resists claiming the seaside trip as a selfish gift."
+            ]
+          },
+          {
+            "phase": "Courage in truth-telling and acceptance",
+            "chapter_range": [
+              32,
+              40
+            ],
+            "position_description": "Beth's bravest acts are emotional rather than outward: she tells Jo the truth about dying, asks for realistic companionship, and accepts her fate without panic.",
+            "key_moments": [
+              "She confides that she knows she is dying.",
+              "She asks Jo not to hope too much.",
+              "She receives Jo's poem as a final affirmation."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth never becomes bold in an extroverted sense, but she does move from fear-driven withdrawal to quiet, meaningful courage: approaching feared people, speaking honestly, and enduring suffering with composure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Self-Recognition",
+        "axis_name": "From self-effacing modesty to acknowledged inner life",
+        "pole_start": "Beth begins almost entirely unselfconscious: she knows she is shy and dutiful, but she rarely treats her own feelings, pain, or worth as significant.",
+        "pole_end": "Beth ends with a clearer recognition of her own feelings, value, and mortality; she can name her sorrow, her fear of burdening others, and her need for reassurance that her life mattered.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Quiet self-effacement",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Beth understands herself mainly as a helper and peacemaker. She notices longing or hurt, but rarely interprets those feelings as worthy of attention.",
+            "key_moments": [
+              "She accepts chores and hardship without complaint.",
+              "She shows shy delight in music and praise.",
+              "She is briefly hurt by exclusion from Jo's confidences."
+            ]
+          },
+          {
+            "phase": "Growing awareness through suffering",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Illness and family crisis make Beth more aware of her vulnerability. She still suppresses self-focus, but her body and emotions become harder to ignore.",
+            "key_moments": [
+              "She recognizes symptoms and consults Marmee's book.",
+              "She endures delirious illness and recovery.",
+              "She quietly longs for the seaside, then denies herself it."
+            ]
+          },
+          {
+            "phase": "Explicit self-recognition",
+            "chapter_range": [
+              32,
+              40
+            ],
+            "position_description": "Beth becomes able to articulate inward pain and difference from her sisters. She recognizes that she is dying, that her life has not followed the others' paths, and that she needs reassurance that her life has had value.",
+            "key_moments": [
+              "Chapter 32's unnamed heart-pain.",
+              "Her confession to Jo that she knows she is dying.",
+              "Her fear that she has done too little.",
+              "Her relief and self-acceptance in Chapter 40."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth's arc includes a real but quiet movement from self-effacing innocence toward explicit self-recognition. She does not become self-assertive, but she does become more conscious of her own inner life, especially under the pressure of illness and death."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Serenity-Acceptance",
+        "axis_name": "From timid composure to serene acceptance",
+        "pole_start": "Beth begins calm but timid, with a serenity that is real yet vulnerable to fear, bodily discomfort, and social intimidation.",
+        "pole_end": "Beth ends in a deeper, tested serenity: she accepts suffering and death with spiritual peace, gratitude, and trust.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Gentle baseline",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Beth is generally serene, but her calmness is paired with shyness, bodily sensitivity, and occasional overwhelm by disorder or grandeur.",
+            "key_moments": [
+              "Timidity before Mr. Laurence.",
+              "Headaches and physical fragility.",
+              "Small irritation when the household is disorderly."
+            ]
+          },
+          {
+            "phase": "Serenity tested by illness",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Sickness and family crisis strain Beth's composure, but she repeatedly returns to quiet endurance. Her serenity becomes more resilient because it must coexist with fear, grief, and weakness.",
+            "key_moments": [
+              "Father's illness.",
+              "The Hummel baby's death.",
+              "Fever and delirium.",
+              "Recovery and seaside longing."
+            ]
+          },
+          {
+            "phase": "Peaceful resignation",
+            "chapter_range": [
+              36,
+              40
+            ],
+            "position_description": "Beth's serenity becomes explicitly spiritual and final. She no longer merely stays calm; she actively accepts death, comforts others, and experiences peace as a conscious moral state.",
+            "key_moments": [
+              "Telling Jo she knows she is dying.",
+              "Acceptance of her limited life-path.",
+              "Calm gratitude and joy in Chapter 40."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth's emotional arc is quiet but meaningful: her early composure is tested by suffering and then transformed into a more mature serenity grounded in acceptance rather than mere temperament."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Elizabeth March",
+        "target_character": "Jo March",
+        "dimension_label": "Intimacy-Confession",
+        "axis_name": "From affectionate sisterhood to intimate confidante bond",
+        "pole_start": "Warm, loving sisterly closeness, with Beth often in a receptive and supporting role rather than a fully confiding one.",
+        "pole_end": "Deep emotional intimacy in which Beth trusts Jo with her fears, dying, and private self-understanding.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early affectionate support",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Beth loves Jo and supports her, but the bond is mostly expressed through care, comfort, admiration, and shared family life rather than direct confession.",
+            "key_moments": [
+              "She comforts Jo after the hair-burning accident.",
+              "She supports Jo's imaginative ventures.",
+              "She celebrates Jo's printed story."
+            ]
+          },
+          {
+            "phase": "Jo as protector and witness",
+            "chapter_range": [
+              15,
+              30
+            ],
+            "position_description": "As Beth grows weaker, Jo becomes the sister Beth relies on for protection, consolation, and emotional steadiness.",
+            "key_moments": [
+              "Beth leans on Jo during Marmee's absence and illness.",
+              "Beth comforts Jo after disappointment over Amy's trip.",
+              "Beth asks Jo to help her enjoy the remaining time."
+            ]
+          },
+          {
+            "phase": "Confession and legacy",
+            "chapter_range": [
+              32,
+              40
+            ],
+            "position_description": "Their relationship becomes the novel's most intimate sister bond: Beth reveals her knowledge of dying, and Jo becomes the witness who can finally affirm her worth.",
+            "key_moments": [
+              "Beth admits she has long known she is dying.",
+              "She explains her self-silencing and asks Jo not to hope too much.",
+              "She reads Jo's poem and is comforted by it."
+            ]
+          }
+        ],
+        "evidence_summary": "Jo is Beth's primary emotional counterpart. The relationship moves from loving sisterhood to full confessional intimacy, with Beth increasingly trusting Jo to hold her deepest truths."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Elizabeth March",
+        "target_character": "Mrs. March",
+        "dimension_label": "Dependence-Bond",
+        "axis_name": "From loving dependence to protected farewell",
+        "pole_start": "Beth is deeply dependent, trusting, and soothed by her mother; Marmee is the center of home, order, and moral security.",
+        "pole_end": "Beth remains dependent, but the bond becomes a conscious farewell shaped by illness, maternal care, and the knowledge of separation by death.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Stable maternal attachment",
+            "chapter_range": [
+              1,
+              14
+            ],
+            "position_description": "Beth is consistently comforted by Marmee's presence and guidance. She wants to please her mother and aligns herself with her values of kindness, duty, and domestic peace.",
+            "key_moments": [
+              "Beth cherishes Marmee's kindness at Christmas.",
+              "Beth aligns with Marmee's moral framing of duty.",
+              "Beth relies on Marmee as the household's emotional center."
+            ]
+          },
+          {
+            "phase": "Dependence under strain",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "When Marmee leaves for Washington and later returns to care for Beth, the dependence becomes more visible and emotionally charged. Beth tries to keep house so her mother will not worry, showing both attachment and protective concern.",
+            "key_moments": [
+              "Marmee's departure during Mr. March's illness.",
+              "Beth keeping house faithfully.",
+              "Beth's illness and reunion in Marmee's arms."
+            ]
+          },
+          {
+            "phase": "Farewell and spiritual continuation",
+            "chapter_range": [
+              36,
+              40
+            ],
+            "position_description": "Beth remains deeply attached to Marmee, but the relationship now includes the knowledge of separation by death. Beth continues to spare her mother pain and accepts being led home with maternal tenderness still central to her peace.",
+            "key_moments": [
+              "Beth's confession to Jo about dying.",
+              "Beth's concern not to burden Marmee.",
+              "Beth's final calm acceptance in Chapter 40."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth's bond with Marmee is one of the novel's most stable relationships, but its emotional meaning changes from ordinary loving dependence to a protected farewell relationship shaped by illness, maternal care, and impending loss."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Elizabeth March",
+        "target_character": "James Laurence",
+        "dimension_label": "Fear-Trust",
+        "axis_name": "From timid fear to affectionate trust",
+        "pole_start": "Beth is initially frightened of Mr. Laurence and experiences him as a potentially judging adult.",
+        "pole_end": "She trusts him warmly, thanks him directly, and relates to him with familial affection.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial fear",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Beth's fear of Mr. Laurence is strong enough to make his house and attention intimidating.",
+            "key_moments": [
+              "She is afraid to approach him.",
+              "She needs his tactful kindness to feel safe."
+            ]
+          },
+          {
+            "phase": "Kindness dissolves fear",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "His gentle treatment, the piano, and his generosity transform him from a source of dread into a benefactor.",
+            "key_moments": [
+              "She accepts the piano invitation.",
+              "She receives the piano gift and is overwhelmed with gratitude.",
+              "She kisses him and loses fear forever."
+            ]
+          },
+          {
+            "phase": "Familial affection",
+            "chapter_range": [
+              23,
+              23
+            ],
+            "position_description": "Later, their bond is openly warm and protective, with physical closeness and easy companionship.",
+            "key_moments": [
+              "He sits with her and holds her hand.",
+              "Beth appears cheerful and at ease with him."
+            ]
+          }
+        ],
+        "evidence_summary": "This is one of Beth's clearest relational transformations: fear is replaced by trust through repeated acts of tact, generosity, and mutual tenderness."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Elizabeth March",
+        "target_character": "Laurie Laurence",
+        "dimension_label": "Trust-Affection",
+        "axis_name": "From cautious friendliness to warm, trusting affection",
+        "pole_start": "Beth begins with polite, distant friendliness toward Laurie, seeing him as kind but not yet emotionally central.",
+        "pole_end": "Beth ends with warm, trusting affection and a quiet sibling-like bond, firmly non-romantic and integrated into the family circle.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial warmth at a distance",
+            "chapter_range": [
+              5,
+              14
+            ],
+            "position_description": "Beth is pleased by Laurie's kindness, his piano, and his inclusion in family life, but she remains shy and indirect in her regard.",
+            "key_moments": [
+              "Laurie's piano and Beth's musical delight.",
+              "Beth's kittens as a gift to Laurie.",
+              "Laurie's praise of Beth's music."
+            ]
+          },
+          {
+            "phase": "Growing trust and comfort",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Laurie becomes a trusted family friend and a source of practical and emotional support. Beth welcomes him into family play and feels comfortable around him.",
+            "key_moments": [
+              "Laurie's help during Mr. March's illness.",
+              "Beth's inclusion of Laurie in the club and outings.",
+              "Beth's quiet concern when Laurie seems troubled."
+            ]
+          },
+          {
+            "phase": "Sibling-like affection and clarification",
+            "chapter_range": [
+              32,
+              40
+            ],
+            "position_description": "Beth's relationship to Laurie is clarified as affectionate but not romantic. She frames him as a brother while still valuing him warmly as part of the family circle.",
+            "key_moments": [
+              "Chapter 32's emotional confusion around Laurie.",
+              "Beth's clarification that Laurie is 'only a brother' in Chapter 36.",
+              "Continued gratitude toward Laurie in Beth's final illness."
+            ]
+          }
+        ],
+        "evidence_summary": "Beth's bond with Laurie grows from shy appreciation into warm trust, but the late clarification is that her affection is familial rather than romantic. The relationship becomes more secure and emotionally integrated, yet remains modest and non-possessive."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Elizabeth March",
+        "target_character": "Amy March",
+        "dimension_label": "Caretaking-Esteem",
+        "axis_name": "From gentle caretaking to mutual admiration",
+        "pole_start": "Beth begins as Amy's patient helper and protector, especially in reading and emotional distress.",
+        "pole_end": "Amy comes to admire Beth as a moral model, while Beth increasingly respects Amy's capacity for generosity and growth.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Caretaking and protection",
+            "chapter_range": [
+              2,
+              17
+            ],
+            "position_description": "Beth helps Amy with reading, comforts her after humiliation, and worries about her safety during illness.",
+            "key_moments": [
+              "She helps Amy with difficult words.",
+              "She comforts Amy after school humiliation.",
+              "She worries about Amy's exposure to scarlet fever."
+            ]
+          },
+          {
+            "phase": "Beth as moral exemplar",
+            "chapter_range": [
+              20,
+              30
+            ],
+            "position_description": "Amy explicitly names Beth as the standard of selfless goodness, while Beth in turn praises Amy's forgiveness and kindness.",
+            "key_moments": [
+              "Amy compares herself to Beth and calls Beth unselfish.",
+              "Beth praises Amy's conduct at the fair and admires her forgiveness."
+            ]
+          }
+        ],
+        "evidence_summary": "The relationship becomes reciprocal in esteem: Beth remains the caretaker, but Amy increasingly sees her as an ideal, and Beth learns to respect Amy's moral growth."
+      }
+    ]
+  },
+  "Amy March": {
+    "character": "Amy March",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-assertive social striving to interdependent family-centered love",
+            "set_b_axis": "From self-assertive vanity to relationally grounded devotion",
+            "overlap_description": "Both describe Amy's movement from self-display, ambition, and status-seeking toward love, family attachment, and interdependence."
+          },
+          {
+            "set_a_axis": "From ornamental self-regard to morally grounded gentility",
+            "set_b_axis": "From appearance-driven self-regard to morally disciplined self-respect",
+            "overlap_description": "Both track Amy's vanity being moralized into a more inward, disciplined, and ethically grounded sense of gentility or self-respect."
+          },
+          {
+            "set_a_axis": "From defensive pride to humbled self-knowledge",
+            "set_b_axis": "From wounded pride to empathetic concern",
+            "overlap_description": "Both focus on Amy's pride being softened through humiliation, suffering, and moral growth into greater humility and concern for others."
+          },
+          {
+            "set_a_axis": "From practical worldly judgment to morally informed practicality",
+            "set_b_axis": "From decorative aspiration to practical refinement",
+            "overlap_description": "Both describe Amy's practical and aesthetic intelligence becoming more disciplined, ethical, and service-oriented rather than merely status-driven."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-assertive social striving to interdependent family-centered love",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From ornamental self-regard to morally grounded gentility",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From defensive pride to humbled self-knowledge",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From practical worldly judgment to morally informed practicality",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From self-assertive vanity to relationally grounded devotion",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From appearance-driven self-regard to morally disciplined self-respect",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From wounded pride to empathetic concern",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From decorative aspiration to practical refinement",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From sibling antagonism to affectionate mutual respect",
+            "set_b_axis": "From sibling rivalry and retaliation to settled sisterly affection",
+            "overlap_description": "Both capture Amy and Jo moving from conflict, teasing, and retaliation toward durable affection and mutual respect."
+          },
+          {
+            "set_a_axis": "From cautious admiration to romantic mutuality",
+            "set_b_axis": "From social admiration to deep mutual attachment",
+            "overlap_description": "Both describe Amy's relationship with Laurie evolving from admiration and social attraction into romantic love and marriage."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From mild sisterly reliance to reverent devotion and grief",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From receptive daughter to morally trusted daughter",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From humiliating exile to strategic adult approval",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From flattering courtship to rejected worldly match",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From compliant daughter to morally aligned daughter",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency communion",
+        "axis_name": "From self-assertive vanity to relationally grounded devotion",
+        "pole_start": "Amy begins as strongly agency-coded: self-assertive, status-conscious, eager to be admired, and inclined to define herself through elegance, accomplishment, and social distinction.",
+        "pole_end": "Amy ends more communion-coded: affectionate, mutually committed, and oriented toward family, marriage, care, and shared responsibility, while still retaining competence, taste, and self-possession.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Status-conscious self-fashioning",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Amy organizes her selfhood around appearance, refinement, and social recognition. She wants pretty things, fears humiliation, and treats accomplishment and elegance as forms of distinction.",
+            "key_moments": [
+              "Christmas resentment and gift comparison",
+              "School humiliation over the limes",
+              "Admiration of the Laurence house",
+              "Dreams of artistic distinction and Rome"
+            ]
+          },
+          {
+            "phase": "Correction through suffering and family feeling",
+            "chapter_range": [
+              15,
+              22
+            ],
+            "position_description": "Jo's sacrifice, Beth's illness, exile at Aunt March's, and Amy's own remorse push her away from self-display and toward gratitude, prayer, and service. Family love becomes more central than status.",
+            "key_moments": [
+              "Jo cuts and sells her hair",
+              "Aunt March exile and homesickness",
+              "Prayer over Beth",
+              "Giving away treasures and receiving parental praise"
+            ]
+          },
+          {
+            "phase": "Disciplined social selfhood",
+            "chapter_range": [
+              23,
+              31
+            ],
+            "position_description": "Amy remains socially ambitious, but her agency is increasingly regulated by conscience. She still values tact, polish, and success, yet now frames them as part of becoming a useful, morally improved young woman.",
+            "key_moments": [
+              "Failed fête and dignified response",
+              "Social calls and adult approval",
+              "Fair episode and explicit definition of true ladyhood",
+              "European self-cultivation"
+            ]
+          },
+          {
+            "phase": "Relationally grounded maturity",
+            "chapter_range": [
+              37,
+              47
+            ],
+            "position_description": "Amy's selfhood is no longer chiefly about display. Her initiative, judgment, and taste are absorbed into sustaining love, marriage, motherhood, and philanthropic household life.",
+            "key_moments": [
+              "Refusal of Fred Vaughn",
+              "Mutual love with Laurie",
+              "Return home as wife",
+              "Shared charitable purpose and maternal presence at Plumfield"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy's arc is a reorientation rather than a disappearance of agency. She begins by asserting herself through vanity, status, and wounded pride; by the end, her strong selfhood is expressed through mutual devotion, domestic responsibility, and care for others."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "vanity character",
+        "axis_name": "From appearance-driven self-regard to morally disciplined self-respect",
+        "pole_start": "Amy begins governed by vanity, social comparison, and the desire to look elegant and be admired.",
+        "pole_end": "Amy ends valuing character, modesty, usefulness, and self-command more than display, though she never loses her taste for beauty.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Vanity exposed and corrected",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Amy measures herself by clothes, prettiness, and rank. Shame, correction, and public embarrassment expose conceit as a fault rather than a virtue.",
+            "key_moments": [
+              "Father's letter and moral shame",
+              "Gift exchange and longing for elegance",
+              "School punishment for limes",
+              "Marmee's lesson about accomplishments"
+            ]
+          },
+          {
+            "phase": "Partial internalization of modesty",
+            "chapter_range": [
+              8,
+              20
+            ],
+            "position_description": "Amy begins to absorb the lesson that beauty and accomplishment must be governed by humility. Her will, prayers, and ring ritual show active self-discipline rather than mere obedience.",
+            "key_moments": [
+              "Burning Jo's manuscript and remorse",
+              "Aunt March exile and devotional routine",
+              "Making a will and praying for Beth",
+              "Ring as anti-vanity reminder"
+            ]
+          },
+          {
+            "phase": "Character over display",
+            "chapter_range": [
+              22,
+              47
+            ],
+            "position_description": "Amy increasingly presents herself as someone who wants to be good, not merely admired. She explicitly rejects mercenary motives and treats wealth as a means for benevolence rather than self-display.",
+            "key_moments": [
+              "Father's praise that she thinks of others more",
+              "Fair episode and definition of a true lady",
+              "Rejection of Fred Vaughn as a merely practical match",
+              "Married life and charitable use of wealth"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy's aesthetic nature remains intact, but its meaning changes. What begins as vanity becomes disciplined self-respect joined to modesty, kindness, and ethical self-command."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "pride compassion",
+        "axis_name": "From wounded pride to empathetic concern",
+        "pole_start": "Amy is highly sensitive to slights and humiliation, responding with resentment, retaliation, and self-pity.",
+        "pole_end": "Amy becomes more capable of pity, tenderness, and concern for others' suffering, even when she herself is hurt or disappointed.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Pride wounded into retaliation",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "Humiliation and exclusion provoke anger and revenge. Amy's emotional life is dominated by injury to pride, and she acts destructively when she feels slighted.",
+            "key_moments": [
+              "Mortification over the purple dress",
+              "Public punishment for limes",
+              "Burning Jo's manuscript",
+              "Fear and remorse after the skating accident"
+            ]
+          },
+          {
+            "phase": "Pride disciplined by suffering",
+            "chapter_range": [
+              17,
+              22
+            ],
+            "position_description": "Exile at Aunt March's and Beth's illness shift Amy from self-protective pride toward homesickness, guilt, and affectionate concern. She begins to imagine service as more important than being treated well.",
+            "key_moments": [
+              "Resistance to being sent away",
+              "Homesickness and regret over neglected service to Beth",
+              "Will-making and prayer for Beth's life",
+              "Return home and gratitude"
+            ]
+          },
+          {
+            "phase": "Compassionate maturity",
+            "chapter_range": [
+              39,
+              47
+            ],
+            "position_description": "Amy's concern for Laurie and grief over Beth show a more mature emotional range. Pride is no longer the dominant force; tenderness and sympathy are central.",
+            "key_moments": [
+              "Reading Laurie's sadness and trying to rouse him",
+              "Grieving Beth while comforting herself with Laurie",
+              "Marriage and shared domestic life",
+              "Maternal anxiety over her frail child"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy never becomes unproud, but she becomes much less ruled by wounded vanity. Her later emotional life is marked by real sympathy, especially toward Beth and Laurie, showing a significant widening of feeling."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "aesthetic pragmatic",
+        "axis_name": "From decorative aspiration to practical refinement",
+        "pole_start": "Amy begins as someone who loves prettiness, elegance, and artistic distinction mainly as forms of display and aspiration.",
+        "pole_end": "Amy ends as someone who still loves beauty, but understands it as something to be practiced with discipline, usefulness, and moral purpose.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Beauty as status",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Amy's attraction to beauty is tied to social rank, prettiness, and the wish to be admired. Her artistic side is real, but still entangled with vanity and distinction-seeking.",
+            "key_moments": [
+              "Obsession with pretty things and elegant gifts",
+              "Admiration of the Laurence house and piano",
+              "Sketching and dreaming of Rome"
+            ]
+          },
+          {
+            "phase": "Beauty as discipline",
+            "chapter_range": [
+              26,
+              31
+            ],
+            "position_description": "Her art ambitions are tested by failure and travel. She learns that refinement requires tact, persistence, realism, and prudence, not just aspiration.",
+            "key_moments": [
+              "Failed artistic luncheon",
+              "Advice about commercial realism in Jo's writing",
+              "Europe, sketchbooks, and self-conscious art education",
+              "Admission that she hates poverty and wants secure comfort"
+            ]
+          },
+          {
+            "phase": "Beauty serving love and home",
+            "chapter_range": [
+              42,
+              47
+            ],
+            "position_description": "In marriage and motherhood, beauty becomes domestic and humane rather than merely ornamental. Amy's artistic gifts persist, but they are integrated into family life, memory, and care.",
+            "key_moments": [
+              "Engagement and marital devotion",
+              "Serene married domesticity",
+              "Modeling her child in clay",
+              "Tender household happiness shaded by vulnerability"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy never stops loving beauty, but the meaning of beauty changes. It begins as social ornament and ends as a disciplined, humane practice embedded in domestic and moral life."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Amy March",
+        "target_character": "Jo March",
+        "dimension_label": "rivalry reconciliation",
+        "axis_name": "From sibling rivalry and retaliation to settled sisterly affection",
+        "pole_start": "Amy begins in a mixed but often antagonistic relation to Jo: she is irritated by Jo's roughness, feels mocked by her, and at one point retaliates by burning Jo's manuscript.",
+        "pole_end": "Amy ends in a stable, affectionate, and reconciled sisterhood with Jo, marked by mutual respect, emotional security, and no active rivalry.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Teasing rivalry",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Amy and Jo are close siblings but frequently clash. Amy feels aesthetically and morally superior at times, while Jo's teasing and roughness provoke Amy's defensiveness.",
+            "key_moments": [
+              "Argument over slang and boyishness",
+              "Amy's sensitivity to Jo's judgment",
+              "Jo's laughter at Amy's social pretensions"
+            ]
+          },
+          {
+            "phase": "Open rupture and partial repair",
+            "chapter_range": [
+              8,
+              20
+            ],
+            "position_description": "The manuscript-burning episode is the peak of hostility, but it is followed by remorse, rescue, and reconciliation. Later chapters show rivalry cooling into a more manageable sisterly difference.",
+            "key_moments": [
+              "Burning Jo's manuscript",
+              "Jo's furious response and Amy's fear",
+              "Reconciliation after the skating accident",
+              "Amy's will including an apology-gift to Jo"
+            ]
+          },
+          {
+            "phase": "Mature sisterly bond",
+            "chapter_range": [
+              22,
+              47
+            ],
+            "position_description": "Amy and Jo remain different in temperament, but the relationship becomes secure and affectionate. Amy can tease Jo, advise her, and later support her happiness without the old bitterness.",
+            "key_moments": [
+              "Shared family celebrations and social management",
+              "Amy's practical advice about Jo's writing",
+              "Amy's concern for Laurie after Jo's heartbreak",
+              "Final family harmony in marriage and reunion"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy's relationship with Jo moves from rivalry to reconciliation. The conflict never disappears entirely, but it loses its destructive force and becomes part of a durable sisterly intimacy."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Amy March",
+        "target_character": "Laurie Laurence",
+        "dimension_label": "admiration intimacy",
+        "axis_name": "From social admiration to deep mutual attachment",
+        "pole_start": "Amy first relates to Laurie as a charming, refined, socially desirable figure who belongs to the elegant world she admires.",
+        "pole_end": "Amy ends in a loving marriage with Laurie, marked by trust, intimacy, and mutual emotional dependence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Refined admiration",
+            "chapter_range": [
+              5,
+              19
+            ],
+            "position_description": "Laurie is initially a figure of elegance, hospitality, and social charm. Amy admires him, enjoys his attention, and uses him as a standard of polished distinction.",
+            "key_moments": [
+              "Interest in the Laurence house and its cultured world",
+              "Laurie as comfort during Aunt March exile",
+              "Amy's admiration of his accomplishments and elegance"
+            ]
+          },
+          {
+            "phase": "Growing emotional reliance",
+            "chapter_range": [
+              20,
+              31
+            ],
+            "position_description": "Laurie becomes more than a social ornament: he is a confidant, a supporter, and eventually a possible husband. Amy's feelings become more serious, though still mixed with prudence and self-consciousness.",
+            "key_moments": [
+              "Laurie's help in bringing her home",
+              "Europe and Fred Vaughn as a competing practical match",
+              "Amy's recognition that she no longer wants a mercenary marriage"
+            ]
+          },
+          {
+            "phase": "Romantic fulfillment",
+            "chapter_range": [
+              37,
+              47
+            ],
+            "position_description": "Amy's relation to Laurie becomes openly romantic and then marital. She is pleased by his attention, hurt by his distance, comforted by his return, and finally settled into affectionate domestic partnership.",
+            "key_moments": [
+              "Ballroom tension and renewed admiration",
+              "Laurie's heartbreak over Jo and Amy's compassionate response",
+              "Engagement and mutual devotion",
+              "Married life and shared care for their child"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy's bond with Laurie is one of the novel's clearest relational arcs: admiration becomes dependence, then mutual love, and finally marriage. The relationship also mirrors her own shift from social aspiration to emotional maturity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Amy March",
+        "target_character": "Beth March",
+        "dimension_label": "devotion grief",
+        "axis_name": "From underappreciation to reverent devotion and grief",
+        "pole_start": "Amy begins with ordinary sibling closeness but limited appreciation; Beth is valued, yet Amy often takes her quiet labor for granted.",
+        "pole_end": "Amy ends with deep reverence, gratitude, and mourning, with Beth becoming a moral and emotional ideal that shapes her tenderness and domestic seriousness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Ordinary affection with underappreciation",
+            "chapter_range": [
+              6,
+              18
+            ],
+            "position_description": "Amy is fond of Beth but does not yet fully register her as a moral center. Beth's goodness is present in the family atmosphere more than in Amy's explicit self-understanding.",
+            "key_moments": [
+              "Beth's piano gift and family pride",
+              "Amy regrets Beth's quiet service"
+            ]
+          },
+          {
+            "phase": "Beth as moral model",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Beth's illness and possible loss transform Amy's feelings into devotion. Amy prays for Beth, uses Beth as a model of unselfishness, and gives away possessions in response.",
+            "key_moments": [
+              "Prayer over Beth's possible death",
+              "Ring as reminder to be less selfish and more like Beth",
+              "Christmas generosity"
+            ]
+          },
+          {
+            "phase": "Mourning and memory",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "Beth's death leaves Amy with lasting grief and reverence. Beth becomes a memory that shapes Amy's homecoming, tenderness, and maternal seriousness.",
+            "key_moments": [
+              "News of Beth's death",
+              "Amy sings Beth's songs at home",
+              "Nurturing role at Plumfield"
+            ]
+          }
+        ],
+        "evidence_summary": "Beth is the sister who most clearly moralizes Amy's development. Amy moves from taking Beth's goodness for granted to treating her as a sacred model and a permanent emotional absence."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Amy March",
+        "target_character": "Mrs. March",
+        "dimension_label": "obedience internalization",
+        "axis_name": "From compliant daughter to morally aligned daughter",
+        "pole_start": "Amy begins as a child who obeys Marmee, but often only after being corrected, shamed, or supervised.",
+        "pole_end": "Amy ends as a daughter whose values are deeply aligned with Marmee's, especially regarding self-command, love, and the ethical use of wealth and talent.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "External correction",
+            "chapter_range": [
+              1,
+              7
+            ],
+            "position_description": "Marmee's authority matters to Amy, but Amy still needs correction. She responds to moral lessons from above rather than fully generating them herself.",
+            "key_moments": [
+              "Father's letter and family ethic",
+              "Marmee's gratitude lesson",
+              "Marmee's correction after the school disgrace"
+            ]
+          },
+          {
+            "phase": "Private moral practice",
+            "chapter_range": [
+              17,
+              20
+            ],
+            "position_description": "Amy begins to internalize Marmee's teachings through prayer, will-making, and self-discipline. She is no longer merely obeying; she is trying to become the kind of person Marmee wants her to be.",
+            "key_moments": [
+              "Aunt March exile and devotional routine",
+              "Will and prayer for Beth",
+              "Ring as anti-vanity reminder"
+            ]
+          },
+          {
+            "phase": "Shared moral adulthood",
+            "chapter_range": [
+              22,
+              47
+            ],
+            "position_description": "Amy and Marmee are now aligned in outlook. Amy seeks her mother's approval, accepts her guidance, and later embodies the same domestic, charitable, and emotionally intelligent values in marriage and motherhood.",
+            "key_moments": [
+              "Father's praise of her self-forgetfulness",
+              "Fair episode and definition of a true lady",
+              "Marriage and benevolent use of wealth",
+              "Motherhood under Marmee's continuing influence"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy's relation to Marmee evolves from obedience to internalization. Marmee remains the moral center, but Amy increasingly carries that center within herself."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Amy March",
+        "target_character": "Aunt March",
+        "dimension_label": "dread esteem",
+        "axis_name": "From humiliating exile to strategic adult approval",
+        "pole_start": "Amy begins with fear, resentment, and humiliation at being sent to Aunt March's harsh care.",
+        "pole_end": "Amy ends with Amy winning Aunt March's esteem and using that approval as evidence of her maturity and social promise.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Alienating exile",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "Amy experiences Aunt March as cold, punitive, and lonely. The relationship is defined by dread and the loss of home.",
+            "key_moments": [
+              "Forced move to Aunt March's house",
+              "Bleak first arrival"
+            ]
+          },
+          {
+            "phase": "Instrumental respect",
+            "chapter_range": [
+              20,
+              29
+            ],
+            "position_description": "Amy begins to treat Aunt March's gift and approval as something she can convert into moral and social capital. She learns to perform gratitude and composure effectively.",
+            "key_moments": [
+              "Ring repurposed as moral symbol",
+              "Christmas praise",
+              "Gracious behavior at Aunt March's house"
+            ]
+          },
+          {
+            "phase": "Earned favor",
+            "chapter_range": [
+              29,
+              30
+            ],
+            "position_description": "Amy is praised as the more promising niece and is visibly rewarded for tact, gratitude, and self-command. Aunt March's esteem becomes a marker of Amy's social success.",
+            "key_moments": [
+              "Aunt March praises Amy",
+              "Fair conflict and Amy's dignified response"
+            ]
+          }
+        ],
+        "evidence_summary": "Aunt March begins as a source of punishment and loneliness, but Amy learns to navigate her successfully. The relationship shifts from dread to a form of strategic esteem."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Amy March",
+        "target_character": "Fred Vaughn",
+        "dimension_label": "flirtation sincerity",
+        "axis_name": "From flattering courtship to rejected worldly match",
+        "pole_start": "Amy begins in a socially flattering courtship that confirms her desirability and worldly prospects.",
+        "pole_end": "Amy ends by rejecting Fred once she recognizes that money and position are not enough for marriage.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Flattering attachment",
+            "chapter_range": [
+              31,
+              37
+            ],
+            "position_description": "Fred's attention flatters Amy and confirms her social value. She enjoys the admiration and the possibility of a suitable match.",
+            "key_moments": [
+              "First acquaintance in London",
+              "Fred's jealousy",
+              "Renewed attention and courtship atmosphere"
+            ]
+          },
+          {
+            "phase": "Moral rejection",
+            "chapter_range": [
+              41,
+              42
+            ],
+            "position_description": "Amy refuses Fred's proposal, realizing that wealth and status do not satisfy her deeper emotional needs. The relationship closes as a serious marriage option.",
+            "key_moments": [
+              "Refusal of Fred Vaughn",
+              "Retrospective validation of that refusal"
+            ]
+          }
+        ],
+        "evidence_summary": "Fred functions as the worldly alternative to Laurie. Amy's rejection of him marks an important moral and emotional correction in her understanding of marriage."
+      }
+    ]
+  },
+  "Theodore Laurence": {
+    "character": "Theodore Laurence",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From lonely self-protection to relationally grounded stewardship",
+            "set_b_axis": "From lonely self-assertion to relational belonging",
+            "overlap_description": "Both describe Laurie moving from isolation, guardedness, and self-containment toward a socially integrated identity rooted in care, belonging, and interdependence."
+          },
+          {
+            "set_a_axis": "From aimless indulgence to disciplined usefulness",
+            "set_b_axis": "From idle impulsiveness to steady self-command",
+            "overlap_description": "Both track Laurie’s movement away from idleness, drift, and playful self-indulgence toward discipline, purpose, and responsible action."
+          },
+          {
+            "set_a_axis": "From singular romantic fixation to mature reciprocal love",
+            "set_b_axis": "From romantic fantasy to emotionally truthful love",
+            "overlap_description": "Both capture the shift from Jo-centered idealization and romantic fantasy to a more mature, reciprocal, reality-based love with Amy."
+          },
+          {
+            "set_a_axis": "From defensive pride to chastened self-knowledge",
+            "set_b_axis": "From playful charm to ethical responsibility",
+            "overlap_description": "These are not identical, but they overlap in the later-stage moral maturation of Laurie: he becomes more self-aware, receptive to correction, and ethically serious."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From defensive pride to chastened self-knowledge",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From playful charm to ethical responsibility",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From playful intimacy to relinquished love",
+            "set_b_axis": "From playful fascination to transformed lifelong affection",
+            "overlap_description": "Both describe the Jo relationship as moving from intimate youthful closeness through romantic loss to a stable, non-possessive post-romantic bond."
+          },
+          {
+            "set_a_axis": "From family friend to chosen partner",
+            "set_b_axis": "From teasing acquaintance to chosen life partner",
+            "overlap_description": "Both describe Amy’s relationship with Laurie as evolving from warm familiarity and admiration into marriage and adult partnership."
+          },
+          {
+            "set_a_axis": "From wary obedience to mutual dependence",
+            "set_b_axis": "From sheltered grandson to dutiful companion",
+            "overlap_description": "Both track the grandfather-grandson bond from constraint and dependence toward mutual respect, duty, and aligned responsibility."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From neighboring outsider to quasi-family member",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From sheltered grandson to dutiful companion",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency communion",
+        "axis_name": "From lonely self-assertion to relational belonging",
+        "pole_start": "Starts as a shy, isolated boy whose selfhood is marked by confinement, boredom, and guarded separateness; his agency is expressed more as self-containment than confident mastery.",
+        "pole_end": "Ends as a socially integrated, emotionally settled man whose identity is grounded in family belonging, interdependence, and generous participation in others' lives, while retaining adult self-command.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Isolated observer",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "He begins lonely, bashful, and watchful, drawn toward the Marches but still separated from them. His desire for contact is present, but it is filtered through distance and self-protection.",
+            "key_moments": [
+              "Curious interest in the March family and Jo",
+              "Shyness in the curtained recess",
+              "Loneliness and boredom in his sickroom"
+            ]
+          },
+          {
+            "phase": "Belonging through friendship and service",
+            "chapter_range": [
+              6,
+              20
+            ],
+            "position_description": "He moves toward communion by seeking the March household, helping in crises, and becoming emotionally nourished by their company. His agency increasingly takes the form of stewardship rather than separation.",
+            "key_moments": [
+              "Supports Beth's piano access",
+              "Jo's companionship revives him",
+              "Becomes a regular, trusted presence in the March home",
+              "Helps during Mrs. March's absence and Beth's illness"
+            ]
+          },
+          {
+            "phase": "Adolescent strain and wounded reorientation",
+            "chapter_range": [
+              21,
+              39
+            ],
+            "position_description": "His communion is tested by pride, rejection, and grief. He briefly reasserts himself through wounded withdrawal, but criticism and crisis redirect him toward maturity and responsibility.",
+            "key_moments": [
+              "Prank and quarrel with Mr. Laurence",
+              "Jo's rejection and heartbreak",
+              "Amy's criticism and moral correction",
+              "Return to duty and practical usefulness"
+            ]
+          },
+          {
+            "phase": "Mature integration",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "He settles into adult communion through marriage, family life, and philanthropic usefulness. His identity is no longer organized around proving himself or escaping constraint, but around sustaining others.",
+            "key_moments": [
+              "Marriage to Amy",
+              "Domestic life with children",
+              "Support of Jo's school and family circle"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s arc moves decisively from isolation and guarded selfhood toward relational belonging. Both analyses agree that his growth is not a loss of agency but its reorientation into care, family, and shared life."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "self discipline",
+        "axis_name": "From idle impulsiveness to steady self-command",
+        "pole_start": "Begins as restless, charming, and prone to drift, with comfort and amusement often substituting for purpose.",
+        "pole_end": "Ends as a serious, industrious, and self-regulating adult who values work, restraint, and the responsible use of time and wealth.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Playful idleness",
+            "chapter_range": [
+              5,
+              14
+            ],
+            "position_description": "He enjoys companionship, music, games, and social ease, but his energy is undirected. He recognizes his own idleness only intermittently.",
+            "key_moments": [
+              "Lonely sickroom boredom",
+              "Club games and social play",
+              "Awareness of the March girls' industry"
+            ]
+          },
+          {
+            "phase": "Conscience and correction",
+            "chapter_range": [
+              13,
+              22
+            ],
+            "position_description": "Crisis and criticism force him to see his laziness and temper more clearly. He learns that his value lies in practical service, not just charm or leisure.",
+            "key_moments": [
+              "Self-disgust after idleness",
+              "Beth's illness and his practical helpfulness",
+              "Amy's frank lecture about his drifting",
+              "Sustained usefulness during family emergencies"
+            ]
+          },
+          {
+            "phase": "Reform and settled purpose",
+            "chapter_range": [
+              33,
+              47
+            ],
+            "position_description": "He becomes more disciplined, seeking real work and living with greater restraint. His self-command is not perfect, but it is stable and sincere.",
+            "key_moments": [
+              "Jo's letters describe him as improved",
+              "He admits he is not a genius composer",
+              "He turns toward business and practical usefulness",
+              "He acts as a steady husband and benefactor"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie clearly changes from a charmingly idle youth into a more disciplined adult. The combined evidence emphasizes both crisis-driven correction and later, durable self-command."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "romantic maturity",
+        "axis_name": "From romantic fantasy to emotionally truthful love",
+        "pole_start": "Begins with idealized longing, especially toward Jo, and a tendency to dramatize feeling before fully understanding his own desire.",
+        "pole_end": "Ends with a realistic understanding of love as reciprocal, transformed, and compatible with duty; he accepts Amy as his true partner and treats his love for Jo as a completed youthful phase.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealizing attachment",
+            "chapter_range": [
+              2,
+              24
+            ],
+            "position_description": "He is deeply drawn to Jo and the March family, but his feelings remain playful, half-articulated, and romanticized. He does not yet fully understand the shape of his own desire.",
+            "key_moments": [
+              "Early fascination with Jo",
+              "Teasing intimacy and special attention",
+              "Growing emotional dependence on the March household"
+            ]
+          },
+          {
+            "phase": "Romantic collapse",
+            "chapter_range": [
+              35,
+              39
+            ],
+            "position_description": "Jo's refusal breaks the fantasy and forces him into grief, pride, and self-questioning. The old romantic story can no longer hold.",
+            "key_moments": [
+              "Jo rejects his proposal",
+              "He leaves in heartbreak",
+              "Amy's criticism begins to reorient him"
+            ]
+          },
+          {
+            "phase": "Revised love",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "He recognizes that his love for Jo has become non-romantic and that Amy is the woman who truly matches him. Love becomes mutual, adult, and grounded in shared values.",
+            "key_moments": [
+              "He acknowledges his first love was boyish",
+              "He and Amy reach mutual understanding",
+              "Marriage and reunion with Jo"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s emotional life shifts from idealized, youthful longing to mature, reciprocal love. The arc is less about replacing one person than about learning what love can realistically be."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "moral seriousness",
+        "axis_name": "From playful charm to ethical responsibility",
+        "pole_start": "Starts as a witty, affectionate boy whose goodness is real but mostly expressed through charm, fun, and spontaneous kindness.",
+        "pole_end": "Ends as a morally serious adult who thinks in terms of duty, usefulness, charity, and the responsible use of wealth and influence.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Kindly playfulness",
+            "chapter_range": [
+              3,
+              12
+            ],
+            "position_description": "He is generous and helpful, but his goodness is mostly social and immediate: flowers, music, parties, and companionship.",
+            "key_moments": [
+              "Offers the carriage and helps the March girls",
+              "Hosts the club and pleasure party",
+              "Supports Beth's music and the family's cheer"
+            ]
+          },
+          {
+            "phase": "Conscience under pressure",
+            "chapter_range": [
+              13,
+              21
+            ],
+            "position_description": "Crisis makes his moral instincts more explicit. He feels responsible for his grandfather, acts decisively in emergencies, and begins to see that his behavior matters beyond amusement.",
+            "key_moments": [
+              "Chooses to stay with Mr. Laurence",
+              "Telegraphs for Mrs. March",
+              "Comforts Jo and Amy during Beth's illness"
+            ]
+          },
+          {
+            "phase": "Charitable adulthood",
+            "chapter_range": [
+              44,
+              47
+            ],
+            "position_description": "He now thinks in terms of discreet beneficence and practical support for others. Wealth becomes a tool for moral action rather than display.",
+            "key_moments": [
+              "Plans to use money for deserving people",
+              "Supports Jo's school and needy boys",
+              "Acts as a responsible husband and patron"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s kindness is present from the start, but it becomes more explicitly ethical over time. He moves from charming generosity to a conscious, duty-based moral outlook."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Theodore Laurence",
+        "target_character": "Jo March",
+        "dimension_label": "romantic friendship",
+        "axis_name": "From playful fascination to transformed lifelong affection",
+        "pole_start": "Begins as bashful attraction and intense companionship, with Jo as the person who most fully awakens his sense of ease, admiration, and romantic possibility.",
+        "pole_end": "Ends as affectionate, non-possessive friendship and mature gratitude, with the romantic charge transformed into stable family-like love.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early fascination",
+            "chapter_range": [
+              2,
+              14
+            ],
+            "position_description": "He is drawn to Jo's frankness, wit, and energy; their bond is playful, intimate, and emotionally central to his life.",
+            "key_moments": [
+              "First easy conversations and dancing",
+              "Shared teasing and club life",
+              "Special attention to Jo's moods and talents"
+            ]
+          },
+          {
+            "phase": "Deepened attachment",
+            "chapter_range": [
+              15,
+              34
+            ],
+            "position_description": "He remains her closest companion and confidant, but the bond becomes more emotionally loaded as he matures and she becomes more independent.",
+            "key_moments": [
+              "Supports her during family crises",
+              "Teases her about marriage and writing",
+              "Jo continues to treat him as her best friend"
+            ]
+          },
+          {
+            "phase": "Romantic rupture",
+            "chapter_range": [
+              35,
+              39
+            ],
+            "position_description": "His proposal is refused, producing heartbreak, wounded pride, and a temporary emotional withdrawal.",
+            "key_moments": [
+              "Jo rejects his love",
+              "He leaves in grief",
+              "Amy's criticism helps him recover"
+            ]
+          },
+          {
+            "phase": "Transformed affection",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "He no longer seeks Jo romantically; instead, he loves her as family and friend, with warmth, respect, and no jealousy.",
+            "key_moments": [
+              "Acknowledges his love has changed",
+              "Returns as Amy's husband",
+              "Supports Jo's happiness and school"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s most important relationship arc moves from intimate youthful attraction to painful rejection and finally to a stable, affectionate, non-romantic bond."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Theodore Laurence",
+        "target_character": "Amy March",
+        "dimension_label": "romantic partnership",
+        "axis_name": "From teasing acquaintance to chosen life partner",
+        "pole_start": "Begins as friendly amusement and mild affection, with Amy part of the March circle but not his primary emotional focus.",
+        "pole_end": "Ends as deep romantic commitment and marital partnership, with Amy as his chosen companion and equal.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Light familiarity",
+            "chapter_range": [
+              6,
+              24
+            ],
+            "position_description": "He treats Amy as a pleasant, clever, and amusing member of the family circle, with no major romantic emphasis.",
+            "key_moments": [
+              "Friendly teasing and club participation",
+              "Protective help during crises",
+              "Witty exchanges around family events"
+            ]
+          },
+          {
+            "phase": "Renewed attention",
+            "chapter_range": [
+              30,
+              39
+            ],
+            "position_description": "Amy becomes more visible as a young woman of substance; he is drawn to her maturity, wit, and social intelligence, especially after his emotional collapse over Jo.",
+            "key_moments": [
+              "Amy's letters and company revive him",
+              "Amy lectures him into self-awareness",
+              "He begins to see her as a woman, not a child"
+            ]
+          },
+          {
+            "phase": "Mutual love and marriage",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "Their relationship becomes openly romantic and then settled in marriage, marked by mutual respect, shared values, and domestic contentment.",
+            "key_moments": [
+              "He realizes his love for Jo has faded",
+              "He and Amy understand each other clearly",
+              "Marriage and later domestic partnership"
+            ]
+          }
+        ],
+        "evidence_summary": "Amy’s relationship with Laurie evolves from friendly teasing into a mature, reciprocal marriage grounded in shared discipline and affection."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Theodore Laurence",
+        "target_character": "Mr. Laurence",
+        "dimension_label": "duty trust",
+        "axis_name": "From sheltered grandson to dutiful companion",
+        "pole_start": "Begins as a somewhat confined, dependent boy who chafes under his grandfather's authority and feels trapped by his life.",
+        "pole_end": "Ends as a grateful, responsible adult who respects his grandfather, accepts duty, and remains emotionally aligned with him.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Chafing dependence",
+            "chapter_range": [
+              5,
+              13
+            ],
+            "position_description": "He is bored, rebellious, and occasionally resentful of the restrictions of home and business life.",
+            "key_moments": [
+              "Idle frustration in the sickroom",
+              "Desire to escape to freedom",
+              "Quarrel after the prank"
+            ]
+          },
+          {
+            "phase": "Duty recognized",
+            "chapter_range": [
+              13,
+              21
+            ],
+            "position_description": "He sees his grandfather's loneliness and dependence more clearly and begins to feel morally responsible for him.",
+            "key_moments": [
+              "Decides to stay with Mr. Laurence",
+              "Feels shame after conflict",
+              "Accepts reconciliation and obligation"
+            ]
+          },
+          {
+            "phase": "Adult alignment",
+            "chapter_range": [
+              33,
+              47
+            ],
+            "position_description": "He becomes more disciplined and socially mature, living in a way that honors his grandfather's care and expectations.",
+            "key_moments": [
+              "Jo's letters describe him as improved",
+              "He studies and works seriously",
+              "He remains a respectful, affectionate grandson"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s bond with Mr. Laurence changes from resistance and dependence toward dutiful companionship and mutual respect."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Theodore Laurence",
+        "target_character": "March family",
+        "dimension_label": "family belonging",
+        "axis_name": "From neighboring outsider to quasi-family member",
+        "pole_start": "Starts as a curious neighbor and occasional visitor who longs for the warmth he sees from outside.",
+        "pole_end": "Ends as an integrated family member in all but name, trusted in crises, welcomed in rituals, and included in the household's emotional and practical life.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Curiosity and longing from outside",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "The Marches are initially a source of fascination and emotional hunger. He watches them, receives their kindness indirectly, and begins to want entry into their world.",
+            "key_moments": [
+              "Watching the March household",
+              "Receiving their kindness indirectly",
+              "Longing for warmth and companionship"
+            ]
+          },
+          {
+            "phase": "Active incorporation through service",
+            "chapter_range": [
+              6,
+              24
+            ],
+            "position_description": "Through gifts, rescues, shared games, and crisis support, he becomes a regular and valued presence in the household.",
+            "key_moments": [
+              "Gifts and music",
+              "Rescues and practical help",
+              "Shared games and visits",
+              "Trusted in family emergencies"
+            ]
+          },
+          {
+            "phase": "Marriage and full incorporation",
+            "chapter_range": [
+              41,
+              47
+            ],
+            "position_description": "His marriage to Amy completes his transition from guest to kin. He is now part of the family not by proximity alone but by permanent relational membership.",
+            "key_moments": [
+              "Marriage to Amy",
+              "Domestic inclusion",
+              "Participation in family life"
+            ]
+          }
+        ],
+        "evidence_summary": "Laurie’s arc with the March family is one of progressive belonging. He moves from longing at the threshold to full participation in their domestic and emotional life."
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+[project]
+name = "arcane"
+version = "1.0.0"
+description = "ArcANE: Arc-Aware Narrative Evaluation — benchmark + training pipeline for role-playing language agents"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+dependencies = [
+    "openai>=1.50.0",
+    "python-dotenv>=1.0.0",
+    "numpy>=1.24.0,<2.3",          # vllm 0.10.0 → numba → NumPy<=2.2 (do not widen)
+    "matplotlib>=3.7.0",
+    "pydantic>=2.0.0",
+    "httpx>=0.27.0",
+]
+
+# Optional extras
+[project.optional-dependencies]
+serving = ["vllm>=0.10.0"]
+dev     = ["pytest>=9.0.3"]
+
+[build-system]
+requires      = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build]
+exclude = [
+    "/data/novels/*",
+    "!/data/novels/README.md",
+    "**/chapters/**",
+    "**/.venv/**",
+    "**/.conda/**",
+    "**/__pycache__/**",
+    "**/.pytest_cache/**",
+    "**/.ruff_cache/**",
+    "**/.DS_Store",
+    "**/.env",
+    "**/.env.*",
+    "!**/.env.example",
+    "**/third_party/**",
+    "/training/**/outputs/**",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = [
+    "arc_construction",
+    "probe_generation",
+    "inference",
+    "evaluation",
+    "analysis",
+]
+
+[tool.hatch.build.targets.wheel.force-include]
+"hf_release_manifest.json" = "hf_release_manifest.json"

@@ -1,0 +1,564 @@
+{
+  "character": "Robert Audley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From languid detachment to duty-bound relational commitment",
+          "set_b_axis": "From languid detachment to relationally committed agency",
+          "overlap_description": "Both describe Robert's movement from idle, socially easy passivity toward active, responsibility-driven agency exercised in service of others."
+        },
+        {
+          "set_a_axis": "From amused bystander to burdened caretaker",
+          "set_b_axis": "From ironic detachment to duty-bound moral seriousness",
+          "overlap_description": "Both track the shift from detached amusement to felt obligation, where Robert comes to experience others' welfare as his moral burden."
+        },
+        {
+          "set_a_axis": "From casual skepticism to burdened but tested conviction",
+          "set_b_axis": "From flippant composure to controlled intensity",
+          "overlap_description": "Both capture Robert's emotional and cognitive deepening under pressure: he moves from joking evasiveness to serious, disciplined engagement with truth and danger."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From harmless wit to stern moral judgment",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From self-dismissive idleness to recognized competence",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From casual companionship to sacrificial loyalty",
+          "set_b_axis": "From easy friendship to devoted guardianship",
+          "overlap_description": "Both describe George as the central bond that transforms Robert from a warm companion into a protective, duty-bound guardian."
+        },
+        {
+          "set_a_axis": "From fascinated acquaintance to adversarial exposure",
+          "set_b_axis": "From aesthetic fascination to moral hostility",
+          "overlap_description": "Both trace the same reversal: Robert's initial attraction/curiosity toward Lady Audley hardens into suspicion, confrontation, and containment."
+        },
+        {
+          "set_a_axis": "From affectionate kinship to protective concealment",
+          "set_b_axis": "From detached affection to protective filial loyalty",
+          "overlap_description": "Both show Robert's bond with Sir Michael deepening into painful loyalty, where truth-telling and concealment become ethically charged acts."
+        },
+        {
+          "set_a_axis": "From strangerly sympathy to trusted moral partnership",
+          "set_b_axis": "From moral admiration to romantic and ethical attachment",
+          "overlap_description": "Both recognize Clara as a morally elevating presence who restores Robert's purpose; B adds stronger romantic resolution, while A emphasizes ethical partnership."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From teasing cousinship to emotionally frank alliance",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From easy family warmth to protective filial loyalty",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From languid detachment to relationally committed agency",
+      "pole_start": "Starts as an idle, self-protective, socially easy man who avoids responsibility, prefers irony to commitment, and keeps himself emotionally separate from other people's crises.",
+      "pole_end": "Ends as a purposeful, duty-driven man whose agency is exercised in service of others, especially through protective loyalty, investigation, and domestic belonging.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Detached ease",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "Robert begins as companionable but fundamentally passive: he is warm in company, yet lazy, ironic, and resistant to serious commitment.",
+          "key_moments": [
+            "Reunion with George Talboys",
+            "Treats Sir Michael's remarriage with ironic calm",
+            "Enjoys country sociability and Lady Audley's beauty without serious purpose",
+            "Uses jokes to cover unease"
+          ]
+        },
+        {
+          "phase": "Reluctant engagement",
+          "chapter_range": [
+            9,
+            16
+          ],
+          "position_description": "Concern for George's disappearance and the first pressure of suspicion push him toward purposeful action, though he still half-mocks himself and resists a new self-image.",
+          "key_moments": [
+            "Searches for George at the inn, Court, and station",
+            "Begins to suspect Lady Audley and notice concealment",
+            "Feels guilt and emotional strain at Audley Court",
+            "Moves to Mount Stanning to continue investigating"
+          ]
+        },
+        {
+          "phase": "Investigative agency",
+          "chapter_range": [
+            17,
+            29
+          ],
+          "position_description": "Robert becomes a disciplined investigator whose agency is explicit: he gathers evidence, pressures witnesses, confronts Lady Audley, and accepts moral judgment as part of action.",
+          "key_moments": [
+            "Uses Phoebe and Luke Marks as sources",
+            "Tests Lady Audley with circumstantial evidence",
+            "Formulates circumstantial reasoning and commits to detection",
+            "Follows documentary clues through George's trunk and Lucy Graham's past",
+            "Confronts Harcourt Talboys and Clara Talboys",
+            "Directly accuses Lady Audley"
+          ]
+        },
+        {
+          "phase": "Responsible settlement",
+          "chapter_range": [
+            30,
+            41
+          ],
+          "position_description": "His agency becomes managerial and custodial rather than merely investigative: he contains scandal, arranges confinement, manages aftermath, and settles into a stable domestic role.",
+          "key_moments": [
+            "Lady Audley fears him and tries to discredit him",
+            "Coordinates medical and asylum arrangements",
+            "Learns George Talboys is alive",
+            "Turns toward Clara and domestic future",
+            "Ends in stable family happiness"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert's arc moves from passive gentlemanly drift to active, morally burdened responsibility. His agency grows through communion rather than against it, becoming protective, investigative, and finally domestically settled."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Responsibility-Competence",
+      "axis_name": "From amused bystander to recognized caretaker",
+      "pole_start": "Begins detached, self-mocking, and inclined to treat events as interesting rather than urgent; he does not initially see himself as especially capable or answerable.",
+      "pole_end": "Ends as someone who recognizes, through action, that he can sustain duty, inference, and care for others with real competence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Self-mocking idleness",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "Robert jokes about his own laziness and unseriousness, presenting himself as a man without strong purpose even as he begins to act effectively.",
+          "key_moments": [
+            "Claims he cannot take care of himself",
+            "Uses humor to minimize seriousness",
+            "Treats life lightly and avoids moral burden"
+          ]
+        },
+        {
+          "phase": "Moral and practical awakening",
+          "chapter_range": [
+            11,
+            19
+          ],
+          "position_description": "He starts to realize that he is unusually serious, observant, and determined; the narrative shows him becoming methodical and capable before he fully acknowledges it.",
+          "key_moments": [
+            "Admits he is unusually serious about George",
+            "Recognizes he ought to have pursued a profession",
+            "Begins to think of himself as capable of detective work",
+            "Uses circumstantial evidence deliberately"
+          ]
+        },
+        {
+          "phase": "Competence accepted through action",
+          "chapter_range": [
+            20,
+            41
+          ],
+          "position_description": "He inhabits competence rather than merely stumbling into it, managing the case, coordinating responses, and integrating duty into a stable adult identity.",
+          "key_moments": [
+            "Manages the Talboys case methodically",
+            "Coordinates medical and legal responses",
+            "Handles disclosure and aftermath",
+            "Settles into professional and domestic success"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert's self-concept changes less dramatically than his behavior, but it still evolves from self-dismissive idleness toward a quiet recognition of his own sustained competence and reliability."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Seriousness",
+      "axis_name": "From ironic detachment to duty-bound moral seriousness",
+      "pole_start": "Treats life lightly, prefers comfort and wit, and avoids moral burden; truth is interesting but not yet a governing obligation.",
+      "pole_end": "Accepts truth-seeking, protection of the vulnerable, and containment of harm as binding duties, even when they cause pain or scandal.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Light irony",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "He is morally decent but not yet morally urgent: he sympathizes, helps, and notices, but does not yet experience duty as compelling.",
+          "key_moments": [
+            "Helps George casually",
+            "Observes Lady Audley aesthetically",
+            "Remains socially detached"
+          ]
+        },
+        {
+          "phase": "Duty awakened",
+          "chapter_range": [
+            9,
+            19
+          ],
+          "position_description": "Concern for George becomes a moral obligation, and suspicion of Lady Audley turns investigation into a serious ethical task.",
+          "key_moments": [
+            "Searches for George urgently",
+            "Follows clues to Southampton and Audley Court",
+            "Feels the burden of possible death",
+            "Begins to see himself as an investigator"
+          ]
+        },
+        {
+          "phase": "Providential duty",
+          "chapter_range": [
+            20,
+            41
+          ],
+          "position_description": "His moral reasoning becomes more absolute: he must not stand aside, must protect the innocent, and must accept the burden assigned to him, even when concealment is the merciful choice.",
+          "key_moments": [
+            "Feels compelled to protect Georgey's welfare",
+            "Confronts Lady Audley and forces disclosure",
+            "Arranges confinement rather than public trial",
+            "Ends by integrating duty into domestic peace"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert moves from witty observer to morally serious actor. Truth, protection, and responsibility become obligations that override comfort and self-interest."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Emotional Intensity",
+      "axis_name": "From flippant composure to controlled intensity",
+      "pole_start": "Outwardly amused, lazy, and emotionally low-key; he uses wit and irony to keep feeling at a distance.",
+      "pole_end": "Still controlled, but now capable of deep concern, dread, pity, grief, and relief, all managed through disciplined action rather than denial.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Witty surface",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "His emotional life is shallow on the surface: he jokes, banters, and seems untroubled, though small signs of unease begin to appear.",
+          "key_moments": [
+            "Jokes about being in love with his aunt",
+            "Uses humor to mask discomfort at Audley Court",
+            "Feels only faint disturbance at first"
+          ]
+        },
+        {
+          "phase": "Anxiety and alarm",
+          "chapter_range": [
+            9,
+            13
+          ],
+          "position_description": "Concern for George becomes sustained anxiety, and his wit becomes defensive rather than carefree.",
+          "key_moments": [
+            "George's disappearance alarms him",
+            "Searches restlessly",
+            "Dreams and fatigue show strain"
+          ]
+        },
+        {
+          "phase": "Grief, dread, and relief",
+          "chapter_range": [
+            14,
+            41
+          ],
+          "position_description": "He experiences the full range of serious emotion: pity for Sir Michael, horror at Lady Audley, grief for George, dread of scandal, and finally relief when George is found alive.",
+          "key_moments": [
+            "Breaks down at leaving Audley Court",
+            "Feels horror at Lady Audley's confession",
+            "Suffers exhaustion and moral strain",
+            "Relief and hope return with George's survival",
+            "Ends in settled contentment"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert does not become melodramatically expressive, but his emotional range broadens enormously. The key change is the replacement of flippancy with disciplined seriousness and genuine feeling."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Robert Audley",
+      "target_character": "George Talboys",
+      "dimension_label": "Protective Loyalty",
+      "axis_name": "From easy friendship to devoted guardianship",
+      "pole_start": "Begins as a warm, familiar friend who enjoys George's company but has not yet assumed deep responsibility for him.",
+      "pole_end": "Ends as a deeply loyal, protective, almost brotherly figure whose actions are organized around George's fate, memory, and restoration.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Reunion and concern",
+          "chapter_range": [
+            4,
+            6
+          ],
+          "position_description": "Robert is pleased to reconnect with George and quickly becomes attentive to his grief. Friendship begins to deepen into care.",
+          "key_moments": [
+            "Reunion with George",
+            "George's distress over Helen's death notice",
+            "Robert supports him through the first shock"
+          ]
+        },
+        {
+          "phase": "Protective management",
+          "chapter_range": [
+            7,
+            13
+          ],
+          "position_description": "Robert actively tries to keep George engaged, calm, and safe. He searches for him when he disappears and begins to feel responsible for his welfare.",
+          "key_moments": [
+            "Searches for George at the inn and station",
+            "Accompanies and manages his movements",
+            "Treats his disappearance as urgent"
+          ]
+        },
+        {
+          "phase": "Grief and justice",
+          "chapter_range": [
+            14,
+            29
+          ],
+          "position_description": "George becomes the absent center of Robert's moral life. Robert assumes the role of avenger, investigator, and witness on George's behalf.",
+          "key_moments": [
+            "Evidence in George's trunk",
+            "Belief that George is dead",
+            "Confrontations with Lady Audley",
+            "Pursuit of truth as a duty to George"
+          ]
+        },
+        {
+          "phase": "Restoration",
+          "chapter_range": [
+            39,
+            41
+          ],
+          "position_description": "George's survival transforms grief into relief and restores the relationship to living companionship. Robert's loyalty remains, but it now supports family and domestic peace rather than mourning.",
+          "key_moments": [
+            "Luke Marks reveals George is alive",
+            "Robert writes to inform Clara",
+            "George becomes part of the final household settlement"
+          ]
+        }
+      ],
+      "evidence_summary": "George is the central relationship in Robert's transformation. The friendship becomes the engine of his responsibility, investigation, and emotional maturation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Robert Audley",
+      "target_character": "Lady Audley",
+      "dimension_label": "Admiration-Suspicion",
+      "axis_name": "From aesthetic fascination to moral hostility",
+      "pole_start": "Begins as amused, admiring, and charmed by her beauty and apparent sweetness, with no conscious suspicion.",
+      "pole_end": "Ends as convinced, morally accusatory, and strategically hostile, seeing her as deceptive, dangerous, and guilty.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Charm and curiosity",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "Robert is aesthetically taken with Lady Audley and notices her beauty without suspicion, though the portrait and atmosphere at Audley Court unsettle him.",
+          "key_moments": [
+            "Admires her beauty",
+            "Portrait leaves him uneasy",
+            "First faint sense of hidden hardness"
+          ]
+        },
+        {
+          "phase": "Uneasy suspicion",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "He begins to read her as performative and evasive. Her explanations, bruises, and theatricality make him increasingly distrustful.",
+          "key_moments": [
+            "Calls her lies childish",
+            "Notices her performative fragility",
+            "Tests her with indirect questions"
+          ]
+        },
+        {
+          "phase": "Open adversary",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "Suspicion hardens into conviction. He confronts her, uses circumstantial evidence, and ultimately forces confession, while still feeling flashes of pity.",
+          "key_moments": [
+            "Lady Audley becomes central suspect",
+            "Direct confrontation at Audley Court",
+            "Confession and exposure",
+            "Her fear of him as a threat"
+          ]
+        },
+        {
+          "phase": "Containment and aftermath",
+          "chapter_range": [
+            35,
+            38
+          ],
+          "position_description": "He no longer relates to her as a person to be understood but as a dangerous case to be contained. Pity remains, but only within a framework of control and removal.",
+          "key_moments": [
+            "Medical consultation with Dr. Mosgrave",
+            "Asylum transfer",
+            "Confession of murder",
+            "Robert's horror and revulsion"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert's relationship to Lady Audley is one of the novel's clearest reversals: admiration becomes suspicion, suspicion becomes accusation, and accusation becomes controlled containment."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Robert Audley",
+      "target_character": "Sir Michael Audley",
+      "dimension_label": "Protective Loyalty",
+      "axis_name": "From affectionate kinship to protective concealment",
+      "pole_start": "Begins as warm family attachment: Robert feels affection, comfort, and genuine belonging in Sir Michael's company.",
+      "pole_end": "Ends with a strained but still loyal bond in which Robert protects Sir Michael by withholding the worst truth and helping manage the aftermath.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Warm attachment",
+          "chapter_range": [
+            4,
+            25
+          ],
+          "position_description": "Robert is emotionally moved by Sir Michael's affection and increasingly sees him as a beloved uncle whose peace matters deeply.",
+          "key_moments": [
+            "Accepts remarriage calmly",
+            "Enjoys the household socially",
+            "Looks at Sir Michael with affectionate sadness",
+            "Breaks down when asked to leave"
+          ]
+        },
+        {
+          "phase": "Truth versus protection",
+          "chapter_range": [
+            25,
+            35
+          ],
+          "position_description": "As suspicion hardens, Robert's loyalty becomes painful. He knows the truth will devastate Sir Michael, yet he cannot stop pursuing it.",
+          "key_moments": [
+            "Feels guilty at Audley Court",
+            "Leaves the house to avoid dishonor",
+            "Worries about Sir Michael's illness",
+            "Confronts Lady Audley knowing the cost to Sir Michael"
+          ]
+        },
+        {
+          "phase": "Merciful concealment",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "After the revelation, Robert chooses not to tell Sir Michael the full truth about Lady Audley's guilt, treating concealment as mercy and preserving what peace remains.",
+          "key_moments": [
+            "Helps Alicia support Sir Michael",
+            "Resolves never to tell Sir Michael she is a murderess",
+            "The crisis is left behind"
+          ]
+        }
+      ],
+      "evidence_summary": "Robert's bond with Sir Michael is one of the novel's most emotionally costly loyalties. He loves his uncle, injures him through truth, and then protects him through silence."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Robert Audley",
+      "target_character": "Clara Talboys",
+      "dimension_label": "Moral-Romantic Bond",
+      "axis_name": "From moral admiration to romantic and ethical attachment",
+      "pole_start": "Begins with no relationship, then becomes respectful admiration for her grief and seriousness.",
+      "pole_end": "Ends in deep romantic attachment and emotional dependence, with Clara functioning as both beloved and moral anchor.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Moral recognition",
+          "chapter_range": [
+            22,
+            24
+          ],
+          "position_description": "Robert is struck by Clara's sincerity, courage, and grief. She becomes a serious moral presence who rebinds him to the case.",
+          "key_moments": [
+            "Clara confronts him after he tries to withdraw",
+            "He is moved by her beauty and grief",
+            "Her letters and appeal restore his duty"
+          ]
+        },
+        {
+          "phase": "Romantic idealization",
+          "chapter_range": [
+            25,
+            40
+          ],
+          "position_description": "Clara becomes the woman he loves and the future he imagines. His desire for her is intertwined with sacrifice, service, and moral self-justification.",
+          "key_moments": [
+            "He thinks of her while pursuing the case",
+            "He imagines sacrifice as proof of devotion",
+            "He seeks a future with her"
+          ]
+        },
+        {
+          "phase": "Domestic fulfillment",
+          "chapter_range": [
+            41,
+            41
+          ],
+          "position_description": "The relationship culminates in marriage and settled domestic happiness, completing the arc from admiration to union.",
+          "key_moments": [
+            "Final family settlement at Teddington",
+            "Clara as wife and center of his happiness"
+          ]
+        }
+      ],
+      "evidence_summary": "Clara converts Robert's moral seriousness into personal fulfillment. She is both the woman who reawakens his duty and the woman who ultimately receives his love."
+    }
+  ]
+}

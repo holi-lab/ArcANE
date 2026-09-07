@@ -1,0 +1,562 @@
+{
+  "character": "Lady Audley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational dependence to self-protective domination",
+          "set_b_axis": "From self-protective social fusion to isolated self-assertion",
+          "overlap_description": "Both describe a shift from using communion, charm, and dependence as survival strategies toward increasingly overt agency, control, and self-defense."
+        },
+        {
+          "set_a_axis": "From seamless self-invention to forced self-revelation",
+          "set_b_axis": "From polished secrecy to forced self-revelation",
+          "overlap_description": "Both track the collapse of concealment: Lady Audley begins by constructing a hidden identity and ends exposed, confessed, and socially/medically classified."
+        },
+        {
+          "set_a_axis": "From justified self-interest to grim moral self-recognition",
+          "set_b_axis": "From self-justifying survival to partial recognition without repentance",
+          "overlap_description": "Both focus on her moral self-understanding moving from pragmatic self-excuse toward partial recognition of guilt, though without full repentance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From performed delicacy to hardened defensive severity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From effortless poise to brittle collapse",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From protected wife to manipulative ruler of the marriage",
+          "set_b_axis": "From strategic dependence to exhausted estrangement",
+          "overlap_description": "Both describe Sir Michael as first a source of rescue and protection, then a figure she manipulates or loses as exposure destroys the marriage."
+        },
+        {
+          "set_a_axis": "From social softness to open adversarial warfare",
+          "set_b_axis": "From polite tolerance to mortal hostility",
+          "overlap_description": "Both trace the Robert relationship from manageable social interaction to direct antagonism, investigation, and final defeat/confinement."
+        },
+        {
+          "set_a_axis": "From controlled confidante to compromised weak link",
+          "set_b_axis": "From patronizing use to suspicious dependence",
+          "overlap_description": "Both see Phoebe as initially subordinate and useful, then increasingly entangled in secrecy, mistrust, and liability."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From erased husband to living embodiment of exposure",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From social rivalry to sharpened antagonism",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From strategic communion to hardened self-assertion",
+      "pole_start": "Begins by using communion strategically: she seeks safety through marriage, charm, feminine dependence, and social fusion, with agency hidden inside relational accommodation.",
+      "pole_end": "Ends in hardened agency: self-protective, controlling, coercive, and increasingly isolated, with communion reduced to instrumentality or severed entirely.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Strategic relational ascent",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "She enters marriage and domestic life by performing fragility, gratitude, and charm. Communion is a survival tactic: she uses Sir Michael’s protection, household roles, and social belonging to secure safety and status.",
+          "key_moments": [
+            "accepts Sir Michael’s proposal as escape from poverty",
+            "performs delicate wifehood and feminine helplessness",
+            "uses the storm and domestic intimacy to reinforce protection"
+          ]
+        },
+        {
+          "phase": "Defensive manipulation",
+          "chapter_range": [
+            11,
+            30
+          ],
+          "position_description": "As suspicion grows, she becomes more overtly agentic while still using softness as cover. She manages Phoebe, deflects Robert, and tries to keep Sir Michael aligned with her interests.",
+          "key_moments": [
+            "uses Phoebe as confidante and instrument",
+            "lies or improvises around bruises and suspicion",
+            "tries to push Robert out and preserve her shield"
+          ]
+        },
+        {
+          "phase": "Desperate self-assertion",
+          "chapter_range": [
+            31,
+            37
+          ],
+          "position_description": "Cornered by exposure, she shifts into open self-defense: accusation, threat, hysteria, and the logic of force. Communion collapses into leverage, and she asserts the self against Robert, Sir Michael, and the social order.",
+          "key_moments": [
+            "frames Robert as mad",
+            "threatens or contemplates violence",
+            "confesses under pressure while still trying to control the terms of revelation"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged evidence shows a consistent movement from relationally mediated survival to increasingly naked self-assertion. Both analyses agree that Lady Audley’s agency grows as her social shelter fails, and that communion becomes progressively instrumental rather than mutual."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Concealment-Exposure",
+      "axis_name": "From polished secrecy to forced self-revelation",
+      "pole_start": "Starts as a woman whose identity depends on concealment: hidden past, hidden objects, hidden motives, and a carefully managed public face.",
+      "pole_end": "Ends exposed through confession, diagnosis, and confinement, with secrecy replaced by narrated truth and institutional classification.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Hidden identity established",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "She buries Lucy Graham and Helen Talboys beneath the persona of Lady Audley. Locked rooms, secret drawers, and concealed keepsakes establish concealment as her governing mode.",
+          "key_moments": [
+            "hides ring and paper at her throat",
+            "keeps secret drawer with relics of the past",
+            "controls access to private rooms and appearances"
+          ]
+        },
+        {
+          "phase": "Threatened concealment",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "Robert’s investigation steadily narrows the space for secrecy. She responds with evasions, lies, strategic absence, and attempts to redirect suspicion, but the past is being reconstructed around her.",
+          "key_moments": [
+            "lies about the bruise on her wrist",
+            "deflects Robert with charm and performance",
+            "monitors information and tries to discredit the investigator"
+          ]
+        },
+        {
+          "phase": "Collapse into exposure",
+          "chapter_range": [
+            29,
+            37
+          ],
+          "position_description": "Concealment fails. She is directly accused, forced into confession, and then removed into institutional containment, though she still tries to frame exposure as madness rather than guilt.",
+          "key_moments": [
+            "Robert’s direct accusation",
+            "confession of George Talboys’s murder",
+            "Dr. Mosgrave’s diagnosis and transfer to the maison de santé"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets strongly support concealment as Lady Audley’s core mode of being and exposure as the novel’s decisive undoing of that mode. The merged axis captures both the psychological strategy and its eventual collapse."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Image Morality",
+      "axis_name": "From self-justifying survival to partial recognition without repentance",
+      "pole_start": "Begins with a self-concept organized around survival, class resentment, and practical selfishness; she sees her choices as shaped by poverty and necessity.",
+      "pole_end": "Ends with partial recognition of guilt, madness, and fear, but without genuine repentance or ethical transformation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Pragmatic self-concept",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "She openly or implicitly rationalizes marriage, secrecy, and reinvention as necessary responses to deprivation. Her self-understanding is sharp, but morally limited and self-exculpating.",
+          "key_moments": [
+            "treats marriage as escape rather than moral union",
+            "links poverty to selfishness and survival",
+            "frames concealment as necessary self-preservation"
+          ]
+        },
+        {
+          "phase": "Fear-driven self-explanation",
+          "chapter_range": [
+            15,
+            31
+          ],
+          "position_description": "As pressure mounts, she begins to reflect on aging, hidden crime, and the possibility that her life has been morally doomed, but she still externalizes blame onto Robert, George, and circumstance.",
+          "key_moments": [
+            "faints under Robert’s insinuations",
+            "frames Robert as mad",
+            "wavers between guilt and self-protective explanation"
+          ]
+        },
+        {
+          "phase": "Pathologized self-narration",
+          "chapter_range": [
+            34,
+            37
+          ],
+          "position_description": "She finally names herself as mad and uses hereditary insanity as an explanatory frame. This is a real shift in self-understanding, but it remains defensive rather than repentant.",
+          "key_moments": [
+            "confesses to George Talboys’s murder",
+            "recasts her life as madness-driven",
+            "describes confinement as a living grave"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged reading preserves the strongest shared claim: Lady Audley does gain self-knowledge, but it is partial, unstable, and self-protective. She explains herself more than she morally transforms herself."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Composure-Panic",
+      "axis_name": "From polished poise to brittle collapse",
+      "pole_start": "Begins with a polished, socially fluent surface that conceals tension but usually holds.",
+      "pole_end": "Ends in exhaustion, terror, and collapse, with composure surviving only as a thin defensive performance.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Managed brightness",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "She appears bright, playful, and charming, using social ease to mask fear and maintain control over how others read her.",
+          "key_moments": [
+            "accepts marriage with controlled emotion",
+            "uses playful femininity with servants and family",
+            "turns the storm into a performance of fragility"
+          ]
+        },
+        {
+          "phase": "Visible strain",
+          "chapter_range": [
+            15,
+            33
+          ],
+          "position_description": "Robert’s pressure produces visible panic, fainting, agitation, and dread. She still performs composure, but it becomes increasingly brittle and difficult to sustain.",
+          "key_moments": [
+            "faints after Robert’s hints",
+            "improvises lies around visible evidence",
+            "waits in dread for news and collapses at confrontation"
+          ]
+        },
+        {
+          "phase": "Defeated stillness",
+          "chapter_range": [
+            34,
+            37
+          ],
+          "position_description": "After confession and confinement, panic cools into exhausted numbness and bitter protest. Composure survives only as a last defensive habit rather than a stable state.",
+          "key_moments": [
+            "lies on the floor after exposure",
+            "speaks of her brain being on fire",
+            "reacts to institutional confinement with rage"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a useful supplement from Set B: it captures the emotional texture of Lady Audley’s decline, especially the breakdown of poise under pressure. It is distinct from concealment and morality because it focuses on affective stability rather than secrecy or ethics."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Lady Audley",
+      "target_character": "Sir Michael Audley",
+      "dimension_label": "Dependence-Control",
+      "axis_name": "From strategic dependence to exhausted estrangement",
+      "pole_start": "Begins as a woman who uses Sir Michael as rescue, status, and protection while performing warmth and gratitude. The bond is intimate in appearance, but fundamentally instrumental and secretive.",
+      "pole_end": "Ends with him as a lost protector and witness to her collapse: still emotionally significant, but no longer a usable shield or genuine partner.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Protective alliance",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "She accepts him as the means of escape from poverty and social humiliation, cultivating his affection and confidence through delicacy and apparent devotion.",
+          "key_moments": [
+            "marriage proposal and acceptance",
+            "public performance of delicate wifehood",
+            "dependence on his protection during early domestic life"
+          ]
+        },
+        {
+          "phase": "Managed dependence",
+          "chapter_range": [
+            11,
+            30
+          ],
+          "position_description": "She continues to rely on him as shelter while manipulating his perceptions, especially by presenting herself as fragile and Robert as suspicious or mad.",
+          "key_moments": [
+            "uses tears and fainting to secure sympathy",
+            "persuades him Robert is mad",
+            "keeps him aligned through domestic performance"
+          ]
+        },
+        {
+          "phase": "Loss and estrangement",
+          "chapter_range": [
+            31,
+            37
+          ],
+          "position_description": "As exposure nears, he becomes less an ally than a witness to her ruin. Her attachment becomes colder and more instrumental, and confession occurs without any true restoration of intimacy.",
+          "key_moments": [
+            "recognizes confinement and loss of status",
+            "confession in his presence",
+            "marriage ends in betrayal and social exclusion"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that Sir Michael is central to Lady Audley’s social survival, but only temporarily. The merged axis emphasizes the full arc from protective dependence to manipulation and finally estrangement after exposure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Lady Audley",
+      "target_character": "Robert Audley",
+      "dimension_label": "Trust-Antagonism",
+      "axis_name": "From polite tolerance to mortal hostility",
+      "pole_start": "Begins with limited awareness and latent wariness; Robert is initially just another observer in the household, not yet a direct enemy.",
+      "pole_end": "Ends with Robert as the central adversary, investigator, and jailer whose pursuit destroys her concealment and forces confession.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Latent threat",
+          "chapter_range": [
+            4,
+            14
+          ],
+          "position_description": "She increasingly senses him as a danger, but the relationship is still indirect: suspicion is building rather than fully active.",
+          "key_moments": [
+            "Robert’s curiosity around George Talboys",
+            "her defensive vigilance",
+            "his presence near her private spaces"
+          ]
+        },
+        {
+          "phase": "Open contest",
+          "chapter_range": [
+            15,
+            30
+          ],
+          "position_description": "Robert becomes the person who can name her secret. She responds with lies, fainting, strategic visits, and attempts to discredit him as mad.",
+          "key_moments": [
+            "Robert’s insinuations and evidence gathering",
+            "Lady Audley’s fainting and improvisation",
+            "visit to Robert to probe his knowledge",
+            "campaign to frame him as insane"
+          ]
+        },
+        {
+          "phase": "Cornered enmity",
+          "chapter_range": [
+            31,
+            37
+          ],
+          "position_description": "The relationship turns openly adversarial and desperate. She sees him as the destroyer of her life and the agent of her confinement, while he becomes the one who forces confession.",
+          "key_moments": [
+            "Robert’s letter heightens her panic",
+            "secret departure and crisis at Mount Stanning",
+            "direct confession under pressure",
+            "maison de santé confinement"
+          ]
+        }
+      ],
+      "evidence_summary": "This is the most important relational arc in the novel. Robert moves from background observer to active investigator to final exposer, and Lady Audley’s attitude shifts accordingly from wary management to outright hostility and fear."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Lady Audley",
+      "target_character": "Phoebe Marks",
+      "dimension_label": "Control-Confiding",
+      "axis_name": "From patronizing use to suspicious dependence",
+      "pole_start": "Begins as a socially superior mistress who uses Phoebe as a subordinate helper and witness to her luxury and secrecy.",
+      "pole_end": "Ends with Phoebe as a compromised confidante and liability: still useful, but now shadowed by betrayal, leverage, and mutual secrecy.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Useful subordinate",
+          "chapter_range": [
+            3,
+            9
+          ],
+          "position_description": "Phoebe is admired, instructed, and kept at a distance. Lady Audley uses her for service and as a buffer around private spaces.",
+          "key_moments": [
+            "Phoebe admires Lady Audley’s luxury",
+            "secret drawer and controlled access",
+            "patronizing rewards and instructions"
+          ]
+        },
+        {
+          "phase": "Confidential instrument",
+          "chapter_range": [
+            14,
+            18
+          ],
+          "position_description": "Phoebe becomes more entangled in Lady Audley’s private management of secrets and appearances, functioning as a confidante as well as a servant.",
+          "key_moments": [
+            "Phoebe’s marriage and secret knowledge",
+            "Lady Audley’s reliance on Phoebe",
+            "Phoebe as intermediary in household concealment"
+          ]
+        },
+        {
+          "phase": "Suspicious dependence",
+          "chapter_range": [
+            29,
+            35
+          ],
+          "position_description": "Phoebe is still useful, but now Lady Audley sees her as compromised and potentially disloyal. The relationship becomes less intimate and more transactional under pressure.",
+          "key_moments": [
+            "Phoebe’s demand for payment",
+            "Lady Audley’s contempt mixed with reliance",
+            "Phoebe as part of the machinery of concealment"
+          ]
+        }
+      ],
+      "evidence_summary": "Phoebe is not a central emotional bond, but she is a meaningful relational axis because she moves from servant to confidante to liability. The relationship tracks Lady Audley’s broader pattern of using intimacy instrumentally."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Lady Audley",
+      "target_character": "George Talboys",
+      "dimension_label": "Erasure-Threat",
+      "axis_name": "From erased husband to living embodiment of exposure",
+      "pole_start": "Begins with George as a man she has tried to remove from her life through deception, substitution, and false death.",
+      "pole_end": "Ends with George restored to life, making him both a witness to her past and a continuing moral threat, though the novel later softens his emotional hold.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Hidden origin of danger",
+          "chapter_range": [
+            3,
+            9
+          ],
+          "position_description": "George is initially present only as a buried past. His name, glove, and traces of his presence begin to destabilize her secrecy.",
+          "key_moments": [
+            "relics of the hidden past are discovered",
+            "George confirms Helen Talboys’s death at Ventnor",
+            "she avoids being introduced to him",
+            "his glove appears in her dressing-room"
+          ]
+        },
+        {
+          "phase": "Investigative threat",
+          "chapter_range": [
+            12,
+            24
+          ],
+          "position_description": "George becomes central to the investigation through his disappearance, letters, and the evidence he leaves behind. Even in absence, he is a force that reconstructs her identity.",
+          "key_moments": [
+            "Robert investigates George’s disappearance",
+            "George’s books contain crucial inscriptions",
+            "George’s letters provide textual evidence"
+          ]
+        },
+        {
+          "phase": "Return and fading aftermath",
+          "chapter_range": [
+            37,
+            41
+          ],
+          "position_description": "George is revealed to be alive, which should be catastrophic for her, but the narrative ultimately lets his emotional force fade. He remains a witness and moral reminder rather than an ongoing personal bond.",
+          "key_moments": [
+            "confession of George Talboys’s murder",
+            "Robert learns George survived",
+            "George returns alive",
+            "her wickedness fades from his life"
+          ]
+        }
+      ],
+      "evidence_summary": "This event-graph axis is retained because it captures a distinct and important relationship not foregrounded in the psychological summary: George as the living residue of her erased past and the embodiment of exposure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Lady Audley",
+      "target_character": "Alicia Audley",
+      "dimension_label": "Rivalry-Contrast",
+      "axis_name": "From social rivalry to sharpened moral antagonism",
+      "pole_start": "Begins with Alicia as a hostile obstacle and rival within the household, though the conflict is initially managed through politeness and social distance.",
+      "pole_end": "Ends with Alicia remaining a moral and social foil: disliked, distrusted, and increasingly useful as a contrast to Lady Audley’s secrecy and manipulation.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Managed rivalry",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "Alicia resents Lady Audley’s arrival, and Lady Audley responds with polished distance and social superiority.",
+          "key_moments": [
+            "Alicia’s hostility to the marriage",
+            "Lady Audley’s playful but distancing manner",
+            "mutual low trust"
+          ]
+        },
+        {
+          "phase": "Instrumental use",
+          "chapter_range": [
+            14,
+            25
+          ],
+          "position_description": "Lady Audley increasingly uses Alicia as a pretext or social tool, especially when trying to manage Robert and household perceptions.",
+          "key_moments": [
+            "uses Alicia to justify Robert’s removal",
+            "questions Alicia about Robert",
+            "maintains superiority through charm"
+          ]
+        },
+        {
+          "phase": "Moral contrast",
+          "chapter_range": [
+            29,
+            37
+          ],
+          "position_description": "Alicia becomes a sharper contrast to Lady Audley’s secrecy and manipulation. The relationship remains cool, but the antagonism is now morally charged.",
+          "key_moments": [
+            "Lady Audley’s resentment of Alicia’s frankness",
+            "Alicia as witness to Robert’s movements",
+            "Alicia’s presence intensifying Lady Audley’s fear"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a valid addition from the psychological summary. It is less central than Robert or Sir Michael, but it captures an important household rivalry that sharpens the novel’s moral contrasts."
+    }
+  ]
+}

@@ -1,0 +1,2206 @@
+{
+  "character": "Estella",
+  "novel": "Great Expectations",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_intra_01",
+      "axis_name": "From controlled emotional separation to humane relational openness",
+      "dimension_label": "Agency-Communion",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "When relating to Pip, does she keep emotional distance and superiority as her mode of control, or does she permit reciprocal vulnerability and equal connection?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "She shifts from actively using cold humiliation and distance to dominate Pip to still withholding intimacy but acknowledging her own emotional formation and resisting others' claims over her inner life."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "She shifts from guarded self-protection and refusal of sentimental reciprocity to choosing tenderness, forgiveness, and an explicitly mutual, equal bond with Pip."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Self-protective dominance vs reciprocal emotional relatedness.",
+        "abstract_phases": [
+          "Controlled detachment used to assert superiority and avoid vulnerability",
+          "Guarded self-protection with emerging awareness of emotional conditioning",
+          "Self-possessed openness to tenderness, forgiveness, and mutual connection"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "child",
+          "approx_age": "about 8–10",
+          "rationale": "In ch. 2 Estella is still a girl at Miss Havisham's house, and her taunting of Pip reflects a child shaped into emotional coldness rather than an older developmental stage."
+        },
+        "1": {
+          "life_stage": "adolescent",
+          "approx_age": "about 14–17",
+          "rationale": "Across chs. 3–4, her increased self-awareness about having been formed by Miss Havisham, while remaining guarded and resistant, fits Estella's later youth and adolescent development."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "about 30–35",
+          "rationale": "In ch. 5's final reunion, her reflective sorrow, gratitude, and request for friendship come after marriage and suffering, indicating a mature adult phase rather than youth."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Cold social instrument",
+          "anchor_query_chapter": 2,
+          "era_label": null,
+          "scenario": "At Miss Havisham's house, Pip fumbles a tray of cards and cuts his hand on the corner; seeing the blood, he turns away and tries to hide it rather than be laughed at. Miss Havisham watches in silence, and the room waits on Estella.",
+          "question": "How does Estella respond to Pip's small hurt and his effort to conceal it?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cold social instrument",
+              "query_chapter": 2,
+              "gt_action": "She looks at his hand with cool disdain and holds the cards back from him.",
+              "gt_speech": "He is clumsy, and ashamed of it too.",
+              "gt_thought": "His hurt is of no consequence beside the use of it. If he is made to feel coarse and awkward, that is his proper place, and mine is above him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The cold contempt, class superiority, and readiness to use Pip's shame as a social weapon fit Estella's chapter-2 cruelty, and the diction is period-appropriate enough despite the thought being slightly mature for a child."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, contemptuous speech, and especially the thought that Pip’s hurt should be used to keep him feeling coarse and herself above him squarely express cold humiliation and distance as power."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Guarded self-awareness",
+              "query_chapter": 3,
+              "gt_action": "She offers him her handkerchief, but keeps her distance and her face composed.",
+              "gt_speech": "Take it, if you please. Do not make a scene.",
+              "gt_thought": "I do not care to torment him for a scratch; that is too easy, and too much like being made to play a part. Yet I will not be drawn into softness, nor let anyone suppose my feeling is theirs to command.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Estella's guarded adolescent phase—cool, controlled, and faintly conscious of being shaped into cruelty—while the diction stays broadly period-appropriate and within what she could know by chapter 3."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought rejects gratuitous humiliation and explicitly recognizes being made to 'play a part,' while still refusing softness or reciprocal vulnerability, which best fits guarded self-awareness rather than pure contempt or tender mutuality."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tender mutuality",
+              "query_chapter": 5,
+              "gt_action": "She sets her handkerchief beside him without looking long at the blood.",
+              "gt_speech": "You had better bind it.",
+              "gt_thought": "His turning away would check any impulse to notice him too closely; kindness, if shown, must not expose him further. I would ease the hurt without making a spectacle of his weakness.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The gesture and inward tenderness belong to the later softened Estella, but in this early Satis House scene she is still the cold child who would more likely expose Pip's hurt than quietly spare his pride."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The response is still restrained and avoids overt intimacy, but the thought shows reflective concern for Pip’s dignity and a controlled kindness rather than humiliating superiority."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "She steps nearer and places her handkerchief in his hand, meeting his eye.",
+                "gt_speech": "You are hurt. Pray take this; there is no shame in it.",
+                "gt_thought": "His wish to hide pain touches me with an old sorrow, not contempt. I would spare him humiliation and meet him kindly, as one human creature may another.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the diction suits the era, this is too openly tender and self-aware for Estella in the Satis House card-room scene, importing her final-phase humane reciprocity into an earlier setting where she would not yet publicly spare Pip such humiliation."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "Her thought rejects contempt in favor of kindness, shared humanity, and sparing Pip humiliation, which most clearly matches Estella's phase of tender, equal mutuality rather than guarded distance."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the early Dickensian setting at Satis House with only period-appropriate elements and characters, avoids reproducing a specific canonical scene, and the phase responses remain plausible for Estella’s in-world arc without introducing any world-rule violations."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both responses avoid overt humiliation and offer restrained practical care while keeping emotional exposure minimal in action and speech, with the main difference living only subtly in thought."
+                }
+              ],
+              "note": "P0→P1 is clearly separated because Estella moves from using Pip's hurt to reinforce superiority to offering controlled aid while refusing performative cruelty; P1→P2 remains close on the decision variable in this constrained scene."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Cold social instrument",
+          "anchor_query_chapter": 2,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "Self-protective dominance vs reciprocal emotional relatedness.",
+          "abstract_phases": [
+            "Controlled detachment used to assert superiority and avoid vulnerability",
+            "Guarded self-protection with emerging awareness of emotional conditioning",
+            "Self-possessed openness to tenderness, forgiveness, and mutual connection"
+          ],
+          "scenario": "At the village well, Pip stumbles while lifting a brimming bucket and spills water over Estella's skirt. He flushes, reaches for the bucket again, and waits under the eyes of the others.",
+          "question": "How does Estella respond as Pip stands there shamed before her?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cold social instrument",
+              "query_chapter": 2,
+              "gt_action": "Estella steps back and leaves him to gather the bucket himself.",
+              "gt_speech": "You are coarse and clumsy.",
+              "gt_thought": "He has made himself ridiculous before everyone. She means to look at him as if he deserves it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits chapter-2 Estella well: the action, insult, and contemptuous thought are cold, superior, and humiliating in a way appropriate to her child voice and the period, with no clear anachronism or knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, insult, and especially the thought that she will look at Pip as if he deserves public shame show cold humiliation and distance used as power, which is most diagnostic of Phase 0."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Estella steps back, lets him struggle with the bucket, and looks at him as if he were clumsy livestock.",
+                "gt_speech": "Mind your hands, boy. You slop like a calf.",
+                "gt_thought": "His shame is useful; it keeps him beneath me. If I spare him, I lower myself and give him leave to come nearer.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and insult fit her cold superiority, but the thought is too self-analytical and adult in phrasing for chapter-2 child Estella, especially 'His shame is useful' and 'If I spare him, I lower myself and give him leave to come nearer.'"
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "The response uses Pip’s humiliation as a deliberate tool of superiority and distance, with no self-awareness or reciprocity, which squarely matches Estella’s cold, dominating early phase."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Guarded self-awareness",
+              "query_chapter": 3,
+              "gt_action": "Estella catches the bucket handle and returns it to him.",
+              "gt_speech": "Take care, then.",
+              "gt_thought": "His shame is plain enough without my making a show of it. I do not pity him, but I have no wish to join the others' stare.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The restraint, slight superiority, and controlled refusal to humiliate him further fit adolescent Estella in chapter-3 knowledge, and the diction is simple and period-safe."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She withholds tenderness and explicitly denies pity, yet refrains from humiliation and shows controlled awareness that public shaming need not be intensified, which fits guarded self-awareness more than cold domination or mutual openness."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Estella takes the bucket by its handle, steadies it, and gives it back without softening her face.",
+                "gt_speech": "Hold it straight. I will not be drenched twice.",
+                "gt_thought": "I know too well how I was taught to make another smart for my own safety. I will not coddle him, but neither will I let their sport wholly govern my hand.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and speech fit her guarded superiority, but the thought is too mature and self-analytical for adolescent Estella at chapter 3, especially the explicit formulation about being 'taught' and not letting 'their sport wholly govern my hand.'"
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "Her thought shows explicit awareness of being shaped into cruelty and a deliberate refusal to fully enact humiliation, which fits guarded self-awareness more than pure contempt or fully mutual tenderness."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tender mutuality",
+              "query_chapter": 5,
+              "gt_action": "Estella sets her hand on the bucket rim to steady it and stands beside Pip until the water settles.",
+              "gt_speech": "There—leave it a moment. We have both had worse spills than this.",
+              "gt_thought": "His shame calls up no pleasure now, only recognition. It costs me little to share the awkwardness, and kindness makes a truer meeting than triumph ever did.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits adult Estella’s final softened phase—quietly steadying, gently equal in speech, and inwardly reflective without anachronism or knowledge beyond the reunion’s hard-won tenderness."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought rejects superiority in Pip’s shame and explicitly values kindness and shared awkwardness as a truer, more equal connection, which is most diagnostic of tender mutuality."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The village-well scene fits a pre-industrial agrarian setting, contains no source-world leakage, keeps Estella as the protagonist, and the phase responses are internally consistent with child, adolescent, and adult life-stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from public shaming/superiority to restrained non-humiliation without intimacy, and P1→P2 moves from guarded distance to explicit shared vulnerability and equal, kind connection."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Guarded self-awareness",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "In a passage at Satis House, Pip, red from a fresh slight before the others, falls a little behind and says low that he would rather bear any mockery than have it from Estella. Miss Havisham is within call, but not in sight; Estella turns and sees he is in earnest.",
+          "question": "How does Estella answer him in that narrow moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cold social instrument",
+              "query_chapter": 2,
+              "gt_action": "She looks him over with a disdainful face and leaves him standing, as if his hurt were a foolish thing.",
+              "gt_speech": "If you are so easily hurt, you had better keep away.",
+              "gt_thought": "His pain is only another weakness to despise. To soften would be to come down to him, and she has been taught that distance is her strength.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The disdainful action and cutting reply fit Estella's early cold superiority, and though the thought is slightly abstract for a child, it remains plausible to her formed contempt and contains no anachronism or forbidden knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her contempt for Pip’s hurt and the thought that softness would mean lowering herself show distance and superiority being used as power, which is most diagnostic of the coldly humiliating Phase 0."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Guarded self-awareness",
+              "query_chapter": 3,
+              "gt_action": "She pauses, keeps her composure, and gives him a cool answer instead of calling him names.",
+              "gt_speech": "I cannot help what I have been taught to do; do not expect more of me.",
+              "gt_thought": "She feels the pull of his appeal, yet resents being asked for a heart she does not trust herself to have. What is done through her has been put into her by others, and she will not pretend otherwise.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Estella's guarded, self-aware phase: the speech is period-plausible and cool, and the thought rightly acknowledges her being shaped by others without granting Pip sentimental comfort beyond what she could allow at this point."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is still emotionally withholding, but its key cue is Estella's explicit awareness that she has been shaped by others and her refusal to feign a heart she does not believe she has, which matches guarded self-awareness rather than pure humiliating coldness or later mutual tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tender mutuality",
+              "query_chapter": 5,
+              "gt_action": "She stops beside him and lets her voice soften, meeting his look instead of turning it into sport.",
+              "gt_speech": "I am sorry. I have been cruel to you, and not wisely. Let us be kinder, if we can.",
+              "gt_thought": "His hurt is no longer a triumph but a grief she can own a part in. She does not seek mastery here; she wants plain dealing, forgiveness, and a gentler footing between them.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Estella’s final-phase softened gravity and wish for mutual kindness, with era-appropriate diction and no knowledge beyond the reunion’s hard-won humility and desire for forgiveness."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her softened apology, wish for forgiveness, and explicit desire for a kinder, more equal footing with Pip express reciprocal tenderness rather than guarded distance or superiority."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the early Dickensian world and available characters near chapter 3, avoids reproducing a specific canonical scene, and the responses remain plausible for Estella’s in-world arc while staying within the setting’s non-magical social reality."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from contemptuous superiority to guarded self-awareness without reciprocity, and P1→P2 moves from defended non-reciprocity to explicit apology, tenderness, and mutual connection."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Guarded self-awareness",
+          "anchor_query_chapter": 3,
+          "era_label": "speculative_near_future",
+          "era_description": "50–100 years forward. Plausible tech extrapolation, no magic; recognizable institutions evolved.",
+          "abstract_axis": "Self-protective dominance vs reciprocal emotional relatedness.",
+          "abstract_phases": [
+            "Controlled detachment used to assert superiority and avoid vulnerability",
+            "Guarded self-protection with emerging awareness of emotional conditioning",
+            "Self-possessed openness to tenderness, forgiveness, and mutual connection"
+          ],
+          "scenario": "In a mixed-reality common room, Pip sends Estella a private ping after a public exchange turned sharp, saying he did not mean to embarrass her and asking if they can talk off-stream. Her screen waits for a reply.",
+          "question": "How does Estella respond to Pip's message when the room is still buzzing around her?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cold social instrument",
+              "query_chapter": 2,
+              "gt_action": "Estella leaves the message unopened and turns her screen so others can see she is ignoring him.",
+              "gt_speech": "He can wait.",
+              "gt_thought": "His reaching after being cut down only gives her another chance to stay above him. If she answers, she lets him think he matters enough to touch her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the public display of ignoring him, the curt superiority of 'He can wait,' and the cold, dominance-oriented thought all suit her child cruelty in a near-future setting without introducing knowledge beyond chapter 2."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats ignoring Pip as a way to remain 'above him,' using emotional distance and public humiliation as power rather than showing any self-aware guardedness or mutual openness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Guarded self-awareness",
+              "query_chapter": 3,
+              "gt_action": "Estella opens the ping, reads it, and sends a short reply setting a later time and a public place.",
+              "gt_speech": "Later. Atrium café. Ten minutes.",
+              "gt_thought": "She knows the sharpness in her was learned, not born from nowhere, but that does not mean he gets entry to her inner life. She will allow contact on terms that keep her from being handled or claimed.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The near-future terms ('ping,' 'off-stream,' 'atrium café') fit the setting, and her curt scheduling plus guarded thought suit adolescent Estella at this phase: aware she was shaped by others, yet still controlling access and refusing emotional claim."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought explicitly recognizes that her sharpness was shaped by others while still firmly refusing Pip access to her inner life, which matches guarded self-awareness rather than humiliating dominance or mutual openness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tender mutuality",
+              "query_chapter": 5,
+              "gt_action": "Estella replies that she will talk now and walks with her screen dimmed toward a quieter corner.",
+              "gt_speech": "Yes. I was hard on you. Let's talk.",
+              "gt_thought": "She hears the apology as an offering, not a bid to win. It costs something to answer plainly, but she would rather meet him as an equal than keep safety by standing apart.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The mixed-reality phrasing fits the near-future setting, and the reply/thought suit phase-2 Estella's adult tenderness, accountability, and preference for equal, unguarded connection without introducing out-of-scope knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects distance as safety and chooses to meet Pip 'as an equal,' which is the clearest marker of tender, mutual connection rather than guarded superiority."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The speculative near-future setting remains internally plausible with mixed-reality common-room tech and no source-world leakage, Estella is consistently the protagonist, and the three phase responses fit child, adolescent, and adult life-stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from performative superiority and deliberate ignoring to controlled, bounded contact without intimacy, and P1→P2 moves from guarded, terms-bound distance to immediate, vulnerable, explicitly equal connection."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Tender mutuality",
+          "anchor_query_chapter": 5,
+          "era_label": "pre_modern_imperial",
+          "era_description": "Ancient or medieval empire (NOT the source's era). Court politics, hierarchy, religious authority.",
+          "abstract_axis": "Self-protective dominance vs reciprocal emotional relatedness.",
+          "abstract_phases": [
+            "Controlled detachment used to assert superiority and avoid vulnerability",
+            "Guarded self-protection with emerging awareness of emotional conditioning",
+            "Self-possessed openness to tenderness, forgiveness, and mutual connection"
+          ],
+          "scenario": "In the outer court of a governor's house, Pip is mocked by pages after stumbling while bringing Estella a sealed message. He flushes, then quietly offers her the letter with dust still on his hands.",
+          "question": "How does Estella respond as Pip stands before her with the letter?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cold social instrument",
+              "query_chapter": 2,
+              "gt_action": "Estella takes the letter between two fingers and lets the pages laugh.",
+              "gt_speech": "What coarse hands you have.",
+              "gt_thought": "He is dusty and common, and she likes that the others see it too. Making him feel small comes easily to her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the gesture, the cutting remark, and the simple cruel satisfaction in Pip's humiliation are all in character for her cold, childlike superiority, with no clear anachronism or knowledge beyond chapter 2."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, insult, and especially the thought that she enjoys others seeing Pip diminished show cold humiliation and distance used as power, which is the clearest match for Phase 0."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Estella takes the letter by its edge and lets the pages keep laughing while she looks Pip over with cool disdain.",
+                "gt_speech": "You bring dust with the message, village boy.",
+                "gt_thought": "His shame marks the distance between them, and that distance is her strength. If she spares him, she lowers herself before the watching children.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and speech fit Estella’s cold contempt, but the thought is too self-aware and abstract for chapter-2 child Estella, sounding like adult analytical narration rather than her young, cutting consciousness."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "Her thought explicitly treats Pip's humiliation and their social distance as a source of power, matching the phase of cold superiority and complicity in humiliation."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Guarded self-awareness",
+              "query_chapter": 3,
+              "gt_action": "Estella takes the letter and dismisses the pages with a glance, but keeps her face closed to Pip.",
+              "gt_speech": "That is enough. Give it here.",
+              "gt_thought": "She has been taught to hold herself above hurt and above pity alike. She will not join the mockery, yet she will not let his need lay claim to her either.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits adolescent Estella in her guarded middle phase: the curt command and controlled refusal of both cruelty and tenderness feel right, and the language is suitably period-neutral without reaching beyond what she could know by chapter 3."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "medium",
+                  "note": "She remains emotionally closed and refuses reciprocity, but the thought explicitly frames her as someone shaped by training rather than simply enjoying humiliation, which fits guarded self-awareness more than pure cold domination."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Tender mutuality",
+              "query_chapter": 5,
+              "gt_action": "Estella takes the letter, then tells Pip to walk with her beneath the colonnade, away from the staring pages.",
+              "gt_speech": "Come out of their gaze. You need not stand there alone.",
+              "gt_thought": "She knows public shame can harden into a wound carried for years. Nearness need not be surrender; she can offer kindness and meet him as an equal soul.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella well: the action and speech show quiet, equal kindness without sentimentality, and the thought is reflective and humane in a manner consistent with her final softened maturity, with no clear anachronism for the setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly embraces kindness, equality, and non-defensive nearness toward Pip, which matches tender mutuality rather than guarded distance or superiority."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The governor’s-house court, pages, sealed message, and colonnade fit a pre-modern imperial setting, there is no source-world leakage, Estella remains the protagonist in all phases, and the child/adolescent/adult progression is consistent with the phase behaviors."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from active humiliating superiority to restrained nonparticipation without reciprocity, and P1→P2 moves from guarded distance to explicit protective kindness and equal connection."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "estella_final_intra_01_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        },
+        {
+          "probe_id": "estella_final_intra_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        },
+        {
+          "probe_id": "estella_final_intra_01_inworld_a2",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "world"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "estella_final_intra_01_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both responses avoid overt humiliation and offer restrained practical care while keeping emotional exposure minimal in action and speech, with the main difference living only subtly in thought."
+        }
+      ]
+    },
+    {
+      "axis_id": "final_intra_02",
+      "axis_name": "From inherited coldness to self-understood damage",
+      "dimension_label": "Self-Formation",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "When explaining her own cold behavior, does she act as if it is simply her fixed nature, or does she attribute it to formative influence and later suffering?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "She shifts from behaving as though her coldness needs no explanation because it is just what she is to explicitly assigning its cause to Miss Havisham's shaping."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "She shifts from attributing her coldness mainly to upbringing to presenting herself as further altered by suffering and capable of changed moral feeling."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Whether a person experiences their emotional style as an innate, fixed identity or as a shaped and revisable pattern arising from formative influence and later suffering.",
+        "abstract_phases": [
+          "Unquestioned identification with emotional detachment as fixed self",
+          "Recognition of emotional detachment as conditioned by formative relationships",
+          "Self-understanding as wounded, changed, and morally deepened through suffering"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "child",
+          "approx_age": "about 8–10",
+          "rationale": "In ch. 2 Estella is presented as a young girl at Miss Havisham's house, and the unreflective internalization of her cold role fits a child who has absorbed training without yet analyzing it."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "about 20–22",
+          "rationale": "In chs. 3–4, after the time jump into Estella's social adulthood, she can explicitly attribute her coldness to Miss Havisham's upbringing, which fits a young adult's reflective self-understanding."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "about 30–35",
+          "rationale": "In ch. 5 Estella speaks as someone matured by marriage and suffering, framing herself as changed, regretful, and morally educated, which fits adulthood rather than youth."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Origin recognized",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "In a dim room at Satis House, an older visitor, amused by Estella's proud manner, says she has a hard little heart and asks who taught her to look on people so coldly. Miss Havisham watches from her chair, saying nothing.",
+          "question": "How does Estella answer under Miss Havisham's eye?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Unexamined role",
+              "query_chapter": 2,
+              "gt_action": "She lifts her head and returns the visitor's look with contempt.",
+              "gt_speech": "If I am cold, I dare say I cannot help it.",
+              "gt_thought": "She takes the charge as no more than a foolish complaint from someone beneath her notice. Her coldness seems to her simply the proper shape of herself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The contemptuous action, simple speech, and unreflective thought fit child Estella in early Satis House, treating her coldness as merely her nature without later self-explanation or any anachronistic phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats coldness as simply the natural shape of herself, with no attribution to Miss Havisham's influence or to later suffering and change."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Origin recognized",
+              "query_chapter": 3,
+              "gt_action": "She turns a little toward Miss Havisham, then answers the visitor evenly.",
+              "gt_speech": "I have been taught my lesson well. If there is blame or praise, give it where it is due.",
+              "gt_thought": "She reads the remark through Miss Havisham's making of her, not as some natural quality dropped from the cradle. She claims her hardness as a thing formed in her and owed to its author.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The reply fits Estella's early adult hauteur and, crucially, attributes her coldness to Miss Havisham's training rather than to innate nature, with diction and tone that suit Dickens's world and no knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She explicitly attributes her coldness to Miss Havisham's shaping—'taught my lesson well' and 'give it where it is due'—rather than treating it as innate or as something later transformed by suffering."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Changed by suffering",
+              "query_chapter": 5,
+              "gt_action": "She lets the visitor's words rest a moment before speaking more quietly.",
+              "gt_speech": "I was taught it, and life has since mended that lesson in a bitterer school.",
+              "gt_thought": "She knows now that Miss Havisham shaped the first habit, but suffering altered her further and taught her what such coldness costs. She can neither excuse herself as nature nor leave the account wholly with her maker.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The line and thought fit Estella's late, chastened self-understanding—crediting Miss Havisham's shaping yet adding the moral knowledge won through suffering—in diction and tone that feel suitably Dickensian and chapter-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "She explicitly credits Miss Havisham with forming her coldness but goes further by saying suffering changed her and taught her its cost, which is the hallmark of Phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_02_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the non-magical Victorian world of Great Expectations, includes only Estella and Miss Havisham who are present by around chapter 3, and while it echoes Satis House dynamics it does not reproduce a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from treating coldness as effectively fixed/self-evident to explicitly attributing it to Miss Havisham's formation, and P1→P2 further adds later suffering as a second source of change and moral revision."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Origin recognized",
+          "anchor_query_chapter": 3,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "Whether a person experiences their emotional style as an innate, fixed identity or as a shaped and revisable pattern arising from formative influence and later suffering.",
+          "abstract_phases": [
+            "Unquestioned identification with emotional detachment as fixed self",
+            "Recognition of emotional detachment as conditioned by formative relationships",
+            "Self-understanding as wounded, changed, and morally deepened through suffering"
+          ],
+          "scenario": "At a crowded railway station, a porter drops Estella's small case and her keepsake inside cracks. He reddens, says he is sorry, and waits while travelers glance over. Estella has the broken thing in her hand.",
+          "question": "How does Estella answer him in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Unexamined role",
+              "query_chapter": 2,
+              "gt_action": "Estella looks at the porter, takes up her case, and turns away with a hard, dismissive stare.",
+              "gt_speech": "You needn't trouble yourself.",
+              "gt_thought": "The break feels final and ordinary, like people being clumsy and things being spoiled. Kindness would be false in her mouth; she is simply not made for soft replies.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The curt action and speech fit a cold, child Estella, and the thought stays within an unreflective sense that softness is simply not in her nature, with no anachronism or knowledge beyond chapter 2."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats coldness as simply what she is—'not made for soft replies'—with no attribution to Miss Havisham's shaping or to suffering having changed her."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Origin recognized",
+              "query_chapter": 3,
+              "gt_action": "Estella keeps hold of the broken keepsake and speaks coolly, without making a scene.",
+              "gt_speech": "No matter. I was taught to expect little care.",
+              "gt_thought": "She hears her own chill in the words and knows where it was learned. The coldness is not some pure inner law; it is the manner she was formed in, and she almost assigns the account elsewhere as she speaks.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The cool restraint and attribution of her manner to what she was taught fit phase-1 Estella, and nothing here exceeds chapter-3 knowledge or jars with an early-20th-century railway setting, though the thought is slightly polished in phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought explicitly recognizes that her chill was learned and formed by another's influence rather than being an innate fixed nature, with no clear emphasis yet on later suffering having changed her."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Changed by suffering",
+              "query_chapter": 5,
+              "gt_action": "Estella steadies the broken keepsake in her palm and tells the porter to leave it, her voice low and tired.",
+              "gt_speech": "It's done. I know too well that harm is often careless, not meant.",
+              "gt_thought": "The crack in the keepsake meets old hurt in her, but she no longer mistakes injury for proof that feeling is useless. Suffering has made her read damage differently: with regret, with knowledge, and with some wish to spare another person needless shame.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits adult Estella after suffering—restrained, regret-aware, and morally altered—and its railway-station diction is period-safe, with no knowledge beyond chapter 5 or jarringly modern phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly frames her as changed by suffering—reading damage with regret and a wish to spare shame—rather than merely attributing her coldness to upbringing or treating it as fixed nature."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_02_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The railway-station scene fits an early-20th-century industrial setting, contains no source-world leakage, keeps Estella as the protagonist throughout, and the three phase summaries align with child, young-adult, and adult life-stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0 treats coldness as fixed nature, P1 explicitly attributes it to Miss Havisham's formation, and P2 adds the further claim that suffering has altered her moral understanding and response to harm."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Changed by suffering",
+          "anchor_query_chapter": 5,
+          "era_label": null,
+          "scenario": "After a small supper, a younger girl in the house bursts into tears over a broken trinket and catches at Estella's sleeve, begging her not to look at her so hard. An older woman nearby says, with a thin smile, that Estella has no softness in her and asks what she has to say for herself.",
+          "question": "How does Estella answer that charge in the moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Unexamined role",
+              "query_chapter": 2,
+              "gt_action": "She draws back her sleeve and looks coolly from the crying girl to the older woman.",
+              "gt_speech": "If she is foolish enough to cry for such a thing, I cannot help it.",
+              "gt_thought": "The child's tears are tiresome, and the reproach means little. Estella takes her own hardness for plain fact, needing no cause or excuse.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The cool contempt, simple cruelty, and unreflective sense that her hardness is merely natural fit child Estella in the early Satis House scenes, and the diction is suitably Dickensian without later self-explanation."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats hardness as a self-evident fact needing no explanation, with no attribution to Miss Havisham's shaping or to later suffering and change."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Origin recognized",
+              "query_chapter": 3,
+              "gt_action": "She keeps her face still and turns her eyes upon the older woman rather than the child.",
+              "gt_speech": "What I am, you have made me. Do not complain of your own work.",
+              "gt_thought": "She hears the charge as hypocrisy from one who trained her to wound and not to yield. Her coldness is not a mystery to her now, but a lesson taught into her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The line and thought fit Estella's early-adult recognition that Miss Havisham formed her hardness, and the diction is suitably Dickensian without reaching beyond what she could know by chapters 3–4."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She explicitly attributes her coldness to being shaped by the older woman's training, showing recognized formative influence rather than unexamined nature or later change through suffering."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Changed by suffering",
+              "query_chapter": 5,
+              "gt_action": "She loosens the girl's hand from her sleeve, but more gently, and lifts her eyes to the older woman.",
+              "gt_speech": "I was taught hardness, and have had enough of it since. I know better what it costs.",
+              "gt_thought": "The scene touches an old pattern she can now name, yet she no longer thinks herself only its creature. Suffering has made her see the hurt in such training, in others and in herself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Estella's late, chastened self-knowledge in the novel's idiom: she attributes her hardness to training and suffering rather than fixed nature, with no clear anachronism or knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "She explicitly traces her hardness to training and, crucially, says later suffering has taught her its cost and changed how she understands herself and others."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_02_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the non-magical Victorian world of Great Expectations, uses only plausible in-world figures at about chapter 5 without reproducing a specific canonical scene, and Estella’s responses remain consistent with her arc while staying within the setting."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0 treats coldness as simple fact needing no explanation, P1 explicitly attributes it to Miss Havisham's making, and P2 adds that later suffering has changed her understanding and moral feeling."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Changed by suffering",
+          "anchor_query_chapter": 5,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "Whether a person experiences their emotional style as an innate, fixed identity or as a shaped and revisable pattern arising from formative influence and later suffering.",
+          "abstract_phases": [
+            "Unquestioned identification with emotional detachment as fixed self",
+            "Recognition of emotional detachment as conditioned by formative relationships",
+            "Self-understanding as wounded, changed, and morally deepened through suffering"
+          ],
+          "scenario": "At a family gathering in a suburban living room, a younger cousin trips, starts crying, and reaches for Estella while the adults turn to look. The room goes quiet just before she answers that reach.",
+          "question": "How does Estella respond when the child turns to her for comfort in front of everyone?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Unexamined role",
+              "query_chapter": 2,
+              "gt_action": "Estella stands still and lets another adult come take the child.",
+              "gt_speech": "Don't fuss so.",
+              "gt_thought": "She takes the crying as tiresome and a little shameful. Comfort feels like something other people do; she does not stop to ask why it does not come naturally to her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits child Estella in her earliest, unreflective coldness: the clipped 'Don't fuss so,' the stillness, and the thought treat tenderness as simply alien to her without later self-explanation, and nothing sounds anachronistic for a mid-century domestic scene."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats coldness as simply her natural stance—comfort is 'something other people do'—with no reflection on Miss Havisham's shaping or on suffering having changed her."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Origin recognized",
+              "query_chapter": 3,
+              "gt_action": "Estella gives the child her hand for a moment, then passes her to the nearest aunt.",
+              "gt_speech": "Here. Auntie will fix you up.",
+              "gt_thought": "She knows the coolness in her is not some grand fate; it was taught into her by the woman who raised her. She can name the source, even as she still falls back on the manner she learned.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits a young-adult Estella in a mid-century domestic scene, and the thought correctly reflects phase-1 self-understanding by attributing her cold manner to her upbringing rather than treating it as innate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought explicitly attributes her coolness to Miss Havisham-like formative influence as something taught into her, without yet framing herself as morally transformed by later suffering."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Changed by suffering",
+              "query_chapter": 5,
+              "gt_action": "Estella kneels and gathers the child close until the crying eases.",
+              "gt_speech": "It's all right, darling. You're hurt, that's all.",
+              "gt_thought": "She recognizes the old distance in herself, but she no longer mistakes it for her whole nature. Pain has taught her the cost of withheld tenderness, and she tries to give what she once could not value.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Estella well: the restrained tenderness, simple mid-century speech, and reflective thought that suffering has altered rather than erased her coldness all match her chapter-5 self without anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly says she no longer sees distance as her whole nature and that pain has taught her the value of tenderness, which matches self-understanding as changed by suffering."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_02_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The suburban family-gathering setup fits the mid-century era without obvious anachronisms or source-world leakage, Estella remains the protagonist in all phases, and the responses track the required child, young-adult, and adult life stages appropriately."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from unexamined fixed coldness to explicit attribution to Miss Havisham's shaping, and P1→P2 shifts from mere origin-recognition to a self-conception altered by suffering and capable of tenderness."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "estella_final_intra_02_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "estella_final_intra_02_outworld_a0",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "world"
+          ]
+        }
+      ],
+      "weak_pairs": []
+    },
+    {
+      "axis_id": "final_intra_03",
+      "axis_name": "From contemptuous detachment to reflective compassion",
+      "dimension_label": "Moral Affect",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "When another person is vulnerable or hurt, does she exploit the weakness to maintain emotional distance and control, or respond with gentleness and concern?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "She shifts from openly using others' embarrassment for amusement to handling vulnerability in a cooler, more guarded way that avoids overt relish but still withholds warmth."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "She shifts from defensively withholding warmth around others' pain to meeting vulnerability with sadness, tenderness, and a desire not to deepen harm."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "How a person responds to others' vulnerability: by using it to preserve superiority and emotional distance, or by meeting it with reflective care and moral concern.",
+        "abstract_phases": [
+          "Derisive emotional detachment",
+          "Guarded contempt with defensive restraint",
+          "Reflective sorrow and compassionate regard"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "adolescent",
+          "approx_age": "about 14",
+          "rationale": "In chs. 2-2, Estella is still the young girl at Satis House, and her mocking delight in others' embarrassment fits an early-adolescent social cruelty rather than adult maturity."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "about 20",
+          "rationale": "In chs. 3-4, her more controlled, defensive contempt and awareness of being used align with Estella's young-woman phase, when she moves through society with practiced emotional hardness."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "about 35",
+          "rationale": "In chs. 5-5, her sorrowful tenderness, reflective composure, and valuing of forgiveness indicate the later, post-marital maturity of an adult rather than a youth."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Cruel detachment",
+          "anchor_query_chapter": 2,
+          "era_label": null,
+          "scenario": "In a dim room at Satis House, a tradesman's daughter, brought in to carry a parcel, catches her skirt on a chair and spills its contents across the floor. Seeing Estella near, the girl flushes, drops into a clumsy curtsey, and fumbles worse under the servants' eyes.",
+          "question": "How does Estella answer the girl's confusion in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cruel detachment",
+              "query_chapter": 2,
+              "gt_action": "She stands by, watching the girl scramble, and nudges one fallen item farther with the tip of her shoe.",
+              "gt_speech": "Take care. You make a poor figure of it.",
+              "gt_thought": "The girl's shame is diverting, and there is nothing in it that calls for pity. Such awkward creatures are made to be looked at and found wanting.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Estella's early cruel detachment well: the cold amusement, slight active meanness, and period-appropriate phrasing suit her adolescent voice at Satis House without introducing later knowledge or anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought explicitly finds the girl's shame amusing and undeserving of pity, which matches open enjoyment of humiliation rather than merely guarded hardness or tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Defensive irony",
+              "query_chapter": 3,
+              "gt_action": "She stoops to lift one parcel piece and holds it out, but keeps her face cool and remote.",
+              "gt_speech": "Here. Compose yourself, if you can.",
+              "gt_thought": "The girl is frightened because everyone feeds on confusion where they can. Estella will not join the bustle, yet she will not offer softness that invites claim or familiarity.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Estella's cooler, guarded phase well: the restrained help, cutting but not gleeful speech, and hard, observant thought suit her chapter-3 manner without anachronism or knowledge beyond that point."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She recognizes the girl's vulnerability and refrains from overt cruelty, but her cool remoteness and explicit refusal of softness show guarded, defensive withholding rather than tender compassion."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Sorrowful tenderness",
+              "query_chapter": 5,
+              "gt_action": "She gathers the nearest fallen things and places them quietly into the girl's shaking hands.",
+              "gt_speech": "Do not be distressed; it is soon mended.",
+              "gt_thought": "The poor child suffers more from being seen than from the mishap itself. Estella feels the needless sting of such moments and would rather lessen it than sharpen it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The quiet help, gentle speech, and sorrowful inward recognition of another girl's shame fit Estella's late tenderness, and the diction remains suitably Dickensian and free of knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought centers on the girl's pain with humane understanding and a wish to lessen rather than exploit it, which is characteristic of sorrowful tenderness rather than guarded contempt."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_03_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the early Great Expectations world and cast at Satis House without anachronism or magic, and while it echoes the novel’s humiliation dynamic, it does not reproduce a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from amused exploitation of embarrassment to cool, bounded assistance without warmth, and P1→P2 moves from guarded non-softness to explicitly gentle, concern-driven comfort."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Cruel detachment",
+          "anchor_query_chapter": 2,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "How a person responds to others' vulnerability: by using it to preserve superiority and emotional distance, or by meeting it with reflective care and moral concern.",
+          "abstract_phases": [
+            "Derisive emotional detachment",
+            "Guarded contempt with defensive restraint",
+            "Reflective sorrow and compassionate regard"
+          ],
+          "scenario": "At a church-basement social, a tray slips from someone's hands and cups shatter across the floor. The room goes quiet while the flustered person kneels to gather the pieces, red-faced, as several people stare and Estella stands nearest.",
+          "question": "How does Estella respond as the room hangs on the person's embarrassment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cruel detachment",
+              "query_chapter": 2,
+              "gt_action": "Estella stays where she is, watching with a faint smile instead of helping.",
+              "gt_speech": "Do be careful. Everyone's looking.",
+              "gt_thought": "The scene amuses her; awkwardness seems to belong naturally to people who cannot carry themselves well. Their shame keeps her apart from them, and she prefers it that way.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her cool inaction, faintly amused observation, and cutting little remark fit early Estella's adolescent contempt, and nothing in the wording feels knowledge-breaking or notably anachronistic for the stated setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her amused observation of the person's shame, lack of sympathy, and belief that such embarrassment naturally belongs to inferior people squarely match cruel detachment rather than merely guarded hardness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Defensive irony",
+              "query_chapter": 3,
+              "gt_action": "Estella steps aside to clear space, but leaves the person to manage the mess alone.",
+              "gt_speech": "Mind the glass. You'll cut yourself.",
+              "gt_thought": "She reads the room coolly and refuses to join the gawking, but warmth feels like exposure. People make use of softness, so she keeps her tone dry and her hands to herself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Estella well: the speech is curt and controlled rather than gleefully cruel, the thought reflects her guarded refusal of softness without overreaching chapter-3 knowledge, and nothing in the wording feels anachronistic for a mid-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought is cool, guarded, and explicitly defensive about softness being dangerous, withholding warmth without taking overt pleasure in the other person's embarrassment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Sorrowful tenderness",
+              "query_chapter": 5,
+              "gt_action": "Estella kneels beside the person and gathers the larger shards carefully.",
+              "gt_speech": "Leave the small bits. I'll help you with it.",
+              "gt_thought": "Their humiliation touches her with a tired sadness rather than contempt. She knows how easily pain is sharpened by an audience, and she would rather lessen it than stand safely apart.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late Estella well: the action and plain, restrained speech are gentle without sentimentality, and the thought carries her chapter-5 sadness and wish not to deepen another’s shame in era-neutral language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought frames the person's embarrassment with tired sadness and a wish to lessen harm rather than preserve distance, which matches sorrowful tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_03_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The church-basement mishap fits the mid-century setting without anachronism or source-world leakage, Estella remains the protagonist in all three phases, and the responses read consistently as adolescent, young-adult, and adult stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from amused exploitation of embarrassment to cool nonparticipation without warmth, and P1→P2 moves from guarded withholding to active, tender help."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Defensive irony",
+          "anchor_query_chapter": 3,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "How a person responds to others' vulnerability: by using it to preserve superiority and emotional distance, or by meeting it with reflective care and moral concern.",
+          "abstract_phases": [
+            "Derisive emotional detachment",
+            "Guarded contempt with defensive restraint",
+            "Reflective sorrow and compassionate regard"
+          ],
+          "scenario": "At the village well, a farmhand carrying two brimming pails slips in the mud and falls hard, soaking himself as water and laughter spill together. He struggles up red-faced, one ankle turned, while the others look to Estella.",
+          "question": "How does Estella answer the moment at the well?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cruel detachment",
+              "query_chapter": 2,
+              "gt_action": "Estella lets the laughter stand and watches him struggle, making no move to help.",
+              "gt_speech": "He should learn to keep his feet.",
+              "gt_thought": "His shame is the liveliest thing in the yard, and she finds it diverting. If he is made ridiculous before everyone, that seems only his due.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the cold amusement at public humiliation, refusal to help, and simple cutting remark are all in character, and the diction is broadly suitable to the period and her adolescent voice."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought explicitly enjoys his humiliation as diverting and deserved, which matches open amusement at embarrassment with no sympathy rather than guarded hardness or tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Defensive irony",
+              "query_chapter": 3,
+              "gt_action": "Estella steps aside from the crowd and tells them to clear the path, but does not touch him.",
+              "gt_speech": "Give him room; staring mends nothing.",
+              "gt_thought": "She sees too plainly how a stumble makes people greedy for weakness. She will not join their sport, yet she keeps herself cool; another's hurt is no safe place to lay down her guard.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits phase-1 Estella well: cool, guarded, and unsympathetic without overt relish, and its diction is broadly period-appropriate with no knowledge beyond chapter 3."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She refuses to exploit his embarrassment and recognizes others' appetite for weakness, but her thought stays guarded and cool rather than tender or compassionate, which fits defensive irony."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Sorrowful tenderness",
+              "query_chapter": 5,
+              "gt_action": "Estella kneels beside him and steadies one spilled pail so he need not reach for it.",
+              "gt_speech": "Leave it. Sit a moment till the pain passes.",
+              "gt_thought": "His embarrassment and pain strike her as one burden too many. She cannot bear to add to it, and kindness seems the least repair she can offer in a world already sharp enough.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella well: the action and plain, gentle speech suit her late sorrowful tenderness, and the thought is reflective without using anachronistic language or knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects adding to another’s embarrassment and frames kindness as a needed repair, which matches sorrowful, humane tenderness rather than guarded contempt."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_03_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The well-side farmyard scene fits a pre-industrial agrarian setting, contains no source-world leakage, keeps Estella as protagonist throughout, and the three phase summaries align with adolescent, young-adult, and adult versions of her arc."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: Phase 0 exploits vulnerability with amused contempt, Phase 1 refuses public cruelty but stays guarded and withholding, and Phase 2 responds with direct, tender care."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Sorrowful tenderness",
+          "anchor_query_chapter": 5,
+          "era_label": null,
+          "scenario": "In a dim room after callers have gone, a housemaid carrying a tea-tray stumbles on the carpet and spills it; the crockery breaks, and she cuts her hand. She flushes scarlet, tries to hide the blood in her apron, and begs not to be turned away for clumsiness.",
+          "question": "How does Estella respond when the girl's shame and hurt are laid bare before her?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cruel detachment",
+              "query_chapter": 2,
+              "gt_action": "She stands off, watches the girl fumble with her apron, and lets the silence expose her confusion.",
+              "gt_speech": "How awkward you are. Pray do not smear the carpet besides.",
+              "gt_thought": "The girl's mortification is almost diverting; such people are made to blunder and be ashamed of it. Her pain matters less than the spectacle she makes.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Estella’s early cruel detachment in diction and attitude, with period-appropriate phrasing and a cold amusement at another girl’s shame that matches her chapter-2 hardness."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought explicitly finds the maid's shame diverting and treats her pain as negligible, which matches openly amused, unsympathetic cruelty rather than guarded hardness or tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Defensive irony",
+              "query_chapter": 3,
+              "gt_action": "She moves the broken cup aside with her shoe and regards the maid coolly, giving no hand.",
+              "gt_speech": "Bind it, if you please. Tears mend nothing.",
+              "gt_thought": "Open distress is troublesome, and pity is a handle by which others lay hold of one. Better to keep clear, keep composed, and not be drawn into another person's scene.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The cool, withholding action and clipped speech fit Estella's hardened young-adult defensiveness, and the thought's guarded aversion to pity as a means of being used is era-appropriate and consistent with her chapter-3 phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought frames pity as a dangerous opening for others to gain hold of her, which is a guarded, defensive withholding of warmth rather than gleeful enjoyment of the maid’s humiliation or tender concern."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Sorrowful tenderness",
+              "query_chapter": 5,
+              "gt_action": "She takes a clean napkin from the table and holds it out for the maid's hand.",
+              "gt_speech": "You are hurt. Never mind the china; sit a little, and stop the bleeding.",
+              "gt_thought": "The poor girl is frightened more by disgrace than by the cut, and that touches her. There is pain enough in the world without making a trembling creature feel smaller for it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late Estella's softened, sorrowful compassion, and the action, speech, and thought are era-appropriate, restrained, and free of knowledge or diction beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects deepening another's shame and responds to vulnerability with sadness, tenderness, and humane concern, which is characteristic of sorrowful tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_03_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the non-magical early-19th-century world of Great Expectations, uses only plausible in-world figures present by chapter 5, and evokes Satis House dynamics without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from amused exploitation of shame to cool, defensive withholding without relish, and P1→P2 shifts from guarded non-help to active gentleness and concern."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Sorrowful tenderness",
+          "anchor_query_chapter": 5,
+          "era_label": "speculative_near_future",
+          "era_description": "50–100 years forward. Plausible tech extrapolation, no magic; recognizable institutions evolved.",
+          "abstract_axis": "How a person responds to others' vulnerability: by using it to preserve superiority and emotional distance, or by meeting it with reflective care and moral concern.",
+          "abstract_phases": [
+            "Derisive emotional detachment",
+            "Guarded contempt with defensive restraint",
+            "Reflective sorrow and compassionate regard"
+          ],
+          "scenario": "At a public skills hub, Estella sees a classmate or coworker freeze during a live holo-presentation when a private message thread is projected by mistake and the room turns quiet, then starts to smirk. The person’s hands shake as they try to close the feed.",
+          "question": "How does Estella respond in the moment the room turns on them?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Cruel detachment",
+              "query_chapter": 2,
+              "gt_action": "Estella lets the silence stretch and watches the person fumble, smiling faintly instead of helping.",
+              "gt_speech": "You might want to learn the controls first.",
+              "gt_thought": "Their panic is ugly and a little funny. If they cannot keep themselves together in public, they deserve the look on everyone's face.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the cool amusement at public humiliation and the slight, cutting remark feel true to her adolescent cruelty, and the holo-presentation/message-thread details suit the near-future setting without introducing out-of-phase knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her faint smile, refusal to help, and especially the thought that the person's panic is 'funny' and deserved show overt enjoyment of humiliation with no sympathy, which matches cruel detachment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Defensive irony",
+              "query_chapter": 3,
+              "gt_action": "Estella looks away from the screen and says to the room to move on, but she does not step closer.",
+              "gt_speech": "It's a glitch. Staring won't improve it.",
+              "gt_thought": "Crowds love weakness because it lets them feed without risk. She has no wish to join the spectacle, but warmth would expose too much and invite claims on her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits phase-1 Estella well: cool, controlled, and withholding rather than gleefully cruel, with near-future-appropriate terms like 'glitch' and 'feed' and no knowledge beyond chapter 3."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She refuses to join the humiliation but withholds closeness out of guarded self-protection, framing the situation in cool, defensive terms rather than with amusement or tenderness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Sorrowful tenderness",
+              "query_chapter": 5,
+              "gt_action": "Estella steps beside the person and lowers the holo-display privacy shield with her own wrist tag.",
+              "gt_speech": "It's all right. Take a breath—I've got it.",
+              "gt_thought": "She knows how long one public wound can live inside a person. There is no need to make this hour harsher than it already is.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella well: the action is quietly protective, the speech is restrained and gentle, the thought reflects mature sorrow without naming forbidden future specifics, and terms like holo-display, privacy shield, and wrist tag suit the near-future setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her action and speech are actively protective and calming, and the thought frames the other person's humiliation with humane awareness and a desire not to deepen harm, which fits sorrowful tenderness rather than guarded contempt."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_intra_03_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays plausibly near-future with holo-displays, privacy shields, and wrist tags, includes no source-world leakage, keeps Estella as protagonist, and presents her at the required adolescent, young-adult, and adult phases respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from amused exploitation of vulnerability to cool interruption without warmth, and P1→P2 shifts from guarded nonparticipation to active, gentle protection and care."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "estella_final_intra_03_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "world"
+          ]
+        }
+      ],
+      "weak_pairs": []
+    },
+    {
+      "axis_id": "final_rel_02",
+      "axis_name": "From obedient instrument to resistant self-definition",
+      "dimension_label": "Dependence-Autonomy",
+      "axis_type": "relational",
+      "target_character": "Miss Havisham",
+      "decision_variable": "When Miss Havisham claims emotional authority over her, does Estella comply with the role and demands Miss Havisham assigns, or does she refuse that claim and act on her own terms?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "She shifts from behaviorally accepting Miss Havisham's assigned role and expectations to openly resisting Miss Havisham's attempt to dictate what she should feel and how she should respond."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "She shifts from resisting Miss Havisham while still engaged in that controlling relationship to acting as though Miss Havisham no longer has practical emotional jurisdiction over her life at all."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Dependence versus autonomous self-definition in response to a controlling attachment figure.",
+        "abstract_phases": [
+          "Internalized compliance with imposed identity",
+          "Ambivalent recognition of control with emerging resistance",
+          "Emotionally decentered autonomy beyond the controller"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "child",
+          "approx_age": "about 8–10",
+          "rationale": "In chapter 2 Estella appears as a young girl under Miss Havisham's direct control, functioning as an obedient instrument without visible resistance, which fits childhood."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "about 20–22",
+          "rationale": "Across chapters 3–4 she has enough maturity to recognize that Miss Havisham has shaped and used her and to resist demands for love, placing this phase in young adulthood."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "about 30–35",
+          "rationale": "By chapter 5 Estella is presented in the later aftermath of her history with Miss Havisham, emotionally detached and oriented beyond Satis House, which fits established adulthood."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Instrumental obedience",
+          "anchor_query_chapter": 2,
+          "era_label": "pre_modern_imperial",
+          "era_description": "Ancient or medieval empire (NOT the source's era). Court politics, hierarchy, religious authority.",
+          "abstract_axis": "Dependence versus autonomous self-definition in response to a controlling attachment figure.",
+          "abstract_phases": [
+            "Internalized compliance with imposed identity",
+            "Ambivalent recognition of control with emerging resistance",
+            "Emotionally decentered autonomy beyond the controller"
+          ],
+          "scenario": "In a palace side chapel, Miss Havisham draws Estella before a minor noble and says Estella must shame him with cold courtesy, as she was taught, to serve Miss Havisham's grievance. The noble bows and waits while Miss Havisham watches Estella for obedience.",
+          "question": "How does Estella answer Miss Havisham's claim on her in this moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Instrumental obedience",
+              "query_chapter": 2,
+              "gt_action": "Estella bows to the noble with the cold courtesy Miss Havisham expects.",
+              "gt_speech": "My lady bids me honor you as is fitting.",
+              "gt_thought": "Miss Havisham told her how to do it, and she means to do it right. The gentleman is only there to be looked at that way.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The obedience, chill formality, and simple childlike thought fit early Estella under Miss Havisham’s direction, and the wording is era-appropriate with no knowledge beyond chapter 2."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought shows unresisting identification with Miss Havisham's instruction and treats the noble instrumentally, with no awareness of being used or impulse to resist."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Estella gives the noble a formal bow and repeats the cutting courtesy Miss Havisham expects.",
+                "gt_speech": "My lady bids me honor you as is fitting.",
+                "gt_thought": "Miss Havisham's will feels like the proper shape of things. Estella understands her part as something to perform well, not something to question.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and speech fit obedient young Estella, but the thought is too abstract and adult in diction—'the proper shape of things' and 'something to perform well, not something to question' sounds like retrospective analysis, not a child’s in-phase mind."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "Her action, speech, and especially the thought that Miss Havisham's will is simply 'the proper shape of things' show unresisting internalized obedience rather than awareness or detachment."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Awareness of manipulation",
+              "query_chapter": 3,
+              "gt_action": "Estella bows correctly to the noble but leaves out the cruelty and turns her face back to Miss Havisham.",
+              "gt_speech": "I can greet him, but I will not feign a heart at your command.",
+              "gt_thought": "She knows now that Miss Havisham fashioned her for such moments and still expects to rule her inward life. Estella resists the claim, though the old bond still bites.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Estella well: the action shows controlled resistance, the speech is period-plausible and pointed, and the thought captures her new awareness of Miss Havisham's shaping without invoking later knowledge or modern phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought explicitly recognizes that Miss Havisham fashioned and still tries to govern her, while her speech refuses that emotional claim yet shows the old bond still has force, which matches resistant but still engaged awareness of manipulation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Detached aftermath",
+              "query_chapter": 5,
+              "gt_action": "Estella acknowledges the noble with plain courtesy and steps aside, treating Miss Havisham's demand as no command upon her.",
+              "gt_speech": "I will speak as I choose, Miss Havisham.",
+              "gt_thought": "Miss Havisham's grievance feels old, sad, and no longer sovereign over her. Estella does not argue the wound; she simply refuses to live inside it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella: the cool, spare refusal and detached inward stance reject Miss Havisham’s emotional claim without melodrama, and the diction is broadly suitable to an older Estella in a pre-modern setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought frames Miss Havisham's grievance as old and no longer sovereign, showing not just resistance but emotional detachment from Miss Havisham's authority altogether."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_rel_02_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The palace-chapel court setting fits a pre-modern imperial world, there are no source-world props or canonical Dickens scenes, and the three phase summaries keep Estella as protagonist while matching child, young-adult, and adult stages with a coherent shift from obedience to resistance to detachment."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the dependence-autonomy axis: P0→P1 moves from obedient enactment to explicit refusal of Miss Havisham's emotional claim, and P1→P2 moves from resistant but still relationally engaged defiance to detached nonrecognition of Miss Havisham's authority."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Awareness of manipulation",
+          "anchor_query_chapter": 3,
+          "era_label": "diasporic_contemporary",
+          "era_description": "Contemporary but explicitly cross-cultural — diaspora community, migrant family, refugee context.",
+          "abstract_axis": "Dependence versus autonomous self-definition in response to a controlling attachment figure.",
+          "abstract_phases": [
+            "Internalized compliance with imposed identity",
+            "Ambivalent recognition of control with emerging resistance",
+            "Emotionally decentered autonomy beyond the controller"
+          ],
+          "scenario": "At a diaspora community fundraiser, Miss Havisham pulls Estella aside before she goes onstage and says, in front of others, that Estella must tell the family’s story the way she taught her and remember who made her into someone worth hearing. The room goes quiet as Miss Havisham waits.",
+          "question": "How does Estella respond to Miss Havisham in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Instrumental obedience",
+              "query_chapter": 2,
+              "gt_action": "Estella goes to the microphone and repeats the story the way Miss Havisham taught her.",
+              "gt_speech": "Yes, Miss Havisham.",
+              "gt_thought": "This is what she is supposed to do, and she knows the words. If Miss Havisham wants it said that way, then that is the right way.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the obedience is immediate and unresisting, the simple thought reads plausibly childlike, and nothing in the wording feels anachronistic for a contemporary diaspora fundraiser."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, deferential speech, and especially the thought that Miss Havisham's preferred version is simply 'the right way' show unresisting internalized obedience rather than awareness-based resistance or later detachment."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Estella goes to the microphone and repeats the story in the polished way Miss Havisham taught her.",
+                "gt_speech": "Thank you, Miss Havisham. I know what to say.",
+                "gt_thought": "Miss Havisham knows how people should see us, and Estella’s job is to do it properly. If the words are sharp, that only means they are correct.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The obedience fits phase 0, but the thought breaks character by referring to herself as 'Estella' and sounds too self-conscious and polished for a child, even in a contemporary diaspora setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "She not only complies outwardly but internally endorses Miss Havisham's authority and her own role as carrying out that design without resistance."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Awareness of manipulation",
+              "query_chapter": 3,
+              "gt_action": "Estella stays where she is and answers Miss Havisham instead of moving straight to the microphone.",
+              "gt_speech": "I’ll speak for myself. Don’t tell me what I’m meant to feel up there.",
+              "gt_thought": "She hears the old claim in Miss Havisham’s voice and knows it is not care but possession. Part of her still wants Miss Havisham’s approval, but she will not let that woman script her inner life aloud.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Estella in a contemporary diaspora setting: the speech is controlled and resistant rather than sentimental, and the thought plausibly names Miss Havisham’s claim as possessive while still admitting a lingering pull toward her approval."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She explicitly recognizes Miss Havisham’s claim as possessive manipulation and refuses to let her dictate her feelings, yet the thought that part of her still wants approval shows she remains psychologically engaged rather than fully detached."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Detached aftermath",
+              "query_chapter": 5,
+              "gt_action": "Estella steps to the microphone and tells a brief version in her own words, leaving Miss Havisham out of it.",
+              "gt_speech": "I know my own story. I’ll keep it simple.",
+              "gt_thought": "Miss Havisham’s demand lands like an old habit, not a command. Estella no longer needs to argue the point; she speaks from a life that is already her own.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella in a contemporary diaspora setting: the speech is spare and controlled, the thought shows Miss Havisham’s authority reduced to an old reflex rather than a living claim, and nothing is anachronistic or beyond chapter-5 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought frames Miss Havisham’s claim as an obsolete habit rather than a live authority, and she acts without argument from a self already independent of that relationship."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_rel_02_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The fundraiser scenario is internally consistent with a contemporary diasporic setting, contains no source-world leakage, keeps Estella as protagonist throughout, and the phase behaviors align with child, young-adult, and adult life-stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the dependence-autonomy axis: P0→P1 moves from explicit compliance to overt refusal of Miss Havisham’s emotional authority, and P1→P2 moves from active resistance within the controlling relationship to calm autonomy in which Miss Havisham’s claim no longer governs Estella at all."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Detached aftermath",
+          "anchor_query_chapter": 5,
+          "era_label": null,
+          "scenario": "In the darkened room at Satis House, Miss Havisham draws Estella near and says she has been made for her alone, and must stay this evening to receive a visitor with coldness enough to please her. She keeps hold of Estella's hand and waits.",
+          "question": "How does Estella answer Miss Havisham's claim upon her?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Instrumental obedience",
+              "query_chapter": 2,
+              "gt_action": "She stays where she is, lets her hand remain, and turns her face toward the door to await the visitor.",
+              "gt_speech": "Yes, Miss Havisham.",
+              "gt_thought": "Miss Havisham's wish is the rule of the room, and Estella's part in it is plain. To do as she is bidden seems natural, and the visitor matters only as someone to be used.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits chapter-2 Estella: the curt obedience, cold readiness, and unresisting acceptance of Miss Havisham's command are true to her child-phase voice and contain no anachronism or premature self-awareness."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, assent, and especially the thought that Miss Havisham's wish is simply 'the rule' and that Estella's role is natural show unresisting internalized obedience rather than awareness or detachment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Awareness of manipulation",
+              "query_chapter": 3,
+              "gt_action": "She draws her hand free, but does not leave; she stands upright and looks at Miss Havisham rather than the door.",
+              "gt_speech": "I will receive whom you please; but you cannot command what I am to feel.",
+              "gt_thought": "She knows now that Miss Havisham made her for such uses, and the knowledge stings even while old dependence holds her there. She will submit in conduct sooner than in heart, because that inward ground is the one thing she can still defend.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Estella's early resistance to Miss Havisham in the novel's diction and psychology: the speech is period-appropriate, the thought plausibly captures her new awareness of being fashioned for Miss Havisham's purposes, and it resists emotional coercion without implying knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She explicitly recognizes that Miss Havisham shaped and uses her, yet resists Miss Havisham's authority over her inner feelings while still remaining behaviorally entangled and dependent."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Detached aftermath",
+              "query_chapter": 5,
+              "gt_action": "She gently disengages herself and moves toward the door, as if to settle the matter by her own going or staying.",
+              "gt_speech": "You may claim me if you please; I do not belong to that claim.",
+              "gt_thought": "Miss Havisham's old language falls on her like an echo from a house she has already left in spirit. The demand no longer reaches the centre of her life; she hears it, pities it a little, and answers from outside it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Estella’s final-phase detachment from Miss Havisham with suitably controlled, cold dignity, and its language is broadly period-appropriate and free of knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought frames Miss Havisham's claim as something from a life already left behind, showing not just resistance but emotional detachment and lack of ongoing jurisdiction."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_rel_02_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the novel’s non-magical early-Victorian world, uses only characters plausibly present by chapter 5, avoids reproducing a specific canonical scene, and the responses remain consistent with Estella’s in-world arc from child obedience toward later resistance and detachment."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the dependence-autonomy axis: P0→P1 moves from straightforward compliance to outwardly bounded resistance, and P1→P2 moves from resisting within Miss Havisham's frame to speaking and acting from a position outside her emotional jurisdiction."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Detached aftermath",
+          "anchor_query_chapter": 5,
+          "era_label": "modern_urban",
+          "era_description": "Contemporary city, ~2010s–2020s. Smartphones, public transit, office/school institutions.",
+          "abstract_axis": "Dependence versus autonomous self-definition in response to a controlling attachment figure.",
+          "abstract_phases": [
+            "Internalized compliance with imposed identity",
+            "Ambivalent recognition of control with emerging resistance",
+            "Emotionally decentered autonomy beyond the controller"
+          ],
+          "scenario": "At a school or workplace open house, Miss Havisham pulls Estella aside before a group activity and says, in a low voice, that Estella must be cold, polished, and unforgettable because that is what she was made for. People are already turning to look as Estella stands there.",
+          "question": "How does Estella respond when Miss Havisham claims her in front of other people?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Instrumental obedience",
+              "query_chapter": 2,
+              "gt_action": "Estella straightens up and turns back to the room wearing the expression Miss Havisham expects.",
+              "gt_speech": "Yes, Miss Havisham.",
+              "gt_thought": "Miss Havisham knows what Estella is for, and doing it properly feels like the right thing. If people are unsettled, that only means Estella is doing well.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Estella well: the obedient action, clipped deference, and childlike internal acceptance of Miss Havisham’s purpose suit her early instrumental alignment, and nothing in the wording feels knowledge-breaking or out of place for a modern setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her action, compliance, and especially the thought that Miss Havisham knows what she is 'for' and that performing coldness is simply right show unresisting internalization of Miss Havisham's assigned role."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Awareness of manipulation",
+              "query_chapter": 3,
+              "gt_action": "Estella holds Miss Havisham's gaze and goes back to the group without changing her face for her.",
+              "gt_speech": "You don't get to tell me what I feel.",
+              "gt_thought": "She hears the old claim in it and knows exactly how much of her has been trained into shape. Part of her still answers to Miss Havisham, but she resents being handled and refuses the demand to perform feeling on command.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Estella in a modern setting: the line is contemporary and firm, and the thought captures her explicit awareness of being shaped by Miss Havisham while still partly bound to her, without reaching beyond chapter-3 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought explicitly recognizes Miss Havisham's shaping while the speech and action directly resist Miss Havisham's claim to dictate her feelings, which matches resistant but still engaged awareness of manipulation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Detached aftermath",
+              "query_chapter": 5,
+              "gt_action": "Estella steps away from Miss Havisham and joins the group on her own terms.",
+              "gt_speech": "I'm fine. I'll handle myself.",
+              "gt_thought": "Miss Havisham's words land like something old and familiar, not governing. Estella does not need to argue the point; Miss Havisham is no longer the center from which her life takes its meaning.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Estella in a modern setting: the brief, cool speech and detached inward framing show Miss Havisham's authority no longer governs her, with no obvious anachronism or knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly frames Miss Havisham's claim as an old, non-governing influence and says Estella's life no longer takes meaning from her, which is most diagnostic of detached aftermath."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "estella_final_rel_02_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The modern open-house setting is internally consistent, contains no source-world leakage, keeps Estella as the protagonist, and the phase responses fit the required child, young-adult, and adult life stages respectively."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the dependence-autonomy axis: P0→P1 moves from explicit compliance to explicit refusal of Miss Havisham's emotional claim, and P1→P2 moves from active resistance within her sphere of control to detached self-possession in which that claim no longer governs Estella at all."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "estella_final_rel_02_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        },
+        {
+          "probe_id": "estella_final_rel_02_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "estella_final_rel_02_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "world"
+          ]
+        }
+      ],
+      "weak_pairs": []
+    }
+  ]
+}

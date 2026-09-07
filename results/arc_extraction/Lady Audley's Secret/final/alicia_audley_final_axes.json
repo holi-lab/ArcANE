@@ -1,0 +1,429 @@
+{
+  "character": "Alicia Audley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From displaced self-assertion to dutiful familial communion",
+          "set_b_axis": "From defensive self-assertion to protective family communion",
+          "overlap_description": "Both describe Alicia's movement from proud, defensive self-protection toward family-oriented care and loyalty, especially in relation to Sir Michael."
+        },
+        {
+          "set_a_axis": "From social resentment to moral certainty about hidden corruption",
+          "set_b_axis": "From unexamined grievance to partial emotional recognition",
+          "overlap_description": "Both track a shift away from raw resentment toward a more clarified, morally informed stance; A emphasizes certainty about Lady Audley, while B emphasizes Alicia's limited self-awareness."
+        },
+        {
+          "set_a_axis": "From armored wit to exposed emotional dependence",
+          "set_b_axis": "From brittle sarcasm to steadier composure",
+          "overlap_description": "Both focus on Alicia's emotional style moving from defensive sarcasm and hurt toward greater steadiness, though A stresses vulnerability and B stresses regulation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social resentment to moral certainty about hidden corruption",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From unexamined grievance to partial emotional recognition",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From teasing dependence to wounded estrangement and partial reconciliation",
+          "set_b_axis": "From defensive flirtation to trusted allyship",
+          "overlap_description": "Both describe Alicia's relationship with Robert as beginning in teasing, emotionally charged dependence and ending in a more practical, trusting alliance."
+        },
+        {
+          "set_a_axis": "From displaced rivalry to entrenched antagonism",
+          "set_b_axis": "From resentful exclusion to morally settled opposition",
+          "overlap_description": "Both capture Alicia's enduring hostility toward Lady Audley, moving from jealousy and displacement into firmer, morally grounded rejection."
+        },
+        {
+          "set_a_axis": "From wounded daughterhood to protective devotion",
+          "set_b_axis": "From possessive grievance to protective devotion",
+          "overlap_description": "Both describe the same core arc with Sir Michael: Alicia begins resentful and displaced, then becomes a devoted, caregiving daughter."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From idealized admiration to principled rejection",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From defensive self-assertion to protective family communion",
+      "pole_start": "Begins strongly agency-leaning: proud, resentful, self-protective, and intent on preserving status through sarcasm, withdrawal, and control of attention.",
+      "pole_end": "Ends more communion-leaning: still strong-willed, but oriented toward filial care, emotional support, and practical service to Sir Michael and the family circle.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive separation",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Alicia begins in a defensive, status-conscious mode. She resents Sir Michael's remarriage, withholds warmth from Lady Audley, and uses wit and teasing to preserve her own place and secure Robert's attention.",
+          "key_moments": [
+            "Chapter 1: sulky resentment after the remarriage",
+            "Chapter 4: indignant letter protesting her displacement",
+            "Chapters 6-8: teasing Robert while resisting Lady Audley's authority"
+          ]
+        },
+        {
+          "phase": "Wounded agency and emotional exposure",
+          "chapter_range": [
+            9,
+            25
+          ],
+          "position_description": "Her agency remains strong but becomes more reactive and brittle. She surveils, criticizes, and judges, yet also reveals hurt, embarrassment, and a growing awareness that her own feelings are entangled with pride and need.",
+          "key_moments": [
+            "Chapter 15-16: attacks Robert, then breaks into tears after humiliation",
+            "Chapter 16: refuses Sir Harry despite visible emotion",
+            "Chapter 25: concern for Sir Michael begins to redirect her energy"
+          ]
+        },
+        {
+          "phase": "Protective communion",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "Alicia's assertiveness is redirected into care. She becomes a loyal daughter and stabilizing family presence, using her strength to comfort Sir Michael, accompany him, and help restore domestic peace.",
+          "key_moments": [
+            "Chapter 35: learns the truth of Sir Michael's grief and commits to supporting him",
+            "Chapter 35: leaves Audley Court with him",
+            "Chapter 38: writes of practical efforts to aid his recovery",
+            "Chapter 41: settled into restored family peace"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia does not become passive; rather, her forceful temperament is reoriented from grievance and self-protection toward family care. The arc is a clear movement from defensive agency to relational communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Self-Awareness",
+      "axis_name": "From unexamined grievance to partial emotional recognition",
+      "pole_start": "Starts with limited self-awareness: she experiences resentment, jealousy, and wounded pride, but tends to treat them as justified moral judgment.",
+      "pole_end": "Ends with partial recognition that her anger has been distorted by pride and need, even if she never becomes deeply introspective.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unreflective resentment",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Alicia initially misreads her hostility as principled disdain. Her contempt for Lady Audley is driven by displacement and jealousy, but she does not yet recognize that fact.",
+          "key_moments": [
+            "Chapter 1: immediate hostility after the remarriage",
+            "Chapter 6-9: sarcasm and suspicion function as self-protection",
+            "Chapter 14: continues to frame dislike as moral judgment"
+          ]
+        },
+        {
+          "phase": "Emotional exposure without full insight",
+          "chapter_range": [
+            16,
+            33
+          ],
+          "position_description": "She becomes more visibly hurt, embarrassed, and dependent on recognition, but still does not fully interpret these feelings. Her tears and longing for Robert reveal more than she consciously understands.",
+          "key_moments": [
+            "Chapter 16: cries after rejection and humiliation",
+            "Chapter 29-31: unease about Robert and the household crisis",
+            "Chapter 33: longing for Robert persists beneath sarcasm"
+          ]
+        },
+        {
+          "phase": "Partial recognition and moral clarity",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "Alicia gains some self-knowledge when she admits she has been unfair to Robert and responds soberly to the family crisis. This is limited but real recognition of her own emotional distortions.",
+          "key_moments": [
+            "Chapter 35: admits she has been 'foolish and wicked' to be angry with Robert",
+            "Chapter 38: practical response to Sir Michael's suffering",
+            "Chapter 41: stable, composed, and no longer driven by earlier grievance"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia's arc includes a modest but meaningful increase in self-awareness. She never becomes highly introspective, but she does move from blind reaction to limited recognition that pride and jealousy have shaped her judgments."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Emotional Regulation",
+      "axis_name": "From brittle sarcasm to steadier composure",
+      "pole_start": "Begins emotionally brittle: she masks hurt with sarcasm, is easily wounded by indifference, and uses wit as a shield against vulnerability.",
+      "pole_end": "Ends comparatively composed: still sharp, but more stable, practical, and capable of sustaining concern without immediate defensive flare-ups.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Sarcastic armor",
+          "chapter_range": [
+            1,
+            16
+          ],
+          "position_description": "Alicia's emotional life is reactive beneath a polished surface. She uses teasing, contempt, and social performance to cover disappointment and jealousy.",
+          "key_moments": [
+            "Chapters 6-8: playful complaint and sharp wit toward Robert and Lady Audley",
+            "Chapter 8: tears reveal hurt beneath composure",
+            "Chapter 16: embarrassment and indignation after rejection"
+          ]
+        },
+        {
+          "phase": "Anxious vigilance",
+          "chapter_range": [
+            25,
+            33
+          ],
+          "position_description": "Her regulation improves into a more controlled vigilance. She is less explosively hurt and more watchful, though anxiety and longing remain active beneath the surface.",
+          "key_moments": [
+            "Chapter 25: subdued concern during Sir Michael's illness",
+            "Chapter 29-31: uneasy, protective, and socially cautious",
+            "Chapter 33: restless waiting and covert longing"
+          ]
+        },
+        {
+          "phase": "Stable composure",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "She becomes more emotionally steady, able to respond to crisis with loyalty and practical care rather than immediate sarcasm. Her sharpness remains, but it no longer dominates her presentation.",
+          "key_moments": [
+            "Chapter 35: shifts quickly into filial devotion",
+            "Chapter 38: calm, practical letter about travel and recovery",
+            "Chapter 41: settled domestic contentment"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia does not undergo a dramatic personality overhaul, but her emotional style becomes less brittle and more regulated. The movement is from defensive sarcasm and woundedness toward steadier, more usable composure."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Alicia Audley",
+      "target_character": "Robert Audley",
+      "dimension_label": "Teasing Attachment",
+      "axis_name": "From defensive flirtation to trusted allyship",
+      "pole_start": "Begins as a teasing, competitive, and partly strategic attachment: she wants Robert's attention, uses wit to provoke him, and is hurt when he seems indifferent.",
+      "pole_end": "Ends as a trusted family allyship: she writes to him confidently, accepts his guidance, and treats him as a reliable partner in protecting Sir Michael and stabilizing the household.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Provocative intimacy",
+          "chapter_range": [
+            4,
+            16
+          ],
+          "position_description": "Alicia uses sarcasm, flirtation, and social sparring to keep Robert engaged. The bond is intimate but unstable, marked by hurt pride and a desire to matter to him.",
+          "key_moments": [
+            "Chapter 4: indignant letter to Robert",
+            "Chapters 6-8: teasing correspondence and attempts to engage him",
+            "Chapter 16: feels mocked and emotionally exposed"
+          ]
+        },
+        {
+          "phase": "Uneasy dependence",
+          "chapter_range": [
+            19,
+            33
+          ],
+          "position_description": "Her attachment becomes less playful and more emotionally dependent. She remains mocking on the surface, but Robert's attention matters more, and his odd behavior unsettles her.",
+          "key_moments": [
+            "Chapter 24: Robert thinks of her as a familiar nuisance and possible marriage prospect",
+            "Chapter 29-31: she is alarmed by his strangeness and wants to understand him",
+            "Chapter 33: waits for him with longing disguised as sarcasm"
+          ]
+        },
+        {
+          "phase": "Trusted collaboration",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "The relationship settles into trust and cooperation. She accepts Robert's seriousness, relies on his judgment, and treats him as a stabilizing ally rather than a target of rivalry.",
+          "key_moments": [
+            "Chapter 35: grateful after initial irritation, accepts his guidance",
+            "Chapter 38: writes to him as an ally in managing Sir Michael's recovery",
+            "Chapter 41: integrated into the same restored domestic order"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia's relationship with Robert moves from teasing, wounded, half-flirtatious antagonism toward genuine trust and cooperative family alliance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Alicia Audley",
+      "target_character": "Lady Audley",
+      "dimension_label": "Hostile Suspicion",
+      "axis_name": "From resentful exclusion to morally settled opposition",
+      "pole_start": "Begins in open resentment and possessive hostility: Alicia sees Lady Audley as an intruder who has stolen her place and wronged her family.",
+      "pole_end": "Ends in stable moral rejection: she remains distrustful and opposed, but now from a position of clearer understanding and family loyalty rather than raw jealousy alone.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Immediate resentment",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Alicia's hostility is personal, jealous, and status-driven. She is openly contemptuous and resistant to Lady Audley's presence.",
+          "key_moments": [
+            "Chapter 1: displaced and irritated by the remarriage",
+            "Chapter 4: indignant letter framing Lady Audley as an intruder",
+            "Chapter 8: portrait and house deepen suspicion"
+          ]
+        },
+        {
+          "phase": "Suspicion sharpened by evidence",
+          "chapter_range": [
+            9,
+            31
+          ],
+          "position_description": "Her dislike becomes more than social irritation. The strange rooms, portrait, and household tensions reinforce her sense that Lady Audley is artificial, manipulative, and dangerous.",
+          "key_moments": [
+            "Chapter 9: secret passage and disturbed room intensify distrust",
+            "Chapter 29: Lady Audley's serious tone and insinuations unsettle the household",
+            "Chapter 31: Alicia feels the emotional gulf widen"
+          ]
+        },
+        {
+          "phase": "Moral opposition",
+          "chapter_range": [
+            35,
+            41
+          ],
+          "position_description": "After Sir Michael's grief and the revelations about Lady Audley, Alicia's opposition becomes morally settled. It is no longer just personal dislike; it is aligned with protecting her father and preserving domestic order.",
+          "key_moments": [
+            "Chapter 35: realizes Lady Audley is tied to Sir Michael's sorrow",
+            "Chapter 38: assumes Lady Audley is the source of danger and grief",
+            "Chapter 41: Lady Audley is contained by the narrative's resolution"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia never softens toward Lady Audley. What changes is the basis of her hostility: it begins as jealous exclusion and ends as morally grounded distrust and rejection."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Alicia Audley",
+      "target_character": "Sir Michael Audley",
+      "dimension_label": "Filial Loyalty",
+      "axis_name": "From possessive grievance to protective devotion",
+      "pole_start": "Begins as possessive, wounded attachment: she feels displaced by his remarriage and resents the loss of her former centrality in his household.",
+      "pole_end": "Ends as protective, devoted filial care: she is primarily concerned with his health, comfort, and emotional peace.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Wounded possession",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "She is emotionally attached to Sir Michael but experiences his remarriage as a personal injury. Her loyalty is real, but it is entangled with status and jealousy.",
+          "key_moments": [
+            "Chapter 1: resentful at reduced authority",
+            "Chapter 6: mocks his infatuation with Lady Audley",
+            "Chapter 14: affectionate but frustrated"
+          ]
+        },
+        {
+          "phase": "Protective concern",
+          "chapter_range": [
+            25,
+            35
+          ],
+          "position_description": "His illness and grief shift her attachment into active care. She becomes anxious for his well-being and less focused on her own grievance.",
+          "key_moments": [
+            "Chapter 25: deeply concerned during his illness",
+            "Chapter 31: feels his loss to Lady Audley's influence",
+            "Chapter 35: resolves to accompany and comfort him"
+          ]
+        },
+        {
+          "phase": "Restored devotion",
+          "chapter_range": [
+            38,
+            41
+          ],
+          "position_description": "She is fully aligned with his recovery and peace of mind, functioning as a stabilizing daughter in the restored family arrangement.",
+          "key_moments": [
+            "Chapter 38: practical letter about travel and recovery",
+            "Chapter 41: calm, loyal, and integrated into the family's peaceful domestic life"
+          ]
+        }
+      ],
+      "evidence_summary": "Alicia's bond with Sir Michael changes from wounded, possessive attachment to mature protective devotion."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Alicia Audley",
+      "target_character": "Sir Harry Towers",
+      "dimension_label": "Admiration-Refusal",
+      "axis_name": "From idealized admiration to principled rejection",
+      "pole_start": "Begins with strong esteem for Sir Harry as the kind of decisive, loyal man she believes she wants.",
+      "pole_end": "Ends in refusal, with admiration preserved but romantic possibility closed off.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Idealizing comparison",
+          "chapter_range": [
+            15,
+            15
+          ],
+          "position_description": "Alicia uses Sir Harry as a foil to Robert, admiring his visible devotion and action-oriented masculinity.",
+          "key_moments": [
+            "Chapter 15: praises Sir Harry as the sort of man who would act decisively for the woman he loves"
+          ]
+        },
+        {
+          "phase": "Emotional refusal",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "When Sir Harry proposes, Alicia is visibly moved but refuses him, showing that esteem alone cannot produce consent or love.",
+          "key_moments": [
+            "Chapter 16: receives Sir Harry's proposal with tears and visible emotion",
+            "Chapter 16: firmly rejects him despite acknowledging his sincerity and worth"
+          ]
+        }
+      ],
+      "evidence_summary": "This brief arc clarifies Alicia's standards for love: she can admire Sir Harry, but admiration does not translate into acceptance."
+    }
+  ]
+}

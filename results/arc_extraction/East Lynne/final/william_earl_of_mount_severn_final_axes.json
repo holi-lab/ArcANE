@@ -1,0 +1,434 @@
+{
+  "character": "William, Earl of Mount Severn",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From defensive self-protection to duty-bound relational stewardship",
+          "set_b_axis": "From self-protective aristocratic control to duty-bound paternal communion",
+          "overlap_description": "Both track William's movement from guarded, status-preserving self-protection toward a more relational, duty-oriented stance centered on family responsibility and care."
+        },
+        {
+          "set_a_axis": "From cynical suspicion to chastened moral responsibility",
+          "set_b_axis": "From suspicious censure to chastened pity",
+          "overlap_description": "Both describe a softening of William's harsh judgment into a more measured, fact-aware, and compassionate moral outlook, without losing his seriousness about wrongdoing."
+        },
+        {
+          "set_a_axis": "From compromised fatherhood to protective family stewardship",
+          "set_b_axis": "From self-excusing ruin to accountable guardianship",
+          "overlap_description": "These axes overlap in William's shift from feeling failed or trapped into actively assuming responsibility for Isabel and the family's consequences."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From compromised fatherhood to protective family stewardship",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From self-excusing ruin to accountable guardianship",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From cautious transaction to loyal alliance",
+          "set_b_axis": "From cautious transaction to warm respect and alliance",
+          "overlap_description": "Both describe the same relationship arc: Carlyle begins as a practical buyer/acquaintance and becomes a trusted moral ally and public supporter."
+        },
+        {
+          "set_a_axis": "From anxious fatherhood to protective but tragic guardianship",
+          "set_b_axis": "From proud paternal affection to chastened protective responsibility",
+          "overlap_description": "Both capture William's bond with Isabel as moving from proud, anxious fatherhood into sorrowful, duty-bound protection and posthumous care."
+        },
+        {
+          "set_a_axis": "From wary suspicion to absolute moral contempt",
+          "set_b_axis": "From wary suspicion to outright condemnation",
+          "overlap_description": "Both identify William's stable but intensifying hostility toward Levison, culminating in public moral rejection."
+        },
+        {
+          "set_a_axis": "From managed marriage to open household rupture",
+          "set_b_axis": "From household dependence to open distrust",
+          "overlap_description": "Both refer to William's deteriorating marriage with Lady Mount Severn, though Set B frames it more narrowly as distrust and Set A as broader domestic estrangement."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From managed marriage to open household rupture",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From household dependence to open distrust",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From self-protective aristocratic control to duty-bound relational stewardship",
+      "pole_start": "Starts on the agency side: guarded, status-conscious, secrecy-driven, and focused on preserving control, dignity, and survival amid financial ruin.",
+      "pole_end": "Ends closer to communion: still authoritative, but increasingly oriented toward care, moral responsibility, emotional attachment, and protective interdependence with family and allies.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive self-management",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "William is strongly agency-coded: anxious over debts, determined to conceal the East Lynne sale, and focused on preserving rank, privacy, and control while the household and his health remain unstable.",
+          "key_moments": [
+            "He privately arranges the sale of East Lynne and insists on concealment.",
+            "He worries about ruin, exposure, and social embarrassment.",
+            "He manages appearances at East Lynne and remains socially composed despite dependence and illness."
+          ]
+        },
+        {
+          "phase": "Moral correction and responsibility",
+          "chapter_range": [
+            14,
+            27
+          ],
+          "position_description": "Confronted with Isabel's marriage, Carlyle's honor, and the reality of Isabel's suffering, he shifts away from pure self-protection toward accountability, guardianship, and practical duty.",
+          "key_moments": [
+            "He initially reacts with shock but revises his judgment of Carlyle.",
+            "He recognizes that Isabel has been mistreated and that his own authority has limits.",
+            "He confronts Isabel in Grenoble and assumes a guardian-like role."
+          ]
+        },
+        {
+          "phase": "Public duty and relational steadiness",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "He remains authoritative and morally severe, but his actions are increasingly guided by loyalty, family obligation, and restrained compassion rather than self-preservation alone.",
+          "key_moments": [
+            "He supports Carlyle publicly against Levison.",
+            "He responds to Isabel's death and hidden identity with quiet grief and composure.",
+            "He helps manage burial and memorial arrangements."
+          ]
+        }
+      ],
+      "evidence_summary": "William begins as a financially ruined aristocrat whose energy is devoted to concealment, control, and status preservation. Across the novel, especially after Isabel's marriage and later downfall, he becomes less self-protective and more duty-bound, protective, and relationally responsive. He never becomes fully self-effacing, but the arc clearly moves away from isolated aristocratic agency toward paternal obligation and moral connectedness."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Judgment-Compassion",
+      "axis_name": "From suspicious censure to chastened pity",
+      "pole_start": "Starts on the judgment side: suspicious, cynical, quick to interpret events through scandal, impropriety, and social danger.",
+      "pole_end": "Ends with more compassion: still morally serious, but capable of pity, verification, and restrained sympathy rather than immediate condemnation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Suspicious moralizing",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "He defaults to distrust and social cynicism, viewing marriage, society, and appearances as dangerous and deceptive, even when his concern for Isabel is genuine.",
+          "key_moments": [
+            "He voices cynical beliefs about society and hidden dangers.",
+            "He scolds Isabel's vanity while still protecting her."
+          ]
+        },
+        {
+          "phase": "Evidence-based correction",
+          "chapter_range": [
+            14,
+            27
+          ],
+          "position_description": "He tempers judgment with fact, first misreading Isabel's marriage and then correcting himself; later he judges her severely but also responds to her weakness and suffering with increasing restraint.",
+          "key_moments": [
+            "He accepts Carlyle's explanation and acknowledges being wrong.",
+            "He turns a severe interview with Isabel into a partly protective encounter.",
+            "He verifies Isabel's reported death before accepting it."
+          ]
+        },
+        {
+          "phase": "Pity under restraint",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "He remains morally stern, but his responses are less purely condemnatory and more tempered by pity, discretion, and concern for avoiding needless harm.",
+          "key_moments": [
+            "He condemns Levison on principled grounds.",
+            "He asks about forgiveness and divine judgment.",
+            "He reacts to Isabel's revelation with pity and composure."
+          ]
+        }
+      ],
+      "evidence_summary": "William never abandons moral judgment, but he becomes less impulsively suspicious and more willing to verify facts, acknowledge error, and feel pity. His arc is not a conversion to softness; it is a moderation of severity into more humane judgment."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Responsibility-Resignation",
+      "axis_name": "From self-excusing ruin to accountable guardianship",
+      "pole_start": "Starts with self-pity and rationalization: he sees himself as trapped by circumstances and treats ruin as something that has happened to him, not fully as a consequence of his own conduct.",
+      "pole_end": "Ends with greater responsibility: he accepts practical obligations toward Isabel, verifies facts, and acts as a guardian who must respond to consequences rather than merely lament them.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Self-pity and rationalization",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "He is aware of his debts but frames them through weariness, bad luck, and social danger. He wants relief and concealment more than accountability.",
+          "key_moments": [
+            "He sees ruin as trapping him.",
+            "He focuses on inconvenience, dignity, and preservation rather than self-examination."
+          ]
+        },
+        {
+          "phase": "Assumption of duty",
+          "chapter_range": [
+            14,
+            27
+          ],
+          "position_description": "He increasingly behaves as someone who must act on consequences. He confronts misinformation, takes responsibility for Isabel's welfare, and arranges support after her fall.",
+          "key_moments": [
+            "He takes charge of the truth about the marriage.",
+            "He resolves to provide an allowance and prevent further degradation.",
+            "He verifies Isabel's death and handles the aftermath responsibly."
+          ]
+        },
+        {
+          "phase": "Stable duty without self-analysis",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "He remains duty-driven, but without deep introspection. Responsibility is now habitual: he supports Carlyle, condemns Levison, and responds to revelations with controlled action.",
+          "key_moments": [
+            "He goes to support Carlyle publicly.",
+            "He manages the Isabel revelation discreetly.",
+            "He prioritizes practical and moral obligations over lamentation."
+          ]
+        }
+      ],
+      "evidence_summary": "William begins as a man who feels ruined by forces around him and ends as one who, while still socially proud, acts more consistently from obligation. The change is partial rather than transformative, but it is meaningful: he moves from lamenting consequences to managing them."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "William, Earl of Mount Severn",
+      "target_character": "Lady Isabel Vane / Lady Isabel Carlyle",
+      "dimension_label": "Paternal Protection",
+      "axis_name": "From proud paternal affection to chastened protective responsibility",
+      "pole_start": "Starts as affectionate, proud, and protective, but with a strong element of social display and control; Isabel is his beloved daughter and also a symbol of family standing and vulnerability.",
+      "pole_end": "Ends as still protective, but more chastened, duty-bound, and sorrowful; he sees her as morally fallen yet still his responsibility and treats her with pity and practical care.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Affectionate pride",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "He is tender toward Isabel, proud of her beauty and social grace, and anxious about her future security.",
+          "key_moments": [
+            "He is softened by the sight of his daughter.",
+            "He admires her presentation and continues to protect her.",
+            "He scolds her vanity while still expressing concern."
+          ]
+        },
+        {
+          "phase": "Shock, judgment, and renewed guardianship",
+          "chapter_range": [
+            14,
+            27
+          ],
+          "position_description": "He is initially outraged by her marriage and later severely judges her fall, but this judgment is increasingly joined to pity and practical guardianship.",
+          "key_moments": [
+            "He assumes scandal, then learns the truth about the marriage.",
+            "He turns a stern interview into material support.",
+            "He reacts to her reported death with quiet grief and verification."
+          ]
+        },
+        {
+          "phase": "Posthumous pity and memory",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "He no longer relates to her as a living dependent, but his responses remain marked by concern for her memory, fate, and family meaning.",
+          "key_moments": [
+            "He concerns himself with forgiveness and Heaven.",
+            "He responds to the revelation of her identity with pity and discomfort.",
+            "He helps arrange burial and memorial details."
+          ]
+        }
+      ],
+      "evidence_summary": "This is William's most important relationship and the clearest emotional arc. He never stops loving Isabel, but his love changes from proud, controlling affection into a more chastened, duty-bound, and sorrowful protection shaped by her suffering and death."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "William, Earl of Mount Severn",
+      "target_character": "Mr. Carlyle",
+      "dimension_label": "Trust-Esteem",
+      "axis_name": "From cautious transaction to warm respect and alliance",
+      "pole_start": "Starts as suspicious and transactional, with limited trust and esteem; Carlyle is a useful buyer and social equal only insofar as he proves honorable.",
+      "pole_end": "Ends in high trust and esteem, with William treating Carlyle as a morally serious ally, protector of Isabel, and public standard-bearer of honor.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cautious cooperation",
+          "chapter_range": [
+            1,
+            9
+          ],
+          "position_description": "He is wary at first but becomes cooperative once Carlyle proves honorable and useful in the East Lynne transaction.",
+          "key_moments": [
+            "He privately arranges the sale of East Lynne.",
+            "He appreciates Carlyle's hospitality and practical help.",
+            "He grows attached to Carlyle during illness."
+          ]
+        },
+        {
+          "phase": "Respect after correction",
+          "chapter_range": [
+            14,
+            27
+          ],
+          "position_description": "He first misjudges Carlyle, then openly revises his opinion and comes to admire him as truthful and honorable.",
+          "key_moments": [
+            "He accepts Carlyle's explanation and acknowledges being wrong.",
+            "He admires Carlyle while judging Isabel.",
+            "He forwards Isabel's letter to Carlyle."
+          ]
+        },
+        {
+          "phase": "Public alliance",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "He aligns himself with Carlyle in public and private, supporting him against Levison and trusting his judgment in the family's moral crisis.",
+          "key_moments": [
+            "He goes to support Carlyle against Levison.",
+            "He remains steady and discreet in the face of the Isabel revelation.",
+            "He cooperates in the aftermath of Isabel's death and burial."
+          ]
+        }
+      ],
+      "evidence_summary": "William's relationship with Carlyle warms substantially. It begins as a practical arrangement and becomes a genuine alliance grounded in respect for Carlyle's honor, truthfulness, and protective role toward Isabel."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "William, Earl of Mount Severn",
+      "target_character": "Francis Levison",
+      "dimension_label": "Moral Antagonism",
+      "axis_name": "From wary suspicion to outright condemnation",
+      "pole_start": "Starts with low trust and low esteem, treating Levison as socially dangerous and morally dubious.",
+      "pole_end": "Ends in deep contempt and public hostility, with William seeing him as a villain, corrupter, and scandalous threat to order.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Suspicion and warning",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Levison is already the kind of man William distrusts; he is associated with danger, trickery, and bad luck.",
+          "key_moments": [
+            "He voices a cynical view of society and hidden dangers.",
+            "He warns Isabel to keep Levison at a distance."
+          ]
+        },
+        {
+          "phase": "Outrage and repudiation",
+          "chapter_range": [
+            35,
+            35
+          ],
+          "position_description": "His hostility becomes explicit and public when Levison enters the election against Carlyle.",
+          "key_moments": [
+            "He reacts with immediate disgust and goes to West Lynne to condemn Levison."
+          ]
+        }
+      ],
+      "evidence_summary": "William's antagonism toward Levison is consistent and intensifies when Levison becomes a public scandal. This is a stable but sharpened axis of moral hostility rather than a complex emotional evolution."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "William, Earl of Mount Severn",
+      "target_character": "Lady Mount Severn",
+      "dimension_label": "Marital Estrangement",
+      "axis_name": "From managed marriage to open household rupture",
+      "pole_start": "Begins as a strained but still controlled marital relationship, with William trying to manage family affairs and preserve authority.",
+      "pole_end": "Ends in open antagonism and emotional distance, with the marriage functioning as a site of conflict rather than partnership.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Controlled domesticity",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "Their marriage is already burdened by secrecy and crisis, but William still acts as the household authority.",
+          "key_moments": [
+            "He conceals the sale of East Lynne.",
+            "He decides Isabel must live with them despite his wife's objections."
+          ]
+        },
+        {
+          "phase": "Open conflict",
+          "chapter_range": [
+            12,
+            14
+          ],
+          "position_description": "Lady Mount Severn's violence toward Isabel and her fury over Isabel's presence turn the marriage into an overtly antagonistic relationship.",
+          "key_moments": [
+            "She assaults Isabel in front of the household.",
+            "William confronts her after learning the truth about Isabel's marriage and mistreatment."
+          ]
+        },
+        {
+          "phase": "Persistent estrangement",
+          "chapter_range": [
+            18,
+            47
+          ],
+          "position_description": "The marriage remains emotionally cold and morally compromised; William's attention shifts away from his wife toward duty, Carlyle, and Isabel's legacy.",
+          "key_moments": [
+            "He gives Isabel a blunt, unsympathetic answer about Carlyle's expense.",
+            "He later learns of Isabel's disguise and burial while his wife remains a source of distance rather than repair."
+          ]
+        }
+      ],
+      "evidence_summary": "William's marriage does not develop toward intimacy; instead it deteriorates into a relationship defined by conflict, mistrust, and emotional estrangement."
+    }
+  ]
+}

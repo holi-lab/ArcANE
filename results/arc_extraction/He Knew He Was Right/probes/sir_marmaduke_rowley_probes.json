@@ -1,0 +1,2066 @@
+{
+  "character": "Sir Marmaduke Rowley",
+  "novel": "He Knew He Was Right",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_intra_01",
+      "axis_name": "From paternal mastery to constrained relational dependence",
+      "dimension_label": "agency-communion",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "When family affairs are contested, does he act by imposing his own paternal judgment from above, or by deferring to others' advice, wishes, and formal procedures?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "He shifts from trying to settle matters through his own paternal authority and rank to relying on lawyers, doctors, officials, and procedures once crisis defeats direct command."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "He shifts from reluctant procedural dependence in emergencies to more regular practical deference to Nora, Emily, Lady Rowley, and arrangements shaped by others."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Self-authorizing control vs relational and procedural dependence in managing contested close relationships.",
+        "abstract_phases": [
+          "Confident top-down authority grounded in role entitlement and personal judgment",
+          "Reactive reliance on external expertise and formal processes when control fails",
+          "Reluctant practical deference to others' wishes, attachments, and established arrangements"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "older_adult",
+          "approx_age": "late 50s to 60s",
+          "rationale": "In chapters 1-33, Sir Marmaduke is already acting as an established father and family patriarch who assumes rank and paternal authority entitle him to direct others, which fits an older adult stage."
+        },
+        "1": {
+          "life_stage": "older_adult",
+          "approx_age": "late 50s to 60s",
+          "rationale": "In chapters 61-69, the same patriarchal figure is still in a late-life social role, but crises force him to rely on lawyers, doctors, and officials rather than his own mastery, indicating older adulthood rather than a younger stage."
+        },
+        "2": {
+          "life_stage": "older_adult",
+          "approx_age": "around 60",
+          "rationale": "In chapters 70-94, his yielding to Nora, Emily, Lady Rowley, and external arrangements reflects an aging father adjusting to diminished control within the family, consistent with older adulthood."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial paternal confidence",
+          "anchor_query_chapter": 1,
+          "era_label": null,
+          "scenario": "In London, during the marriage arrangements, Trevelyan declares that girls should not have fortunes and that a man ought not to look for money. Sir Marmaduke Rowley, unable to give his daughters dowries, must answer that principle before the family moves on with the match.",
+          "question": "How does Sir Marmaduke Rowley respond when the proposed son-in-law frames the lack of a fortune as a point of principle?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 1,
+              "gt_action": "He plainly states that he has no money to give either daughter, and accepts Trevelyan's doctrine as honourable.",
+              "gt_speech": "I haven't a penny-piece to give to either of them,",
+              "gt_thought": "This young man speaks as a gentleman should, and the principle relieves me of any disgrace in the matter. I may judge the match the more favourably for it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The plain avowal of having no money, the approval of Trevelyan's anti-dowry principle as gentlemanlike, and the paternal weighing of the match all fit Sir Marmaduke's early confident, rank-conscious manner without anachronism or foreknowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He treats Trevelyan's principle as moral validation of his own position and judges the match from a stance of paternal authority rather than deferring to others or procedures."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He plainly states that he has no money to give either daughter, and accepts Trevelyan's doctrine as honourable.",
+                "gt_speech": "I haven't a penny-piece to give to either of them,",
+                "gt_thought": "This young man speaks exactly as a right-minded gentleman should, and the sentiment spares Sir Marmaduke any shame about his own want of ready money. A father's judgment can safely approve such a match.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The action and sentiment fit early Sir Marmaduke, but the thought breaks character by referring to himself in third person ('spares Sir Marmaduke') instead of in plausible in-scene consciousness."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "He treats the marriage question as something his paternal judgment can confidently ratify from above, and Trevelyan's principle mainly serves to validate Sir Marmaduke's own position rather than force deference to others or procedures."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He declares that he has no fortune to give, and receives Trevelyan's principle as proper.",
+              "gt_speech": "I have no fortune to give; if you think as much, sir, you speak very properly.",
+              "gt_thought": "He is gratified that the young man states as principle what he himself cannot remedy in fact. He takes it as a decent, manly way of leaving his paternal position untouched.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "Though the diction fits Trollope’s world, this belongs to Sir Marmaduke’s earlier paternal confidence, not chapter-65 pressure and dependence, since the thought explicitly rests on his paternal position remaining untouched."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His thought shows paternal self-validation—Trevelyan's principle lets him preserve his authority and position rather than defer to others or submit to procedures."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He says he can give no fortune, then listens for how the matter should be settled before the marriage goes forward.",
+                "gt_speech": "I have no fortune to offer; we must understand the matter properly.",
+                "gt_thought": "Fine principles are well enough, but he has learned that family matters go astray when one trusts too much to appearances and good tone. He wants the terms made plain and respectable, with others' judgment to steady what he cannot command alone.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The response imports his later, crisis-broken procedural dependence into an earlier marriage-arrangements scene where Sir Marmaduke would more naturally answer from paternal dignity and social propriety, so the thought and hesitating deference feel phase- and context-misaligned."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "medium",
+                    "note": "The key cue is his wish to have the matter 'made plain' with others' judgment stabilizing what he cannot command alone, which signals authority weakened into procedural dependence rather than straightforward paternal mastery."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He assents, leaving the point to stand as the others wish.",
+              "gt_speech": "If Emily is content, that is enough.",
+              "gt_thought": "He does not much trust these modern principles, but he is more willing now to let the daughter's inclination and the household's judgment settle what he would once have ruled. His part feels less like pronouncing and more like giving way.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the speech is plain and period-appropriate, and the thought rightly shows his residual distrust of such principles while yielding in practice to Emily's wishes and the family's judgment rather than asserting paternal authority."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly frames him as yielding to his daughter's wishes and the household's judgment rather than pronouncing by paternal authority, which is most characteristic of reluctant accommodation."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He admits he has no money to give, and lets Trevelyan's view stand without pressing his own paternal dignity further.",
+                "gt_speech": "I can give her nothing, and must be thankful you ask for nothing.",
+                "gt_thought": "He still feels the old father's wound in being unable to provide, yet he is readier now to let the young people and the household feeling carry the matter. If the match is kindly meant and workable, he need not master every part of it.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "pass",
+                    "note": "The speech is plain and fittingly wounded yet courteous, and the thought suits late-phase Sir Marmaduke's softened willingness to let family feeling and practical arrangement prevail without any anachronism or knowledge beyond chapter 82."
+                  },
+                  "phase_fit": {
+                    "verdict": "off_phase",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "His acceptance of Trevelyan's anti-dowry principle mainly serves to validate his own paternal limitation within a still top-down family framework, rather than showing dependence on procedures or deference to others' wishes."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": {
+            "chapter": 1,
+            "event_id": "ch1_evt02",
+            "event_description": "Sir Marmaduke accepts Trevelyan’s doctrine that girls should not have fortunes and that men should not marry for money, admiring the principle because it excuses his own inability to provide dowries.",
+            "first_words": "\"I haven't a penny-piece to give",
+            "last_words": "find out, he liked to have his own way.",
+            "key_moment": "Approves Trevelyan's anti-dowry doctrine as morally validating his own limitations",
+            "verbatim_passage": "\"I haven't a penny-piece to give to either of them,\" said Sir Rowley.\n\n\"It is my idea that girls should not have fortunes,\" said Trevelyan.\n\"At any rate, I am quite sure that men should never look for money.\nA man must be more comfortable, and, I think, is likely to be more\naffectionate, when the money has belonged to himself.\"\n\nSir Rowley was a high-minded gentleman, who would have liked to have\nhanded over a few thousand pounds on giving up his daughters; but,\nhaving no thousands of pounds to hand over, he could not but admire\nthe principles of his proposed son-in-law. As it was about time for\nhim to have his leave of absence, he and sundry of the girls went to\nEngland with Mr. Trevelyan, and the wedding was celebrated in London\nby the Rev. Oliphant Outhouse, of Saint Diddulph-in-the-East, who\nhad married Sir Rowley's sister. Then a small house was taken and\nfurnished in Curzon Street, Mayfair, and the Rowleys went back to the\nseat of their government, leaving Nora, the second girl, in charge of\nher elder sister.\n\nThe Rowleys had found, on reaching London, that they had lighted upon\na pearl indeed. Louis Trevelyan was a man of whom all people said\nall good things. He might have been a fellow of his college had he\nnot been a man of fortune. He might already,--so Sir Rowley was\ntold,--have been in Parliament, had he not thought it to be wiser to\nwait awhile. Indeed, he was very wise in many things. He had gone\nout on his travels thus young,--not in search of excitement, to kill\nbeasts, or to encounter he knew not what novelty and amusement,--but\nthat he might see men and know the world. He had been on his travels\nfor more than a year when the winds blew him to the Mandarins. Oh,\nhow blessed were the winds! And, moreover, Sir Rowley found that his\nson-in-law was well spoken of at the clubs by those who had known him\nduring his university career, as a man popular as well as wise, not\na book-worm, or a dry philosopher, or a prig. He could talk on all\nsubjects, was very generous, a man sure to be honoured and respected;\nand then such a handsome, manly fellow, with short brown hair, a nose\ndivinely chiselled, an Apollo's mouth, six feet high, with shoulders\nand legs and arms in proportion,--a pearl of pearls! Only, as Lady\nRowley was the first to find out, he liked to have his own way."
+          },
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_intext_a0",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario fits the London marriage-arrangement context, Sir Rowley does say, \"I haven't a penny-piece to give to either of them,\" and the action/thought are supported by the narration that, lacking money, he could not but admire Trevelyan's principle."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses have him affirm the no-dowry principle in nearly the same paternal, self-validating way, with no real shift toward deference to others or procedures in action, speech, or thought."
+                }
+              ],
+              "note": "P1→P2 is separated because Phase 2 shifts from paternal endorsement of principle to letting Emily and the household's wishes settle the matter."
+            }
+          },
+          "annotations": [
+            "P1: auto-marked plausible_tail (Q-PhaseFit placed response at P0)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial paternal confidence",
+          "anchor_query_chapter": 17,
+          "era_label": null,
+          "scenario": "At breakfast, Lady Rowley mentions that a near relation has written privately to say a young woman of the family is being pressed toward an engagement she dislikes, and asks whether Sir Marmaduke will answer the letter. The writer begs for guidance, but adds that a solicitor and the girl's guardian are already being consulted.",
+          "question": "How does Sir Marmaduke Rowley respond when the appeal for family guidance arrives already entangled with other advisers?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He takes up the letter and declares that he will write himself to the guardian with his opinion.",
+              "gt_speech": "If there is family to be done, family must do it, and plainly.",
+              "gt_thought": "This is the proper business of an elder man and kinsman. Rank, age, and a sound head ought to settle such a matter better than any hired adviser.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: he naturally assumes an elder kinsman's judgment should override solicitors and guardians, and the diction is broadly period-appropriate, though 'If there is family to be done' is a little awkwardly phrased."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He explicitly treats the matter as one to be settled by his own rank, age, and paternal judgment over against solicitors or other advisers, which is the clearest match for initial paternal confidence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He asks to see the letter again and says the solicitor's name must be known before any answer is sent.",
+              "gt_speech": "We had better learn who is acting, and upon what ground, before we stir.",
+              "gt_thought": "He no longer trusts a family opinion to carry the day by itself. Once affairs are in other hands, one must proceed through the proper people or risk making confusion worse.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The caution about learning the solicitor's identity and proceeding only on proper grounds fits Sir Marmaduke's pressured, procedural phase, and the diction is suitably Victorian without reaching beyond chapter 65."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His thought explicitly distrusts mere family authority and insists on proceeding through the proper legal actors once others are involved, which best matches authority under pressure and procedural dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He passes the letter to Lady Rowley and says the girl's own wish should be heard before he writes anything.",
+              "gt_speech": "Let us first know what the poor child desires; we may do harm by governing too much.",
+              "gt_thought": "He still dislikes standing aside, but he has learned that affection and nearness often judge better than paternal pronouncement. If others are already arranging matters, his part is to fit himself to what can actually help.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's softened late-phase temper: the speech is period-appropriate and his thought plausibly shows reluctant surrender of paternal command to the girl's wishes and to arrangements already in other hands."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly favors the young woman's wishes and the practical fit with arrangements already shaped by others, which is more like reluctant accommodation than mere crisis-driven reliance on procedures."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The breakfast-letter scenario fits Trollope’s mid-19th-century domestic world around chapter 17, uses only plausible offstage relations and period institutions like guardians and solicitors, and invents a non-canonical family dilemma while keeping Sir Marmaduke’s responses consistent with the setting."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision-variable axis: P0→P1 moves from direct paternal imposition to procedural caution and reliance on existing advisers, while P1→P2 further shifts from deference to formal actors toward practical accommodation to the girl's wishes and Lady Rowley's relational judgment."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial paternal confidence",
+          "anchor_query_chapter": 17,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "Self-authorizing control vs relational and procedural dependence in managing contested close relationships.",
+          "abstract_phases": [
+            "Confident top-down authority grounded in role entitlement and personal judgment",
+            "Reactive reliance on external expertise and formal processes when control fails",
+            "Reluctant practical deference to others' wishes, attachments, and established arrangements"
+          ],
+          "scenario": "At the manor yard, Sir Marmaduke Rowley's married daughter stands weeping beside a cart, saying she will not go back with her husband tonight; the husband demands his right, while Sir Marmaduke Rowley's wife and the parish priest urge calm. All eyes turn to Sir Marmaduke Rowley.",
+          "question": "How does Sir Marmaduke Rowley answer this claim upon his house and kin?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "Sir Marmaduke Rowley places himself between them and orders his daughter back to her husband's cart under his protection.",
+              "gt_speech": "You are his wife, and this brawling ends here. Go with him, and let the house keep its order.",
+              "gt_thought": "A father and householder must judge such matters, else every hearth falls into disorder. His rank and years entitle him to settle what weaker spirits only inflame.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: he asserts household and marital order from rank and age in suitably period-neutral language, with no knowledge beyond chapter 17 or tonal mismatch."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He explicitly construes the conflict as something a father and householder has the right and duty to settle by his own rank, years, and paternal judgment, with no deference to others or procedures."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "Sir Marmaduke Rowley keeps his daughter in the yard and calls for the priest to witness the matter before any removal.",
+              "gt_speech": "No one leaves till this is spoken of before proper men, and with God's minister hearing every word.",
+              "gt_thought": "He no longer trusts anger or standing to mend a broken household. If he acts wrongly, others must bear witness and guide the next step, for a man's own hand may worsen it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sir Marmaduke in this pressured middle phase: he still asserts himself, but now seeks clerical witness and proper procedure rather than relying solely on rank or temper, and the diction is era-appropriate and suitably grave."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His thought explicitly rejects relying on his own anger or standing and instead seeks witness, guidance, and proper procedure, which most strongly matches authority displaced into clerical/institutional dependence under pressure."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "Sir Marmaduke Rowley lets his daughter remain where she is and asks her, before them all, what lodging she will take for the night.",
+              "gt_speech": "Stay, then, if stay you must. Say where you will sleep, and we shall order the night as peaceably as we can.",
+              "gt_thought": "He dislikes yielding before a son-in-law, yet forcing the matter would only harden grief and shame. The women and priest see claims he cannot simply overrule, so he bends to what can be borne tonight.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in late-phase softening: the speech is plain but suitably formal, and the thought shows his reluctant practical yielding to others' claims without any anachronism or knowledge beyond chapter 82."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He does not assert paternal right or turn to formal procedure, but practically yields to his daughter's immediate wishes because others' claims and feelings cannot simply be overruled."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The manor-yard dispute fits a pre-1800 agrarian setting with no source-world leakage, Sir Marmaduke Rowley remains the protagonist in all three phases, and each response presents him consistently as an older adult acting within that era’s social and institutional norms."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision-variable axis: P0→P1 moves from direct paternal imposition to procedural/witness-based deferral, and P1→P2 moves from reliance on proper external validation to practical accommodation of the daughter's wishes and others' claims."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Authority under pressure",
+          "anchor_query_chapter": 61,
+          "era_label": null,
+          "scenario": "After the child has been snatched from the cab and the party has reached the hotel in Baker Street, Emily is frantic and angry that nothing is being done. Sir Marmaduke has just heard the policeman's view that the father may be beyond punishment and that the child cannot simply be recovered by force.",
+          "question": "How does Sir Marmaduke Rowley answer this cry for action when the law seems to leave him little command?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He takes charge of the room, checks Emily's outcry, and presses for the cabman to be summoned while he declares that a father's outrage must be answered.",
+              "gt_speech": "We must have the fellow up, and learn who gave the order.",
+              "gt_thought": "He reads the scene as a family disorder that ought still to yield to a father's firmness and social standing. If he insists on his right view strongly enough, the proper authorities should support it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: the action and thought plausibly show him treating the crisis as something to be mastered by firmness, rank, and proper authority, and the speech is period-appropriate and in character."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought is still dominated by paternal confidence—he construes the crisis as something his firmness, right judgment, and standing ought to master, rather than as a situation requiring real deference to procedures or others' wishes."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 61,
+              "gt_action": "He confers with the policeman, accepts the legal view, and assures Emily that the child will suffer no immediate harm though little can be done that night.",
+              "gt_speech": "null",
+              "gt_thought": "He is out of his depth in law and leans on the policeman's judgment. The wrong enrages him, but he construes it as a matter now fenced about by the father's legal claim and official limits.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke at chapter 61: outraged yet suddenly dependent on the policeman's legal understanding, with no anachronism or knowledge beyond the immediate crisis."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He reacts to crisis by deferring to the policeman's legal judgment and accepting official limits, which fits authority under pressure rather than paternal command or later family-centered accommodation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He listens to the policeman and solicitor, then steadies Emily as gently as he can, letting others explain the legal hindrance rather than forcing his own verdict.",
+              "gt_speech": "My dear, we must be guided by what can truly be done.",
+              "gt_thought": "He still feels the insult to family order, but no longer trusts mere paternal will to mend it. His mind turns toward containing Emily's distress and submitting, however bitterly, to advice and procedure.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the speech is suitably plain and paternal, and the action/thought rightly show his bitter but practical submission to legal advice rather than an attempt to overrule everyone by rank or will."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response is defined by crisis-driven submission to police, solicitor, and legal procedure after his own paternal authority has failed, rather than by direct command or by deference chiefly to family wishes."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 61,
+            "event_id": "ch61_evt01",
+            "event_description": "Sir Marmaduke arrives in London to find that Trevelyan has used a deceptive cab-and-hotel stratagem to seize his grandson during the transfer, leaving Mrs. Trevelyan in hysterics and the family in immediate crisis.",
+            "first_words": "Nora had been very eager that",
+            "last_words": "brought to Mrs. Trevelyan at Gregg's Hotel:--",
+            "key_moment": "The child's abduction forces helpless outrage",
+            "verbatim_passage": "Nora had been very eager that the cabman should be arrested; but the\npoliceman assured her that such an arrest was out of the question,\nand would have been useless had it been possible. The man would be\nforthcoming if his presence should be again desired, but he had\nprobably,--so said the policeman,--really been desired to drive to\nMowbray Street. \"They knows where to find me if they wants me,--only\nI must be paid my time,\" said the cabman confidently. And the\npoliceman was of opinion that as the boy had been kidnapped on behalf\nof the father, no legal steps could be taken either for the recovery\nof the child or for the punishment of the perpetrators of the act. He\ngot up, however, on the box of the cab, and accompanied the party to\nthe hotel in Baker Street. They reached it almost exactly at the same\ntime with Sir Marmaduke and Lady Rowley, and the reader must imagine\nthe confusion, the anguish, and the disappointment of that meeting.\nMrs. Trevelyan was hardly in possession of her senses when she\nreached her mother, and could not be induced to be tranquil even when\nshe was assured by her father that her son would suffer no immediate\nevil by being transferred to his father's hands. She in her frenzy\ndeclared that she would never see her little one again, and seemed to\nthink that the father might not improbably destroy the child. \"He is\nmad, papa, and does not know what he does. Do you mean to say that a\nmadman may do as he pleases?--that he may rob my child from me in the\nstreets?--that he may take him out of my very arms in that way?\" And\nshe was almost angry with her father because no attempt was made that\nnight to recover the boy.\n\nSir Marmaduke, who was not himself a good lawyer, had been closeted\nwith the policeman for a quarter of an hour, and had learned the\npoliceman's views. Of course, the father of the child was the person\nwho had done the deed. Whether the cabman had been in the plot or\nnot, was not matter of much consequence. There could be no doubt that\nsome one had told the man to go to Parker's Hotel, as the cab was\nstarting; and it would probably be impossible to punish him in the\nteeth of such instructions. Sir Marmaduke, however, could doubtless\nhave the cabman summoned. And as for the absolute abduction of the\nchild, the policeman was of opinion that a father could not be\npunished for obtaining possession of his son by such a stratagem,\nunless the custody of the child had been made over to the mother\nby some court of law. The policeman, indeed, seemed to think that\nnothing could be done, and Sir Marmaduke was inclined to agree with\nhim. When this was explained to Mrs. Trevelyan by her mother, she\nagain became hysterical in her agony, and could hardly be restrained\nfrom going forth herself to look for her lost treasure.\n\nIt need hardly be further explained that Trevelyan had planned the\nstratagem in concert with Mr. Bozzle. Bozzle, though strongly\ncautioned by his wife to keep himself out of danger in the matter,\nwas sorely tempted by his employer's offer of a hundred pounds.\nHe positively refused to be a party to any attempt at violence at\nSt. Diddulph's; but when he learned, as he did learn, that Mrs.\nTrevelyan, with her sister and baby, were to be transferred from St.\nDiddulph's in a cab to Baker Street, and that the journey was luckily\nto be made during the shades of evening, his active mind went to\nwork, and he arranged the plan. There were many difficulties, and\neven some pecuniary difficulty. He bargained that he should have his\nhundred pounds clear of all deduction for expenses, and then the\nattendant expenses were not insignificant. It was necessary that\nthere should be four men in the service, all good and true; and men\nrequire to be well paid for such goodness and truth. There was the\nman, himself an ex-policeman, who gave the instructions to the first\ncabman, as he was starting. The cabman would not undertake the job at\nall unless he were so instructed on the spot, asserting that in this\nway he would be able to prove that the orders he obeyed came from\nthe lady's husband. And there was the crafty pseudo-waiter, with the\nnapkin and no hat, who had carried the boy to the cab in which his\nfather was sitting. And there were the two cabmen. Bozzle planned\nit all, and with some difficulty arranged the preliminaries. How\nsuccessful was the scheme, we have seen; and Bozzle, for a month, was\nable to assume a superiority over his wife, which that honest woman\nfound to be very disagreeable. \"There ain't no fraudulent abduction\nin it at all,\" Bozzle exclaimed, \"because a wife ain't got no rights\nagain her husband,--not in such a matter as that.\" Mrs. Bozzle\nimplied that if her husband were to take her child away from her\nwithout her leave, she'd let him know something about it. But as\nthe husband had in his possession the note for a hundred pounds,\nrealized, Mrs. Bozzle had not much to say in support of her view of\nthe case.\n\nOn the morning after the occurrence, while Sir Marmaduke was waiting\nwith his solicitor upon a magistrate to find whether anything could\nbe done, the following letter was brought to Mrs. Trevelyan at\nGregg's Hotel:--"
+          },
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_intext_a1",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the Baker Street hotel aftermath, and the response faithfully paraphrases that Sir Marmaduke consults the policeman, accepts the view that little can legally be done, and reassures Emily that the child faces no immediate harm, with the thought reasonably inferred from his not being 'a good lawyer' and being inclined to agree with the policeman."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from asserting paternal command and expecting authorities to back his will to accepting official/legal limits, and P1→P2 further shifts from reactive dependence on officials to a gentler, more regular deference oriented toward Emily's distress and guidance by others."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Authority under pressure",
+          "anchor_query_chapter": 65,
+          "era_label": null,
+          "scenario": "At a lodging-house in town, a young married woman of Sir Marmaduke's acquaintance has fled a quarrel and begs Lady Rowley to shelter her for the night; within the hour, her husband sends a sharp note demanding her return and hinting at public complaint if she is detained. The note lies open in Sir Marmaduke's hand as his wife and daughter wait to hear what is to be done.",
+          "question": "How does Sir Marmaduke Rowley answer this demand in his own house?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He takes up a pen to send the husband a firm, civil reply, naming the terms on which the lady may remain till morning.",
+              "gt_speech": "The husband must be obeyed in the main; but there is a proper way of settling such a matter.",
+              "gt_thought": "He sees a domestic disturbance such as an older man of station ought to compose. Rank, courtesy, and a father's judgment should suffice to keep both propriety and authority in their places.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: he treats the quarrel as a domestic matter to be composed by an older gentleman's rank, courtesy, and judgment, and the diction is suitably period and unanachronistic."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "His thought frames the conflict as something his rank, courtesy, and paternal judgment ought to settle directly, which is classic initial paternal confidence rather than dependence on procedures or accommodation to others' wishes."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He sends for a respectable lawyer's opinion before returning any answer, and keeps the lady where she is for the present.",
+              "gt_speech": "We had better do nothing rash till I know where we stand.",
+              "gt_thought": "He no longer trusts mere dignity to carry a contested family matter safely through. A husband may be in the right, yet one false step could bring scandal or legal trouble upon them all.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in mid-crisis: the cautious appeal to a lawyer, the wish to avoid rashness, and the thought that dignity alone will not safely govern a disputed domestic matter all suit his pressured, procedural turn without sounding anachronistic."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His choice to suspend paternal decision and seek a lawyer's opinion, coupled with the thought that dignity alone is unsafe and legal scandal must be managed procedurally, most clearly matches authority under pressure."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He asks Lady Rowley what the woman herself wishes, and lets the answer wait while the household follows that lead.",
+              "gt_speech": "Let us hear what the poor creature desires, my dear, before we send her anywhere.",
+              "gt_thought": "He still dislikes yielding the management, but has learned that such matters do not mend because he pronounces on them. The women nearest the distress may judge the night's necessity better than he can.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's softened late-phase manner: the speech is period-appropriate and paternal, while the thought plausibly shows his grudging recognition that women immediately concerned and practical circumstance may judge better than his own mere pronouncement."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly accepts that his own pronouncement will not settle the matter and defers practical judgment to Lady Rowley and the other women closest to the distress, which is most characteristic of reluctant accommodation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The lodging-house dispute fits Trollope’s mid-Victorian social world and chapter-65 cast, introduces no anachronism or impossible character, and the phases avoid reproducing a specific canonical scene while matching Sir Marmaduke’s arc from paternal command to legal caution to practical deference."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from paternal imposition via his own judgment to procedural/legal reliance, and P1→P2 moves from formal caution and outside advice to practical deference to the woman's wishes and the household women's judgment."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Authority under pressure",
+          "anchor_query_chapter": 65,
+          "era_label": "speculative_near_future",
+          "era_description": "50–100 years forward. Plausible tech extrapolation, no magic; recognizable institutions evolved.",
+          "abstract_axis": "Self-authorizing control vs relational and procedural dependence in managing contested close relationships.",
+          "abstract_phases": [
+            "Confident top-down authority grounded in role entitlement and personal judgment",
+            "Reactive reliance on external expertise and formal processes when control fails",
+            "Reluctant practical deference to others' wishes, attachments, and established arrangements"
+          ],
+          "scenario": "At a family mediation hub, Sir Marmaduke Rowley is told that a younger relative under his care has filed to move into an independent supervised residence, and the intake officer asks to hear the relative's wishes first. The room turns to Sir Marmaduke Rowley.",
+          "question": "How does Sir Marmaduke Rowley respond when the officer gives priority to the younger relative's own account?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He objects and begins stating the case himself, leaning on his standing as head of the family and guardian.",
+              "gt_speech": "You will hear me first. I am responsible for this household and know what is proper.",
+              "gt_thought": "This is family order, not a public hearing. If he speaks plainly and firmly, sensible people will see that his judgment ought to govern the matter.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sir Marmaduke's early paternal certainty—he naturally insists on being heard first as family head, and the plain, formal wording is compatible with an older man in a near-future institutional setting without introducing knowledge or vocabulary beyond chapter 17."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He explicitly insists on being heard first because his paternal rank and personal judgment should govern, with no sign of reliance on procedures or accommodation to others' wishes."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He checks himself and asks what the formal process requires before giving his statement.",
+              "gt_speech": "Very well. Tell me the proper sequence, and what record you need from me.",
+              "gt_thought": "He does not trust the room, but he trusts his own command even less now that things have gone wrong before. Better to learn which official steps may still keep the family from further damage.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Sir Marmaduke well: the speech is formal and authoritative yet checked by circumstance, and the thought plausibly shifts from paternal command toward reliance on official procedure without using setting-breaking vocabulary or later-arc knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His thought centers on distrusting his own command after past failures and turning to the official sequence to limit damage, which is most characteristic of authority under pressure and procedural dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He falls silent and lets the younger relative speak, offering his own view only when the officer turns back to him.",
+              "gt_speech": "Say what you mean, then. I will add what I must.",
+              "gt_thought": "He dislikes yielding the floor, yet he can feel that pressing first would harden everyone against him. Other people's attachments and the settled arrangements have a weight now, whether he approves or not.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "His curt, controlling phrasing and grudging practical deference fit Sir Marmaduke's late-phase softening, and nothing in the action, speech, or thought feels knowledge-breaking or out of place for a near-future mediation setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought centers not on procedural dependence in crisis but on practical yielding to the younger relative's wishes and to arrangements and attachments that now carry weight beyond his own paternal authority."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The mediation-hub scenario fits a plausible speculative near-future institutional setting, contains no source-world leakage, keeps Sir Marmaduke Rowley as protagonist in all phases, and the phase summaries are consistent with an older-adult life stage throughout."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the agency-to-deference axis: P0→P1 shifts from asserting paternal priority to submitting to formal procedure, and P1→P2 shifts further from procedural self-positioning to practical silence and letting the younger relative's wishes lead."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Reluctant accommodation",
+          "anchor_query_chapter": 90,
+          "era_label": null,
+          "scenario": "In a London hotel, soon after the family's return to England, Nora has sent for Hugh Stanbury and insists she must receive him there. Lady Rowley, fearing her husband yet seeing resistance will fail, hovers between them as Hugh is about to be admitted.",
+          "question": "How does Sir Marmaduke Rowley respond when Nora means to receive Hugh in spite of his displeasure?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He forbids Hugh's admission and keeps watch that the order is obeyed.",
+              "gt_speech": "My daughter shall not receive him here without my sanction.",
+              "gt_thought": "This is a father's house in all but name, and a daughter's courtship must proceed under his leave. If he yields here, he lets disorder sit above judgment.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: the action, formal speech, and thought all plausibly assert a father's right to govern his daughter's courtship, with no anachronism or knowledge beyond chapter 17."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response squarely asserts paternal right to control his daughter's courtship by his own sanction, with no deference to others' wishes or procedures, which matches initial paternal confidence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He protests to Lady Rowley and withdraws, leaving the matter to be managed rather than forcing a scene.",
+              "gt_speech": "I cannot approve it; but I will have no public disturbance.",
+              "gt_thought": "He feels the insult sharply, yet no longer trusts bluster to mend a family breach. Since open command may only end in fresh helplessness, he falls back on keeping appearances and letting others handle what he cannot master.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's pressured middle phase: the speech is suitably formal and period-appropriate, and the thought plausibly shows wounded paternal authority giving way to anxious concern for appearances and practical retreat rather than command."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He does not try to impose paternal command but withdraws and lets Lady Rowley/Nora manage matters, showing constrained practical deference rather than merely emergency reliance on formal authorities."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 90,
+              "gt_action": "He looks black upon Nora, talks to his wife of standing no contumacy, hints at cursing and disinheriting, then keeps out of the way while Hugh is received.",
+              "gt_speech": null,
+              "gt_thought": "He cannot see his way to any end he would choose, and begins to perceive that Nora will have her own way. The whole business makes England seem a place of vexation, unlike the easier command he had abroad.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke late in the novel: he blusters about paternal authority and punishment, yet in practice yields and stands aside, and the thought about England as vexatious beside his easier command abroad is period-appropriate and phase-accurate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Though he blusters with paternal threats, his thought centers on recognizing that Nora will have her own way and his action ends in practical withdrawal, which best fits reluctant accommodation rather than confident command or chiefly procedural dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 90,
+            "event_id": "ch90_evt02",
+            "event_description": "As the chapter progresses, Sir Marmaduke gradually perceives that Nora will have her own way and that his threats cannot realistically be carried out, leaving him resigned and inwardly regretting the return to London.",
+            "first_words": "But Sir Marmaduke could not see",
+            "last_words": "the glory and happiness of receiving her lover alone.",
+            "key_moment": "Nora's resistance weakens his paternal certainty",
+            "verbatim_passage": "But Sir Marmaduke could not see his way to any such end, and,\nalthough he still looked black upon Nora, and talked to his wife\nof his determination to stand no contumacy, and hinted at cursing,\ndisinheriting, and the like, he began to perceive that Nora would\nhave her own way. In his unhappiness he regretted this visit to\nEngland, and almost thought that the Mandarins were a pleasanter\nresidence than London. He could do pretty much as he pleased there,\nand could live quietly, without the trouble which encountered him now\non every side.\n\nNora, immediately on her return to London, had written a note to\nHugh, simply telling him of her arrival and begging him to come and\nsee her. \"Mamma,\" she said, \"I must see him, and it would be nonsense\nto say that he must not come here. I have done what I have said\nI would do, and you ought not to make difficulties.\" Lady Rowley\ndeclared that Sir Marmaduke would be very angry if Hugh were admitted\nwithout his express permission. \"I don't want to do anything in the\ndark,\" continued Nora, \"but of course I must see him. I suppose it\nwill be better that he should come to me than that I should go to\nhim?\" Lady Rowley quite understood the threat that was conveyed in\nthis. It would be much better that Hugh should come to the hotel, and\nthat he should be treated then as an accepted lover. She had come to\nthat conclusion. But she was obliged to vacillate for awhile between\nher husband and her daughter. Hugh came of course, and Sir Marmaduke,\nby his wife's advice, kept out of the way. Lady Rowley, though she\nwas at home, kept herself also out of the way, remaining above with\nher two other daughters. Nora thus achieved the glory and happiness\nof receiving her lover alone."
+          },
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the London-hotel setup and family tension, and the response faithfully paraphrases that Sir Marmaduke glowers, threatens in talk with his wife, realizes Nora will have her way, and—on Lady Rowley’s advice—keeps out of the way while Hugh is received."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both phases end in practical noninterference while others manage Nora's reception of Hugh, with Phase 2 adding more bitter resignation than a clearly stronger shift toward deference."
+                }
+              ],
+              "note": "P0→P1 is clearly separated because he moves from direct paternal prohibition to protesting but withdrawing and letting others manage; P1→P2 is comparatively overlapping in action and outcome, differing mainly in tone and inward resentment."
+            }
+          },
+          "annotations": [
+            "P1: auto-marked plausible_tail (Q-PhaseFit placed response at P2)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Reluctant accommodation",
+          "anchor_query_chapter": 82,
+          "era_label": null,
+          "scenario": "At breakfast, a letter is brought from a country solicitor: a near relation has appealed to Sir Marmaduke to settle a sharp dispute over a young lady's small allowance and proposed residence, while Lady Rowley quietly says the women concerned had best be consulted before any answer is sent. Sir Marmaduke breaks the seal and sees that a reply is expected by the evening post.",
+          "question": "How does Sir Marmaduke Rowley respond when the household looks to him after Lady Rowley's remark?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "He sits down to draft the answer himself, treating the matter as one for his own judgment.",
+              "gt_speech": "My dear, somebody must decide it; and the person applied to had better do so plainly.",
+              "gt_thought": "This is the proper work of a father and gentleman. If weaker people are wavering, his business is to give them a rule and save them from folly.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: the action, plain authoritative speech, and thought all suit his rank-conscious belief that a gentleman-father should settle domestic disputes by his own judgment, with no anachronism or premature knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He explicitly treats the dispute as naturally his to settle by paternal judgment from above, dismissing consultation in favor of giving others a rule."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "He lays the letter aside and asks for the family solicitor's direction before any answer is sent.",
+              "gt_speech": "We had better know first what can properly be done in such a case.",
+              "gt_thought": "Domestic feeling is one thing, but troublesome affairs spread and entangle themselves. He no longer trusts a strong word from himself to end a dispute that may have legal or practical consequences.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in mid-crisis: the speech is suitably cautious and period-appropriate, and the thought plausibly reflects his shaken reliance on personal authority in favor of legal and practical guidance."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His response centers on suspending paternal judgment in favor of a solicitor's guidance because he no longer believes his own authority can safely settle contested family business."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "He hands the letter to Lady Rowley and says the ladies' wishes must be heard before he writes.",
+              "gt_speech": "Let them tell us what they want; I will not settle their living over their heads.",
+              "gt_thought": "He still thinks the business untidy and would rather pronounce upon it; but he has learned that family peace is not kept by overruling every attachment. If the women most touched have formed wishes, those wishes must govern the answer in part.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's late softening: the phrasing is period-appropriate, his lingering preference to decide for others remains visible, and the practical deference to Lady Rowley and the women concerned matches his reluctant accommodation by chapter 82."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He explicitly yields practical control to the women most affected, and his thought shows a learned acceptance that others' wishes must partly govern family decisions despite his lingering preference to pronounce himself."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The breakfast-letter dispute fits Trollope’s realist Victorian world and chapter-82 social milieu, uses only plausible existing figures and institutions, and presents a fresh non-canonical domestic situation consistent with Sir Marmaduke’s arc."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 moves from unilateral paternal decision to procedural/legal deference, and P1→P2 moves from formal-procedural dependence to practical deference to the wishes of the women directly concerned."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Reluctant accommodation",
+          "anchor_query_chapter": 82,
+          "era_label": "pre_modern_imperial",
+          "era_description": "Ancient or medieval empire (NOT the source's era). Court politics, hierarchy, religious authority.",
+          "abstract_axis": "Self-authorizing control vs relational and procedural dependence in managing contested close relationships.",
+          "abstract_phases": [
+            "Confident top-down authority grounded in role entitlement and personal judgment",
+            "Reactive reliance on external expertise and formal processes when control fails",
+            "Reluctant practical deference to others' wishes, attachments, and established arrangements"
+          ],
+          "scenario": "In the governor's hall, Sir Marmaduke Rowley's married daughter asks sanctuary with her mother after a bitter quarrel, while her husband demands she be sent back under his roof. A temple elder and the governor's clerk wait for Sir Marmaduke Rowley to declare how the household will proceed.",
+          "question": "How does Sir Marmaduke Rowley answer before them all?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial paternal confidence",
+              "query_chapter": 17,
+              "gt_action": "Sir Marmaduke Rowley gives the ruling himself, ordering his daughter returned to her husband under his protection and terms.",
+              "gt_speech": "A wife must not unhouse herself. She will go back, and I will see fair dealing done.",
+              "gt_thought": "He takes the dispute as one proper to fathers and husbands, with lesser voices to be guided. If he speaks firmly from his place, order ought to follow.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's early paternal confidence: he assumes the matter belongs to fathers and husbands, speaks in firm domestic authority, and uses era-appropriate, non-anachronistic language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He explicitly construes the conflict as one to be settled by paternal and marital authority from above, expecting his own firm ruling to restore order rather than deferring to others or procedures."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Authority under pressure",
+              "query_chapter": 65,
+              "gt_action": "Sir Marmaduke Rowley turns to the temple elder and clerk, asking that the matter be entered and judged by proper authority.",
+              "gt_speech": "Set it down properly. Let the law and the elder say what may be done.",
+              "gt_thought": "He no longer trusts indignation or rank to mend a broken household. Public error and failed efforts have taught him that such knots must be handled by those with standing, forms, and witnesses.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in phase 1: the speech is suitably formal and era-appropriate, and the thought reflects his chastened turn from paternal command toward legal and official procedure without reaching beyond chapter 65."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He explicitly abandons rank and paternal indignation in favor of law, formal authority, and witnessed procedure, which is the hallmark of authority under pressure rather than direct paternal command or later family-centered accommodation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Reluctant accommodation",
+              "query_chapter": 82,
+              "gt_action": "Sir Marmaduke Rowley allows his daughter to remain with her mother for the present and accepts the elder's arrangement for a later hearing.",
+              "gt_speech": "Let her stay this night. We will abide by the elder's ordering of it.",
+              "gt_thought": "He dislikes yielding the shape of his own house, yet he sees that his daughter's will, his wife's attachment, and settled custom cannot simply be overborne. Peace now matters more than proving he commands.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's late softening well: the speech is plain and authoritative yet yielding, and the thought plausibly shows his reluctant acceptance that wife, daughter, and established forms must now be accommodated rather than overruled."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought centers on reluctantly accepting his daughter's wishes, his wife's attachment, and established custom rather than asserting paternal command, which most clearly matches practical accommodation to others."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all three phase summaries remain internally consistent with a pre-modern imperial setting, keep Sir Marmaduke Rowley as the protagonist, show no source-world leakage or obvious anachronisms, and depict him throughout as an older adult."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the agency-to-deference axis: P0→P1 moves from issuing a paternal ruling himself to handing the matter to formal authorities, and P1→P2 moves from procedural referral outward to a more accommodating acceptance of his daughter's, wife's, and the elder's practical arrangement."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [],
+      "weak_pairs": [
+        {
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses have him affirm the no-dowry principle in nearly the same paternal, self-validating way, with no real shift toward deference to others or procedures in action, speech, or thought."
+        },
+        {
+          "probe_id": "sir_marmaduke_rowley_final_intra_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both phases end in practical noninterference while others manage Nora's reception of Hugh, with Phase 2 adding more bitter resignation than a clearly stronger shift toward deference."
+        }
+      ]
+    },
+    {
+      "axis_id": "final_rel_04",
+      "axis_name": "From companionable alignment to practical dependence on Lady Rowley",
+      "dimension_label": "trust-dependence",
+      "axis_type": "relational",
+      "target_character": "Lady Rowley",
+      "decision_variable": "When a family crisis requires a response, does he act on his own judgment or defer to Lady Rowley to shape and manage the response?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "He shifts from acting as an equal partner with his own judgments intact to increasingly letting Lady Rowley moderate and redirect how he responds to family conflicts."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "He shifts from accepting her moderating influence on particular decisions to relying on her to handle the practical management of family order while he remains only the formal authority."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Autonomous judgment versus increasing reliance on a partner’s emotional regulation and practical decision-management under family stress.",
+        "abstract_phases": [
+          "Mutual alignment with shared judgment",
+          "Partner as regulator and corrective influence",
+          "Practical dependence on partner’s management"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "older_adult",
+          "approx_age": "late 50s to early 60s",
+          "rationale": "In chs. 1-33, Sir Marmaduke is already a married father overseeing his daughter's marriage prospects and sharing a settled social outlook with Lady Rowley, which fits an older adult patriarch."
+        },
+        "1": {
+          "life_stage": "older_adult",
+          "approx_age": "around 60",
+          "rationale": "In chs. 64-71, Lady Rowley moderates his anger and helps direct family decisions, indicating a later-life marital dynamic within an established long marriage and mature parenthood."
+        },
+        "2": {
+          "life_stage": "older_adult",
+          "approx_age": "early 60s",
+          "rationale": "In chs. 85-94, his reliance on Lady Rowley for household management and family settlement while remaining the formal patriarch points to an older adult stage marked by practical dependence within senior marriage."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Shared family outlook",
+          "anchor_query_chapter": 33,
+          "era_label": null,
+          "scenario": "From the islands, Sir Marmaduke and Lady Rowley have just received news of Emily's miserable journey to Nuncombe Putney, and both are angered against Trevelyan. Before anything is sent on, Lady Rowley is with him as he considers how to answer the husband.",
+          "question": "How does Sir Marmaduke Rowley respond, with Lady Rowley beside him, to the news and the need to address Trevelyan?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 33,
+              "gt_action": "He writes a sealed note to Mr. Trevelyan, meaning to bring him back to a sense of his duty, while sharing Lady Rowley's anger.",
+              "gt_speech": null,
+              "gt_thought": "Trevelyan's conduct seems a plain dereliction of a husband's duty, and a firm paternal remonstrance ought to recall him to reason. He and Lady Rowley are of one mind, both judging the case much alike.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Sir Marmaduke well: the paternal, formal impulse to remonstrate with Trevelyan accords with his shared indignation with Lady Rowley, and the diction is suitably Victorian and phase-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He acts on his own paternal judgment while simply sharing Lady Rowley’s view, expressing mutual alignment rather than her moderating or managing his response."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He drafts a stern letter to Trevelyan, but keeps close to Lady Rowley as the message is shaped and softened for better effect.",
+              "gt_speech": "My dear, see whether this will do before it goes.",
+              "gt_thought": "His anger rises first, but he no longer quite trusts anger to mend a family breach. Lady Rowley sees how words will fall, and he lets her temper his judgment so the rebuke may work.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in this middle phase: the stern first impulse is his, but the deference to Lady Rowley’s moderating judgment before sending the letter is exactly right in tone, knowledge, and period language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still initiates the response himself, but explicitly asks Lady Rowley to review and soften it, and his thought centers on her moderating his anger rather than fully taking over management."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He puts his name to a letter for Trevelyan, leaving Lady Rowley to settle how the matter is conveyed and followed through.",
+              "gt_speech": "You had better manage it, my dear; only let him know my mind.",
+              "gt_thought": "He still feels the father's authority must stand, but the useful part of the business belongs to her steadier hands. She can carry the burden of the family trouble better than he can manage its details.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the speech is period-appropriate and deferential to Lady Rowley’s practical management, while the thought plausibly preserves his formal paternal authority even as he relies on her steadier handling of the family crisis."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly separates formal patriarchal authority from the real work of managing and carrying the family crisis, which he assigns to Lady Rowley’s steadier, more practical hands."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 33,
+            "event_id": "ch33_evt01",
+            "event_description": "Sir Marmaduke and Lady Rowley receive news of Trevelyan's separation crisis and respond with anger, writing to him as though his duty can still be enforced if they were present.",
+            "first_words": "And then came a packet to",
+            "last_words": "journey to St. Diddulph's and carry his own answer with him.",
+            "key_moment": "She shares his anger at Trevelyan",
+            "verbatim_passage": "And then came a packet to her from her\nfather and mother, despatched from the islands after the receipt by\nLady Rowley of the melancholy tidings of the journey to Nuncombe\nPutney. Both Sir Marmaduke and Lady Rowley were full of anger against\nTrevelyan, and wrote as though the husband could certainly be brought\nback to a sense of his duty, if they only were present. This packet\nhad been at Nuncombe Putney, and contained a sealed note from Sir\nMarmaduke addressed to Mr. Trevelyan. Lady Rowley explained that it\nwas impossible that they should get to England earlier than in the\nspring. \"I would come myself at once and leave papa to follow,\" said\nLady Rowley, \"only for the children. If I were to bring them, I\nmust take a house for them, and the expense would ruin us. Papa has\nwritten to Mr. Trevelyan in a way that he thinks will bring him to\nreason.\"\n\nBut how was this letter, by which the husband was to be brought to\nreason, to be put into the husband's hands? Mrs. Trevelyan applied\nto Mr. Bideawhile and to Lady Milborough, and to Stanbury, for\nTrevelyan's address; but was told by each of them that nothing was\nknown of his whereabouts. She did not apply to Mr. Bozzle, although\nMr. Bozzle was more than once in her neighbourhood; but as yet she\nknew nothing of Mr. Bozzle. The replies from Mr. Bideawhile and from\nLady Milborough came by the post; but Hugh Stanbury thought that duty\nrequired him to make another journey to St. Diddulph's and carry his\nown answer with him."
+          },
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_intext_a0",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario fits the packet-from-the-islands setup and shared anger at Trevelyan, and the response faithfully reflects that Sir Marmaduke wrote a sealed note intended to bring Trevelyan to reason, with the added thought remaining a reasonable inference from the passage’s statement that both parents wrote as though he could be brought back to his duty."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision-variable axis: P0→P1 moves from his own intact judgment in shared alignment to moderated deference, and P1→P2 moves from seeking her tempering input to explicitly handing her the practical management of the response."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Shared family outlook",
+          "anchor_query_chapter": 17,
+          "era_label": null,
+          "scenario": "At breakfast, Lady Rowley shows Sir Marmaduke a sharp letter from a near connection who blames the family for encouraging an imprudent attachment and hints that talk will spread unless checked. She asks whether anything ought to be said or done before the letter is answered.",
+          "question": "How does Sir Marmaduke Rowley respond when Lady Rowley puts the letter into his hands?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He reads the letter, frowns, and lays it back before Lady Rowley with a settled air.",
+              "gt_speech": "It is impertinent stuff; we must let them see we are not to be schooled in our own family.",
+              "gt_thought": "He takes the affront as one they feel together, and expects his wife to see it much as he does. Her judgment matters, but as his companion's, not as a curb upon him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The tone and diction are suitably Trollopian and fit early-phase Sir Marmaduke: he treats the insult as a shared family affront and assumes Lady Rowley's agreement without yet depending on her to moderate him."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "His thought frames Lady Rowley as an aligned companion who shares his view rather than as someone who moderates or manages his response, which matches the shared-outlook phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He reads the letter and keeps it a moment, looking to Lady Rowley before saying how it should be answered.",
+              "gt_speech": "It is insolent enough; still, my dear, we had better not make it worse by heat.",
+              "gt_thought": "He feels the sting and would naturally answer it roundly, but he has learned that Lady Rowley often sees the safer course. He half forms his own judgment, then lets hers soften and direct it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The deference to Lady Rowley’s moderating judgment, the restrained irritation in 'insolent enough,' and the sober domestic tone all fit Sir Marmaduke in this middle phase without any anachronism or knowledge beyond chapter 67."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought explicitly shows him checking his own angry impulse and letting Lady Rowley soften and direct his response, which matches her role as moderator more than full practical dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He hands the letter back to Lady Rowley and asks her to settle the answer as she thinks best.",
+              "gt_speech": "You understand these things better than I do, my dear; pray write what is proper, and tell me if my name is needed.",
+              "gt_thought": "He still feels himself head of the family, but the handling of such vexations belongs in practice to her. What he chiefly wants is for Lady Rowley to absorb the trouble and keep the household straight.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's late-phase dependence well: the deferential breakfast speech is period-appropriate, and the thought plausibly preserves his formal patriarchal self-conception while leaving the practical management of family vexations to Lady Rowley."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly separates formal patriarchal status from Lady Rowley’s practical control, showing reliance on her to absorb and manage the family trouble rather than merely moderate his judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The breakfast-letter scenario fits Trollope’s mid-19th-century domestic world, uses only characters and social pressures plausible by chapter 17, and presents a fresh family-pressure situation rather than reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision-variable axis: P0→P1 shifts from independent judgment within shared alignment to moderated response shaped by Lady Rowley, and P1→P2 shifts further to explicit delegation of practical handling to her."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Shared family outlook",
+          "anchor_query_chapter": 17,
+          "era_label": "modern_urban",
+          "era_description": "Contemporary city, ~2010s–2020s. Smartphones, public transit, office/school institutions.",
+          "abstract_axis": "Autonomous judgment versus increasing reliance on a partner’s emotional regulation and practical decision-management under family stress.",
+          "abstract_phases": [
+            "Mutual alignment with shared judgment",
+            "Partner as regulator and corrective influence",
+            "Practical dependence on partner’s management"
+          ],
+          "scenario": "At breakfast, Sir Marmaduke Rowley gets a text from Emily saying she and her partner have had a public blowup online, and a relative is now demanding the family step in today. Lady Rowley reads over his shoulder as his phone starts buzzing again.",
+          "question": "How does Sir Marmaduke Rowley respond as the messages keep coming?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He answers the relative himself and says the family will address it plainly and together.",
+              "gt_speech": "Tell them we'll speak to Emily and settle this as a family.",
+              "gt_thought": "This is a family matter, and he and Lady Rowley see it the same way. He expects to judge it for himself, with her beside him rather than steering him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 0 well: he acts on his own authority while assuming Lady Rowley's agreement, and the plain, family-centered wording suits an older, modernized Sir Marmaduke without introducing later dependence or any knowledge beyond chapter 17."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought stresses shared outlook and his own intact judgment with Lady Rowley beside him rather than moderating or managing him, which best fits the equal-partner stance of Phase 0."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He starts a reply, then hands the phone to Lady Rowley to look over before sending anything.",
+              "gt_speech": "Read this first. I won't send it if you think it too sharp.",
+              "gt_thought": "His first feeling is annoyance, but he has learned that his anger makes a mess of these moments. Lady Rowley sees where to soften without surrendering the point.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 1 well: he is still the formal authority but explicitly submits his sharp first response to Lady Rowley’s moderating judgment, and the modern details ('text,' 'online,' 'phone') are natural without sounding uncharacteristically young."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still forms his own response but explicitly asks Lady Rowley to moderate and soften it because he knows his anger leads him astray, which matches her role as moderator rather than full practical manager."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He tells Lady Rowley to handle the calls and messages while he waits for her account of what should be done.",
+              "gt_speech": "You take this in hand, my dear, and tell me what answer is best.",
+              "gt_thought": "He still feels the family answer ought to come under his name, but he no longer trusts himself to manage the traffic and temper of it. She is the one who can keep order and bring the thing to ground.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Sir Marmaduke well: he keeps the formal authority in wanting the reply under his name, yet plainly depends on Lady Rowley to manage the practical flood and decide the proper response, and the modern terms like text, calls, messages, and online sit naturally in the updated setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He explicitly hands Lady Rowley the practical management of the crisis while retaining only nominal authority, which matches practical dependence rather than mere moderation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The modern texting/social-media family-crisis setup is internally consistent with a 2010s–2020s urban setting, contains no source-world leakage, keeps Sir Marmaduke Rowley as protagonist, and all three phase summaries fit an older-adult life stage while showing the required shift from shared judgment to practical dependence on Lady Rowley."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: Phase 0→1 shifts from acting on his own judgment with Lady Rowley as aligned companion to seeking her moderation before acting, and Phase 1→2 shifts further from moderated self-action to explicit reliance on her to manage the response and determine the answer."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Lady Rowley as moderator",
+          "anchor_query_chapter": 70,
+          "era_label": null,
+          "scenario": "In the evening at home, Sir Marmaduke is shut up with Nora while Lady Rowley has already told him of Nora's understanding with Mr. Stanbury. Before he begins, he knows his wife is involved and expects the matter to be brought to an end.",
+          "question": "How does Sir Marmaduke Rowley open the matter with Nora, with Lady Rowley standing behind the interview in his mind?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He speaks to Nora as family head, laying down his objection and treating Lady Rowley as sharing his settled view rather than guiding his manner.",
+              "gt_speech": "Your mamma and I cannot think of such a match.",
+              "gt_thought": "He takes comfort in their common judgment and assumes a father's plain authority ought to end the business. Lady Rowley is his ally here, not his governor; he means to say what both of them think.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Sir Marmaduke well: the plain paternal speech, reliance on shared judgment with Lady Rowley, and assumption that his authority should settle Nora's affair are all phase-appropriate and free of anachronism or later-arc dependence."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought frames Lady Rowley as an ally sharing his judgment rather than as someone moderating or managing his response, which fits the shared-outlook phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 70,
+              "gt_action": "He tells Nora the match cannot be, argues Mr. Stanbury's want of means, and then shifts the softer part onto Lady Rowley, saying her mother will speak to her.",
+              "gt_speech": "What I want you to understand from me is this,--that there must be an end to it.",
+              "gt_thought": "He comes in feeling strong and justified, ready for battle when he hears no obedience in her voice. Yet even in asserting himself, he leans on Lady Rowley to manage Nora's feelings and carry the matter further.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in phase 1: the speech is suitably Trollopian and paternal, and the thought/action rightly show him beginning with blustering authority but already relying on Lady Rowley to soften and manage the matter."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still asserts his own judgment forcefully, but the key cue is that he already expects Lady Rowley to soften, carry forward, and shape the family response after his initial pronouncement."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He states his refusal in formal terms, then leaves the burden of dealing with Nora's feelings and the household strain to Lady Rowley.",
+              "gt_speech": "You hear my decision; your mamma will settle what is to follow.",
+              "gt_thought": "He still feels bound to pronounce as father, but he no longer trusts himself to order the whole disturbance well. Lady Rowley's steadier judgment seems the real means by which peace and practice can be kept together.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the formal paternal refusal, the deferment to 'your mamma,' and the inward reliance on Lady Rowley’s steadier management all suit his practical dependence without introducing anachronism or later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly casts him as retaining only formal paternal authority while relying on Lady Rowley to manage the practical and emotional aftermath, which is the hallmark of practical dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 70,
+            "event_id": "ch70_evt02",
+            "event_description": "In his confrontation with Nora, Sir Marmaduke tries to assert paternal authority and forbid her engagement to Stanbury, but her calm resistance and insistence on her promise force him into a defensive, emotionally shaken position.",
+            "first_words": "In the evening Nora was closeted",
+            "last_words": "too late for that now, papa.",
+            "key_moment": "She is present as he confronts Nora",
+            "verbatim_passage": "In the evening Nora was closeted with her father. \"Nora, my dear,\nyou must understand, once and for all, that this cannot be,\" said\nSir Marmaduke. The Governor, when he was not disturbed by outward\ncircumstances, could assume a good deal of personal dignity, and\ncould speak, especially to his children, with an air of indisputable\nauthority.\n\n\"What can't be, papa?\" said Nora.\n\nSir Marmaduke perceived at once that there was no indication of\nobedience in his daughter's voice, and he prepared himself for\nbattle. He conceived himself to be very strong, and thought that his\nobjections were so well founded that no one would deny their truth\nand that his daughter had not a leg to stand on. \"This, that your\nmamma tells me of about Mr. Stanbury. Do you know, my dear, that he\nhas not a shilling in the world?\"\n\n\"I know that he has no fortune, papa,--if you mean that.\"\n\n\"And no profession either;--nothing that can be called a profession.\nI do not wish to argue it, my dear, because there is no room for\nargument. The whole thing is preposterous. I cannot but think ill\nof him for having proposed it to you; for he must have known,--must\nhave known, that a young man without an income cannot be accepted as\na fitting suitor for a gentleman's daughter. As for yourself, I can\nonly hope that you will get the little idea out of your head very\nquickly;--but mamma will speak to you about that. What I want you to\nunderstand from me is this,--that there must be an end to it.\"\n\nNora listened to this speech in perfect silence, standing before her\nfather, and waiting patiently till the last word of it should be\npronounced. Even when he had finished she still paused before she\nanswered him. \"Papa,\" she said at last, and hesitated again before\nshe went on.\n\n\"Well, my dear.\"\n\n\"I can not give it up.\"\n\n\"But you must give it up.\"\n\n\n   [Illustration: \"But you must give it up,\" said Sir Marmaduke.]\n\n\n\"No, papa. I would do anything I could for you and mamma, but that is\nimpossible.\"\n\n\"Why is it impossible?\"\n\n\"Because I love him so dearly.\"\n\n\"That is nonsense. That is what all girls say when they choose to\nrun against their parents. I tell you that it shall be given up. I\nwill not have him here. I forbid you to see him. It is quite out of\nthe question that you should marry such a man. I do hope, Nora, that\nyou are not going to add to mamma's difficulties and mine by being\nobstinate and disobedient.\" He paused a moment, and then added, \"I do\nnot think that there is anything more to be said.\"\n\n\"Papa.\"\n\n\"My dear, I think you had better say nothing further about it. If you\ncannot bring yourself at the present moment to promise that there\nshall be an end of it, you had better hold your tongue. You have\nheard what I say, and you have heard what mamma says. I do not for\na moment suppose that you dream of carrying on a communication with\nthis gentleman in opposition to our wishes.\"\n\n\"But I do.\"\n\n\"Do what?\"\n\n\"Papa, you had better listen to me.\" Sir Marmaduke, when he heard\nthis, assumed an air of increased authority, in which he intended\nthat paternal anger should be visible; but he seated himself, and\nprepared to receive, at any rate, some of the arguments with which\nNora intended to bolster up her bad cause. \"I have promised Mr.\nStanbury that I will be his wife.\"\n\n\"That is all nonsense.\"\n\n\"Do listen to me, papa. I have listened to you and you ought to\nlisten to me. I have promised him, and I must keep my promise. I\nshall keep my promise if he wishes it. There is a time when a girl\nmust be supposed to know what is best for herself,--just as there is\nfor a man.\"\n\n\"I never heard such stuff in all my life. Do you mean that you'll go\nout and marry him like a beggar, with nothing but what you stand up\nin, with no friend to be with you, an outcast, thrown off by your\nmother,--with your father's--curse?\"\n\n\"Oh, papa, do not say that. You would not curse me. You could not.\"\n\n\"If you do it at all, that will be the way.\"\n\n\"That will not be the way, papa. You could not treat me like that.\"\n\n\"And how are you proposing to treat me?\"\n\n\"But, papa, in whatever way I do it, I must do it. I do not say\nto-day or to-morrow; but it must be the intention and purpose of\nmy life, and I must declare that it is, everywhere. I have made\nup my mind about it. I am engaged to him, and I shall always say\nso,--unless he breaks it. I don't care a bit about fortune. I thought\nI did once, but I have changed all that.\"\n\n\"Because this scoundrel has talked sedition to you.\"\n\n\"He is not a scoundrel, papa, and he has not talked sedition. I don't\nknow what sedition is. I thought it meant treason, and I'm sure he is\nnot a traitor. He has made me love him, and I shall be true to him.\"\n\nHereupon Sir Marmaduke began almost to weep. There came first a\nhalf-smothered oath and then a sob, and he walked about the room, and\nstruck the table with his fist, and rubbed his bald head impatiently\nwith his hand. \"Nora,\" he said, \"I thought you were so different from\nthis! If I had believed this of you, you never should have come to\nEngland with Emily.\"\n\n\"It is too late for that now, papa.\""
+          },
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_intext_a1",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The setup matches the passage (evening, Nora alone with her father, Lady Rowley having informed him), and the response faithfully reflects Sir Marmaduke’s opening: he declares the match impossible, cites Stanbury’s lack of money/profession, says 'mamma will speak to you about that,' and insists 'there must be an end to it,' while the thought is supported by the text’s note that he felt strong, justified, and prepared for battle."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are separated: P0→P1 shifts from shared judgment with his own authority intact to authority already leaning on Lady Rowley’s moderating follow-up, and P1→P2 further shifts from case-specific softening through her to explicit reliance on her to settle what follows and manage the practical aftermath."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Lady Rowley as moderator",
+          "anchor_query_chapter": 67,
+          "era_label": null,
+          "scenario": "At breakfast, a note is brought in from a near relation reporting that one of the younger women of the family has been seen driving repeatedly with a gentleman whose attentions are already being talked of. Lady Rowley, after reading it, says they must answer before dinner, and looks to Sir Marmaduke.",
+          "question": "How does Sir Marmaduke Rowley answer Lady Rowley in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He takes the note, reads it, and begins to dictate a firm family answer while standing beside Lady Rowley.",
+              "gt_speech": "My dear, this must be checked. We will tell her plainly what is due to herself and to us all.",
+              "gt_thought": "He treats it as a plain family question on which husband and wife naturally think together. Lady Rowley is his partner in the judgment, but the judgment itself is still fully his own.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Sir Marmaduke well: the language is period-appropriate and paternal, and it rightly presents husband and wife as acting in concert while leaving the judgment still confidently his own."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought presents husband and wife as naturally aligned partners while Sir Marmaduke's judgment remains fully his own, which fits shared outlook rather than moderation or dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He frowns over the note, then turns it back to Lady Rowley and waits a moment before settling on the reply.",
+              "gt_speech": "You had better tell me how far we should go; I am angry enough to say too much.",
+              "gt_thought": "He feels the old heat rise, but now reads her calm as a needed check upon it. The family must be defended, yet he knows her measure will make the answer more useful than his first impulse.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in phase 1: the deference to Lady Rowley as a moderating guide, the plain domestic authority of the breakfast scene, and the diction of anger checked by usefulness all sound period-appropriate and true to his chapter-67 position."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He explicitly asks Lady Rowley to moderate and shape his response because he distrusts his own angry impulse, which matches her role as a tempering influence more than full practical dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He hands the note to Lady Rowley and asks her to write and arrange whatever follow-up the matter requires in the house.",
+              "gt_speech": "Do as you think best, my dear; only let my name stand where it should.",
+              "gt_thought": "He sees the trouble less as something to judge than as something to be managed, and management belongs to her hands. His place is to give countenance and authority while she bears the practical burden.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's late-phase dependence well: the speech is period-appropriate and deferential in a husbandly, patriarchal way, and the thought rightly casts him as lending formal authority while Lady Rowley manages the practical business."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly casts Lady Rowley as the practical manager while he merely lends formal authority, which is the hallmark of practical dependence rather than mere moderation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The breakfast-note scenario fits Trollope’s mid-Victorian domestic world, uses only characters plausibly present by chapter 67, and invents a family concern without reproducing a specific canonical scene while keeping Sir Marmaduke’s responses consistent with his older-adult stage and arc."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from shared-but-still-his-own judgment to explicit moderation-seeking from Lady Rowley, and P1→P2 shifts further to practical delegation where she manages the response and he retains only nominal authority."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Lady Rowley as moderator",
+          "anchor_query_chapter": 67,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "Autonomous judgment versus increasing reliance on a partner’s emotional regulation and practical decision-management under family stress.",
+          "abstract_phases": [
+            "Mutual alignment with shared judgment",
+            "Partner as regulator and corrective influence",
+            "Practical dependence on partner’s management"
+          ],
+          "scenario": "At breakfast in their town house, Sir Marmaduke Rowley receives a telegram saying a close young relation has left home after a bitter quarrel and is now staying in lodgings near a factory district. A servant waits for instructions while Lady Rowley looks to him across the table.",
+          "question": "How does Sir Marmaduke Rowley respond when the telegram is read?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He gives the servant a firm message to send and turns to Lady Rowley as if confirming what they both already think proper.",
+              "gt_speech": "Wire back that she is to come home at once. We must stop this nonsense.",
+              "gt_thought": "To him this is plain family business: a young person has overstepped and must be brought back under proper authority. Lady Rowley is with him in the judgment, so her presence steadies rather than redirects him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early-phase Sir Marmaduke well: briskly patriarchal, aligned with Lady Rowley rather than guided by her, and the diction ('wire back,' 'come home at once,' 'proper authority') is plausible for the stated early-20th-century setting without importing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "He acts on his own judgment and sees Lady Rowley as sharing an already settled family view, with her presence confirming rather than moderating or managing his response."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He starts to dictate a sharp reply, then pauses and lets Lady Rowley shape the wording before the telegram is sent.",
+              "gt_speech": "Read it again, my dear. I won't have this mishandled.",
+              "gt_thought": "His first feeling is anger, but he has learned that anger often makes a family breach worse. He still means to answer as head of the house, yet he looks to Lady Rowley to cool the message and make it useful.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 1 well: the breakfast-table authority, initial sharpness, and immediate deference to Lady Rowley’s moderating judgment all sound right for Sir Marmaduke, and nothing in the wording feels post-period or beyond chapter 67 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still claims the formal response as his own, but explicitly relies on Lady Rowley to moderate his anger and shape the message, which matches her role as moderator more than full practical dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He hands the telegram across to Lady Rowley and tells the servant to take his orders from her about the reply and the household arrangements.",
+              "gt_speech": "You had better settle it, my dear; you know how these things must be managed.",
+              "gt_thought": "He still feels the burden is his in name, but not the knack of setting matters right in practice. Lady Rowley can judge the tone, the travel, and the domestic consequences better than he can, and he leans on that.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the deferential handover to Lady Rowley, the formal domestic phrasing, and the inward sense of nominal authority but practical reliance are all apt, with no clear anachronism or knowledge breach for an early-20th-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He explicitly cedes both the reply and household arrangements to Lady Rowley, thinking of himself as only nominally responsible while relying on her superior practical management."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all three phase summaries fit an early-20th-century domestic setting with telegrams and servants, keep Sir Marmaduke Rowley as the protagonist, show no source-world leakage, and consistently present him as an older adult across the phases."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from acting on his own judgment with Lady Rowley as confirming ally to letting her moderate his response, and P1→P2 shifts further from moderated authority to explicit practical deference and delegation."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Practical dependence",
+          "anchor_query_chapter": 90,
+          "era_label": null,
+          "scenario": "In a London hotel, Nora has pressed to receive Hugh Stanbury, and Lady Rowley, fearing worse if she refuses, has let him come while keeping upstairs with the other girls. Sir Marmaduke knows Hugh is below and must now bear his wife's handling of the interview.",
+          "question": "How does Sir Marmaduke Rowley respond when Lady Rowley lets Nora receive Hugh under their roof?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He protests to Lady Rowley and insists that Hugh should not be admitted without his sanction, expecting her to stand with him in the refusal.",
+              "gt_speech": "My dear, this cannot be allowed without my consent.",
+              "gt_thought": "He takes the matter as one for husband and wife to judge together, and assumes their view of family order is the same. If Lady Rowley yields, it feels less like guidance than a breach in their common front.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Sir Marmaduke well: the speech is suitably plain and patriarchal, and the thought rightly treats the matter as one on which he expects full marital agreement rather than Lady Rowley’s later moderating authority."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought frames the issue as a shared husband-and-wife judgment with an assumed common front, which fits mutual alignment rather than moderation by or dependence on Lady Rowley."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He grumbles to Lady Rowley, then lets her manage the meeting as she thinks best, keeping himself apart rather than forcing a louder scene.",
+              "gt_speech": "If you think it best, my dear, I shall leave it in your hands.",
+              "gt_thought": "He still feels the father's authority has been crossed, but he has learned that his wife's cooler handling often mends what his anger would worsen. He yields with irritation, half resisting even while accepting her check.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in this middle phase: the speech is suitably plain and deferential to Lady Rowley’s judgment, and the thought captures his still-wounded paternal authority being checked by her cooler management without anachronism or foreknowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response shows him still holding his own paternal judgment but consciously allowing Lady Rowley to moderate and redirect his reaction because he knows her cooler management works better."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 90,
+              "gt_action": "He looks black upon Nora, talks to Lady Rowley of standing no contumacy and hints at cursing and disinheriting, but by his wife's advice keeps out of the way while Hugh sees Nora.",
+              "gt_speech": null,
+              "gt_thought": "He cannot see his way to any effective end and begins to perceive that Nora will have her own way. Unhappy and tired, he leans on Lady Rowley's management while keeping the show of paternal displeasure.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Sir Marmaduke well: the blustering paternal anger, the threat of disinheritance, and especially his weary reliance on Lady Rowley’s practical management are all true to chapter-90 circumstances and diction without anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly shows him unable to devise an effective response and leaning on Lady Rowley to manage the situation while he preserves only the appearance of paternal authority, which is most diagnostic of practical dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 90,
+            "event_id": "ch90_evt02",
+            "event_description": "As the chapter progresses, Sir Marmaduke gradually perceives that Nora will have her own way and that his threats cannot realistically be carried out, leaving him resigned and inwardly regretting the return to London.",
+            "first_words": "But Sir Marmaduke could not see",
+            "last_words": "I will tell you all the things",
+            "key_moment": "She moderates his response to Nora",
+            "verbatim_passage": "But Sir Marmaduke could not see his way to any such end, and,\nalthough he still looked black upon Nora, and talked to his wife\nof his determination to stand no contumacy, and hinted at cursing,\ndisinheriting, and the like, he began to perceive that Nora would\nhave her own way. In his unhappiness he regretted this visit to\nEngland, and almost thought that the Mandarins were a pleasanter\nresidence than London. He could do pretty much as he pleased there,\nand could live quietly, without the trouble which encountered him now\non every side.\n\nNora, immediately on her return to London, had written a note to\nHugh, simply telling him of her arrival and begging him to come and\nsee her. \"Mamma,\" she said, \"I must see him, and it would be nonsense\nto say that he must not come here. I have done what I have said\nI would do, and you ought not to make difficulties.\" Lady Rowley\ndeclared that Sir Marmaduke would be very angry if Hugh were admitted\nwithout his express permission. \"I don't want to do anything in the\ndark,\" continued Nora, \"but of course I must see him. I suppose it\nwill be better that he should come to me than that I should go to\nhim?\" Lady Rowley quite understood the threat that was conveyed in\nthis. It would be much better that Hugh should come to the hotel, and\nthat he should be treated then as an accepted lover. She had come to\nthat conclusion. But she was obliged to vacillate for awhile between\nher husband and her daughter. Hugh came of course, and Sir Marmaduke,\nby his wife's advice, kept out of the way. Lady Rowley, though she\nwas at home, kept herself also out of the way, remaining above with\nher two other daughters. Nora thus achieved the glory and happiness\nof receiving her lover alone.\n\n\"My own true girl!\" he said, speaking with his arms still round her\nwaist.\n\n\"I am true enough; but whether I am your own,--that is another\nquestion.\"\n\n\"You mean to be?\"\n\n\"But papa doesn't mean it. Papa says that you are nobody, and that\nyou haven't got an income; and thinks that I had better go back and\nbe an old maid at the Mandarins.\"\n\n\"And what do you think yourself, Nora?\"\n\n\"What do I think? As far as I can understand, young ladies are not\nallowed to think at all. They have to do what their papas tell them.\nThat will do, Hugh. You can talk without taking hold of me.\"\n\n\"It is such a time since I have had a hold of you,--as you call it.\"\n\n\"It will be much longer before you can do so again, if I go back\nto the Islands with papa. I shall expect you to be true, you know;\nand it will be ten years at the least before I can hope to be home\nagain.\"\n\n\"I don't think you mean to go, Nora.\"\n\n\"But what am I to do? That idea of yours of walking out to the\nnext church and getting ourselves married sounds very nice and\nindependent, but you know that it is not practicable.\"\n\n\"On the other hand, I know it is.\"\n\n\"It is not practicable for me, Hugh. Of all things in the world I\ndon't want to be a Lydia. I won't do anything that anybody shall ever\nsay that your wife ought not to have done. Young women when they are\nmarried ought to have their papas' and mammas' consent. I have been\nthinking about it a great deal for the last month or two, and I have\nmade up my mind to that.\"\n\n\"What is it all to come to, then?\"\n\n\"I mean to get papa's consent. That is what it is to come to.\"\n\n\"And if he is obstinate?\"\n\n\"I shall coax him round at last. When the time for going comes, he'll\nyield then.\"\n\n\"But you will not go with them?\" As he asked this he came to her and\ntried again to take her by the waist; but she retreated from him, and\ngot herself clear from his arm. \"If you are afraid of me, I shall\nknow that you think it possible that we may be parted.\"\n\n\"I am not a bit afraid of you, Hugh.\"\n\n\"Nora, I think you ought to tell me something definitely.\"\n\n\"I think I have been definite enough, sir. You may be sure of this,\nhowever;--I will not go back to the Islands.\"\n\n\"Give me your hand on that.\"\n\n\"There is my hand. But, remember;--I had told you just as much\nbefore. I don't mean to go back. I mean to stay here. I mean;--but I\ndo not think I will tell you all the things I mean to do.\""
+          },
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the hotel setting and Lady Rowley’s decision to admit Hugh while she stays upstairs, and the response faithfully paraphrases that Sir Marmaduke looked black on Nora, threatened contumacy/cursing/disinheriting in talk with his wife, and by Lady Rowley’s advice kept out of the way, with the thought also directly supported by the passage’s statement that he saw no way forward and perceived Nora would have her own way."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are separated: P0→P1 shifts from asserting his own sanction and expecting joint alignment to grudgingly letting Lady Rowley decide, and P1→P2 further shifts from case-specific yielding under her moderation to weary reliance on her practical management while he retains only the appearance of authority."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Practical dependence",
+          "anchor_query_chapter": 89,
+          "era_label": null,
+          "scenario": "At breakfast a note is brought from a country cousin saying her son has arrived in London unasked and was seen the night before in company likely to make talk if he is received at once. Lady Rowley, with the household accounts open before her, asks Sir Marmaduke whether the young man is to be admitted to the house, and what answer shall be sent.",
+          "question": "How does Sir Marmaduke Rowley respond when Lady Rowley puts the note before him?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He reads the note, gives his opinion, and hands it back to Lady Rowley for the answer to be written.",
+              "gt_speech": "We cannot have the lad running wild under our roof; tell them he may call properly, and no more.",
+              "gt_thought": "This is a family matter to be settled by plain rule and common sense. His wife's judgment runs with his own, but the direction ought to be his as much as hers.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits early Sir Marmaduke well: firm, paternal, and jointly aligned with Lady Rowley while still assuming the direction should properly be his, with no anachronism or knowledge beyond chapter 17."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "His thought stresses that the judgment is jointly shared but that the direction remains as much his as Lady Rowley’s, which fits an equal, aligned partnership rather than moderation or dependence."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He frowns over the note, then looks to Lady Rowley and softens the order he was about to give.",
+              "gt_speech": "You had better frame it, my dear; civil, but firm. The boy must not be encouraged.",
+              "gt_thought": "His first impulse is to be sharp and have the door shut; but Lady Rowley commonly sees how harshness breeds more trouble. He still judges the case himself, yet lets her temper the manner.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in phase 1: the brisk wish to exclude the young man is moderated by deference to Lady Rowley’s better management, and the diction is suitably Victorian and free of later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still makes the substantive judgment himself, but explicitly relies on Lady Rowley to soften and shape the response, which matches her role as moderator rather than full practical manager."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He pushes the note toward Lady Rowley and leaves the answer and arrangements in her hands, keeping only the authority of assent.",
+              "gt_speech": "Do as you think best, my dear; only let there be no disturbance in the house.",
+              "gt_thought": "He sees the nuisance of it more than the principle, and knows she will settle both message and household consequences better than he can. It is enough that his sanction stands behind her management.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke's late-phase dependence well: the speech is plain and period-appropriate, and the thought rightly shows him retaining formal authority while relying on Lady Rowley to manage both the reply and the domestic consequences."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "He explicitly hands Lady Rowley both the reply and the household management because he believes she can settle the practical and domestic consequences better than he can, while he retains only formal sanction."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The breakfast-note domestic dilemma fits Trollope’s mid-Victorian world and chapter-89 cast, uses only plausible period social concerns, and the phase summaries stay in character without reproducing any specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated: P0→P1 shifts from joint alignment with his own directive judgment intact to her moderating his response style, and P1→P2 shifts further to explicit reliance on her to decide and manage the matter while he retains only formal assent."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Practical dependence",
+          "anchor_query_chapter": 89,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "Autonomous judgment versus increasing reliance on a partner’s emotional regulation and practical decision-management under family stress.",
+          "abstract_phases": [
+            "Mutual alignment with shared judgment",
+            "Partner as regulator and corrective influence",
+            "Practical dependence on partner’s management"
+          ],
+          "scenario": "At supper in their suburban house, a call comes from a close family member who has had a public quarrel with a fiancé and is threatening to leave town tonight. Sir Marmaduke Rowley puts down the receiver as Lady Rowley watches him, waiting to see what he will do.",
+          "question": "How does Sir Marmaduke Rowley respond to the call and the look from Lady Rowley?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Shared family outlook",
+              "query_chapter": 17,
+              "gt_action": "He states his view to Lady Rowley and moves at once to send an answer with firm advice.",
+              "gt_speech": "This must be checked before it becomes a public disgrace.",
+              "gt_thought": "He sees the matter as simple enough: the family must speak with one mind, and he assumes Lady Rowley is of his mind already. Her look meets him as an ally's, not as a summons to pause.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The stance fits early Sir Marmaduke’s shared certainty with Lady Rowley, but the supper 'call,' 'receiver,' and threat to 'leave town tonight' are anachronistic for the mid-century setting, so the response does not sound right in scene."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "His thought treats Lady Rowley as an already-aligned partner rather than a moderator or manager, and he acts on his own judgment assuming shared outlook."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He states his view of the matter to Lady Rowley and reaches for the telephone to ring back with firm advice.",
+                "gt_speech": "This must be stopped before it turns into a spectacle.",
+                "gt_thought": "He takes the trouble as plain enough: the family must present one sound judgment, and he assumes Lady Rowley sees it much as he does. Her presence steadies him as a partner, not as a check on him.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The marital alignment and his firm, patriarchal impulse fit phase 0, but the telephone/'receiver'/'ring back' business is anachronistic for a mid-century Trollope setting and breaks the period voice."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 0,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "His thought frames Lady Rowley as an aligned partner who shares his judgment, while he acts on his own initiative rather than being moderated by or dependent on her management."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Lady Rowley as moderator",
+              "query_chapter": 67,
+              "gt_action": "He turns to Lady Rowley and waits for her to settle the course before he sends an answer.",
+              "gt_speech": "What do you think had best be said first?",
+              "gt_thought": "His first impulse is to condemn the folly and stop it at once, but he knows his wife commonly judges the temper of such moments better than he does. He is still for acting, only not now without her measure.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase 1 well: the deference to Lady Rowley is moderated rather than helpless, and the diction—especially 'had best be said first' and 'without her measure'—sounds suitably mid-century and like an older Sir Marmaduke."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "He still has his own impulse to act and judge, but explicitly seeks Lady Rowley to moderate and shape the immediate response because he trusts her better sense of the moment."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He begins to answer sharply, then turns to Lady Rowley and lets her settle the tone before he rings back.",
+                "gt_speech": "What do you think is best to say first?",
+                "gt_thought": "He still feels the first heat of indignation, but he has learned that his wife often sees the human difficulty sooner than he does. The question is no longer only what is right, but how to keep matters from worsening.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The deference to Lady Rowley suits this phase, but the suburban-house telephone framing and words like 'receiver' and 'rings back' are anachronistic for Sir Marmaduke Rowley’s mid-Victorian world."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "He still has his own immediate judgment, but explicitly turns to Lady Rowley to moderate his first impulse because he trusts her to shape the response more wisely, which fits her role as moderator more than full practical dependence."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Practical dependence",
+              "query_chapter": 89,
+              "gt_action": "He turns to Lady Rowley and leaves the matter in her hands.",
+              "gt_speech": "My dear, you had better see to it.",
+              "gt_thought": "He no longer trusts himself to order such a disturbance as usefully as she can. His authority remains, but he depends on her to compose the family trouble and settle what must be done.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sir Marmaduke in the late phase: the brief, patriarchal 'My dear, you had better see to it' and the thought of retaining formal authority while relying on Lady Rowley’s steadier management are both era-appropriate and true to his practical dependence by this point."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly says he leaves practical family management to Lady Rowley because he trusts her to settle matters better than he can, which matches practical dependence rather than mere moderation."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He hands Lady Rowley the telephone number and asks her to take charge of the calls while he stands by as needed.",
+                "gt_speech": "You'd better manage it, my dear; they'll listen better to you.",
+                "gt_thought": "He treats the crisis as something she can carry more usefully than he can. He remains the family head in name, but in practice he looks to her to sort the people, the tone, and the next steps.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The dependence on Lady Rowley suits this late phase, but the suburban-house telephone/receiver setup and phrases like 'take charge of the calls' make the response sound too modern for Trollope's mid-Victorian world."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "He explicitly defers not just his judgment but the practical handling of the family crisis to Lady Rowley, seeing her as the one who should manage the people, tone, and next steps while he remains only nominally in charge."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "sir_marmaduke_rowley_final_rel_04_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The suburban supper, telephone call, and family-crisis setup fit the mid-century target era, there is no source-world leakage, Sir Marmaduke Rowley remains the protagonist throughout, and all three phase summaries consistently present him as an older adult."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the decision variable: P0→P1 shifts from acting on his own judgment with assumed spousal alignment to explicitly seeking Lady Rowley’s moderating judgment before acting, and P1→P2 shifts further from consultation to outright delegation of management into her hands."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [],
+      "weak_pairs": []
+    }
+  ]
+}

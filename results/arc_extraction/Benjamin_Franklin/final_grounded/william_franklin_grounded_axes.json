@@ -1,0 +1,190 @@
+{
+  "character": "William Franklin",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From deferential dependence to sustained cooperative service",
+      "pole_start": "Communion-leaning dependence: William is positioned as a cooperative helper whose role is defined by alignment with Benjamin Franklin and participation in Benjamin's practical mission rather than independent self-assertion.",
+      "pole_end": "Communion-leaning cooperation with modest agency: William remains a reliable, dutiful assistant, trusted to carry out delegated public and military tasks while still oriented toward collaboration rather than autonomy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Absent from the narrative",
+          "chapter_range": [
+            1,
+            15
+          ],
+          "position_description": "William does not appear in the early chapters, so no internal development is visible before his introduction.",
+          "key_moments": [
+            "William Franklin does not appear or get mentioned in chapters 1-15."
+          ]
+        },
+        {
+          "phase": "Delegated public service",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "William enters the narrative as a trusted helper, accompanying Benjamin Franklin and receiving authority to make wagon-and-horse contracts. This shows practical responsibility, but within a deferential, relationally granted role.",
+          "key_moments": [
+            "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+            "William is explicitly empowered to make the same wagon-and-horse contracts in Cumberland County"
+          ]
+        },
+        {
+          "phase": "Collaborative military service",
+          "chapter_range": [
+            17,
+            17
+          ],
+          "position_description": "As aid-de-camp in the frontier defense expedition, William functions as a reliable participant in raising forts and managing troops. The role confirms competence and usefulness, but not independent self-definition.",
+          "key_moments": [
+            "William Franklin serves as Benjamin Franklin's aid-de-camp",
+            "He helps with the raising of forts and the management of troops"
+          ]
+        },
+        {
+          "phase": "No further development",
+          "chapter_range": [
+            18,
+            19
+          ],
+          "position_description": "William is absent again, so the available evidence shows no additional movement on this axis beyond the cooperative, deferential position already established.",
+          "key_moments": [
+            "William is not mentioned in chapters 18-19."
+          ]
+        }
+      ],
+      "evidence_summary": "Across the available chapters, William Franklin remains a dutiful, communion-oriented participant in Benjamin Franklin's work. He gains delegated responsibility and practical competence, but the evidence does not show a meaningful shift toward independent agency; the overall trajectory is stable and cooperative.",
+      "literary_validation": {
+        "validation_tag": "partially_valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Benjamin Franklin and his son William does support the broad arc from dependent collaboration to dutiful, delegated service. Biographical and historical studies consistently frame William as initially defined by filial alignment with Benjamin’s projects and later as a trusted colonial administrator and military actor whose agency remained cooperative rather than fully autonomous, which fits the axis’s communion-leaning trajectory.",
+            "citations": [
+              {
+                "author": "Isaacson, Walter",
+                "title": "Benjamin Franklin: An American Life",
+                "year": 2003,
+                "publication": "Simon & Schuster",
+                "relevance": "Discusses William Franklin’s early dependence on Benjamin Franklin’s patronage and his later role as a loyal colonial governor and public servant, matching the shift from deferential helper to trusted delegate.",
+                "search_url": "https://scholar.google.com/scholar?q=Isaacson%2C+Walter+Benjamin+Franklin%3A+An+American+Life+2003"
+              },
+              {
+                "author": "Anderson, Douglas",
+                "title": "The Unvarnished Franklin",
+                "year": 2005,
+                "publication": "HarperCollins",
+                "relevance": "Treats William as a figure whose identity is shaped by proximity to Benjamin’s practical mission and whose public career is marked by cooperative service before political rupture.",
+                "search_url": "https://scholar.google.com/scholar?q=Anderson%2C+Douglas+The+Unvarnished+Franklin+2005"
+              },
+              {
+                "author": "Van Doren, Carl",
+                "title": "Benjamin Franklin",
+                "year": 1938,
+                "publication": "Viking Press",
+                "relevance": "Provides a classic account of William Franklin as Benjamin’s assistant and later as a dependable colonial official, supporting the axis’s emphasis on sustained collaboration with modest agency.",
+                "search_url": "https://scholar.google.com/scholar?q=Van+Doren%2C+Carl+Benjamin+Franklin+1938"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably ground this specific intrapersonal arc for William Franklin in published psychological or psychoanalytic scholarship on Benjamin Franklin. While scholarship on Benjamin Franklin often treats family conflict, loyalty, and political rupture, I do not recall a verifiable work that specifically frames William as moving from deferential dependence to sustained cooperative service in the internal-developmental terms required here.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot confidently ground this specific intrapersonal arc for William Franklin in published scholarship on Benjamin Franklin. While scholarship on the Franklin family and the Revolution often treats William as politically opposed to Benjamin, I do not recall a verifiable study that frames William’s inner development in the particular terms of deferential dependence evolving into sustained cooperative service.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "William Franklin",
+      "target_character": "Benjamin Franklin",
+      "dimension_label": "Trust-Alignment",
+      "axis_name": "From filial deference to stable working partnership",
+      "pole_start": "Deferential dependence: William relates to Benjamin as a subordinate helper, trusting his direction and acting within Benjamin's sphere of authority.",
+      "pole_end": "Stable operational alignment: William continues to cooperate closely with Benjamin, maintaining trust, practical coordination, and professional intimacy without visible conflict or distance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Entrusted accompaniment",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "Benjamin includes William on the journey to Braddock's camp and authorizes him to make contracts, signaling meaningful trust and a more active father-son working bond.",
+          "key_moments": [
+            "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+            "William is empowered to make wagon-and-horse contracts in Cumberland County"
+          ]
+        },
+        {
+          "phase": "Operational partnership",
+          "chapter_range": [
+            17,
+            17
+          ],
+          "position_description": "William serves as aid-de-camp and supports the frontier defense effort under Benjamin's direction. The relationship remains high-trust and cooperative, with practical intimacy but no visible conflict.",
+          "key_moments": [
+            "William Franklin serves as Benjamin Franklin's aid-de-camp",
+            "He helps with the raising of forts and the management of troops"
+          ]
+        },
+        {
+          "phase": "No further change",
+          "chapter_range": [
+            18,
+            19
+          ],
+          "position_description": "William is absent, so the relationship does not develop further in the available text.",
+          "key_moments": [
+            "William is not mentioned in chapters 18-19."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge on a consistently cooperative father-son dynamic: Benjamin trusts William with real responsibilities, and William responds with dependable service. The relationship deepens in practical terms but does not undergo a substantive emotional or structural transformation.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot confidently ground this specific relational arc in published scholarship on Benjamin Franklin from memory. While William Franklin’s relationship to Benjamin is certainly discussed in biographical and historical studies, I cannot verify a real literary-critical source that specifically supports the claim of a sustained shift from filial deference to stable working partnership within a novelistic arc.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall a real published literary-critical source that specifically tracks William Franklin’s relationship to Benjamin Franklin as a sustained arc from deferential dependence to stable working partnership in the novel. Scholarship on Franklin more often treats their relationship in biographical, political, or family-conflict terms rather than as a literary-relational development matching this axis.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot ground this specific trust-alignment arc in verifiable published scholarship on Benjamin Franklin and William Franklin with enough confidence to cite responsibly. While scholarship certainly discusses their political rupture and filial conflict, I do not recall a real published work that specifically supports the claim of a sustained move from deferential dependence to stable operational alignment across the novel in the way this axis is framed.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+model:
+  model_name_or_path: holi-lab/ArcANE-32B-SFT
+  model_revision: 21f6f98fae38b34f420d48a25a50d6e0e654d649
+  torch_dtype: bfloat16
+  attn_implementation: flash_attention_2
+
+dataset:
+  dataset_name: holi-lab/ArcANE-Data
+  dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  dataset_config: dpo
+  dataset_split: train
+  dataset_num_proc: 16
+  max_train_samples: null
+  max_prompt_length: 6144
+
+formatting:
+  enable_thinking: false
+
+training:
+  output_root: outputs
+  max_length: 8192
+  num_train_epochs: 1
+  learning_rate: 1e-5          # paper Table 8 (ArcANE-32B DPO)
+  weight_decay: 0.0
+  warmup_ratio: 0.1
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64   # effective batch 64 on 1 GPU (paper Table 8)
+  gradient_checkpointing: true
+  logging_steps: 1
+  save_steps: 25
+  save_total_limit: 100
+  seed: 42
+  resume_from_checkpoint: null
+  report_to: wandb
+  packing: false
+  mixed_precision: bf16
+
+dpo:
+  dpo_beta: 0.1                  # lower (e.g. 0.05) to de-saturate the loss / allow larger separation, at the cost of more drift from the SFT reference
+  dpo_loss_type: sigmoid         # plain DPO, as reported in the paper. `[sigmoid, sft]` (RPO) and `ipo` are supported alternatives.
+  dpo_label_smoothing: 0.0       # cDPO/robust smoothing; not used for the released checkpoints
+  dpo_ld_alpha: null             # LD-DPO length de-biasing in [0,1] (e.g. 0.5); null = off
+  dpo_precompute_ref_log_probs: false
+  dpo_precompute_ref_batch_size: null
+  dpo_truncation_mode: keep_start
+
+peft:
+  use_peft: true
+  lora_r: 64
+  lora_alpha: 128
+  lora_dropout: 0.05
+
+evaluation:
+  eval_dataset_name: holi-lab/ArcANE-Data
+  eval_dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  eval_dataset_config: dpo
+  eval_dataset_split: test
+  max_eval_samples: 500
+  trainer_eval_strategy: "steps"
+  trainer_eval_steps: 25
+  trainer_eval_delay: 0.0
+  per_device_eval_batch_size: 1
+  eval_accumulation_steps: null
+  eval_on_start: false

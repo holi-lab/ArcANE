@@ -1,0 +1,550 @@
+{
+  "character": "Sir Walter Elliot",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-enclosed rank assertion to selective social accommodation",
+          "set_b_axis": "From self-assertive social display to guarded social dependence",
+          "overlap_description": "Both describe Sir Walter as remaining agency-dominant while becoming more socially adaptive, relying increasingly on flattering contexts and managed alliances rather than direct resistance."
+        },
+        {
+          "set_a_axis": "From pure rank worship to rank managed through utility",
+          "set_b_axis": "From self-assertive social display to guarded social dependence",
+          "overlap_description": "Both track the same core shift: he never stops valuing status, but becomes more pragmatic about using people and arrangements to preserve prestige."
+        },
+        {
+          "set_a_axis": "From humiliating resistance to polished self-preservation",
+          "set_b_axis": "From self-assertive social display to guarded social dependence",
+          "overlap_description": "Both capture his movement from overt indignation at decline toward a more polished, face-saving mode of adaptation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From humiliating resistance to polished self-preservation",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From neglectful dismissal to superficial acknowledgment",
+          "set_b_axis": "From habitual dismissal to limited social acknowledgment",
+          "overlap_description": "Both describe Anne as remaining emotionally distant from Sir Walter, with only a slight late-stage increase in formal acknowledgment."
+        },
+        {
+          "set_a_axis": "From shared vanity to stable mutual reinforcement",
+          "set_b_axis": "From shared vanity to stable mutual reinforcement",
+          "overlap_description": "Both identify Elizabeth as Sir Walter's most stable mirror and ally, with little real change beyond continued reinforcement of shared snobbery."
+        },
+        {
+          "set_a_axis": "From estranged grievance to flattering reconciliation",
+          "set_b_axis": "From flattering admiration to quiet disappointment",
+          "overlap_description": "Both track Sir Walter's relationship with Mr Elliot as driven by surface approval and social flattery, though A emphasizes reconciliation while B emphasizes later disappointment."
+        },
+        {
+          "set_a_axis": "From class prejudice to grudging social acceptance",
+          "set_b_axis": "From naval contempt to socially managed acceptance",
+          "overlap_description": "Both describe the same arc with Admiral Croft: initial snobbery softens into practical, status-preserving acceptance without genuine equality."
+        },
+        {
+          "set_a_axis": "From respected adviser to condescended-to rival of judgment",
+          "set_b_axis": "From useful flattery to embarrassed distrust",
+          "overlap_description": "Both treat Lady Russell as a figure Sir Walter cannot fully respect; the difference is whether the emphasis falls on his condescension toward her judgment or on his later embarrassment and distrust."
+        },
+        {
+          "set_a_axis": "From useful companion to favored flattering presence",
+          "set_b_axis": "From useful flattery to embarrassed distrust",
+          "overlap_description": "Both capture Mrs Clay as initially valued for convenience and flattery, with later tension when the arrangement becomes compromised."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From respected adviser to condescended-to rival of judgment",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From useful companion to favored flattering presence",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From flattering admiration to quiet disappointment",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From useful flattery to embarrassed distrust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From self-assertive status display to guarded social dependence",
+      "pole_start": "Strongly agency-coded: self-regarding, rank-conscious, and intent on preserving precedence, control, and visible superiority.",
+      "pole_end": "Still agency-dominant, but more dependent on flattering social contexts and tactically managed alliances to sustain his identity and consequence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial vanity and defensive dominance",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Sir Walter begins in a posture of self-display and resistance: he treats rank and appearance as central, experiences financial pressure as humiliation, and resists any compromise that might lower him.",
+          "key_moments": [
+            "Reads the Baronetage as a mirror of self-worth",
+            "Judges others by beauty and rank",
+            "Treats retrenchment as disgrace",
+            "Accepts the Kellynch lease only on face-saving terms"
+          ]
+        },
+        {
+          "phase": "Bath-based self-flattery and managed dependence",
+          "chapter_range": [
+            13,
+            18
+          ],
+          "position_description": "In Bath, he remains self-assertive but becomes more reliant on social recognition. He stages himself through Camden Place, invitations, and fashionable company, using dependence as a form of self-validation rather than surrender.",
+          "key_moments": [
+            "Delights in Camden Place as status display",
+            "Enjoys Mr Elliot's attentions",
+            "Seeks Dalrymple connection",
+            "Uses Mrs Clay's flattering presence",
+            "Continues contemptuous social judgment of those beneath him"
+          ]
+        },
+        {
+          "phase": "Ceremonial acceptance without inward change",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "By the end, he is no less vain, but his self-assertion is increasingly ceremonial and socially managed. He adapts to outcomes that preserve family prestige and his own image, rather than undergoing any deep moral revision.",
+          "key_moments": [
+            "Mr Elliot's duplicity is exposed without changing Sir Walter's core habits",
+            "He manages invitations and public presentation",
+            "He accepts Wentworth only when the match is socially suitable",
+            "He can inhabit reduced circumstances while narrating them as consequence"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Sir Walter remains fundamentally agency-dominant and status-protective. The change is not toward communion in any deep sense, but toward a more polished, dependent, and socially managed version of the same vanity."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Status-Utility",
+      "axis_name": "From pure rank worship to pragmatic prestige management",
+      "pole_start": "He treats rank, beauty, and hereditary distinction as absolute values, with practical consequences secondary unless they threaten dignity.",
+      "pole_end": "He still worships rank, but increasingly evaluates people and arrangements by whether they can preserve or enhance his social position in practice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Absolute hierarchy",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "At first, status is everything. Debt, retrenchment, and naval officers are judged primarily by whether they diminish or preserve his sense of superiority.",
+          "key_moments": [
+            "Values appearance and title above all",
+            "Rejects retrenchment as disgrace",
+            "Treats tenants as intruders",
+            "Displays anti-naval prejudice"
+          ]
+        },
+        {
+          "phase": "Pragmatic recalibration",
+          "chapter_range": [
+            4,
+            18
+          ],
+          "position_description": "He begins to accept that some people and places can be useful if they do not visibly lower him. Bath, the Crofts, Mr Elliot, and the Dalrymples are assessed through a blend of prestige and convenience.",
+          "key_moments": [
+            "Accepts Croft because he is respectable and wealthy",
+            "Reconciles with Mr Elliot",
+            "Renews Dalrymple connection",
+            "Encourages Mrs Clay to remain in Bath"
+          ]
+        },
+        {
+          "phase": "Utility as prestige maintenance",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "By the end, his judgments are still status-driven, but he is more adept at using social relations instrumentally to maintain consequence. He does not abandon vanity; he refines it into social management.",
+          "key_moments": [
+            "Welcomes Mr Elliot as suitable company",
+            "Accepts Wentworth once he appears worthy",
+            "Continues to frame social choices in terms of family standing"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Walter never stops valuing rank above substance, but he becomes more practically strategic about how rank is preserved. The arc is one of refinement, not conversion: vanity becomes more calculated."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Defensiveness-Adaptation",
+      "axis_name": "From humiliating resistance to polished self-preservation",
+      "pole_start": "He responds to pressure with outrage, shame, and refusal, treating compromise as personal degradation.",
+      "pole_end": "He remains defensive, but learns to preserve himself through graceful acceptance and selective reframing.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Humiliated refusal",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Financial pressure triggers indignation and a refusal to accept visible decline. He would rather leave Kellynch than economize, and he insists on secrecy around the letting.",
+          "key_moments": [
+            "Outraged by retrenchment",
+            "Insists on secrecy in letting Kellynch",
+            "Resists ordinary tenants"
+          ]
+        },
+        {
+          "phase": "Reframing necessity as dignity",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "He begins to adapt by converting necessity into ceremony: the Crofts are acceptable if respectable, and departure can be staged as a dignified event.",
+          "key_moments": [
+            "Grudging acceptance of Admiral Croft",
+            "Vanity makes the lease tolerable",
+            "Departs in high spirits"
+          ]
+        },
+        {
+          "phase": "Confident social self-management",
+          "chapter_range": [
+            13,
+            22
+          ],
+          "position_description": "In Bath, he is no less vain, but he is less visibly shattered by compromise. He can inhabit reduced circumstances while narrating them as signs of consequence.",
+          "key_moments": [
+            "Camden Place becomes a status symbol",
+            "Dalrymple connection restores pride",
+            "Graciously sanctions Wentworth"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures a modest psychological adjustment: Sir Walter does not become less defensive in essence, but he becomes better at converting humiliating realities into flattering narratives."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Anne Elliot",
+      "dimension_label": "Esteem-Intimacy",
+      "axis_name": "From neglectful dismissal to superficial acknowledgment",
+      "pole_start": "He begins with low esteem and low intimacy: Anne is overlooked, emotionally unsupported, and treated as socially insignificant compared with Elizabeth or with his own concerns.",
+      "pole_end": "He ends with only limited improvement: he can praise her appearance and cease opposing her marriage, but he never develops genuine warmth, trust, or respect for her judgment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Baseline neglect and contempt",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Anne is marginalized early: he dismisses her importance, overrides her preferences, and refuses to support her engagement.",
+          "key_moments": [
+            "Dismisses Anne as unimportant",
+            "Overrides her preference for a smaller house",
+            "Coldly rejects her former engagement",
+            "Leaves Anne behind in the move"
+          ]
+        },
+        {
+          "phase": "Continued social condescension",
+          "chapter_range": [
+            13,
+            18
+          ],
+          "position_description": "In Bath, he still evaluates Anne through appearance and social taste rather than affection. He can compliment her looks, but he remains dismissive of her compassion and choices.",
+          "key_moments": [
+            "Compliments Anne's appearance",
+            "Mocks her visit to Mrs Smith",
+            "Continues to undervalue her"
+          ]
+        },
+        {
+          "phase": "Residual acceptance without intimacy",
+          "chapter_range": [
+            22,
+            22
+          ],
+          "position_description": "By the end, he accepts her marriage to Wentworth with good grace, which removes overt antagonism, but this is a formal concession rather than a relational reconciliation.",
+          "key_moments": [
+            "Allows the marriage to be entered in the family volume"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Walter's relationship with Anne remains fundamentally thin and hierarchical. The only change is from active dismissal to polite, appearance-based acknowledgment."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Elizabeth Elliot",
+      "dimension_label": "Alliance-Validation",
+      "axis_name": "From shared vanity to stable mutual reinforcement",
+      "pole_start": "He begins already closely aligned with Elizabeth, valuing her because she mirrors his tastes, shares his snobbery, and supports his self-image.",
+      "pole_end": "He ends in essentially the same place, but with their alliance strengthened by shared Bath life, shared social ambitions, and shared delight in status connections.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial mutual vanity",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Elizabeth is his favored daughter because she reflects his values and helps sustain the household's social self-conception. Their bond is intimate, but built on vanity rather than emotional depth.",
+          "key_moments": [
+            "Self-validation through family line",
+            "Preference for Elizabeth reinforced",
+            "Shared resentment toward Mr Elliot",
+            "Elizabeth's preference shapes the move"
+          ]
+        },
+        {
+          "phase": "Bath-based alignment",
+          "chapter_range": [
+            13,
+            18
+          ],
+          "position_description": "Their alliance becomes even more visible in Bath: they share delight in Camden Place, in social exclusiveness, and in managing the family's public image.",
+          "key_moments": [
+            "Shared pride in Camden Place",
+            "Shared excitement over Dalrymple connection",
+            "Aligned in excluding the Crofts"
+          ]
+        },
+        {
+          "phase": "Stable mutual reinforcement",
+          "chapter_range": [
+            20,
+            22
+          ],
+          "position_description": "The relationship remains strong and mutually validating. Elizabeth continues to be the daughter who most fully participates in Sir Walter's social worldview.",
+          "key_moments": [
+            "Social judgments remain in tune with Elizabeth's",
+            "Family sanctioning of Anne's marriage does not disturb their bond"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth is Sir Walter's most stable relational mirror. Their connection does not deepen emotionally so much as remain securely aligned around vanity, status, and social performance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Mr Elliot",
+      "dimension_label": "Admiration-Disillusion",
+      "axis_name": "From flattering admiration to quiet disappointment",
+      "pole_start": "He initially sees Mr Elliot as elegant, sensible, and highly desirable, a relation who flatters the Elliot name and his own sense of family consequence.",
+      "pole_end": "He is disappointed by Mr Elliot's withdrawal, but without deep insight; admiration weakens only because the social performance falters, not because he morally re-evaluates him.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Rising admiration",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "He is warmly disposed toward Mr Elliot, enjoying his attentions and treating him as a socially valuable heir-like figure.",
+          "key_moments": [
+            "Delighted by Mr Elliot's renewed attentions",
+            "Continues to value him as elegant and desirable",
+            "Still strongly approving"
+          ]
+        },
+        {
+          "phase": "Exposure and withdrawal",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Mrs Smith's revelations expose Mr Elliot's motives, and Sir Walter's admiration is damaged mainly because the flattering social fantasy collapses and the connection becomes unreliable.",
+          "key_moments": [
+            "Mr Elliot is revealed as manipulative",
+            "Sir Walter is disappointed by his withdrawal"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is driven by surfaces rather than insight. Sir Walter does not become wiser; he simply loses a flattering fantasy when Mr Elliot proves unreliable."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Admiral Croft",
+      "dimension_label": "Snobbery-Acceptance",
+      "axis_name": "From naval contempt to socially managed acceptance",
+      "pole_start": "Openly contemptuous of Croft as a sailor and representative of the navy, treating him as socially inferior and initially unsuitable for Kellynch.",
+      "pole_end": "Cautiously approving and then comfortably accepting of Croft as a respectable, wealthy, and socially manageable tenant, though still beneath him in rank.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial resistance",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "He begins with class prejudice against the navy and suspicion of naval men as socially intrusive and physically degraded.",
+          "key_moments": [
+            "Initial contempt for Admiral Croft as a sailor",
+            "Only tolerates him once his respectability and fortune are clear"
+          ]
+        },
+        {
+          "phase": "Qualified approval",
+          "chapter_range": [
+            4,
+            11
+          ],
+          "position_description": "He accepts the Crofts because the arrangement flatters his dignity and solves the Kellynch problem without overt humiliation.",
+          "key_moments": [
+            "Lease is settled in a face-saving way",
+            "Crofts remain accepted as tenants of Kellynch"
+          ]
+        },
+        {
+          "phase": "Stable condescension",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "He continues to treat the Crofts as acceptable but inferior, with no real warmth or egalitarian shift.",
+          "key_moments": [
+            "Condescending but not hostile toward Admiral Croft",
+            "Continued social acceptance of the Crofts"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Walter moves from naval disdain to practical acceptance. The change is limited, but it is real: status management replaces outright contempt."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Lady Russell",
+      "dimension_label": "Deference-Antagonism",
+      "axis_name": "From qualified deference to condescending dismissal",
+      "pole_start": "He begins with practical deference to Lady Russell as a household adviser, though his esteem is always limited by vanity and sensitivity to criticism.",
+      "pole_end": "He ends more openly dismissive, using her judgment only when convenient and otherwise treating her as inferior in taste and social discernment.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Qualified respect",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Lady Russell is consulted in the financial crisis and her advice matters, but Sir Walter resents any implication that she can direct him.",
+          "key_moments": [
+            "Forced to confront financial distress with her in the household",
+            "Outraged by her retrenchment proposal",
+            "Adopts Bath partly on her recommendation"
+          ]
+        },
+        {
+          "phase": "Resentful dependence",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "He continues to rely on her socially while feeling affronted by her practical authority. Her advice becomes something he accepts only when it can be reframed as his own choice.",
+          "key_moments": [
+            "Secrecy around letting managed indirectly",
+            "Relies more on intermediaries than on her"
+          ]
+        },
+        {
+          "phase": "Dismissive superiority",
+          "chapter_range": [
+            20,
+            20
+          ],
+          "position_description": "By the time Mr Elliot is being welcomed, Sir Walter is openly contemptuous of Lady Russell's judgment and appearance, showing that deference has given way to condescension.",
+          "key_moments": [
+            "Dismisses Lady Russell with vanity and condescension"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Russell remains an authority figure Sir Walter cannot fully ignore, but his emotional stance shifts from reluctant consultation to sharper contempt whenever her judgment challenges his vanity."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Sir Walter Elliot",
+      "target_character": "Mrs Clay",
+      "dimension_label": "Flattery-Suspicion",
+      "axis_name": "From useful flattery to embarrassed distrust",
+      "pole_start": "He treats Mrs Clay as a pleasant, useful, and flattering presence in the household, with some attraction and little self-awareness about the risks she poses.",
+      "pole_end": "He ends shocked and mortified by her disappearance and deception, though the reaction is mainly social embarrassment rather than moral insight.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Flattering usefulness",
+          "chapter_range": [
+            3,
+            18
+          ],
+          "position_description": "Mrs Clay is valued because she supports his prejudices, flatters his taste, and fits into his social arrangements.",
+          "key_moments": [
+            "Finds her agreeable insofar as she supports his views",
+            "Uses her as a convenient assistant",
+            "Openly attentive and pleased by her presence",
+            "Still socially pleased by her"
+          ]
+        },
+        {
+          "phase": "Embarrassed loss",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Her disappearance becomes a source of humiliation and disruption, and his attitude cools sharply because the social arrangement has been compromised.",
+          "key_moments": [
+            "Mrs Clay's role is implicated in Mr Elliot's scheme",
+            "Shocked and mortified by her departure and deception"
+          ]
+        }
+      ],
+      "evidence_summary": "Sir Walter never develops genuine trust or intimacy with Mrs Clay. The change is from pleased usefulness to embarrassed distrust, driven by the collapse of a flattering arrangement."
+    }
+  ]
+}

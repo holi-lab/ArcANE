@@ -1,0 +1,1974 @@
+{
+  "Philip Pirrip (Pip)": {
+    "character": "Philip Pirrip (Pip)",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From frightened dependence to humane relational balance",
+            "set_b_axis": "From frightened dependence to morally grounded communion",
+            "overlap_description": "Both describe Pip's movement from coerced, fear-driven dependence toward a mature form of connection that is less shame-bound and more ethically grounded."
+          },
+          {
+            "set_a_axis": "From ordinary belonging to internalized social inferiority",
+            "set_b_axis": "From class-inflected self-disgust to moral revaluation of worth",
+            "overlap_description": "Both track Pip's class shame: he internalizes gentility as value, devalues his origins, and later revises that hierarchy toward a more humane understanding of worth."
+          },
+          {
+            "set_a_axis": "From frightened self-accusation to reflective moral clarity",
+            "set_b_axis": "From self-deception to remorseful clarity",
+            "overlap_description": "Both focus on Pip's moral self-knowledge, moving from fear, concealment, and self-justification toward clearer recognition of his errors and responsibilities."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From ordinary belonging to internalized social inferiority",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From class-inflected self-disgust to moral revaluation of worth",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From loving attachment to ashamed distance and back toward respectful affection",
+            "set_b_axis": "From affectionate shame to grateful reverence",
+            "overlap_description": "Both describe Pip's relationship with Joe as moving from early warmth through shame-driven estrangement toward restored respect, gratitude, and intimacy."
+          },
+          {
+            "set_a_axis": "From humiliating idealization to mutual recognition",
+            "set_b_axis": "From humiliating adoration to chastened acceptance",
+            "overlap_description": "Both capture Pip's relation to Estella as beginning in idealizing, self-wounding desire and ending in a more equal, humane, and less possessive form of attachment."
+          },
+          {
+            "set_a_axis": "From terror and antagonism to enduring implicated responsibility",
+            "set_b_axis": "From repelled fear to protective compassion",
+            "overlap_description": "Both track Pip's relation to Magwitch from fear and coercion toward a morally transformed bond of obligation, sympathy, and loyalty."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From social convenience to genuine friendship",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From reverent dependence to clearer moral distance",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From frightened dependence to morally grounded communion",
+        "pole_start": "Pip begins as a child defined by coercion, secrecy, and reactive obedience, with almost no stable agency and a sense of self shaped by fear.",
+        "pole_end": "He ends as someone who can choose loyalty, forgiveness, and relational responsibility from a steadier moral center rather than from shame or status-seeking.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Coerced dependence",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Pip is dominated by the convict's threat and acts under terror, not free choice.",
+            "key_moments": [
+              "The convict threatens Pip on the marshes",
+              "Pip obeys by bringing food and a file",
+              "He keeps the encounter secret"
+            ]
+          },
+          {
+            "phase": "Aspiring self-fashioning",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Pip tries to convert dependence into social agency by remaking himself as a gentleman, but this is still externally validated and unstable.",
+            "key_moments": [
+              "He feels ashamed of Joe and the forge",
+              "He idealizes gentility as a higher state",
+              "He becomes dazzled by Estella and Miss Havisham",
+              "He performs the role of a gentleman in London"
+            ]
+          },
+          {
+            "phase": "Collapse of false agency",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "The revelation about Magwitch destroys the fantasy that Pip has been self-made; his rise is exposed as dependence on hidden criminal support.",
+            "key_moments": [
+              "Magwitch is revealed as the benefactor",
+              "Pip feels revulsion and terror",
+              "He recognizes gentility as secrecy and contamination"
+            ]
+          },
+          {
+            "phase": "Chosen communion",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Pip's final orientation is toward humane connection: he accepts obligation, repair, and mutuality without needing to dominate or erase himself.",
+            "key_moments": [
+              "He protects Magwitch and mourns his fate",
+              "He recognizes Joe as his moral center",
+              "He returns to a humbler sense of belonging",
+              "He meets Estella as an equal and accepts friendship"
+            ]
+          }
+        ],
+        "evidence_summary": "Pip moves from fear-driven dependence into a mature communion grounded in loyalty, humility, and ethical responsibility. The arc is not simple self-assertion, but a correction of false autonomy into wiser relationality."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Class Shame",
+        "axis_name": "From class-inflected self-disgust to moral revaluation of worth",
+        "pole_start": "Pip begins by experiencing his origins as ordinary, then increasingly humiliating, and comes to see gentility as the measure of value.",
+        "pole_end": "He ends by recognizing that rank is morally secondary to constancy, sacrifice, and goodness, and by accepting a humbler but truer identity.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Latent vulnerability",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Pip is socially small and exposed, but class shame is only beginning to form.",
+            "key_moments": [
+              "The convict encounter establishes Pip as vulnerable and powerless"
+            ]
+          },
+          {
+            "phase": "Internalized inferiority",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Estella and Miss Havisham intensify Pip's sense that the forge, Joe, and his common life are beneath him.",
+            "key_moments": [
+              "He feels ashamed of Joe and the forge",
+              "He is dazzled by Miss Havisham's world",
+              "He reads Estella's contempt as confirmation of inferiority",
+              "He becomes mortified by Joe's rustic presence in London"
+            ]
+          },
+          {
+            "phase": "Moral collapse of class fantasy",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "The revelation that his fortune comes from Magwitch exposes the moral emptiness and contamination of his upward fantasy.",
+            "key_moments": [
+              "Magwitch is revealed as benefactor",
+              "Pip sees gentility as tied to secrecy and danger",
+              "His social fantasies unravel"
+            ]
+          },
+          {
+            "phase": "Revaluation of worth",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Pip now judges people by goodness and loyalty rather than rank, and his shame is transformed into humility and gratitude.",
+            "key_moments": [
+              "He recognizes Joe as his truest benefactor",
+              "He seeks forgiveness from Joe and Biddy",
+              "He accepts a humbler identity"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures Pip's central class-based reversal: from self-disgust and aspiration toward a moral hierarchy in which Joe, Biddy, and constancy matter more than gentility."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Moral Self-Knowledge",
+        "axis_name": "From self-deception to remorseful clarity",
+        "pole_start": "Pip begins with limited self-awareness, feeling fear, shame, and desire without fully understanding their moral shape.",
+        "pole_end": "He ends with clearer recognition of his vanity, ingratitude, and debt to others, even if some sorrow and self-reproach remain.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Implicit selfhood",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Pip obeys and conceals without yet interpreting his reactions as part of a moral character.",
+            "key_moments": [
+              "He obeys the convict and keeps silent",
+              "He experiences fear without reflection"
+            ]
+          },
+          {
+            "phase": "Partial recognition",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Pip begins to sense that his shame and ambition are compromised, but he remains caught in aspiration and self-justification.",
+            "key_moments": [
+              "He feels embarrassed by Joe",
+              "He senses his own self-deception",
+              "He remains attached to Estella and gentility"
+            ]
+          },
+          {
+            "phase": "Painful insight",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "The collapse of his expectations forces sharper moral clarity and a more honest accounting of his life.",
+            "key_moments": [
+              "Magwitch's revelation destroys his assumptions",
+              "He recognizes the corruption of his gentility",
+              "He returns to Joe and Biddy in humility",
+              "He accepts a more truthful emotional life"
+            ]
+          }
+        ],
+        "evidence_summary": "Pip develops from reactive concealment into reflective self-knowledge, learning to name his errors and to understand the moral cost of his earlier fantasies."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Philip Pirrip (Pip)",
+        "target_character": "Joe Gargery",
+        "dimension_label": "Love-Shame",
+        "axis_name": "From affectionate shame to grateful reverence",
+        "pole_start": "Pip begins with genuine love for Joe, but that love becomes contaminated by embarrassment over Joe's plainness and Pip's 'common' origins.",
+        "pole_end": "He ends in deep gratitude, reverence, and restored intimacy, seeing Joe as his moral center and truest benefactor.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Warm attachment under strain",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Joe remains a loving, safe presence, but Pip's class shame increasingly damages his ability to honor the relationship.",
+            "key_moments": [
+              "Joe is a source of home and safety",
+              "Pip feels ashamed of Joe and the forge",
+              "Joe's goodness makes Pip feel worse, not better"
+            ]
+          },
+          {
+            "phase": "Moral reversal",
+            "chapter_range": [
+              4,
+              5
+            ],
+            "position_description": "After Magwitch's revelation and the collapse of his fantasies, Pip re-evaluates Joe as the true standard of worth.",
+            "key_moments": [
+              "Pip sees gentility as morally compromised",
+              "He recognizes Joe as his truest benefactor",
+              "He seeks forgiveness and returns to Joe"
+            ]
+          }
+        ],
+        "evidence_summary": "Joe is the clearest measure of Pip's moral growth: the relationship moves from loving but shame-tainted distance to gratitude, reverence, and restored intimacy."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Philip Pirrip (Pip)",
+        "target_character": "Estella",
+        "dimension_label": "Adoration-Equality",
+        "axis_name": "From humiliating adoration to chastened acceptance",
+        "pole_start": "Pip begins in intense adoration, treating Estella as both ideal and judge and tying his self-worth to her approval.",
+        "pole_end": "He ends with tender, less possessive acceptance, able to feel for her without needing her to validate his identity.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealizing fixation",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Estella becomes the center of Pip's aspiration and shame; he wants to be worthy of her and reads her contempt as proof of inferiority.",
+            "key_moments": [
+              "Pip is dazzled by Estella",
+              "He wants gentility to win her regard",
+              "Her contempt intensifies his self-consciousness"
+            ]
+          },
+          {
+            "phase": "Grief and disillusionment",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "The apparent certainty of Estella's marriage wounds Pip deeply, turning adoration into grief, jealousy, and resignation.",
+            "key_moments": [
+              "Pip is devastated by Estella's apparent marriage",
+              "He feels humiliation and loss",
+              "He begins to see the limits of his fantasy"
+            ]
+          },
+          {
+            "phase": "Gentled attachment",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Pip's attachment becomes quieter and more humane, and he can meet Estella with peace rather than possessive longing.",
+            "key_moments": [
+              "His old wound softens",
+              "He experiences Estella with acceptance",
+              "Romantic fixation gives way to reflective care"
+            ]
+          }
+        ],
+        "evidence_summary": "Estella remains emotionally central, but Pip's relation to her changes from self-wounding idealization to a more mature, less dependent tenderness."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Philip Pirrip (Pip)",
+        "target_character": "Abel Magwitch",
+        "dimension_label": "Fear-Loyalty",
+        "axis_name": "From repelled fear to protective compassion",
+        "pole_start": "Pip initially experiences Magwitch as a terrifying criminal presence associated with danger, contamination, and social disgrace.",
+        "pole_end": "He ends in loyal compassion, seeing Magwitch as a wounded human being whose devotion deserves protection and pity.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hidden threat",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Before the revelation, Magwitch is a background source of fear and secrecy, defined by coercion and latent dread.",
+            "key_moments": [
+              "The convict threatens Pip on the marshes",
+              "Pip keeps the encounter secret",
+              "The prison world remains associated with danger"
+            ]
+          },
+          {
+            "phase": "Shattering revelation",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "When Magwitch is revealed as the benefactor, Pip feels revulsion and terror, but also a new sense of obligation.",
+            "key_moments": [
+              "Magwitch is revealed as Pip's benefactor",
+              "Pip feels repelled and trapped by the truth",
+              "He must help conceal and protect him"
+            ]
+          },
+          {
+            "phase": "Protective identification",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Pip's response matures into compassion and loyalty as he acts for Magwitch's safety and dignity even in ruin.",
+            "key_moments": [
+              "Pip helps secure Magwitch's escape attempt",
+              "He remains emotionally bound to him",
+              "He sees Magwitch as a devoted, wounded man"
+            ]
+          }
+        ],
+        "evidence_summary": "Magwitch is Pip's most dramatic relational reversal: from fear and disgust to protective loyalty and human sympathy."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Philip Pirrip (Pip)",
+        "target_character": "Herbert Pocket",
+        "dimension_label": "Trust-Companionship",
+        "axis_name": "From social convenience to genuine friendship",
+        "pole_start": "Pip begins with Herbert as a useful acquaintance in the world of gentility.",
+        "pole_end": "He ends with Herbert as a trusted friend who can challenge him honestly and support him emotionally.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Shared social training",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "Pip becomes comfortable with Herbert as part of his gentlemanly life, but the relationship is still developing.",
+            "key_moments": [
+              "Pip settles into life with Herbert and the Pocket household",
+              "He becomes comfortable with expensive habits and social performance"
+            ]
+          },
+          {
+            "phase": "Confession and counsel",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "The friendship deepens when Pip reveals his love for Estella and Herbert responds with honest concern rather than judgment.",
+            "key_moments": [
+              "Pip confesses to Herbert that he loves Estella",
+              "Herbert gently warns him that Estella may be destructive"
+            ]
+          }
+        ],
+        "evidence_summary": "Herbert functions as Pip's most humane peer relationship in London. The arc is modest but meaningful: from companionship to trust-based friendship."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Philip Pirrip (Pip)",
+        "target_character": "Miss Havisham",
+        "dimension_label": "Idealization-Distance",
+        "axis_name": "From reverent dependence to clearer moral distance",
+        "pole_start": "Pip begins by idealizing Miss Havisham as a powerful patron who may author his future and elevate him socially.",
+        "pole_end": "He ends with a more skeptical, morally lucid view of her as manipulative, wounded, and implicated in Estella's damage.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Reverent dependence",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Miss Havisham is treated as a source of specialness and possible destiny; Pip defers to her power and reads her intentions romantically.",
+            "key_moments": [
+              "Pip believes she may be shaping his future",
+              "He remains in her orbit with hope",
+              "He sees her as an authority on his worth"
+            ]
+          },
+          {
+            "phase": "Moral reappraisal",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "After the collapse of his expectations, Pip sees Miss Havisham less as a benefactor and more as someone whose emotional damage has harmed Estella and misled him.",
+            "key_moments": [
+              "Pip's romantic fantasy collapses",
+              "He recognizes her manipulative role",
+              "He judges her more critically"
+            ]
+          }
+        ],
+        "evidence_summary": "Miss Havisham shifts from enchanted authority to morally compromised figure, and Pip's relation to her becomes correspondingly cooler and more discerning."
+      }
+    ]
+  },
+  "Abel Magwitch": {
+    "character": "Abel Magwitch",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From hunted self-assertion to devoted relational fusion",
+            "set_b_axis": "From self-protective outlaw agency to devoted relational communion",
+            "overlap_description": "Both describe Magwitch moving from hardened survival-oriented self-protection toward an identity organized around attachment to Pip, with agency increasingly redirected into care and relational meaning."
+          },
+          {
+            "set_a_axis": "From condemned criminality to self-authored redemption",
+            "set_b_axis": "From criminal shame to benefactor self-justification",
+            "overlap_description": "Both track a moral re-framing of Magwitch's criminal past: he does not become innocent, but interprets his labor and sacrifice as meaningful, redeemed, and morally justified through his benefaction to Pip."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From wounded grievance to sought-for moral recognition",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From guarded triumph to wounded fatalism",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From claiming paternal possession to seeking fragile mutual bond",
+            "set_b_axis": "From secret benefactor devotion to vulnerable fatherly dependence",
+            "overlap_description": "Both capture the Magwitch-Pip bond as a paternal, asymmetrical attachment that becomes more emotionally exposed and dependent after revelation and rejection/collapse."
+          },
+          {
+            "set_a_axis": "From historical betrayal to renewed mortal enmity",
+            "set_b_axis": "From enduring enmity to enduring enmity under renewed threat",
+            "overlap_description": "Both treat Compeyson as the fixed betrayer and enemy whose presence or renewed relevance reactivates Magwitch's hostility and danger."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From hidden fatherhood to tragic estrangement",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From indirect cooperation to warmer alliance",
+            "assessment": "artifact"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From hunted self-protection to devoted relational communion",
+        "pole_start": "A hardened survivor orientation: secretive, self-protective, and defined by control, concealment, and endurance under threat.",
+        "pole_end": "A deeply relational orientation: emotionally invested in Pip, seeking paternal recognition, loyalty, and meaningful attachment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Latent survival mode",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Before direct appearance, Magwitch is only inferable as a hidden, hunted figure whose life is organized around survival and concealment.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "Background condition of secrecy and pursuit"
+            ]
+          },
+          {
+            "phase": "Benefactor revelation",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He reveals himself as Pip's secret benefactor and second father, shifting decisively toward communion while still retaining practical agency and caution.",
+            "key_moments": [
+              "Reveals himself to Pip",
+              "Explains years of labor and risk on Pip's behalf",
+              "Asserts paternal devotion"
+            ]
+          },
+          {
+            "phase": "Defiant attachment",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "After Pip's shock and rejection, he persists in attachment, showing that relational commitment now outweighs mere self-preservation.",
+            "key_moments": [
+              "Pip's horror and rejection",
+              "Magwitch remains determined to stay and support Pip",
+              "Danger of discovery does not sever the bond"
+            ]
+          },
+          {
+            "phase": "Vulnerable dependence",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "As escape fails and injury/capture follow, his agency narrows into endurance and trust, making his dependence on Pip's loyalty more explicit.",
+            "key_moments": [
+              "Escape attempt fails",
+              "He is injured and resigned",
+              "Desire narrows to companionship and not being abandoned"
+            ]
+          }
+        ],
+        "evidence_summary": "Magwitch moves from a covert, self-preserving outlaw posture toward a life organized around paternal attachment to Pip. The arc is strongly positive in relational maturity, though it remains shadowed by danger and dependence."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Criminality-Redemption",
+        "axis_name": "From condemned criminality to benefactor self-redemption",
+        "pole_start": "A socially condemned criminal identity marked by shame, exclusion, and the need to survive through concealment.",
+        "pole_end": "A self-authored redemptive identity in which suffering, labor, and sacrifice are made morally meaningful.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Buried condemnation",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "His criminal identity remains offstage, but the background condition is one of stigma, invisibility, and social erasure.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "No psychologically significant event yet"
+            ]
+          },
+          {
+            "phase": "Moral re-framing",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He explicitly reinterprets his past as already paid for and casts his benefaction to Pip as proof of moral purpose.",
+            "key_moments": [
+              "Reveals himself as Pip's benefactor",
+              "Frames his criminal past as paid for",
+              "Treats his labor as meaningful sacrifice"
+            ]
+          },
+          {
+            "phase": "Narrative of wronged endurance",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "His account of Compeyson and his life history shifts redemption away from legal innocence and toward moral vindication through suffering and class injustice.",
+            "key_moments": [
+              "Tells the story of Compeyson",
+              "Reveals imprisonment and exploitation",
+              "Frames himself as wronged rather than innately depraved"
+            ]
+          },
+          {
+            "phase": "Redemption under threat",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Even as danger intensifies, he continues to treat persistence and loyalty as morally significant, implying that redemption lies in action rather than social approval.",
+            "key_moments": [
+              "Capture and injury test his hopes",
+              "He still values Pip and the sacrifice made for him",
+              "Endurance replaces any return to self-condemnation"
+            ]
+          }
+        ],
+        "evidence_summary": "Magwitch consistently converts a stigmatized criminal identity into a redemptive self-story centered on sacrifice, labor, and paternal devotion. The arc is not toward innocence, but toward moral meaning."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Recognition-Resignation",
+        "axis_name": "From grievance and hope to wounded recognition-seeking resignation",
+        "pole_start": "A wounded, hopeful stance that seeks moral recognition from a world that has exploited and misread him.",
+        "pole_end": "A resigned but still recognition-seeking stance in which he wants his life understood as meaningful despite criminal stigma and defeat.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Latent grievance",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "His resentment is not yet voiced, but the later revelations imply a long-standing structure of injury, exclusion, and unmet recognition.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "Background of social injury and misreading"
+            ]
+          },
+          {
+            "phase": "Open bitterness and hope",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He speaks bitterly about class injustice and betrayal, yet also hopes that Pip will recognize the moral meaning of his sacrifice.",
+            "key_moments": [
+              "Tells the story of Compeyson and his own suffering",
+              "Makes his benefaction explicit",
+              "Seeks acknowledgment as a 'second father'"
+            ]
+          },
+          {
+            "phase": "Recognition under collapse",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "After capture and injury, hope narrows into endurance; he remains oriented toward being understood and not abandoned, even as practical control is lost.",
+            "key_moments": [
+              "Escape fails",
+              "He becomes physically vulnerable",
+              "Desire narrows to comfort, companionship, and recognition"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures the tension between Magwitch's bitterness at injustice and his persistent wish to be morally legible to Pip and others. The trajectory is mixed: recognition is sought, but never fully secured."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Abel Magwitch",
+        "target_character": "Pip",
+        "dimension_label": "Paternal Bond",
+        "axis_name": "From possessive benefaction to vulnerable paternal dependence",
+        "pole_start": "A proud, possessive benefactor who sees Pip as the meaning of his sacrifice and expects gratitude, closeness, and filial acceptance.",
+        "pole_end": "A wounded, dependent father-figure who still loves Pip but now needs his care, loyalty, and emotional reassurance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Hidden benefaction",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "The bond is invisible on the surface, but Magwitch's hidden support already creates a one-way paternal relation in which Pip is the recipient of his labor.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "Background one-way support"
+            ]
+          },
+          {
+            "phase": "Open paternal claim",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "He reveals himself as Pip's benefactor and second father, asserting emotional and symbolic claim through sacrifice and provision.",
+            "key_moments": [
+              "Reveals himself as the secret benefactor",
+              "Asks Pip to accept him as a second father",
+              "Frames the bond as meaningful and filial"
+            ]
+          },
+          {
+            "phase": "One-sided devotion",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Pip's horror makes the relationship sharply asymmetrical: Magwitch continues to give loyalty and protection while receiving fear and rejection.",
+            "key_moments": [
+              "Pip's shock and rejection",
+              "Magwitch persists in support despite danger",
+              "The bond becomes emotionally exposed and unstable"
+            ]
+          },
+          {
+            "phase": "Flight, capture, dependence",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "After the escape fails, his attachment becomes more vulnerable and dependent; he wants Pip not to abandon him and to preserve the bond despite ruin.",
+            "key_moments": [
+              "Escape attempt ends in capture",
+              "He is injured and resigned",
+              "Desire narrows to comfort and companionship"
+            ]
+          }
+        ],
+        "evidence_summary": "Magwitch's bond with Pip moves from hidden, unilateral benefaction to an openly declared paternal claim, then into a painful but persistent need for reciprocal recognition and care. The relationship remains unequal, but it becomes increasingly intimate and vulnerable."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Abel Magwitch",
+        "target_character": "Compeyson",
+        "dimension_label": "Betrayal-Enmity",
+        "axis_name": "From historical betrayal to renewed mortal enmity",
+        "pole_start": "A past defined by exploitation, betrayal, and class-based injustice at Compeyson's hands.",
+        "pole_end": "A sharpened, immediate hostility in which Compeyson remains an active and dangerous enemy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Stored grievance",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "The enmity is not yet narrated, but later revelations show it has long been latent and unresolved.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "Background hostility not yet voiced"
+            ]
+          },
+          {
+            "phase": "Narrated betrayal",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "His life story frames Compeyson as the central betrayer who helped produce Magwitch's criminal identity and suffering.",
+            "key_moments": [
+              "Compeyson is identified as the betrayer",
+              "Magwitch recounts imprisonment and exploitation"
+            ]
+          },
+          {
+            "phase": "Reactivated threat",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Learning that Compeyson is alive in London makes the hostility immediate and dangerous again, turning memory into present threat.",
+            "key_moments": [
+              "Compeyson is alive in London",
+              "The threat becomes immediate and practical"
+            ]
+          },
+          {
+            "phase": "Failure-confirmed hostility",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "The failed escape and surrounding danger reinforce Compeyson as the force that continues to ruin Magwitch's hopes.",
+            "key_moments": [
+              "Escape attempt fails",
+              "Compeyson remains the embodiment of betrayal"
+            ]
+          }
+        ],
+        "evidence_summary": "Compeyson functions as Magwitch's defining antagonist: the source of betrayal, class humiliation, and ongoing danger. The relationship intensifies from remembered wrong to active menace."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Abel Magwitch",
+        "target_character": "Estella",
+        "dimension_label": "Hidden Paternity",
+        "axis_name": "From concealed fatherhood to tragic estrangement",
+        "pole_start": "A concealed paternal connection, with Magwitch linked to Estella through a child he once fathered or lost.",
+        "pole_end": "A relationship defined by distance, loss, and irrecoverable separation rather than direct intimacy.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Buried connection",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "The relationship is not yet active, but the later revelation implies a hidden paternal bond already severed by circumstance and secrecy.",
+            "key_moments": [
+              "No direct appearance in the early chapters",
+              "Background implication of hidden parentage"
+            ]
+          },
+          {
+            "phase": "Tragic clarification",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "The revelation about the murdered child deepens the sense that Estella's origin is bound to Magwitch's loss, but without restoring any direct relationship.",
+            "key_moments": [
+              "Wemmick's account identifies the murdered child connection",
+              "The bond remains indirect and unrecovered"
+            ]
+          }
+        ],
+        "evidence_summary": "Magwitch's connection to Estella is important but indirect in these events: it is a hidden paternal tie marked more by loss and severance than by interaction. The arc is real but limited."
+      }
+    ]
+  },
+  "Estella": {
+    "character": "Estella",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-contained superiority to damaged relational awareness",
+            "set_b_axis": "From controlled emotional separation to humane relational openness",
+            "overlap_description": "Both track Estella's movement from emotionally sealed, socially superior self-possession toward a later recognition of damage and a partial opening to tenderness, though B emphasizes fuller relational warmth while A stresses destabilized selfhood."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-contained superiority to damaged relational awareness",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From inherited coldness to self-understood damage",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From contemptuous detachment to reflective compassion",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From humiliating superiority to distant, alluring authority",
+            "set_b_axis": "From contemptuous distance to tender friendship",
+            "overlap_description": "Both describe the Pip relationship as beginning in humiliation and distance, then softening into a more mature, emotionally charged final relation; B foregrounds explicit tenderness and friendship, while A keeps the emphasis on enduring distance and allure."
+          },
+          {
+            "set_a_axis": "From obedient instrument to revealed product of emotional damage",
+            "set_b_axis": "From obedient instrument to resistant self-definition",
+            "overlap_description": "Both identify Miss Havisham as the formative power behind Estella's emotional shaping and both move from obedience to a later recognition of harm; B stresses autonomy and resistance, while A stresses damage and constructed identity."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From humiliating superiority to distant, alluring authority",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From obedient instrument to revealed product of emotional damage",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From contemptuous distance to tender friendship",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From obedient instrument to resistant self-definition",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From controlled emotional separation to humane relational openness",
+        "pole_start": "Highly agency-coded: self-possessed, emotionally sealed, socially dominant, and committed to independence through distance, superiority, and refusal of vulnerability.",
+        "pole_end": "More communion-coded: still self-possessed, but now capable of tenderness, mutuality, forgiveness, and a desire for friendship rather than mastery or emotional invulnerability.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cold social instrument",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Estella is defined by emotional control, superiority, and complicity in humiliation; she performs distance as power.",
+            "key_moments": [
+              "Mocks and humiliates Pip under Miss Havisham's direction",
+              "Appears emotionally sealed and socially dominant"
+            ]
+          },
+          {
+            "phase": "Guarded self-awareness",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "She remains guarded and agency-heavy, but becomes more aware of her formation and less purely contemptuous, showing a controlled openness to the fact that she has been shaped by others.",
+            "key_moments": [
+              "Says she has no heart in the sentimental sense",
+              "Recognizes Miss Havisham's influence",
+              "Resists being emotionally possessed"
+            ]
+          },
+          {
+            "phase": "Tender mutuality",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "In the final reunion, she speaks with sadness and gratitude, asks for friendship, and accepts a more equal, humane relation with Pip.",
+            "key_moments": [
+              "Asks Pip for friendship",
+              "Speaks with tenderness and reflective sorrow",
+              "Values forgiveness and mutual recognition"
+            ]
+          }
+        ],
+        "evidence_summary": "Estella begins as a socially superior, emotionally sealed figure who uses distance as power. Across the later chapters, especially the final reunion, she retains self-command but moves toward warmth, reciprocity, and relational openness. The arc is not a total surrender of agency, but a clear softening from defensive separation toward humane communion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Self-Formation",
+        "axis_name": "From inherited coldness to self-understood damage",
+        "pole_start": "She experiences herself as naturally cold, fixed, and beyond sentimental feeling, with little explicit reflection on how she became that way.",
+        "pole_end": "She understands her coldness as constructed by Miss Havisham's upbringing and later suffering, and can articulate herself as damaged, changed, and morally complicated rather than simply heartless.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Unexamined role",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Her emotional posture appears internalized and unreflective; she behaves as if coldness is simply what she is.",
+            "key_moments": [
+              "No sign of self-reflection or inner conflict",
+              "Role appears fully internalized"
+            ]
+          },
+          {
+            "phase": "Origin recognized",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "She explicitly identifies Miss Havisham's influence as formative and recognizes that her emotional style is produced, not innate.",
+            "key_moments": [
+              "Believes she has been shaped by Miss Havisham",
+              "Insists praise/blame for her coldness belongs to her formation"
+            ]
+          },
+          {
+            "phase": "Changed by suffering",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She now sees herself as altered by pain and capable of moral growth, with a self-understanding that includes loss, regret, and the hope that suffering has made her better.",
+            "key_moments": [
+              "Says she is greatly changed",
+              "Recognizes the value of what she once rejected",
+              "Frames suffering as teaching"
+            ]
+          }
+        ],
+        "evidence_summary": "Estella's arc includes a clear movement from unexamined emotional hardness to explicit self-knowledge about her formation and damage. She does not become fully self-redeeming, but she does become able to narrate herself as shaped by coercion and suffering."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Moral Affect",
+        "axis_name": "From contemptuous detachment to reflective compassion",
+        "pole_start": "Her moral-emotional stance is cool, contemptuous, and largely indifferent to the pain she causes.",
+        "pole_end": "Her stance becomes reflective, sorrowful, and quietly compassionate, with an ability to value others and acknowledge harm.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cruel detachment",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "She takes pleasure in embarrassment and shows no sympathy, treating social humiliation as natural or amusing.",
+            "key_moments": [
+              "Amusement at Joe's awkwardness",
+              "Complicit in Pip's humiliation"
+            ]
+          },
+          {
+            "phase": "Defensive irony",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "Her contempt remains, but it is tempered by a more clinical, defensive understanding of the world. She is less gleefully cruel and more hardened against being used.",
+            "key_moments": [
+              "Pleasure in thwarting those around Miss Havisham",
+              "Calm resistance to Miss Havisham's possessiveness"
+            ]
+          },
+          {
+            "phase": "Sorrowful tenderness",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She speaks with sadness and tenderness rather than irony, showing a humane awareness of loss and the value of forgiveness.",
+            "key_moments": [
+              "Quiet composure replaces hardness",
+              "Values Pip's forgiveness",
+              "Seeks peaceful closure"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures the emotional-moral softening of Estella: from cruelty and contempt toward a more compassionate, grief-informed moral sensibility. The change is real but partial, so confidence remains medium."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Estella",
+        "target_character": "Pip",
+        "dimension_label": "Attachment Warmth",
+        "axis_name": "From contemptuous distance to tender friendship",
+        "pole_start": "She treats Pip as socially inferior, keeps him at arm's length, and participates in his humiliation without sympathy.",
+        "pole_end": "She meets Pip with gratitude, tenderness, and a request for friendship rather than domination or romantic cruelty.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Humiliating distance",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Pip is an object of cool superiority; she is indifferent on the surface and complicit in his shame.",
+            "key_moments": [
+              "Cold and contemptuous toward Pip",
+              "Helps stage humiliation at Satis House"
+            ]
+          },
+          {
+            "phase": "Controlled engagement",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "She becomes more openly engaging and polished, but still keeps Pip at a controlled distance and does not grant full emotional reciprocity.",
+            "key_moments": [
+              "More polished and outwardly gracious",
+              "Allows intimacy in small doses",
+              "Pip remains familiar but not fully intimate"
+            ]
+          },
+          {
+            "phase": "Mutual recognition",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She speaks to Pip as an equal in suffering, values his forgiveness, and asks for friendship instead of possession or romantic cruelty.",
+            "key_moments": [
+              "Tender, grateful, and reflective toward Pip",
+              "Asks for friendship",
+              "Acknowledges she has often thought of him"
+            ]
+          }
+        ],
+        "evidence_summary": "Pip is the clearest relational arc in Estella's story: from contempt and instrumental cruelty to a humane, mutually respectful bond. The final meeting marks a decisive softening of attitude and a redefinition of the relationship."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Estella",
+        "target_character": "Miss Havisham",
+        "dimension_label": "Dependence-Autonomy",
+        "axis_name": "From obedient instrument to resistant self-definition",
+        "pole_start": "She functions as Miss Havisham's emotionally subordinate agent, aligned with her purposes and shaped by her design.",
+        "pole_end": "She recognizes Miss Havisham as the source of her damage but rejects emotional ownership and asserts her own autonomy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Instrumental obedience",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "She is fully aligned with Miss Havisham's social project and appears to internalize her role without resistance.",
+            "key_moments": [
+              "Functions as Miss Havisham's agent",
+              "No visible awareness of cruelty or damage"
+            ]
+          },
+          {
+            "phase": "Awareness of manipulation",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "She becomes explicitly aware that Miss Havisham has shaped and used her. Her attitude is mixed: loyalty and dependence remain, but resistance emerges.",
+            "key_moments": [
+              "Believes she has been shaped by Miss Havisham",
+              "Defies Miss Havisham's demand for love",
+              "Rejects sentimental coercion"
+            ]
+          },
+          {
+            "phase": "Detached aftermath",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Miss Havisham is no longer the center of Estella's identity. She is emotionally detached from the old wound and oriented toward a life beyond it.",
+            "key_moments": [
+              "Indirectly mournful and detached from Satis House",
+              "No longer defined by obedience to Miss Havisham"
+            ]
+          }
+        ],
+        "evidence_summary": "Estella's relation to Miss Havisham shifts from obedience to critique and then to detachment. The arc is less about reconciliation than about psychological emancipation from a formative but damaging bond."
+      }
+    ]
+  },
+  "Miss Havisham": {
+    "character": "Miss Havisham",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From controlling isolation to remorseful relational openness",
+            "set_b_axis": "From domineering isolation to remorseful relational dependence",
+            "overlap_description": "Both describe the same core psychological movement: Miss Havisham begins as controlling, isolated, and emotionally sealed, then shifts toward remorse and a more open, vulnerable stance. Set B extends the endpoint into dependence and repair, while Set A emphasizes a milder softening."
+          },
+          {
+            "set_a_axis": "From justified avenger to culpable source of harm",
+            "set_b_axis": "From self-justifying bitterness to guilty moral awareness",
+            "overlap_description": "Both axes track her moral self-concept changing from revenge-based self-justification to recognition that she is responsible for harming others, especially Estella and Pip."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From controlling isolation to remorseful relational openness",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From justified avenger to culpable source of harm",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From domineering isolation to remorseful relational dependence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From self-justifying bitterness to guilty moral awareness",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From theatrical hardness to shattered vulnerability",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From manipulative orchestration to remorseful regard",
+            "set_b_axis": "From using Pip as a pawn to seeking his forgiveness",
+            "overlap_description": "Both axes describe the same relationship shift: Pip moves from being manipulated and emotionally controlled to becoming the person before whom Miss Havisham is vulnerable, remorseful, and seeking moral repair."
+          },
+          {
+            "set_a_axis": "From possessive creation to confirmed proprietary attachment",
+            "set_b_axis": "From possessive creation to guilty recognition of harm",
+            "overlap_description": "Both capture Miss Havisham's possessive, controlling bond with Estella. Set A stresses proprietary attachment and authority; Set B adds the later moral turn toward remorse and recognition of damage."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From manipulative orchestration to remorseful regard",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From possessive creation to confirmed proprietary attachment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From using Pip as a pawn to seeking his forgiveness",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From possessive creation to guilty recognition of harm",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From domineering isolation to remorseful vulnerability",
+        "pole_start": "High agency, low communion: she is self-assertive, controlling, emotionally sealed off, and uses others as instruments of revenge.",
+        "pole_end": "Reduced agency, higher communion: she becomes emotionally open, vulnerable, remorseful, and oriented toward repair and forgiveness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Frozen domination",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Miss Havisham dominates the social space of Satis House, controls Pip's discomfort, treats Joe as a curiosity, and uses Estella as an extension of her will. Her communion is minimal and distorted into possession.",
+            "key_moments": [
+              "Humiliates Pip through Estella's mockery",
+              "Treats Joe as a rustic curiosity",
+              "Presses Pip to love Estella",
+              "Uses Estella as an instrument of revenge"
+            ]
+          },
+          {
+            "phase": "Control under strain",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Her control remains strong but begins to look brittle. Estella's greater independence and the instability of the scheme expose limits to Miss Havisham's mastery.",
+            "key_moments": [
+              "Estella speaks back with greater independence",
+              "Her influence is no longer fully obedient to her will",
+              "The scheme becomes unstable"
+            ]
+          },
+          {
+            "phase": "Remorseful vulnerability",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "After the fire, her agency collapses into exposed vulnerability. She kneels, weeps, and seeks forgiveness, showing a marked turn toward communion and dependence on others for moral repair.",
+            "key_moments": [
+              "Cries 'What have I done!'",
+              "Kneels at Pip's feet",
+              "Seeks forgiveness",
+              "Recognizes the harm done to Estella"
+            ]
+          }
+        ],
+        "evidence_summary": "The strongest synthesis is a movement from controlling isolation to remorseful vulnerability. Set A captures the softening; Set B better captures the collapse of mastery and the dependence on forgiveness that completes the arc."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Self-Recognition",
+        "axis_name": "From self-justifying bitterness to guilty moral awareness",
+        "pole_start": "She interprets herself as a wounded victim whose cruelty is justified by injury and revenge.",
+        "pole_end": "She recognizes herself as a source of harm, especially toward Estella, and experiences guilt, shame, and the need for forgiveness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Vindictive self-justification",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Her emotional life is organized around grievance and revenge. She can articulate her wound, but she does not morally interrogate the cruelty she inflicts on others.",
+            "key_moments": [
+              "Takes pleasure in humiliation",
+              "Frames love as suffering",
+              "Uses Estella to enact revenge"
+            ]
+          },
+          {
+            "phase": "Worldview destabilization",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Her justification begins to crack as Estella's resistance and the instability of the scheme expose the limits of her revenge logic.",
+            "key_moments": [
+              "Estella's composure and independence",
+              "Her control appears less absolute",
+              "The scheme's consequences begin to rebound"
+            ]
+          },
+          {
+            "phase": "Guilt and confession",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She reaches explicit moral recognition: she sees that she has corrupted Estella and done grievous wrong, shifting from vindication to guilt and the desire for absolution.",
+            "key_moments": [
+              "Asks 'What have I done!'",
+              "Acknowledges she corrupted Estella",
+              "Seeks forgiveness from Pip",
+              "Shows shame and remorse after the fire"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that the key internal change is ethical rather than merely emotional: Miss Havisham moves from revenge-based self-exemption to guilt and moral awareness, with Set B supplying the clearest endpoint."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Emotional Regulation",
+        "axis_name": "From theatrical hardness to shattered vulnerability",
+        "pole_start": "Rigid, performative emotional control: coldness, bitterness, and sustained punitive affect.",
+        "pole_end": "Broken, openly vulnerable affect: tears, panic, shame, and grief.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Frozen affect",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "She maintains a fixed emotional posture of bitterness and theatrical woundedness, using affect as a tool of domination rather than as a site of change.",
+            "key_moments": [
+              "Cold and controlling demeanor",
+              "Pleasure in humiliation",
+              "Desperate intensity in pressing Pip to love Estella"
+            ]
+          },
+          {
+            "phase": "Instability",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Her emotional control begins to look strained as the consequences of her manipulation become harder to contain.",
+            "key_moments": [
+              "Scheme becomes unstable",
+              "Estella begins to resist",
+              "Miss Havisham appears emotionally cornered"
+            ]
+          },
+          {
+            "phase": "Collapse",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Her emotional defenses break down completely. She becomes visibly vulnerable, weeping and panicked, with remorse replacing the old hardness.",
+            "key_moments": [
+              "Tears and kneeling",
+              "Repeated cries of guilt",
+              "Profound emotional collapse after the fire"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis is a useful addition from the psychological summary: it isolates the affective collapse that accompanies her moral awakening, distinguishing emotional breakdown from ethical recognition."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Miss Havisham",
+        "target_character": "Pip",
+        "dimension_label": "Control-Dependence",
+        "axis_name": "From using Pip as a pawn to seeking his forgiveness",
+        "pole_start": "She treats Pip as a target of humiliation and a piece in her emotional design, with very low trust and intimacy and high manipulative control.",
+        "pole_end": "She becomes dependent on Pip's compassion and forgiveness, approaching him vulnerably and asking for moral repair rather than exerting power over him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Manipulative domination",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Pip is primarily an object of her control: she stages humiliations, encourages his longing for Estella, and keeps him within her emotional economy of suffering.",
+            "key_moments": [
+              "Estella mocks Pip under Miss Havisham's orchestration",
+              "She presses Pip to love Estella",
+              "She maintains his visits and emotional dependence"
+            ]
+          },
+          {
+            "phase": "Distance and instability",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Pip is less an active participant than a remembered consequence of her design. Her stance toward him remains controlling in principle, but the relationship is no longer securely under her command.",
+            "key_moments": [
+              "Her influence appears less absolute",
+              "The scheme's effects become unstable"
+            ]
+          },
+          {
+            "phase": "Appeal for mercy",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She turns toward Pip as a source of forgiveness and possible repair. The relationship becomes one of dependence and supplication rather than domination.",
+            "key_moments": [
+              "Kneels at Pip's feet",
+              "Cries for forgiveness",
+              "Seeks his help and moral understanding"
+            ]
+          }
+        ],
+        "evidence_summary": "Pip is the clearest site of relational reversal: Miss Havisham moves from orchestrating his humiliation to asking him for mercy, making dependence the key endpoint of the arc."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Miss Havisham",
+        "target_character": "Estella",
+        "dimension_label": "Possession-Remorse",
+        "axis_name": "From possessive creation to guilty recognition of harm",
+        "pole_start": "She sees Estella as her creation and instrument, with high possessiveness, distorted intimacy, and little respect for Estella's autonomy.",
+        "pole_end": "She recognizes Estella as someone she damaged, feeling maternal remorse and grief rather than mere ownership.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Instrumental possession",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Estella functions as Miss Havisham's extension: a tool for humiliating others and enacting revenge on love and men.",
+            "key_moments": [
+              "Uses Estella as an instrument of cruelty",
+              "Presses Pip to love Estella",
+              "Treats Estella as part of her emotional design"
+            ]
+          },
+          {
+            "phase": "Control under challenge",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Estella's growing independence destabilizes the relationship. Miss Havisham still clings to her, but the bond is now marked by conflict and the sense that her creation is slipping away.",
+            "key_moments": [
+              "Estella speaks back with greater composure",
+              "Miss Havisham's scheme becomes unstable",
+              "Her power over Estella is no longer absolute"
+            ]
+          },
+          {
+            "phase": "Remorseful recognition",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "She explicitly understands that she has harmed Estella by warping her nature. The relationship becomes morally reinterpreted as one of injury and regret rather than possession.",
+            "key_moments": [
+              "Says she has 'stolen her heart away'",
+              "Recognizes she did not give Estella a 'right nature'",
+              "Feels grief and responsibility for Estella"
+            ]
+          }
+        ],
+        "evidence_summary": "The Estella relationship remains the central relational axis because it combines possession, failed control, and moral reckoning. Set B strengthens the endpoint by naming guilt and harm directly."
+      }
+    ]
+  },
+  "Joe Gargery": {
+    "character": "Joe Gargery",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-effacing caretaker to dignified self-boundary keeper",
+            "set_b_axis": "From self-effacing support to enduring relational communion",
+            "overlap_description": "Both describe Joe as fundamentally self-effacing and communion-oriented, with only a modest late-stage shift toward dignity and boundedness rather than a major move into agency."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From humble decency to self-conscious moral authority",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From social embarrassment to quiet dignity",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "None beyond the matched communion axis",
+            "assessment": "artifact"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From intimate protector to loving outsider",
+            "set_b_axis": "From unguarded paternal affection to wounded but dignified distance",
+            "overlap_description": "Both capture the same core Joe-Pip relationship arc: deep protective affection that is strained by Pip's shame and ends in dignified emotional distance."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From passive submission to caregiving coexistence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From social deference to quiet resistance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From vulnerable recipient to dignified resister",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From incidental acquaintance to warm practical trust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From self-effacing caretaker to dignified relationally bounded communion",
+        "pole_start": "Joe begins as strongly communion-dominant: warm, yielding, protective, and defined by care for others rather than self-assertion or status.",
+        "pole_end": "He remains communion-oriented, but with a modestly stronger sense of agency and boundary: he preserves warmth and loyalty while accepting separation and refusing to force himself where he is unwelcome.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early protective communion",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Joe is introduced as instinctively protective and relationally centered, shielding Pip and absorbing domestic pressure without open self-assertion.",
+            "key_moments": [
+              "Joe comforts and protects Pip in the household",
+              "Joe endures Mrs. Joe's dominance without becoming domineering"
+            ]
+          },
+          {
+            "phase": "Communion under strain",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Joe's self-effacing care continues through apprenticeship, social embarrassment, and Pip's rising shame, but the strain begins to clarify his own dignity and limits.",
+            "key_moments": [
+              "Joe accompanies Pip despite embarrassment",
+              "Joe supports Pip's prospects without complaint",
+              "Joe is hurt by Pip's social distancing"
+            ]
+          },
+          {
+            "phase": "Dignified withdrawal",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "Joe accepts exclusion without resentment, choosing a restrained, self-respecting withdrawal that preserves both his affection and his boundaries.",
+            "key_moments": [
+              "Joe visits Pip in London and is awkward in gentility",
+              "Joe leaves without retaliation or pleading",
+              "Joe maintains warmth while refusing intrusion"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Joe remains fundamentally communion-centered, but the arc is not static: he gains a limited, dignified agency that lets him preserve selfhood without abandoning care."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Moral Worth",
+        "axis_name": "From humble decency to self-conscious moral authority",
+        "pole_start": "Joe begins as plainly good-hearted and useful, with his moral value shown more in action than in self-understanding.",
+        "pole_end": "He comes to embody and recognize himself as a morally reliable guide whose worth lies in honesty, restraint, and principled kindness rather than polish or status.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Implicit goodness",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Joe's decency is evident before it is articulated: he protects, comforts, and endures without self-display.",
+            "key_moments": [
+              "Joe shields Pip from domestic harshness",
+              "Joe acts patiently and kindly without claiming moral superiority"
+            ]
+          },
+          {
+            "phase": "Moral articulation",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Joe's plain honesty and ethical steadiness become more legible as a positive moral stance, not merely a lack of sophistication.",
+            "key_moments": [
+              "Joe frames straight dealing and honesty as important",
+              "Joe functions as a moral counterweight to social pretension"
+            ]
+          },
+          {
+            "phase": "Confirmed moral center",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "His refusal of compensation and his final dignified conduct confirm that he values moral integrity over recognition or reward.",
+            "key_moments": [
+              "Joe refuses to be bought off by Jaggers",
+              "Joe blesses Pip rather than demanding repayment",
+              "Joe withdraws with dignity"
+            ]
+          }
+        ],
+        "evidence_summary": "Set A adds an important layer absent from the psychological summary: Joe does not merely remain good, he increasingly understands goodness as a deliberate ethical identity grounded in honesty and restraint."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Shame-Dignity",
+        "axis_name": "From social embarrassment to quiet dignity",
+        "pole_start": "Joe is vulnerable to humiliation in elite or judgmental settings, awkward and out of place, though still good-humored.",
+        "pole_end": "He ends with steadier dignity, able to accept exclusion without self-abasement or resentment.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Social awkwardness",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Joe is made to feel inferior in gentility-coded spaces and by Pip's changing expectations, but he does not become bitter.",
+            "key_moments": [
+              "Joe appears awkward in refined settings",
+              "Joe is exposed to Pip's rising shame"
+            ]
+          },
+          {
+            "phase": "Wounded composure",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "He is hurt by Pip's distancing and the household's upheaval, yet remains restrained and self-possessed.",
+            "key_moments": [
+              "Joe absorbs emotional injury without retaliation",
+              "Joe continues to act with patience"
+            ]
+          },
+          {
+            "phase": "Self-respecting withdrawal",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "Joe's final leave-taking shows him refusing humiliation: he names his place in the world and exits with dignity rather than pleading for inclusion.",
+            "key_moments": [
+              "Joe leaves Pip without complaint",
+              "Joe preserves dignity in separation"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis is a narrower but valid refinement of Joe's late-stage composure: shame is not erased, but transformed into quiet dignity."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Joe Gargery",
+        "target_character": "Pip",
+        "dimension_label": "Care-Shame",
+        "axis_name": "From intimate protector to loving outsider",
+        "pole_start": "Joe begins as Pip's safe refuge, ally, and moral anchor: affectionate, protective, and willing to sacrifice his own comfort for Pip's welfare.",
+        "pole_end": "He remains loving but becomes socially and emotionally distant, accepting Pip's new world without forcing intimacy or demanding recognition.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Protective intimacy",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Joe's shielding, comforting, and practical care establish deep trust and paternal warmth.",
+            "key_moments": [
+              "Joe protects and comforts Pip",
+              "Joe provides a stable emotional refuge"
+            ]
+          },
+          {
+            "phase": "Formal responsibility and hurt",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "As guardian and apprentice-master, Joe continues to support Pip, but Pip's shame and departure strain the bond.",
+            "key_moments": [
+              "Joe supports Pip's apprenticeship",
+              "Joe is hurt by Pip's embarrassment and distancing"
+            ]
+          },
+          {
+            "phase": "Resigned distance",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "Joe visits Pip in London, experiences the pain of social exclusion, and withdraws with blessing rather than protest.",
+            "key_moments": [
+              "Joe is awkward in London gentility",
+              "Joe leaves without complaint",
+              "Joe preserves affection through restraint"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that Joe's love for Pip persists unchanged, while Pip's shame creates a real but dignified distance. The arc is one of affectionate loss without bitterness."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Joe Gargery",
+        "target_character": "Mrs. Joe Gargery",
+        "dimension_label": "Subordination-Care",
+        "axis_name": "From passive submission to caregiving coexistence",
+        "pole_start": "Joe lives under Mrs. Joe's domination and avoids open resistance, remaining gentle and deferential.",
+        "pole_end": "After her injury, he becomes her caretaker, shifting the relationship from conflict toward practical care and endurance.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Domestic subordination",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Joe is deferential under Mrs. Joe's harshness, intervening only indirectly to protect Pip.",
+            "key_moments": [
+              "Joe endures Mrs. Joe's domination",
+              "Joe protects Pip indirectly"
+            ]
+          },
+          {
+            "phase": "Care under crisis",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "After her injury, Joe manages the household and tends her, converting a hostile marriage into one structured by care and endurance.",
+            "key_moments": [
+              "Joe cares for Mrs. Joe after her injury",
+              "Joe assumes practical household responsibility"
+            ]
+          }
+        ],
+        "evidence_summary": "Joe does not become equal to Mrs. Joe, but the relationship meaningfully changes from domination to caregiving responsibility."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Joe Gargery",
+        "target_character": "Mr. Jaggers",
+        "dimension_label": "Dignity-Pressure",
+        "axis_name": "From vulnerable recipient to dignified resister",
+        "pole_start": "Joe is vulnerable to being managed or bought off by Jaggers's legal authority.",
+        "pole_end": "He resists Jaggers's attempt to compensate him and preserves his dignity against institutional pressure.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Exposure to authority",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Jaggers's presence marks Joe as socially and institutionally subordinate.",
+            "key_moments": [
+              "Joe encounters Jaggers's legal authority"
+            ]
+          },
+          {
+            "phase": "Refusal of purchase",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Joe refuses compensation, asserting that his love for Pip cannot be reduced to money.",
+            "key_moments": [
+              "Joe refuses Jaggers's compensation"
+            ]
+          }
+        ],
+        "evidence_summary": "Joe's brief interaction with Jaggers is significant because it shows him refusing to let institutional power redefine his love or worth."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Joe Gargery",
+        "target_character": "Biddy",
+        "dimension_label": "Trust-Reliance",
+        "axis_name": "From incidental acquaintance to warm practical trust",
+        "pole_start": "Joe begins with Biddy as a helpful presence, but not yet a fully established emotional support.",
+        "pole_end": "He ends with Biddy as a trusted, appreciated source of steadiness and mediation.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Growing reliance",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "Joe values Biddy's help and steadiness, especially in managing communication and household stability.",
+            "key_moments": [
+              "Joe appreciates Biddy's sensible mediation",
+              "Joe relies on Biddy for practical support"
+            ]
+          },
+          {
+            "phase": "Stable trust",
+            "chapter_range": [
+              3,
+              3
+            ],
+            "position_description": "Joe continues to treat Biddy as dependable and respectful, with no sign of conflict or distrust.",
+            "key_moments": [
+              "Joe remains appreciative of Biddy's help and judgment"
+            ]
+          }
+        ],
+        "evidence_summary": "This is a smaller but valid relational arc: Joe's trust in Biddy grows into steady appreciation, though it is less central than his bond with Pip."
+      }
+    ]
+  }
+}

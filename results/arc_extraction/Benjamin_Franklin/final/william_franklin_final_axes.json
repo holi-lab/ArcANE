@@ -1,0 +1,162 @@
+{
+  "character": "William Franklin",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From supportive dependence to trusted collaborative agency",
+          "set_b_axis": "From deferential support to sustained cooperative service",
+          "overlap_description": "Both axes describe the same basic internal pattern: William is consistently defined by communion, cooperation, and delegated responsibility within Benjamin Franklin's sphere, with only a modest increase in practical agency and no strong move toward independent self-assertion."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From supportive dependence to trusted collaborative agency",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From deferential support to sustained cooperative service",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From filial accompaniment to trusted working partnership",
+          "set_b_axis": "From filial deference to stable operational alignment",
+          "overlap_description": "Both axes capture the same relationship dynamic between William and Benjamin Franklin: a high-trust, cooperative father-son bond centered on delegated work, practical coordination, and continued alignment rather than conflict or emotional transformation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From filial accompaniment to trusted working partnership",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From filial deference to stable operational alignment",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From deferential dependence to sustained cooperative service",
+      "pole_start": "Communion-leaning dependence: William is positioned as a cooperative helper whose role is defined by alignment with Benjamin Franklin and participation in Benjamin's practical mission rather than independent self-assertion.",
+      "pole_end": "Communion-leaning cooperation with modest agency: William remains a reliable, dutiful assistant, trusted to carry out delegated public and military tasks while still oriented toward collaboration rather than autonomy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Absent from the narrative",
+          "chapter_range": [
+            1,
+            15
+          ],
+          "position_description": "William does not appear in the early chapters, so no internal development is visible before his introduction.",
+          "key_moments": [
+            "William Franklin does not appear or get mentioned in chapters 1-15."
+          ]
+        },
+        {
+          "phase": "Delegated public service",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "William enters the narrative as a trusted helper, accompanying Benjamin Franklin and receiving authority to make wagon-and-horse contracts. This shows practical responsibility, but within a deferential, relationally granted role.",
+          "key_moments": [
+            "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+            "William is explicitly empowered to make the same wagon-and-horse contracts in Cumberland County"
+          ]
+        },
+        {
+          "phase": "Collaborative military service",
+          "chapter_range": [
+            17,
+            17
+          ],
+          "position_description": "As aid-de-camp in the frontier defense expedition, William functions as a reliable participant in raising forts and managing troops. The role confirms competence and usefulness, but not independent self-definition.",
+          "key_moments": [
+            "William Franklin serves as Benjamin Franklin's aid-de-camp",
+            "He helps with the raising of forts and the management of troops"
+          ]
+        },
+        {
+          "phase": "No further development",
+          "chapter_range": [
+            18,
+            19
+          ],
+          "position_description": "William is absent again, so the available evidence shows no additional movement on this axis beyond the cooperative, deferential position already established.",
+          "key_moments": [
+            "William is not mentioned in chapters 18-19."
+          ]
+        }
+      ],
+      "evidence_summary": "Across the available chapters, William Franklin remains a dutiful, communion-oriented participant in Benjamin Franklin's work. He gains delegated responsibility and practical competence, but the evidence does not show a meaningful shift toward independent agency; the overall trajectory is stable and cooperative."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "William Franklin",
+      "target_character": "Benjamin Franklin",
+      "dimension_label": "Trust-Alignment",
+      "axis_name": "From filial deference to stable working partnership",
+      "pole_start": "Deferential dependence: William relates to Benjamin as a subordinate helper, trusting his direction and acting within Benjamin's sphere of authority.",
+      "pole_end": "Stable operational alignment: William continues to cooperate closely with Benjamin, maintaining trust, practical coordination, and professional intimacy without visible conflict or distance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Entrusted accompaniment",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "Benjamin includes William on the journey to Braddock's camp and authorizes him to make contracts, signaling meaningful trust and a more active father-son working bond.",
+          "key_moments": [
+            "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+            "William is empowered to make wagon-and-horse contracts in Cumberland County"
+          ]
+        },
+        {
+          "phase": "Operational partnership",
+          "chapter_range": [
+            17,
+            17
+          ],
+          "position_description": "William serves as aid-de-camp and supports the frontier defense effort under Benjamin's direction. The relationship remains high-trust and cooperative, with practical intimacy but no visible conflict.",
+          "key_moments": [
+            "William Franklin serves as Benjamin Franklin's aid-de-camp",
+            "He helps with the raising of forts and the management of troops"
+          ]
+        },
+        {
+          "phase": "No further change",
+          "chapter_range": [
+            18,
+            19
+          ],
+          "position_description": "William is absent, so the relationship does not develop further in the available text.",
+          "key_moments": [
+            "William is not mentioned in chapters 18-19."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge on a consistently cooperative father-son dynamic: Benjamin trusts William with real responsibilities, and William responds with dependable service. The relationship deepens in practical terms but does not undergo a substantive emotional or structural transformation."
+    }
+  ]
+}

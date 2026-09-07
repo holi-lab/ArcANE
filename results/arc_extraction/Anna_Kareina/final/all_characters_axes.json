@@ -1,0 +1,3421 @@
+{
+  "Anna Arkadyevna Karenina": {
+    "character": "Anna Arkadyevna Karenina",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From socially managed composure to desperate self-assertion through attachment",
+            "set_b_axis": "From socially composed interdependence to desperate self-assertion and self-erasure",
+            "overlap_description": "Both track Anna's shift from socially skilled relational composure into increasingly desperate, destabilized agency under the pressure of attachment, shame, and collapse."
+          },
+          {
+            "set_a_axis": "From moral confidence to self-condemning shame",
+            "set_b_axis": "From humane forgiveness to moral absolutism and nihilistic despair",
+            "overlap_description": "Both describe the erosion of Anna's moral confidence into shame, self-condemnation, and finally a bleak, death-oriented moral outlook."
+          },
+          {
+            "set_a_axis": "From interpretive composure to destabilized, dream-haunted perception",
+            "set_b_axis": "From partial social self-awareness to lucid but destructive self-recognition",
+            "overlap_description": "Both concern Anna's increasing inner instability: her perception becomes more fractured, self-aware, and corrosive rather than clarifying or stabilizing."
+          },
+          {
+            "set_a_axis": "From stable mothering to fractured, desperate motherhood",
+            "set_b_axis": "From stable maternal tenderness to tragic, guilt-laden separation",
+            "overlap_description": "Both capture the same maternal arc: Seryozha initially grounds Anna, but motherhood becomes painful, divided, and finally defined by loss and guilt."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From interpretive composure to destabilized, dream-haunted perception",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From partial social self-awareness to lucid but destructive self-recognition",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From flirtatious fascination to consuming, destabilizing dependence",
+            "set_b_axis": "From guarded attraction to possessive dependence and mistrust",
+            "overlap_description": "Both describe the Anna-Vronsky bond as beginning in attraction and ending in intense dependence, jealousy, and mistrust."
+          },
+          {
+            "set_a_axis": "From formal respect to open hostility and moral severance",
+            "set_b_axis": "From socially functional marriage to emotional estrangement and repudiation",
+            "overlap_description": "Both track the marriage's movement from outwardly intact civility to complete emotional alienation and practical rupture."
+          },
+          {
+            "set_a_axis": "From secure maternal warmth to desperate, guilt-ridden longing",
+            "set_b_axis": "From stable maternal tenderness to tragic, guilt-laden separation",
+            "overlap_description": "Both treat Anna's relation to Seryozha as a stable maternal bond that becomes tragic through separation, longing, and guilt."
+          },
+          {
+            "set_a_axis": "From intimate sympathy to strained but enduring moral witness",
+            "set_b_axis": "From compassionate confidante to morally validating witness",
+            "overlap_description": "Both see Dolly as a key female confidante whose role shifts from warm sympathy to a more strained need for moral recognition and validation."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency communion",
+        "axis_name": "From socially composed interdependence to desperate self-assertion and self-erasure",
+        "pole_start": "Begins as socially radiant, relationally attuned, and oriented toward harmony, mediation, and emotional connection with others; her agency is expressed mainly through tactful social management rather than overt self-assertion.",
+        "pole_end": "Ends in a collapse of agency into fatalistic self-erasure: she can no longer sustain relational harmony, and her final acts become desperate assertions of control that sever communion altogether.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Socially fused mediator",
+            "chapter_range": [
+              18,
+              23
+            ],
+            "position_description": "Anna is warm, graceful, and socially responsive, using her agency to repair and soothe others rather than to assert separateness.",
+            "key_moments": [
+              "Consoles Dolly over Stiva's infidelity",
+              "Supports Dolly and Stiva's reconciliation",
+              "Manages the ball with poise while suppressing Vronsky-related disturbance"
+            ]
+          },
+          {
+            "phase": "Divided self and concealed attachment",
+            "chapter_range": [
+              28,
+              45
+            ],
+            "position_description": "She tries to preserve social order while privately recognizing desire, shame, and the impossibility of clean communion with Vronsky and Karenin.",
+            "key_moments": [
+              "Leaves Moscow to avoid Vronsky",
+              "Admits a hidden 'skeleton' and the seriousness of the affair",
+              "Confession and consummation produce shame and self-division"
+            ]
+          },
+          {
+            "phase": "Attachment becomes crisis-management",
+            "chapter_range": [
+              56,
+              124
+            ],
+            "position_description": "Her agency narrows into attempts to secure clarity, legitimacy, and emotional rescue, but she remains dependent on others and unable to stabilize her life.",
+            "key_moments": [
+              "Pregnancy intensifies the impossibility of her position",
+              "Presses Vronsky for commitment and fears Karenin's authority",
+              "Seeks divorce and practical settlement"
+            ]
+          },
+          {
+            "phase": "Defensive self-management and social performance",
+            "chapter_range": [
+              131,
+              180
+            ],
+            "position_description": "She regains outward control through cultivated domesticity and aesthetic management, but this is defensive rather than autonomous.",
+            "key_moments": [
+              "Creates a polished life with Vronsky",
+              "Manages jealousy and social appearances",
+              "Hosts Dolly while defending her choices"
+            ]
+          },
+          {
+            "phase": "Isolation and self-destruction",
+            "chapter_range": [
+              181,
+              220
+            ],
+            "position_description": "Agency deteriorates into panic, jealousy, and compulsive attempts to force certainty from Vronsky, ending in suicidal annihilation.",
+            "key_moments": [
+              "Oscillates between reconciliation and suspicion",
+              "Feels abandoned and humiliated in Moscow",
+              "Chooses death as escape and final assertion"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna begins as a highly relational figure whose agency is expressed through tact, mediation, and emotional attunement. Over time, attachment and social rupture convert that balance into defensive self-assertion, then crisis-driven control, and finally self-erasure. The arc is fundamentally ambivalent: communion narrows into dependency while agency becomes increasingly destructive."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "moral self-trust",
+        "axis_name": "From humane forgiveness to self-condemning shame and nihilism",
+        "pole_start": "Begins with a humane, forgiving moral imagination that believes reconciliation is possible and can distinguish human weakness from total moral failure.",
+        "pole_end": "Ends in self-condemnation and moral exhaustion, with life experienced as false, love as doomed, and death as the only remaining release.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Forgiving moral voice",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "Anna speaks confidently about forgiveness, adultery, and marital truth, presenting herself as morally perceptive and generous.",
+            "key_moments": [
+              "Tells Dolly that a man may love his family despite infidelity",
+              "Argues for forgiveness as a moral ideal",
+              "Supports reconciliation between Dolly and Stiva"
+            ]
+          },
+          {
+            "phase": "Shame enters moral self-understanding",
+            "chapter_range": [
+              28,
+              63
+            ],
+            "position_description": "She recognizes the gap between outward propriety and inner truth, and shame begins to contaminate her moral confidence.",
+            "key_moments": [
+              "Admits she feels 'nasty' and guilty",
+              "Recognizes Kitty's humiliation and her own role in it",
+              "Calls the affair wrong while still desiring it"
+            ]
+          },
+          {
+            "phase": "Open moral fracture",
+            "chapter_range": [
+              41,
+              124
+            ],
+            "position_description": "Her moral language becomes conflicted and practical: she seeks confession, divorce, and a bearable settlement, but cannot restore moral order.",
+            "key_moments": [
+              "Confesses love and hatred to Karenin",
+              "Seeks divorce as a practical route to legitimacy",
+              "Briefly acknowledges Karenin's suffering"
+            ]
+          },
+          {
+            "phase": "Self-condemnation hardens into fatalism",
+            "chapter_range": [
+              153,
+              220
+            ],
+            "position_description": "Shame becomes identity; she sees herself as morally contaminated, socially excluded, and beyond repair.",
+            "key_moments": [
+              "Feels guilty after seeing Seryozha",
+              "Interprets others as secretly hating her",
+              "Imagines death as the only release",
+              "Prays for forgiveness before the train death"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna's moral imagination begins generous and reconciling, but the affair steadily erodes that stance. Her ethics shift from forgiveness to defensive practicality and finally to self-condemning nihilism, as she loses faith in both social morality and the possibility of a livable reconciliation."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-knowledge",
+        "axis_name": "From partial self-awareness to lucid but destructive self-recognition",
+        "pole_start": "Begins with limited awareness of her own emotional depth; she notices feelings and manages them tactically, but does not yet fully interpret their significance.",
+        "pole_end": "Ends with sharp, painful awareness of her jealousy, humiliation, falsity, and despair, though this clarity is not integrated into stable self-understanding and instead feeds collapse.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Perceptive but unreflective",
+            "chapter_range": [
+              18,
+              33
+            ],
+            "position_description": "She is highly perceptive about others and partially aware of her own discomfort, but still treats her reactions as manageable social disturbances rather than signs of deeper conflict.",
+            "key_moments": [
+              "Notices Vronsky's effect on her but does not name it",
+              "Recognizes discomfort around his presence and tries to redirect conversation",
+              "Minimizes troubling events as insignificant"
+            ]
+          },
+          {
+            "phase": "Defensive recognition",
+            "chapter_range": [
+              28,
+              63
+            ],
+            "position_description": "She begins to admit hidden truth: she has a 'skeleton,' is not innocent, and is living in falsehood. Self-knowledge grows, but remains defensive and incomplete.",
+            "key_moments": [
+              "Confesses to Dolly that she is not entirely clear or innocent",
+              "Recognizes concealment as a conscious strategy",
+              "Names herself as Vronsky's mistress"
+            ]
+          },
+          {
+            "phase": "Fragmented lucidity",
+            "chapter_range": [
+              84,
+              122
+            ],
+            "position_description": "She becomes more aware of her divided life, her dependence, and the impossibility of reconciling her roles, but this awareness is unstable and often mediated by panic or others' interpretations.",
+            "key_moments": [
+              "Recognizes her own self-deception about the future",
+              "Sees that she cannot be both wife/mother and lover without rupture",
+              "Briefly acknowledges Karenin's suffering"
+            ]
+          },
+          {
+            "phase": "Cynical self-clarity",
+            "chapter_range": [
+              212,
+              220
+            ],
+            "position_description": "She sees herself and the world with brutal clarity: jealousy, humiliation, social falsity, and the decay of love are all named, but this lucidity is destructive rather than healing.",
+            "key_moments": [
+              "Recognizes recurring cycles of jealousy and self-reproach",
+              "Interprets society as hypocritical and hateful",
+              "Concludes that love decays into aversion",
+              "Moves from insight into fatalistic self-destruction"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna's self-awareness steadily increases across the novel, but it does not become stabilizing wisdom. Instead, she moves from partial social awareness to explicit recognition of her falsehood, then to fragmented lucidity, and finally to a devastating clarity that confirms her despair."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "maternal identity",
+        "axis_name": "From stable mothering to fractured, guilt-laden separation",
+        "pole_start": "Begins as a woman whose maternal feeling provides warmth, identity, and emotional grounding alongside her other roles.",
+        "pole_end": "Ends as a mother defined by loss, exclusion, guilt, and impossible longing, with ordinary maternal presence no longer sustainable.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Maternal grounding",
+            "chapter_range": [
+              20,
+              33
+            ],
+            "position_description": "Seryozha restores Anna's serenity and gives her a sense of innocence and moral steadiness.",
+            "key_moments": [
+              "Retreats to the nursery and regains calm",
+              "Uses thoughts of Seryozha to stabilize herself",
+              "Shows his photograph as a source of reassurance"
+            ]
+          },
+          {
+            "phase": "Maternal conflict with passion",
+            "chapter_range": [
+              56,
+              105
+            ],
+            "position_description": "Motherhood becomes a site of conflict, guilt, and fear as Seryozha stands in the way of leaving Karenin and securing a new life.",
+            "key_moments": [
+              "Hears Seryozha nearby and breaks off intimacy with Vronsky",
+              "Begs not to lose her son",
+              "Fears Karenin will take him away"
+            ]
+          },
+          {
+            "phase": "Exclusion and mediated contact",
+            "chapter_range": [
+              147,
+              176
+            ],
+            "position_description": "She is denied direct access to Seryozha and experiences motherhood as socially policed and humiliating.",
+            "key_moments": [
+              "Requests to see Seryozha through Lidia Ivanovna",
+              "Receives refusal",
+              "Feels superfluous in the nursery with her daughter"
+            ]
+          },
+          {
+            "phase": "Brief reunion and renewed fracture",
+            "chapter_range": [
+              153,
+              220
+            ],
+            "position_description": "Reunions with Seryozha briefly restore her sense of self, but they are immediately followed by separation, jealousy, and guilt.",
+            "key_moments": [
+              "Secretly visits and embraces Seryozha",
+              "Tells him to love his father",
+              "Leaves without giving him the toys",
+              "Recalls him in self-condemnation before death"
+            ]
+          }
+        ],
+        "evidence_summary": "Motherhood is one of Anna's most important stable identities, but it becomes increasingly fractured by her affair and by social exclusion. The arc moves from maternal grounding to maternal desperation, then to exclusion and guilt, and finally to a tragic fusion of love, loss, and self-reproach."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Anna Arkadyevna Karenina",
+        "target_character": "Alexey Vronsky",
+        "dimension_label": "desire trust",
+        "axis_name": "From guarded attraction to possessive dependence and mistrust",
+        "pole_start": "Begins with intrigued, socially contained attraction: she is drawn to Vronsky but tries to keep the interaction decorous, distant, and under control.",
+        "pole_end": "Ends in obsessive attachment mixed with jealousy, suspicion, and desperate dependence; she needs him absolutely but trusts him less and less.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Charged curiosity",
+            "chapter_range": [
+              18,
+              23
+            ],
+            "position_description": "She notices Vronsky's attention, feels excitement, but still attempts to maintain social distance and composure.",
+            "key_moments": [
+              "Railway accident and omen-like foreboding",
+              "Ball scenes where she withholds recognition and manages contact"
+            ]
+          },
+          {
+            "phase": "Openly conflicted attachment",
+            "chapter_range": [
+              28,
+              45
+            ],
+            "position_description": "Attraction becomes explicit and morally charged; she confesses, consummates, and begins to feel the bond as both bliss and shame.",
+            "key_moments": [
+              "Leaves Moscow to avoid him, then admits the attraction",
+              "Confession and consummation",
+              "Begins to conceal the affair from Karenin"
+            ]
+          },
+          {
+            "phase": "Dependence under pressure",
+            "chapter_range": [
+              56,
+              124
+            ],
+            "position_description": "She relies on Vronsky for emotional and practical rescue, but his hesitation and her own fear make trust unstable.",
+            "key_moments": [
+              "Pregnancy and demand for commitment",
+              "Presses him for certainty after the race accident",
+              "Confronts him and Karenin over the affair"
+            ]
+          },
+          {
+            "phase": "Domestic possession",
+            "chapter_range": [
+              131,
+              180
+            ],
+            "position_description": "In Italy and later at home, she is deeply attached and proud of their life together, but jealousy and the need to control his attention intensify.",
+            "key_moments": [
+              "Cultivated domestic life abroad",
+              "Jealousy of the nurse",
+              "Need to secure Dolly's approval and Vronsky's attention"
+            ]
+          },
+          {
+            "phase": "Jealous collapse",
+            "chapter_range": [
+              181,
+              220
+            ],
+            "position_description": "Trust breaks down into repeated cycles of accusation, fear of abandonment, and retaliatory fantasy. She remains attached, but the attachment is now corrosive and unstable.",
+            "key_moments": [
+              "Fears Vronsky's coldness and possible infidelity",
+              "Interprets delays and ordinary remarks as betrayal",
+              "Uses jealousy to test him",
+              "Ends in suicidal despair"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna's relationship with Vronsky is the central relational arc of the novel. It moves from guarded attraction to full passion, then into dependence, possessiveness, and mistrust. The bond remains intense throughout, but trust steadily erodes while need and jealousy intensify."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Anna Arkadyevna Karenina",
+        "target_character": "Alexey Alexandrovitch Karenin",
+        "dimension_label": "intimacy alienation",
+        "axis_name": "From socially functional marriage to emotional estrangement and repudiation",
+        "pole_start": "Begins as a marriage that is formally intact and socially functional, with Anna still capable of civility, tact, and limited respect.",
+        "pole_end": "Ends in complete emotional alienation: Karenin becomes a legal, moral, and punitive presence rather than a husband in any meaningful sense.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Formal civility",
+            "chapter_range": [
+              18,
+              33
+            ],
+            "position_description": "She treats Karenin as part of ordinary domestic life, still able to smile at his oddities and maintain outward composure.",
+            "key_moments": [
+              "Returns to Petersburg and resumes domestic routine",
+              "Writes to Dolly while preserving the marriage facade"
+            ]
+          },
+          {
+            "phase": "Concealment and moral distance",
+            "chapter_range": [
+              41,
+              63
+            ],
+            "position_description": "As the affair deepens, Karenin becomes a figure to evade, lie to, and emotionally exclude.",
+            "key_moments": [
+              "Hides the affair behind 'impenetrable armor of falsehood'",
+              "Feels disgust at his kiss and moral seriousness",
+              "Confesses only when forced by crisis"
+            ]
+          },
+          {
+            "phase": "Legal and social obstacle",
+            "chapter_range": [
+              84,
+              123
+            ],
+            "position_description": "He is no longer a husband in Anna's emotional world but the source of legal captivity, shame, and custody conflict.",
+            "key_moments": [
+              "Karenin's letter and control over Seryozha",
+              "Confrontations over divorce and the child",
+              "Anna's fear and aversion intensify"
+            ]
+          },
+          {
+            "phase": "Final repudiation",
+            "chapter_range": [
+              212,
+              220
+            ],
+            "position_description": "Karenin is absorbed into the larger structure of social falsehood and oppression; he is no longer a person she can relate to, only part of the world she wants to escape.",
+            "key_moments": [
+              "She sees him as part of the trap and humiliation",
+              "His legal and moral authority remains, but intimacy is gone"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna's relation to Karenin steadily cools from formal marriage into total alienation. The marriage remains legally and socially consequential, but emotionally it is emptied out and finally experienced as oppressive, false, and punitive."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Anna Arkadyevna Karenina",
+        "target_character": "Seryozha",
+        "dimension_label": "maternal bond",
+        "axis_name": "From stable maternal tenderness to tragic, guilt-laden separation",
+        "pole_start": "Begins as a warm, stable, loving maternal attachment that anchors Anna's identity and emotional life.",
+        "pole_end": "Ends as a painful, irreparable bond marked by longing, guilt, and the knowledge that she has lost ordinary access to her son.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Maternal anchor",
+            "chapter_range": [
+              20,
+              33
+            ],
+            "position_description": "Seryozha is a source of warmth, identity, and moral reassurance; thinking of him restores Anna's composure.",
+            "key_moments": [
+              "Shows his photograph and uses maternal feeling to stabilize herself",
+              "Returns to domestic order through thoughts of him"
+            ]
+          },
+          {
+            "phase": "Maternal crisis",
+            "chapter_range": [
+              56,
+              85
+            ],
+            "position_description": "Pregnancy and marital collapse make motherhood a source of pain, shame, and impossible choice.",
+            "key_moments": [
+              "Fears the consequences of pregnancy",
+              "Tries to leave with Seryozha",
+              "Feels the child as a moral witness and burden"
+            ]
+          },
+          {
+            "phase": "Secret reunion and rupture",
+            "chapter_range": [
+              147,
+              155
+            ],
+            "position_description": "She desperately seeks and briefly regains contact with Seryozha, but the reunion only intensifies grief because she must leave him again.",
+            "key_moments": [
+              "Plans secret visit",
+              "Reunion with Seryozha and overwhelming tenderness",
+              "Forced departure and renewed separation"
+            ]
+          },
+          {
+            "phase": "Absence and internalization",
+            "chapter_range": [
+              188,
+              209
+            ],
+            "position_description": "Seryozha becomes an absent, painful center of longing; Anna's maternal bond persists but is now mediated by letters, intermediaries, and the knowledge that he is learning to suppress memory of her.",
+            "key_moments": [
+              "Writes to see him",
+              "Feels wounded by denial of access",
+              "Hears that he is learning to forget her"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna's maternal bond with Seryozha is one of the novel's most stable relationships, but it becomes increasingly tragic. It begins as emotional grounding and ends as a source of irreparable grief, guilt, and longing, with the bond surviving only as pain and memory."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Anna Arkadyevna Karenina",
+        "target_character": "Darya Alexandrovna (Dolly)",
+        "dimension_label": "sympathetic intimacy",
+        "axis_name": "From compassionate confidante to morally validating witness",
+        "pole_start": "Begins with warm, compassionate intimacy: Anna is a consoling interpreter of Dolly's marital crisis and a trusted emotional presence.",
+        "pole_end": "Ends with Dolly as a hoped-for moral witness and sympathetic refuge, though the intimacy is strained by Anna's need for validation and by Dolly's moral distance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Compassionate counselor",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "Anna comforts Dolly, interprets Stiva charitably, and helps her think through forgiveness.",
+            "key_moments": [
+              "Consoles Dolly over Stiva's infidelity",
+              "Frames forgiveness as possible and humane"
+            ]
+          },
+          {
+            "phase": "Confessional ally",
+            "chapter_range": [
+              28,
+              63
+            ],
+            "position_description": "Dolly becomes the person Anna confesses to, seeking understanding, reassurance, and moral cover.",
+            "key_moments": [
+              "Admits her 'skeleton' to Dolly",
+              "Uses Dolly as a sympathetic listener during crisis"
+            ]
+          },
+          {
+            "phase": "Moral witness and refuge",
+            "chapter_range": [
+              174,
+              181
+            ],
+            "position_description": "Anna seeks Dolly's approval of her life with Vronsky and her refusal of more children, wanting Dolly to validate her choices.",
+            "key_moments": [
+              "Welcomes Dolly to the estate",
+              "Argues for the legitimacy of her life and suffering",
+              "Seeks sympathy for her position"
+            ]
+          },
+          {
+            "phase": "Strained dependence",
+            "chapter_range": [
+              212,
+              218
+            ],
+            "position_description": "Dolly becomes a refuge in crisis, but Anna also feels exposed and judged before her, making the relationship both intimate and defensive.",
+            "key_moments": [
+              "Turns to Dolly when Vronsky seems absent",
+              "Feels shame and seeks support",
+              "Uses Dolly as a witness to her suffering"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna and Dolly move from mutual sympathy to a more complicated intimacy in which Anna seeks not just comfort but moral validation. Dolly remains one of the few people Anna trusts, but the relationship becomes increasingly burdened by Anna's need to be understood and excused."
+      }
+    ]
+  },
+  "Konstantin Dmitrievich Levin": {
+    "character": "Konstantin Dmitrievich Levin",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-assertive separateness to relational interdependence",
+            "set_b_axis": "From self-assertive separateness to relational fusion",
+            "overlap_description": "Both describe Levin's movement from defensive independence and self-protective isolation toward a life organized by marriage, family, and shared moral/spiritual belonging."
+          },
+          {
+            "set_a_axis": "From humiliated unworthiness to grounded moral dignity",
+            "set_b_axis": "From shame and self-contempt to humbled self-acceptance",
+            "overlap_description": "Both track Levin's self-worth arc from humiliation, shame, and romantic/social inferiority toward a steadier, humbler self-respect grounded in love, duty, and conscience."
+          },
+          {
+            "set_a_axis": "From abstract explanation to lived moral faith",
+            "set_b_axis": "From rational despair to lived spiritual certainty",
+            "overlap_description": "Both identify Levin's central spiritual-intellectual arc: he moves from distrust of abstraction and rational failure into a lived faith grounded in moral intuition, God, and ordinary life."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From volatile self-consciousness to chastened self-command",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From anti-social suspicion to selective social ease",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From rejected suitor to mutually chosen husband",
+            "set_b_axis": "From idealized hope and rejection to mutual love and domestic devotion",
+            "overlap_description": "Both describe the same core relationship arc with Kitty: from humiliating rejection and longing to reciprocal marriage, domestic intimacy, and shared spiritual life."
+          },
+          {
+            "set_a_axis": "From awkward dependency to warm, candid friendship",
+            "set_b_axis": "From embarrassed dependence to warm, durable companionship",
+            "overlap_description": "Both see Oblonsky as a stable friendship that begins in embarrassment and reliance, then becomes warmer, more candid, and socially useful."
+          },
+          {
+            "set_a_axis": "From condescension and distance to partial respect with enduring strain",
+            "set_b_axis": "From defensive inferiority to qualified intellectual kinship",
+            "overlap_description": "Both identify Levin's relation to Sergey Ivanovitch as moving from hurt defensiveness and patronization toward respect, while preserving real differences and strain."
+          },
+          {
+            "set_a_axis": "From uneasy obligation to sacrificial brotherly love",
+            "set_b_axis": "From alarmed obligation to tender, tragic solidarity",
+            "overlap_description": "Both capture Levin's bond with Nikolay as a deepening from duty and discomfort into compassionate, grief-filled solidarity in the face of suffering and death."
+          },
+          {
+            "set_a_axis": "From suspicion to reluctant goodwill and back to jealous irritation",
+            "set_b_axis": "From jealous hostility to uneasy recognition",
+            "overlap_description": "Both describe Levin's relation to Veslovsky as a mixed, unstable dynamic: suspicion and jealousy are tempered by moments of fairness, but never fully resolved."
+          },
+          {
+            "set_a_axis": "From humiliating rival to civil acquaintance",
+            "set_b_axis": "From jealous hostility to uneasy recognition",
+            "overlap_description": "Both show Levin's rivalry with Vronsky softening over time into civility and reduced emotional charge, even if the original humiliation remains legible."
+          },
+          {
+            "set_a_axis": "From indirect esteem to intimate moral confidence",
+            "set_b_axis": "From respectful distance to practical and moral alliance",
+            "overlap_description": "Both see Dolly as a morally trusted domestic ally whose honesty, practical kindness, and family role deepen Levin's confidence in her."
+          },
+          {
+            "set_a_axis": "From curiosity to brief intimate admiration and moral concern",
+            "set_b_axis": "From moral caution to compassionate fascination",
+            "overlap_description": "Both identify Levin's brief but meaningful encounter with Anna as a shift from caution to immediate sympathy, admiration, and concern for hidden suffering."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": [
+          {
+            "axis": "From paternal suspicion to spiritual and practical kinship",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-assertive separateness to relational interdependence",
+        "pole_start": "Begins as a self-protective, socially defensive man who asserts independence through work, moral judgment, and resistance to public performance, while remaining isolated and reactive.",
+        "pole_end": "Ends as a man whose agency is lived through communion: marriage, fatherhood, faith, shared labor, and mutual belonging with Kitty, family, peasants, and God.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive separateness",
+            "chapter_range": [
+              5,
+              24
+            ],
+            "position_description": "Levin is awkward, proud, and socially defensive. He resists being defined by others and seeks dignity through private sincerity and self-protection.",
+            "key_moments": [
+              "Embarrassment in Moscow society",
+              "Failed courtship and rejection by Kitty",
+              "Resistance to officialdom and social polish"
+            ]
+          },
+          {
+            "phase": "Work as self-mastery",
+            "chapter_range": [
+              26,
+              99
+            ],
+            "position_description": "He turns to labor, estate management, and practical reform as a way to master himself and regain moral footing, while beginning to feel belonging with peasants and domestic life.",
+            "key_moments": [
+              "Return to the estate",
+              "Mowing with the peasants",
+              "Agricultural reform and practical responsibility"
+            ]
+          },
+          {
+            "phase": "Marriage and shared life",
+            "chapter_range": [
+              110,
+              170
+            ],
+            "position_description": "After reconciliation with Kitty, Levin's identity becomes more relational. He still seeks competence, but now within mutual dependence, domestic intimacy, and family duty.",
+            "key_moments": [
+              "Betrothal and wedding",
+              "Domestic happiness with Kitty",
+              "Birth of Mitya and protective family responsibility"
+            ]
+          },
+          {
+            "phase": "Communion through suffering and faith",
+            "chapter_range": [
+              202,
+              239
+            ],
+            "position_description": "His deepest selfhood is finally organized around shared suffering, prayer, and a faith that is inwardly lived rather than privately mastered.",
+            "key_moments": [
+              "Kitty's labor and his dependence on her and God",
+              "Spiritual revelation through the peasants",
+              "Final acceptance of faith as lived truth"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin moves from isolated self-assertion toward interdependence and spiritual communion. He never loses agency, but it is redefined through care, labor, marriage, and faith."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "self-worth",
+        "axis_name": "From shame and self-contempt to humbled moral dignity",
+        "pole_start": "Begins with harsh self-judgment: he sees himself as awkward, inferior, and unworthy of love or public success.",
+        "pole_end": "Ends with a steadier self-acceptance grounded in love, duty, and spiritual purpose rather than social triumph.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Romantic humiliation",
+            "chapter_range": [
+              5,
+              24
+            ],
+            "position_description": "Kitty's rejection and Vronsky's superiority intensify Levin's sense of inadequacy and social inferiority.",
+            "key_moments": [
+              "Blushing and awkwardness in Moscow",
+              "Kitty's refusal",
+              "Jealous comparison with Vronsky"
+            ]
+          },
+          {
+            "phase": "Moral self-reproach and restoration",
+            "chapter_range": [
+              46,
+              99
+            ],
+            "position_description": "Work and estate life begin to restore dignity by making him useful and competent, though shame remains active.",
+            "key_moments": [
+              "Return to the estate",
+              "Mowing and agricultural competence",
+              "Practical responsibility for others"
+            ]
+          },
+          {
+            "phase": "Marriage and transformed shame",
+            "chapter_range": [
+              110,
+              143
+            ],
+            "position_description": "Confession, wedding, and Kitty's love transform shame into humility rather than humiliation.",
+            "key_moments": [
+              "Confessing his past to Kitty",
+              "Feeling unworthy of her purity",
+              "Wedding as a sacred, humbling event"
+            ]
+          },
+          {
+            "phase": "Humbled but secure",
+            "chapter_range": [
+              202,
+              239
+            ],
+            "position_description": "He remains aware of his limitations, but love, fatherhood, and faith provide a durable basis for self-respect.",
+            "key_moments": [
+              "Helplessness during Kitty's labor",
+              "Delayed but real paternal attachment",
+              "Final spiritual peace"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin moves from shame-driven self-rejection to a humbled but stable self-respect grounded in being loved, useful, and morally serious."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "faith-certainty",
+        "axis_name": "From rational despair to lived spiritual certainty",
+        "pole_start": "Begins with distrust of abstraction and repeated confrontation with the possibility that life is meaningless and convictions are self-deception.",
+        "pole_end": "Ends with inward certainty that life is for God, goodness, and moral service, known through lived truth rather than abstract proof.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early skepticism and moral strain",
+            "chapter_range": [
+              7,
+              24
+            ],
+            "position_description": "He is impatient with abstract talk, skeptical of polished discourse, and morally serious but not spiritually settled.",
+            "key_moments": [
+              "Philosophical debate in Moscow",
+              "Discomfort with social and intellectual evasions",
+              "Turn toward practical morality"
+            ]
+          },
+          {
+            "phase": "Existential collapse",
+            "chapter_range": [
+              100,
+              229
+            ],
+            "position_description": "Mortality, grief, and philosophical testing bring him to despair, including the thought of suicide.",
+            "key_moments": [
+              "Nikolay's illness and death",
+              "Fear that life is dust and ashes",
+              "Near-suicidal crisis"
+            ]
+          },
+          {
+            "phase": "Revelation and settled faith",
+            "chapter_range": [
+              231,
+              239
+            ],
+            "position_description": "A peasant's simple words trigger revelation: Levin realizes that he had already been living by truths he could not prove, and he ends in peace.",
+            "key_moments": [
+              "Fyodor's words about living for the soul",
+              "Recognition that goodness is given, not deduced",
+              "Final acceptance of faith as lived inwardly"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin's deepest intellectual-spiritual arc moves from rational unsatisfied seriousness to a durable lived faith grounded in moral intuition and revelation."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "emotion regulation",
+        "axis_name": "From volatile self-consciousness to chastened self-command",
+        "pole_start": "Begins emotionally volatile, with shame, jealousy, impulsiveness, and repeated inability to control his reactions.",
+        "pole_end": "Ends with imperfect but real self-command: he still feels strongly, but can restrain, correct, and live with his feelings more responsibly.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Reactive volatility",
+            "chapter_range": [
+              5,
+              24
+            ],
+            "position_description": "Levin blushes, withdraws, and is destabilized by embarrassment or rivalry.",
+            "key_moments": [
+              "Blushing in Oblonsky's office",
+              "Jealousy over Vronsky",
+              "Social awkwardness at the Shcherbatskys"
+            ]
+          },
+          {
+            "phase": "Partial discipline",
+            "chapter_range": [
+              26,
+              167
+            ],
+            "position_description": "He tries to master himself through work, physical exertion, and restraint, succeeding intermittently.",
+            "key_moments": [
+              "Dumbbells and self-training",
+              "Mowing and hunting as regulation",
+              "Attempts at geniality with Veslovsky"
+            ]
+          },
+          {
+            "phase": "Mature restraint under pressure",
+            "chapter_range": [
+              202,
+              239
+            ],
+            "position_description": "In Kitty's confinement, the storm, and the final crisis, he converts terror and anger into prayer, care, and inward reflection.",
+            "key_moments": [
+              "Prayer during Kitty's labor",
+              "Reproach and repentance after the storm",
+              "Final inward acceptance of moral law"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin never becomes emotionally flat; instead, he learns to live with strong feeling without being ruled by it."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "social stance",
+        "axis_name": "From anti-social suspicion to selective social ease",
+        "pole_start": "Begins distrustful of polished society, official life, and performative conversation, and is easily embarrassed and defensive.",
+        "pole_end": "Ends able to move between social worlds with more flexibility, enjoying clubs, guests, and public life when they feel orderly and sincere.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Suspicion and awkwardness",
+            "chapter_range": [
+              5,
+              24
+            ],
+            "position_description": "He is tense in Moscow, hostile to officialdom, and uncomfortable in polished company.",
+            "key_moments": [
+              "Dislike of bureaucratic and social polish",
+              "Embarrassment around Oblonsky and Sergey Ivanovitch",
+              "Social humiliation after Kitty's refusal"
+            ]
+          },
+          {
+            "phase": "Practical withdrawal",
+            "chapter_range": [
+              26,
+              99
+            ],
+            "position_description": "He retreats into estate life and labor, where social friction is reduced and practical action feels more truthful.",
+            "key_moments": [
+              "Homecoming and work on the estate",
+              "Mowing with peasants",
+              "Agricultural reform as a socially grounded project"
+            ]
+          },
+          {
+            "phase": "Selective sociability",
+            "chapter_range": [
+              183,
+              197
+            ],
+            "position_description": "He becomes more capable of participating in public and social settings, though he remains critical of artificiality.",
+            "key_moments": [
+              "Elections and public life in Kashin",
+              "Club dinner and reconciliation with Vronsky",
+              "Social ease in structured male company"
+            ]
+          },
+          {
+            "phase": "Domestic-social balance",
+            "chapter_range": [
+              198,
+              239
+            ],
+            "position_description": "He can now move between domestic intimacy, public encounters, and spiritual reflection with more flexibility.",
+            "key_moments": [
+              "Visiting Anna and returning home to Kitty",
+              "Storm, family fear, and reconciliation",
+              "Final settled domestic and spiritual life"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin becomes less rigidly anti-social, learning to tolerate and sometimes enjoy social life when it is bounded by sincerity, order, or shared purpose."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Kitty Shtcherbatskaya",
+        "dimension_label": "romantic intimacy",
+        "axis_name": "From idealized rejection to mutual domestic devotion",
+        "pole_start": "Begins as an anxious, idealizing, and self-abasing suitor who experiences rejection and humiliation.",
+        "pole_end": "Ends as a husband whose love is reciprocal, embodied, and domestic: Kitty is his emotional home, moral equal, and intimate partner in faith, family, and daily life.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Idealization and proposal",
+            "chapter_range": [
+              5,
+              13
+            ],
+            "position_description": "He is overwhelmed by Kitty's significance, proposes, and is rejected.",
+            "key_moments": [
+              "Asking about Kitty in Moscow",
+              "Proposal and refusal",
+              "Jealousy over Vronsky"
+            ]
+          },
+          {
+            "phase": "Wounded longing and return",
+            "chapter_range": [
+              24,
+              108
+            ],
+            "position_description": "Kitty remains emotionally central even in absence; he oscillates between shame, detachment, and renewed longing.",
+            "key_moments": [
+              "Shame after rejection",
+              "Seeing Kitty again",
+              "Renewed love amid peasant-life fantasy"
+            ]
+          },
+          {
+            "phase": "Reconciliation and betrothal",
+            "chapter_range": [
+              110,
+              130
+            ],
+            "position_description": "He becomes certain of Kitty's love, confesses himself, and enters marriage with reverence and joy.",
+            "key_moments": [
+              "Renewed contact and mutual understanding",
+              "Engagement and wedding preparations",
+              "Wedding ceremony and mutual recognition"
+            ]
+          },
+          {
+            "phase": "Married intimacy and strain",
+            "chapter_range": [
+              138,
+              205
+            ],
+            "position_description": "Their love becomes domestic and embodied. Levin learns that marriage includes conflict, practical labor, jealousy, childbirth, and shared suffering, but the bond deepens through these realities.",
+            "key_moments": [
+              "Domestic adjustment",
+              "Jealousy over Veslovsky",
+              "Kitty's labor and his dependence on her"
+            ]
+          },
+          {
+            "phase": "Spiritual and familial union",
+            "chapter_range": [
+              228,
+              239
+            ],
+            "position_description": "Kitty becomes the living companion of his spiritual peace and the stable relational ground in which meaning can be lived.",
+            "key_moments": [
+              "Her calm presence during his spiritual crisis",
+              "Her role as a moral anchor",
+              "Final settled domestic life"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin's central relationship arc runs from humiliating courtship to a marriage that becomes the emotional and spiritual center of his life."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Stepan Arkadyevitch Oblonsky",
+        "dimension_label": "friendship trust",
+        "axis_name": "From embarrassed reliance to warm companionship",
+        "pole_start": "Begins as a trusted friend and intermediary whose social ease exposes Levin's awkwardness.",
+        "pole_end": "Ends as a genuinely warm companion whose sociability Levin can enjoy without the same level of shame or rivalry.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Embarrassed reliance",
+            "chapter_range": [
+              5,
+              11
+            ],
+            "position_description": "Levin relies on Oblonsky for information and mediation, but feels awkward and exposed in his presence.",
+            "key_moments": [
+              "Seeking news of Kitty through Oblonsky",
+              "Using him as intermediary in Moscow",
+              "Conversation about Kitty and Vronsky"
+            ]
+          },
+          {
+            "phase": "Strained but enduring friendship",
+            "chapter_range": [
+              48,
+              52
+            ],
+            "position_description": "Their friendship remains active, but Levin's jealousy and moral seriousness create tension.",
+            "key_moments": [
+              "Hunting and spring companionship",
+              "Forest-sale argument",
+              "Levin's confession of hurt"
+            ]
+          },
+          {
+            "phase": "Domestic and social ease",
+            "chapter_range": [
+              163,
+              197
+            ],
+            "position_description": "Oblonsky becomes a more comfortable social companion; the relationship is warmer and less defensive.",
+            "key_moments": [
+              "Visiting and socializing in the country",
+              "Club dinner and reconciliation with Vronsky",
+              "Shared movement through social spaces"
+            ]
+          }
+        ],
+        "evidence_summary": "Oblonsky remains a key social bridge for Levin, becoming less embarrassing and more genuinely companionable over time."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Nikolay Levin",
+        "dimension_label": "brotherly compassion",
+        "axis_name": "From alarmed duty to tragic solidarity",
+        "pole_start": "Begins as a source of alarm, pity, and moral duty, with Levin horrified by Nikolay's condition.",
+        "pole_end": "Ends as a deeply loved and mourned figure whose suffering and death force Levin into compassion, helplessness, and existential seriousness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Alarm and duty",
+            "chapter_range": [
+              8,
+              25
+            ],
+            "position_description": "Levin is horrified by Nikolay's condition and feels compelled to visit and care for him despite discomfort.",
+            "key_moments": [
+              "News of Nikolay in Moscow",
+              "Deciding to visit",
+              "Brotherly concern mixed with awkwardness"
+            ]
+          },
+          {
+            "phase": "Pity and practical care",
+            "chapter_range": [
+              46,
+              101
+            ],
+            "position_description": "He becomes more actively responsible, helping Nikolay and feeling his suffering as morally serious and personally binding.",
+            "key_moments": [
+              "Planning to help him",
+              "The visit and recognition of illness",
+              "Levin's inability to speak honestly and his grief"
+            ]
+          },
+          {
+            "phase": "Deathbed compassion",
+            "chapter_range": [
+              140,
+              145
+            ],
+            "position_description": "Nikolay's dying body overwhelms Levin with horror, pity, and helpless love.",
+            "key_moments": [
+              "Seeing Nikolay near death",
+              "The sickroom and sacrament",
+              "Levin's tears and helplessness"
+            ]
+          }
+        ],
+        "evidence_summary": "Nikolay is a major source of Levin's confrontation with suffering and death, deepening from duty into tragic compassion."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Sergey Ivanovitch Koznishev",
+        "dimension_label": "brotherly respect",
+        "axis_name": "From defensive inferiority to qualified kinship",
+        "pole_start": "Begins as respectful but defensive, with Levin feeling patronized and reduced by his brother's intellect and public seriousness.",
+        "pole_end": "Ends as a relationship of respect and partial kinship, though still marked by difference in temperament, belief, and social style.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensiveness and distance",
+            "chapter_range": [
+              7,
+              24
+            ],
+            "position_description": "Levin resists being judged by Sergey Ivanovitch's polished intellect and public seriousness.",
+            "key_moments": [
+              "Philosophical debate in Moscow",
+              "Feeling patronized about farming and public life",
+              "Avoidance of direct emotional disclosure"
+            ]
+          },
+          {
+            "phase": "Practical friction",
+            "chapter_range": [
+              70,
+              73
+            ],
+            "position_description": "Their differences sharpen around labor, public duty, and the meaning of work, but the bond remains intact.",
+            "key_moments": [
+              "Argument about district self-government",
+              "Levin's need for physical labor to steady himself",
+              "Sergey Ivanovitch as observer and interlocutor"
+            ]
+          },
+          {
+            "phase": "Mature respect and partial convergence",
+            "chapter_range": [
+              183,
+              239
+            ],
+            "position_description": "Levin increasingly respects Sergey Ivanovitch's seriousness, even when he disagrees.",
+            "key_moments": [
+              "Elections and public life",
+              "Shared domestic and intellectual settings",
+              "Final spiritual peace alongside continued difference"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin never fully merges with Sergey Ivanovitch, but the relationship moves from wounded defensiveness toward stable, respectful brotherhood."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Nikolay Levin",
+        "dimension_label": "class kinship",
+        "axis_name": "From paternal suspicion to spiritual and practical kinship",
+        "pole_start": "Begins as a landowner who distrusts peasant sloppiness and resistance, even while feeling responsible for them.",
+        "pole_end": "Ends as a man who sees peasants as bearers of moral truth, practical wisdom, and the key to a meaningful life and agriculture.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Practical suspicion",
+            "chapter_range": [
+              47,
+              51
+            ],
+            "position_description": "He is irritated by incompetence and dishonesty in estate management and sees peasants as obstacles to his plans.",
+            "key_moments": [
+              "Bailiff failures",
+              "Forest sale and bargaining",
+              "Class resentment and practical distrust"
+            ]
+          },
+          {
+            "phase": "Labor solidarity",
+            "chapter_range": [
+              73,
+              81
+            ],
+            "position_description": "Mowing and haymaking create a sense of shared labor and admiration for peasant competence and communal life.",
+            "key_moments": [
+              "Mowing with Tit and the peasants",
+              "Admiration for peasant labor and family life",
+              "The peasant ideal as a possible life"
+            ]
+          },
+          {
+            "phase": "Agricultural and spiritual revelation",
+            "chapter_range": [
+              93,
+              104
+            ],
+            "position_description": "He becomes disillusioned with his own estate methods and then impressed by peasant household order and practical intelligence.",
+            "key_moments": [
+              "Collapse of faith in his farming system",
+              "Admiration for peasant household order",
+              "Recognition that peasants may know something he needs"
+            ]
+          },
+          {
+            "phase": "Spiritual authority",
+            "chapter_range": [
+              231,
+              233
+            ],
+            "position_description": "A peasant's words become the occasion for Levin's spiritual breakthrough.",
+            "key_moments": [
+              "Fyodor's remark about living for the soul",
+              "Levin's revelation about faith",
+              "Recognition that peasants live by truths he had lost"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin's relation to peasants moves from class tension and managerial suspicion to admiration, kinship, and spiritual dependence."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Alexey Vronsky",
+        "dimension_label": "rival recognition",
+        "axis_name": "From jealous hostility to uneasy recognition",
+        "pole_start": "Begins as a rival who embodies social polish, masculine success, and the threat of losing Kitty.",
+        "pole_end": "Ends as a socially acknowledged but emotionally secondary figure whom Levin can meet without open enmity.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Jealous rivalry",
+            "chapter_range": [
+              11,
+              15
+            ],
+            "position_description": "Vronsky is the man who displaces Levin in Kitty's affections and becomes the object of resentment and comparison.",
+            "key_moments": [
+              "Learning of Vronsky as rival",
+              "Painful comparison at the skating ground and ball",
+              "Kitty's rejection and Vronsky's social success"
+            ]
+          },
+          {
+            "phase": "Hostile avoidance",
+            "chapter_range": [
+              50,
+              64
+            ],
+            "position_description": "Levin remains suspicious and contemptuous, especially when Vronsky is linked to Kitty or social pretence.",
+            "key_moments": [
+              "Mention of Vronsky darkening Levin's mood",
+              "Class anger and resentment",
+              "Indirect social shadow around Kitty"
+            ]
+          },
+          {
+            "phase": "Reconciliation and social acceptance",
+            "chapter_range": [
+              190,
+              197
+            ],
+            "position_description": "Levin's hostility softens; he can meet Vronsky civilly and feel no active enmity.",
+            "key_moments": [
+              "Kitty's calm meeting with Vronsky",
+              "Levin's willingness to be friendly",
+              "Club reconciliation"
+            ]
+          }
+        ],
+        "evidence_summary": "Vronsky remains a major emotional reference point, but the relationship moves from rivalry and humiliation toward neutral coexistence."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_07",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Darya Alexandrovna Oblonskaya",
+        "dimension_label": "sympathetic trust",
+        "axis_name": "From indirect esteem to practical moral alliance",
+        "pole_start": "Begins as a respectful but indirect relation, with Levin valuing Dolly mainly through her support of Kitty and her domestic wisdom.",
+        "pole_end": "Ends as a trusted, sympathetic family ally whose honesty and practical kindness Levin relies on.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respect from afar",
+            "chapter_range": [
+              10,
+              15
+            ],
+            "position_description": "Levin esteems Dolly because she seems to recognize his future with Kitty and because her domestic judgment carries moral weight.",
+            "key_moments": [
+              "Oblonsky reports Dolly's belief that Kitty is meant for Levin",
+              "Levin's esteem rises without direct interaction"
+            ]
+          },
+          {
+            "phase": "Confiding domestic sympathy",
+            "chapter_range": [
+              78,
+              79
+            ],
+            "position_description": "Levin feels welcomed into Dolly's family life, but also vulnerable when Kitty is mentioned.",
+            "key_moments": [
+              "Warm reception at Dolly's",
+              "Conversation about Kitty",
+              "Levin's discomfort with domestic artificiality"
+            ]
+          },
+          {
+            "phase": "Practical family alliance",
+            "chapter_range": [
+              173,
+              191
+            ],
+            "position_description": "Levin helps Dolly materially and emotionally, and she becomes a conduit for family mediation.",
+            "key_moments": [
+              "Supporting Dolly's travel and comfort",
+              "Helping with family mediation",
+              "Her truthful reassurance about marriage and Kitty"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly functions as a moral witness, domestic ally, and source of truthful reassurance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_08",
+        "source_character": "Konstantin Dmitrievich Levin",
+        "target_character": "Anna Arkadyevna Karenina",
+        "dimension_label": "aesthetic sympathy",
+        "axis_name": "From moral caution to compassionate fascination",
+        "pole_start": "Begins as a morally cautious, socially uncertain observer who is aware of Anna mainly as a scandalous or distant figure.",
+        "pole_end": "Ends as a man deeply impressed by her beauty, intelligence, and suffering, though still morally cautious and not romantically committed.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cautious approach",
+            "chapter_range": [
+              198,
+              199
+            ],
+            "position_description": "Levin moves from moral hesitation to fascination as Anna's presence and portrait draw him in.",
+            "key_moments": [
+              "Questioning whether visiting Anna is proper",
+              "Seeing her portrait and then Anna herself",
+              "Immediate admiration and ease"
+            ]
+          },
+          {
+            "phase": "Compassionate absorption",
+            "chapter_range": [
+              199,
+              200
+            ],
+            "position_description": "He reads Anna as truthful and wounded, feels pity for her, and is emotionally moved by her presence.",
+            "key_moments": [
+              "Conversation with Anna",
+              "Feeling at home and stimulated",
+              "Returning home with lingering emotional disturbance"
+            ]
+          }
+        ],
+        "evidence_summary": "Anna produces a meaningful shift in Levin from moral distance to sympathetic fascination and pity."
+      }
+    ]
+  },
+  "Stepan Arkadyevitch Oblonsky": {
+    "character": "Stepan Arkadyevitch Oblonsky",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-indulgent social mastery to tactful relational mediation",
+            "set_b_axis": "From self-protective sociability to socially deployed communion",
+            "overlap_description": "Both describe Oblonsky's shift from charm and self-protection toward using sociability more deliberately for mediation, reassurance, and social repair, without a radical moral transformation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-indulgent social mastery to tactful relational mediation",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From shallow guilt to limited practical conscience",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From carefree self-image to aware but untroubled social pragmatist",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From evasive husband to partial domestic ally",
+            "set_b_axis": "From guilty estrangement to restored domestic intimacy",
+            "overlap_description": "Both track the marriage from betrayal and rupture toward a compromised but real domestic reconciliation, with warmth and functioning restored but trust never fully healed."
+          },
+          {
+            "set_a_axis": "From amused acquaintance to trusted mediator-friend",
+            "set_b_axis": "From amused acquaintance to trusted social mediator",
+            "overlap_description": "Both describe Levin as moving from a warm, lightly asymmetrical acquaintance into a trusted friend for whom Oblonsky becomes a tactful intermediary, host, and practical helper."
+          },
+          {
+            "set_a_axis": "From awkward civility to strategic mediation",
+            "set_b_axis": "From social civility to strained pragmatic mediation",
+            "overlap_description": "Both see the Karenin relation as beginning in polite distance and ending in instrumental mediation over Anna's divorce, with increasing strain and little genuine intimacy."
+          },
+          {
+            "set_a_axis": "From social familiarity to protective allegiance",
+            "set_b_axis": "From family convenience to loyal intermediary",
+            "overlap_description": "Both capture the Anna relation as evolving from family/social familiarity into active loyalty and protective mediation, especially around divorce and social legitimacy."
+          },
+          {
+            "set_a_axis": "From amused acquaintance to loyal admiration",
+            "set_b_axis": "From casual admiration to socially strategic alignment",
+            "overlap_description": "Both describe Vronsky as moving from pleasant social acquaintance toward a more integrated, tactful, and loyal alignment within Oblonsky's social world."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From evasive husband to partial domestic ally",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From social familiarity to protective allegiance",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From amused acquaintance to loyal admiration",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From guilty estrangement to restored domestic intimacy",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From family convenience to loyal intermediary",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From casual admiration to socially strategic alignment",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-protective sociability to socially deployed communion",
+        "pole_start": "Begins as a self-protective, pleasure-seeking man whose warmth serves mainly to restore his own comfort, preserve appearances, and manage social equilibrium. His agency appears through charm, evasion, and practical control rather than moral independence.",
+        "pole_end": "Ends as a still self-protective but more consciously relational mediator who uses communion both sincerely and tactically to soothe others, preserve harmony, and keep social life moving. He remains fundamentally self-possessed, but his sociability is more openly in service of connection.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Domestic shock and evasive recovery",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "He begins in shame and panic after the marital crisis, then quickly shifts into routine, jokes, and practical management. His warmth is real but mainly functions to avoid moral confrontation and restore order.",
+            "key_moments": [
+              "Remembers Dolly's discovery and feels shame",
+              "Tries to use routine and Anna's arrival to restore composure",
+              "Confronts Dolly with pity but returns to practical arrangements"
+            ]
+          },
+          {
+            "phase": "Social mastery as emotional defense",
+            "chapter_range": [
+              5,
+              18
+            ],
+            "position_description": "He becomes more securely himself in offices, restaurants, and social gatherings. He handles people with tact and humor, but his communion remains a tool for comfort, deflection, and emotional self-protection.",
+            "key_moments": [
+              "Acts effortlessly at work and with Levin",
+              "Uses dinner conversation to normalize marriage troubles",
+              "Is briefly shaken by the railway death, then returns to usefulness"
+            ]
+          },
+          {
+            "phase": "Mediator of other people's crises",
+            "chapter_range": [
+              20,
+              24
+            ],
+            "position_description": "His relational energy turns more openly toward helping others, especially Anna and Levin. He becomes a social intermediary whose communion is sincere enough to matter, though still not morally transformative.",
+            "key_moments": [
+              "Feels relief at Dolly's thaw",
+              "Moves through Anna's and Levin's social world as a connector",
+              "Helps create conditions for later meetings and reconciliations"
+            ]
+          },
+          {
+            "phase": "Stable social operator",
+            "chapter_range": [
+              48,
+              239
+            ],
+            "position_description": "He settles into a durable pattern: socially buoyant, tactful, and comfort-seeking, with occasional embarrassment or concern but no deep inward revision. His agency remains practical, while his communion becomes more consciously deployed for social ease and mediation.",
+            "key_moments": [
+              "Enjoys hunt, dinners, club life, and elections",
+              "Manages Anna's divorce negotiations and family logistics",
+              "Shows discomfort in religious and political settings but returns to mediation"
+            ]
+          }
+        ],
+        "evidence_summary": "Oblonsky does not undergo a radical moral conversion. He moves from panic-driven self-protection into a more settled form of socially effective communion, with his warmth increasingly used to soothe, connect, and manage others while preserving his own ease."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "moral conscience",
+        "axis_name": "From shallow guilt to limited practical conscience",
+        "pole_start": "Begins with fragmented guilt: he knows he has caused harm, but his shame centers on embarrassment, inconvenience, and being caught rather than on the moral reality of betrayal.",
+        "pole_end": "Ends with a broader but still limited conscience: he can recognize others' suffering, manage difficult situations responsibly, and feel real concern, yet he does not fully internalize moral accountability or transform his conduct.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Guilt without repentance",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "He admits fault in a split way, effectively saying it is his fault and yet not fully his blame. He feels Dolly's pain, but his concern is still mostly about restoring comfort and avoiding humiliation.",
+            "key_moments": [
+              "Names his fault while self-exculpating",
+              "Feels shame at Dolly's suffering and his own exposure",
+              "Wants the crisis to disappear rather than to repent"
+            ]
+          },
+          {
+            "phase": "Practical conscience",
+            "chapter_range": [
+              18,
+              24
+            ],
+            "position_description": "He begins to treat suffering more seriously, especially through Anna's mediation and the railway death, but this seriousness is translated into action rather than inward moral reckoning.",
+            "key_moments": [
+              "Is genuinely shaken by the railway accident",
+              "Uses Anna as a mediator for reconciliation",
+              "Feels the possibility that Dolly may not forgive him"
+            ]
+          },
+          {
+            "phase": "Moral pragmatism",
+            "chapter_range": [
+              109,
+              124
+            ],
+            "position_description": "During Anna's divorce crisis, he shows sincere concern and persistence, but frames the problem as something to be solved by tact, pity, and arrangement. His conscience is active, yet procedural rather than transformative.",
+            "key_moments": [
+              "Is shocked by Karenin's divorce announcement",
+              "Presses Karenin toward divorce out of sympathy for Anna",
+              "Feels moved by Karenin's self-sacrifice but turns it into practical success"
+            ]
+          },
+          {
+            "phase": "Limited responsibility",
+            "chapter_range": [
+              206,
+              217
+            ],
+            "position_description": "Under financial and social pressure, he becomes more visibly self-protective and evasive again, but he also continues to act as a practical intermediary. His conscience remains real, yet subordinated to convenience, status, and administrative resolution.",
+            "key_moments": [
+              "Feels humiliation and money pressure",
+              "Negotiates Anna's divorce through telegrams and visits",
+              "Withdraws emotionally when Anna's distress becomes too direct"
+            ]
+          }
+        ],
+        "evidence_summary": "Oblonsky's moral development is modest but real: he never becomes deeply repentant, yet he moves beyond pure embarrassment into a limited practical conscience that can register suffering and act to relieve it. The arc is one of expanded usefulness rather than full ethical conversion."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "social realism",
+        "axis_name": "From carefree self-image to aware social pragmatist",
+        "pole_start": "Begins with a self-image of being naturally charming, harmless, and socially gifted, with little awareness of how much his ease depends on evasion, privilege, and other people's labor.",
+        "pole_end": "Ends with a clearer recognition that social life is structured by influence, money, and arrangement, though he remains comfortable inside that system and does not fundamentally question it.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Naturalized charm",
+            "chapter_range": [
+              5,
+              11
+            ],
+            "position_description": "He experiences himself as a man who belongs effortlessly in offices, restaurants, and salons. He is aware of his own charm, but not of its costs or moral implications.",
+            "key_moments": [
+              "Enjoys office life and dinner conversation",
+              "Speaks of marriage and infidelity in pragmatic terms",
+              "Uses wit to avoid spiritual seriousness"
+            ]
+          },
+          {
+            "phase": "Social mediation as skill",
+            "chapter_range": [
+              17,
+              21
+            ],
+            "position_description": "He becomes more explicitly a connector among people, reading social situations quickly and using them to his advantage. He still sees this as natural competence rather than as a form of power.",
+            "key_moments": [
+              "Shifts sympathy between Levin and Vronsky",
+              "Uses Anna and Dolly as mediators in domestic crisis",
+              "Feels relief when reconciliation seems possible"
+            ]
+          },
+          {
+            "phase": "Pragmatic elite consciousness",
+            "chapter_range": [
+              182,
+              211
+            ],
+            "position_description": "In elections, appointments, and Petersburg society, he shows a sharper sense that status, influence, and networks determine outcomes. He is not morally transformed by this insight; he simply becomes more adept at operating within it.",
+            "key_moments": [
+              "Navigates political maneuvering and committee appointments",
+              "Seeks help from powerful social and religious figures",
+              "Feels discomfort in unfamiliar ideological settings but still pursues advantage"
+            ]
+          }
+        ],
+        "evidence_summary": "Oblonsky's self-understanding becomes more socially realistic over time: he increasingly sees life as a field of arrangements, favors, and tactful management. This does not make him more ethical, but it does make him more conscious of the mechanisms by which he thrives."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Stepan Arkadyevitch Oblonsky",
+        "target_character": "Darya Alexandrovna Oblonskaya",
+        "dimension_label": "marital trust",
+        "axis_name": "From guilty estrangement to restored domestic intimacy",
+        "pole_start": "Begins in guilt, fear, and emotional distance, with Dolly experienced as the injured moral center of the household and forgiveness seeming uncertain.",
+        "pole_end": "Ends in a restored but fragile intimacy: he is reconciled with her, affectionate and relieved, though still careful and aware that the wound has not vanished.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Crisis and rejection",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "He is ashamed, cornered, and emotionally shaken by Dolly's refusal to forgive him. Their intimacy remains domestic but trust is badly damaged.",
+            "key_moments": [
+              "Dolly discovers the affair",
+              "He feels her suffering and fears losing her",
+              "She rejects his appeals and he feels bewildered"
+            ]
+          },
+          {
+            "phase": "Mediated thaw",
+            "chapter_range": [
+              18,
+              21
+            ],
+            "position_description": "Anna helps soften the atmosphere, and Dolly's use of his familiar name signals that reconciliation is possible. He becomes hopeful and relieved as the domestic crisis eases.",
+            "key_moments": [
+              "Anna intervenes as mediator",
+              "Dolly calls him 'Stiva'",
+              "He feels reconciliation is again thinkable"
+            ]
+          },
+          {
+            "phase": "Stable but imperfect domestic peace",
+            "chapter_range": [
+              107,
+              128
+            ],
+            "position_description": "Their relationship is no longer the site of acute crisis. He treats her with warmth and familiarity, but the bond is maintained through tact, routine, and practical cooperation rather than innocence.",
+            "key_moments": [
+              "He greets her warmly in social and domestic scenes",
+              "They coordinate wedding logistics and household arrangements",
+              "He remains affectionate but not deeply self-reforming"
+            ]
+          },
+          {
+            "phase": "Later family equilibrium",
+            "chapter_range": [
+              158,
+              236
+            ],
+            "position_description": "Their relationship settles into a durable, if compromised, family intimacy. He remains dependent on her practical competence and social goodwill, while she continues to bear much of the emotional and domestic burden.",
+            "key_moments": [
+              "Approves of the family summer arrangement",
+              "Uses her as a practical and social anchor",
+              "Is still associated with her through debts, messages, and family mediation"
+            ]
+          }
+        ],
+        "evidence_summary": "The Dolly relationship is the clearest arc in Oblonsky's novel: from acute marital rupture to a managed, affectionate, and socially functional intimacy. Trust never returns to innocence, but domestic closeness is restored through tact and habit."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Stepan Arkadyevitch Oblonsky",
+        "target_character": "Konstantin Dmitrievitch Levin",
+        "dimension_label": "friendship depth",
+        "axis_name": "From amused acquaintance to trusted social mediator",
+        "pole_start": "Begins as a warm but lightly superior acquaintance, amused by Levin's seriousness and awkwardness, with little sense that he will become emotionally important to Levin.",
+        "pole_end": "Ends as a trusted, affectionate, and tactically useful friend who repeatedly mediates Levin's emotional life, helps him socially, and is treated as a reliable companion.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Amused familiarity",
+            "chapter_range": [
+              5,
+              11
+            ],
+            "position_description": "He likes Levin and enjoys his company, but treats him as earnest, awkward, and somewhat odd. Their bond is warm but asymmetrical.",
+            "key_moments": [
+              "Receives Levin warmly at the office and restaurant",
+              "Teases him gently about Kitty and marriage",
+              "Uses social tact to keep Levin comfortable"
+            ]
+          },
+          {
+            "phase": "Emotional bridge",
+            "chapter_range": [
+              17,
+              21
+            ],
+            "position_description": "He becomes a genuine social bridge between Levin and the Shtcherbatskys, and later between Levin and Anna. His sympathy is flexible, but his role as mediator becomes central.",
+            "key_moments": [
+              "Shares gossip and matchmaking intelligence",
+              "Helps Levin navigate Kitty's situation",
+              "Brings Levin into contact with Anna and other social circles"
+            ]
+          },
+          {
+            "phase": "Companion in marriage and society",
+            "chapter_range": [
+              48,
+              128
+            ],
+            "position_description": "He is now a dependable friend in practical and emotional matters, helping with the forest sale, wedding logistics, and social introductions. Levin trusts him even when he disagrees with him.",
+            "key_moments": [
+              "Hunts and dines with Levin",
+              "Argues lightly over the forest sale",
+              "Supports Levin through wedding preparations and ceremony"
+            ]
+          },
+          {
+            "phase": "Late-life social friendship",
+            "chapter_range": [
+              163,
+              200
+            ],
+            "position_description": "He remains a warm, tactful, and socially stabilizing presence in Levin's life, even when Levin is jealous or morally serious. Their bond is durable, affectionate, and practically important.",
+            "key_moments": [
+              "Hosts Levin at the country house and shooting trip",
+              "Responds to Levin's jealousy with tact and humor",
+              "Brings Levin to Anna and helps soften his judgment"
+            ]
+          }
+        ],
+        "evidence_summary": "Levin is one of the few characters with whom Oblonsky develops a sustained, meaningful bond. The relationship deepens from amused familiarity into a trusted friendship in which Oblonsky repeatedly acts as mediator, host, and social translator."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Stepan Arkadyevitch Oblonsky",
+        "target_character": "Anna Arkadyevna Karenina",
+        "dimension_label": "mediation-loyalty",
+        "axis_name": "From family convenience to loyal intermediary",
+        "pole_start": "Begins as a family relation of convenience and social familiarity, with Anna initially serving as a possible mediator in his own domestic crisis.",
+        "pole_end": "Ends as a loyal, practical ally who works to secure her divorce, protect her dignity, and help normalize her social position, though still through tact rather than moral depth.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Family support in his crisis",
+            "chapter_range": [
+              2,
+              4
+            ],
+            "position_description": "He greets her arrival with hope, seeing her as a possible mediator in his marital trouble. She is family support and social help before she becomes his cause.",
+            "key_moments": [
+              "Anna arrives as a possible reconciler with Dolly",
+              "He feels relief and hope at her presence",
+              "She helps soften the domestic atmosphere"
+            ]
+          },
+          {
+            "phase": "Social ally and confidante",
+            "chapter_range": [
+              18,
+              21
+            ],
+            "position_description": "He comes to rely on Anna as a sympathetic interpreter of his own domestic situation. Their relationship becomes warmer and more emotionally trusting.",
+            "key_moments": [
+              "He is grateful for her intervention with Dolly",
+              "He trusts her as a family mediator",
+              "He feels relief when reconciliation is possible"
+            ]
+          },
+          {
+            "phase": "Anna's advocate",
+            "chapter_range": [
+              109,
+              124
+            ],
+            "position_description": "He shifts decisively into the role of Anna's defender and negotiator. He is shocked by Karenin's divorce announcement and then works actively to secure a practical settlement for Anna.",
+            "key_moments": [
+              "Presses Karenin to consider divorce",
+              "Speaks of Anna with admiration and loyalty",
+              "Acts as messenger and facilitator of the settlement"
+            ]
+          },
+          {
+            "phase": "Continued practical loyalty",
+            "chapter_range": [
+              206,
+              217
+            ],
+            "position_description": "Even when the situation becomes more difficult and emotionally cold, he remains a practical intermediary. His loyalty persists, though it is increasingly filtered through administrative action and social convenience.",
+            "key_moments": [
+              "Sends telegrams about the divorce",
+              "Continues to manage the legal and social process",
+              "Keeps Anna's interests in view while avoiding direct emotional confrontation"
+            ]
+          }
+        ],
+        "evidence_summary": "Oblonsky's relation to Anna evolves from family familiarity into active loyalty. He never becomes a tragic participant, but he does become a dependable intermediary who helps her navigate divorce and social legitimacy."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Stepan Arkadyevitch Oblonsky",
+        "target_character": "Alexey Alexandrovitch Karenin",
+        "dimension_label": "civility-tension",
+        "axis_name": "From social civility to strained pragmatic mediation",
+        "pole_start": "Begins with ordinary social civility and a willingness to smooth over awkwardness, but with little real intimacy or trust.",
+        "pole_end": "Ends in a strained, instrumental relationship marked by tactical politeness, moral discomfort, and practical negotiation over Anna's divorce.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Polite distance",
+            "chapter_range": [
+              30,
+              33
+            ],
+            "position_description": "He greets Karenin with habitual ironic civility, keeping the interaction smooth but emotionally shallow.",
+            "key_moments": [
+              "Polite, sarcastic greeting",
+              "Maintains formal marital and social distance",
+              "Keeps the encounter within social propriety"
+            ]
+          },
+          {
+            "phase": "Shock and mediation",
+            "chapter_range": [
+              107,
+              124
+            ],
+            "position_description": "Karenin's divorce announcement shocks him, but he quickly shifts into mediation mode, trying to persuade him toward a practical settlement.",
+            "key_moments": [
+              "Is startled by Karenin's announcement",
+              "Appeals to Dolly and Christian duty",
+              "Presses for divorce as the humane solution"
+            ]
+          },
+          {
+            "phase": "Religious and bureaucratic strain",
+            "chapter_range": [
+              210,
+              217
+            ],
+            "position_description": "He becomes increasingly uneasy and detached in Karenin's religious circle, then more administratively focused as the divorce process continues. The relationship is now defined by procedure and discomfort rather than social ease.",
+            "key_moments": [
+              "Feels alienated in Lidia Ivanovna's salon",
+              "Learns Karenin's refusal has been fixed by influence",
+              "Continues to manage the divorce through messages and errands"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin is never a close relation, but he becomes a major practical and moral counterpart in Oblonsky's life. The relationship moves from polite distance to strained mediation, with Oblonsky repeatedly trying to convert conflict into a workable arrangement."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Stepan Arkadyevitch Oblonsky",
+        "target_character": "Count Alexey Vronsky",
+        "dimension_label": "social alignment",
+        "axis_name": "From casual admiration to socially strategic alignment",
+        "pole_start": "Begins as a friendly acquaintance admired for charm and status, but not yet central to Oblonsky's social maneuvering.",
+        "pole_end": "Ends as a socially useful and strategically aligned figure within Oblonsky's network, especially in the Anna/divorce and elite society contexts.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Admiring acquaintance",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "He sees Vronsky as handsome, rich, and socially impressive, and he is pleased by his company. The relation is warm but still mostly social.",
+            "key_moments": [
+              "Speaks of Vronsky with admiration",
+              "Enjoys his generosity and presence",
+              "Uses him as part of the social field around Kitty and Anna"
+            ]
+          },
+          {
+            "phase": "Practical ally in Anna's world",
+            "chapter_range": [
+              107,
+              124
+            ],
+            "position_description": "As Anna's situation becomes central, Vronsky becomes part of the practical social arrangement Oblonsky is helping to manage. He treats him as a legitimate and increasingly important participant.",
+            "key_moments": [
+              "Greets Vronsky cordially",
+              "Supports the social normalization of Anna and Vronsky",
+              "Helps move toward the divorce settlement"
+            ]
+          },
+          {
+            "phase": "Elite social companion",
+            "chapter_range": [
+              182,
+              223
+            ],
+            "position_description": "In later political and social scenes, Vronsky is simply one of the elite men with whom Oblonsky moves comfortably. Their relationship is easy, tactful, and socially coordinated.",
+            "key_moments": [
+              "Shares race-course and club sociability",
+              "Moves in the same Petersburg circles",
+              "Treats Vronsky as part of the accepted social order"
+            ]
+          }
+        ],
+        "evidence_summary": "Vronsky becomes less a romantic rival or scandalous figure than a socially integrated acquaintance. Oblonsky's relation to him is marked by tactful approval and practical alignment, especially once Anna's future depends on social arrangement."
+      }
+    ]
+  },
+  "Darya Alexandrovna Oblonskaya": {
+    "character": "Darya Alexandrovna Oblonskaya",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From trapped marital communion to bounded maternal agency",
+            "set_b_axis": "From wounded self-protection to chosen domestic interdependence",
+            "overlap_description": "Both describe Dolly moving from injury-driven marital distress toward a more self-possessed, bounded form of relational agency centered on family and household stewardship rather than escape."
+          },
+          {
+            "set_a_axis": "From wounded certainty to morally complicated sympathy",
+            "set_b_axis": "From outraged certainty to conflicted moral realism",
+            "overlap_description": "Both track a shift from rigid moral judgment about adultery and divorce toward a more nuanced, sympathetic, and psychologically informed moral outlook."
+          },
+          {
+            "set_a_axis": "From burdened mother to proud, then chastened, maternal identity",
+            "set_b_axis": "From unconscious sacrifice to partial self-recognition",
+            "overlap_description": "Both focus on motherhood as central to Dolly's identity, showing it moving from burden and sacrifice toward greater self-awareness, pride, and a more sober understanding of its costs."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From burdened mother to proud, then chastened, maternal identity",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From raw collapse to disciplined endurance",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From betrayed intimacy to bounded, conditional attachment",
+            "set_b_axis": "From betrayed wife to guarded domestic partner",
+            "overlap_description": "Both describe the Stiva relationship as moving from betrayal and rupture to a compromised but functioning marriage with limited trust and restored domestic coexistence."
+          },
+          {
+            "set_a_axis": "From moral curiosity to intimate, troubled solidarity",
+            "set_b_axis": "From wary acquaintance to intimate, conflicted sympathy",
+            "overlap_description": "Both capture Dolly's relationship with Anna as developing into deep intimacy and sympathy while retaining moral unease and eventual emotional distance."
+          },
+          {
+            "set_a_axis": "From protective sympathy to reciprocal sisterhood",
+            "set_b_axis": "From maternal concern to intimate sisterly solidarity",
+            "overlap_description": "Both present the Kitty bond as evolving from asymmetrical care into a warm, reciprocal, sister-like intimacy grounded in shared domestic and maternal experience."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From cordial respect to slightly strained but enduring regard",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From burdened care to identity-defining maternal attachment",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From wounded marital self-protection to chosen domestic interdependence",
+        "pole_start": "Dolly begins in hurt, indignation, and a strong impulse to separate herself from Stiva after his betrayal, trying to preserve dignity and emotional safety.",
+        "pole_end": "She ends still deeply communal, but more self-possessed: her agency is expressed through bounded domestic stewardship, maternal care, and chosen participation in family life rather than helpless fusion.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Marital rupture and defensive withdrawal",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "She is devastated by infidelity and tries to create distance, but the impulse to leave is driven by injury and cannot fully overcome attachment and responsibility.",
+            "key_moments": [
+              "Discovers Stiva's adultery",
+              "Repelled by his smile and evasiveness",
+              "Tries to pack and leave",
+              "Cannot separate because of the children and lingering love"
+            ]
+          },
+          {
+            "phase": "Re-anchoring through duty and sympathy",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "Anna's sympathy and the demands of family life draw her back into practical coexistence; she begins to act with more deliberate control rather than raw reaction.",
+            "key_moments": [
+              "Confides in Anna and feels understood",
+              "Accepts that forgiveness must be complete if it occurs",
+              "Resumes household management",
+              "Moves from collapse toward controlled domestic functioning"
+            ]
+          },
+          {
+            "phase": "Maternal consolidation",
+            "chapter_range": [
+              76,
+              80
+            ],
+            "position_description": "Her center of gravity shifts toward children and home, where she experiences both pride and a more stable sense of self within interdependence.",
+            "key_moments": [
+              "Finds joy in the children's small pleasures",
+              "Recognizes motherhood as her true sphere",
+              "Feels affirmed in domestic competence"
+            ]
+          },
+          {
+            "phase": "Bounded domestic authority",
+            "chapter_range": [
+              125,
+              239
+            ],
+            "position_description": "She remains relationally warm but now with firmer boundaries, expressing agency through practical stewardship, refusal, and moral judgment rather than self-erasure.",
+            "key_moments": [
+              "Refuses to sign away property for Stiva's debts",
+              "Supports family crises with calm practicality",
+              "Acts as a moral intermediary by choice",
+              "Preserves her own household interests"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly's arc moves from injury-driven attempts at separation toward a more mature domestic interdependence. She does not become independent in an isolating sense; instead, she learns to inhabit communion with clearer boundaries, stronger judgment, and practical authority."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "moral realism",
+        "axis_name": "From outraged certainty to conflicted moral realism",
+        "pole_start": "She begins with sharp moral certainty: adultery is intolerable, Stiva is guilty, and domestic duty defines the proper order of life.",
+        "pole_end": "She ends with a more complex moral intelligence: she still values fidelity and duty, but can hold contradiction, pity suffering on multiple sides, and recognize the limits of her own framework.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial moral outrage",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Her judgments are absolute and injury-driven; betrayal is a moral catastrophe and reconciliation seems impossible without genuine repentance.",
+            "key_moments": [
+              "Rejects Stiva's ingratiating behavior",
+              "Threatens separation",
+              "Frames the crisis in terms of dishonor and moral injury"
+            ]
+          },
+          {
+            "phase": "Conditional forgiveness and widening sympathy",
+            "chapter_range": [
+              19,
+              114
+            ],
+            "position_description": "She becomes less rigid, able to imagine forgiveness and to see complexity in Anna, Vronsky, and Karenin, while still judging from within her moral world.",
+            "key_moments": [
+              "Anna's sympathy makes forgiveness thinkable",
+              "Feels pity for Karenin",
+              "Recognizes Vronsky's seriousness",
+              "Uses her own suffering as a moral lens"
+            ]
+          },
+          {
+            "phase": "Uneasy moral pluralism",
+            "chapter_range": [
+              173,
+              181
+            ],
+            "position_description": "Her sympathy for Anna deepens, but so does her discomfort with Anna's logic about children, divorce, and domestic life; she can no longer fully reconcile the competing truths.",
+            "key_moments": [
+              "Accepts Anna's confession with love",
+              "Is unsettled by Anna's artificial domesticity",
+              "Feels a barrier open over Anna's views on children",
+              "Leaves compassionate but morally estranged"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly does not abandon her convictions, but she becomes less absolute and more humane. Her moral life shifts from judgment rooted in injury toward a conflicted realism that can combine sympathy, principle, and recognition of irreconcilable difference."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-knowledge",
+        "axis_name": "From unconscious sacrifice to partial self-recognition",
+        "pole_start": "She begins largely absorbed in injury, duty, and immediate practical response, with little explicit reflection on her own needs or the structure of her sacrifice.",
+        "pole_end": "She ends with partial but meaningful self-knowledge: she recognizes her dependence, resentment, attraction to domestic order, and the emotional costs of the life she has accepted.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Reactive suffering",
+            "chapter_range": [
+              1,
+              18
+            ],
+            "position_description": "Her attention is outward and reactive: she manages children, endures betrayal, and suppresses her own needs.",
+            "key_moments": [
+              "Initial shock over Stiva's infidelity",
+              "Maternal concern prevents departure",
+              "Supports others while suppressing herself"
+            ]
+          },
+          {
+            "phase": "First reflective openings",
+            "chapter_range": [
+              28,
+              37
+            ],
+            "position_description": "She begins to notice her own emotional habits and social role, especially in relation to Anna and Kitty, becoming more aware of her reactions.",
+            "key_moments": [
+              "Notices Anna's vulnerability",
+              "Feels wounded by Kitty's comparison",
+              "Continues to forgive and return to care"
+            ]
+          },
+          {
+            "phase": "Maternal self-recognition",
+            "chapter_range": [
+              76,
+              80
+            ],
+            "position_description": "She explicitly recognizes that her happiness is bound up with anxiety and care, and that her identity is organized around the children.",
+            "key_moments": [
+              "Tests whether her admiration for the children is bias",
+              "Realizes anxiety is part of her emotional survival",
+              "Finds meaning in motherhood"
+            ]
+          },
+          {
+            "phase": "Existential self-questioning",
+            "chapter_range": [
+              173,
+              181
+            ],
+            "position_description": "Her self-knowledge deepens sharply as she reflects on bodily suffering, dependence, repeated childbearing, and the possibility that her life has been endured rather than chosen.",
+            "key_moments": [
+              "Meditates on pregnancy and dependence",
+              "Imagines another life for herself",
+              "Recognizes Anna's reasoning echoes private thoughts"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly moves from a largely unreflective role as injured wife and dutiful mother toward a more conscious understanding of her sacrifices, desires, and limits. She never becomes radically self-assertive, but she does become more aware of the emotional and moral cost of her life."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "resilience",
+        "axis_name": "From raw collapse to disciplined endurance",
+        "pole_start": "She begins near collapse: devastated, physically shaken, and emotionally overwhelmed by betrayal and humiliation.",
+        "pole_end": "She ends with disciplined endurance: still burdened, but capable of steady domestic functioning, practical judgment, and emotional containment.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Emotional collapse",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "She is in acute distress, trembling, shrieking, and nearly unable to bear the situation.",
+            "key_moments": [
+              "Discovery of adultery",
+              "Confrontation with Stiva",
+              "Physical and emotional exhaustion"
+            ]
+          },
+          {
+            "phase": "Recovery through duty",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "She regains composure through conversation, domestic management, and the practical demands of family life.",
+            "key_moments": [
+              "Anna's sympathy calms her",
+              "Household order is restored",
+              "She resumes practical management"
+            ]
+          },
+          {
+            "phase": "Sustained domestic competence",
+            "chapter_range": [
+              76,
+              129
+            ],
+            "position_description": "She becomes a reliable organizer and caregiver, able to absorb strain into routine and function effectively under pressure.",
+            "key_moments": [
+              "Manages children, guests, and household logistics",
+              "Supports Kitty through wedding and childbirth",
+              "Maintains composure in social and domestic crises"
+            ]
+          },
+          {
+            "phase": "Late steady endurance",
+            "chapter_range": [
+              171,
+              239
+            ],
+            "position_description": "She remains emotionally burdened but highly functional, with distress increasingly translated into practical care and moral steadiness.",
+            "key_moments": [
+              "Handles Anna visit and family tensions",
+              "Supports childbirth and financial worries",
+              "Continues to act as a stabilizing domestic presence"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly's arc is not toward liberation but toward hard-won resilience. She does not escape suffering; instead, she learns to live inside it with increasing competence, self-control, and practical authority."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Darya Alexandrovna Oblonskaya",
+        "target_character": "Stepan Arkadyevitch Oblonsky",
+        "dimension_label": "trust-intimacy",
+        "axis_name": "From betrayed wife to guarded domestic partner",
+        "pole_start": "Dolly begins as a betrayed, disgusted wife with very low trust and intimacy, experiencing Stiva as morally culpable and emotionally intolerable.",
+        "pole_end": "She ends as a guarded but functioning domestic partner: trust remains low, but intimacy is partially restored through family life, shared routines, and continued cohabitation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Rupture and rejection",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "She rejects him, refuses easy reconciliation, and experiences him as repulsive and shameful.",
+            "key_moments": [
+              "Discovery of infidelity",
+              "Refusal to see him",
+              "Threatened departure",
+              "Moral outrage"
+            ]
+          },
+          {
+            "phase": "Practical reconciliation",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "She softens enough to allow domestic coexistence and some banter, though she remains wounded and skeptical.",
+            "key_moments": [
+              "Speaks to him more familiarly",
+              "Household peace is restored",
+              "Manages the home while keeping distance"
+            ]
+          },
+          {
+            "phase": "Stable but compromised marriage",
+            "chapter_range": [
+              76,
+              239
+            ],
+            "position_description": "Their relationship becomes a working domestic arrangement: she remains critical of his irresponsibility, but the marriage persists as a practical and familial structure.",
+            "key_moments": [
+              "Continues to rely on him socially and financially at times",
+              "Maintains ironic distance",
+              "Refuses to surrender her own interests",
+              "Coexists with him without renewed rupture"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly never fully trusts or esteems Stiva again, but the relationship changes from open rupture to a compromised, functioning domestic partnership. The emotional center shifts from betrayal to endurance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Darya Alexandrovna Oblonskaya",
+        "target_character": "Anna Karenina",
+        "dimension_label": "sympathy-distance",
+        "axis_name": "From wary acquaintance to intimate, conflicted sympathy",
+        "pole_start": "Dolly begins with caution and moral distance: Anna is initially a socially important visitor and possible mediator rather than a close confidante.",
+        "pole_end": "She ends in warm but conflicted intimacy: deeply admiring and pitying Anna, yet also embarrassed, morally uneasy, and compelled to withdraw from Anna's world.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Mediator and outsider",
+            "chapter_range": [
+              2,
+              18
+            ],
+            "position_description": "Anna is first encountered as a socially important visitor; Dolly is receptive but not yet intimate.",
+            "key_moments": [
+              "Anna arrives as a possible mediator",
+              "Dolly is open to her sympathy",
+              "Early trust begins to form"
+            ]
+          },
+          {
+            "phase": "Confiding intimacy",
+            "chapter_range": [
+              19,
+              29
+            ],
+            "position_description": "Anna becomes the person who truly understands Dolly's marital pain; the relationship warms into genuine emotional trust.",
+            "key_moments": [
+              "Dolly confides in Anna about Stiva",
+              "Anna's sympathy calms and validates her",
+              "Dolly feels grateful and less alone"
+            ]
+          },
+          {
+            "phase": "Moral and emotional complication",
+            "chapter_range": [
+              173,
+              181
+            ],
+            "position_description": "Dolly's sympathy deepens, but so does her discomfort: she sees Anna's beauty, vitality, and suffering while recoiling from the irregularity of Anna's life.",
+            "key_moments": [
+              "Visits Anna and feels embarrassed by the contrast in their lives",
+              "Listens to Anna and Vronsky's case for divorce",
+              "Feels both pity and moral distance"
+            ]
+          },
+          {
+            "phase": "Compassionate withdrawal",
+            "chapter_range": [
+              181,
+              217
+            ],
+            "position_description": "She remains affectionate but increasingly protective of her own moral equilibrium, leaving Anna's world with renewed attachment to home and children.",
+            "key_moments": [
+              "Leaves Anna's household relieved",
+              "Receives Anna awkwardly later",
+              "Feels Anna's distress but keeps emotional boundaries"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly's relationship with Anna becomes one of her most important emotional bonds: it moves from cautious acquaintance to intimate sympathy, then to a conflicted compassion shaped by Dolly's need to preserve her own domestic and moral world."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Darya Alexandrovna Oblonskaya",
+        "target_character": "Konstantin Levin",
+        "dimension_label": "mutual esteem",
+        "axis_name": "From cordial respect to slightly strained but enduring regard",
+        "pole_start": "She begins with warm social regard and appreciation for Levin's sincerity, especially when he values her domestic life.",
+        "pole_end": "She ends still cordial and respectful, but with a small distance created by his judgments and by the fact that his inner life often exceeds her practical framing.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Warm appreciation",
+            "chapter_range": [
+              78,
+              79
+            ],
+            "position_description": "She is pleased to be seen by him in her maternal role and values his sympathy.",
+            "key_moments": [
+              "Proudly receives Levin at Ergushovo",
+              "Feels affirmed in her domestic glory",
+              "Is unsettled when he criticizes her French with the children"
+            ]
+          },
+          {
+            "phase": "Trusted confidante and practical ally",
+            "chapter_range": [
+              110,
+              172
+            ],
+            "position_description": "She becomes a perceptive, supportive interlocutor who understands his discomfort and helps manage household tensions.",
+            "key_moments": [
+              "Sees the harmony between Kitty and Levin",
+              "Recognizes his distress over Veslovsky",
+              "Helps restore domestic humor after the conflict"
+            ]
+          },
+          {
+            "phase": "Cordial distance",
+            "chapter_range": [
+              177,
+              204
+            ],
+            "position_description": "She continues to esteem him, but his romantic intensity and occasional incomprehension of her practical life keep the relationship from becoming fully intimate.",
+            "key_moments": [
+              "Finds him admirable at the hospital",
+              "He is privately displeased by her congratulatory farewell",
+              "She remains a trusted family presence during Kitty's labor"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly and Levin share a stable, respectful relationship marked by mutual moral seriousness. It changes less dramatically than her bonds with Stiva or Anna, but it does develop from cordiality into a slightly more complex mix of esteem, trust, and mild distance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Darya Alexandrovna Oblonskaya",
+        "target_character": "Kitty Shcherbatskaya",
+        "dimension_label": "sisterly solidarity",
+        "axis_name": "From protective concern to intimate sisterly solidarity",
+        "pole_start": "Dolly begins as an affectionate older friend and practical protector concerned for Kitty's welfare.",
+        "pole_end": "She ends in deep sisterly intimacy: one of Kitty's closest emotional supports, sharing domestic life, childbirth, and marital happiness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Concern and mediation",
+            "chapter_range": [
+              19,
+              37
+            ],
+            "position_description": "She is protective of Kitty and tries to help manage romantic and social tensions around Levin and Kitty.",
+            "key_moments": [
+              "Comforts Kitty after emotional distress",
+              "Helps interpret Levin's situation",
+              "Maintains a maternal, supportive stance"
+            ]
+          },
+          {
+            "phase": "Shared domestic life",
+            "chapter_range": [
+              76,
+              129
+            ],
+            "position_description": "Their relationship deepens through shared household life, wedding preparations, and mutual support.",
+            "key_moments": [
+              "Kitty visits and joins domestic routines",
+              "Dolly supports the wedding",
+              "They share family and maternal concerns"
+            ]
+          },
+          {
+            "phase": "Intimate solidarity in crisis",
+            "chapter_range": [
+              171,
+              204
+            ],
+            "position_description": "They become emotionally and practically interdependent during Kitty's pregnancy and childbirth, with Dolly acting as a steady, compassionate helper.",
+            "key_moments": [
+              "Worries over Kitty's condition",
+              "Supports Kitty during labor",
+              "Shares in the emotional intensity of childbirth"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly and Kitty develop into a deeply intimate, sisterly bond grounded in shared domestic life, maternal feeling, and mutual trust. Dolly's role is consistently protective and emotionally sustaining."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Darya Alexandrovna Oblonskaya",
+        "target_character": "Children",
+        "dimension_label": "maternal attachment",
+        "axis_name": "From burdened care to identity-defining maternal attachment",
+        "pole_start": "Dolly begins as a mother overwhelmed by practical burden and anxiety, with the children important but not yet fully revealed as the center of her emotional life.",
+        "pole_end": "She ends with the children as the core of her happiness, pride, and self-understanding; her attachment is tender, protective, and identity-forming.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Protective burden",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "The children are a reason she cannot leave Stiva, but they are still part of the crisis rather than the source of joy.",
+            "key_moments": [
+              "Recognizes she cannot abandon the children",
+              "Maternal duty blocks separation",
+              "Children are part of the household crisis"
+            ]
+          },
+          {
+            "phase": "Maternal validation",
+            "chapter_range": [
+              76,
+              77
+            ],
+            "position_description": "She discovers that the children are not merely duties but genuine sources of delight, beauty, and meaning.",
+            "key_moments": [
+              "Finds happiness in their small joys",
+              "Recognizes their charm and individuality",
+              "Feels maternal pride"
+            ]
+          },
+          {
+            "phase": "Vulnerable pride",
+            "chapter_range": [
+              79,
+              80
+            ],
+            "position_description": "Her children become emotionally central, but also a source of pain when they misbehave or disappoint her ideals of goodness.",
+            "key_moments": [
+              "Children's quarrel shakes her maternal confidence",
+              "Feels disillusioned by their brutality",
+              "Still returns to care and forgiveness"
+            ]
+          },
+          {
+            "phase": "Stable maternal identity",
+            "chapter_range": [
+              126,
+              239
+            ],
+            "position_description": "Her identity is fully organized around the children: their safety, education, health, and happiness are her primary emotional commitments.",
+            "key_moments": [
+              "Manages their lessons and welfare",
+              "Protects them during illness and storms",
+              "Continues to center her life on them"
+            ]
+          }
+        ],
+        "evidence_summary": "Dolly's relationship to her children becomes increasingly central and defining. What begins as a burden of duty develops into the main source of her happiness, pride, and emotional meaning."
+      }
+    ]
+  },
+  "Alexey Alexandrovitch Karenin": {
+    "character": "Alexey Alexandrovitch Karenin",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From bureaucratic self-sufficiency to wounded, then spiritually mediated communion",
+            "set_b_axis": "From formal self-mastery to wounded, then compassionate relational openness",
+            "overlap_description": "Both describe Karenin's movement from controlled, bureaucratic self-containment toward greater compassion, tenderness, and spiritually mediated openness, while noting that this change remains partial and constrained."
+          },
+          {
+            "set_a_axis": "From moral severity to pitying forgiveness",
+            "set_b_axis": "From procedural legality to chastened moral complexity",
+            "overlap_description": "Both track a shift from rigid, punitive moralism toward mercy, pity, and a more complex moral stance that still retains principle and religious seriousness."
+          },
+          {
+            "set_a_axis": "From dignified official to humiliated sufferer",
+            "set_b_axis": "From blind self-justification to partial recognition of loneliness and need",
+            "overlap_description": "Both focus on the collapse of Karenin's self-image under humiliation and his later recognition of loneliness, dependence, and emotional inadequacy."
+          },
+          {
+            "set_a_axis": "From denial and routine to painful self-knowledge",
+            "set_b_axis": "From blind self-justification to partial recognition of loneliness and need",
+            "overlap_description": "Both emphasize his movement away from repression and self-deception toward painful awareness of his emotional barrenness and the limits of his former defenses."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From bureaucratic self-sufficiency to wounded, then spiritually mediated communion",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From moral severity to pitying forgiveness",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From dignified official to humiliated sufferer",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From denial and routine to painful self-knowledge",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From formal self-mastery to wounded, then compassionate relational openness",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From procedural legality to chastened moral complexity",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From blind self-justification to partial recognition of loneliness and need",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From brittle composure to fragile, then recontained, feeling",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From formal husbandhood to broken, then pitying attachment",
+            "set_b_axis": "From formal husbandly distance to pitying forgiveness and then guarded separation",
+            "overlap_description": "Both describe the marriage as moving from cold formality through crisis and forgiveness into a broken but morally transformed separation."
+          },
+          {
+            "set_a_axis": "From cold rival to morally acknowledged adversary",
+            "set_b_axis": "From contemptuous non-recognition to morally serious rivalry and then reluctant tolerance",
+            "overlap_description": "Both track Karenin's relation to Vronsky from cold hostility and rivalry toward a softened, morally elevated stance that includes forgiveness or tolerance."
+          },
+          {
+            "set_a_axis": "From formal fatherhood to anxious custodianship",
+            "set_b_axis": "From formal fatherhood to protective, wounded, and morally possessive attachment",
+            "overlap_description": "Both show the father-son bond deepening from duty and distance into a more emotionally significant, protective attachment centered on custody and responsibility."
+          },
+          {
+            "set_a_axis": "From social intermediary to spiritual caretaker",
+            "set_b_axis": "From respected ally to spiritual refuge and co-author of his moral world",
+            "overlap_description": "Both present Lidia Ivanovna as increasingly central to Karenin's moral and emotional life, evolving from useful ally to spiritual caretaker and source of guidance."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From formal husbandhood to broken, then pitying attachment",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From cold rival to morally acknowledged adversary",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From formal fatherhood to anxious custodianship",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From social intermediary to spiritual caretaker",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From formal husbandly distance to pitying forgiveness and then guarded separation",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From contemptuous non-recognition to morally serious rivalry and then reluctant tolerance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From formal fatherhood to protective, wounded, and morally possessive attachment",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From respected ally to spiritual refuge and co-author of his moral world",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From formal self-mastery to wounded, then compassionate relational openness",
+        "pole_start": "High agency, low communion: Karenin begins as a self-contained bureaucratic husband and official who relies on formality, duty, and public role to master feeling and maintain control.",
+        "pole_end": "He remains structurally agentic, but with a notable increase in communion: he becomes capable of pity, forgiveness, tenderness, and spiritual receptivity, though this openness stays fragile and partly recontained by duty and religion.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Habitual formal mastery",
+            "chapter_range": [
+              30,
+              41
+            ],
+            "position_description": "He begins as cool, controlled, and socially polished, expressing agency through etiquette, bureaucratic competence, and emotional distance rather than intimacy.",
+            "key_moments": [
+              "Sarcastic, controlled greeting of Anna",
+              "Cold dismissal of Vronsky while preserving appearances",
+              "Punctual public work and formal domesticity"
+            ]
+          },
+          {
+            "phase": "Crisis of control",
+            "chapter_range": [
+              42,
+              63
+            ],
+            "position_description": "Jealousy, fear, and humiliation weaken his mastery. He still tries to manage events, but his emotional life becomes reactive and defensive.",
+            "key_moments": [
+              "Sleepless dread and planned confrontation",
+              "Failed moral warning to Anna",
+              "Helplessness and stunned rigidity after her confession"
+            ]
+          },
+          {
+            "phase": "Punitive procedural agency",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "He converts injury into administrative action: legal consultation, custody concerns, and formal maneuvering restore agency, but now as punitive control rather than composure.",
+            "key_moments": [
+              "Decision to keep Anna under control indirectly",
+              "Composed letters and procedural self-justification",
+              "Divorce consultation and formalization of separation"
+            ]
+          },
+          {
+            "phase": "Moral-softening and spiritual receptivity",
+            "chapter_range": [
+              118,
+              149
+            ],
+            "position_description": "His agency becomes less coercive and more receptive as he experiences pity, forgiveness, tenderness, and religious consolation toward Anna, the baby, and even Vronsky.",
+            "key_moments": [
+              "Profound forgiveness at Anna's bedside",
+              "Tender care for the baby and pity for Vronsky",
+              "Religious consolation and dependence on Lidia Ivanovna"
+            ]
+          },
+          {
+            "phase": "Late-life resignation",
+            "chapter_range": [
+              145,
+              224
+            ],
+            "position_description": "He ends in disciplined grief: still functional in public and paternal roles, but inwardly marked by loneliness and mediated communion rather than direct reciprocity.",
+            "key_moments": [
+              "Collapse into loneliness and shame",
+              "Continued paternal discipline toward Seryozha",
+              "Persistent grief after Anna's death and loss of his daughter"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin starts as a highly agentic, low-communion figure and is repeatedly broken open by betrayal, humiliation, grief, and religion. These experiences increase his capacity for communion—especially pity, forgiveness, and tenderness—without fully displacing his need for order and control."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "moral rigidity",
+        "axis_name": "From procedural legality to chastened moral complexity",
+        "pole_start": "He begins rigid, rule-bound, and formalistic, treating marriage, scandal, and duty as matters of public order, legality, and social propriety.",
+        "pole_end": "He remains principled, but with more moral complexity: he can now feel pity, forgiveness, and the limits of law, even while continuing to rely on formal structures and religious sanction.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Formalistic certainty",
+            "chapter_range": [
+              30,
+              43
+            ],
+            "position_description": "He interprets marital crisis through duty, religion, and public opinion, trying to convert emotional chaos into a legible moral problem.",
+            "key_moments": [
+              "Sarcastic husbandly propriety",
+              "Warning speech framed by duty and religion",
+              "Moral appeal that fails to reach Anna"
+            ]
+          },
+          {
+            "phase": "Punitive moralism",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "His moral rigidity hardens into punitive judgment: he wants Anna controlled, punished, and legally constrained, and he seeks divorce as a formal instrument of justice.",
+            "key_moments": [
+              "Decision to punish Anna indirectly",
+              "Legal consultation and custody concerns",
+              "Formal divorce planning"
+            ]
+          },
+          {
+            "phase": "Mercy and moral revision",
+            "chapter_range": [
+              118,
+              149
+            ],
+            "position_description": "He discovers forgiveness as a real moral experience and begins to see Anna as a suffering human being rather than only a guilty adulteress.",
+            "key_moments": [
+              "Forgiveness at Anna's bedside",
+              "Pity for Anna and Vronsky",
+              "Refusal of divorce on moral grounds"
+            ]
+          },
+          {
+            "phase": "Stable but chastened principle",
+            "chapter_range": [
+              210,
+              211
+            ],
+            "position_description": "He ends still governed by doctrine and propriety, but now with a more explicit reliance on religious authority rather than simple legalism.",
+            "key_moments": [
+              "Religious consultation with Lidia Ivanovna",
+              "Final refusal of divorce"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin never abandons principle, but his principles evolve from cold legalism and punitive moralism toward a more chastened, mercy-inflected seriousness. The key change is from rule-enforcement to a morally complicated mixture of duty, pity, and spiritualized self-justification."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "self-knowledge",
+        "axis_name": "From blind self-justification to partial recognition of loneliness and need",
+        "pole_start": "He begins with low self-awareness, seeing himself as dutiful and correct while not recognizing his defensiveness, pride, emotional dependence, or loneliness.",
+        "pole_end": "He ends with moderate self-awareness: he recognizes humiliation, loneliness, and the inadequacy of his former self-conception, though he still retreats into repression and religious consolation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Opaque self-conception",
+            "chapter_range": [
+              30,
+              41
+            ],
+            "position_description": "He is largely unaware of how sarcasm and formality function as defenses, and he does not grasp the emotional reality of his marriage.",
+            "key_moments": [
+              "Habitual ironic speech",
+              "Public composure"
+            ]
+          },
+          {
+            "phase": "Partial recognition under strain",
+            "chapter_range": [
+              42,
+              63
+            ],
+            "position_description": "He begins to realize that his usual methods are inadequate and that he is frightened by life itself, but he still does not fully acknowledge jealousy or vulnerability.",
+            "key_moments": [
+              "Sleepless pacing and fear",
+              "Recognition that his prepared speech fails",
+              "Admission of helplessness",
+              "A crack in self-command during Anna's confession"
+            ]
+          },
+          {
+            "phase": "Recognition of loneliness",
+            "chapter_range": [
+              145,
+              149
+            ],
+            "position_description": "He gains sharper awareness of his isolation, the lack of true intimacy in his life, and the fact that his public composure is a mask.",
+            "key_moments": [
+              "Collapse into loneliness and shame",
+              "Realization that he has no confidant",
+              "Awareness that forgiveness may be unwanted or self-serving"
+            ]
+          },
+          {
+            "phase": "Limited late self-knowledge",
+            "chapter_range": [
+              224,
+              224
+            ],
+            "position_description": "He remains wounded and grieving, with no clear further deepening beyond the recognition that his life has been marked by loss and endurance.",
+            "key_moments": [
+              "Continued grief after Anna's death and the loss of his daughter"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin moves from near-total opacity to a painful recognition of loneliness, humiliation, and the limits of his former self-image. Still, he rarely converts insight into change; he tends to re-seal himself through duty, religion, or procedure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "emotional regulation",
+        "axis_name": "From brittle composure to fragile, then recontained, feeling",
+        "pole_start": "He begins with brittle emotional control, suppressing feeling through irony, routine, and public correctness.",
+        "pole_end": "He ends more permeable but still controlled: capable of pity, grief, tenderness, and spiritual joy, yet repeatedly recontained by duty and form.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Suppressed affect",
+            "chapter_range": [
+              30,
+              41
+            ],
+            "position_description": "He remains emotionally distant and socially polished, with feeling kept at bay by habit and role.",
+            "key_moments": [
+              "Sarcastic greeting of Anna",
+              "Public composure at the racecourse"
+            ]
+          },
+          {
+            "phase": "Anxiety and collapse",
+            "chapter_range": [
+              42,
+              63
+            ],
+            "position_description": "His composure breaks under jealousy and humiliation; he becomes sleepless, agitated, and then frozen by Anna's confession.",
+            "key_moments": [
+              "Pacing and insomnia",
+              "Agitated confrontation",
+              "Stunned rigidity after confession"
+            ]
+          },
+          {
+            "phase": "Repressed misery",
+            "chapter_range": [
+              60,
+              106
+            ],
+            "position_description": "He repeatedly converts pain into work, procedure, and coldness, showing emotional shutdown rather than expression.",
+            "key_moments": [
+              "Work as defense",
+              "Coldness toward Anna and Seryozha",
+              "Embarrassment in the lawyer's office"
+            ]
+          },
+          {
+            "phase": "Tenderness and grief",
+            "chapter_range": [
+              118,
+              146
+            ],
+            "position_description": "He becomes capable of tears, pity, forgiveness, and religious consolation, though these states are unstable and socially vulnerable.",
+            "key_moments": [
+              "Tears and forgiveness at Anna's bedside",
+              "Tenderness toward the baby",
+              "Collapse into loneliness",
+              "Consolation by Lidia Ivanovna"
+            ]
+          },
+          {
+            "phase": "Recontained sorrow",
+            "chapter_range": [
+              148,
+              224
+            ],
+            "position_description": "He settles into disciplined grief: still wounded, but increasingly able to function through duty, religion, and paternal responsibility.",
+            "key_moments": [
+              "Public dignity and religious self-validation",
+              "Continued paternal discipline",
+              "Persistent grief after Anna's death"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin's emotional life becomes more permeable over time, especially in the middle and late sections of the novel, but he never becomes emotionally free. Instead, he oscillates between breakdown and recontainment, with feeling repeatedly translated back into duty, religion, or procedure."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Alexey Alexandrovitch Karenin",
+        "target_character": "Anna Arkadyevna Karenina",
+        "dimension_label": "marital intimacy",
+        "axis_name": "From formal husbandly distance to pitying forgiveness and guarded separation",
+        "pole_start": "Low intimacy, low trust, and emotionally formal marriage: he begins as a cold, ironic, socially correct husband who keeps Anna at a distance.",
+        "pole_end": "Low intimacy remains, but the emotional quality changes: he passes through pity, forgiveness, and tenderness before settling into a morally serious, formally separated relationship.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Formal distance",
+            "chapter_range": [
+              30,
+              41
+            ],
+            "position_description": "He treats Anna with controlled irony and public propriety, preserving marital form without emotional openness.",
+            "key_moments": [
+              "Sarcastic greeting",
+              "Cold public composure"
+            ]
+          },
+          {
+            "phase": "Suspicion and crisis",
+            "chapter_range": [
+              42,
+              63
+            ],
+            "position_description": "He becomes frightened by the possibility of her separate inner life, then confirmed in betrayal and hardened into ceremonial severity.",
+            "key_moments": [
+              "Fear of Anna's hidden life",
+              "Failed moral appeal",
+              "Anna's confession"
+            ]
+          },
+          {
+            "phase": "Punitive estrangement",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "He treats Anna as morally fallen and seeks to control or punish her through legal and procedural means.",
+            "key_moments": [
+              "Decision to keep her under control",
+              "Letter asserting authority",
+              "Divorce planning"
+            ]
+          },
+          {
+            "phase": "Forgiveness and compassion",
+            "chapter_range": [
+              118,
+              121
+            ],
+            "position_description": "At Anna's bedside he experiences genuine pity and forgiveness, even tenderness, and briefly reimagines the marriage in moral-spiritual terms rather than punitive ones.",
+            "key_moments": [
+              "Forgiveness at Anna's bedside",
+              "Pity for Anna and Vronsky",
+              "Recognition of social pressure"
+            ]
+          },
+          {
+            "phase": "Moral separation and aftermath",
+            "chapter_range": [
+              123,
+              224
+            ],
+            "position_description": "He refuses divorce on moral grounds, then lives through formal separation, Anna's death, and the aftermath as a wounded, duty-bound, and grieving husband/father.",
+            "key_moments": [
+              "Refusal of divorce",
+              "Anna's departure and his isolation",
+              "Continued grief after Anna's death"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin's relationship with Anna moves from cold formality to crisis, punitive control, a brief and profound forgiveness, and finally a sorrowful, morally rigid separation. Intimacy never truly returns, but the emotional meaning of the bond changes dramatically."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Alexey Alexandrovitch Karenin",
+        "target_character": "Count Alexey Vronsky",
+        "dimension_label": "rivalry-recognition",
+        "axis_name": "From contemptuous rivalry to morally serious tolerance and pity",
+        "pole_start": "Low esteem, low trust, and controlled contempt: Vronsky is initially treated as a social nuisance and threat rather than a fully engaged rival.",
+        "pole_end": "Still low trust and low esteem, but with less active hostility after Karenin's moral transformation; Vronsky becomes a figure he can pity or tolerate, even if he never fully accepts him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Dismissive rivalry",
+            "chapter_range": [
+              31,
+              41
+            ],
+            "position_description": "He responds to Vronsky with cold politeness, subtle contempt, and refusal of emotional acknowledgment.",
+            "key_moments": [
+              "Cold dismissal",
+              "Ignoring Vronsky in public"
+            ]
+          },
+          {
+            "phase": "Rival as proof of betrayal",
+            "chapter_range": [
+              42,
+              63
+            ],
+            "position_description": "Vronsky becomes the implied cause of disorder and the proof of Anna's betrayal, intensifying Karenin's humiliation.",
+            "key_moments": [
+              "Fear of Anna loving another man",
+              "Vronsky as named cause of scandal",
+              "Confirmation of betrayal"
+            ]
+          },
+          {
+            "phase": "Punitive hostility",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "He wants to block Vronsky's triumph, preserve his own honor, and use legal means to deny him access to Anna.",
+            "key_moments": [
+              "Desire to punish Anna and deny Vronsky victory",
+              "Legal consultation and custody concerns",
+              "Formal separation planning"
+            ]
+          },
+          {
+            "phase": "Forgiveness and tolerance",
+            "chapter_range": [
+              118,
+              120
+            ],
+            "position_description": "He extends pity and forgiveness even toward Vronsky, no longer treating him only as an enemy but as part of the human tragedy he must endure.",
+            "key_moments": [
+              "Forgiveness at Anna's bedside",
+              "Pity for Vronsky"
+            ]
+          },
+          {
+            "phase": "Residual hostility, formalized",
+            "chapter_range": [
+              121,
+              224
+            ],
+            "position_description": "He remains morally opposed to Vronsky, but the relationship is increasingly mediated by legal separation, Anna's death, and practical aftermath rather than direct rivalry.",
+            "key_moments": [
+              "Pragmatic tolerance of the affair's continuation",
+              "Anna and Vronsky's departure",
+              "Vronsky as a background source of grief and loss"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin never comes to trust or esteem Vronsky, but his stance changes from cold contempt to morally serious rivalry and finally to a grim, forgiving tolerance. The shift is driven less by reconciliation than by Karenin's own spiritual softening and the eventual collapse of the triangle."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Alexey Alexandrovitch Karenin",
+        "target_character": "Sergei Alexeyitch Karenin",
+        "dimension_label": "paternal attachment",
+        "axis_name": "From formal fatherhood to protective, wounded, and morally possessive attachment",
+        "pole_start": "Low intimacy, moderate trust, and duty-based paternal relation: he begins as a formal father concerned with propriety and appearances more than warmth.",
+        "pole_end": "High protective concern and moral possessiveness: he ends as a father deeply attached to the boy, though still emotionally awkward and controlling.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Formal paternal role",
+            "chapter_range": [
+              30,
+              61
+            ],
+            "position_description": "He reports on the boy's well-being and manages him as part of household order, but without much warmth or attunement.",
+            "key_moments": [
+              "Reporting that the boy is well",
+              "Awkward, intimidating interaction"
+            ]
+          },
+          {
+            "phase": "Custodial concern and leverage",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "He increasingly treats the child as a moral stake and a custody issue, partly as a way to defend himself against Anna.",
+            "key_moments": [
+              "Concern for the son",
+              "Custody focus",
+              "Formal boundary-setting"
+            ]
+          },
+          {
+            "phase": "Tenderness and guilt",
+            "chapter_range": [
+              118,
+              151
+            ],
+            "position_description": "He becomes more tender toward Seryozha, feels guilt over neglect, and tries to educate and protect him, though still through discipline.",
+            "key_moments": [
+              "Renewed affection",
+              "Protective concern",
+              "Scripture lesson and irritation at his inability to follow"
+            ]
+          },
+          {
+            "phase": "Separation and enduring attachment",
+            "chapter_range": [
+              124,
+              224
+            ],
+            "position_description": "After Anna leaves, the boy becomes even more central as Karenin's remaining family bond and source of purpose, though the relationship remains emotionally constrained.",
+            "key_moments": [
+              "Anna and Vronsky depart, leaving him with the child",
+              "Continued management of Seryozha's emotional life",
+              "Persistent grief and paternal burden"
+            ]
+          }
+        ],
+        "evidence_summary": "Karenin's fatherhood becomes more emotionally significant over time. It begins as duty and ends as one of his few genuine attachments, though it remains filtered through discipline, moral instruction, and control rather than open warmth."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Alexey Alexandrovitch Karenin",
+        "target_character": "Countess Lidia Ivanovna",
+        "dimension_label": "moral alliance",
+        "axis_name": "From respected ally to spiritual refuge and co-author of his moral world",
+        "pole_start": "Moderate-to-high trust and esteem, but limited intimacy: she is initially a serious ally in public and moral matters.",
+        "pole_end": "High trust, high esteem, and meaningful emotional dependence: she becomes his principal source of consolation, religious interpretation, and practical guidance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful alliance",
+            "chapter_range": [
+              31,
+              38
+            ],
+            "position_description": "He treats her as part of his moral-social network and values her seriousness and influence.",
+            "key_moments": [
+              "Alignment with her",
+              "Esteem for her serious circle"
+            ]
+          },
+          {
+            "phase": "Practical support",
+            "chapter_range": [
+              82,
+              109
+            ],
+            "position_description": "She becomes a useful adviser in the divorce and public-order crisis, helping him think in procedural terms.",
+            "key_moments": [
+              "Advice and support",
+              "Practical guidance",
+              "Legal and moral assistance"
+            ]
+          },
+          {
+            "phase": "Spiritual refuge",
+            "chapter_range": [
+              146,
+              149
+            ],
+            "position_description": "After his collapse into loneliness, he accepts her sympathy and religious fervor as consolation, becoming emotionally dependent on her framework.",
+            "key_moments": [
+              "Comforted by her sympathy",
+              "Protected from Anna's approach",
+              "Moral guidance and refusal of Anna's request"
+            ]
+          },
+          {
+            "phase": "Shared doctrinal authority",
+            "chapter_range": [
+              210,
+              211
+            ],
+            "position_description": "He fully aligns with her religious language and uses it to justify his final refusal of divorce, making her a co-author of his moral position.",
+            "key_moments": [
+              "Religious consultation",
+              "Final refusal of divorce"
+            ]
+          }
+        ],
+        "evidence_summary": "Lidia Ivanovna becomes increasingly central to Karenin's emotional and moral life. What begins as respect for a serious ally becomes dependence on a spiritual interpreter and protector, especially after Anna's departure and his own collapse."
+      }
+    ]
+  }
+}

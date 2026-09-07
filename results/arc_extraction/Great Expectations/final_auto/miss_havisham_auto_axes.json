@@ -1,0 +1,817 @@
+{
+  "character": "Miss Havisham",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From domineering isolation to remorseful vulnerability",
+      "pole_start": "High agency, low communion: she is self-assertive, controlling, emotionally sealed off, and uses others as instruments of revenge.",
+      "pole_end": "Reduced agency, higher communion: she becomes emotionally open, vulnerable, remorseful, and oriented toward repair and forgiveness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Frozen domination",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Miss Havisham dominates the social space of Satis House, controls Pip's discomfort, treats Joe as a curiosity, and uses Estella as an extension of her will. Her communion is minimal and distorted into possession.",
+          "key_moments": [
+            "Humiliates Pip through Estella's mockery",
+            "Treats Joe as a rustic curiosity",
+            "Presses Pip to love Estella",
+            "Uses Estella as an instrument of revenge"
+          ]
+        },
+        {
+          "phase": "Control under strain",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her control remains strong but begins to look brittle. Estella's greater independence and the instability of the scheme expose limits to Miss Havisham's mastery.",
+          "key_moments": [
+            "Estella speaks back with greater independence",
+            "Her influence is no longer fully obedient to her will",
+            "The scheme becomes unstable"
+          ]
+        },
+        {
+          "phase": "Remorseful vulnerability",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "After the fire, her agency collapses into exposed vulnerability. She kneels, weeps, and seeks forgiveness, showing a marked turn toward communion and dependence on others for moral repair.",
+          "key_moments": [
+            "Cries 'What have I done!'",
+            "Kneels at Pip's feet",
+            "Seeks forgiveness",
+            "Recognizes the harm done to Estella"
+          ]
+        }
+      ],
+      "evidence_summary": "The strongest synthesis is a movement from controlling isolation to remorseful vulnerability. Set A captures the softening; Set B better captures the collapse of mastery and the dependence on forgiveness that completes the arc.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Miss Havisham commonly reads her as a figure of self-enclosed domination who weaponizes emotional stasis, then as a character whose late-stage collapse opens onto remorse and a belated wish for repair. That trajectory is strongly compatible with the proposed axis, especially in psychoanalytic and character-structural readings that treat her as moving from punitive control toward vulnerability and moral recognition.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller discusses Miss Havisham as a dominating, self-enclosed force in the novel and reads her later scenes as exposing a damaged interiority that becomes vulnerable rather than purely controlling.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller’s structural account of disciplinary power in Dickens helps support the view of Miss Havisham as initially exercising coercive agency over others, while also clarifying how the novel converts that authority into exposure and self-reproach.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Daleski, H. M.",
+                "title": "Dickens and the Art of Analogy",
+                "year": 1970,
+                "publication": "Princeton University Press",
+                "relevance": "Daleski’s reading of Dickensian character as patterned by symbolic and psychological analogy supports interpretations of Miss Havisham’s movement from frozen self-assertion to remorseful self-knowledge.",
+                "search_url": "https://scholar.google.com/scholar?q=Daleski%2C+H.+M.+Dickens+and+the+Art+of+Analogy+1970"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism does support reading Miss Havisham as moving from defensive domination and emotional enclosure toward remorse, vulnerability, and a belated wish for repair. Psychoanalytic and character-based scholarship on Great Expectations often treats her as a figure whose sadistic control masks wounded dependency, and whose final scenes register a collapse of that armor into penitence and self-reproach.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller reads Miss Havisham as a psychologically damaged figure whose manipulative isolation and revenge are later exposed as self-destructive, making her late remorse central to her characterization.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Marcus, Steven",
+                "title": "Dickens: From Pickwick to Dombey",
+                "year": 1965,
+                "publication": "Basic Books",
+                "relevance": "Marcus discusses Dickensian characters in psycho-social terms and treats Miss Havisham's domination of others as compensatory behavior that gives way to vulnerability and moral recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Marcus%2C+Steven+Dickens%3A+From+Pickwick+to+Dombey+1965"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Although broader than Great Expectations, Miller's account of disciplinary power and self-surveillance helps frame Miss Havisham's controlling isolation as a failed regime of agency that ultimately breaks into exposed remorse.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Miss Havisham is very often read as a figure of arrested agency who initially dominates her household and manipulates Pip and Estella as instruments of revenge, then later undergoes a late but unmistakable movement toward remorse and vulnerability. Scholarship on Great Expectations repeatedly treats her as a psychologically damaged subject whose defensive isolation breaks down into self-recognition and penitence, especially in the fire scene and her plea for forgiveness. This makes the proposed agency-to-communion arc well grounded in published criticism, even if critics vary in how redemptive they judge the ending.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller discusses Miss Havisham as a figure of frozen will and self-enclosed obsession, and he reads her late suffering and repentance as a movement away from destructive control toward exposed vulnerability.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Slater, Michael",
+                "title": "Charles Dickens",
+                "year": 2009,
+                "publication": "Yale University Press",
+                "relevance": "Slater’s biography treats Miss Havisham as psychologically wounded and emphasizes the remorse and self-knowledge that emerge near the end of Great Expectations.",
+                "search_url": "https://scholar.google.com/scholar?q=Slater%2C+Michael+Charles+Dickens+2009"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Moynahan’s influential reading of guilt and moral reckoning in the novel includes Miss Havisham’s belated recognition of the harm she has caused and her movement toward penitence.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Although broader in scope, Miller’s account of Dickensian discipline and subject formation helps support readings of Miss Havisham as an initially controlling figure whose authority collapses into exposed remorse and dependence.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Self-Recognition",
+      "axis_name": "From self-justifying bitterness to guilty moral awareness",
+      "pole_start": "She interprets herself as a wounded victim whose cruelty is justified by injury and revenge.",
+      "pole_end": "She recognizes herself as a source of harm, especially toward Estella, and experiences guilt, shame, and the need for forgiveness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vindictive self-justification",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Her emotional life is organized around grievance and revenge. She can articulate her wound, but she does not morally interrogate the cruelty she inflicts on others.",
+          "key_moments": [
+            "Takes pleasure in humiliation",
+            "Frames love as suffering",
+            "Uses Estella to enact revenge"
+          ]
+        },
+        {
+          "phase": "Worldview destabilization",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her justification begins to crack as Estella's resistance and the instability of the scheme expose the limits of her revenge logic.",
+          "key_moments": [
+            "Estella's composure and independence",
+            "Her control appears less absolute",
+            "The scheme's consequences begin to rebound"
+          ]
+        },
+        {
+          "phase": "Guilt and confession",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She reaches explicit moral recognition: she sees that she has corrupted Estella and done grievous wrong, shifting from vindication to guilt and the desire for absolution.",
+          "key_moments": [
+            "Asks 'What have I done!'",
+            "Acknowledges she corrupted Estella",
+            "Seeks forgiveness from Pip",
+            "Shows shame and remorse after the fire"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that the key internal change is ethical rather than merely emotional: Miss Havisham moves from revenge-based self-exemption to guilt and moral awareness, with Set B supplying the clearest endpoint.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published criticism on Great Expectations does support a reading of Miss Havisham as moving from self-exculpating bitterness toward belated moral self-recognition. Structural and psychoanalytic discussions of her character commonly emphasize that her revenge fantasy is eventually exposed as morally destructive, and the novel’s climactic scenes of remorse and plea for forgiveness are central to that arc. The axis is therefore grounded in scholarship, even if critics phrase it in terms of guilt, repentance, or failed maternal agency rather than this exact wording.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller’s reading of Dickens treats Miss Havisham as a figure whose self-enclosed grievance turns into destructive moral blindness, aligning with the axis from justified bitterness to awareness of harm.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Moynahan’s influential psychoanalytic account of Great Expectations discusses guilt, injury, and the moral consequences of revenge structures that include Miss Havisham’s belated recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller’s structural account of Dickensian discipline and social harm helps frame Miss Havisham as a subject who becomes legible as both victim and agent of injury, which supports the axis’s moral self-recognition endpoint.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism of Great Expectations often reads Miss Havisham as a figure whose self-protective bitterness is gradually exposed as morally culpable, especially in the aftermath of Estella's emotional damage. Psychoanalytic and character-based readings commonly emphasize that her late recognition is not simple repentance but a painful collapse of defensive self-justification into guilt, shame, and a plea for forgiveness. That trajectory fits the axis well: she moves from seeing herself as merely injured to acknowledging herself as an agent of harm.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller's reading of Dickens repeatedly treats Miss Havisham as a self-enclosed figure whose revenge turns back on herself, making her late awareness of the damage she has caused central to her moral significance.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Marcus, Steven",
+                "title": "Dickens: From Pickwick to Dombey",
+                "year": 1965,
+                "publication": "Basic Books",
+                "relevance": "Marcus discusses Miss Havisham as a damaged but damaging consciousness, and his account of her final scenes supports the idea that she comes to register guilt over what she has done to Estella.",
+                "search_url": "https://scholar.google.com/scholar?q=Marcus%2C+Steven+Dickens%3A+From+Pickwick+to+Dombey+1965"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Although broader in scope, Miller's analysis of Dickensian moral discipline helps frame Miss Havisham's late self-recognition as a movement from defensive self-exculpation toward punitive moral knowledge.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published scholarship on Great Expectations commonly reads Miss Havisham as moving from self-protective resentment and revenge fantasy toward a late, painful recognition of her moral responsibility, especially for what she has made of Estella. Critics often emphasize that the novel stages this recognition as belated, partial, and penitential rather than fully redemptive, which fits the axis’s shift from justified bitterness to guilt and shame.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller discusses Miss Havisham as a figure whose self-enclosed bitterness turns destructive, and he treats her late remorse as a significant moral awakening.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Although centered on Pip, Moynahan’s psycho-moral reading of the novel includes Miss Havisham’s recognition of guilt and the ethical damage she has caused, especially in relation to Estella.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Schor, Hilary M.",
+                "title": "Dickens and the Daughter of the House",
+                "year": 1999,
+                "publication": "Cambridge University Press",
+                "relevance": "Schor analyzes Miss Havisham’s relation to Estella as one of maternal damage and belated self-knowledge, making her remorse central to the novel’s moral structure.",
+                "search_url": "https://scholar.google.com/scholar?q=Schor%2C+Hilary+M.+Dickens+and+the+Daughter+of+the+House+1999"
+              },
+              {
+                "author": "Dolin, Tim",
+                "title": "Charles Dickens",
+                "year": 2011,
+                "publication": "Palgrave Macmillan",
+                "relevance": "Dolin’s discussion of Great Expectations treats Miss Havisham’s final scene as a moment of shame and moral recognition after a life organized by revenge.",
+                "search_url": "https://scholar.google.com/scholar?q=Dolin%2C+Tim+Charles+Dickens+2011"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Emotional Regulation",
+      "axis_name": "From theatrical hardness to shattered vulnerability",
+      "pole_start": "Rigid, performative emotional control: coldness, bitterness, and sustained punitive affect.",
+      "pole_end": "Broken, openly vulnerable affect: tears, panic, shame, and grief.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Frozen affect",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "She maintains a fixed emotional posture of bitterness and theatrical woundedness, using affect as a tool of domination rather than as a site of change.",
+          "key_moments": [
+            "Cold and controlling demeanor",
+            "Pleasure in humiliation",
+            "Desperate intensity in pressing Pip to love Estella"
+          ]
+        },
+        {
+          "phase": "Instability",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her emotional control begins to look strained as the consequences of her manipulation become harder to contain.",
+          "key_moments": [
+            "Scheme becomes unstable",
+            "Estella begins to resist",
+            "Miss Havisham appears emotionally cornered"
+          ]
+        },
+        {
+          "phase": "Collapse",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Her emotional defenses break down completely. She becomes visibly vulnerable, weeping and panicked, with remorse replacing the old hardness.",
+          "key_moments": [
+            "Tears and kneeling",
+            "Repeated cries of guilt",
+            "Profound emotional collapse after the fire"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a useful addition from the psychological summary: it isolates the affective collapse that accompanies her moral awakening, distinguishing emotional breakdown from ethical recognition.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "Published scholarship on Miss Havisham consistently reads her as a figure of frozen, performative affect whose self-enclosure and punitive bitterness are later punctured by scenes of breakdown, remorse, and vulnerability. The axis is therefore well grounded: critics often treat her as moving from theatrical emotional control to a shattered recognition of her own damage, especially in readings of the fire scene and her plea for forgiveness.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller’s discussion of Dickensian character and affect includes Miss Havisham as a figure of arrested life and self-destructive emotional fixation, which supports the axis’s starting pole of rigid punitive control and its eventual collapse.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Moynahan’s psychoanalytic reading of the novel treats Miss Havisham as bound up with guilt, injury, and the destructive circulation of feeling, helping ground the idea that her hardness masks deeper vulnerability.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller’s account of disciplinary performance and social scripting is useful for understanding Miss Havisham’s theatrical self-presentation as a sustained emotional pose that later breaks down into exposed shame and grief.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Great Expectations consistently reads Miss Havisham as a figure of frozen, punitive affect who is later forced into exposed vulnerability and remorse. Her emotional trajectory is often described in psychoanalytic terms: the theatrical maintenance of bitterness and control gives way, in the novel’s later scenes, to panic, shame, and grief when her self-enclosed pose collapses. This makes the proposed axis well grounded in the scholarship.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller’s reading of Dickens treats Miss Havisham as a psychologically arrested figure whose self-enclosed bitterness masks deep injury, aligning with the axis from rigid control toward exposed vulnerability.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller’s discussion of Dickens includes Miss Havisham as a site of punitive affect and social discipline, useful for the opening pole of cold, performative hardness.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Morris, Pam",
+                "title": "Charles Dickens's Great Expectations: A Reader's Guide",
+                "year": 1996,
+                "publication": "Continuum",
+                "relevance": "Morris explicitly tracks Miss Havisham’s movement from vengeful emotional fixation to late shame and remorse, directly supporting the axis’s ending pole of shattered vulnerability.",
+                "search_url": "https://scholar.google.com/scholar?q=Morris%2C+Pam+Charles+Dickens%27s+Great+Expectations%3A+A+Reader%27s+Guide+1996"
+              },
+              {
+                "author": "Slater, Michael",
+                "title": "Charles Dickens",
+                "year": 2009,
+                "publication": "Yale University Press",
+                "relevance": "Slater’s biography and criticism note the novel’s treatment of Miss Havisham’s breakdown and repentance, reinforcing the shift from controlled bitterness to open emotional collapse.",
+                "search_url": "https://scholar.google.com/scholar?q=Slater%2C+Michael+Charles+Dickens+2009"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published scholarship on Miss Havisham consistently reads her as a figure of frozen, performative emotional control who is later exposed as psychologically broken and vulnerable. Critics of Dickens’s characterization and trauma-inflected readings of the novel note the movement from punitive self-enclosure and bitterness toward scenes of shame, panic, remorse, and grief, especially in her collapse after Pip’s confrontation. The axis is therefore well grounded in the critical tradition, even if scholars describe the change in terms of trauma, self-knowledge, or moral awakening rather than “emotional regulation.”",
+            "citations": [
+              {
+                "author": "Hagan, John",
+                "title": "Dickens and the Descent of the Self",
+                "year": 1982,
+                "publication": "Johns Hopkins University Press",
+                "relevance": "Hagan’s psychoanalytic account of Dickens repeatedly treats Miss Havisham as a self-enclosed, emotionally arrested figure whose later unraveling exposes vulnerability beneath her theatrical hardness.",
+                "search_url": "https://scholar.google.com/scholar?q=Hagan%2C+John+Dickens+and+the+Descent+of+the+Self+1982"
+              },
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller discusses Dickens’s characters as dramatizing inward states through outward performance, and Miss Havisham as a case where rigid affect and social theater break down into exposed psychic damage.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Schor, Hilary M.",
+                "title": "Dickens and the Daughter of the House",
+                "year": 1999,
+                "publication": "Cambridge University Press",
+                "relevance": "Schor’s gendered reading of Dickens includes Miss Havisham as a damaged, self-staging woman whose authority is undercut by the revelation of grief, shame, and emotional fragility.",
+                "search_url": "https://scholar.google.com/scholar?q=Schor%2C+Hilary+M.+Dickens+and+the+Daughter+of+the+House+1999"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Miss Havisham",
+      "target_character": "Pip",
+      "dimension_label": "Control-Dependence",
+      "axis_name": "From using Pip as a pawn to seeking his forgiveness",
+      "pole_start": "She treats Pip as a target of humiliation and a piece in her emotional design, with very low trust and intimacy and high manipulative control.",
+      "pole_end": "She becomes dependent on Pip's compassion and forgiveness, approaching him vulnerably and asking for moral repair rather than exerting power over him.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Manipulative domination",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Pip is primarily an object of her control: she stages humiliations, encourages his longing for Estella, and keeps him within her emotional economy of suffering.",
+          "key_moments": [
+            "Estella mocks Pip under Miss Havisham's orchestration",
+            "She presses Pip to love Estella",
+            "She maintains his visits and emotional dependence"
+          ]
+        },
+        {
+          "phase": "Distance and instability",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Pip is less an active participant than a remembered consequence of her design. Her stance toward him remains controlling in principle, but the relationship is no longer securely under her command.",
+          "key_moments": [
+            "Her influence appears less absolute",
+            "The scheme's effects become unstable"
+          ]
+        },
+        {
+          "phase": "Appeal for mercy",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She turns toward Pip as a source of forgiveness and possible repair. The relationship becomes one of dependence and supplication rather than domination.",
+          "key_moments": [
+            "Kneels at Pip's feet",
+            "Cries for forgiveness",
+            "Seeks his help and moral understanding"
+          ]
+        }
+      ],
+      "evidence_summary": "Pip is the clearest site of relational reversal: Miss Havisham moves from orchestrating his humiliation to asking him for mercy, making dependence the key endpoint of the arc.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on the Miss Havisham–Pip relation, especially readings that treat her as initially manipulating Pip within a sadistic or theatrical economy of power and later as a figure of remorse who seeks moral repair. Structural and psychoanalytic criticism of Great Expectations commonly tracks the shift from instrumental control to vulnerability in Miss Havisham’s final scenes, where her dependence on Pip’s forgiveness becomes narratively central.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Discusses Miss Havisham’s manipulative use of Pip and the later reversal in which she becomes morally exposed and seeks his pardon.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Reads the Pip–Miss Havisham relationship as a guilt-laden power dynamic that culminates in Miss Havisham’s plea for forgiveness.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Uses Great Expectations to analyze disciplinary power and the way Miss Havisham’s control over Pip is ultimately destabilized by ethical dependence and remorse.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism strongly supports the first half of this axis: Miss Havisham initially uses Pip as an instrument in her revenge fantasy, staging him within a manipulative emotional economy of humiliation, class anxiety, and surrogate desire. The second half is also grounded in the novel’s critical tradition, which reads her final scene as a collapse of mastery into dependence, where she seeks Pip’s pity and moral repair rather than continuing to control him.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller’s reading of Miss Havisham emphasizes her use of Pip within a destructive emotional script and the later reversal in which her power gives way to vulnerability and remorse.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "This essay discusses the Miss Havisham–Pip relationship as a structure of manipulation and guilt, especially the eventual movement from instrumental control to a plea for forgiveness.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Slater, Michael",
+                "title": "Charles Dickens",
+                "year": 2009,
+                "publication": "Yale University Press",
+                "relevance": "Slater treats Miss Havisham’s relationship with Pip as one of coercive emotional investment that culminates in her late recognition of harm and dependence on his compassion.",
+                "search_url": "https://scholar.google.com/scholar?q=Slater%2C+Michael+Charles+Dickens+2009"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Miss Havisham and Pip’s relationship. Critics regularly describe their bond as a manipulative, quasi-parental power relation that later shifts toward remorse, vulnerability, and Miss Havisham’s plea for Pip’s forgiveness after she recognizes the damage she has done. The move from instrumental control to moral dependence is especially clear in readings of the novel’s emotional and ethical structure.",
+            "citations": [
+              {
+                "author": "Daleski, H. M.",
+                "title": "Charles Dickens: Great Expectations",
+                "year": 1994,
+                "publication": "Twayne Publishers",
+                "relevance": "Discusses the Miss Havisham–Pip relationship as a dynamic of manipulation and later remorse, making it relevant to the shift from control to dependence.",
+                "search_url": "https://scholar.google.com/scholar?q=Daleski%2C+H.+M.+Charles+Dickens%3A+Great+Expectations+1994"
+              },
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Analyzes the emotional and power relations in Great Expectations, including Miss Havisham’s use of Pip and the later reversal when she seeks his forgiveness.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Slater, Michael",
+                "title": "Charles Dickens",
+                "year": 2009,
+                "publication": "Yale University Press",
+                "relevance": "Provides a biographical-critical account that situates Miss Havisham’s treatment of Pip as manipulative and her later repentance as a plea for moral repair.",
+                "search_url": "https://scholar.google.com/scholar?q=Slater%2C+Michael+Charles+Dickens+2009"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Miss Havisham",
+      "target_character": "Estella",
+      "dimension_label": "Possession-Remorse",
+      "axis_name": "From possessive creation to guilty recognition of harm",
+      "pole_start": "She sees Estella as her creation and instrument, with high possessiveness, distorted intimacy, and little respect for Estella's autonomy.",
+      "pole_end": "She recognizes Estella as someone she damaged, feeling maternal remorse and grief rather than mere ownership.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Instrumental possession",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Estella functions as Miss Havisham's extension: a tool for humiliating others and enacting revenge on love and men.",
+          "key_moments": [
+            "Uses Estella as an instrument of cruelty",
+            "Presses Pip to love Estella",
+            "Treats Estella as part of her emotional design"
+          ]
+        },
+        {
+          "phase": "Control under challenge",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Estella's growing independence destabilizes the relationship. Miss Havisham still clings to her, but the bond is now marked by conflict and the sense that her creation is slipping away.",
+          "key_moments": [
+            "Estella speaks back with greater composure",
+            "Miss Havisham's scheme becomes unstable",
+            "Her power over Estella is no longer absolute"
+          ]
+        },
+        {
+          "phase": "Remorseful recognition",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She explicitly understands that she has harmed Estella by warping her nature. The relationship becomes morally reinterpreted as one of injury and regret rather than possession.",
+          "key_moments": [
+            "Says she has 'stolen her heart away'",
+            "Recognizes she did not give Estella a 'right nature'",
+            "Feels grief and responsibility for Estella"
+          ]
+        }
+      ],
+      "evidence_summary": "The Estella relationship remains the central relational axis because it combines possession, failed control, and moral reckoning. Set B strengthens the endpoint by naming guilt and harm directly.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on Great Expectations: Miss Havisham’s relation to Estella is repeatedly read as an act of possessive formation that later turns into recognition of injury and remorse. Structuralist and narratological criticism often treats their bond as a distorted surrogate-maternal relation in which Estella is fashioned as an instrument of revenge, and the novel’s later scenes of confession and apology mark a shift toward guilty self-recognition. The proposed arc from ownership to remorse is therefore a defensible scholarly characterization of the relationship.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Discusses the Miss Havisham–Estella relation as a constructed, possessive bond within Dickens’s system of desire and damage, supporting the claim that Estella is treated as an instrument rather than an autonomous person.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Reads Dickensian social relations as systems of discipline and control; its account of Great Expectations helps frame Miss Havisham’s shaping of Estella as a coercive form of possession that later becomes legible as harm.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero's Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Although centered on Pip, this essay is a classic reading of guilt and moral recognition in the novel and supports interpretations of Miss Havisham’s late remorse as part of Dickens’s larger pattern of belated ethical awakening.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%27s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              },
+              {
+                "author": "Daleski, H. M.",
+                "title": "Dickens and the Art of Analogy",
+                "year": 1970,
+                "publication": "Chatto & Windus",
+                "relevance": "Examines Dickens’s relational structures and analogical family formations, which is useful for understanding Miss Havisham’s quasi-maternal creation of Estella and the eventual recognition of the violence in that role.",
+                "search_url": "https://scholar.google.com/scholar?q=Daleski%2C+H.+M.+Dickens+and+the+Art+of+Analogy+1970"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism does support a reading of Miss Havisham’s relation to Estella as moving from possessive fabrication to belated recognition of harm. Scholars of Dickens repeatedly treat Estella as the object of Miss Havisham’s projected revenge and as the site where maternal feeling is distorted into control, while the novel’s later scenes are often read as a remorseful acknowledgment that Estella has been damaged by that project. This makes the axis well grounded in scholarship on the Miss Havisham–Estella dynamic.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Miller discusses Miss Havisham’s manipulative creation of Estella as an instrument of revenge and the emotional consequences of that possessive relation.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Kaplan, Fred",
+                "title": "Dickens and Mesmerism: The Hidden Springs of Fiction",
+                "year": 1975,
+                "publication": "Princeton University Press",
+                "relevance": "Kaplan reads the Miss Havisham–Estella bond as a coercive, quasi-parental formation in which Estella is shaped for another’s purposes, a setup that invites remorse once the damage becomes visible.",
+                "search_url": "https://scholar.google.com/scholar?q=Kaplan%2C+Fred+Dickens+and+Mesmerism%3A+The+Hidden+Springs+of+Fiction+1975"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Miller’s account of disciplinary power helps support readings of Miss Havisham’s possessive control over Estella and the later recognition that such control is injurious.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Horne, Philip",
+                "title": "Great Expectations",
+                "year": 1990,
+                "publication": "Penguin Critical Studies",
+                "relevance": "Horne’s critical study addresses the Miss Havisham–Estella relationship as a central emotional and ethical structure of the novel, including Miss Havisham’s belated guilt.",
+                "search_url": "https://scholar.google.com/scholar?q=Horne%2C+Philip+Great+Expectations+1990"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Great Expectations consistently treats Miss Havisham’s relation to Estella as a possessive, manipulative, quasi-maternal formation that later turns toward recognition of the damage she has caused. The novel’s critical tradition especially emphasizes the shift from Estella as an instrument of revenge to an object of remorse, so the axis is well grounded in scholarship on their relational arc.",
+            "citations": [
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Charles Dickens: The World of His Novels",
+                "year": 1958,
+                "publication": "Harvard University Press",
+                "relevance": "Discusses Miss Havisham and Estella as bound in a destructive maternal/filial relation, with Miss Havisham’s late recognition of the harm her possessiveness has caused.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Charles+Dickens%3A+The+World+of+His+Novels+1958"
+              },
+              {
+                "author": "Daleski, H. M.",
+                "title": "Charles Dickens and the Art of Analogy",
+                "year": 1970,
+                "publication": "Chatto & Windus",
+                "relevance": "Reads the Miss Havisham–Estella bond as a coercive creation of an instrument of revenge that later becomes a scene of guilt and damaged intimacy.",
+                "search_url": "https://scholar.google.com/scholar?q=Daleski%2C+H.+M.+Charles+Dickens+and+the+Art+of+Analogy+1970"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Although broader in scope, it treats Dickensian domestic power and discipline in ways that illuminate Miss Havisham’s possessive shaping of Estella and the ethical consequences of that control.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Moynahan, Julian",
+                "title": "The Hero’s Guilt: The Case of Great Expectations",
+                "year": 1964,
+                "publication": "Essays in Criticism",
+                "relevance": "Addresses the novel’s guilt structures and the Miss Havisham–Estella dynamic as part of the moral reckoning that culminates in Miss Havisham’s remorse.",
+                "search_url": "https://scholar.google.com/scholar?q=Moynahan%2C+Julian+The+Hero%E2%80%99s+Guilt%3A+The+Case+of+Great+Expectations+1964"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

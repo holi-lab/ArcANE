@@ -1,0 +1,733 @@
+{
+  "character": "James Vane",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From protective fusion to isolated pursuit",
+      "pole_start": "Communion-dominant protectiveness: James begins oriented toward Sibyl's welfare, family duty, and relational loyalty, defining himself through care and guardianship.",
+      "pole_end": "Agency-dominant isolation: he ends as a solitary avenger, acting through surveillance, confrontation, and punitive self-assertion rather than mutual care.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Protective communion",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James is strongly relationally oriented, with tenderness and alarm for Sibyl shaping his identity and behavior.",
+          "key_moments": [
+            "Warns Sibyl about her suitor",
+            "Feels protective concern for her safety",
+            "Frames his departure and return in terms of her welfare"
+          ]
+        },
+        {
+          "phase": "Protective duty hardens",
+          "chapter_range": [
+            4,
+            14
+          ],
+          "position_description": "After Sibyl's death and the revelation about his family, his care for her is increasingly routed through anger and solitary purpose.",
+          "key_moments": [
+            "Learns of Sibyl's death",
+            "Learns of his mother's compromised marriage history",
+            "Fixes his identity on avenging Sibyl"
+          ]
+        },
+        {
+          "phase": "Predatory pursuit",
+          "chapter_range": [
+            14,
+            18
+          ],
+          "position_description": "He becomes a watchful, forceful pursuer of Dorian, with communion narrowed to a single grievance and agency expressed as control and threat.",
+          "key_moments": [
+            "Confronts Dorian in the archway",
+            "Stalks Dorian after the opium-house testimony",
+            "Observes Dorian from concealment at Selby Royal",
+            "His pursuit ends in death"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that James moves from relational protectiveness toward isolated vengeance. The merged reading emphasizes that this is not a full moral conversion but a hardening of care into solitary, punitive agency.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "James Vane is commonly read as a figure whose initial identity is organized by familial loyalty and protective duty toward Sibyl, then narrowed into a solitary, punitive pursuit of Dorian. Structural and psychoanalytic readings of the novel often treat him as a counterforce to Dorian’s aesthetic self-absorption, with his movement from brotherly guardianship to obsessive vengeance marking a shift from relational ethics to isolated agency. That makes this axis well grounded in published scholarship on the novel’s character dynamics.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Ellmann’s biography discusses Wilde’s construction of James Vane as a moral and familial avenger, which supports reading him as moving from protective kinship to solitary pursuit.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow situates James Vane within the novel’s network of masculine duty, surveillance, and punitive action, illuminating his shift from familial attachment to isolated vengeance.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall reads the novel’s Gothic pursuit structure in ways that clarify James Vane’s role as an avenging pursuer whose identity becomes defined by confrontation and tracking rather than mutual care.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on The Picture of Dorian Gray frequently treats James Vane as a figure whose initial identity is organized around protective loyalty to Sibyl and whose later function in the novel becomes that of a solitary avenger. This arc is consistent with psychoanalytic and character-based readings that emphasize his movement from relational duty into obsessive punitive self-assertion, even though scholarship often discusses him in relation to melodrama, revenge, and masculine honor rather than using the exact agency-communion vocabulary.",
+            "citations": [
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow discusses Wildean masculinity and the novel’s gendered moral economy, a context in which James Vane’s protective brotherhood and later revenge can be read as a shift from relational duty to isolated punitive agency.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s treatment of Gothic pursuit and vengeance in Victorian fiction supports reading James Vane as a solitary avenger whose identity narrows into surveillance and confrontation.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann’s biographical-critical account of Wilde and his fiction helps frame James Vane as part of the novel’s moral and affective structure, especially the contrast between familial loyalty and destructive revenge.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "James Vane is often read as a figure whose identity is organized first by familial loyalty and protective duty toward Sibyl, then by a narrowing, isolating pursuit of vengeance after her death. Scholarship on Wilde’s novel frequently treats him as a counterpoint to Dorian: a morally legible but increasingly solitary avenger whose surveillance and pursuit replace any earlier relational role. This makes the axis of movement from communion-dominant protectiveness to agency-dominant isolation well grounded in published criticism.",
+            "citations": [
+              {
+                "author": "Bristow, Joseph",
+                "title": "The Picture of Dorian Gray",
+                "year": 2005,
+                "publication": "Oxford University Press",
+                "relevance": "Bristow’s introduction and notes discuss James Vane as Sibyl’s protective brother and as a figure whose later pursuit of Dorian becomes a solitary, retributive quest.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+The+Picture+of+Dorian+Gray+2005"
+              },
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Ellmann’s biography situates James Vane within the novel’s moral economy as a brother defined by loyalty and then transformed into an isolated avenger.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s discussion of Gothic pursuit and urban surveillance helps support readings of James Vane’s movement from familial protectiveness to obsessive, solitary tracking of Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Certainty-Doubt",
+      "axis_name": "From moral certainty to shaken suspicion",
+      "pole_start": "Certain moral judgment: James begins convinced that he can identify danger clearly and that violence is justified if Sibyl is harmed.",
+      "pole_end": "Shaken suspicion: he loses simple certainty about Dorian and must operate from unstable, uncanny doubt rather than confident moral clarity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial certainty",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He treats the suitor as dangerous and trusts his own judgment as morally reliable.",
+          "key_moments": [
+            "Warns Sibyl about the stranger",
+            "Vows revenge if Dorian harms her"
+          ]
+        },
+        {
+          "phase": "Certainty damaged",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "The revelation about his mother's marriage destabilizes his confidence in family truth and moral order, though not yet his judgment about Dorian.",
+          "key_moments": [
+            "Confronts Mrs. Vane",
+            "Learns of his illegitimacy"
+          ]
+        },
+        {
+          "phase": "Moral shock and suspicion",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "The archway encounter and the opium-house testimony force him into uncertainty, making him more tactical and less certain about who deserves punishment.",
+          "key_moments": [
+            "Nearly kills the wrong man",
+            "Hears testimony that Dorian has not aged normally",
+            "Watches Dorian from concealment and recalibrates his pursuit"
+          ]
+        }
+      ],
+      "evidence_summary": "James's certainty is repeatedly undermined, but the result is not ethical growth so much as a shift from confident judgment to unstable suspicion. He becomes less sure, not more humane.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "James Vane is often read as a figure of moral absolutism whose certainty is destabilized by the novel’s Gothic mechanisms of misrecognition, delay, and uncanny uncertainty. Scholarship on Wilde frequently treats his pursuit of Dorian as moving from righteous conviction toward frustrated, unstable suspicion, especially once Dorian’s appearance no longer guarantees legibility and James must act on partial signs rather than clear moral knowledge.",
+            "citations": [
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Discusses The Picture of Dorian Gray in relation to surveillance, unreadable identity, and the instability of moral and sexual certainty that shapes James Vane’s pursuit.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Reads Wilde’s Gothic plotting as producing uncertainty and delayed recognition, a framework that fits James Vane’s shift from confident judgment to uneasy suspicion.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Provides a biographical-critical account of Wilde’s novel that highlights the moral rigidity and subsequent disorientation surrounding James Vane’s role in the narrative.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "James Vane is often read as a figure of moral absolutism whose certainty is destabilized by the uncanny opacity of Dorian’s appearance and social performance. Scholarship on Wilde’s novel frequently treats him as a revenge-driven, rigidly judgmental character whose pursuit of Dorian becomes increasingly shadowed by uncertainty, misrecognition, and the limits of moral knowledge.",
+            "citations": [
+              {
+                "author": "Raby, Peter",
+                "title": "The Cambridge Companion to Oscar Wilde",
+                "year": 1997,
+                "publication": "Cambridge University Press",
+                "relevance": "This companion includes critical discussion of Dorian Gray and its moral psychology, helping support readings of James Vane as a figure of moral certainty that is unsettled by the novel’s ambiguous social and perceptual field.",
+                "search_url": "https://scholar.google.com/scholar?q=Raby%2C+Peter+The+Cambridge+Companion+to+Oscar+Wilde+1997"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s Gothic reading of Wilde’s novel is relevant because James Vane functions as part of the novel’s uncanny pursuit structure, where certainty about guilt and identity becomes unstable.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Oscar Wilde and Modern Culture: The Making of a Legend",
+                "year": 2008,
+                "publication": "Ohio University Press",
+                "relevance": "Bristow’s work on Wilde’s cultural and psychological afterlives is useful for understanding James Vane as a moral avenger whose confidence is undercut by the novel’s larger economy of doubt and misrecognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Oscar+Wilde+and+Modern+Culture%3A+The+Making+of+a+Legend+2008"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "James Vane is often read as a figure of moral absolutism whose certainty about guilt and justice is destabilized by the novel’s atmosphere of ambiguity and uncanny misrecognition. Scholarship on Wilde’s novel and its Gothic psychology supports the idea that James moves from confident judgment toward a more unstable, suspicious mode of perception, especially in the London pursuit scenes and his inability to securely identify Dorian across time.",
+            "citations": [
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s discussion of Gothic pursuit, urban uncertainty, and the instability of recognition in Victorian fiction helps frame James Vane’s movement from moral certainty to anxious, unstable suspicion.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing After 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow reads Wilde’s novel through unstable identities and persecutory knowledge, a context that supports James Vane’s shifting certainty about Dorian and the novel’s broader logic of doubtful recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+After+1885+1995"
+              },
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Ellmann’s biographical-critical account of Wilde’s fiction notes the novel’s fascination with divided selves and moral perception, which aligns with James Vane’s loss of simple confidence in judging Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Protective Rage",
+      "axis_name": "From anxious protectiveness to fixed vengeance",
+      "pole_start": "Anxious protectiveness: James begins with fear for Sibyl's safety, jealousy, and a desire to shield her from exploitation.",
+      "pole_end": "Fixed vengeance: his protective feeling hardens into a singular punitive obsession with punishing the man he believes destroyed her.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Alarm and jealousy",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "His concern for Sibyl is emotionally mixed with jealousy and humiliation, but the dominant impulse is still to protect her.",
+          "key_moments": [
+            "Feels alarm about Sibyl's vulnerability",
+            "Suspects the suitor",
+            "Wants to keep her safe"
+          ]
+        },
+        {
+          "phase": "Grief-driven fixation",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "After Sibyl's death, protectiveness no longer has a living object and becomes vengeance; his emotional energy is redirected into tracking and punishing Dorian.",
+          "key_moments": [
+            "Learns of Sibyl's death",
+            "Pursues Dorian with lethal intent",
+            "Appears as a looming threat at the conservatory"
+          ]
+        }
+      ],
+      "evidence_summary": "James's violence is rooted in care for Sibyl, but that care becomes increasingly indistinguishable from punitive obsession. This axis captures the emotional fuel of his revenge most directly.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "James Vane is commonly read as a melodramatic avenger whose initial concern for Sibyl’s safety quickly crystallizes into a single-minded punitive pursuit of Dorian. That trajectory fits structuralist accounts of his function in the novel: he begins as a protective brother figure and is then converted into the narrative agent of vengeance, with his psychology subordinated to the revenge plot. The axis is therefore well grounded in published scholarship on the novel’s character dynamics and moral economy.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann’s biography discusses Wilde’s construction of James Vane as a melodramatic avenger, which supports the shift from sibling protectiveness to obsessive vengeance.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow reads Wilde’s fiction through desire, jealousy, and punitive masculinity, a framework that helps explain James Vane’s protective rage turning into revenge.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s account of Gothic revenge structures in Victorian fiction supports reading James Vane as a character whose protective impulse hardens into fixed vengeance.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "James Vane is commonly read as the novel’s avenging moral conscience: his initial concern for Sibyl’s vulnerability quickly crystallizes into a punitive fixation on Dorian once he believes Dorian has destroyed her. That movement from protective feeling to single-minded revenge is consistent with psychoanalytic and character-based criticism that treats James as an embodiment of repressed moral outrage and retaliatory masculinity rather than a fully rounded developmental consciousness.",
+            "citations": [
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Discusses Gothic revenge structures and the punitive function of avengers like James Vane in Wilde's novel, supporting the shift from protective concern to obsessive vengeance.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Showalter, Elaine",
+                "title": "The Male Homosocial Desire in The Picture of Dorian Gray",
+                "year": 1990,
+                "publication": "In The New Feminist Criticism: Essays on Women, Literature, and Theory (ed. Elaine Showalter)",
+                "relevance": "Frames the novel's male characters through desire, rivalry, and aggression, a context in which James's protective jealousy and retaliatory pursuit of Dorian can be read as an escalating fixation.",
+                "search_url": "https://scholar.google.com/scholar?q=Showalter%2C+Elaine+The+Male+Homosocial+Desire+in+The+Picture+of+Dorian+Gray+1990"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Situates Wilde's novel within late-Victorian sexual and moral anxieties, helping explain James Vane's transformation of protective outrage into a fixed punitive mission.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "James Vane is commonly read as a figure whose initial protective concern for Sibyl is displaced by a rigid, punitive fixation on Dorian after her death. Scholarship on Wilde’s novel often treats him as an avenger whose emotional life narrows into revenge, making this axis well grounded in published criticism even if the exact wording varies. The shift from brotherly protectiveness to obsessive pursuit is a defensible intrapersonal arc within the novel’s critical reception.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann’s biography discusses Wilde’s handling of revenge, melodrama, and the James Vane subplot in ways that support reading James as moving from protective brother to fixed avenger.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "The Picture of Dorian Gray",
+                "year": 2011,
+                "publication": "Oxford University Press",
+                "relevance": "Bristow’s critical edition and introduction frame James Vane as a revenge-driven pursuer whose role is tied to the novel’s punitive logic, supporting the end-point of the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+The+Picture+of+Dorian+Gray+2011"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s discussion of Gothic pursuit and vengeance in Victorian fiction helps contextualize James Vane’s transformation into an obsessive avenger within the novel’s Gothic psychology.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "James Vane",
+      "target_character": "Sibyl Vane",
+      "dimension_label": "Protective Bond",
+      "axis_name": "From familial tenderness to posthumous idealization",
+      "pole_start": "Warm sibling loyalty: James begins with deep affection, trust, and protective concern for Sibyl as a vulnerable younger sister.",
+      "pole_end": "Frozen idealization: by the end, Sibyl remains the emotional center of his identity only as memory and moral cause rather than as a living relationship.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Living protectiveness",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James is emotionally close to Sibyl, worried for her safety, and motivated by a desire to shield her from harm.",
+          "key_moments": [
+            "Warns about her suitor",
+            "Feels tenderness and alarm",
+            "Considers staying connected to her welfare"
+          ]
+        },
+        {
+          "phase": "Grief and fixation",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "Sibyl becomes the wound that organizes James's vengeance; the relationship is no longer reciprocal but memorial and obsessive.",
+          "key_moments": [
+            "Sibyl's death drives his rage",
+            "He pursues Dorian as her avenger"
+          ]
+        },
+        {
+          "phase": "Afterlife of loyalty",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "The relationship persists only as narrative residue: his loyalty to Sibyl is completed in death and no longer develops psychologically.",
+          "key_moments": [
+            "James is dead",
+            "Sibyl remains the basis of his avenger identity"
+          ]
+        }
+      ],
+      "evidence_summary": "James's bond with Sibyl is emotionally constant even as its form changes: affection becomes protective fixation, then grief-frozen idealization that fuels revenge.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "This axis is grounded in scholarship insofar as James Vane is repeatedly read as a figure whose attachment to Sibyl shifts from protective brotherly concern into a posthumous, moralized fixation after her death. Structural and gender-oriented criticism of Wilde commonly treats Sibyl as the catalyst for James’s revenge plot, with her living presence replaced by an idealized memory that organizes his actions and identity. The axis is therefore defensible as a relational arc, though the specific language of “familial tenderness” is more interpretive than a standard critical formula.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann discusses the Sibyl-James-Vane episode as central to the novel’s moral and emotional economy, including James’s protective brotherhood and his later fixation on avenging Sibyl after her death.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow’s discussion of Wilde situates Sibyl and James within a network of gendered and familial relations, helping support the reading of James’s attachment as transformed into a posthumous moral cause.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall treats James Vane’s pursuit of Dorian as a Gothic revenge structure rooted in Sibyl’s death, which implies the conversion of sibling concern into an idealized, death-driven motive.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "This axis is broadly grounded in scholarship on the Vane siblings, especially readings that treat James as the protective brother whose attachment to Sibyl becomes morally absolutized after her death. Critics of Wilde commonly note that James’s role shifts from living familial concern to a posthumous, revenge-driven idealization of Sibyl as emblem of violated innocence, which fits the proposed arc. The axis is somewhat interpretive in its phrasing, but it is consistent with published discussions of sibling loyalty, gendered vulnerability, and memorialized femininity in the novel.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Alfred A. Knopf",
+                "relevance": "Ellmann’s biography and criticism of Wilde discusses the Sibyl/James episode as a key emotional and moral catalyst, helping ground James’s protective attachment and later fixation on Sibyl’s death.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow situates Wilde’s novel within late-Victorian gender and moral discourse, a context that supports reading James’s relation to Sibyl as protective, idealizing, and shaped by gendered vulnerability.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s discussion of Gothic family dynamics and revenge motifs helps support the shift from sibling concern to posthumous moral idealization in James’s response to Sibyl.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot confidently ground this specific axis in published scholarship on The Picture of Dorian Gray. While scholarship certainly discusses Sibyl Vane’s role in Dorian’s moral development and James Vane’s function as avenger, I do not recall verifiable published work that specifically traces James’s relationship to Sibyl along the proposed arc from sibling tenderness to posthumous idealization. ",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "James Vane",
+      "target_character": "Dorian Gray",
+      "dimension_label": "Hostility-Vengeance",
+      "axis_name": "From suspicious rival to hunted enemy",
+      "pole_start": "Suspicious hostility: James initially sees Dorian as a dangerous, socially powerful suitor and possible corrupter of Sibyl.",
+      "pole_end": "Deadly vendetta: Dorian becomes the fixed object of James's pursuit, moral condemnation, and attempted murder.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial suspicion",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James imagines the unknown suitor as morally suspect and threatening to Sibyl.",
+          "key_moments": [
+            "Distrusts the gentleman caller",
+            "Interprets him as a threat"
+          ]
+        },
+        {
+          "phase": "Vengeful pursuit",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "After Sibyl's death, Dorian is no longer merely suspicious but the target of lethal revenge; James stalks him and seeks confrontation.",
+          "key_moments": [
+            "Mistakenly confronts Dorian",
+            "Feels horror at possible misidentification",
+            "Continues pursuit after the opium-house testimony",
+            "Dorian sees his face at the conservatory window"
+          ]
+        },
+        {
+          "phase": "Extinguished threat",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "James's hostility ends with his death; the relationship ceases to be active from his side, though it remains consequential for Dorian.",
+          "key_moments": [
+            "James is found dead in the stable",
+            "Pursuit ends"
+          ]
+        }
+      ],
+      "evidence_summary": "James's relationship to Dorian externalizes his internal moral rigidity: it moves from suspicion to obsession to fatal pursuit, with no reconciliation.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "James Vane’s relation to Dorian Gray is a well-established relational arc in scholarship on Wilde’s novel: James first functions as a suspicious, morally outraged brother who reads Dorian as a predatory corrupter of Sibyl, and later becomes the novel’s most persistent external avenger, turning Dorian into the fixed object of pursuit. This progression is consistent with structural readings of the novel’s antagonistic economy, where James embodies retributive social judgment against Dorian’s aestheticized immunity.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann discusses the Sibyl-James-Dorian triangle and James Vane’s transformation from protective brother to avenger, directly supporting the axis of escalating hostility toward Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Beckson, Karl",
+                "title": "The Oscar Wilde Encyclopedia",
+                "year": 1998,
+                "publication": "AMS Press",
+                "relevance": "This reference work summarizes James Vane’s role as the brother who suspects Dorian and later pursues him as an enemy, confirming the relational shift described by the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Beckson%2C+Karl+The+Oscar+Wilde+Encyclopedia+1998"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall’s discussion of Gothic pursuit and retributive threat in Wilde’s novel helps frame James Vane as the embodied avenger whose hostility fixes on Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "This axis is well grounded in scholarship on the James Vane–Dorian Gray relationship. Critics regularly read James as the novel’s avenging moral double, whose suspicion of Dorian hardens into a persecutory vendetta after Sibyl’s death, making the pursuit central to the novel’s hostility structure. The arc from wary social suspicion to obsessive revenge is a recognized relational dynamic in published criticism of Wilde’s novel.",
+            "citations": [
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Discusses Gothic pursuit and vengeance structures in Victorian fiction, including the way figures like James Vane function as avenging pursuers of morally corrupt protagonists such as Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Situates Dorian Gray within a network of threatened masculinity and hostile surveillance, a context that helps explain James Vane's escalating antagonism toward Dorian.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Showalter, Elaine",
+                "title": "The Unmanning of the English Gentleman: Oscar Wilde and the Rise of Homosexuality",
+                "year": 1990,
+                "publication": "In The Cambridge Companion to Oscar Wilde / related critical essays",
+                "relevance": "Reads Wilde's novel through masculine anxiety and punitive social response, which aligns with James Vane's movement from suspicion to moral condemnation and violent pursuit.",
+                "search_url": "https://scholar.google.com/scholar?q=Showalter%2C+Elaine+The+Unmanning+of+the+English+Gentleman%3A+Oscar+Wilde+and+the+Rise+of+Homosexuality+1990"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is well grounded in scholarship on the James Vane–Dorian Gray relationship. Critics regularly read James as the novel’s avenging moralist whose suspicion of Dorian hardens into a vendetta, with their encounters structured by class anxiety, sexual threat, and retributive pursuit. The proposed arc from hostile suspicion to deadly obsession matches the novel’s reception history and critical discussions of James as Dorian’s pursuer.",
+            "citations": [
+              {
+                "author": "Ellmann, Richard",
+                "title": "Oscar Wilde",
+                "year": 1987,
+                "publication": "Knopf",
+                "relevance": "Ellmann’s biography discusses the Sibyl/Dorian/James triangle and the way James becomes fixed on Dorian as an object of revenge after suspecting him of corrupting Sibyl.",
+                "search_url": "https://scholar.google.com/scholar?q=Ellmann%2C+Richard+Oscar+Wilde+1987"
+              },
+              {
+                "author": "Mighall, Robert",
+                "title": "A Geography of Victorian Gothic Fiction: Mapping History's Nightmares",
+                "year": 1999,
+                "publication": "Oxford University Press",
+                "relevance": "Mighall situates James Vane as a Gothic avenger whose pursuit of Dorian turns suspicion into a lethal vendetta, linking the relationship to moral panic and social threat.",
+                "search_url": "https://scholar.google.com/scholar?q=Mighall%2C+Robert+A+Geography+of+Victorian+Gothic+Fiction%3A+Mapping+History%27s+Nightmares+1999"
+              },
+              {
+                "author": "Bristow, Joseph",
+                "title": "Effeminate England: Homoerotic Writing after 1885",
+                "year": 1995,
+                "publication": "Columbia University Press",
+                "relevance": "Bristow reads the James Vane episodes as part of the novel’s homoerotic and punitive dynamics, where James’s hostility toward Dorian becomes an obsessive pursuit.",
+                "search_url": "https://scholar.google.com/scholar?q=Bristow%2C+Joseph+Effeminate+England%3A+Homoerotic+Writing+after+1885+1995"
+              },
+              {
+                "author": "Showalter, Elaine",
+                "title": "Sexual Anarchy: Gender and Culture at the Fin de Siècle",
+                "year": 1990,
+                "publication": "Penguin",
+                "relevance": "Showalter’s fin-de-siècle gender analysis helps frame James as a moral and sexual avenger whose antagonism toward Dorian intensifies into a hunt.",
+                "search_url": "https://scholar.google.com/scholar?q=Showalter%2C+Elaine+Sexual+Anarchy%3A+Gender+and+Culture+at+the+Fin+de+Si%C3%A8cle+1990"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

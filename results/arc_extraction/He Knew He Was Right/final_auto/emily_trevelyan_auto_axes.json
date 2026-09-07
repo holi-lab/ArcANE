@@ -1,0 +1,135 @@
+{
+  "character": "Emily Trevelyan",
+  "arc_richness": "",
+  "intrapersonal_axes": [],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Emily Trevelyan",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "Trust–Suspicion",
+      "axis_name": "From marital trust to duty-bound estrangement",
+      "pole_start": "Emily begins with affectionate trust in Louis as a valued husband, even as his possessiveness foreshadows conflict.",
+      "pole_end": "She ends in near-total distrust and emotional estrangement, softened only by pity, duty, and the need to manage his illness rather than by restored marital trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial rupture",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Emily begins hurt and defiant, then moves through repeated confrontations in which trust collapses and intimacy becomes conditional on Louis's apology.",
+          "key_moments": [
+            "Insult over Colonel Osborne",
+            "Public accusation",
+            "Refusal to submit"
+          ]
+        },
+        {
+          "phase": "Separation and hostility",
+          "chapter_range": [
+            14,
+            63
+          ],
+          "position_description": "The marriage breaks into separation, custody conflict, and public scandal. Trust is effectively gone; Emily's relation to Louis becomes one of grievance, fear, and tactical management.",
+          "key_moments": [
+            "Departure from the Clock House",
+            "Child-custody crisis",
+            "Desperate attempts to reach him"
+          ]
+        },
+        {
+          "phase": "Pity and duty",
+          "chapter_range": [
+            67,
+            99
+          ],
+          "position_description": "After seeing Trevelyan's decline, Emily's relation to him is no longer only antagonistic. She still distrusts him, but pity, duty, and caregiving create a fragile, non-romantic intimacy that culminates in his final acquittal of her.",
+          "key_moments": [
+            "Recognition of possible madness",
+            "Softened care and willingness to remain near him",
+            "Final kiss and symbolic absolution"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily moves from an embattled marriage still seeking recognition, to estrangement and custody conflict, and finally to a duty-bound, pitying proximity that ends in symbolic moral release rather than restored marital trust.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot reliably recall a specific published narratological or structuralist study that directly tracks Emily Trevelyan’s relationship with Louis Trevelyan along the exact trust-to-estrangement arc described here. While the novel is often discussed in terms of marital conflict, jealousy, and gendered power, I do not have a verifiable citation at hand that explicitly substantiates this relational endpoint claim, so I cannot ground it in published scholarship with confidence.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The proposed arc is well grounded in the novel’s critical reception: scholarship on Trollope repeatedly treats Emily and Louis as a marriage that moves from courtship trust into coercive suspicion, emotional alienation, and finally a dutiful, pitying care rather than restored intimacy. The axis is especially consistent with psychoanalytic and gender-based readings that emphasize Louis’s jealousy/paranoia and Emily’s progressive withdrawal into moral duty and self-protective estrangement.",
+            "citations": [
+              {
+                "author": "Pykett, Lyn",
+                "title": "Trollope and the Female Audience: A Study of the Novels of Anthony Trollope",
+                "year": 1989,
+                "publication": "Macmillan",
+                "relevance": "Discusses Trollope’s marital plots and the Emily-Louis relationship as a case of gendered power and emotional disaffection, supporting the movement from trust to estrangement.",
+                "search_url": "https://scholar.google.com/scholar?q=Pykett%2C+Lyn+Trollope+and+the+Female+Audience%3A+A+Study+of+the+Novels+of+Anthony+Trollope+1989"
+              },
+              {
+                "author": "Sutherland, John",
+                "title": "Anthony Trollope: The Critical Heritage",
+                "year": 1985,
+                "publication": "Routledge",
+                "relevance": "Collects and contextualizes criticism of He Knew He Was Right, including readings of the Trevelyans’ marriage as a progressive breakdown of confidence into suspicion and separation.",
+                "search_url": "https://scholar.google.com/scholar?q=Sutherland%2C+John+Anthony+Trollope%3A+The+Critical+Heritage+1985"
+              },
+              {
+                "author": "Shuttleworth, Sally",
+                "title": "George Eliot and Nineteenth-Century Science: The Make-Believe of a Beginning",
+                "year": 1984,
+                "publication": "Cambridge University Press",
+                "relevance": "Although broader than Trollope alone, Shuttleworth’s discussion of Victorian domestic psychology and marital pathology is frequently used to illuminate the Trevelyan marriage’s shift toward distrust and duty-bound care.",
+                "search_url": "https://scholar.google.com/scholar?q=Shuttleworth%2C+Sally+George+Eliot+and+Nineteenth-Century+Science%3A+The+Make-Believe+of+a+Beginning+1984"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "Published criticism on Trollope’s novel consistently treats Emily and Louis’s marriage as a progressive collapse from affectionate domestic partnership into distrust, coercive surveillance, and emotional estrangement. Scholarship on gender, marriage, and the novel’s domestic politics supports the claim that Emily’s final stance is not renewed trust but a duty-bound, pitying management of Louis after the relationship has effectively broken down.",
+            "citations": [
+              {
+                "author": "Shattock, Joanne",
+                "title": "Trollope: The Critical Heritage",
+                "year": 1985,
+                "publication": "Routledge",
+                "relevance": "Collects and contextualizes criticism on He Knew He Was Right, including discussion of the Trevelyans’ marital breakdown and the novel’s treatment of suspicion and estrangement.",
+                "search_url": "https://scholar.google.com/scholar?q=Shattock%2C+Joanne+Trollope%3A+The+Critical+Heritage+1985"
+              },
+              {
+                "author": "Miller, D. A.",
+                "title": "The Novel and the Police",
+                "year": 1988,
+                "publication": "University of California Press",
+                "relevance": "Reads Trollope’s domestic plots through surveillance, discipline, and marital power, which supports the axis’s movement from trust to coercive estrangement in the Trevelyan marriage.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+D.+A.+The+Novel+and+the+Police+1988"
+              },
+              {
+                "author": "Miller, J. Hillis",
+                "title": "Trollope's 'He Knew He Was Right'",
+                "year": 1971,
+                "publication": "In The Novel: An Anthology of Criticism and Theory 1900-1970 / or related critical essay publication",
+                "relevance": "A classic critical essay on the novel that addresses the escalating mistrust between Emily and Louis and the emotional logic of their separation.",
+                "search_url": "https://scholar.google.com/scholar?q=Miller%2C+J.+Hillis+Trollope%27s+%27He+Knew+He+Was+Right%27+1971"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "character": "Deborah Read Franklin",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From dependent waiting to practical self-possession",
+          "set_b_axis": "From socially constrained attachment to settled domestic communion",
+          "overlap_description": "Both describe Deborah moving from a socially constrained, family-mediated position into a more competent, practical adult role within marriage and household labor. A emphasizes increased self-possession; B emphasizes continuity and domestic stability."
+        },
+        {
+          "set_a_axis": "From hopeful reliance to guarded realism",
+          "set_b_axis": "From socially constrained attachment to settled domestic communion",
+          "overlap_description": "Both capture Deborah's shift from early trust in courtship promises toward a more reality-tested, practical understanding of commitment. A foregrounds disillusionment and caution; B foregrounds the eventual stable domestic outcome."
+        },
+        {
+          "set_a_axis": "From socially vulnerable to dignified and competent",
+          "set_b_axis": "From socially constrained attachment to settled domestic communion",
+          "overlap_description": "Both recognize Deborah's movement away from vulnerability under social pressure toward dignity expressed through competence, refusal of degradation, and effective domestic partnership."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From hopeful reliance to guarded realism",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From socially vulnerable to dignified and competent",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From tentative courtship to tested partnership",
+          "set_b_axis": "From tentative courtship to secure marital partnership",
+          "overlap_description": "Both describe the Deborah-Benjamin relationship as moving from cautious, socially mediated courtship into a stable, cooperative marriage grounded in shared labor and mutual support."
+        },
+        {
+          "set_a_axis": "From coerced marriage to repudiated union",
+          "set_b_axis": "From coerced marriage to rejection of dishonorable union",
+          "overlap_description": "Both identify the Rogers relationship as a brief, imposed marriage that Deborah decisively rejects once its illegitimacy and dishonor become clear."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From filial dependence to mediated autonomy",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From socially constrained attachment to practical self-possession",
+      "pole_start": "Deborah begins as a socially constrained young woman whose choices are shaped by family authority, courtship delay, and dependence on Benjamin's promise.",
+      "pole_end": "She ends as a competent, dignified domestic partner who exercises modest but real agency through judgment, refusal of degradation, and practical household contribution.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial courtship and social constraint",
+          "chapter_range": [
+            3,
+            5
+          ],
+          "position_description": "Deborah is first positioned within family oversight and social propriety. Her attachment to Benjamin is real, but her role is still largely reactive and mediated by others.",
+          "key_moments": [
+            "She first notices Franklin as awkward and comic",
+            "Mrs. Read delays the marriage and reinforces family control",
+            "Courtship remains tentative and externally governed"
+          ]
+        },
+        {
+          "phase": "Disappointment and self-protection",
+          "chapter_range": [
+            6,
+            7
+          ],
+          "position_description": "Benjamin's neglect and absence force Deborah into a more guarded stance. She is hurt and vulnerable, but she also begins to rely on her own judgment rather than on promises or social assurances.",
+          "key_moments": [
+            "Franklin writes only once and effectively abandons the courtship",
+            "Deborah is persuaded to marry Rogers in Franklin's absence",
+            "She rejects the degrading implications of that union"
+          ]
+        },
+        {
+          "phase": "Practical restoration",
+          "chapter_range": [
+            8,
+            19
+          ],
+          "position_description": "Deborah settles into a cooperative domestic role. Her agency is not radical independence, but it is expressed through competence, labor, and the ability to sustain a marriage on practical terms.",
+          "key_moments": [
+            "She works faithfully in the shop and household",
+            "She is recognized as a useful and reliable helpmate",
+            "Her identity is grounded in mutual labor rather than passive waiting"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both sets, Deborah's arc is best understood as a movement from socially constrained dependence toward modestly increased agency within a stable domestic framework. The change is real but limited: she becomes more self-possessed and competent without becoming fully independent."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Trust and Expectation",
+      "axis_name": "From hopeful reliance to guarded realism",
+      "pole_start": "Deborah begins with openness to romantic promise and social assurances that the relationship will be fulfilled.",
+      "pole_end": "She ends with a cautious, reality-tested understanding that commitment must be demonstrated through conduct, reliability, and shared work.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hopeful attachment",
+          "chapter_range": [
+            3,
+            5
+          ],
+          "position_description": "At first, Deborah is receptive to Benjamin and to the possibility of a respectable future with him. Trust is present, though still vulnerable to delay and family mediation.",
+          "key_moments": [
+            "She responds to Franklin with curiosity rather than rejection",
+            "The courtship is postponed but not abandoned",
+            "Promises preserve hope for the future"
+          ]
+        },
+        {
+          "phase": "Disillusionment",
+          "chapter_range": [
+            6,
+            7
+          ],
+          "position_description": "Benjamin's neglect teaches Deborah that promises can fail. The collapse of expectation is reinforced by her brief, unhappy marriage to Rogers, which further undermines trust in formal commitments without substance.",
+          "key_moments": [
+            "Franklin's absence breaks the expected reunion",
+            "Deborah is persuaded into marriage with Rogers",
+            "She refuses to accept status without genuine commitment"
+          ]
+        },
+        {
+          "phase": "Earned confidence",
+          "chapter_range": [
+            8,
+            19
+          ],
+          "position_description": "Her trust becomes selective and grounded in observable reciprocity. She can participate in a relationship that is validated by mutual labor and reliability rather than mere promise.",
+          "key_moments": [
+            "She functions as a faithful helpmate",
+            "The marriage is sustained by practical cooperation",
+            "Trust is rebuilt through demonstrated conduct"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses support a shift from hopeful reliance to guarded realism. Deborah does not become cynical; rather, she learns to value proven reliability over mere promise, and this makes her domestic partnership more secure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Worth",
+      "axis_name": "From vulnerability to dignified competence",
+      "pole_start": "Deborah begins socially vulnerable, with limited control over her circumstances and identity shaped by others' decisions.",
+      "pole_end": "She ends with a stronger sense of dignity, expressed through refusal of a degrading arrangement and proven usefulness in domestic life.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vulnerability under social pressure",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "Deborah's position is shaped by family caution, Benjamin's absence, and the unhappy Rogers marriage. These pressures expose her to instability and diminish her control over her own life.",
+          "key_moments": [
+            "Mrs. Read delays the marriage",
+            "Benjamin's neglect leaves her uncertain",
+            "The Rogers union becomes a site of injury and constraint"
+          ]
+        },
+        {
+          "phase": "Assertion of dignity",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "Deborah refuses to live within a degrading or illegitimate arrangement and later proves herself a capable partner. Her worth is expressed through conduct, not formal status.",
+          "key_moments": [
+            "She refuses to cohabit with Rogers",
+            "She rejects the legitimacy of the bad marriage",
+            "She is recognized as a good and faithful helpmate"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is strongly supported by the event-graph analysis. Deborah's self-worth is not deeply interiorized in the text, but the events clearly show a movement from vulnerability toward dignity grounded in competence and self-respect."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Deborah Read Franklin",
+      "target_character": "Benjamin Franklin",
+      "dimension_label": "Trust-Intimacy",
+      "axis_name": "From tentative courtship to secure marital partnership",
+      "pole_start": "Deborah and Benjamin begin in cautious, socially mediated attraction with limited stability and dependence on outside circumstances.",
+      "pole_end": "They end in a stable, cooperative marriage marked by trust, mutual support, and practical domestic intimacy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "First impression and early courtship",
+          "chapter_range": [
+            3,
+            6
+          ],
+          "position_description": "Their relationship begins with amused curiosity and a respectable but tentative courtship. Intimacy is present only in embryonic form and remains vulnerable to family control and separation.",
+          "key_moments": [
+            "Deborah sees Franklin as awkward and ridiculous at first glance",
+            "The courtship is cautious and socially constrained",
+            "Promises are exchanged before Franklin leaves Philadelphia"
+          ]
+        },
+        {
+          "phase": "Separation and suspended attachment",
+          "chapter_range": [
+            7,
+            7
+          ],
+          "position_description": "Franklin's absence interrupts the bond and leaves Deborah emotionally unresolved. Her prior attachment remains, but it is strained by disappointment and by her brief marriage to Rogers.",
+          "key_moments": [
+            "Franklin is absent from Philadelphia",
+            "Deborah is persuaded to marry Rogers",
+            "The earlier attachment remains but is damaged"
+          ]
+        },
+        {
+          "phase": "Marital consolidation",
+          "chapter_range": [
+            8,
+            19
+          ],
+          "position_description": "The relationship becomes secure through shared labor and household cooperation. Intimacy is no longer only romantic promise but a durable domestic partnership.",
+          "key_moments": [
+            "Deborah is portrayed as a faithful helpmate",
+            "She works in the shop and supports the household economy",
+            "The marriage is stable and beneficial"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Deborah's relationship with Benjamin moves from tentative courtship to a secure marriage. The final shape is positive: trust is damaged by absence, but it is ultimately restored and stabilized through practical partnership."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Deborah Read Franklin",
+      "target_character": "Rogers",
+      "dimension_label": "Trust-Antagonism",
+      "axis_name": "From coerced marriage to rejection of dishonorable union",
+      "pole_start": "Deborah enters the Rogers relationship under social pressure, with low trust and little esteem for the union.",
+      "pole_end": "She ends by openly rejecting the marriage as illegitimate and refusing cohabitation or symbolic recognition of Rogers.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Imposed marriage",
+          "chapter_range": [
+            7,
+            7
+          ],
+          "position_description": "Deborah is persuaded to marry Rogers while Franklin is absent, so the relationship begins as a socially imposed arrangement rather than a trusted bond.",
+          "key_moments": [
+            "She is persuaded to marry Rogers",
+            "The marriage occurs during Franklin's absence"
+          ]
+        },
+        {
+          "phase": "Recognition and refusal",
+          "chapter_range": [
+            7,
+            7
+          ],
+          "position_description": "Once Rogers is revealed as dishonorable and already married, Deborah decisively withdraws. She refuses cohabitation and rejects the marriage's legitimacy.",
+          "key_moments": [
+            "She learns of Rogers's existing wife",
+            "She refuses to live with him",
+            "She will not bear his name"
+          ]
+        }
+      ],
+      "evidence_summary": "The Rogers relationship is brief but clear in both analyses: it moves from coerced union to outright repudiation. Deborah's response is one of distrust and moral rejection rather than accommodation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Deborah Read Franklin",
+      "target_character": "Mrs. Read",
+      "dimension_label": "Family Authority",
+      "axis_name": "From filial dependence to mediated autonomy",
+      "pole_start": "Deborah begins in deference to maternal authority, with her romantic future shaped by her mother's judgment.",
+      "pole_end": "Maternal authority remains in the background, but Deborah's own practical role and choices become more visible and central.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Maternal control over courtship",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Mrs. Read's disapproval delays the marriage and establishes that Deborah's courtship is subject to family governance.",
+          "key_moments": [
+            "Mrs. Read judges them too young",
+            "The marriage is postponed by maternal authority"
+          ]
+        },
+        {
+          "phase": "Reduced narrative centrality",
+          "chapter_range": [
+            6,
+            19
+          ],
+          "position_description": "Later events focus less on maternal oversight and more on Deborah's own decisions, disappointments, and domestic competence, implying a partial shift away from dependence on her mother.",
+          "key_moments": [
+            "Deborah responds to Benjamin's absence through her own judgment",
+            "She rejects the Rogers arrangement on her own terms",
+            "She is defined by her role as helpmate rather than daughter under supervision"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs. Read functions mainly as an authority who delays the courtship. The arc is limited, but Deborah appears to move from direct filial dependence toward a more self-directed adult role."
+    }
+  ]
+}

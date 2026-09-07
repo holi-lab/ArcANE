@@ -1,0 +1,388 @@
+{
+  "character": "Sibyl Vane",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-effacing theatrical dependence to total romantic fusion",
+          "set_b_axis": "From self-effacing romantic fusion to post-romantic self-erasure",
+          "overlap_description": "Both describe Sibyl as communion-dominant, emotionally surrendered, and increasingly defined by her bond with Dorian rather than by independent agency."
+        },
+        {
+          "set_a_axis": "From theatrical selfhood to romanticized anti-art certainty",
+          "set_b_axis": "From theatrical faith to love-as-true-reality",
+          "overlap_description": "Both track the same reversal: Sibyl moves from identifying with performance/art to treating love as more real and art as hollow or false."
+        },
+        {
+          "set_a_axis": "From hopeful elevation to collapsed worthlessness",
+          "set_b_axis": "From romantic innocence to tragic recognition",
+          "overlap_description": "Both capture the collapse of Sibyl's inner standing after rejection, though A emphasizes self-worth and shame while B emphasizes innocence, partial insight, and tragic incompletion."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From hopeful elevation to collapsed worthlessness",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From romantic innocence to tragic recognition",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From worshipful devotion to shattered conditional attachment",
+          "set_b_axis": "From adoring trust to fatal abandonment",
+          "overlap_description": "Both describe Sibyl's relationship with Dorian as beginning in total idealization and ending in rejection, abandonment, and irreversible loss."
+        },
+        {
+          "set_a_axis": "From reciprocal artistic recognition to hostile estrangement",
+          "set_b_axis": "From theatrical devotion to artistic estrangement",
+          "overlap_description": "Both track Sibyl's relationship to the theatre/audience as a performer-recognition bond that breaks when her acting collapses, turning admiration into estrangement or hostility."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From affectionate openness to dismissive disbelief",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From adoring trust to fatal abandonment",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-effacing romantic fusion to post-romantic self-erasure",
+      "pole_start": "Communion-dominant: Sibyl begins emotionally merged with love, art, and the fantasy of being chosen by Dorian; her identity is organized around relational surrender rather than independent self-assertion.",
+      "pole_end": "Communion remains dominant but collapses into self-erasure: after rejection and death, she has no stable independent agency left, and her subjectivity disappears from the narrative.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Idealized romantic communion",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Sibyl is wholly oriented toward Dorian and the fantasy of union; she appears radiant, trusting, and emotionally surrendered rather than self-assertive.",
+          "key_moments": [
+            "Dorian's intense idealization of Sibyl",
+            "The kiss and engagement-like intimacy",
+            "Her adoration and emotional surrender"
+          ]
+        },
+        {
+          "phase": "Communion under strain",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "Dorian's rejection does not produce agency; instead Sibyl intensifies dependence, pleading for forgiveness and reunion while remaining organized around restoring the bond.",
+          "key_moments": [
+            "Dorian's rejection after the failed performance",
+            "Sibyl's desperate explanations",
+            "Her pleas to be forgiven and taken back"
+          ]
+        },
+        {
+          "phase": "Posthumous disappearance",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "After death, Sibyl no longer has active agency or relational presence. She becomes memory, symbol, or moral/aesthetic object in others' minds.",
+          "key_moments": [
+            "Her death in chapter 7",
+            "Later chapters treating her as memory or guilt",
+            "No further direct consciousness or self-assertion"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl's arc is a collapse of relationally oriented selfhood: she begins in romantic fusion, deepens into desperate dependence when rejected, and ends in narrative erasure after death."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "art-reality",
+      "axis_name": "From theatrical identity to love-as-true-reality",
+      "pole_start": "Sibyl initially identifies with the theatre and performance as the meaningful structure of her life, with art functioning as her reality and source of selfhood.",
+      "pole_end": "She comes to regard art as hollow and false, and love for Dorian as the only authentic reality worth living for, though this reordering is later exposed as tragically unstable.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Art as identity",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Sibyl remains bound to performance and the theatrical world; her identity is still organized around acting, admiration, and aesthetic self-display.",
+          "key_moments": [
+            "Her actress identity in the narrative context",
+            "Chapter 5's theatrical and romantic framing",
+            "Her life still tied to performance"
+          ]
+        },
+        {
+          "phase": "Art collapses under love",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "After the disastrous performance, Sibyl explicitly reinterprets acting as unreal and inferior. She says she can no longer act because she has discovered a deeper truth in love.",
+          "key_moments": [
+            "Her failed performance in chapter 6",
+            "Her confession that she cannot act convincingly",
+            "Her declaration that Dorian's love has made art hollow"
+          ]
+        },
+        {
+          "phase": "Art displaced by posthumous meaning",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "Once dead, Sibyl's artistic identity is no longer self-directed; it is overwritten by others' interpretations, turning her from actress into tragic symbol.",
+          "key_moments": [
+            "Dorian's aestheticized grief after her death",
+            "Basil's pity and moral response",
+            "Later references to Sibyl as memory rather than performer"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl moves from living through art to rejecting art in favor of love, only for both identities to be lost after her death; the axis is a disillusioning reversal rather than a stable conversion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "self-worth",
+      "axis_name": "From romantic innocence to collapsed worthlessness",
+      "pole_start": "Sibyl begins in trusting innocence and elevated self-regard, assuming she is chosen, loved, and lifted into a grand future through Dorian's affection.",
+      "pole_end": "She ends in shame and worthlessness, internalizing failure as lover and actress and unable to recover dignity after humiliation and abandonment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Romantic exaltation",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Her engagement produces a sense of being specially selected and emotionally secure, with little suspicion that the bond is conditional.",
+          "key_moments": [
+            "Her adoring response to Dorian",
+            "The kiss and romantic promise",
+            "Her sense of being transformed by love"
+          ]
+        },
+        {
+          "phase": "Conditional worth and partial recognition",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "After the failed performance and Dorian's condemnation, she briefly recognizes that something has changed, but her self-esteem becomes conditional on pleasing him and regaining his approval.",
+          "key_moments": [
+            "Her failed Juliet performance",
+            "Her attempts to explain herself",
+            "Her pleas for forgiveness and reunion"
+          ]
+        },
+        {
+          "phase": "Terminal collapse",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "Her death seals the collapse of self-worth; the narrative frames her as unable to recover dignity after rejection, and later memory cannot restore her standing.",
+          "key_moments": [
+            "Her death in chapter 7",
+            "Retrospective pity and guilt in later chapters",
+            "The finality of abandonment"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl moves from feeling ennobled by love to internalizing Dorian's contempt, which destroys her sense of value and leaves her with no stable self-regard."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Sibyl Vane",
+      "target_character": "Dorian Gray",
+      "dimension_label": "trust-intimacy",
+      "axis_name": "From adoring trust to fatal abandonment",
+      "pole_start": "High trust, high intimacy, and romantic surrender: Sibyl believes Dorian loves her and experiences the bond as sacred and exclusive.",
+      "pole_end": "The relationship ends in rejection and irreversible loss: Dorian withdraws love, Sibyl is abandoned, and the bond survives only as memory and guilt.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Idealized attachment",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Sibyl is positioned as Dorian's adored beloved, trusting him completely and emotionally yielding to the romance.",
+          "key_moments": [
+            "Dorian's worshipful idealization",
+            "The kiss and romantic promise",
+            "Sibyl's adoration and vulnerability"
+          ]
+        },
+        {
+          "phase": "Rejection and pleading",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "Dorian's rejection shatters the bond. Sibyl remains trusting for a moment, then becomes desperate, pleading for forgiveness and reunion even as the relationship collapses.",
+          "key_moments": [
+            "Dorian condemns her performance",
+            "Sibyl begs him to stay and forgive her",
+            "Her inability to grasp the finality of his withdrawal"
+          ]
+        },
+        {
+          "phase": "Posthumous fixation",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "After her death, the relationship is no longer reciprocal. Sibyl exists only as the lost beloved in Dorian's memory and moral burden.",
+          "key_moments": [
+            "Her death in chapter 7",
+            "Dorian's grief and aestheticization",
+            "Later references to Sibyl as a memory of guilt"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl's relationship with Dorian moves from complete romantic trust to abandonment and irreversible loss, then persists only as tragic memory and guilt."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Sibyl Vane",
+      "target_character": "Theatre / Art",
+      "dimension_label": "attachment-disillusionment",
+      "axis_name": "From theatrical devotion to artistic estrangement",
+      "pole_start": "Strong attachment to the stage as the center of identity, value, and self-expression.",
+      "pole_end": "Estrangement from acting: art is experienced as false, hollow, and no longer inhabitable.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Embedded in performance",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "Sibyl remains identified with theatrical life; performance is still part of her self-concept and social world.",
+          "key_moments": [
+            "Her actress identity in the narrative",
+            "Chapter 5's emphasis on her radiant, performative presence"
+          ]
+        },
+        {
+          "phase": "Break with the stage",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "After failing to act, she explicitly rejects the stage as her true reality and treats love as superior to art.",
+          "key_moments": [
+            "Her disastrous performance",
+            "Her confession that she can no longer act",
+            "Her claim that love has made art unreal"
+          ]
+        },
+        {
+          "phase": "Artistic identity overwritten",
+          "chapter_range": [
+            7,
+            18
+          ],
+          "position_description": "Following her death, art no longer belongs to Sibyl as a lived practice; she is transformed into a tragic image in others' narratives.",
+          "key_moments": [
+            "Dorian's and Basil's retrospective interpretations",
+            "Sibyl as symbol rather than performer"
+          ]
+        }
+      ],
+      "evidence_summary": "Sibyl's relationship to art changes decisively in chapter 6: love displaces art, and death removes her from both lived performance and self-authored identity."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Sibyl Vane",
+      "target_character": "James Vane",
+      "dimension_label": "trust-dismissal",
+      "axis_name": "From sibling concern to dismissed warning",
+      "pole_start": "Sibyl begins with ordinary sibling affection and some openness to James's concern and protective skepticism.",
+      "pole_end": "She ends by treating his warnings as irrelevant, with his judgment losing force against her romantic fixation on Dorian.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Sibling concern",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James's warnings are present, but Sibyl remains affectionate and only partially responsive to his skepticism.",
+          "key_moments": [
+            "James's protective concern",
+            "Sibyl's affectionate response",
+            "Her limited attention to his warnings"
+          ]
+        },
+        {
+          "phase": "Romantic override",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Her trust in James's caution erodes as she prioritizes Dorian and dismisses practical or protective advice.",
+          "key_moments": [
+            "Her focus on Dorian",
+            "The diminishing force of James's caution",
+            "Her romantic absorption"
+          ]
+        },
+        {
+          "phase": "Warning becomes irrelevant",
+          "chapter_range": [
+            6,
+            7
+          ],
+          "position_description": "James's skepticism becomes emotionally secondary; Sibyl is too absorbed in Dorian and later too devastated to use his warnings constructively.",
+          "key_moments": [
+            "Dorian's rejection",
+            "Sibyl's desperate pleading",
+            "Her inability to act on James's warnings"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a plausible but secondary relational axis: James functions as a countervoice to romance, but Sibyl's attachment to Dorian steadily overwhelms his protective influence."
+    }
+  ]
+}

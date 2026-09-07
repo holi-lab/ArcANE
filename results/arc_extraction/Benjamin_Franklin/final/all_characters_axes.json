@@ -1,0 +1,1270 @@
+{
+  "Benjamin Franklin": {
+    "character": "Benjamin Franklin",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From family-directed dependence to self-authored public agency",
+            "set_b_axis": "From self-making independence to civic interdependence",
+            "overlap_description": "Both describe Franklin's movement from early self-assertion constrained by others toward a mature form of agency expressed through public institutions, cooperation, and civic leadership."
+          },
+          {
+            "set_a_axis": "From clever rationalizer to disciplined moral engineer",
+            "set_b_axis": "From flexible usefulness to disciplined virtue",
+            "overlap_description": "Both track Franklin's moral development from flexible, self-justifying pragmatism toward systematic self-discipline, habit formation, and a more regulated ethic of conduct."
+          },
+          {
+            "set_a_axis": "From personal advancement to civic usefulness",
+            "set_b_axis": "From amused vanity to managed self-regulation",
+            "overlap_description": "Both capture the shift from self-focused ambition and vanity toward a more restrained, socially useful orientation in which reputation and achievement are subordinated to public good."
+          },
+          {
+            "set_a_axis": "From credulous reliance to strategic skepticism",
+            "set_b_axis": "From trusting uplift to wary practical judgment",
+            "overlap_description": "Both describe Franklin learning to distrust flattering promises and authority, replacing naive confidence with experience-based prudence and selective trust."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From clever rationalizer to disciplined moral engineer",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "Vanity-Self-Mastery",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From filial constraint to enduring paternal respect",
+            "set_b_axis": "From brotherly subordination to hardened independence",
+            "overlap_description": "Both concern Franklin's early family relationships as a site of constraint and eventual emotional distance, though A centers Josiah and B centers James; together they show the family-to-autonomy pattern."
+          },
+          {
+            "set_a_axis": "From trusting patronage to learned skepticism",
+            "set_b_axis": "From patronal trust to exposed manipulation",
+            "overlap_description": "Both identify Keith as the key patronage relationship in which Franklin's early trust is broken, producing a durable skepticism toward elite favor."
+          },
+          {
+            "set_a_axis": "From hopeful attachment to cautious, delayed partnership",
+            "set_b_axis": "From delayed courtship to settled domestic attachment",
+            "overlap_description": "Both describe Franklin's relationship with Miss Read as moving from deferred courtship and emotional injury to a stable marriage and domestic grounding."
+          },
+          {
+            "set_a_axis": "From convivial friendship to broken trust",
+            "set_b_axis": "From intellectual camaraderie to burdensome concern",
+            "overlap_description": "Both treat Collins as a friendship that deteriorates under irresponsibility, shifting from companionship to disappointment and practical burden."
+          },
+          {
+            "set_a_axis": "From negotiable opponents to principled adversaries",
+            "set_b_axis": "From impressed deference to cool political distrust",
+            "overlap_description": "Both concern Franklin's later dealings with political authority and show a move from accommodation or admiration toward principled distrust and opposition."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From filial constraint to enduring paternal respect",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From practical acquaintance to trusted benefactor",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From emotional susceptibility to principled admiration",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From cooperative partnership to unequal dependence",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From negotiable opponents to principled adversaries",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From brotherly subordination to hardened independence",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From useful acquaintance to fatherly benefactor",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From impressed deference to cool political distrust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From self-making independence to civic interdependence",
+        "pole_start": "Franklin begins as a self-assertive young man trying to escape family control, apprenticeship, and subordinate status through individual effort, wit, and ambition.",
+        "pole_end": "He ends as a highly agentic public figure whose independence is expressed through civic cooperation, institution-building, and socially embedded mastery.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Constrained youth and departure",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Franklin is still shaped by family authority and apprenticeship, but he already seeks to author his own future through reading, writing, and escape from Boston.",
+            "key_moments": [
+              "Family and apprenticeship constraints",
+              "Departure from Boston",
+              "Self-education and early ambition",
+              "Keith's patronage as a route to advancement"
+            ]
+          },
+          {
+            "phase": "Practical self-reliance",
+            "chapter_range": [
+              5,
+              9
+            ],
+            "position_description": "He becomes more self-directed and tactically independent, using discipline, tact, and social calibration to advance while still relying on relationships and reputation.",
+            "key_moments": [
+              "Business and printing success",
+              "Marriage and domestic stabilization",
+              "Virtue project and self-correction",
+              "Learning from failed dependence"
+            ]
+          },
+          {
+            "phase": "Public usefulness and coordination",
+            "chapter_range": [
+              10,
+              18
+            ],
+            "position_description": "Agency is now exercised through public institutions, civic reform, science, and collective projects, making him less a lone striver than a coordinator of shared action.",
+            "key_moments": [
+              "Libraries, clubs, and print culture",
+              "Fire companies and civic reform",
+              "Hospitals, academies, and experiments",
+              "Public instruction and organized cooperation"
+            ]
+          },
+          {
+            "phase": "Political mediation",
+            "chapter_range": [
+              19,
+              19
+            ],
+            "position_description": "Franklin ends as a diplomatic, constitutionally minded negotiator whose independence is embedded in coalition-building and public service rather than personal escape.",
+            "key_moments": [
+              "Colonial agent in London",
+              "Negotiations with ministers and proprietaries",
+              "Defense of constitutional and public interests"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin's arc moves from solitary self-making toward a mature form of civic agency. He does not become less independent; rather, his independence becomes more public, cooperative, and institutionally effective."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Prudence-Skepticism",
+        "axis_name": "From trusting uplift to wary practical judgment",
+        "pole_start": "Franklin begins with confidence that talent, effort, and patronage will naturally produce advancement, and he is initially inclined to trust flattering authority.",
+        "pole_end": "He ends with cautious, experience-based judgment that prefers evidence, explicit terms, and practical safeguards over promises or status.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early optimism and trust",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "He assumes merit will be rewarded and is especially susceptible to the promise of elite backing and social uplift.",
+            "key_moments": [
+              "Keith's flattering promises",
+              "Hope in advancement through patronage",
+              "Confidence in social mobility"
+            ]
+          },
+          {
+            "phase": "Disillusionment and correction",
+            "chapter_range": [
+              5,
+              7
+            ],
+            "position_description": "Broken promises, financial trouble, and personal errors teach him to distrust appearances and to treat imprudence as a correctable flaw.",
+            "key_moments": [
+              "Keith's failure",
+              "Collins's unreliability",
+              "Self-described errata",
+              "Recognition of practical reliability"
+            ]
+          },
+          {
+            "phase": "Institutional prudence",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "He increasingly relies on contracts, public accountability, and verifiable results, becoming politically alert to structural power and less willing to assume benevolence from authority.",
+            "key_moments": [
+              "Explicit partnerships and safeguards",
+              "Public institutions and utility",
+              "Albany Plan disappointment",
+              "Recognition of imperial and proprietary obstruction"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin's confidence survives, but it becomes disciplined by experience. He learns to replace naive trust with practical judgment and structural caution."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Vanity-Self-Mastery",
+        "axis_name": "From amused vanity to managed self-regulation",
+        "pole_start": "Franklin begins with open awareness of vanity as a lively, socially useful trait and a willingness to enjoy admiration.",
+        "pole_end": "He ends with vanity still present but governed by self-discipline, public usefulness, and a preference for influence without overt self-display.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Playful self-regard",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Vanity is treated almost comically: Franklin enjoys praise, wit, and the pleasures of being noticed.",
+            "key_moments": [
+              "Opening reflections on vanity",
+              "Praise for writing and cleverness",
+              "Performance as social advantage"
+            ]
+          },
+          {
+            "phase": "Moralized self-scrutiny",
+            "chapter_range": [
+              6,
+              9
+            ],
+            "position_description": "He begins to identify pride as a real obstacle, using the virtue project and criticism from others to regulate self-regard.",
+            "key_moments": [
+              "Calls earlier choices errata",
+              "Quaker criticism of pride",
+              "Thirteen virtues and self-tracking",
+              "Recognition of performative humility"
+            ]
+          },
+          {
+            "phase": "Publicly disciplined modesty",
+            "chapter_range": [
+              10,
+              19
+            ],
+            "position_description": "He still values recognition, but increasingly frames it as a byproduct of usefulness rather than a goal, managing reputation as a tool rather than a vanity project.",
+            "key_moments": [
+              "Reputation used for public projects",
+              "Science and evidence over self-display",
+              "Influence without overt ambition",
+              "Service as the basis of esteem"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin never loses vanity, but he learns to domesticate it. The arc is from amused self-acceptance to a controlled, socially useful self-presentation."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Utilitarian Morality",
+        "axis_name": "From flexible usefulness to disciplined virtue",
+        "pole_start": "Franklin begins with a practical morality in which honesty and usefulness matter more than abstract principle, and rules are often instrumentalized.",
+        "pole_end": "He ends with a more systematic, habit-based ethic that still values utility but treats virtue as a disciplined practice with public and private consequences.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Practical ethics",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Morality is initially framed as useful conduct, and he readily rationalizes behavior when it serves advancement or convenience.",
+            "key_moments": [
+              "Childhood honesty lesson",
+              "Rationalized dietary and social choices",
+              "Instrumental use of manners and religion"
+            ]
+          },
+          {
+            "phase": "Ethical correction",
+            "chapter_range": [
+              5,
+              9
+            ],
+            "position_description": "He becomes more self-critical and starts to see moral flaws as habits to be corrected rather than excuses to be managed.",
+            "key_moments": [
+              "Regret over neglected obligations",
+              "Self-description as errata",
+              "Thirteen-virtue system",
+              "Ongoing discipline of pride and order"
+            ]
+          },
+          {
+            "phase": "Public virtue",
+            "chapter_range": [
+              10,
+              19
+            ],
+            "position_description": "Virtue becomes civic as well as personal: he uses print, science, and institutions to promote useful knowledge, fair dealing, and public-spirited reform.",
+            "key_moments": [
+              "Print as practical morality",
+              "Civic institutions and education",
+              "Experiment as truth-seeking",
+              "Political action for public utility"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin's moral reasoning evolves from practical flexibility into disciplined self-governance. He remains utilitarian, but his utility becomes more rigorous, public, and reformist."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Benjamin Franklin",
+        "target_character": "Josiah Franklin",
+        "dimension_label": "Authority-Respect",
+        "axis_name": "From filial constraint to internalized paternal wisdom",
+        "pole_start": "Josiah begins as a restrictive paternal authority whose decisions limit Franklin's freedom and whose corrections feel controlling.",
+        "pole_end": "He ends as an internalized source of practical wisdom and moral guidance, respected even after Franklin becomes independent.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Constraint and correction",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Josiah blocks Franklin's preferred paths, corrects his theft, and steers him into apprenticeships, making him feel both limited and formed.",
+            "key_moments": [
+              "Stone-theft correction",
+              "Steering away from the sea",
+              "Apprenticeship decisions"
+            ]
+          },
+          {
+            "phase": "Ambivalent support",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "Franklin increasingly recognizes his father's counsel as prudent rather than merely obstructive, especially in matters of work, caution, and advancement.",
+            "key_moments": [
+              "Refusal of Keith's business proposal",
+              "Paternal counsel about prudence",
+              "Industry and diligence as inherited principles"
+            ]
+          },
+          {
+            "phase": "Internalized wisdom",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "Josiah's advice becomes part of Franklin's own self-discipline and life narrative, less emotionally central but more deeply integrated into his moral identity.",
+            "key_moments": [
+              "Industry as a guiding principle",
+              "Self-made ascent through labor",
+              "Prudence and caution in public life"
+            ]
+          }
+        ],
+        "evidence_summary": "Josiah remains a formative authority, but Franklin's relation to him changes from resistance to respect and finally to internalization."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Benjamin Franklin",
+        "target_character": "James Franklin",
+        "dimension_label": "Dependence-Autonomy",
+        "axis_name": "From brotherly subordination to hardened independence",
+        "pole_start": "Franklin begins under James's authority, with mixed affection, respect, and humiliation as an apprentice dependent on his brother.",
+        "pole_end": "He ends with emotional distance and practical independence, no longer seeking reconciliation on James's terms.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Apprentice conflict",
+            "chapter_range": [
+              2,
+              2
+            ],
+            "position_description": "James is a controlling and punitive older brother; Franklin feels resentment, shame, and a desire to escape.",
+            "key_moments": [
+              "Beatings and control in apprenticeship",
+              "Resistance to authority",
+              "Departure from Boston"
+            ]
+          },
+          {
+            "phase": "Defiant separation",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "Franklin's independence becomes concrete as he establishes himself in Philadelphia and returns only under pressure, cooling the relationship into distance and pride.",
+            "key_moments": [
+              "Secret arrival in Philadelphia",
+              "Refusal to return to Boston",
+              "Emotional coolness"
+            ]
+          },
+          {
+            "phase": "Partial reconciliation without dependence",
+            "chapter_range": [
+              8,
+              10
+            ],
+            "position_description": "The relationship softens somewhat through family repair and practical generosity, but Franklin remains the freer party, helping rather than submitting.",
+            "key_moments": [
+              "Marriage and domestic stability",
+              "Helping James's son enter printing",
+              "Family feeling without restored hierarchy"
+            ]
+          }
+        ],
+        "evidence_summary": "James Franklin is the primary early obstacle to Benjamin's autonomy. The arc moves from subordination and resentment to a settled independence that can include generosity but not renewed dependence."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Benjamin Franklin",
+        "target_character": "Sir William Keith",
+        "dimension_label": "Trust-Disillusionment",
+        "axis_name": "From patronal trust to exposed manipulation",
+        "pole_start": "Keith appears as a powerful benefactor whose attention and promises seem to open elite pathways for Franklin.",
+        "pole_end": "He becomes a cautionary example of patronage without substance, leaving Franklin distrustful of flattering authority.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Enthralled patronage",
+            "chapter_range": [
+              4,
+              4
+            ],
+            "position_description": "Keith flatters Franklin and promises support, and Franklin responds with admiration and near-complete trust.",
+            "key_moments": [
+              "Keith's promises",
+              "Expectation of elite support",
+              "Plans for advancement"
+            ]
+          },
+          {
+            "phase": "Collapse of promises",
+            "chapter_range": [
+              5,
+              6
+            ],
+            "position_description": "Keith fails to deliver, exposing the gap between appearance and reality and forcing Franklin toward self-reliance.",
+            "key_moments": [
+              "Promises collapse",
+              "Disillusionment",
+              "Shift toward self-reliance"
+            ]
+          },
+          {
+            "phase": "Retrospective skepticism",
+            "chapter_range": [
+              7,
+              19
+            ],
+            "position_description": "Keith becomes a durable lesson in the unreliability of status without substance; Franklin's later success depends on practical alliances instead.",
+            "key_moments": [
+              "Preference for reliable allies like Denham",
+              "Public career grounded in usefulness",
+              "Skepticism toward patronage"
+            ]
+          }
+        ],
+        "evidence_summary": "Keith is the clearest case of Franklin learning that status and promises can be hollow. The relationship moves from dazzled trust to durable skepticism."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Benjamin Franklin",
+        "target_character": "Miss Read / Mrs. Franklin",
+        "dimension_label": "Courtship-Commitment",
+        "axis_name": "From delayed courtship to settled domestic attachment",
+        "pole_start": "Franklin begins with romantic interest that is deferred, interrupted, and morally unstable through neglect and inconstancy.",
+        "pole_end": "He ends in a stable marriage marked by gratitude, domestic trust, and emotional security.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Interrupted attachment",
+            "chapter_range": [
+              3,
+              6
+            ],
+            "position_description": "Miss Read is a meaningful but delayed attachment; Franklin is embarrassed, neglectful, and not yet ready to commit.",
+            "key_moments": [
+              "First impressions in Philadelphia",
+              "Failure to write while away",
+              "Regret and moral omission"
+            ]
+          },
+          {
+            "phase": "Renewed tenderness",
+            "chapter_range": [
+              7,
+              8
+            ],
+            "position_description": "The relationship becomes emotionally weightier as he regrets the lost opportunity and later re-encounters her as Mrs. Franklin, now a source of domestic stability.",
+            "key_moments": [
+              "Miss Read's marriage during his absence",
+              "Lingering regret",
+              "Later marriage to Mrs. Franklin"
+            ]
+          },
+          {
+            "phase": "Domestic settlement",
+            "chapter_range": [
+              9,
+              19
+            ],
+            "position_description": "She becomes a stable, supportive partner in the background of his public life, anchoring his later identity rather than remaining an aspirational romance.",
+            "key_moments": [
+              "Domestic life stabilizes the household",
+              "Support for public work",
+              "No further romantic uncertainty"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin's relationship to Read/Franklin moves from deferred desire and regret into a settled marriage that anchors his later public identity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Benjamin Franklin",
+        "target_character": "John Collins",
+        "dimension_label": "Companionship-Disappointment",
+        "axis_name": "From intellectual camaraderie to burdensome concern",
+        "pole_start": "Collins begins as a stimulating companion and conversational foil, marked by debate, mutual sparring, and shared energy.",
+        "pole_end": "He ends as a disappointing and morally costly attachment, with Franklin burdened by Collins's irresponsibility and decline.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Sparring companionship",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "Collins helps sharpen Franklin's rhetorical habits through debate and intellectual exchange.",
+            "key_moments": [
+              "Debating and sparring",
+              "Mutual literary exchange"
+            ]
+          },
+          {
+            "phase": "Moral burden",
+            "chapter_range": [
+              4,
+              6
+            ],
+            "position_description": "Collins's drinking and irresponsibility strain the friendship and create practical inconvenience and disappointment.",
+            "key_moments": [
+              "Debts and drinking",
+              "Franklin's disappointment",
+              "Practical burden"
+            ]
+          },
+          {
+            "phase": "Diminished trust",
+            "chapter_range": [
+              7,
+              7
+            ],
+            "position_description": "The friendship remains affectionate in memory but no longer functions as a reliable source of support or admiration.",
+            "key_moments": [
+              "Collins as cautionary example",
+              "Loss of trust and esteem"
+            ]
+          }
+        ],
+        "evidence_summary": "Collins begins as a lively intellectual foil and ends as a warning about undisciplined talent. Franklin's affection persists, but trust and esteem decline."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Benjamin Franklin",
+        "target_character": "Mr. Denham",
+        "dimension_label": "Patronage-Reliability",
+        "axis_name": "From practical acquaintance to fatherly benefactor",
+        "pole_start": "Denham begins as a practical contact whose value lies in employment and opportunity.",
+        "pole_end": "He ends as a deeply trusted, fatherly figure whose reliability and moral seriousness Franklin admires.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Practical opening",
+            "chapter_range": [
+              6,
+              6
+            ],
+            "position_description": "Denham first appears as a promising source of work and a more trustworthy alternative to empty patronage.",
+            "key_moments": [
+              "Denham offers a path back to Pennsylvania"
+            ]
+          },
+          {
+            "phase": "Deepened trust",
+            "chapter_range": [
+              7,
+              7
+            ],
+            "position_description": "Franklin comes to see Denham as a stabilizing, beneficent influence, almost fatherly in his reliability and counsel.",
+            "key_moments": [
+              "Denham's moral seriousness",
+              "Franklin's gratitude and admiration"
+            ]
+          }
+        ],
+        "evidence_summary": "Denham stands in sharp contrast to Keith: he represents dependable, morally serious support and becomes one of Franklin's most trusted adult attachments."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_07",
+        "source_character": "Benjamin Franklin",
+        "target_character": "George Whitefield",
+        "dimension_label": "Admiration-Critique",
+        "axis_name": "From emotional susceptibility to critical respect",
+        "pole_start": "Franklin begins strongly moved by Whitefield's eloquence and emotionally susceptible to his rhetoric.",
+        "pole_end": "He ends with respectful but detached admiration, valuing Whitefield's sincerity and power without surrendering judgment.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Amazed and moved",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "Whitefield's sermons powerfully affect Franklin, revealing his susceptibility to rhetoric and prompting him to give money.",
+            "key_moments": [
+              "Whitefield's preaching",
+              "Franklin gives money after being moved"
+            ]
+          },
+          {
+            "phase": "Cordial disagreement",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "Franklin declines Whitefield's orphan-house project but defends his honesty, separating disagreement from distrust.",
+            "key_moments": [
+              "Refusal to contribute to Georgia project",
+              "Public defense of Whitefield's honesty"
+            ]
+          },
+          {
+            "phase": "Analytical respect",
+            "chapter_range": [
+              11,
+              11
+            ],
+            "position_description": "Franklin reflects on Whitefield's style and influence more coolly, treating him as an object of study as well as admiration.",
+            "key_moments": [
+              "Reflection on repetition and oratory",
+              "Recognition of print's limits"
+            ]
+          }
+        ],
+        "evidence_summary": "Whitefield becomes a test case for Franklin's understanding of persuasion: he is genuinely impressed, but the relationship settles into respectful critical distance rather than devotion."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_08",
+        "source_character": "Benjamin Franklin",
+        "target_character": "Proprietaries",
+        "dimension_label": "Accommodation-Opposition",
+        "axis_name": "From negotiable opponents to principled adversaries",
+        "pole_start": "Franklin begins willing to negotiate and compromise with proprietary power when public ends require it.",
+        "pole_end": "He ends seeing the proprietaries as entrenched adversaries whose interests are structurally obstructive to the public good.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Pragmatic negotiation",
+            "chapter_range": [
+              15,
+              19
+            ],
+            "position_description": "Franklin tries to work around proprietary obstruction through compromise, written assurances, and procedural ingenuity.",
+            "key_moments": [
+              "Tax act compromise",
+              "Loan Office workaround",
+              "Petitioning against instructions"
+            ]
+          },
+          {
+            "phase": "Structural antagonism",
+            "chapter_range": [
+              15,
+              19
+            ],
+            "position_description": "He comes to see proprietary instructions as the root of political conflict rather than isolated mistakes.",
+            "key_moments": [
+              "Recurring quarrels",
+              "Indignation at greed",
+              "Resistance to proprietary inducements"
+            ]
+          },
+          {
+            "phase": "Open principled opposition",
+            "chapter_range": [
+              19,
+              19
+            ],
+            "position_description": "By the end, Franklin refuses patronage and frames his stance as public-spirited independence rather than self-interest.",
+            "key_moments": [
+              "Governor Denny's overtures",
+              "Declining proprietary favor",
+              "Continued hostility"
+            ]
+          }
+        ],
+        "evidence_summary": "Franklin's dealings with the proprietaries move from tactical accommodation to clear-eyed opposition, as he increasingly interprets them as a structural obstacle to public good."
+      }
+    ]
+  },
+  "Deborah Read Franklin": {
+    "character": "Deborah Read Franklin",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From dependent waiting to practical self-possession",
+            "set_b_axis": "From socially constrained attachment to settled domestic communion",
+            "overlap_description": "Both describe Deborah moving from a socially constrained, family-mediated position into a more competent, practical adult role within marriage and household labor. A emphasizes increased self-possession; B emphasizes continuity and domestic stability."
+          },
+          {
+            "set_a_axis": "From hopeful reliance to guarded realism",
+            "set_b_axis": "From socially constrained attachment to settled domestic communion",
+            "overlap_description": "Both capture Deborah's shift from early trust in courtship promises toward a more reality-tested, practical understanding of commitment. A foregrounds disillusionment and caution; B foregrounds the eventual stable domestic outcome."
+          },
+          {
+            "set_a_axis": "From socially vulnerable to dignified and competent",
+            "set_b_axis": "From socially constrained attachment to settled domestic communion",
+            "overlap_description": "Both recognize Deborah's movement away from vulnerability under social pressure toward dignity expressed through competence, refusal of degradation, and effective domestic partnership."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From hopeful reliance to guarded realism",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From socially vulnerable to dignified and competent",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From tentative courtship to tested partnership",
+            "set_b_axis": "From tentative courtship to secure marital partnership",
+            "overlap_description": "Both describe the Deborah-Benjamin relationship as moving from cautious, socially mediated courtship into a stable, cooperative marriage grounded in shared labor and mutual support."
+          },
+          {
+            "set_a_axis": "From coerced marriage to repudiated union",
+            "set_b_axis": "From coerced marriage to rejection of dishonorable union",
+            "overlap_description": "Both identify the Rogers relationship as a brief, imposed marriage that Deborah decisively rejects once its illegitimacy and dishonor become clear."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From filial dependence to mediated autonomy",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From socially constrained attachment to practical self-possession",
+        "pole_start": "Deborah begins as a socially constrained young woman whose choices are shaped by family authority, courtship delay, and dependence on Benjamin's promise.",
+        "pole_end": "She ends as a competent, dignified domestic partner who exercises modest but real agency through judgment, refusal of degradation, and practical household contribution.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial courtship and social constraint",
+            "chapter_range": [
+              3,
+              5
+            ],
+            "position_description": "Deborah is first positioned within family oversight and social propriety. Her attachment to Benjamin is real, but her role is still largely reactive and mediated by others.",
+            "key_moments": [
+              "She first notices Franklin as awkward and comic",
+              "Mrs. Read delays the marriage and reinforces family control",
+              "Courtship remains tentative and externally governed"
+            ]
+          },
+          {
+            "phase": "Disappointment and self-protection",
+            "chapter_range": [
+              6,
+              7
+            ],
+            "position_description": "Benjamin's neglect and absence force Deborah into a more guarded stance. She is hurt and vulnerable, but she also begins to rely on her own judgment rather than on promises or social assurances.",
+            "key_moments": [
+              "Franklin writes only once and effectively abandons the courtship",
+              "Deborah is persuaded to marry Rogers in Franklin's absence",
+              "She rejects the degrading implications of that union"
+            ]
+          },
+          {
+            "phase": "Practical restoration",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "Deborah settles into a cooperative domestic role. Her agency is not radical independence, but it is expressed through competence, labor, and the ability to sustain a marriage on practical terms.",
+            "key_moments": [
+              "She works faithfully in the shop and household",
+              "She is recognized as a useful and reliable helpmate",
+              "Her identity is grounded in mutual labor rather than passive waiting"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both sets, Deborah's arc is best understood as a movement from socially constrained dependence toward modestly increased agency within a stable domestic framework. The change is real but limited: she becomes more self-possessed and competent without becoming fully independent."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Trust and Expectation",
+        "axis_name": "From hopeful reliance to guarded realism",
+        "pole_start": "Deborah begins with openness to romantic promise and social assurances that the relationship will be fulfilled.",
+        "pole_end": "She ends with a cautious, reality-tested understanding that commitment must be demonstrated through conduct, reliability, and shared work.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hopeful attachment",
+            "chapter_range": [
+              3,
+              5
+            ],
+            "position_description": "At first, Deborah is receptive to Benjamin and to the possibility of a respectable future with him. Trust is present, though still vulnerable to delay and family mediation.",
+            "key_moments": [
+              "She responds to Franklin with curiosity rather than rejection",
+              "The courtship is postponed but not abandoned",
+              "Promises preserve hope for the future"
+            ]
+          },
+          {
+            "phase": "Disillusionment",
+            "chapter_range": [
+              6,
+              7
+            ],
+            "position_description": "Benjamin's neglect teaches Deborah that promises can fail. The collapse of expectation is reinforced by her brief, unhappy marriage to Rogers, which further undermines trust in formal commitments without substance.",
+            "key_moments": [
+              "Franklin's absence breaks the expected reunion",
+              "Deborah is persuaded into marriage with Rogers",
+              "She refuses to accept status without genuine commitment"
+            ]
+          },
+          {
+            "phase": "Earned confidence",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "Her trust becomes selective and grounded in observable reciprocity. She can participate in a relationship that is validated by mutual labor and reliability rather than mere promise.",
+            "key_moments": [
+              "She functions as a faithful helpmate",
+              "The marriage is sustained by practical cooperation",
+              "Trust is rebuilt through demonstrated conduct"
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses support a shift from hopeful reliance to guarded realism. Deborah does not become cynical; rather, she learns to value proven reliability over mere promise, and this makes her domestic partnership more secure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Self-Worth",
+        "axis_name": "From vulnerability to dignified competence",
+        "pole_start": "Deborah begins socially vulnerable, with limited control over her circumstances and identity shaped by others' decisions.",
+        "pole_end": "She ends with a stronger sense of dignity, expressed through refusal of a degrading arrangement and proven usefulness in domestic life.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Vulnerability under social pressure",
+            "chapter_range": [
+              5,
+              7
+            ],
+            "position_description": "Deborah's position is shaped by family caution, Benjamin's absence, and the unhappy Rogers marriage. These pressures expose her to instability and diminish her control over her own life.",
+            "key_moments": [
+              "Mrs. Read delays the marriage",
+              "Benjamin's neglect leaves her uncertain",
+              "The Rogers union becomes a site of injury and constraint"
+            ]
+          },
+          {
+            "phase": "Assertion of dignity",
+            "chapter_range": [
+              7,
+              8
+            ],
+            "position_description": "Deborah refuses to live within a degrading or illegitimate arrangement and later proves herself a capable partner. Her worth is expressed through conduct, not formal status.",
+            "key_moments": [
+              "She refuses to cohabit with Rogers",
+              "She rejects the legitimacy of the bad marriage",
+              "She is recognized as a good and faithful helpmate"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis is strongly supported by the event-graph analysis. Deborah's self-worth is not deeply interiorized in the text, but the events clearly show a movement from vulnerability toward dignity grounded in competence and self-respect."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Deborah Read Franklin",
+        "target_character": "Benjamin Franklin",
+        "dimension_label": "Trust-Intimacy",
+        "axis_name": "From tentative courtship to secure marital partnership",
+        "pole_start": "Deborah and Benjamin begin in cautious, socially mediated attraction with limited stability and dependence on outside circumstances.",
+        "pole_end": "They end in a stable, cooperative marriage marked by trust, mutual support, and practical domestic intimacy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "First impression and early courtship",
+            "chapter_range": [
+              3,
+              6
+            ],
+            "position_description": "Their relationship begins with amused curiosity and a respectable but tentative courtship. Intimacy is present only in embryonic form and remains vulnerable to family control and separation.",
+            "key_moments": [
+              "Deborah sees Franklin as awkward and ridiculous at first glance",
+              "The courtship is cautious and socially constrained",
+              "Promises are exchanged before Franklin leaves Philadelphia"
+            ]
+          },
+          {
+            "phase": "Separation and suspended attachment",
+            "chapter_range": [
+              7,
+              7
+            ],
+            "position_description": "Franklin's absence interrupts the bond and leaves Deborah emotionally unresolved. Her prior attachment remains, but it is strained by disappointment and by her brief marriage to Rogers.",
+            "key_moments": [
+              "Franklin is absent from Philadelphia",
+              "Deborah is persuaded to marry Rogers",
+              "The earlier attachment remains but is damaged"
+            ]
+          },
+          {
+            "phase": "Marital consolidation",
+            "chapter_range": [
+              8,
+              19
+            ],
+            "position_description": "The relationship becomes secure through shared labor and household cooperation. Intimacy is no longer only romantic promise but a durable domestic partnership.",
+            "key_moments": [
+              "Deborah is portrayed as a faithful helpmate",
+              "She works in the shop and supports the household economy",
+              "The marriage is stable and beneficial"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that Deborah's relationship with Benjamin moves from tentative courtship to a secure marriage. The final shape is positive: trust is damaged by absence, but it is ultimately restored and stabilized through practical partnership."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Deborah Read Franklin",
+        "target_character": "Rogers",
+        "dimension_label": "Trust-Antagonism",
+        "axis_name": "From coerced marriage to rejection of dishonorable union",
+        "pole_start": "Deborah enters the Rogers relationship under social pressure, with low trust and little esteem for the union.",
+        "pole_end": "She ends by openly rejecting the marriage as illegitimate and refusing cohabitation or symbolic recognition of Rogers.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Imposed marriage",
+            "chapter_range": [
+              7,
+              7
+            ],
+            "position_description": "Deborah is persuaded to marry Rogers while Franklin is absent, so the relationship begins as a socially imposed arrangement rather than a trusted bond.",
+            "key_moments": [
+              "She is persuaded to marry Rogers",
+              "The marriage occurs during Franklin's absence"
+            ]
+          },
+          {
+            "phase": "Recognition and refusal",
+            "chapter_range": [
+              7,
+              7
+            ],
+            "position_description": "Once Rogers is revealed as dishonorable and already married, Deborah decisively withdraws. She refuses cohabitation and rejects the marriage's legitimacy.",
+            "key_moments": [
+              "She learns of Rogers's existing wife",
+              "She refuses to live with him",
+              "She will not bear his name"
+            ]
+          }
+        ],
+        "evidence_summary": "The Rogers relationship is brief but clear in both analyses: it moves from coerced union to outright repudiation. Deborah's response is one of distrust and moral rejection rather than accommodation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Deborah Read Franklin",
+        "target_character": "Mrs. Read",
+        "dimension_label": "Family Authority",
+        "axis_name": "From filial dependence to mediated autonomy",
+        "pole_start": "Deborah begins in deference to maternal authority, with her romantic future shaped by her mother's judgment.",
+        "pole_end": "Maternal authority remains in the background, but Deborah's own practical role and choices become more visible and central.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Maternal control over courtship",
+            "chapter_range": [
+              5,
+              5
+            ],
+            "position_description": "Mrs. Read's disapproval delays the marriage and establishes that Deborah's courtship is subject to family governance.",
+            "key_moments": [
+              "Mrs. Read judges them too young",
+              "The marriage is postponed by maternal authority"
+            ]
+          },
+          {
+            "phase": "Reduced narrative centrality",
+            "chapter_range": [
+              6,
+              19
+            ],
+            "position_description": "Later events focus less on maternal oversight and more on Deborah's own decisions, disappointments, and domestic competence, implying a partial shift away from dependence on her mother.",
+            "key_moments": [
+              "Deborah responds to Benjamin's absence through her own judgment",
+              "She rejects the Rogers arrangement on her own terms",
+              "She is defined by her role as helpmate rather than daughter under supervision"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs. Read functions mainly as an authority who delays the courtship. The arc is limited, but Deborah appears to move from direct filial dependence toward a more self-directed adult role."
+      }
+    ]
+  },
+  "William Franklin": {
+    "character": "William Franklin",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From supportive dependence to trusted collaborative agency",
+            "set_b_axis": "From deferential support to sustained cooperative service",
+            "overlap_description": "Both axes describe the same basic internal pattern: William is consistently defined by communion, cooperation, and delegated responsibility within Benjamin Franklin's sphere, with only a modest increase in practical agency and no strong move toward independent self-assertion."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From supportive dependence to trusted collaborative agency",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From deferential support to sustained cooperative service",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From filial accompaniment to trusted working partnership",
+            "set_b_axis": "From filial deference to stable operational alignment",
+            "overlap_description": "Both axes capture the same relationship dynamic between William and Benjamin Franklin: a high-trust, cooperative father-son bond centered on delegated work, practical coordination, and continued alignment rather than conflict or emotional transformation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From filial accompaniment to trusted working partnership",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From filial deference to stable operational alignment",
+            "assessment": "borderline"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From deferential dependence to sustained cooperative service",
+        "pole_start": "Communion-leaning dependence: William is positioned as a cooperative helper whose role is defined by alignment with Benjamin Franklin and participation in Benjamin's practical mission rather than independent self-assertion.",
+        "pole_end": "Communion-leaning cooperation with modest agency: William remains a reliable, dutiful assistant, trusted to carry out delegated public and military tasks while still oriented toward collaboration rather than autonomy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Absent from the narrative",
+            "chapter_range": [
+              1,
+              15
+            ],
+            "position_description": "William does not appear in the early chapters, so no internal development is visible before his introduction.",
+            "key_moments": [
+              "William Franklin does not appear or get mentioned in chapters 1-15."
+            ]
+          },
+          {
+            "phase": "Delegated public service",
+            "chapter_range": [
+              16,
+              16
+            ],
+            "position_description": "William enters the narrative as a trusted helper, accompanying Benjamin Franklin and receiving authority to make wagon-and-horse contracts. This shows practical responsibility, but within a deferential, relationally granted role.",
+            "key_moments": [
+              "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+              "William is explicitly empowered to make the same wagon-and-horse contracts in Cumberland County"
+            ]
+          },
+          {
+            "phase": "Collaborative military service",
+            "chapter_range": [
+              17,
+              17
+            ],
+            "position_description": "As aid-de-camp in the frontier defense expedition, William functions as a reliable participant in raising forts and managing troops. The role confirms competence and usefulness, but not independent self-definition.",
+            "key_moments": [
+              "William Franklin serves as Benjamin Franklin's aid-de-camp",
+              "He helps with the raising of forts and the management of troops"
+            ]
+          },
+          {
+            "phase": "No further development",
+            "chapter_range": [
+              18,
+              19
+            ],
+            "position_description": "William is absent again, so the available evidence shows no additional movement on this axis beyond the cooperative, deferential position already established.",
+            "key_moments": [
+              "William is not mentioned in chapters 18-19."
+            ]
+          }
+        ],
+        "evidence_summary": "Across the available chapters, William Franklin remains a dutiful, communion-oriented participant in Benjamin Franklin's work. He gains delegated responsibility and practical competence, but the evidence does not show a meaningful shift toward independent agency; the overall trajectory is stable and cooperative."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "William Franklin",
+        "target_character": "Benjamin Franklin",
+        "dimension_label": "Trust-Alignment",
+        "axis_name": "From filial deference to stable working partnership",
+        "pole_start": "Deferential dependence: William relates to Benjamin as a subordinate helper, trusting his direction and acting within Benjamin's sphere of authority.",
+        "pole_end": "Stable operational alignment: William continues to cooperate closely with Benjamin, maintaining trust, practical coordination, and professional intimacy without visible conflict or distance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Entrusted accompaniment",
+            "chapter_range": [
+              16,
+              16
+            ],
+            "position_description": "Benjamin includes William on the journey to Braddock's camp and authorizes him to make contracts, signaling meaningful trust and a more active father-son working bond.",
+            "key_moments": [
+              "William Franklin accompanies Benjamin Franklin to Braddock's camp",
+              "William is empowered to make wagon-and-horse contracts in Cumberland County"
+            ]
+          },
+          {
+            "phase": "Operational partnership",
+            "chapter_range": [
+              17,
+              17
+            ],
+            "position_description": "William serves as aid-de-camp and supports the frontier defense effort under Benjamin's direction. The relationship remains high-trust and cooperative, with practical intimacy but no visible conflict.",
+            "key_moments": [
+              "William Franklin serves as Benjamin Franklin's aid-de-camp",
+              "He helps with the raising of forts and the management of troops"
+            ]
+          },
+          {
+            "phase": "No further change",
+            "chapter_range": [
+              18,
+              19
+            ],
+            "position_description": "William is absent, so the relationship does not develop further in the available text.",
+            "key_moments": [
+              "William is not mentioned in chapters 18-19."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses converge on a consistently cooperative father-son dynamic: Benjamin trusts William with real responsibilities, and William responds with dependable service. The relationship deepens in practical terms but does not undergo a substantive emotional or structural transformation."
+      }
+    ]
+  }
+}

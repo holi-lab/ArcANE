@@ -1,0 +1,49 @@
+model:
+  model_name_or_path: Qwen/Qwen3-32B
+  model_revision: 9216db5781bf21249d130ec9da846c4624c16137
+  torch_dtype: bfloat16
+  attn_implementation: flash_attention_2
+
+dataset:
+  dataset_name: holi-lab/ArcANE-Data
+  dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  dataset_config: sft
+  dataset_split: train
+  max_prompt_length: 6144
+  max_train_samples: null
+
+formatting:
+  enable_thinking: false
+
+training:
+  output_root: outputs
+  max_length: 8192
+  num_train_epochs: 1
+  learning_rate: 1e-4          # paper Table 8 (ArcANE-32B SFT)
+  warmup_ratio: 0.1
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 32   # effective batch 32 on 1 GPU (paper Table 8)
+  gradient_checkpointing: true
+  logging_steps: 2
+  save_steps: 100
+  save_total_limit: 100
+  seed: 42
+  resume_from_checkpoint: null
+  report_to: wandb
+
+peft:
+  use_peft: true
+  lora_r: 64
+  lora_alpha: 128
+  lora_dropout: 0.05
+
+evaluation:
+  eval_dataset_name: holi-lab/ArcANE-Data
+  eval_dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  eval_dataset_config: sft
+  eval_dataset_split: test
+  max_eval_samples: 500
+  trainer_eval_steps: 25
+  per_device_eval_batch_size: 1
+  eval_accumulation_steps: null
+  eval_on_start: true

@@ -1,0 +1,590 @@
+{
+  "character": "Stepan Arkadyevitch Oblonsky",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-indulgent social mastery to tactful relational mediation",
+          "set_b_axis": "From self-protective sociability to socially deployed communion",
+          "overlap_description": "Both describe Oblonsky's shift from charm and self-protection toward using sociability more deliberately for mediation, reassurance, and social repair, without a radical moral transformation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-indulgent social mastery to tactful relational mediation",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From shallow guilt to limited practical conscience",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From carefree self-image to aware but untroubled social pragmatist",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From evasive husband to partial domestic ally",
+          "set_b_axis": "From guilty estrangement to restored domestic intimacy",
+          "overlap_description": "Both track the marriage from betrayal and rupture toward a compromised but real domestic reconciliation, with warmth and functioning restored but trust never fully healed."
+        },
+        {
+          "set_a_axis": "From amused acquaintance to trusted mediator-friend",
+          "set_b_axis": "From amused acquaintance to trusted social mediator",
+          "overlap_description": "Both describe Levin as moving from a warm, lightly asymmetrical acquaintance into a trusted friend for whom Oblonsky becomes a tactful intermediary, host, and practical helper."
+        },
+        {
+          "set_a_axis": "From awkward civility to strategic mediation",
+          "set_b_axis": "From social civility to strained pragmatic mediation",
+          "overlap_description": "Both see the Karenin relation as beginning in polite distance and ending in instrumental mediation over Anna's divorce, with increasing strain and little genuine intimacy."
+        },
+        {
+          "set_a_axis": "From social familiarity to protective allegiance",
+          "set_b_axis": "From family convenience to loyal intermediary",
+          "overlap_description": "Both capture the Anna relation as evolving from family/social familiarity into active loyalty and protective mediation, especially around divorce and social legitimacy."
+        },
+        {
+          "set_a_axis": "From amused acquaintance to loyal admiration",
+          "set_b_axis": "From casual admiration to socially strategic alignment",
+          "overlap_description": "Both describe Vronsky as moving from pleasant social acquaintance toward a more integrated, tactful, and loyal alignment within Oblonsky's social world."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From evasive husband to partial domestic ally",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From social familiarity to protective allegiance",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From amused acquaintance to loyal admiration",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From guilty estrangement to restored domestic intimacy",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From family convenience to loyal intermediary",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From casual admiration to socially strategic alignment",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-protective sociability to socially deployed communion",
+      "pole_start": "Begins as a self-protective, pleasure-seeking man whose warmth serves mainly to restore his own comfort, preserve appearances, and manage social equilibrium. His agency appears through charm, evasion, and practical control rather than moral independence.",
+      "pole_end": "Ends as a still self-protective but more consciously relational mediator who uses communion both sincerely and tactically to soothe others, preserve harmony, and keep social life moving. He remains fundamentally self-possessed, but his sociability is more openly in service of connection.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Domestic shock and evasive recovery",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "He begins in shame and panic after the marital crisis, then quickly shifts into routine, jokes, and practical management. His warmth is real but mainly functions to avoid moral confrontation and restore order.",
+          "key_moments": [
+            "Remembers Dolly's discovery and feels shame",
+            "Tries to use routine and Anna's arrival to restore composure",
+            "Confronts Dolly with pity but returns to practical arrangements"
+          ]
+        },
+        {
+          "phase": "Social mastery as emotional defense",
+          "chapter_range": [
+            5,
+            18
+          ],
+          "position_description": "He becomes more securely himself in offices, restaurants, and social gatherings. He handles people with tact and humor, but his communion remains a tool for comfort, deflection, and emotional self-protection.",
+          "key_moments": [
+            "Acts effortlessly at work and with Levin",
+            "Uses dinner conversation to normalize marriage troubles",
+            "Is briefly shaken by the railway death, then returns to usefulness"
+          ]
+        },
+        {
+          "phase": "Mediator of other people's crises",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "His relational energy turns more openly toward helping others, especially Anna and Levin. He becomes a social intermediary whose communion is sincere enough to matter, though still not morally transformative.",
+          "key_moments": [
+            "Feels relief at Dolly's thaw",
+            "Moves through Anna's and Levin's social world as a connector",
+            "Helps create conditions for later meetings and reconciliations"
+          ]
+        },
+        {
+          "phase": "Stable social operator",
+          "chapter_range": [
+            48,
+            239
+          ],
+          "position_description": "He settles into a durable pattern: socially buoyant, tactful, and comfort-seeking, with occasional embarrassment or concern but no deep inward revision. His agency remains practical, while his communion becomes more consciously deployed for social ease and mediation.",
+          "key_moments": [
+            "Enjoys hunt, dinners, club life, and elections",
+            "Manages Anna's divorce negotiations and family logistics",
+            "Shows discomfort in religious and political settings but returns to mediation"
+          ]
+        }
+      ],
+      "evidence_summary": "Oblonsky does not undergo a radical moral conversion. He moves from panic-driven self-protection into a more settled form of socially effective communion, with his warmth increasingly used to soothe, connect, and manage others while preserving his own ease."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral conscience",
+      "axis_name": "From shallow guilt to limited practical conscience",
+      "pole_start": "Begins with fragmented guilt: he knows he has caused harm, but his shame centers on embarrassment, inconvenience, and being caught rather than on the moral reality of betrayal.",
+      "pole_end": "Ends with a broader but still limited conscience: he can recognize others' suffering, manage difficult situations responsibly, and feel real concern, yet he does not fully internalize moral accountability or transform his conduct.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Guilt without repentance",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "He admits fault in a split way, effectively saying it is his fault and yet not fully his blame. He feels Dolly's pain, but his concern is still mostly about restoring comfort and avoiding humiliation.",
+          "key_moments": [
+            "Names his fault while self-exculpating",
+            "Feels shame at Dolly's suffering and his own exposure",
+            "Wants the crisis to disappear rather than to repent"
+          ]
+        },
+        {
+          "phase": "Practical conscience",
+          "chapter_range": [
+            18,
+            24
+          ],
+          "position_description": "He begins to treat suffering more seriously, especially through Anna's mediation and the railway death, but this seriousness is translated into action rather than inward moral reckoning.",
+          "key_moments": [
+            "Is genuinely shaken by the railway accident",
+            "Uses Anna as a mediator for reconciliation",
+            "Feels the possibility that Dolly may not forgive him"
+          ]
+        },
+        {
+          "phase": "Moral pragmatism",
+          "chapter_range": [
+            109,
+            124
+          ],
+          "position_description": "During Anna's divorce crisis, he shows sincere concern and persistence, but frames the problem as something to be solved by tact, pity, and arrangement. His conscience is active, yet procedural rather than transformative.",
+          "key_moments": [
+            "Is shocked by Karenin's divorce announcement",
+            "Presses Karenin toward divorce out of sympathy for Anna",
+            "Feels moved by Karenin's self-sacrifice but turns it into practical success"
+          ]
+        },
+        {
+          "phase": "Limited responsibility",
+          "chapter_range": [
+            206,
+            217
+          ],
+          "position_description": "Under financial and social pressure, he becomes more visibly self-protective and evasive again, but he also continues to act as a practical intermediary. His conscience remains real, yet subordinated to convenience, status, and administrative resolution.",
+          "key_moments": [
+            "Feels humiliation and money pressure",
+            "Negotiates Anna's divorce through telegrams and visits",
+            "Withdraws emotionally when Anna's distress becomes too direct"
+          ]
+        }
+      ],
+      "evidence_summary": "Oblonsky's moral development is modest but real: he never becomes deeply repentant, yet he moves beyond pure embarrassment into a limited practical conscience that can register suffering and act to relieve it. The arc is one of expanded usefulness rather than full ethical conversion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "social realism",
+      "axis_name": "From carefree self-image to aware social pragmatist",
+      "pole_start": "Begins with a self-image of being naturally charming, harmless, and socially gifted, with little awareness of how much his ease depends on evasion, privilege, and other people's labor.",
+      "pole_end": "Ends with a clearer recognition that social life is structured by influence, money, and arrangement, though he remains comfortable inside that system and does not fundamentally question it.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Naturalized charm",
+          "chapter_range": [
+            5,
+            11
+          ],
+          "position_description": "He experiences himself as a man who belongs effortlessly in offices, restaurants, and salons. He is aware of his own charm, but not of its costs or moral implications.",
+          "key_moments": [
+            "Enjoys office life and dinner conversation",
+            "Speaks of marriage and infidelity in pragmatic terms",
+            "Uses wit to avoid spiritual seriousness"
+          ]
+        },
+        {
+          "phase": "Social mediation as skill",
+          "chapter_range": [
+            17,
+            21
+          ],
+          "position_description": "He becomes more explicitly a connector among people, reading social situations quickly and using them to his advantage. He still sees this as natural competence rather than as a form of power.",
+          "key_moments": [
+            "Shifts sympathy between Levin and Vronsky",
+            "Uses Anna and Dolly as mediators in domestic crisis",
+            "Feels relief when reconciliation seems possible"
+          ]
+        },
+        {
+          "phase": "Pragmatic elite consciousness",
+          "chapter_range": [
+            182,
+            211
+          ],
+          "position_description": "In elections, appointments, and Petersburg society, he shows a sharper sense that status, influence, and networks determine outcomes. He is not morally transformed by this insight; he simply becomes more adept at operating within it.",
+          "key_moments": [
+            "Navigates political maneuvering and committee appointments",
+            "Seeks help from powerful social and religious figures",
+            "Feels discomfort in unfamiliar ideological settings but still pursues advantage"
+          ]
+        }
+      ],
+      "evidence_summary": "Oblonsky's self-understanding becomes more socially realistic over time: he increasingly sees life as a field of arrangements, favors, and tactful management. This does not make him more ethical, but it does make him more conscious of the mechanisms by which he thrives."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Stepan Arkadyevitch Oblonsky",
+      "target_character": "Darya Alexandrovna Oblonskaya",
+      "dimension_label": "marital trust",
+      "axis_name": "From guilty estrangement to restored domestic intimacy",
+      "pole_start": "Begins in guilt, fear, and emotional distance, with Dolly experienced as the injured moral center of the household and forgiveness seeming uncertain.",
+      "pole_end": "Ends in a restored but fragile intimacy: he is reconciled with her, affectionate and relieved, though still careful and aware that the wound has not vanished.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Crisis and rejection",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "He is ashamed, cornered, and emotionally shaken by Dolly's refusal to forgive him. Their intimacy remains domestic but trust is badly damaged.",
+          "key_moments": [
+            "Dolly discovers the affair",
+            "He feels her suffering and fears losing her",
+            "She rejects his appeals and he feels bewildered"
+          ]
+        },
+        {
+          "phase": "Mediated thaw",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "Anna helps soften the atmosphere, and Dolly's use of his familiar name signals that reconciliation is possible. He becomes hopeful and relieved as the domestic crisis eases.",
+          "key_moments": [
+            "Anna intervenes as mediator",
+            "Dolly calls him 'Stiva'",
+            "He feels reconciliation is again thinkable"
+          ]
+        },
+        {
+          "phase": "Stable but imperfect domestic peace",
+          "chapter_range": [
+            107,
+            128
+          ],
+          "position_description": "Their relationship is no longer the site of acute crisis. He treats her with warmth and familiarity, but the bond is maintained through tact, routine, and practical cooperation rather than innocence.",
+          "key_moments": [
+            "He greets her warmly in social and domestic scenes",
+            "They coordinate wedding logistics and household arrangements",
+            "He remains affectionate but not deeply self-reforming"
+          ]
+        },
+        {
+          "phase": "Later family equilibrium",
+          "chapter_range": [
+            158,
+            236
+          ],
+          "position_description": "Their relationship settles into a durable, if compromised, family intimacy. He remains dependent on her practical competence and social goodwill, while she continues to bear much of the emotional and domestic burden.",
+          "key_moments": [
+            "Approves of the family summer arrangement",
+            "Uses her as a practical and social anchor",
+            "Is still associated with her through debts, messages, and family mediation"
+          ]
+        }
+      ],
+      "evidence_summary": "The Dolly relationship is the clearest arc in Oblonsky's novel: from acute marital rupture to a managed, affectionate, and socially functional intimacy. Trust never returns to innocence, but domestic closeness is restored through tact and habit."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Stepan Arkadyevitch Oblonsky",
+      "target_character": "Konstantin Dmitrievitch Levin",
+      "dimension_label": "friendship depth",
+      "axis_name": "From amused acquaintance to trusted social mediator",
+      "pole_start": "Begins as a warm but lightly superior acquaintance, amused by Levin's seriousness and awkwardness, with little sense that he will become emotionally important to Levin.",
+      "pole_end": "Ends as a trusted, affectionate, and tactically useful friend who repeatedly mediates Levin's emotional life, helps him socially, and is treated as a reliable companion.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Amused familiarity",
+          "chapter_range": [
+            5,
+            11
+          ],
+          "position_description": "He likes Levin and enjoys his company, but treats him as earnest, awkward, and somewhat odd. Their bond is warm but asymmetrical.",
+          "key_moments": [
+            "Receives Levin warmly at the office and restaurant",
+            "Teases him gently about Kitty and marriage",
+            "Uses social tact to keep Levin comfortable"
+          ]
+        },
+        {
+          "phase": "Emotional bridge",
+          "chapter_range": [
+            17,
+            21
+          ],
+          "position_description": "He becomes a genuine social bridge between Levin and the Shtcherbatskys, and later between Levin and Anna. His sympathy is flexible, but his role as mediator becomes central.",
+          "key_moments": [
+            "Shares gossip and matchmaking intelligence",
+            "Helps Levin navigate Kitty's situation",
+            "Brings Levin into contact with Anna and other social circles"
+          ]
+        },
+        {
+          "phase": "Companion in marriage and society",
+          "chapter_range": [
+            48,
+            128
+          ],
+          "position_description": "He is now a dependable friend in practical and emotional matters, helping with the forest sale, wedding logistics, and social introductions. Levin trusts him even when he disagrees with him.",
+          "key_moments": [
+            "Hunts and dines with Levin",
+            "Argues lightly over the forest sale",
+            "Supports Levin through wedding preparations and ceremony"
+          ]
+        },
+        {
+          "phase": "Late-life social friendship",
+          "chapter_range": [
+            163,
+            200
+          ],
+          "position_description": "He remains a warm, tactful, and socially stabilizing presence in Levin's life, even when Levin is jealous or morally serious. Their bond is durable, affectionate, and practically important.",
+          "key_moments": [
+            "Hosts Levin at the country house and shooting trip",
+            "Responds to Levin's jealousy with tact and humor",
+            "Brings Levin to Anna and helps soften his judgment"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin is one of the few characters with whom Oblonsky develops a sustained, meaningful bond. The relationship deepens from amused familiarity into a trusted friendship in which Oblonsky repeatedly acts as mediator, host, and social translator."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Stepan Arkadyevitch Oblonsky",
+      "target_character": "Anna Arkadyevna Karenina",
+      "dimension_label": "mediation-loyalty",
+      "axis_name": "From family convenience to loyal intermediary",
+      "pole_start": "Begins as a family relation of convenience and social familiarity, with Anna initially serving as a possible mediator in his own domestic crisis.",
+      "pole_end": "Ends as a loyal, practical ally who works to secure her divorce, protect her dignity, and help normalize her social position, though still through tact rather than moral depth.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Family support in his crisis",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "He greets her arrival with hope, seeing her as a possible mediator in his marital trouble. She is family support and social help before she becomes his cause.",
+          "key_moments": [
+            "Anna arrives as a possible reconciler with Dolly",
+            "He feels relief and hope at her presence",
+            "She helps soften the domestic atmosphere"
+          ]
+        },
+        {
+          "phase": "Social ally and confidante",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "He comes to rely on Anna as a sympathetic interpreter of his own domestic situation. Their relationship becomes warmer and more emotionally trusting.",
+          "key_moments": [
+            "He is grateful for her intervention with Dolly",
+            "He trusts her as a family mediator",
+            "He feels relief when reconciliation is possible"
+          ]
+        },
+        {
+          "phase": "Anna's advocate",
+          "chapter_range": [
+            109,
+            124
+          ],
+          "position_description": "He shifts decisively into the role of Anna's defender and negotiator. He is shocked by Karenin's divorce announcement and then works actively to secure a practical settlement for Anna.",
+          "key_moments": [
+            "Presses Karenin to consider divorce",
+            "Speaks of Anna with admiration and loyalty",
+            "Acts as messenger and facilitator of the settlement"
+          ]
+        },
+        {
+          "phase": "Continued practical loyalty",
+          "chapter_range": [
+            206,
+            217
+          ],
+          "position_description": "Even when the situation becomes more difficult and emotionally cold, he remains a practical intermediary. His loyalty persists, though it is increasingly filtered through administrative action and social convenience.",
+          "key_moments": [
+            "Sends telegrams about the divorce",
+            "Continues to manage the legal and social process",
+            "Keeps Anna's interests in view while avoiding direct emotional confrontation"
+          ]
+        }
+      ],
+      "evidence_summary": "Oblonsky's relation to Anna evolves from family familiarity into active loyalty. He never becomes a tragic participant, but he does become a dependable intermediary who helps her navigate divorce and social legitimacy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Stepan Arkadyevitch Oblonsky",
+      "target_character": "Alexey Alexandrovitch Karenin",
+      "dimension_label": "civility-tension",
+      "axis_name": "From social civility to strained pragmatic mediation",
+      "pole_start": "Begins with ordinary social civility and a willingness to smooth over awkwardness, but with little real intimacy or trust.",
+      "pole_end": "Ends in a strained, instrumental relationship marked by tactical politeness, moral discomfort, and practical negotiation over Anna's divorce.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Polite distance",
+          "chapter_range": [
+            30,
+            33
+          ],
+          "position_description": "He greets Karenin with habitual ironic civility, keeping the interaction smooth but emotionally shallow.",
+          "key_moments": [
+            "Polite, sarcastic greeting",
+            "Maintains formal marital and social distance",
+            "Keeps the encounter within social propriety"
+          ]
+        },
+        {
+          "phase": "Shock and mediation",
+          "chapter_range": [
+            107,
+            124
+          ],
+          "position_description": "Karenin's divorce announcement shocks him, but he quickly shifts into mediation mode, trying to persuade him toward a practical settlement.",
+          "key_moments": [
+            "Is startled by Karenin's announcement",
+            "Appeals to Dolly and Christian duty",
+            "Presses for divorce as the humane solution"
+          ]
+        },
+        {
+          "phase": "Religious and bureaucratic strain",
+          "chapter_range": [
+            210,
+            217
+          ],
+          "position_description": "He becomes increasingly uneasy and detached in Karenin's religious circle, then more administratively focused as the divorce process continues. The relationship is now defined by procedure and discomfort rather than social ease.",
+          "key_moments": [
+            "Feels alienated in Lidia Ivanovna's salon",
+            "Learns Karenin's refusal has been fixed by influence",
+            "Continues to manage the divorce through messages and errands"
+          ]
+        }
+      ],
+      "evidence_summary": "Karenin is never a close relation, but he becomes a major practical and moral counterpart in Oblonsky's life. The relationship moves from polite distance to strained mediation, with Oblonsky repeatedly trying to convert conflict into a workable arrangement."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Stepan Arkadyevitch Oblonsky",
+      "target_character": "Count Alexey Vronsky",
+      "dimension_label": "social alignment",
+      "axis_name": "From casual admiration to socially strategic alignment",
+      "pole_start": "Begins as a friendly acquaintance admired for charm and status, but not yet central to Oblonsky's social maneuvering.",
+      "pole_end": "Ends as a socially useful and strategically aligned figure within Oblonsky's network, especially in the Anna/divorce and elite society contexts.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Admiring acquaintance",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "He sees Vronsky as handsome, rich, and socially impressive, and he is pleased by his company. The relation is warm but still mostly social.",
+          "key_moments": [
+            "Speaks of Vronsky with admiration",
+            "Enjoys his generosity and presence",
+            "Uses him as part of the social field around Kitty and Anna"
+          ]
+        },
+        {
+          "phase": "Practical ally in Anna's world",
+          "chapter_range": [
+            107,
+            124
+          ],
+          "position_description": "As Anna's situation becomes central, Vronsky becomes part of the practical social arrangement Oblonsky is helping to manage. He treats him as a legitimate and increasingly important participant.",
+          "key_moments": [
+            "Greets Vronsky cordially",
+            "Supports the social normalization of Anna and Vronsky",
+            "Helps move toward the divorce settlement"
+          ]
+        },
+        {
+          "phase": "Elite social companion",
+          "chapter_range": [
+            182,
+            223
+          ],
+          "position_description": "In later political and social scenes, Vronsky is simply one of the elite men with whom Oblonsky moves comfortably. Their relationship is easy, tactful, and socially coordinated.",
+          "key_moments": [
+            "Shares race-course and club sociability",
+            "Moves in the same Petersburg circles",
+            "Treats Vronsky as part of the accepted social order"
+          ]
+        }
+      ],
+      "evidence_summary": "Vronsky becomes less a romantic rival or scandalous figure than a socially integrated acquaintance. Oblonsky's relation to him is marked by tactful approval and practical alignment, especially once Anna's future depends on social arrangement."
+    }
+  ]
+}

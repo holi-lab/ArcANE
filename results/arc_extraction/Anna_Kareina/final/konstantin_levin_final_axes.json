@@ -1,0 +1,860 @@
+{
+  "character": "Konstantin Dmitrievich Levin",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-assertive separateness to relational interdependence",
+          "set_b_axis": "From self-assertive separateness to relational fusion",
+          "overlap_description": "Both describe Levin's movement from defensive independence and self-protective isolation toward a life organized by marriage, family, and shared moral/spiritual belonging."
+        },
+        {
+          "set_a_axis": "From humiliated unworthiness to grounded moral dignity",
+          "set_b_axis": "From shame and self-contempt to humbled self-acceptance",
+          "overlap_description": "Both track Levin's self-worth arc from humiliation, shame, and romantic/social inferiority toward a steadier, humbler self-respect grounded in love, duty, and conscience."
+        },
+        {
+          "set_a_axis": "From abstract explanation to lived moral faith",
+          "set_b_axis": "From rational despair to lived spiritual certainty",
+          "overlap_description": "Both identify Levin's central spiritual-intellectual arc: he moves from distrust of abstraction and rational failure into a lived faith grounded in moral intuition, God, and ordinary life."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From volatile self-consciousness to chastened self-command",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From anti-social suspicion to selective social ease",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From rejected suitor to mutually chosen husband",
+          "set_b_axis": "From idealized hope and rejection to mutual love and domestic devotion",
+          "overlap_description": "Both describe the same core relationship arc with Kitty: from humiliating rejection and longing to reciprocal marriage, domestic intimacy, and shared spiritual life."
+        },
+        {
+          "set_a_axis": "From awkward dependency to warm, candid friendship",
+          "set_b_axis": "From embarrassed dependence to warm, durable companionship",
+          "overlap_description": "Both see Oblonsky as a stable friendship that begins in embarrassment and reliance, then becomes warmer, more candid, and socially useful."
+        },
+        {
+          "set_a_axis": "From condescension and distance to partial respect with enduring strain",
+          "set_b_axis": "From defensive inferiority to qualified intellectual kinship",
+          "overlap_description": "Both identify Levin's relation to Sergey Ivanovitch as moving from hurt defensiveness and patronization toward respect, while preserving real differences and strain."
+        },
+        {
+          "set_a_axis": "From uneasy obligation to sacrificial brotherly love",
+          "set_b_axis": "From alarmed obligation to tender, tragic solidarity",
+          "overlap_description": "Both capture Levin's bond with Nikolay as a deepening from duty and discomfort into compassionate, grief-filled solidarity in the face of suffering and death."
+        },
+        {
+          "set_a_axis": "From suspicion to reluctant goodwill and back to jealous irritation",
+          "set_b_axis": "From jealous hostility to uneasy recognition",
+          "overlap_description": "Both describe Levin's relation to Veslovsky as a mixed, unstable dynamic: suspicion and jealousy are tempered by moments of fairness, but never fully resolved."
+        },
+        {
+          "set_a_axis": "From humiliating rival to civil acquaintance",
+          "set_b_axis": "From jealous hostility to uneasy recognition",
+          "overlap_description": "Both show Levin's rivalry with Vronsky softening over time into civility and reduced emotional charge, even if the original humiliation remains legible."
+        },
+        {
+          "set_a_axis": "From indirect esteem to intimate moral confidence",
+          "set_b_axis": "From respectful distance to practical and moral alliance",
+          "overlap_description": "Both see Dolly as a morally trusted domestic ally whose honesty, practical kindness, and family role deepen Levin's confidence in her."
+        },
+        {
+          "set_a_axis": "From curiosity to brief intimate admiration and moral concern",
+          "set_b_axis": "From moral caution to compassionate fascination",
+          "overlap_description": "Both identify Levin's brief but meaningful encounter with Anna as a shift from caution to immediate sympathy, admiration, and concern for hidden suffering."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": [
+        {
+          "axis": "From paternal suspicion to spiritual and practical kinship",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-assertive separateness to relational interdependence",
+      "pole_start": "Begins as a self-protective, socially defensive man who asserts independence through work, moral judgment, and resistance to public performance, while remaining isolated and reactive.",
+      "pole_end": "Ends as a man whose agency is lived through communion: marriage, fatherhood, faith, shared labor, and mutual belonging with Kitty, family, peasants, and God.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive separateness",
+          "chapter_range": [
+            5,
+            24
+          ],
+          "position_description": "Levin is awkward, proud, and socially defensive. He resists being defined by others and seeks dignity through private sincerity and self-protection.",
+          "key_moments": [
+            "Embarrassment in Moscow society",
+            "Failed courtship and rejection by Kitty",
+            "Resistance to officialdom and social polish"
+          ]
+        },
+        {
+          "phase": "Work as self-mastery",
+          "chapter_range": [
+            26,
+            99
+          ],
+          "position_description": "He turns to labor, estate management, and practical reform as a way to master himself and regain moral footing, while beginning to feel belonging with peasants and domestic life.",
+          "key_moments": [
+            "Return to the estate",
+            "Mowing with the peasants",
+            "Agricultural reform and practical responsibility"
+          ]
+        },
+        {
+          "phase": "Marriage and shared life",
+          "chapter_range": [
+            110,
+            170
+          ],
+          "position_description": "After reconciliation with Kitty, Levin's identity becomes more relational. He still seeks competence, but now within mutual dependence, domestic intimacy, and family duty.",
+          "key_moments": [
+            "Betrothal and wedding",
+            "Domestic happiness with Kitty",
+            "Birth of Mitya and protective family responsibility"
+          ]
+        },
+        {
+          "phase": "Communion through suffering and faith",
+          "chapter_range": [
+            202,
+            239
+          ],
+          "position_description": "His deepest selfhood is finally organized around shared suffering, prayer, and a faith that is inwardly lived rather than privately mastered.",
+          "key_moments": [
+            "Kitty's labor and his dependence on her and God",
+            "Spiritual revelation through the peasants",
+            "Final acceptance of faith as lived truth"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin moves from isolated self-assertion toward interdependence and spiritual communion. He never loses agency, but it is redefined through care, labor, marriage, and faith."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "self-worth",
+      "axis_name": "From shame and self-contempt to humbled moral dignity",
+      "pole_start": "Begins with harsh self-judgment: he sees himself as awkward, inferior, and unworthy of love or public success.",
+      "pole_end": "Ends with a steadier self-acceptance grounded in love, duty, and spiritual purpose rather than social triumph.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Romantic humiliation",
+          "chapter_range": [
+            5,
+            24
+          ],
+          "position_description": "Kitty's rejection and Vronsky's superiority intensify Levin's sense of inadequacy and social inferiority.",
+          "key_moments": [
+            "Blushing and awkwardness in Moscow",
+            "Kitty's refusal",
+            "Jealous comparison with Vronsky"
+          ]
+        },
+        {
+          "phase": "Moral self-reproach and restoration",
+          "chapter_range": [
+            46,
+            99
+          ],
+          "position_description": "Work and estate life begin to restore dignity by making him useful and competent, though shame remains active.",
+          "key_moments": [
+            "Return to the estate",
+            "Mowing and agricultural competence",
+            "Practical responsibility for others"
+          ]
+        },
+        {
+          "phase": "Marriage and transformed shame",
+          "chapter_range": [
+            110,
+            143
+          ],
+          "position_description": "Confession, wedding, and Kitty's love transform shame into humility rather than humiliation.",
+          "key_moments": [
+            "Confessing his past to Kitty",
+            "Feeling unworthy of her purity",
+            "Wedding as a sacred, humbling event"
+          ]
+        },
+        {
+          "phase": "Humbled but secure",
+          "chapter_range": [
+            202,
+            239
+          ],
+          "position_description": "He remains aware of his limitations, but love, fatherhood, and faith provide a durable basis for self-respect.",
+          "key_moments": [
+            "Helplessness during Kitty's labor",
+            "Delayed but real paternal attachment",
+            "Final spiritual peace"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin moves from shame-driven self-rejection to a humbled but stable self-respect grounded in being loved, useful, and morally serious."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "faith-certainty",
+      "axis_name": "From rational despair to lived spiritual certainty",
+      "pole_start": "Begins with distrust of abstraction and repeated confrontation with the possibility that life is meaningless and convictions are self-deception.",
+      "pole_end": "Ends with inward certainty that life is for God, goodness, and moral service, known through lived truth rather than abstract proof.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early skepticism and moral strain",
+          "chapter_range": [
+            7,
+            24
+          ],
+          "position_description": "He is impatient with abstract talk, skeptical of polished discourse, and morally serious but not spiritually settled.",
+          "key_moments": [
+            "Philosophical debate in Moscow",
+            "Discomfort with social and intellectual evasions",
+            "Turn toward practical morality"
+          ]
+        },
+        {
+          "phase": "Existential collapse",
+          "chapter_range": [
+            100,
+            229
+          ],
+          "position_description": "Mortality, grief, and philosophical testing bring him to despair, including the thought of suicide.",
+          "key_moments": [
+            "Nikolay's illness and death",
+            "Fear that life is dust and ashes",
+            "Near-suicidal crisis"
+          ]
+        },
+        {
+          "phase": "Revelation and settled faith",
+          "chapter_range": [
+            231,
+            239
+          ],
+          "position_description": "A peasant's simple words trigger revelation: Levin realizes that he had already been living by truths he could not prove, and he ends in peace.",
+          "key_moments": [
+            "Fyodor's words about living for the soul",
+            "Recognition that goodness is given, not deduced",
+            "Final acceptance of faith as lived inwardly"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin's deepest intellectual-spiritual arc moves from rational unsatisfied seriousness to a durable lived faith grounded in moral intuition and revelation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "emotion regulation",
+      "axis_name": "From volatile self-consciousness to chastened self-command",
+      "pole_start": "Begins emotionally volatile, with shame, jealousy, impulsiveness, and repeated inability to control his reactions.",
+      "pole_end": "Ends with imperfect but real self-command: he still feels strongly, but can restrain, correct, and live with his feelings more responsibly.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Reactive volatility",
+          "chapter_range": [
+            5,
+            24
+          ],
+          "position_description": "Levin blushes, withdraws, and is destabilized by embarrassment or rivalry.",
+          "key_moments": [
+            "Blushing in Oblonsky's office",
+            "Jealousy over Vronsky",
+            "Social awkwardness at the Shcherbatskys"
+          ]
+        },
+        {
+          "phase": "Partial discipline",
+          "chapter_range": [
+            26,
+            167
+          ],
+          "position_description": "He tries to master himself through work, physical exertion, and restraint, succeeding intermittently.",
+          "key_moments": [
+            "Dumbbells and self-training",
+            "Mowing and hunting as regulation",
+            "Attempts at geniality with Veslovsky"
+          ]
+        },
+        {
+          "phase": "Mature restraint under pressure",
+          "chapter_range": [
+            202,
+            239
+          ],
+          "position_description": "In Kitty's confinement, the storm, and the final crisis, he converts terror and anger into prayer, care, and inward reflection.",
+          "key_moments": [
+            "Prayer during Kitty's labor",
+            "Reproach and repentance after the storm",
+            "Final inward acceptance of moral law"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin never becomes emotionally flat; instead, he learns to live with strong feeling without being ruled by it."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "social stance",
+      "axis_name": "From anti-social suspicion to selective social ease",
+      "pole_start": "Begins distrustful of polished society, official life, and performative conversation, and is easily embarrassed and defensive.",
+      "pole_end": "Ends able to move between social worlds with more flexibility, enjoying clubs, guests, and public life when they feel orderly and sincere.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Suspicion and awkwardness",
+          "chapter_range": [
+            5,
+            24
+          ],
+          "position_description": "He is tense in Moscow, hostile to officialdom, and uncomfortable in polished company.",
+          "key_moments": [
+            "Dislike of bureaucratic and social polish",
+            "Embarrassment around Oblonsky and Sergey Ivanovitch",
+            "Social humiliation after Kitty's refusal"
+          ]
+        },
+        {
+          "phase": "Practical withdrawal",
+          "chapter_range": [
+            26,
+            99
+          ],
+          "position_description": "He retreats into estate life and labor, where social friction is reduced and practical action feels more truthful.",
+          "key_moments": [
+            "Homecoming and work on the estate",
+            "Mowing with peasants",
+            "Agricultural reform as a socially grounded project"
+          ]
+        },
+        {
+          "phase": "Selective sociability",
+          "chapter_range": [
+            183,
+            197
+          ],
+          "position_description": "He becomes more capable of participating in public and social settings, though he remains critical of artificiality.",
+          "key_moments": [
+            "Elections and public life in Kashin",
+            "Club dinner and reconciliation with Vronsky",
+            "Social ease in structured male company"
+          ]
+        },
+        {
+          "phase": "Domestic-social balance",
+          "chapter_range": [
+            198,
+            239
+          ],
+          "position_description": "He can now move between domestic intimacy, public encounters, and spiritual reflection with more flexibility.",
+          "key_moments": [
+            "Visiting Anna and returning home to Kitty",
+            "Storm, family fear, and reconciliation",
+            "Final settled domestic and spiritual life"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin becomes less rigidly anti-social, learning to tolerate and sometimes enjoy social life when it is bounded by sincerity, order, or shared purpose."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Kitty Shtcherbatskaya",
+      "dimension_label": "romantic intimacy",
+      "axis_name": "From idealized rejection to mutual domestic devotion",
+      "pole_start": "Begins as an anxious, idealizing, and self-abasing suitor who experiences rejection and humiliation.",
+      "pole_end": "Ends as a husband whose love is reciprocal, embodied, and domestic: Kitty is his emotional home, moral equal, and intimate partner in faith, family, and daily life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Idealization and proposal",
+          "chapter_range": [
+            5,
+            13
+          ],
+          "position_description": "He is overwhelmed by Kitty's significance, proposes, and is rejected.",
+          "key_moments": [
+            "Asking about Kitty in Moscow",
+            "Proposal and refusal",
+            "Jealousy over Vronsky"
+          ]
+        },
+        {
+          "phase": "Wounded longing and return",
+          "chapter_range": [
+            24,
+            108
+          ],
+          "position_description": "Kitty remains emotionally central even in absence; he oscillates between shame, detachment, and renewed longing.",
+          "key_moments": [
+            "Shame after rejection",
+            "Seeing Kitty again",
+            "Renewed love amid peasant-life fantasy"
+          ]
+        },
+        {
+          "phase": "Reconciliation and betrothal",
+          "chapter_range": [
+            110,
+            130
+          ],
+          "position_description": "He becomes certain of Kitty's love, confesses himself, and enters marriage with reverence and joy.",
+          "key_moments": [
+            "Renewed contact and mutual understanding",
+            "Engagement and wedding preparations",
+            "Wedding ceremony and mutual recognition"
+          ]
+        },
+        {
+          "phase": "Married intimacy and strain",
+          "chapter_range": [
+            138,
+            205
+          ],
+          "position_description": "Their love becomes domestic and embodied. Levin learns that marriage includes conflict, practical labor, jealousy, childbirth, and shared suffering, but the bond deepens through these realities.",
+          "key_moments": [
+            "Domestic adjustment",
+            "Jealousy over Veslovsky",
+            "Kitty's labor and his dependence on her"
+          ]
+        },
+        {
+          "phase": "Spiritual and familial union",
+          "chapter_range": [
+            228,
+            239
+          ],
+          "position_description": "Kitty becomes the living companion of his spiritual peace and the stable relational ground in which meaning can be lived.",
+          "key_moments": [
+            "Her calm presence during his spiritual crisis",
+            "Her role as a moral anchor",
+            "Final settled domestic life"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin's central relationship arc runs from humiliating courtship to a marriage that becomes the emotional and spiritual center of his life."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Stepan Arkadyevitch Oblonsky",
+      "dimension_label": "friendship trust",
+      "axis_name": "From embarrassed reliance to warm companionship",
+      "pole_start": "Begins as a trusted friend and intermediary whose social ease exposes Levin's awkwardness.",
+      "pole_end": "Ends as a genuinely warm companion whose sociability Levin can enjoy without the same level of shame or rivalry.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Embarrassed reliance",
+          "chapter_range": [
+            5,
+            11
+          ],
+          "position_description": "Levin relies on Oblonsky for information and mediation, but feels awkward and exposed in his presence.",
+          "key_moments": [
+            "Seeking news of Kitty through Oblonsky",
+            "Using him as intermediary in Moscow",
+            "Conversation about Kitty and Vronsky"
+          ]
+        },
+        {
+          "phase": "Strained but enduring friendship",
+          "chapter_range": [
+            48,
+            52
+          ],
+          "position_description": "Their friendship remains active, but Levin's jealousy and moral seriousness create tension.",
+          "key_moments": [
+            "Hunting and spring companionship",
+            "Forest-sale argument",
+            "Levin's confession of hurt"
+          ]
+        },
+        {
+          "phase": "Domestic and social ease",
+          "chapter_range": [
+            163,
+            197
+          ],
+          "position_description": "Oblonsky becomes a more comfortable social companion; the relationship is warmer and less defensive.",
+          "key_moments": [
+            "Visiting and socializing in the country",
+            "Club dinner and reconciliation with Vronsky",
+            "Shared movement through social spaces"
+          ]
+        }
+      ],
+      "evidence_summary": "Oblonsky remains a key social bridge for Levin, becoming less embarrassing and more genuinely companionable over time."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Nikolay Levin",
+      "dimension_label": "brotherly compassion",
+      "axis_name": "From alarmed duty to tragic solidarity",
+      "pole_start": "Begins as a source of alarm, pity, and moral duty, with Levin horrified by Nikolay's condition.",
+      "pole_end": "Ends as a deeply loved and mourned figure whose suffering and death force Levin into compassion, helplessness, and existential seriousness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Alarm and duty",
+          "chapter_range": [
+            8,
+            25
+          ],
+          "position_description": "Levin is horrified by Nikolay's condition and feels compelled to visit and care for him despite discomfort.",
+          "key_moments": [
+            "News of Nikolay in Moscow",
+            "Deciding to visit",
+            "Brotherly concern mixed with awkwardness"
+          ]
+        },
+        {
+          "phase": "Pity and practical care",
+          "chapter_range": [
+            46,
+            101
+          ],
+          "position_description": "He becomes more actively responsible, helping Nikolay and feeling his suffering as morally serious and personally binding.",
+          "key_moments": [
+            "Planning to help him",
+            "The visit and recognition of illness",
+            "Levin's inability to speak honestly and his grief"
+          ]
+        },
+        {
+          "phase": "Deathbed compassion",
+          "chapter_range": [
+            140,
+            145
+          ],
+          "position_description": "Nikolay's dying body overwhelms Levin with horror, pity, and helpless love.",
+          "key_moments": [
+            "Seeing Nikolay near death",
+            "The sickroom and sacrament",
+            "Levin's tears and helplessness"
+          ]
+        }
+      ],
+      "evidence_summary": "Nikolay is a major source of Levin's confrontation with suffering and death, deepening from duty into tragic compassion."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Sergey Ivanovitch Koznishev",
+      "dimension_label": "brotherly respect",
+      "axis_name": "From defensive inferiority to qualified kinship",
+      "pole_start": "Begins as respectful but defensive, with Levin feeling patronized and reduced by his brother's intellect and public seriousness.",
+      "pole_end": "Ends as a relationship of respect and partial kinship, though still marked by difference in temperament, belief, and social style.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensiveness and distance",
+          "chapter_range": [
+            7,
+            24
+          ],
+          "position_description": "Levin resists being judged by Sergey Ivanovitch's polished intellect and public seriousness.",
+          "key_moments": [
+            "Philosophical debate in Moscow",
+            "Feeling patronized about farming and public life",
+            "Avoidance of direct emotional disclosure"
+          ]
+        },
+        {
+          "phase": "Practical friction",
+          "chapter_range": [
+            70,
+            73
+          ],
+          "position_description": "Their differences sharpen around labor, public duty, and the meaning of work, but the bond remains intact.",
+          "key_moments": [
+            "Argument about district self-government",
+            "Levin's need for physical labor to steady himself",
+            "Sergey Ivanovitch as observer and interlocutor"
+          ]
+        },
+        {
+          "phase": "Mature respect and partial convergence",
+          "chapter_range": [
+            183,
+            239
+          ],
+          "position_description": "Levin increasingly respects Sergey Ivanovitch's seriousness, even when he disagrees.",
+          "key_moments": [
+            "Elections and public life",
+            "Shared domestic and intellectual settings",
+            "Final spiritual peace alongside continued difference"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin never fully merges with Sergey Ivanovitch, but the relationship moves from wounded defensiveness toward stable, respectful brotherhood."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Nikolay Levin",
+      "dimension_label": "class kinship",
+      "axis_name": "From paternal suspicion to spiritual and practical kinship",
+      "pole_start": "Begins as a landowner who distrusts peasant sloppiness and resistance, even while feeling responsible for them.",
+      "pole_end": "Ends as a man who sees peasants as bearers of moral truth, practical wisdom, and the key to a meaningful life and agriculture.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical suspicion",
+          "chapter_range": [
+            47,
+            51
+          ],
+          "position_description": "He is irritated by incompetence and dishonesty in estate management and sees peasants as obstacles to his plans.",
+          "key_moments": [
+            "Bailiff failures",
+            "Forest sale and bargaining",
+            "Class resentment and practical distrust"
+          ]
+        },
+        {
+          "phase": "Labor solidarity",
+          "chapter_range": [
+            73,
+            81
+          ],
+          "position_description": "Mowing and haymaking create a sense of shared labor and admiration for peasant competence and communal life.",
+          "key_moments": [
+            "Mowing with Tit and the peasants",
+            "Admiration for peasant labor and family life",
+            "The peasant ideal as a possible life"
+          ]
+        },
+        {
+          "phase": "Agricultural and spiritual revelation",
+          "chapter_range": [
+            93,
+            104
+          ],
+          "position_description": "He becomes disillusioned with his own estate methods and then impressed by peasant household order and practical intelligence.",
+          "key_moments": [
+            "Collapse of faith in his farming system",
+            "Admiration for peasant household order",
+            "Recognition that peasants may know something he needs"
+          ]
+        },
+        {
+          "phase": "Spiritual authority",
+          "chapter_range": [
+            231,
+            233
+          ],
+          "position_description": "A peasant's words become the occasion for Levin's spiritual breakthrough.",
+          "key_moments": [
+            "Fyodor's remark about living for the soul",
+            "Levin's revelation about faith",
+            "Recognition that peasants live by truths he had lost"
+          ]
+        }
+      ],
+      "evidence_summary": "Levin's relation to peasants moves from class tension and managerial suspicion to admiration, kinship, and spiritual dependence."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Alexey Vronsky",
+      "dimension_label": "rival recognition",
+      "axis_name": "From jealous hostility to uneasy recognition",
+      "pole_start": "Begins as a rival who embodies social polish, masculine success, and the threat of losing Kitty.",
+      "pole_end": "Ends as a socially acknowledged but emotionally secondary figure whom Levin can meet without open enmity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Jealous rivalry",
+          "chapter_range": [
+            11,
+            15
+          ],
+          "position_description": "Vronsky is the man who displaces Levin in Kitty's affections and becomes the object of resentment and comparison.",
+          "key_moments": [
+            "Learning of Vronsky as rival",
+            "Painful comparison at the skating ground and ball",
+            "Kitty's rejection and Vronsky's social success"
+          ]
+        },
+        {
+          "phase": "Hostile avoidance",
+          "chapter_range": [
+            50,
+            64
+          ],
+          "position_description": "Levin remains suspicious and contemptuous, especially when Vronsky is linked to Kitty or social pretence.",
+          "key_moments": [
+            "Mention of Vronsky darkening Levin's mood",
+            "Class anger and resentment",
+            "Indirect social shadow around Kitty"
+          ]
+        },
+        {
+          "phase": "Reconciliation and social acceptance",
+          "chapter_range": [
+            190,
+            197
+          ],
+          "position_description": "Levin's hostility softens; he can meet Vronsky civilly and feel no active enmity.",
+          "key_moments": [
+            "Kitty's calm meeting with Vronsky",
+            "Levin's willingness to be friendly",
+            "Club reconciliation"
+          ]
+        }
+      ],
+      "evidence_summary": "Vronsky remains a major emotional reference point, but the relationship moves from rivalry and humiliation toward neutral coexistence."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Darya Alexandrovna Oblonskaya",
+      "dimension_label": "sympathetic trust",
+      "axis_name": "From indirect esteem to practical moral alliance",
+      "pole_start": "Begins as a respectful but indirect relation, with Levin valuing Dolly mainly through her support of Kitty and her domestic wisdom.",
+      "pole_end": "Ends as a trusted, sympathetic family ally whose honesty and practical kindness Levin relies on.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respect from afar",
+          "chapter_range": [
+            10,
+            15
+          ],
+          "position_description": "Levin esteems Dolly because she seems to recognize his future with Kitty and because her domestic judgment carries moral weight.",
+          "key_moments": [
+            "Oblonsky reports Dolly's belief that Kitty is meant for Levin",
+            "Levin's esteem rises without direct interaction"
+          ]
+        },
+        {
+          "phase": "Confiding domestic sympathy",
+          "chapter_range": [
+            78,
+            79
+          ],
+          "position_description": "Levin feels welcomed into Dolly's family life, but also vulnerable when Kitty is mentioned.",
+          "key_moments": [
+            "Warm reception at Dolly's",
+            "Conversation about Kitty",
+            "Levin's discomfort with domestic artificiality"
+          ]
+        },
+        {
+          "phase": "Practical family alliance",
+          "chapter_range": [
+            173,
+            191
+          ],
+          "position_description": "Levin helps Dolly materially and emotionally, and she becomes a conduit for family mediation.",
+          "key_moments": [
+            "Supporting Dolly's travel and comfort",
+            "Helping with family mediation",
+            "Her truthful reassurance about marriage and Kitty"
+          ]
+        }
+      ],
+      "evidence_summary": "Dolly functions as a moral witness, domestic ally, and source of truthful reassurance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_08",
+      "source_character": "Konstantin Dmitrievich Levin",
+      "target_character": "Anna Arkadyevna Karenina",
+      "dimension_label": "aesthetic sympathy",
+      "axis_name": "From moral caution to compassionate fascination",
+      "pole_start": "Begins as a morally cautious, socially uncertain observer who is aware of Anna mainly as a scandalous or distant figure.",
+      "pole_end": "Ends as a man deeply impressed by her beauty, intelligence, and suffering, though still morally cautious and not romantically committed.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cautious approach",
+          "chapter_range": [
+            198,
+            199
+          ],
+          "position_description": "Levin moves from moral hesitation to fascination as Anna's presence and portrait draw him in.",
+          "key_moments": [
+            "Questioning whether visiting Anna is proper",
+            "Seeing her portrait and then Anna herself",
+            "Immediate admiration and ease"
+          ]
+        },
+        {
+          "phase": "Compassionate absorption",
+          "chapter_range": [
+            199,
+            200
+          ],
+          "position_description": "He reads Anna as truthful and wounded, feels pity for her, and is emotionally moved by her presence.",
+          "key_moments": [
+            "Conversation with Anna",
+            "Feeling at home and stimulated",
+            "Returning home with lingering emotional disturbance"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna produces a meaningful shift in Levin from moral distance to sympathetic fascination and pity."
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "character": "Helen Burns",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From inward self-surrender to spiritually grounded communion",
+          "set_b_axis": "From inward self-containment to spiritually fused relational care",
+          "overlap_description": "Both describe Helen as consistently communion-oriented rather than agentic, with the arc emphasizing deepening spiritualized relationality and self-effacing moral presence."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From disciplined endurance to fully settled religious transcendence",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From bodily frailty to sanctified detachment",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From disciplined endurance to fully settled religious transcendence",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From bodily frailty to sanctified detachment",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From admired classmate to intimate spiritual companion",
+          "set_b_axis": "From guarded acquaintance to intimate spiritual companionship",
+          "overlap_description": "Both track Helen's relationship with Jane from initial reserve/distance to intimate, spiritually inflected companionship, especially through comfort, instruction, memory, and deathbed closeness."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From punitive authority to morally rejected oppressor",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From respectful esteem to warm grateful attachment",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From inward self-containment to spiritually grounded communion",
+      "pole_start": "Helen begins strongly on the communion side: she is quiet, reserved, patient under suffering, and oriented toward moral fellowship rather than self-assertion or control.",
+      "pole_end": "She remains on the communion side, but in a more transcendent form: her endurance becomes explicit spiritual trust, and her presence is figured as consoling, guiding, and relationally fused with Jane's inner life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Quiet reserve and endurance",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Helen is already low in agency and high in communion: she prefers reading and privacy, answers Jane patiently, and accepts punishment without protest.",
+          "key_moments": [
+            "First meeting in the verandah",
+            "Helen's patient, restrained replies",
+            "Acceptance of punishment and humiliation"
+          ]
+        },
+        {
+          "phase": "Moral and spiritual instruction",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "Her communion becomes more explicit through comfort, forgiveness, and moral guidance. She supports Jane emotionally while remaining non-assertive and inwardly composed.",
+          "key_moments": [
+            "Explains forgiveness and endurance",
+            "Smiles and glances at Jane during humiliation",
+            "Offers calm moral support"
+          ]
+        },
+        {
+          "phase": "Transcendent companionship",
+          "chapter_range": [
+            9,
+            27
+          ],
+          "position_description": "Helen's communion is spiritualized into a posthumous, protective presence: she comforts Jane at death, promises reunion with God, and persists in memory and dream as a guide.",
+          "key_moments": [
+            "Comforts Jane while dying",
+            "Says she is going to God",
+            "Reappears in memory and dream as a guide"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Helen shows little to no movement toward agency; instead, the arc deepens an already established posture of quiet, spiritually grounded communion that becomes more transcendent after death."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Faith-Transcendence",
+      "axis_name": "From disciplined endurance to fully settled religious transcendence",
+      "pole_start": "Helen begins with embodied Christian patience: she accepts suffering, values forgiveness, and treats endurance as a moral and spiritual discipline lived in the present.",
+      "pole_end": "She ends in complete transcendence: death is peaceful reunion with God, free of fear or resentment, and her spiritual certainty continues as guidance beyond earthly life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Endurance as lived faith",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Helen's faith is first shown through composure under punishment and her insistence on forgiveness rather than retaliation.",
+          "key_moments": [
+            "Accepts punishment without complaint",
+            "Explains retaliation as morally wrong",
+            "Frames suffering as spiritually meaningful"
+          ]
+        },
+        {
+          "phase": "Faith made luminous",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "Her religious outlook remains stable but becomes more vivid, expansive, and intellectually radiant, especially in the shelter of Miss Temple's room.",
+          "key_moments": [
+            "Conversation in Miss Temple's room",
+            "Helen's calm under humiliation",
+            "Visible warmth and spiritual poise"
+          ]
+        },
+        {
+          "phase": "Completed transcendence",
+          "chapter_range": [
+            9,
+            27
+          ],
+          "position_description": "Helen dies calmly, speaks of going to God, and continues to appear in Jane's memory and dream as a moral and spiritual guide.",
+          "key_moments": [
+            "Dies peacefully beside Jane",
+            "Promises reunion in a future state",
+            "Appears in memory and dream as a heavenly guide"
+          ]
+        }
+      ],
+      "evidence_summary": "Helen's faith does not radically change, but it deepens from disciplined endurance into fully internalized transcendence, making her a stable yet increasingly luminous spiritual presence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Body-Spirit",
+      "axis_name": "From bodily frailty to sanctified detachment",
+      "pole_start": "Helen begins as a physically vulnerable child whose calmness coexists with fatigue, cough, and sadness.",
+      "pole_end": "She ends as a figure whose bodily life has receded, leaving only serene spiritual presence and posthumous influence.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Frailty beneath composure",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "Helen's body is increasingly marked by fragility even as her mind remains calm and spiritually poised.",
+          "key_moments": [
+            "Public punishment",
+            "Coughing and sighs in Miss Temple's room",
+            "Jane senses sadness beneath her tranquility"
+          ]
+        },
+        {
+          "phase": "Death and afterlife",
+          "chapter_range": [
+            9,
+            27
+          ],
+          "position_description": "Her physical decline ends in death, after which she persists only as memory and dream-vision in Jane's inner life.",
+          "key_moments": [
+            "Helen dies peacefully",
+            "Jane remembers her during later crises",
+            "Helen appears in a dream as a guiding presence"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures the bodily dimension of Helen's arc: not a psychological reversal, but a progressive withdrawal from embodied life into sanctified memory and symbolic presence."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Helen Burns",
+      "target_character": "Jane Eyre",
+      "dimension_label": "Distance-Intimacy",
+      "axis_name": "From guarded acquaintance to intimate spiritual companionship",
+      "pole_start": "Helen begins as a reserved, mildly distant peer who values solitude and limits conversation, though she is already quietly sympathetic to Jane.",
+      "pole_end": "She ends as a deeply trusted moral companion, comforter, and spiritual guide in Jane's inner life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Cautious opening",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Helen is polite but guarded; she answers Jane patiently, then withdraws when Jane presses too much.",
+          "key_moments": [
+            "First meeting in the verandah",
+            "Helen prefers reading and privacy",
+            "Jane's curiosity meets Helen's reserve"
+          ]
+        },
+        {
+          "phase": "Mentor-like closeness",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "The relationship warms into trust and moral intimacy as Helen explains her beliefs and comforts Jane during humiliation.",
+          "key_moments": [
+            "Explains forgiveness and endurance",
+            "Comforts Jane after punishment",
+            "Jane is drawn to Helen's calm and wisdom"
+          ]
+        },
+        {
+          "phase": "Intimate spiritual bond",
+          "chapter_range": [
+            9,
+            27
+          ],
+          "position_description": "After Helen's death, Jane continues to experience her as a consoling inner presence through memory and dream, making the bond less social but more spiritually intimate.",
+          "key_moments": [
+            "Helen comforts Jane on her deathbed",
+            "Jane remembers Helen during later crises",
+            "Helen appears in Jane's dream as a guide"
+          ]
+        }
+      ],
+      "evidence_summary": "Helen's relationship with Jane intensifies from reserve to profound intimacy, expressed through moral instruction, consolation, memory, and dream rather than ordinary companionship."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Helen Burns",
+      "target_character": "Miss Scatcherd",
+      "dimension_label": "Antagonism-Esteem",
+      "axis_name": "From punitive authority to morally rejected oppressor",
+      "pole_start": "Miss Scatcherd is a disciplinary authority who exerts coercive power over Helen and embodies public shame and humiliation.",
+      "pole_end": "She remains a degrading and antagonistic oppressor whose cruelty is never openly resisted by Helen but is morally rejected by the narrative and by Helen's inward stance.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Established disciplinary hostility",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Miss Scatcherd's punishments define the relationship as one of authority, shame, and coercion.",
+          "key_moments": [
+            "Public punishments",
+            "Helen's composure under discipline"
+          ]
+        },
+        {
+          "phase": "Internalized submission under hostility",
+          "chapter_range": [
+            7,
+            8
+          ],
+          "position_description": "The relationship remains antagonistic, but Helen's response shifts toward resignation and self-blame rather than resistance.",
+          "key_moments": [
+            "Helen accepts punishment as deserved",
+            "Ongoing humiliation without open conflict"
+          ]
+        }
+      ],
+      "evidence_summary": "Helen's relation to Miss Scatcherd is stable rather than dynamic: the power structure remains antagonistic, with the main change occurring in Helen's increasing resignation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Helen Burns",
+      "target_character": "Miss Temple",
+      "dimension_label": "Admiration-Attachment",
+      "axis_name": "From respectful esteem to warm grateful attachment",
+      "pole_start": "Helen begins with strong respect for Miss Temple as a humane and capable authority figure.",
+      "pole_end": "She ends with sustained grateful attachment and emotional nourishment from Miss Temple's kindness.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respectful admiration",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Helen already regards Miss Temple as the best teacher and a morally superior presence.",
+          "key_moments": [
+            "Helen identifies Miss Temple as the best teacher",
+            "She aligns herself with Miss Temple's gentler authority"
+          ]
+        },
+        {
+          "phase": "Warm attachment",
+          "chapter_range": [
+            8,
+            9
+          ],
+          "position_description": "In Miss Temple's room, Helen becomes visibly animated and emotionally sustained by her presence, suggesting a deeper attachment than simple respect.",
+          "key_moments": [
+            "Helen brightens in Miss Temple's room",
+            "She is sheltered and cared for there",
+            "Her conversation becomes more expansive and alive"
+          ]
+        }
+      ],
+      "evidence_summary": "Helen's bond with Miss Temple develops from admiration into warm attachment, showing that she is responsive to humane kindness even while remaining spiritually detached."
+    }
+  ]
+}

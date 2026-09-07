@@ -1,0 +1,491 @@
+{
+  "character": "Philip Pirrip (Pip)",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From frightened dependence to humane relational balance",
+          "set_b_axis": "From frightened dependence to morally grounded communion",
+          "overlap_description": "Both describe Pip's movement from coerced, fear-driven dependence toward a mature form of connection that is less shame-bound and more ethically grounded."
+        },
+        {
+          "set_a_axis": "From ordinary belonging to internalized social inferiority",
+          "set_b_axis": "From class-inflected self-disgust to moral revaluation of worth",
+          "overlap_description": "Both track Pip's class shame: he internalizes gentility as value, devalues his origins, and later revises that hierarchy toward a more humane understanding of worth."
+        },
+        {
+          "set_a_axis": "From frightened self-accusation to reflective moral clarity",
+          "set_b_axis": "From self-deception to remorseful clarity",
+          "overlap_description": "Both focus on Pip's moral self-knowledge, moving from fear, concealment, and self-justification toward clearer recognition of his errors and responsibilities."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From ordinary belonging to internalized social inferiority",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From class-inflected self-disgust to moral revaluation of worth",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From loving attachment to ashamed distance and back toward respectful affection",
+          "set_b_axis": "From affectionate shame to grateful reverence",
+          "overlap_description": "Both describe Pip's relationship with Joe as moving from early warmth through shame-driven estrangement toward restored respect, gratitude, and intimacy."
+        },
+        {
+          "set_a_axis": "From humiliating idealization to mutual recognition",
+          "set_b_axis": "From humiliating adoration to chastened acceptance",
+          "overlap_description": "Both capture Pip's relation to Estella as beginning in idealizing, self-wounding desire and ending in a more equal, humane, and less possessive form of attachment."
+        },
+        {
+          "set_a_axis": "From terror and antagonism to enduring implicated responsibility",
+          "set_b_axis": "From repelled fear to protective compassion",
+          "overlap_description": "Both track Pip's relation to Magwitch from fear and coercion toward a morally transformed bond of obligation, sympathy, and loyalty."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social convenience to genuine friendship",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From reverent dependence to clearer moral distance",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From frightened dependence to morally grounded communion",
+      "pole_start": "Pip begins as a child defined by coercion, secrecy, and reactive obedience, with almost no stable agency and a sense of self shaped by fear.",
+      "pole_end": "He ends as someone who can choose loyalty, forgiveness, and relational responsibility from a steadier moral center rather than from shame or status-seeking.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Coerced dependence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pip is dominated by the convict's threat and acts under terror, not free choice.",
+          "key_moments": [
+            "The convict threatens Pip on the marshes",
+            "Pip obeys by bringing food and a file",
+            "He keeps the encounter secret"
+          ]
+        },
+        {
+          "phase": "Aspiring self-fashioning",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Pip tries to convert dependence into social agency by remaking himself as a gentleman, but this is still externally validated and unstable.",
+          "key_moments": [
+            "He feels ashamed of Joe and the forge",
+            "He idealizes gentility as a higher state",
+            "He becomes dazzled by Estella and Miss Havisham",
+            "He performs the role of a gentleman in London"
+          ]
+        },
+        {
+          "phase": "Collapse of false agency",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "The revelation about Magwitch destroys the fantasy that Pip has been self-made; his rise is exposed as dependence on hidden criminal support.",
+          "key_moments": [
+            "Magwitch is revealed as the benefactor",
+            "Pip feels revulsion and terror",
+            "He recognizes gentility as secrecy and contamination"
+          ]
+        },
+        {
+          "phase": "Chosen communion",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Pip's final orientation is toward humane connection: he accepts obligation, repair, and mutuality without needing to dominate or erase himself.",
+          "key_moments": [
+            "He protects Magwitch and mourns his fate",
+            "He recognizes Joe as his moral center",
+            "He returns to a humbler sense of belonging",
+            "He meets Estella as an equal and accepts friendship"
+          ]
+        }
+      ],
+      "evidence_summary": "Pip moves from fear-driven dependence into a mature communion grounded in loyalty, humility, and ethical responsibility. The arc is not simple self-assertion, but a correction of false autonomy into wiser relationality."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Class Shame",
+      "axis_name": "From class-inflected self-disgust to moral revaluation of worth",
+      "pole_start": "Pip begins by experiencing his origins as ordinary, then increasingly humiliating, and comes to see gentility as the measure of value.",
+      "pole_end": "He ends by recognizing that rank is morally secondary to constancy, sacrifice, and goodness, and by accepting a humbler but truer identity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Latent vulnerability",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pip is socially small and exposed, but class shame is only beginning to form.",
+          "key_moments": [
+            "The convict encounter establishes Pip as vulnerable and powerless"
+          ]
+        },
+        {
+          "phase": "Internalized inferiority",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Estella and Miss Havisham intensify Pip's sense that the forge, Joe, and his common life are beneath him.",
+          "key_moments": [
+            "He feels ashamed of Joe and the forge",
+            "He is dazzled by Miss Havisham's world",
+            "He reads Estella's contempt as confirmation of inferiority",
+            "He becomes mortified by Joe's rustic presence in London"
+          ]
+        },
+        {
+          "phase": "Moral collapse of class fantasy",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "The revelation that his fortune comes from Magwitch exposes the moral emptiness and contamination of his upward fantasy.",
+          "key_moments": [
+            "Magwitch is revealed as benefactor",
+            "Pip sees gentility as tied to secrecy and danger",
+            "His social fantasies unravel"
+          ]
+        },
+        {
+          "phase": "Revaluation of worth",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Pip now judges people by goodness and loyalty rather than rank, and his shame is transformed into humility and gratitude.",
+          "key_moments": [
+            "He recognizes Joe as his truest benefactor",
+            "He seeks forgiveness from Joe and Biddy",
+            "He accepts a humbler identity"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures Pip's central class-based reversal: from self-disgust and aspiration toward a moral hierarchy in which Joe, Biddy, and constancy matter more than gentility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Self-Knowledge",
+      "axis_name": "From self-deception to remorseful clarity",
+      "pole_start": "Pip begins with limited self-awareness, feeling fear, shame, and desire without fully understanding their moral shape.",
+      "pole_end": "He ends with clearer recognition of his vanity, ingratitude, and debt to others, even if some sorrow and self-reproach remain.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Implicit selfhood",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Pip obeys and conceals without yet interpreting his reactions as part of a moral character.",
+          "key_moments": [
+            "He obeys the convict and keeps silent",
+            "He experiences fear without reflection"
+          ]
+        },
+        {
+          "phase": "Partial recognition",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Pip begins to sense that his shame and ambition are compromised, but he remains caught in aspiration and self-justification.",
+          "key_moments": [
+            "He feels embarrassed by Joe",
+            "He senses his own self-deception",
+            "He remains attached to Estella and gentility"
+          ]
+        },
+        {
+          "phase": "Painful insight",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "The collapse of his expectations forces sharper moral clarity and a more honest accounting of his life.",
+          "key_moments": [
+            "Magwitch's revelation destroys his assumptions",
+            "He recognizes the corruption of his gentility",
+            "He returns to Joe and Biddy in humility",
+            "He accepts a more truthful emotional life"
+          ]
+        }
+      ],
+      "evidence_summary": "Pip develops from reactive concealment into reflective self-knowledge, learning to name his errors and to understand the moral cost of his earlier fantasies."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Philip Pirrip (Pip)",
+      "target_character": "Joe Gargery",
+      "dimension_label": "Love-Shame",
+      "axis_name": "From affectionate shame to grateful reverence",
+      "pole_start": "Pip begins with genuine love for Joe, but that love becomes contaminated by embarrassment over Joe's plainness and Pip's 'common' origins.",
+      "pole_end": "He ends in deep gratitude, reverence, and restored intimacy, seeing Joe as his moral center and truest benefactor.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Warm attachment under strain",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Joe remains a loving, safe presence, but Pip's class shame increasingly damages his ability to honor the relationship.",
+          "key_moments": [
+            "Joe is a source of home and safety",
+            "Pip feels ashamed of Joe and the forge",
+            "Joe's goodness makes Pip feel worse, not better"
+          ]
+        },
+        {
+          "phase": "Moral reversal",
+          "chapter_range": [
+            4,
+            5
+          ],
+          "position_description": "After Magwitch's revelation and the collapse of his fantasies, Pip re-evaluates Joe as the true standard of worth.",
+          "key_moments": [
+            "Pip sees gentility as morally compromised",
+            "He recognizes Joe as his truest benefactor",
+            "He seeks forgiveness and returns to Joe"
+          ]
+        }
+      ],
+      "evidence_summary": "Joe is the clearest measure of Pip's moral growth: the relationship moves from loving but shame-tainted distance to gratitude, reverence, and restored intimacy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Philip Pirrip (Pip)",
+      "target_character": "Estella",
+      "dimension_label": "Adoration-Equality",
+      "axis_name": "From humiliating adoration to chastened acceptance",
+      "pole_start": "Pip begins in intense adoration, treating Estella as both ideal and judge and tying his self-worth to her approval.",
+      "pole_end": "He ends with tender, less possessive acceptance, able to feel for her without needing her to validate his identity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Idealizing fixation",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Estella becomes the center of Pip's aspiration and shame; he wants to be worthy of her and reads her contempt as proof of inferiority.",
+          "key_moments": [
+            "Pip is dazzled by Estella",
+            "He wants gentility to win her regard",
+            "Her contempt intensifies his self-consciousness"
+          ]
+        },
+        {
+          "phase": "Grief and disillusionment",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "The apparent certainty of Estella's marriage wounds Pip deeply, turning adoration into grief, jealousy, and resignation.",
+          "key_moments": [
+            "Pip is devastated by Estella's apparent marriage",
+            "He feels humiliation and loss",
+            "He begins to see the limits of his fantasy"
+          ]
+        },
+        {
+          "phase": "Gentled attachment",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Pip's attachment becomes quieter and more humane, and he can meet Estella with peace rather than possessive longing.",
+          "key_moments": [
+            "His old wound softens",
+            "He experiences Estella with acceptance",
+            "Romantic fixation gives way to reflective care"
+          ]
+        }
+      ],
+      "evidence_summary": "Estella remains emotionally central, but Pip's relation to her changes from self-wounding idealization to a more mature, less dependent tenderness."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Philip Pirrip (Pip)",
+      "target_character": "Abel Magwitch",
+      "dimension_label": "Fear-Loyalty",
+      "axis_name": "From repelled fear to protective compassion",
+      "pole_start": "Pip initially experiences Magwitch as a terrifying criminal presence associated with danger, contamination, and social disgrace.",
+      "pole_end": "He ends in loyal compassion, seeing Magwitch as a wounded human being whose devotion deserves protection and pity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hidden threat",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Before the revelation, Magwitch is a background source of fear and secrecy, defined by coercion and latent dread.",
+          "key_moments": [
+            "The convict threatens Pip on the marshes",
+            "Pip keeps the encounter secret",
+            "The prison world remains associated with danger"
+          ]
+        },
+        {
+          "phase": "Shattering revelation",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "When Magwitch is revealed as the benefactor, Pip feels revulsion and terror, but also a new sense of obligation.",
+          "key_moments": [
+            "Magwitch is revealed as Pip's benefactor",
+            "Pip feels repelled and trapped by the truth",
+            "He must help conceal and protect him"
+          ]
+        },
+        {
+          "phase": "Protective identification",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Pip's response matures into compassion and loyalty as he acts for Magwitch's safety and dignity even in ruin.",
+          "key_moments": [
+            "Pip helps secure Magwitch's escape attempt",
+            "He remains emotionally bound to him",
+            "He sees Magwitch as a devoted, wounded man"
+          ]
+        }
+      ],
+      "evidence_summary": "Magwitch is Pip's most dramatic relational reversal: from fear and disgust to protective loyalty and human sympathy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Philip Pirrip (Pip)",
+      "target_character": "Herbert Pocket",
+      "dimension_label": "Trust-Companionship",
+      "axis_name": "From social convenience to genuine friendship",
+      "pole_start": "Pip begins with Herbert as a useful acquaintance in the world of gentility.",
+      "pole_end": "He ends with Herbert as a trusted friend who can challenge him honestly and support him emotionally.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Shared social training",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Pip becomes comfortable with Herbert as part of his gentlemanly life, but the relationship is still developing.",
+          "key_moments": [
+            "Pip settles into life with Herbert and the Pocket household",
+            "He becomes comfortable with expensive habits and social performance"
+          ]
+        },
+        {
+          "phase": "Confession and counsel",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "The friendship deepens when Pip reveals his love for Estella and Herbert responds with honest concern rather than judgment.",
+          "key_moments": [
+            "Pip confesses to Herbert that he loves Estella",
+            "Herbert gently warns him that Estella may be destructive"
+          ]
+        }
+      ],
+      "evidence_summary": "Herbert functions as Pip's most humane peer relationship in London. The arc is modest but meaningful: from companionship to trust-based friendship."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Philip Pirrip (Pip)",
+      "target_character": "Miss Havisham",
+      "dimension_label": "Idealization-Distance",
+      "axis_name": "From reverent dependence to clearer moral distance",
+      "pole_start": "Pip begins by idealizing Miss Havisham as a powerful patron who may author his future and elevate him socially.",
+      "pole_end": "He ends with a more skeptical, morally lucid view of her as manipulative, wounded, and implicated in Estella's damage.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Reverent dependence",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Miss Havisham is treated as a source of specialness and possible destiny; Pip defers to her power and reads her intentions romantically.",
+          "key_moments": [
+            "Pip believes she may be shaping his future",
+            "He remains in her orbit with hope",
+            "He sees her as an authority on his worth"
+          ]
+        },
+        {
+          "phase": "Moral reappraisal",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "After the collapse of his expectations, Pip sees Miss Havisham less as a benefactor and more as someone whose emotional damage has harmed Estella and misled him.",
+          "key_moments": [
+            "Pip's romantic fantasy collapses",
+            "He recognizes her manipulative role",
+            "He judges her more critically"
+          ]
+        }
+      ],
+      "evidence_summary": "Miss Havisham shifts from enchanted authority to morally compromised figure, and Pip's relation to her becomes correspondingly cooler and more discerning."
+    }
+  ]
+}

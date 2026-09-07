@@ -1,0 +1,60 @@
+model:
+  model_name_or_path: holi-lab/ArcANE-8B-SFT
+  model_revision: 3b21f160d130741634b07e4a18c79460e73a829f
+  torch_dtype: bfloat16
+  attn_implementation: flash_attention_2
+
+dataset:
+  dataset_name: holi-lab/ArcANE-Data
+  dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  dataset_config: dpo
+  dataset_split: train
+  dataset_num_proc: 16
+  max_train_samples: null
+  max_prompt_length: 6144
+
+formatting:
+  enable_thinking: false
+
+training:
+  output_root: outputs
+  max_length: 8192
+  num_train_epochs: 1.0
+  learning_rate: 5e-6          # paper Table 8 (ArcANE-8B DPO)
+  weight_decay: 0.0
+  warmup_ratio: 0.1
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 64   # effective batch 64 on 1 GPU (paper Table 8)
+  gradient_checkpointing: true
+  logging_steps: 10
+  save_steps: 500
+  save_total_limit: 2
+  seed: 42
+  resume_from_checkpoint: null
+  report_to: wandb
+  packing: false
+  mixed_precision: bf16
+
+dpo:
+  dpo_beta: 0.1
+  dpo_loss_type: sigmoid
+  dpo_label_smoothing: 0.0
+  dpo_precompute_ref_log_probs: false
+  dpo_precompute_ref_batch_size: null
+  dpo_truncation_mode: keep_start
+
+peft:
+  use_peft: false
+
+evaluation:
+  eval_dataset_name: holi-lab/ArcANE-Data
+  eval_dataset_revision: e86e5630a32037e1605bca533f822401076f0354
+  eval_dataset_config: dpo
+  eval_dataset_split: test
+  max_eval_samples: 128
+  trainer_eval_strategy: "steps"
+  trainer_eval_steps: 100
+  trainer_eval_delay: 0.0
+  per_device_eval_batch_size: 1
+  eval_accumulation_steps: null
+  eval_on_start: false

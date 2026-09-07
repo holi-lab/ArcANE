@@ -1,0 +1,352 @@
+{
+  "character": "Miss Havisham",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From controlling isolation to remorseful relational openness",
+          "set_b_axis": "From domineering isolation to remorseful relational dependence",
+          "overlap_description": "Both describe the same core psychological movement: Miss Havisham begins as controlling, isolated, and emotionally sealed, then shifts toward remorse and a more open, vulnerable stance. Set B extends the endpoint into dependence and repair, while Set A emphasizes a milder softening."
+        },
+        {
+          "set_a_axis": "From justified avenger to culpable source of harm",
+          "set_b_axis": "From self-justifying bitterness to guilty moral awareness",
+          "overlap_description": "Both axes track her moral self-concept changing from revenge-based self-justification to recognition that she is responsible for harming others, especially Estella and Pip."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From controlling isolation to remorseful relational openness",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From justified avenger to culpable source of harm",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From domineering isolation to remorseful relational dependence",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From self-justifying bitterness to guilty moral awareness",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From theatrical hardness to shattered vulnerability",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From manipulative orchestration to remorseful regard",
+          "set_b_axis": "From using Pip as a pawn to seeking his forgiveness",
+          "overlap_description": "Both axes describe the same relationship shift: Pip moves from being manipulated and emotionally controlled to becoming the person before whom Miss Havisham is vulnerable, remorseful, and seeking moral repair."
+        },
+        {
+          "set_a_axis": "From possessive creation to confirmed proprietary attachment",
+          "set_b_axis": "From possessive creation to guilty recognition of harm",
+          "overlap_description": "Both capture Miss Havisham's possessive, controlling bond with Estella. Set A stresses proprietary attachment and authority; Set B adds the later moral turn toward remorse and recognition of damage."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From manipulative orchestration to remorseful regard",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From possessive creation to confirmed proprietary attachment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From using Pip as a pawn to seeking his forgiveness",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From possessive creation to guilty recognition of harm",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From domineering isolation to remorseful vulnerability",
+      "pole_start": "High agency, low communion: she is self-assertive, controlling, emotionally sealed off, and uses others as instruments of revenge.",
+      "pole_end": "Reduced agency, higher communion: she becomes emotionally open, vulnerable, remorseful, and oriented toward repair and forgiveness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Frozen domination",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Miss Havisham dominates the social space of Satis House, controls Pip's discomfort, treats Joe as a curiosity, and uses Estella as an extension of her will. Her communion is minimal and distorted into possession.",
+          "key_moments": [
+            "Humiliates Pip through Estella's mockery",
+            "Treats Joe as a rustic curiosity",
+            "Presses Pip to love Estella",
+            "Uses Estella as an instrument of revenge"
+          ]
+        },
+        {
+          "phase": "Control under strain",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her control remains strong but begins to look brittle. Estella's greater independence and the instability of the scheme expose limits to Miss Havisham's mastery.",
+          "key_moments": [
+            "Estella speaks back with greater independence",
+            "Her influence is no longer fully obedient to her will",
+            "The scheme becomes unstable"
+          ]
+        },
+        {
+          "phase": "Remorseful vulnerability",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "After the fire, her agency collapses into exposed vulnerability. She kneels, weeps, and seeks forgiveness, showing a marked turn toward communion and dependence on others for moral repair.",
+          "key_moments": [
+            "Cries 'What have I done!'",
+            "Kneels at Pip's feet",
+            "Seeks forgiveness",
+            "Recognizes the harm done to Estella"
+          ]
+        }
+      ],
+      "evidence_summary": "The strongest synthesis is a movement from controlling isolation to remorseful vulnerability. Set A captures the softening; Set B better captures the collapse of mastery and the dependence on forgiveness that completes the arc."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Self-Recognition",
+      "axis_name": "From self-justifying bitterness to guilty moral awareness",
+      "pole_start": "She interprets herself as a wounded victim whose cruelty is justified by injury and revenge.",
+      "pole_end": "She recognizes herself as a source of harm, especially toward Estella, and experiences guilt, shame, and the need for forgiveness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vindictive self-justification",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Her emotional life is organized around grievance and revenge. She can articulate her wound, but she does not morally interrogate the cruelty she inflicts on others.",
+          "key_moments": [
+            "Takes pleasure in humiliation",
+            "Frames love as suffering",
+            "Uses Estella to enact revenge"
+          ]
+        },
+        {
+          "phase": "Worldview destabilization",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her justification begins to crack as Estella's resistance and the instability of the scheme expose the limits of her revenge logic.",
+          "key_moments": [
+            "Estella's composure and independence",
+            "Her control appears less absolute",
+            "The scheme's consequences begin to rebound"
+          ]
+        },
+        {
+          "phase": "Guilt and confession",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She reaches explicit moral recognition: she sees that she has corrupted Estella and done grievous wrong, shifting from vindication to guilt and the desire for absolution.",
+          "key_moments": [
+            "Asks 'What have I done!'",
+            "Acknowledges she corrupted Estella",
+            "Seeks forgiveness from Pip",
+            "Shows shame and remorse after the fire"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that the key internal change is ethical rather than merely emotional: Miss Havisham moves from revenge-based self-exemption to guilt and moral awareness, with Set B supplying the clearest endpoint."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Emotional Regulation",
+      "axis_name": "From theatrical hardness to shattered vulnerability",
+      "pole_start": "Rigid, performative emotional control: coldness, bitterness, and sustained punitive affect.",
+      "pole_end": "Broken, openly vulnerable affect: tears, panic, shame, and grief.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Frozen affect",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "She maintains a fixed emotional posture of bitterness and theatrical woundedness, using affect as a tool of domination rather than as a site of change.",
+          "key_moments": [
+            "Cold and controlling demeanor",
+            "Pleasure in humiliation",
+            "Desperate intensity in pressing Pip to love Estella"
+          ]
+        },
+        {
+          "phase": "Instability",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Her emotional control begins to look strained as the consequences of her manipulation become harder to contain.",
+          "key_moments": [
+            "Scheme becomes unstable",
+            "Estella begins to resist",
+            "Miss Havisham appears emotionally cornered"
+          ]
+        },
+        {
+          "phase": "Collapse",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "Her emotional defenses break down completely. She becomes visibly vulnerable, weeping and panicked, with remorse replacing the old hardness.",
+          "key_moments": [
+            "Tears and kneeling",
+            "Repeated cries of guilt",
+            "Profound emotional collapse after the fire"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is a useful addition from the psychological summary: it isolates the affective collapse that accompanies her moral awakening, distinguishing emotional breakdown from ethical recognition."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Miss Havisham",
+      "target_character": "Pip",
+      "dimension_label": "Control-Dependence",
+      "axis_name": "From using Pip as a pawn to seeking his forgiveness",
+      "pole_start": "She treats Pip as a target of humiliation and a piece in her emotional design, with very low trust and intimacy and high manipulative control.",
+      "pole_end": "She becomes dependent on Pip's compassion and forgiveness, approaching him vulnerably and asking for moral repair rather than exerting power over him.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Manipulative domination",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Pip is primarily an object of her control: she stages humiliations, encourages his longing for Estella, and keeps him within her emotional economy of suffering.",
+          "key_moments": [
+            "Estella mocks Pip under Miss Havisham's orchestration",
+            "She presses Pip to love Estella",
+            "She maintains his visits and emotional dependence"
+          ]
+        },
+        {
+          "phase": "Distance and instability",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Pip is less an active participant than a remembered consequence of her design. Her stance toward him remains controlling in principle, but the relationship is no longer securely under her command.",
+          "key_moments": [
+            "Her influence appears less absolute",
+            "The scheme's effects become unstable"
+          ]
+        },
+        {
+          "phase": "Appeal for mercy",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She turns toward Pip as a source of forgiveness and possible repair. The relationship becomes one of dependence and supplication rather than domination.",
+          "key_moments": [
+            "Kneels at Pip's feet",
+            "Cries for forgiveness",
+            "Seeks his help and moral understanding"
+          ]
+        }
+      ],
+      "evidence_summary": "Pip is the clearest site of relational reversal: Miss Havisham moves from orchestrating his humiliation to asking him for mercy, making dependence the key endpoint of the arc."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Miss Havisham",
+      "target_character": "Estella",
+      "dimension_label": "Possession-Remorse",
+      "axis_name": "From possessive creation to guilty recognition of harm",
+      "pole_start": "She sees Estella as her creation and instrument, with high possessiveness, distorted intimacy, and little respect for Estella's autonomy.",
+      "pole_end": "She recognizes Estella as someone she damaged, feeling maternal remorse and grief rather than mere ownership.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Instrumental possession",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Estella functions as Miss Havisham's extension: a tool for humiliating others and enacting revenge on love and men.",
+          "key_moments": [
+            "Uses Estella as an instrument of cruelty",
+            "Presses Pip to love Estella",
+            "Treats Estella as part of her emotional design"
+          ]
+        },
+        {
+          "phase": "Control under challenge",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "Estella's growing independence destabilizes the relationship. Miss Havisham still clings to her, but the bond is now marked by conflict and the sense that her creation is slipping away.",
+          "key_moments": [
+            "Estella speaks back with greater composure",
+            "Miss Havisham's scheme becomes unstable",
+            "Her power over Estella is no longer absolute"
+          ]
+        },
+        {
+          "phase": "Remorseful recognition",
+          "chapter_range": [
+            5,
+            5
+          ],
+          "position_description": "She explicitly understands that she has harmed Estella by warping her nature. The relationship becomes morally reinterpreted as one of injury and regret rather than possession.",
+          "key_moments": [
+            "Says she has 'stolen her heart away'",
+            "Recognizes she did not give Estella a 'right nature'",
+            "Feels grief and responsibility for Estella"
+          ]
+        }
+      ],
+      "evidence_summary": "The Estella relationship remains the central relational axis because it combines possession, failed control, and moral reckoning. Set B strengthens the endpoint by naming guilt and harm directly."
+    }
+  ]
+}

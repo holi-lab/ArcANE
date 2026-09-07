@@ -1,0 +1,705 @@
+{
+  "character": "Nora Rowley",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From dependent mediator to self-authoring chooser",
+          "set_b_axis": "From mediated interdependence to self-authoring commitment",
+          "overlap_description": "Both describe Nora’s movement from tactful, family-centered mediation toward a more self-directed stance in love and life, while retaining relational responsibility."
+        },
+        {
+          "set_a_axis": "From worldly security to moral integrity",
+          "set_b_axis": "From cautious practicality to principled romantic commitment",
+          "overlap_description": "Both track Nora’s shift from valuing security, rank, and prudence as primary goods toward choosing love and moral truth, while still respecting practical propriety."
+        },
+        {
+          "set_a_axis": "From anxious self-division to steadier self-trust",
+          "set_b_axis": "From anxious self-suppression to composed self-possession",
+          "overlap_description": "Both capture Nora’s growing confidence and composure: she moves from self-doubt, shame, and suppression toward firmer self-command and trust in her own judgment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From guarded silence to disciplined candor",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From worldly temptation to disciplined self-knowledge",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From cautious practicality to principled romantic commitment",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From anxious self-suppression to composed self-possession",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From worldly temptation to disciplined self-knowledge",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From cautious sister to steadfast protector",
+          "set_b_axis": "From anxious sisterly mediation to steadfast shared refuge",
+          "overlap_description": "Both describe Nora and Emily’s bond as moving from mediation and deference into durable solidarity, shared suffering, and protective intimacy."
+        },
+        {
+          "set_a_axis": "From wary household observer to compassionate but estranged witness",
+          "set_b_axis": "From wary respect to moral distrust",
+          "overlap_description": "Both show Nora’s relation to Louis Trevelyan hardening from cautious, peace-seeking concern into settled distrust and moral rejection, tempered by pity."
+        },
+        {
+          "set_a_axis": "From uncertain attraction to committed, disciplined love",
+          "set_b_axis": "From guarded admiration to openly confirmed devotion",
+          "overlap_description": "Both identify Hugh Stanbury as Nora’s central romantic arc, moving from uncertainty and restraint to open, mutually recognized commitment."
+        },
+        {
+          "set_a_axis": "From eligible suitor to closed alternative",
+          "set_b_axis": "From viable suitor to relinquished alternative",
+          "overlap_description": "Both treat Glascock as a serious alternative life-path that Nora refuses, regrets, and eventually releases once his marriage to Caroline closes the possibility."
+        },
+        {
+          "set_a_axis": "From compliant daughter to persuasive equal",
+          "set_b_axis": "From obedient daughter to strategically allied adult",
+          "overlap_description": "Both describe Nora’s relationship with Lady Rowley as shifting from filial deference toward adult negotiation and strategic alliance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social patronage to chosen friendship",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Female friendship",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "Unease to suspicion",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "From mediated interdependence to self-authoring commitment",
+      "pole_start": "Primarily communal and mediating: Nora begins as a tactful, peace-seeking sister who subordinates her own preferences to household harmony, family feeling, and the emotional needs of others.",
+      "pole_end": "More agentic while still relational: Nora ends as someone who can assert her own judgment in love, defend her choice, and act decisively within a marriage she has chosen for herself.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Domestic mediator",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "Nora functions as the household peacemaker, trying to soften conflict between Emily and Louis, preserve domestic order, and avoid open confrontation. Her agency is indirect and relational.",
+          "key_moments": [
+            "Urges Emily to soften her stance and avoid provoking Louis",
+            "Carries letters and messages between disputing parties",
+            "Tries to prevent scandal and keep peace in the Trevelyan household"
+          ]
+        },
+        {
+          "phase": "Practical chooser",
+          "chapter_range": [
+            13,
+            25
+          ],
+          "position_description": "Refusing Glascock forces Nora to act on her own moral judgment. She begins to recognize her own desires and limits more clearly, even as she feels the loss of security and approval.",
+          "key_moments": [
+            "Refuses Glascock because she does not love him",
+            "Feels regret and self-doubt over the lost future",
+            "Settles into the Clock House arrangement and accepts consequences"
+          ]
+        },
+        {
+          "phase": "Assertive lover",
+          "chapter_range": [
+            33,
+            53
+          ],
+          "position_description": "Nora becomes increasingly self-defining through her attachment to Hugh. She admits her love, responds to his declaration, and begins to treat her choice as morally binding rather than merely emotional.",
+          "key_moments": [
+            "Feels wounded by Hugh’s reserve, then recognizes her own longing",
+            "Admits to Emily that she loves Hugh",
+            "Writes Hugh a full confession and answers his letter"
+          ]
+        },
+        {
+          "phase": "Committed self-author",
+          "chapter_range": [
+            53,
+            99
+          ],
+          "position_description": "Nora openly claims Hugh, resists parental pressure, negotiates practical arrangements, and enters a marriage that reflects her own judgment. Her relational life remains central, but she now authors it rather than merely enduring it.",
+          "key_moments": [
+            "Defends the match to her parents and refuses to be sent away",
+            "Secures parental support through persuasion rather than submission",
+            "Waits through practical delays and ends married to Hugh"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora begins as a mediator whose identity is organized around preserving others’ peace, but over the novel she becomes increasingly self-directing in love and life. The final marriage does not erase communion; it shows a more agentic form of communion in which she chooses and defends her bond."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Prudence–Romance",
+      "axis_name": "From cautious practicality to principled romantic commitment",
+      "pole_start": "Cautious, security-minded, and skeptical of imprudent feeling: Nora initially treats marriage as something that must be financially and socially workable, and she distrusts choices that ignore material reality.",
+      "pole_end": "Romantically committed but still prudent: Nora ends by accepting love as the governing truth of her life, while retaining a strong sense that marriage must still be honorable, practical, and properly arranged.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Security first",
+          "chapter_range": [
+            1,
+            12
+          ],
+          "position_description": "Nora emphasizes tact, discretion, and the need to avoid scandal. She sees marriage as serious, constrained by women’s limited options, and best managed through practical judgment.",
+          "key_moments": [
+            "Warns against provoking Louis",
+            "Treats secrecy as dangerous",
+            "Accepts women’s dependence and the need for economic realism"
+          ]
+        },
+        {
+          "phase": "Love versus advantage",
+          "chapter_range": [
+            13,
+            25
+          ],
+          "position_description": "The tension becomes explicit. Nora refuses Glascock because she does not love him, but the refusal exposes how much she values security and rank. She is torn between moral sincerity and worldly advantage.",
+          "key_moments": [
+            "Refuses Glascock and then regrets the lost future",
+            "Feels the pull of social elevation and comfort",
+            "Becomes more self-conscious about women’s dependence and her own vulnerability"
+          ]
+        },
+        {
+          "phase": "Love as chosen truth",
+          "chapter_range": [
+            39,
+            53
+          ],
+          "position_description": "Romantic conviction overtakes mere prudence. Nora admits her love for Hugh, resists immediate marriage only because of propriety and poverty, and then moves toward open commitment once his love is confirmed.",
+          "key_moments": [
+            "Refuses Hugh’s immediate proposal on practical grounds",
+            "Receives confirmation of his love and is secretly thrilled",
+            "Answers his letter and treats the engagement as morally real"
+          ]
+        },
+        {
+          "phase": "Prudence integrated with love",
+          "chapter_range": [
+            70,
+            99
+          ],
+          "position_description": "Nora no longer opposes love to prudence; she tries to make them compatible. She insists on proper arrangements, parental consent, and a respectable home, but these now serve the love she has already chosen.",
+          "key_moments": [
+            "Defends Hugh to her parents while acknowledging practical obstacles",
+            "Refuses to be sent away or coerced into a different match",
+            "Settles into marriage as a morally and practically grounded union"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora’s arc is not a rejection of prudence but a reordering of it. Early on, prudence dominates and love is suspect; by the end, love is primary, but prudence remains the form through which she legitimizes and stabilizes that love."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-doubt–Self-command",
+      "axis_name": "From anxious self-suppression to composed self-possession",
+      "pole_start": "Self-doubting and emotionally suppressive: Nora begins by hiding her feelings, deferring to others, and worrying that her own desires are either imprudent or socially illegitimate.",
+      "pole_end": "Self-possessed and quietly authoritative: Nora ends able to name her own love, defend her choices, and maintain composure even under family pressure.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Suppressed feeling",
+          "chapter_range": [
+            1,
+            18
+          ],
+          "position_description": "Nora is anxious, tactful, and often distressed, but her distress is managed through restraint. She apologizes, mediates, and keeps her own desires secondary to the needs of others.",
+          "key_moments": [
+            "Tries to prevent quarrels from escalating",
+            "Apologizes after snapping at Priscilla",
+            "Endures regret after refusing Glascock"
+          ]
+        },
+        {
+          "phase": "Visible inner conflict",
+          "chapter_range": [
+            24,
+            41
+          ],
+          "position_description": "Her feelings become harder to suppress. She is hurt, jealous, and embarrassed, but also increasingly aware of what she wants. The emotional pressure makes her less passive and more self-defining.",
+          "key_moments": [
+            "Feels wounded by Hugh’s apparent coldness",
+            "Argues about women’s dependence and capability",
+            "Is shaken and then delighted by Hugh’s directness"
+          ]
+        },
+        {
+          "phase": "Composed assertion",
+          "chapter_range": [
+            53,
+            99
+          ],
+          "position_description": "Nora becomes more confident in her own judgment. She can resist her parents, manage practical arrangements, and remain emotionally steady while waiting for marriage. Her self-command is no longer mere suppression; it is a chosen discipline.",
+          "key_moments": [
+            "Insists on her right to answer Hugh",
+            "Defends her engagement to her father",
+            "Accepts housing, travel, and marriage arrangements with increasing steadiness"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora’s emotional life is marked by restraint throughout, but the quality of that restraint changes. Early restraint is defensive and anxious; later restraint is more like composure, a sign that she has learned to hold her own feelings without being ruled by them."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Class Vanity–Realism",
+      "axis_name": "From worldly temptation to disciplined self-knowledge",
+      "pole_start": "Initially susceptible to the allure of rank, comfort, and social advantage, though she frames herself as practical and morally serious.",
+      "pole_end": "More self-aware and morally disciplined: Nora recognizes her attraction to status, but no longer lets it govern her choices, and she can name it without surrendering to it.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Latent attraction to security",
+          "chapter_range": [
+            4,
+            18
+          ],
+          "position_description": "Nora repeatedly registers the appeal of a secure marriage and the social value of a good match. Her refusal of Glascock is morally sincere, but it leaves her painfully aware of what she has given up.",
+          "key_moments": [
+            "Compares Stanbury and Glascock",
+            "Feels regret over refusing Glascock",
+            "Accepts the practical realities of dependence and respectability"
+          ]
+        },
+        {
+          "phase": "Temptation made explicit",
+          "chapter_range": [
+            16,
+            25
+          ],
+          "position_description": "She becomes more explicit about the pull of social elevation and the shame of dependence. Her talk about women’s capability and work shows that she is thinking through her own relation to class and usefulness.",
+          "key_moments": [
+            "Weighs Glascock against Hugh as a practical future",
+            "Feels humiliation and self-contempt after rejection",
+            "Reflects on women’s dependence and the value of work"
+          ]
+        },
+        {
+          "phase": "Self-correction and acceptance",
+          "chapter_range": [
+            76,
+            96
+          ],
+          "position_description": "Nora can now recognize vanity in herself without being ruled by it. She briefly feels the attraction of grandeur, but corrects herself and reaffirms the worth of a modest, morally clean life with Hugh.",
+          "key_moments": [
+            "Feels a fleeting disappointment when Glascock is unavailable",
+            "Acknowledges the temptation of social rank",
+            "Rejects envy and settles into a simpler domestic ideal"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora never becomes anti-worldly in a simplistic sense; she remains aware that rank and comfort are real goods. The arc is toward moral realism: she learns to see those goods clearly without letting them override love, honesty, and self-respect."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Nora Rowley",
+      "target_character": "Emily Trevelyan",
+      "dimension_label": "Protective solidarity",
+      "axis_name": "From anxious sisterly mediation to steadfast shared refuge",
+      "pole_start": "Affectionate but mediating: Nora begins as Emily’s loving sister, trying to calm her, restrain her, and keep the marriage conflict from worsening.",
+      "pole_end": "Deeply allied and protective: Nora ends as Emily’s enduring companion in domestic crisis, sharing refuge, sympathy, and practical loyalty.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Conflict mediator",
+          "chapter_range": [
+            1,
+            11
+          ],
+          "position_description": "Nora tries to prevent Emily from provoking Louis and repeatedly acts as a buffer between sister and husband.",
+          "key_moments": [
+            "Urges Emily to soften her stance",
+            "Carries messages and tries to de-escalate quarrels",
+            "Protects Emily’s dignity while worrying about her pride"
+          ]
+        },
+        {
+          "phase": "Shared exile",
+          "chapter_range": [
+            14,
+            30
+          ],
+          "position_description": "Their bond becomes more materially and emotionally interdependent as they move through shared domestic displacement and social pressure.",
+          "key_moments": [
+            "Settles with Emily at the Clock House and later elsewhere",
+            "Supports Emily through gossip and scandal",
+            "Leaves with Emily when the household becomes untenable"
+          ]
+        },
+        {
+          "phase": "Crisis ally",
+          "chapter_range": [
+            52,
+            99
+          ],
+          "position_description": "Nora becomes Emily’s steady ally in the face of Trevelyan’s escalating cruelty, child abduction, illness, and final collapse. Their relationship is less conflicted and more a shared moral and domestic refuge.",
+          "key_moments": [
+            "Supports Emily during the child-abduction crisis",
+            "Helps manage Trevelyan’s illness and the household’s practical arrangements",
+            "Stays emotionally aligned with Emily even as her own marriage resolves"
+          ]
+        }
+      ],
+      "evidence_summary": "Emily remains Nora’s most constant female attachment. The relationship moves from anxious mediation to durable solidarity: Nora never stops caring, but she becomes less a referee and more a co-sufferer and protector."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Nora Rowley",
+      "target_character": "Louis Trevelyan",
+      "dimension_label": "Respect–Distrust",
+      "axis_name": "From wary respect to settled moral condemnation",
+      "pole_start": "Initially respectful and cautious: Nora sees Louis as an authority figure whose displeasure matters and whose jealousy may be serious, though she does not yet fully grasp his danger.",
+      "pole_end": "Deeply distrustful and morally disapproving: Nora ends seeing Louis as unjust, deluded, and dangerous, though still pitiable as a suffering man.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Wary deference",
+          "chapter_range": [
+            1,
+            6
+          ],
+          "position_description": "Nora tries to keep peace with Louis and often assumes tact and openness can still repair the marriage.",
+          "key_moments": [
+            "Urges Emily to avoid provoking him",
+            "Tries to explain and soothe rather than confront",
+            "Begins to see secrecy as dangerous"
+          ]
+        },
+        {
+          "phase": "Growing alarm",
+          "chapter_range": [
+            9,
+            20
+          ],
+          "position_description": "As jealousy hardens into suspicion, Nora becomes more alarmed and less sympathetic to Louis’s conduct. She still pities him, but now sees him as a source of escalating danger.",
+          "key_moments": [
+            "Tries to suppress open discussion of the quarrel",
+            "Worries about Colonel Osborne’s visit and its effect on Louis",
+            "Considers him increasingly difficult and likely to worsen the situation"
+          ]
+        },
+        {
+          "phase": "Moral condemnation",
+          "chapter_range": [
+            60,
+            99
+          ],
+          "position_description": "Louis’s cruelty, delusion, and violence toward Emily and the child lead Nora to a settled moral judgment against him. She can still pity his illness, but she no longer treats him as a legitimate moral authority.",
+          "key_moments": [
+            "Responds to the child abduction with alarm and indignation",
+            "Sees his insinuations as morally and mentally disordered",
+            "Treats his death and collapse as the end of a dangerous chapter"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora’s relation to Louis is one of the clearest negative arcs in the novel: she moves from tactful respect to a stable moral rejection shaped by repeated exposure to his jealousy, coercion, and cruelty."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Nora Rowley",
+      "target_character": "Hugh Stanbury",
+      "dimension_label": "Reserve–Devotion",
+      "axis_name": "From guarded admiration to openly confirmed devotion",
+      "pole_start": "Initially admiring but uncertain: Nora is drawn to Hugh, yet doubts his feelings and believes poverty makes the match impractical.",
+      "pole_end": "Openly committed and emotionally secure: Nora ends married to Hugh, convinced of his love and of the moral truth of their bond.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Admiration under constraint",
+          "chapter_range": [
+            4,
+            18
+          ],
+          "position_description": "Nora is attracted to Hugh but keeps him in the background because he lacks money and because she is unsure whether he returns her feelings.",
+          "key_moments": [
+            "Compares him favorably to Glascock emotionally",
+            "Feels the burden of his poverty",
+            "Questions whether she has sacrificed too much"
+          ]
+        },
+        {
+          "phase": "Wounded longing",
+          "chapter_range": [
+            24,
+            33
+          ],
+          "position_description": "Her attachment becomes more emotionally charged. She feels hurt by his reserve, then briefly reassured by signs that he may care for her.",
+          "key_moments": [
+            "Feels ignored and humiliated",
+            "Interprets his silence as possible lack of love",
+            "Is moved by his declaration that he would do anything for her sake"
+          ]
+        },
+        {
+          "phase": "Confirmed reciprocity",
+          "chapter_range": [
+            39,
+            53
+          ],
+          "position_description": "Hugh’s proposal and later letter force Nora to confront her love directly. She refuses immediate marriage on prudential grounds, but the emotional bond is now explicit and mutual.",
+          "key_moments": [
+            "Refuses Hugh’s first proposal because of poverty and propriety",
+            "Is thrilled by his forceful declaration",
+            "Answers his letter and treats herself as engaged"
+          ]
+        },
+        {
+          "phase": "Publicly settled union",
+          "chapter_range": [
+            70,
+            99
+          ],
+          "position_description": "The relationship becomes socially and practically established. Nora defends the match to her parents, waits through delays, and finally enters marriage with Hugh as a secure, honorable union.",
+          "key_moments": [
+            "Defends Hugh to Sir Marmaduke and Lady Rowley",
+            "Secures support and practical arrangements",
+            "Ends the novel married to Hugh"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Nora’s central relational arc. It moves from uncertain attraction through painful ambiguity to confirmed mutual love and eventual marriage, with prudence and propriety shaping the form of the union rather than negating it."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Nora Rowley",
+      "target_character": "Mr. Glascock",
+      "dimension_label": "Refusal–Release",
+      "axis_name": "From viable suitor to relinquished alternative",
+      "pole_start": "Initially a serious and socially attractive marriage possibility: Nora respects Glascock and recognizes the security and status he offers.",
+      "pole_end": "A fully relinquished alternative: Nora ends respectful, grateful, and untroubled by his marriage to Caroline, no longer experiencing him as a live option.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Eligible alternative",
+          "chapter_range": [
+            4,
+            17
+          ],
+          "position_description": "Glascock is the practical match Nora is expected to consider. She respects him, but does not love him, and the proposal exposes the conflict between security and feeling.",
+          "key_moments": [
+            "Compares him with Hugh as a possible husband",
+            "Refuses his proposal because she does not love him",
+            "Feels intense regret over the lost future"
+          ]
+        },
+        {
+          "phase": "Residual regret",
+          "chapter_range": [
+            18,
+            25
+          ],
+          "position_description": "Nora continues to feel the loss of Glascock’s offer, especially its rank and comfort, even while remaining morally committed to her refusal.",
+          "key_moments": [
+            "Feels shame and grief after the refusal",
+            "Acknowledges the social value of the match",
+            "Uses work and self-assertion to manage the emotional aftermath"
+          ]
+        },
+        {
+          "phase": "Resigned release",
+          "chapter_range": [
+            76,
+            81
+          ],
+          "position_description": "Once Glascock is engaged to Caroline, Nora experiences a brief sting of disappointment, then relief and genuine goodwill. The alternative is no longer emotionally active.",
+          "key_moments": [
+            "Feels a fleeting disappointment at his unavailability",
+            "Accepts Caroline as his proper partner",
+            "Writes reassuringly and speaks of the match with composure"
+          ]
+        }
+      ],
+      "evidence_summary": "Glascock matters because he represents the life Nora could have had: secure, respectable, and socially elevated. Her arc with him is not romantic deepening but moral and emotional release from a tempting alternative."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Nora Rowley",
+      "target_character": "Lady Rowley",
+      "dimension_label": "Filial negotiation",
+      "axis_name": "From obedient daughter to strategically allied adult",
+      "pole_start": "Initially deferential and dependent: Nora relies on her mother’s judgment and emotional support, even when she disagrees.",
+      "pole_end": "Still affectionate but more independent: Nora ends seeking her mother’s support strategically rather than submitting to her authority.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Deferential dependence",
+          "chapter_range": [
+            1,
+            18
+          ],
+          "position_description": "Nora is loving and respectful, but her mother’s opinions still carry strong weight, especially on marriage and propriety.",
+          "key_moments": [
+            "Looks to Lady Rowley for support in domestic crises",
+            "Feels the pressure of maternal and social expectations",
+            "Accepts her mother’s concern even when it hurts"
+          ]
+        },
+        {
+          "phase": "Negotiated alliance",
+          "chapter_range": [
+            63,
+            91
+          ],
+          "position_description": "Nora increasingly treats Lady Rowley as an ally to be persuaded rather than an authority to obey. She seeks her help in securing Hugh and in managing the practical future.",
+          "key_moments": [
+            "Presses her mother to support the engagement",
+            "Uses her mother as intermediary in family negotiations",
+            "Relies on her mother’s support while resisting her caution"
+          ]
+        },
+        {
+          "phase": "Affectionate independence",
+          "chapter_range": [
+            94,
+            99
+          ],
+          "position_description": "Nora accepts her mother’s care and hospitality, but no longer treats maternal approval as decisive. Her marriage to Hugh is settled on her own terms.",
+          "key_moments": [
+            "Accepts Lady Milborough’s and Lady Rowley’s arrangements",
+            "Moves toward marriage without surrendering her judgment",
+            "Maintains affection while preserving autonomy"
+          ]
+        }
+      ],
+      "evidence_summary": "Nora’s relation to her mother shifts from filial dependence toward adult negotiation. She remains loving and respectful, but her choices increasingly come from herself rather than from maternal direction."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Nora Rowley",
+      "target_character": "Lady Milborough",
+      "dimension_label": "Patronage–Friendship",
+      "axis_name": "From social patronage to chosen friendship",
+      "pole_start": "A socially useful but somewhat intrusive elder who helps arrange Nora’s prospects.",
+      "pole_end": "A trusted, affectionate, lifelong friend and protector whose guidance Nora values deeply.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Indirect patronage",
+          "chapter_range": [
+            13,
+            24
+          ],
+          "position_description": "Lady Milborough acts on Nora’s behalf in the background, especially around Glascock, but Nora does not yet fully interpret her as a personal ally.",
+          "key_moments": [
+            "Lady Milborough prompts Glascock’s proposal",
+            "Nora later encounters the consequences of that intervention"
+          ]
+        },
+        {
+          "phase": "Warmth and gratitude",
+          "chapter_range": [
+            94,
+            95
+          ],
+          "position_description": "Nora revises her judgment of Lady Milborough, recognizing her kindness and practical intelligence. The relationship becomes emotionally intimate.",
+          "key_moments": [
+            "Feels softened by Lady Milborough’s hospitality",
+            "Vows silent lifelong friendship",
+            "Receives the wedding veil"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Milborough becomes one of Nora’s important adult female supports, moving from social manager to genuine confidante and benefactor."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Nora Rowley",
+      "target_character": "Caroline Spalding",
+      "dimension_label": "Female friendship",
+      "axis_name": "From awkward acquaintance to candid ally",
+      "pole_start": "A socially adjacent acquaintance with some tension around Glascock and class difference.",
+      "pole_end": "A warm, candid, mutually supportive friendship grounded in shared female experience.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Uneasy overlap",
+          "chapter_range": [
+            76,
+            80
+          ],
+          "position_description": "Caroline’s engagement to Glascock initially stings Nora, but Caroline’s frankness opens a path to friendship.",
+          "key_moments": [
+            "Learns Caroline may have taken the place Nora refused",
+            "Hears Caroline’s invitation to friendship"
+          ]
+        },
+        {
+          "phase": "Candid support",
+          "chapter_range": [
+            80,
+            87
+          ],
+          "position_description": "Nora writes to Caroline to correct her earlier hesitation and later reassures her about the marriage, turning the relationship into one of mutual confidence.",
+          "key_moments": [
+            "Writes explanatory letter",
+            "Reassures Caroline about English opinion",
+            "Discusses her own engagement in comparison"
+          ]
+        }
+      ],
+      "evidence_summary": "This smaller arc moves from wounded comparison to a genuinely supportive female friendship that helps Nora think through marriage, class, and social belonging."
+    }
+  ]
+}

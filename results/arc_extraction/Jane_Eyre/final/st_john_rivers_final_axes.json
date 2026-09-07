@@ -1,0 +1,494 @@
+{
+  "character": "St. John Rivers",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From disciplined self-mastery to coercive vocational dominance",
+          "set_b_axis": "From austere self-mastery to mission-bound relational control",
+          "overlap_description": "Both track St. John as strongly agentic, self-disciplined, and increasingly controlling, with vocation becoming a justification for directing others rather than relating reciprocally."
+        },
+        {
+          "set_a_axis": "From repressed feeling to triumphant renunciation",
+          "set_b_axis": "From seamless duty to acknowledged inner conflict",
+          "overlap_description": "Both identify the emergence of desire or inner strain and its repression under duty; the difference is emphasis, with A stressing renunciation as victory and B stressing conflict becoming visible."
+        },
+        {
+          "set_a_axis": "From principled helper to self-authorizing moral director",
+          "set_b_axis": "From opaque certainty to partial self-recognition",
+          "overlap_description": "Both concern his moral self-conception: he begins as a serious, duty-driven authority and becomes more explicit about his hardness and ambition, though not more ethically flexible."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From disciplined self-mastery to coercive vocational dominance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From repressed feeling to triumphant renunciation",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From principled helper to self-authorizing moral director",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From austere self-mastery to mission-bound relational control",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From seamless duty to acknowledged inner conflict",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From opaque certainty to partial self-recognition",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From guarded benefactor to coercive spiritual claimant",
+          "set_b_axis": "From charitable appraisal to coercive mission-binding",
+          "overlap_description": "Both describe the same Jane arc: practical aid and guarded respect give way to increasingly coercive attempts to bind her to his mission and authority."
+        },
+        {
+          "set_a_axis": "From awakened attraction to disciplined refusal",
+          "set_b_axis": "From suppressed attraction to deliberate renunciation",
+          "overlap_description": "Both track St. John’s response to Rosamond as a test of desire versus vocation, ending in conscious renunciation rather than romantic fulfillment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From familial alignment to stable kinship",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From charitable appraisal to coercive mission-binding",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From austere self-mastery to mission-bound relational control",
+      "pole_start": "St. John begins as a highly disciplined, self-contained man whose communion is limited to practical care, kinship duty, and restrained benevolence.",
+      "pole_end": "He ends still agency-dominant, but with that agency hardened into coercive, mission-driven control over others, especially in the name of divine purpose.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Restrained helper and practical authority",
+          "chapter_range": [
+            28,
+            30
+          ],
+          "position_description": "He enters the narrative as calm, ordered, and duty-driven, offering shelter and work to Jane while keeping emotional distance and maintaining command.",
+          "key_moments": [
+            "He shelters Jane and arranges her care",
+            "He helps her find work and offers the schoolmistress post",
+            "He interrogates her background with controlled authority"
+          ]
+        },
+        {
+          "phase": "Self-command under strain",
+          "chapter_range": [
+            30,
+            32
+          ],
+          "position_description": "His self-mastery is shown to be costly: desire, restlessness, and emotional deprivation surface, but he responds by tightening discipline rather than opening toward communion.",
+          "key_moments": [
+            "Chapter 30 reveals inward restlessness",
+            "Rosamond Oliver visibly unsettles him",
+            "He names himself as cold, hard, and ambitious"
+          ]
+        },
+        {
+          "phase": "Moralized control of Jane",
+          "chapter_range": [
+            33,
+            35
+          ],
+          "position_description": "His authority becomes explicitly interpersonal. He reads Jane as a providentially suited instrument, manages her circumstances, and presses marriage as a religious duty.",
+          "key_moments": [
+            "He reveals Jane's inheritance and frames her as family",
+            "He intensifies her lessons and manages her grief",
+            "He proposes marriage as a missionary necessity",
+            "He treats refusal as moral error"
+          ]
+        },
+        {
+          "phase": "Detached vocation, unchanged severity",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "After Jane resists, he does not soften; he withdraws into mission and eschatological certainty, preserving the same hard-edged self-command in a more distant form.",
+          "key_moments": [
+            "He departs on mission",
+            "He remains severe and emotionally reserved",
+            "His final letter presents death as fulfillment"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, St. John is consistently agency-dominant. The merged reading emphasizes that his self-mastery does not mature into healthier reciprocity; it intensifies into mission-bound control, with communion remaining secondary and instrumental."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Duty-Desire",
+      "axis_name": "From disciplined duty to acknowledged but subordinated desire",
+      "pole_start": "He begins organized around duty, religion, and self-denial, with desire largely muted or held in reserve.",
+      "pole_end": "He ends still committed to duty, but with desire and ambition clearly recognized as persistent forces that are never genuinely integrated.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Stable discipline",
+          "chapter_range": [
+            28,
+            29
+          ],
+          "position_description": "Duty appears seamless: he acts as a practical clergyman whose charity is orderly, controlled, and morally framed.",
+          "key_moments": [
+            "He tends Jane's distress through controlled charity",
+            "He frames help as responsibility"
+          ]
+        },
+        {
+          "phase": "Desire becomes visible",
+          "chapter_range": [
+            30,
+            32
+          ],
+          "position_description": "Rosamond Oliver exposes the emotional cost of his self-denial. He experiences attraction, restlessness, and bodily susceptibility, but immediately reasserts vocation.",
+          "key_moments": [
+            "Chapter 30 reveals spiritual unease",
+            "Rosamond stirs visible attraction",
+            "He explicitly calls himself cold and ambitious"
+          ]
+        },
+        {
+          "phase": "Renunciation as self-justification",
+          "chapter_range": [
+            32,
+            35
+          ],
+          "position_description": "He converts desire into proof of discipline, treating renunciation as moral victory and using duty-language to authorize his pressure on Jane.",
+          "key_moments": [
+            "He frames attraction as something to conquer",
+            "He calls Rosamond's engagement a victory",
+            "He proposes marriage as divine duty"
+          ]
+        },
+        {
+          "phase": "Outward steadiness, inward remainder",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "He returns to calm seriousness, but the merged evidence suggests not healing or transformation, only continued suppression and redirection of desire into vocation.",
+          "key_moments": [
+            "He continues missionary work",
+            "He is remembered as severe and utilitarian",
+            "He accepts Jane's marriage without visible upheaval"
+          ]
+        }
+      ],
+      "evidence_summary": "The arc is not a conversion from desire to peace, but a sustained tension in which desire becomes more conscious while duty remains dominant. Renunciation is real, yet it functions more as self-justification than resolution."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Self-Knowledge",
+      "axis_name": "From confident certainty to partial self-recognition",
+      "pole_start": "He begins with opaque certainty: a man who assumes his judgments are morally and spiritually correct.",
+      "pole_end": "He ends with some explicit recognition of his hardness, ambition, and severity, but without deep ethical revision.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Unquestioned authority",
+          "chapter_range": [
+            28,
+            29
+          ],
+          "position_description": "He acts with little self-doubt, overruling others and interrogating Jane as though his moral reading of events were simply authoritative.",
+          "key_moments": [
+            "He overrules Hannah",
+            "He questions Jane with confidence"
+          ]
+        },
+        {
+          "phase": "Self-description and strain",
+          "chapter_range": [
+            30,
+            32
+          ],
+          "position_description": "He begins to name his own restlessness and hardness, especially in relation to Rosamond and the demands of vocation.",
+          "key_moments": [
+            "Chapter 30 exposes inward strain",
+            "He calls himself a cold, hard, ambitious man",
+            "He acknowledges Christianity as redirection rather than erasure"
+          ]
+        },
+        {
+          "phase": "Partial insight, no revision",
+          "chapter_range": [
+            33,
+            38
+          ],
+          "position_description": "He remains aware of his severity but does not see it as morally problematic. His self-knowledge stays bounded by the same principles that justify his control.",
+          "key_moments": [
+            "He continues to pressure Jane as if duty authorizes him",
+            "He shows no recognition of the dehumanizing quality of his courtship",
+            "He remains calm and serious after Jane's marriage"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged evidence supports a limited increase in self-recognition, but not a meaningful ethical transformation. St. John can name his severity; he cannot revise it."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Kinship-Authority",
+      "axis_name": "From bounded helper to family-centered authority",
+      "pole_start": "He begins as a restrained helper whose authority is limited by circumstance and whose kinship ties are not yet fully disclosed.",
+      "pole_end": "He ends with family recognition stabilized, but still under the sign of moral authority rather than mutual intimacy.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Practical aid within distance",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "He offers shelter, work, and guidance to Jane while maintaining emotional reserve and a formal, duty-based manner.",
+          "key_moments": [
+            "He shelters Jane",
+            "He helps her find work",
+            "He offers the schoolmistress position"
+          ]
+        },
+        {
+          "phase": "Kinship disclosed and absorbed",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "The revelation of Jane's family connection expands his relational field, but he absorbs kinship into the same framework of order, duty, and moral supervision.",
+          "key_moments": [
+            "Jane is revealed as a cousin",
+            "The inheritance is divided among the cousins",
+            "He continues to frame relations through duty"
+          ]
+        },
+        {
+          "phase": "Stable family field, no intimacy shift",
+          "chapter_range": [
+            35,
+            38
+          ],
+          "position_description": "The family network remains intact and non-conflictual in the background, but it does not soften his governing temperament or create genuine reciprocity.",
+          "key_moments": [
+            "He departs on mission",
+            "Diana remains a stable kinship presence",
+            "His final letter preserves distance"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is supported mainly by the event-graph reading. It captures the way kinship is disclosed and stabilized without changing St. John’s controlling mode of relation."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "St. John Rivers",
+      "target_character": "Jane Eyre",
+      "dimension_label": "Trust-Control",
+      "axis_name": "From charitable appraisal to coercive mission-binding",
+      "pole_start": "He begins by treating Jane as a vulnerable stranger worthy of aid, respect, and practical support, though still at a distance.",
+      "pole_end": "He ends by treating her as a providentially suited instrument for his mission, pressing her toward submission rather than mutual love.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial aid and assessment",
+          "chapter_range": [
+            28,
+            29
+          ],
+          "position_description": "He admits Jane, questions her background, and helps her find work. The relation is cautious but genuinely protective.",
+          "key_moments": [
+            "He intervenes at the door and shelters Jane",
+            "He questions her history and capabilities",
+            "He plans practical employment for her"
+          ]
+        },
+        {
+          "phase": "Familial recognition and supervision",
+          "chapter_range": [
+            30,
+            33
+          ],
+          "position_description": "As kinship is revealed, he grows more invested, but the warmth is structured by evaluation and control rather than equality.",
+          "key_moments": [
+            "He sees Jane as capable and restless",
+            "He reveals her inheritance",
+            "He manages the disclosure strategically"
+          ]
+        },
+        {
+          "phase": "Coercive courtship",
+          "chapter_range": [
+            34,
+            35
+          ],
+          "position_description": "The relationship hardens into overt pressure: he proposes marriage for missionary service and interprets refusal as spiritual error.",
+          "key_moments": [
+            "He proposes as a missionary husband",
+            "He insists only marriage will do",
+            "He reacts to refusal with coldness and continued pressure"
+          ]
+        },
+        {
+          "phase": "Distance without reconciliation",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "After Jane breaks away, the coercive relationship ends, but not in mutual understanding. He remains serious and distant, and Jane’s later reverence does not restore intimacy.",
+          "key_moments": [
+            "He departs on mission",
+            "Jane receives his final letter with spiritual joy",
+            "The bond remains morally charged but unresolved"
+          ]
+        }
+      ],
+      "evidence_summary": "This is the central relational arc in both sets. St. John moves from protective, evaluative care to coercive spiritual claim-making, and the relationship never becomes mutual in any sustained sense."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "St. John Rivers",
+      "target_character": "Rosamond Oliver",
+      "dimension_label": "Desire-Renunciation",
+      "axis_name": "From awakened attraction to disciplined renunciation",
+      "pole_start": "Rosamond awakens genuine attraction and emotional vulnerability in him, making his repressed desire visible.",
+      "pole_end": "He decisively renounces her as a possible partner and treats the loss as proof of spiritual discipline.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Attraction and disturbance",
+          "chapter_range": [
+            31,
+            32
+          ],
+          "position_description": "Her presence visibly unsettles him; his composure cracks and his emotional hunger becomes apparent.",
+          "key_moments": [
+            "Jane observes him blanched and shaken",
+            "Rosamond's beauty and warmth visibly affect him"
+          ]
+        },
+        {
+          "phase": "Conscious struggle",
+          "chapter_range": [
+            32,
+            34
+          ],
+          "position_description": "He names the force of desire and then reasserts ascetic discipline, converting attraction into a test of vocation.",
+          "key_moments": [
+            "He calls himself cold, hard, and ambitious",
+            "He distinguishes bodily passion from soul commitment",
+            "He frames renunciation as Christian redirection"
+          ]
+        },
+        {
+          "phase": "Displacement into duty",
+          "chapter_range": [
+            33,
+            35
+          ],
+          "position_description": "Rosamond recedes from immediate focus as his attention shifts to Jane and the demands of mission, showing that desire is not resolved so much as redirected.",
+          "key_moments": [
+            "Inheritance disclosure takes center stage",
+            "Marriage pressure on Jane dominates",
+            "Rosamond is no longer central"
+          ]
+        },
+        {
+          "phase": "Aftermath and continued detachment",
+          "chapter_range": [
+            36,
+            38
+          ],
+          "position_description": "He remains serious and detached, with no sign of renewed romantic pursuit. The renunciation is complete, but not emotionally healed.",
+          "key_moments": [
+            "He continues missionary plans",
+            "He is later described as calm and serious",
+            "No further Rosamond-centered conflict appears"
+          ]
+        }
+      ],
+      "evidence_summary": "Rosamond is the clearest test of St. John’s repressed desire. Both analyses agree that he does not move toward intimacy; he converts attraction into proof of self-denial and then redirects the energy into vocation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "St. John Rivers",
+      "target_character": "Diana Rivers",
+      "dimension_label": "Kinship Solidarity",
+      "axis_name": "From stable family alignment to enduring kinship field",
+      "pole_start": "He begins within a close family structure, with Diana as a trusted moral ally and part of his domestic order.",
+      "pole_end": "He ends with the family bond still stable and widened through Jane’s incorporation, without major conflict or transformation.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Shared domestic and moral alignment",
+          "chapter_range": [
+            28,
+            33
+          ],
+          "position_description": "Diana supports his decisions and his care for Jane, reinforcing trust and intimacy within the household.",
+          "key_moments": [
+            "Diana's compassion aligns with his hospitality",
+            "Diana is revealed as Jane's cousin"
+          ]
+        },
+        {
+          "phase": "Family solidarity through Jane",
+          "chapter_range": [
+            33,
+            38
+          ],
+          "position_description": "The kinship network is confirmed and widened; Diana remains part of a stable moral family rather than a site of tension.",
+          "key_moments": [
+            "The inheritance is divided among the cousins",
+            "Jane's later reverence implies enduring family connection"
+          ]
+        }
+      ],
+      "evidence_summary": "Diana is not a major site of conflict for St. John, but she represents a stable kinship field that contrasts with his coercive bond to Jane and his renounced desire for Rosamond."
+    }
+  ]
+}

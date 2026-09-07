@@ -1,0 +1,2580 @@
+{
+  "Anne Elliot": {
+    "character": "Anne Elliot",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-effacing dependence to emotionally integrated agency",
+            "set_b_axis": "From self-effacing resignation to relationally empowered agency",
+            "overlap_description": "Both describe Anne’s movement from quiet self-erasure and accommodation toward a more self-possessed agency that remains relational rather than domineering."
+          },
+          {
+            "set_a_axis": "From diminished self-concept to restored personal value",
+            "set_b_axis": "From muted self-doubt to clarified self-trust",
+            "overlap_description": "Both track Anne’s internal recovery of self-regard: she begins socially minimized and ends with stronger confidence in her own worth and perceptions."
+          },
+          {
+            "set_a_axis": "From over-obedient prudence to discriminating moral confidence",
+            "set_b_axis": "From over-cautious prudence to chastened romantic conviction",
+            "overlap_description": "Both focus on Anne revising the meaning of prudence, moving away from submissive deference toward mature, independent judgment that recognizes the value of constancy and feeling."
+          },
+          {
+            "set_a_axis": "From resigned loss to hopeful emotional fulfillment",
+            "set_b_axis": "From settled melancholy to sustained hopeful happiness",
+            "overlap_description": "Both capture Anne’s emotional movement from long sadness and resignation toward fulfilled, secure happiness at the novel’s end."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From resigned loss to hopeful emotional fulfillment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From muted self-doubt to clarified self-trust",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From wounded estrangement to reciprocal trust and love",
+            "set_b_axis": "From wounded separation to reciprocal reunion",
+            "overlap_description": "Both describe the central Anne-Wentworth arc: a painful separation that becomes restored mutual love, trust, and emotional equality."
+          },
+          {
+            "set_a_axis": "From dependent confidence to respectful independence",
+            "set_b_axis": "From deferential dependence to respectful independence",
+            "overlap_description": "Both show Anne’s relationship with Lady Russell shifting from near-dependence and authority to affectionate but autonomous respect."
+          },
+          {
+            "set_a_axis": "From cautious admiration to settled distrust",
+            "set_b_axis": "From cautious social admiration to firm moral repudiation",
+            "overlap_description": "Both track Anne’s view of Mr Elliot from polite openness and attraction to clear moral rejection after his duplicity is exposed."
+          },
+          {
+            "set_a_axis": "From renewed sympathy to trusted moral alliance",
+            "set_b_axis": "From sympathetic acquaintance to trusted moral confidante",
+            "overlap_description": "Both describe Mrs Smith becoming a trusted, morally clarifying friend whose suffering and testimony matter deeply to Anne."
+          },
+          {
+            "set_a_axis": "From brief intellectual contact to respectful but secondary attachment",
+            "set_b_axis": "From pity-interest to mild romantic possibility",
+            "overlap_description": "Both treat Benwick as a minor but meaningful relational axis: a brief sympathetic/intellectual connection that never displaces Wentworth."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From self-effacing dependence to relationally empowered agency",
+        "pole_start": "Anne begins socially diminished, deferential, and accustomed to letting others’ wishes override her own. Her agency is real but muted, expressed through quiet usefulness, restraint, and endurance rather than self-assertion.",
+        "pole_end": "Anne ends with a stronger, self-possessed agency that remains warmly relational: she can speak her feelings, trust her judgment, and act decisively without losing tenderness, loyalty, or attentiveness to others.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Marginalized endurance",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Anne is overlooked in her family and has little formal power. She survives by accommodation, patience, and usefulness, maintaining moral steadiness while suppressing her own preferences.",
+            "key_moments": [
+              "Family neglect and being treated as secondary",
+              "Her advice is overridden in family decisions",
+              "She manages Uppercross tensions through quiet mediation"
+            ]
+          },
+          {
+            "phase": "Useful but constrained",
+            "chapter_range": [
+              6,
+              12
+            ],
+            "position_description": "Anne’s agency becomes more visible in practical crises and emotional interpretation, but it is still mostly exercised in service of others. She is competent and steady, yet often valued chiefly for what she can do.",
+            "key_moments": [
+              "She responds effectively at Lyme during the accident",
+              "She offers moral guidance to Benwick",
+              "Wentworth increasingly relies on her judgment"
+            ]
+          },
+          {
+            "phase": "Self-trust and voiced feeling",
+            "chapter_range": [
+              13,
+              21
+            ],
+            "position_description": "Anne increasingly trusts her own perceptions and begins to act from inward conviction rather than mere duty. Her emotional life becomes less hidden as she recognizes her love and participates in the decisive exchange with Wentworth.",
+            "key_moments": [
+              "She reads social motives more actively, especially around Mr Elliot",
+              "She grows more open in her preferences and feelings",
+              "Her conversation with Harville and Wentworth’s letter bring direct self-expression"
+            ]
+          },
+          {
+            "phase": "Integrated agency in love and judgment",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "By the end, Anne’s agency is no longer opposed to communion. She can love, choose, and judge without losing emotional warmth, settling into calm self-command and mutual attachment.",
+            "key_moments": [
+              "She returns to the party composed and secure",
+              "She pities Lady Russell without resentment",
+              "She enters a future shaped by mutual choice"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne’s arc moves from self-effacement and social invisibility toward a more integrated selfhood. She remains relational throughout, but by the end she can act and speak from her own convictions without severing connection to others."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "self-worth",
+        "axis_name": "From diminished self-concept to restored personal value",
+        "pole_start": "Anne begins with a deeply diminished sense of self-worth: she is treated as faded, secondary, and of little consequence, and she internalizes much of that neglect into a quiet assumption that she is less visible, less admired, and less entitled to desire.",
+        "pole_end": "Anne ends with a restored sense of value: she knows she is loved, admired, and morally worthy. Her self-esteem remains tender, but it is no longer dependent on family approval, rank, or external validation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Internalized insignificance",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Repeated family neglect and comparison with Elizabeth reinforce Anne’s sense that she is overlooked and no longer socially prized.",
+            "key_moments": [
+              "She is repeatedly treated as 'only Anne'",
+              "Elizabeth’s beauty and centrality contrast with her own invisibility",
+              "The broken engagement deepens regret and self-reproach"
+            ]
+          },
+          {
+            "phase": "Worth through usefulness",
+            "chapter_range": [
+              6,
+              15
+            ],
+            "position_description": "Anne gains moments of competence and usefulness, but these often confirm that she is valued instrumentally rather than personally. Her self-worth improves only partially because it is still tied to service and being needed.",
+            "key_moments": [
+              "She takes charge in crisis and is praised for steadiness",
+              "Wentworth values her judgment, but she fears she is only useful",
+              "Mrs Smith and Wentworth begin to validate her more fully"
+            ]
+          },
+          {
+            "phase": "Recognition as lovable and admirable",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "Anne increasingly receives evidence that she is not merely useful but genuinely valued: Wentworth loves her, Benwick admires her mind, and her own judgment proves sound. Her self-regard becomes steadier and less apologetic.",
+            "key_moments": [
+              "She realizes her feelings are alive and meaningful",
+              "Wentworth’s jealousy confirms her significance to him",
+              "The letter makes her happiness and worth explicit"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne’s self-concept moves from habitual diminishment toward secure worth. The novel repeatedly tests whether she can feel valuable without rank, beauty, or family support, and by the end she can."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "prudence-romance",
+        "axis_name": "From over-cautious prudence to chastened romantic conviction",
+        "pole_start": "Anne starts with an internalized belief that prudence, restraint, and deference to authority are safest, even when they suppress desire and damage happiness.",
+        "pole_end": "Anne ends believing that prudence without emotional truth is incomplete; she still values judgment, but now trusts constancy, feeling, and the claims of love more fully.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Prudential inheritance",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Her early self-concept is shaped by having been 'forced into prudence.' She accepts the logic of caution, even as she privately suffers from it.",
+            "key_moments": [
+              "Family and Lady Russell’s authority define her early position",
+              "She frames the broken engagement as a prudent sacrifice",
+              "Memory of Wentworth reopens the emotional cost"
+            ]
+          },
+          {
+            "phase": "Prudence under pressure",
+            "chapter_range": [
+              5,
+              12
+            ],
+            "position_description": "Repeated contact with Wentworth and the emotional consequences of his presence strain her old prudential framework. She becomes more aware that caution can conceal fear and that feeling may be more truthful than social wisdom.",
+            "key_moments": [
+              "Wentworth’s return makes the past emotionally active again",
+              "The Lyme crisis reveals the value of practical feeling over abstract firmness",
+              "She notices the irony of preaching patience while privately longing"
+            ]
+          },
+          {
+            "phase": "Romantic vindication",
+            "chapter_range": [
+              13,
+              22
+            ],
+            "position_description": "Her earlier sacrifice is morally re-evaluated. She does not reject prudence altogether, but she now sees that love and constancy were right to matter, and that her youthful attachment was not foolish in the way she once feared.",
+            "key_moments": [
+              "She grows suspicious of socially polished but insincere alternatives",
+              "Mrs Smith’s account of Mr Elliot sharpens her moral discrimination",
+              "Wentworth’s letter confirms that constancy can survive time and separation"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne revises prudence rather than abandoning it: she moves from accepting caution as the highest good to recognizing that excessive caution can impoverish life, while enduring love and mutual recognition deserve trust."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "self-trust",
+        "axis_name": "From muted self-doubt to clarified self-trust",
+        "pole_start": "Anne begins with a low sense of personal weight: she is accustomed to being overlooked, and her own judgment is present but not yet fully trusted as socially authoritative.",
+        "pole_end": "Anne ends with firmer confidence in her own perceptions, moral discrimination, and emotional truth, even when these differ from family or society.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Overlooked intelligence",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "She knows she is sensible, but her intelligence is largely private and unvalidated. She sees clearly, yet others do not treat her judgment as important.",
+            "key_moments": [
+              "Her advice is ignored in family decisions",
+              "She privately prefers honesty and practicality over vanity",
+              "She recognizes the narrowness of her social world"
+            ]
+          },
+          {
+            "phase": "Interpretive testing",
+            "chapter_range": [
+              6,
+              15
+            ],
+            "position_description": "Anne repeatedly tests her own perceptions against events: Wentworth’s behavior, the Musgroves, Benwick, Mr Elliot, and Mrs Smith all become occasions for judgment. She becomes more confident that her instincts are often right.",
+            "key_moments": [
+              "She reads Wentworth’s conduct for signs of feeling",
+              "She judges the Lyme and Bath social worlds with increasing irony",
+              "Mrs Smith’s revelations validate her suspicions about Mr Elliot"
+            ]
+          },
+          {
+            "phase": "Confirmed self-trust",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "Her interpretations are borne out by events, especially regarding Wentworth and Mr Elliot. She ends able to trust her own moral and emotional reading of the world without needing family approval.",
+            "key_moments": [
+              "She correctly infers the significance of Wentworth’s altered manner",
+              "She recognizes Mr Elliot’s duplicity",
+              "Wentworth’s letter confirms the truth of her hopes"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne’s arc includes a substantial increase in self-trust: she begins as someone whose intelligence is socially minimized and ends as someone whose judgments are repeatedly validated and internally secure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "melancholy-hope",
+        "axis_name": "From settled melancholy to secure hopeful happiness",
+        "pole_start": "Anne begins in habitual sadness, with emotional life organized around loss, restraint, and the memory of what was given up.",
+        "pole_end": "Anne ends in secure romantic happiness, tempered by realism about the future and the fragility of joy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Habitual sadness",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Her emotional baseline is quiet melancholy: she is neglected, inward, and resigned, with hope only faintly present.",
+            "key_moments": [
+              "Opening portrait of neglect and self-effacement",
+              "Wentworth’s possible return reawakens feeling",
+              "Uppercross social life remains emotionally taxing"
+            ]
+          },
+          {
+            "phase": "Agitated longing",
+            "chapter_range": [
+              6,
+              18
+            ],
+            "position_description": "Hope becomes active but unstable. She oscillates between tenderness, jealousy, mortification, and expectation as Wentworth’s presence becomes central to her inner life.",
+            "key_moments": [
+              "First reunion wounds and excites her",
+              "Lyme and Bath intensify her emotional suspense",
+              "The concert and letter produce near-overwhelming hope"
+            ]
+          },
+          {
+            "phase": "Fulfilled but sober happiness",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "The revelation about Mr Elliot clears away false alternatives, and Wentworth’s letter secures her happiness. Her joy is reflective rather than naive, aware of risk and future uncertainty.",
+            "key_moments": [
+              "Mrs Smith’s disclosures disillusion her about Mr Elliot",
+              "Wentworth’s letter confirms mutual love",
+              "She ends with happiness tempered by realism"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne’s emotional arc moves from chronic melancholy through intense suspense to stable, earned happiness, with realism preserved throughout."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Anne Elliot",
+        "target_character": "Captain Frederick Wentworth",
+        "dimension_label": "distance-reunion",
+        "axis_name": "From wounded separation to reciprocal reunion",
+        "pole_start": "Anne begins emotionally separated from Wentworth: he is a painful memory, a lost attachment, and a source of private regret rather than present reciprocity.",
+        "pole_end": "Anne ends in confirmed mutual love and engagement, with emotional distance replaced by restored intimacy and trust.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Dormant attachment",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Wentworth is absent but emotionally central in memory. Anne’s feelings are hidden, regretful, and unresolved.",
+            "key_moments": [
+              "His possible return revives old feeling",
+              "She revises her judgment of the broken engagement"
+            ]
+          },
+          {
+            "phase": "Painful proximity",
+            "chapter_range": [
+              5,
+              12
+            ],
+            "position_description": "His return makes the relationship emotionally active but unstable. Anne reads his reserve as possible resentment, while his attention to others intensifies her pain.",
+            "key_moments": [
+              "First meetings in Uppercross",
+              "His apparent coldness and attention to Louisa",
+              "The Lyme crisis reveals his reliance on her judgment"
+            ]
+          },
+          {
+            "phase": "Hope under uncertainty",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "Anne becomes increasingly convinced that his feelings persist, though she cannot yet know their outcome. The concert and their mutual attention create intense suspense.",
+            "key_moments": [
+              "Bath encounters heighten emotional tension",
+              "His speech and withdrawal at the concert",
+              "Her acute sensitivity to his looks and movements"
+            ]
+          },
+          {
+            "phase": "Reunion",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Wentworth’s letter and the social acceptance of the engagement transform the relationship into open reciprocity. Anne’s hope becomes secure happiness.",
+            "key_moments": [
+              "The letter declaring enduring love",
+              "Her immediate emotional reversal into joy",
+              "The engagement is socially settled"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Anne’s central relational arc: from loss and silence to mutual recognition, with repeated phases of hope, misreading, and confirmation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Anne Elliot",
+        "target_character": "Lady Russell",
+        "dimension_label": "obedience-autonomy",
+        "axis_name": "From deferential dependence to respectful independence",
+        "pole_start": "Anne begins deeply trusting Lady Russell as a surrogate maternal authority and moral guide, with her own judgment subordinated to Lady Russell’s prudence.",
+        "pole_end": "Anne ends still affectionate and respectful, but no longer governed by Lady Russell’s judgment; she can disagree while preserving love.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Trusted authority",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Lady Russell is Anne’s closest confidante and moral anchor. Anne values her highly and initially accepts her prudential influence.",
+            "key_moments": [
+              "Lady Russell helps shape the family’s decisions",
+              "Anne’s broken engagement is tied to Lady Russell’s advice"
+            ]
+          },
+          {
+            "phase": "Quiet divergence",
+            "chapter_range": [
+              5,
+              15
+            ],
+            "position_description": "Anne remains loyal, but her own experience increasingly diverges from Lady Russell’s assumptions. She begins to see that Lady Russell can be mistaken, especially about feeling and character.",
+            "key_moments": [
+              "Anne’s private hope about Wentworth grows",
+              "She notices differences in judgment about Benwick and Mr Elliot",
+              "She becomes wary of Lady Russell’s social assumptions"
+            ]
+          },
+          {
+            "phase": "Corrective independence",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "Anne no longer lets Lady Russell’s views determine her own. She still loves her, but she can correct her, protect her from deception, and retain her own moral center.",
+            "key_moments": [
+              "Mrs Smith’s revelations force a reassessment of Mr Elliot",
+              "Anne intends to warn Lady Russell",
+              "She ends with self-possession rather than submission"
+            ]
+          }
+        ],
+        "evidence_summary": "Anne’s relationship with Lady Russell matures rather than collapses: she moves from filial deference to affectionate independence, keeping trust but reducing authority."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Anne Elliot",
+        "target_character": "Mr Elliot",
+        "dimension_label": "admiration-distrust",
+        "axis_name": "From cautious social admiration to firm moral repudiation",
+        "pole_start": "Anne initially finds Mr Elliot polished, intelligent, and socially pleasing, though never fully trusted.",
+        "pole_end": "Anne ends convinced that he is insincere, self-serving, and morally dangerous.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Polite interest",
+            "chapter_range": [
+              13,
+              15
+            ],
+            "position_description": "Anne is impressed by his manners and intelligence and briefly entertains the social fantasy that he might be a suitable match or ally.",
+            "key_moments": [
+              "First evening at Camden Place goes well",
+              "He appears agreeable and attentive",
+              "The Kellynch/Lady Elliot fantasy briefly tempts her"
+            ]
+          },
+          {
+            "phase": "Suspicion grows",
+            "chapter_range": [
+              16,
+              18
+            ],
+            "position_description": "As Wentworth re-enters her life, Mr Elliot becomes less central and more suspect. His attentions feel strategic and obstructive rather than genuinely affectionate.",
+            "key_moments": [
+              "Anne notices his possible motives toward Elizabeth",
+              "His presence complicates her hopes with Wentworth"
+            ]
+          },
+          {
+            "phase": "Exposure and rejection",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Mrs Smith’s revelations confirm Anne’s worst suspicions. She now sees him as manipulative, selfish, and unworthy of trust or esteem.",
+            "key_moments": [
+              "Mrs Smith reveals his conduct toward her and others",
+              "Anne resolves to warn Lady Russell",
+              "He is fully displaced by Wentworth as emotional center"
+            ]
+          }
+        ],
+        "evidence_summary": "Mr Elliot’s arc in Anne’s mind is a clear reversal: from socially attractive possibility to morally repudiated threat."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Anne Elliot",
+        "target_character": "Mrs Smith",
+        "dimension_label": "sympathy-intimacy",
+        "axis_name": "From sympathetic acquaintance to trusted moral confidante",
+        "pole_start": "Anne begins with polite concern and curiosity toward Mrs Smith, seeing her as unfortunate but not yet central.",
+        "pole_end": "Anne ends in warm gratitude and moral intimacy, valuing Mrs Smith as a source of truth and resilience.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful sympathy",
+            "chapter_range": [
+              15,
+              16
+            ],
+            "position_description": "Anne is moved by Mrs Smith’s cheerfulness under suffering and begins to admire her deeply.",
+            "key_moments": [
+              "First substantial visit and conversation",
+              "Anne recognizes Mrs Smith’s fortitude and wit"
+            ]
+          },
+          {
+            "phase": "Trusted disclosure",
+            "chapter_range": [
+              19,
+              20
+            ],
+            "position_description": "Mrs Smith’s revelations about Mr Elliot transform the relationship into one of moral trust. Anne relies on her account as decisive evidence.",
+            "key_moments": [
+              "The letter and account of Mr Elliot’s conduct",
+              "Anne accepts the disclosure as morally clarifying"
+            ]
+          },
+          {
+            "phase": "Grateful alliance",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Anne’s gratitude deepens as Mrs Smith’s truth-telling helps clear the path to her own happiness. The relationship becomes one of affectionate moral alliance.",
+            "key_moments": [
+              "Anne’s judgment of Mr Elliot is confirmed",
+              "She values Mrs Smith’s insight and courage"
+            ]
+          }
+        ],
+        "evidence_summary": "Mrs Smith becomes one of Anne’s most important non-romantic relationships: from a sympathetic acquaintance she becomes a trusted witness and moral ally."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Anne Elliot",
+        "target_character": "Captain Benwick",
+        "dimension_label": "sympathy-interest",
+        "axis_name": "From compassionate instruction to mild romantic possibility",
+        "pole_start": "Anne first relates to Benwick as a grieving young man deserving sympathy and gentle moral encouragement.",
+        "pole_end": "Anne ends with only mild, unresolved interest; the relationship never becomes central, but it does move beyond mere pity.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Sympathetic instruction",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Anne speaks to him with compassion and offers literary and moral guidance, feeling useful and benevolent.",
+            "key_moments": [
+              "Conversation at Lyme",
+              "Her advice on grief and reading"
+            ]
+          },
+          {
+            "phase": "Curious possibility",
+            "chapter_range": [
+              12,
+              16
+            ],
+            "position_description": "She becomes aware that others think he may admire her, and she is mildly flattered and open to the idea without pursuing it.",
+            "key_moments": [
+              "Mary’s mockery and social speculation",
+              "Anne’s receptive but restrained response"
+            ]
+          },
+          {
+            "phase": "Secondary interest",
+            "chapter_range": [
+              17,
+              22
+            ],
+            "position_description": "Benwick remains a pleasant, morally legible figure, but he is displaced by Wentworth and never becomes a serious emotional alternative.",
+            "key_moments": [
+              "Louisa-Benwick engagement is reported",
+              "Anne’s attention returns decisively to Wentworth"
+            ]
+          }
+        ],
+        "evidence_summary": "Benwick matters as a brief relational possibility and as a test of Anne’s sympathy, but his arc remains secondary to the Wentworth plot."
+      }
+    ]
+  },
+  "Captain Frederick Wentworth": {
+    "character": "Captain Frederick Wentworth",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-protective independence to chosen relational openness",
+            "set_b_axis": "From proud self-assertion to mutual attachment",
+            "overlap_description": "Both describe Wentworth moving from defensive autonomy and emotional guardedness toward a healthier, reciprocal openness with Anne."
+          },
+          {
+            "set_a_axis": "From vindicated pride to chastened self-knowledge",
+            "set_b_axis": "From wounded pride to self-correcting humility",
+            "overlap_description": "Both track the same moral correction: Wentworth comes to see his pride, delay, and misreading as part of the separation rather than treating himself as only wronged."
+          },
+          {
+            "set_a_axis": "From absolutist firmness to tempered judgment",
+            "set_b_axis": "From fixed judgments to revised moral understanding",
+            "overlap_description": "Both focus on his revision of the 'firmness' ideal after the Lyme crisis, shifting from rigid evaluative certainty to more nuanced judgment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From self-protective independence to chosen relational openness",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From vindicated pride to chastened self-knowledge",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From absolutist firmness to tempered judgment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From proud self-assertion to mutual attachment",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From wounded pride to self-correcting humility",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From fixed judgments to revised moral understanding",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From guarded composure to candid emotional declaration",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From guarded estrangement to mutual emotional recognition",
+            "set_b_axis": "From wounded distance to reciprocal intimacy",
+            "overlap_description": "Both describe the central Anne-Wentworth arc from hurt distance and restraint to mutual recognition, trust, and renewed commitment."
+          },
+          {
+            "set_a_axis": "From flirtatious courtship to burdened responsibility",
+            "set_b_axis": "From courtship interest to respectful release",
+            "overlap_description": "Both capture the Louisa relationship as a courtship that collapses after the Cobb accident into guilt, distance, and non-romantic responsibility."
+          },
+          {
+            "set_a_axis": "From suspected rival to morally dismissed pretender",
+            "set_b_axis": "From wary rivalry to contemptuous irrelevance",
+            "overlap_description": "Both treat Mr Elliot as a late rival whose apparent threat is undone by exposure of his moral falseness."
+          },
+          {
+            "set_a_axis": "From former obstacle to forgiven family ally",
+            "set_b_axis": "From injured distrust to softened forgiveness",
+            "overlap_description": "Both describe Wentworth's softened stance toward Lady Russell, moving from resentment over the broken engagement toward reconciliation and forgiveness."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From former obstacle to forgiven family ally",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From wounded distance to reciprocal intimacy",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From courtship interest to respectful release",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From wary rivalry to contemptuous irrelevance",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From injured distrust to softened forgiveness",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From guarded composure to candid emotional declaration",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From attraction and testing to respectful release",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From friendly fellowship to confessional trust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From proud self-protection to reciprocal attachment",
+        "pole_start": "Strongly agency-oriented: independent, self-possessed, proud, and emotionally guarded after Anne's rejection, using distance and control to preserve dignity.",
+        "pole_end": "More communion-oriented: still self-respecting and independent, but willing to trust, reconcile, and enter mutual attachment without defensive isolation.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive independence",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "Wentworth begins by managing hurt through composure, avoidance, and social performance, keeping Anne at a distance while maintaining a confident exterior.",
+            "key_moments": [
+              "Clarification of the broken engagement and his sense of injury",
+              "Avoidance of meaningful contact at the Cottage",
+              "His remark that Anne is 'so altered he should not have known her again'",
+              "Outward confidence and flirtatious sociability in the Musgrove circle"
+            ]
+          },
+          {
+            "phase": "Agency strained by attachment",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "The Lyme crisis and later Bath encounters weaken his self-mastery: guilt, jealousy, embarrassment, and reliance on Anne's judgment reveal that emotional need is pressing through his independence.",
+            "key_moments": [
+              "Silently helping Anne into the gig",
+              "Louisa's fall on the Cobb and his panic",
+              "Turning to Anne for direction in the crisis",
+              "Visible unease and jealousy on seeing Anne with Mr Elliot",
+              "The Octagon Room conversation reopening intimacy"
+            ]
+          },
+          {
+            "phase": "Chosen mutuality",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "He moves into a stable form of communion: he receives Anne's reciprocal love, confesses himself openly, and accepts shared life without losing dignity or agency.",
+            "key_moments": [
+              "The letter scene and emotional reconciliation",
+              "Explicit confession of enduring love",
+              "Publicly recognized engagement and future partnership"
+            ]
+          }
+        ],
+        "evidence_summary": "Wentworth's arc is a movement from defensive self-protection toward a mature reciprocity. He does not abandon independence; rather, he learns that independence can coexist with trust, tenderness, and mutual commitment."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Pride-Humility",
+        "axis_name": "From wounded pride to self-correcting humility",
+        "pole_start": "Proud, offended, and convinced that Anne's refusal and Lady Russell's influence justified his resentment; he initially protects himself by treating himself as the wronged party.",
+        "pole_end": "Humility tempered by self-knowledge: he recognizes his own pride, delay, and misreading as part of the separation and can accept shared fault without self-abasement.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Offended self-protection",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "He preserves self-respect through emotional distance and a proud interpretation of the past, reading Anne through the lens of injury and perceived disloyalty.",
+            "key_moments": [
+              "Retrospective account of his naval rise and wounded pride",
+              "Avoidant behavior toward Anne",
+              "Assumption that Anne lacked firmness and was persuaded by others"
+            ]
+          },
+          {
+            "phase": "Pride destabilized",
+            "chapter_range": [
+              10,
+              12
+            ],
+            "position_description": "Louisa's accident punctures his certainty and exposes the limits of his earlier confidence in firmness, decisiveness, and his own judgment.",
+            "key_moments": [
+              "Louisa's fall on the Cobb",
+              "Terror, guilt, and practical urgency",
+              "Withdrawal and recovery through restraint"
+            ]
+          },
+          {
+            "phase": "Self-reproach and correction",
+            "chapter_range": [
+              18,
+              21
+            ],
+            "position_description": "In Bath, renewed intimacy and the letter scene bring explicit self-correction: he sees that his pride and delay helped prolong the separation and that Anne's conduct was shaped by duty.",
+            "key_moments": [
+              "Emotional exposure in Bath",
+              "The Octagon Room exchange",
+              "Explicit recognition that he misread Anne and stayed silent too long"
+            ]
+          },
+          {
+            "phase": "Humility stabilized",
+            "chapter_range": [
+              22,
+              22
+            ],
+            "position_description": "His humility settles into a mature moral stance: he can forgive, act generously, and live with the past without needing to defend his pride.",
+            "key_moments": [
+              "Secure engagement",
+              "Practical generosity and loyalty"
+            ]
+          }
+        ],
+        "evidence_summary": "Wentworth's pride is not simply defeated; it is corrected into humility. The novel culminates in his ability to acknowledge shared fault while retaining self-respect."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Judgment-Reassessment",
+        "axis_name": "From fixed firmness to revised moral understanding",
+        "pole_start": "He begins with simplified judgments about character: firmness is good, persuasion is weakness, and Anne's earlier choice proves her lack of resolve.",
+        "pole_end": "He ends with a more nuanced moral understanding: firmness must be joined to judgment, constancy can coexist with vulnerability, and his earlier interpretations were incomplete.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Fixed evaluative framework",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "He reads people through a rigid code of firmness, decision, and practical sense, using that code to judge Anne and to admire Louisa.",
+            "key_moments": [
+              "Desire for a wife of strong mind and sweetness",
+              "Belief that Anne was over-persuaded and therefore unfit"
+            ]
+          },
+          {
+            "phase": "Framework challenged",
+            "chapter_range": [
+              10,
+              12
+            ],
+            "position_description": "Louisa's accident exposes the danger of valuing decisiveness without prudence, forcing him to question whether his standards are sufficient.",
+            "key_moments": [
+              "Louisa's fall destabilizes his admiration for firmness",
+              "His caution and restraint show a more complex practical ethic"
+            ]
+          },
+          {
+            "phase": "Revised understanding",
+            "chapter_range": [
+              18,
+              21
+            ],
+            "position_description": "He comes to see that Anne's apparent weakness was shaped by duty, and that his own certainty about her was mistaken; his moral framework becomes more balanced and humane.",
+            "key_moments": [
+              "Renewed interpretive openness toward Anne",
+              "Explicit recognition that he misread Anne and delayed too long"
+            ]
+          }
+        ],
+        "evidence_summary": "Wentworth does not abandon his values, but he revises them. He moves from a narrow code of firmness to a more mature ethic that includes judgment, patience, and emotional intelligence."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Restraint-Expressiveness",
+        "axis_name": "From guarded composure to candid emotional declaration",
+        "pole_start": "He begins highly restrained, using composure, politeness, and silence to conceal injury and desire.",
+        "pole_end": "He ends able to express love directly and act on it without hiding behind defensive reserve.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Polished concealment",
+            "chapter_range": [
+              6,
+              9
+            ],
+            "position_description": "He keeps his feelings hidden behind social ease, avoiding direct engagement with Anne while remaining outwardly charming.",
+            "key_moments": [
+              "Coldly polite distance from Anne",
+              "Social confidence as performance",
+              "Controlled sociability in Lyme"
+            ]
+          },
+          {
+            "phase": "Emotional leakage",
+            "chapter_range": [
+              10,
+              18
+            ],
+            "position_description": "His restraint weakens under pressure; fear, jealousy, embarrassment, and tenderness become visible in action and speech.",
+            "key_moments": [
+              "Terror and guilt after Louisa's accident",
+              "Flushed embarrassment in Bath",
+              "Emotionally charged conversation and withdrawal"
+            ]
+          },
+          {
+            "phase": "Direct expression",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "He moves beyond concealment into explicit declaration and open commitment, no longer needing emotional disguise.",
+            "key_moments": [
+              "Letter to Anne and mutual understanding",
+              "Public, settled engagement"
+            ]
+          }
+        ],
+        "evidence_summary": "Wentworth's emotional life becomes progressively less containable. The culmination is the letter scene, where restraint gives way to directness and emotional truth."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Captain Frederick Wentworth",
+        "target_character": "Anne Elliot",
+        "dimension_label": "Distance-Intimacy",
+        "axis_name": "From wounded distance to reciprocal intimacy",
+        "pole_start": "Emotionally distant, guarded, and resentful; he keeps Anne at arm's length to protect himself from renewed vulnerability.",
+        "pole_end": "Deeply intimate, trusting, and mutually committed; Anne becomes his acknowledged emotional partner and future wife.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive estrangement",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "He is polite but avoidant, treating Anne as a painful reminder of past injury rather than as an available emotional partner.",
+            "key_moments": [
+              "First direct meeting marked by restraint and distance",
+              "He helps her into the carriage, revealing hidden tenderness beneath resentment"
+            ]
+          },
+          {
+            "phase": "Uneasy reactivation",
+            "chapter_range": [
+              10,
+              18
+            ],
+            "position_description": "His feelings for Anne become increasingly active and visible; he relies on her judgment in crisis, then grows embarrassed and jealous in Bath as intimacy becomes imaginable again.",
+            "key_moments": [
+              "Turns to Anne in the Cobb crisis",
+              "Visibly unsettled by seeing her in Bath",
+              "Hopeful, attentive conversation that signals renewed attachment",
+              "Octagon Room exchange about enduring love"
+            ]
+          },
+          {
+            "phase": "Mutual recognition",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "He receives confirmation of Anne's love, declares himself, and enters a stable reciprocal bond with her.",
+            "key_moments": [
+              "Letter and emotional reconciliation",
+              "Engagement becomes settled and socially recognized"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Wentworth's central relational arc: from protective distance after heartbreak to full intimacy grounded in mutual recognition, trust, and love."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Captain Frederick Wentworth",
+        "target_character": "Louisa Musgrove",
+        "dimension_label": "Courtship-Responsibility",
+        "axis_name": "From courtship interest to respectful release",
+        "pole_start": "He is attracted to Louisa as a spirited, decisive woman who seems to fit his ideal of firmness and liveliness.",
+        "pole_end": "He is disappointed but no longer romantically attached, treating her with respect and relinquishing her claim without bitterness.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Attraction and testing",
+            "chapter_range": [
+              7,
+              9
+            ],
+            "position_description": "He increasingly favors Louisa as the more decisive and lively of the Musgrove sisters, and she becomes the likely object of his courtship.",
+            "key_moments": [
+              "Lively social attention and flirtatious engagement",
+              "Louisa's firmness confirms his admiration",
+              "Continued favor and esteem"
+            ]
+          },
+          {
+            "phase": "Shock and guilt",
+            "chapter_range": [
+              10,
+              12
+            ],
+            "position_description": "Louisa's accident transforms attraction into anguish, self-reproach, and protective concern.",
+            "key_moments": [
+              "Terror and guilt after the fall on the Cobb",
+              "Cautious distance to avoid harming her recovery"
+            ]
+          },
+          {
+            "phase": "Respectful release",
+            "chapter_range": [
+              16,
+              16
+            ],
+            "position_description": "He accepts Louisa's engagement to Benwick without public bitterness, showing that the romantic claim has been relinquished.",
+            "key_moments": [
+              "Letter and report indicate calm acceptance of Louisa's choice"
+            ]
+          }
+        ],
+        "evidence_summary": "Louisa matters greatly to Wentworth for a stretch of the novel, but the relationship ends in respectful disengagement rather than lasting attachment. Her role is crucial because it exposes the limits of his earlier ideals and clears the way back to Anne."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Captain Frederick Wentworth",
+        "target_character": "Mr Elliot",
+        "dimension_label": "Suspicion-Dismissal",
+        "axis_name": "From wary rivalry to contemptuous irrelevance",
+        "pole_start": "He initially registers Mr Elliot as a possible rival and source of social threat in Anne's orbit.",
+        "pole_end": "He dismisses Mr Elliot as morally false and no longer a meaningful obstacle once Anne's feelings are clarified.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Emerging rivalry",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "Seeing Mr Elliot near Anne produces embarrassment, caution, and jealousy; Wentworth treats him as a real competitor.",
+            "key_moments": [
+              "Immediate notice of Mr Elliot in Bath",
+              "Jealousy and heightened sensitivity to his presence"
+            ]
+          },
+          {
+            "phase": "Rival removed",
+            "chapter_range": [
+              19,
+              21
+            ],
+            "position_description": "Anne's rejection of Mr Elliot and the exposure of his character strip him of romantic significance and confirm Wentworth's suspicions.",
+            "key_moments": [
+              "Indirect clearing of the emotional field around Anne",
+              "Contempt and suspicion sharpen as Anne's position becomes clearer",
+              "Mr Elliot ceases to matter as a rival"
+            ]
+          }
+        ],
+        "evidence_summary": "Mr Elliot functions as a late-stage rival whose importance is real but temporary. Wentworth's relation to him moves from anxious suspicion to moral dismissal."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Captain Frederick Wentworth",
+        "target_character": "Lady Russell",
+        "dimension_label": "Resentment-Forgiveness",
+        "axis_name": "From injured distrust to softened forgiveness",
+        "pole_start": "He distrusts and resents Lady Russell as the force behind Anne's refusal and his own heartbreak.",
+        "pole_end": "He can forgive her and regard her with softened judgment once he understands the fuller truth of Anne's situation and his own role in the separation.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Original grievance",
+            "chapter_range": [
+              4,
+              8
+            ],
+            "position_description": "Lady Russell is associated with the broken engagement and remains a figure of low trust and low esteem in Wentworth's implied memory.",
+            "key_moments": [
+              "Retrospective sense of being ill used by her opposition",
+              "Belief that Anne was persuaded by Lady Russell hardens his judgment"
+            ]
+          },
+          {
+            "phase": "Softening through self-knowledge",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Once he recognizes Anne's constancy and his own pride, his resentment toward Lady Russell becomes less absolute and more forgiving.",
+            "key_moments": [
+              "Self-reproach reduces the need to blame only Lady Russell",
+              "Respectful forgiveness is possible"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Russell remains a significant but secondary relational axis. The change is meaningful because Wentworth's forgiveness marks the completion of his moral maturation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Captain Frederick Wentworth",
+        "target_character": "Captain Harville",
+        "dimension_label": "Camaraderie-Trust",
+        "axis_name": "From naval fellowship to confessional trust",
+        "pole_start": "Warm, respectful naval camaraderie with a trusted fellow officer.",
+        "pole_end": "A relationship of deep trust and emotional usefulness, culminating in Harville as the confidant through whom Wentworth can finally speak to Anne.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Established fellowship",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "He values Harville's domestic warmth, loyalty, and practical goodness as part of the naval world he admires.",
+            "key_moments": [
+              "Strong friendship and admiration for Harville",
+              "Harville's steadiness in the crisis reinforces trust"
+            ]
+          },
+          {
+            "phase": "Confidential conduit",
+            "chapter_range": [
+              18,
+              21
+            ],
+            "position_description": "Harville becomes the trusted conversational partner through whom Wentworth articulates his feelings and writes the decisive letter to Anne.",
+            "key_moments": [
+              "Conversation about love and constancy",
+              "Harville as the immediate witness to the letter and confession"
+            ]
+          }
+        ],
+        "evidence_summary": "Harville is not a romantic target but a crucial relational support. The arc matters because it shows Wentworth's trust in male friendship as a bridge to emotional truth."
+      }
+    ]
+  },
+  "Sir Walter Elliot": {
+    "character": "Sir Walter Elliot",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From self-enclosed rank assertion to selective social accommodation",
+            "set_b_axis": "From self-assertive social display to guarded social dependence",
+            "overlap_description": "Both describe Sir Walter as remaining agency-dominant while becoming more socially adaptive, relying increasingly on flattering contexts and managed alliances rather than direct resistance."
+          },
+          {
+            "set_a_axis": "From pure rank worship to rank managed through utility",
+            "set_b_axis": "From self-assertive social display to guarded social dependence",
+            "overlap_description": "Both track the same core shift: he never stops valuing status, but becomes more pragmatic about using people and arrangements to preserve prestige."
+          },
+          {
+            "set_a_axis": "From humiliating resistance to polished self-preservation",
+            "set_b_axis": "From self-assertive social display to guarded social dependence",
+            "overlap_description": "Both capture his movement from overt indignation at decline toward a more polished, face-saving mode of adaptation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From humiliating resistance to polished self-preservation",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From neglectful dismissal to superficial acknowledgment",
+            "set_b_axis": "From habitual dismissal to limited social acknowledgment",
+            "overlap_description": "Both describe Anne as remaining emotionally distant from Sir Walter, with only a slight late-stage increase in formal acknowledgment."
+          },
+          {
+            "set_a_axis": "From shared vanity to stable mutual reinforcement",
+            "set_b_axis": "From shared vanity to stable mutual reinforcement",
+            "overlap_description": "Both identify Elizabeth as Sir Walter's most stable mirror and ally, with little real change beyond continued reinforcement of shared snobbery."
+          },
+          {
+            "set_a_axis": "From estranged grievance to flattering reconciliation",
+            "set_b_axis": "From flattering admiration to quiet disappointment",
+            "overlap_description": "Both track Sir Walter's relationship with Mr Elliot as driven by surface approval and social flattery, though A emphasizes reconciliation while B emphasizes later disappointment."
+          },
+          {
+            "set_a_axis": "From class prejudice to grudging social acceptance",
+            "set_b_axis": "From naval contempt to socially managed acceptance",
+            "overlap_description": "Both describe the same arc with Admiral Croft: initial snobbery softens into practical, status-preserving acceptance without genuine equality."
+          },
+          {
+            "set_a_axis": "From respected adviser to condescended-to rival of judgment",
+            "set_b_axis": "From useful flattery to embarrassed distrust",
+            "overlap_description": "Both treat Lady Russell as a figure Sir Walter cannot fully respect; the difference is whether the emphasis falls on his condescension toward her judgment or on his later embarrassment and distrust."
+          },
+          {
+            "set_a_axis": "From useful companion to favored flattering presence",
+            "set_b_axis": "From useful flattery to embarrassed distrust",
+            "overlap_description": "Both capture Mrs Clay as initially valued for convenience and flattery, with later tension when the arrangement becomes compromised."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From respected adviser to condescended-to rival of judgment",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From useful companion to favored flattering presence",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From flattering admiration to quiet disappointment",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From useful flattery to embarrassed distrust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From self-assertive status display to guarded social dependence",
+        "pole_start": "Strongly agency-coded: self-regarding, rank-conscious, and intent on preserving precedence, control, and visible superiority.",
+        "pole_end": "Still agency-dominant, but more dependent on flattering social contexts and tactically managed alliances to sustain his identity and consequence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Initial vanity and defensive dominance",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Sir Walter begins in a posture of self-display and resistance: he treats rank and appearance as central, experiences financial pressure as humiliation, and resists any compromise that might lower him.",
+            "key_moments": [
+              "Reads the Baronetage as a mirror of self-worth",
+              "Judges others by beauty and rank",
+              "Treats retrenchment as disgrace",
+              "Accepts the Kellynch lease only on face-saving terms"
+            ]
+          },
+          {
+            "phase": "Bath-based self-flattery and managed dependence",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "In Bath, he remains self-assertive but becomes more reliant on social recognition. He stages himself through Camden Place, invitations, and fashionable company, using dependence as a form of self-validation rather than surrender.",
+            "key_moments": [
+              "Delights in Camden Place as status display",
+              "Enjoys Mr Elliot's attentions",
+              "Seeks Dalrymple connection",
+              "Uses Mrs Clay's flattering presence",
+              "Continues contemptuous social judgment of those beneath him"
+            ]
+          },
+          {
+            "phase": "Ceremonial acceptance without inward change",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "By the end, he is no less vain, but his self-assertion is increasingly ceremonial and socially managed. He adapts to outcomes that preserve family prestige and his own image, rather than undergoing any deep moral revision.",
+            "key_moments": [
+              "Mr Elliot's duplicity is exposed without changing Sir Walter's core habits",
+              "He manages invitations and public presentation",
+              "He accepts Wentworth only when the match is socially suitable",
+              "He can inhabit reduced circumstances while narrating them as consequence"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Sir Walter remains fundamentally agency-dominant and status-protective. The change is not toward communion in any deep sense, but toward a more polished, dependent, and socially managed version of the same vanity."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Status-Utility",
+        "axis_name": "From pure rank worship to pragmatic prestige management",
+        "pole_start": "He treats rank, beauty, and hereditary distinction as absolute values, with practical consequences secondary unless they threaten dignity.",
+        "pole_end": "He still worships rank, but increasingly evaluates people and arrangements by whether they can preserve or enhance his social position in practice.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Absolute hierarchy",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "At first, status is everything. Debt, retrenchment, and naval officers are judged primarily by whether they diminish or preserve his sense of superiority.",
+            "key_moments": [
+              "Values appearance and title above all",
+              "Rejects retrenchment as disgrace",
+              "Treats tenants as intruders",
+              "Displays anti-naval prejudice"
+            ]
+          },
+          {
+            "phase": "Pragmatic recalibration",
+            "chapter_range": [
+              4,
+              18
+            ],
+            "position_description": "He begins to accept that some people and places can be useful if they do not visibly lower him. Bath, the Crofts, Mr Elliot, and the Dalrymples are assessed through a blend of prestige and convenience.",
+            "key_moments": [
+              "Accepts Croft because he is respectable and wealthy",
+              "Reconciles with Mr Elliot",
+              "Renews Dalrymple connection",
+              "Encourages Mrs Clay to remain in Bath"
+            ]
+          },
+          {
+            "phase": "Utility as prestige maintenance",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "By the end, his judgments are still status-driven, but he is more adept at using social relations instrumentally to maintain consequence. He does not abandon vanity; he refines it into social management.",
+            "key_moments": [
+              "Welcomes Mr Elliot as suitable company",
+              "Accepts Wentworth once he appears worthy",
+              "Continues to frame social choices in terms of family standing"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Walter never stops valuing rank above substance, but he becomes more practically strategic about how rank is preserved. The arc is one of refinement, not conversion: vanity becomes more calculated."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Defensiveness-Adaptation",
+        "axis_name": "From humiliating resistance to polished self-preservation",
+        "pole_start": "He responds to pressure with outrage, shame, and refusal, treating compromise as personal degradation.",
+        "pole_end": "He remains defensive, but learns to preserve himself through graceful acceptance and selective reframing.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Humiliated refusal",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Financial pressure triggers indignation and a refusal to accept visible decline. He would rather leave Kellynch than economize, and he insists on secrecy around the letting.",
+            "key_moments": [
+              "Outraged by retrenchment",
+              "Insists on secrecy in letting Kellynch",
+              "Resists ordinary tenants"
+            ]
+          },
+          {
+            "phase": "Reframing necessity as dignity",
+            "chapter_range": [
+              3,
+              4
+            ],
+            "position_description": "He begins to adapt by converting necessity into ceremony: the Crofts are acceptable if respectable, and departure can be staged as a dignified event.",
+            "key_moments": [
+              "Grudging acceptance of Admiral Croft",
+              "Vanity makes the lease tolerable",
+              "Departs in high spirits"
+            ]
+          },
+          {
+            "phase": "Confident social self-management",
+            "chapter_range": [
+              13,
+              22
+            ],
+            "position_description": "In Bath, he is no less vain, but he is less visibly shattered by compromise. He can inhabit reduced circumstances while narrating them as signs of consequence.",
+            "key_moments": [
+              "Camden Place becomes a status symbol",
+              "Dalrymple connection restores pride",
+              "Graciously sanctions Wentworth"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis captures a modest psychological adjustment: Sir Walter does not become less defensive in essence, but he becomes better at converting humiliating realities into flattering narratives."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Anne Elliot",
+        "dimension_label": "Esteem-Intimacy",
+        "axis_name": "From neglectful dismissal to superficial acknowledgment",
+        "pole_start": "He begins with low esteem and low intimacy: Anne is overlooked, emotionally unsupported, and treated as socially insignificant compared with Elizabeth or with his own concerns.",
+        "pole_end": "He ends with only limited improvement: he can praise her appearance and cease opposing her marriage, but he never develops genuine warmth, trust, or respect for her judgment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Baseline neglect and contempt",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Anne is marginalized early: he dismisses her importance, overrides her preferences, and refuses to support her engagement.",
+            "key_moments": [
+              "Dismisses Anne as unimportant",
+              "Overrides her preference for a smaller house",
+              "Coldly rejects her former engagement",
+              "Leaves Anne behind in the move"
+            ]
+          },
+          {
+            "phase": "Continued social condescension",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "In Bath, he still evaluates Anne through appearance and social taste rather than affection. He can compliment her looks, but he remains dismissive of her compassion and choices.",
+            "key_moments": [
+              "Compliments Anne's appearance",
+              "Mocks her visit to Mrs Smith",
+              "Continues to undervalue her"
+            ]
+          },
+          {
+            "phase": "Residual acceptance without intimacy",
+            "chapter_range": [
+              22,
+              22
+            ],
+            "position_description": "By the end, he accepts her marriage to Wentworth with good grace, which removes overt antagonism, but this is a formal concession rather than a relational reconciliation.",
+            "key_moments": [
+              "Allows the marriage to be entered in the family volume"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Walter's relationship with Anne remains fundamentally thin and hierarchical. The only change is from active dismissal to polite, appearance-based acknowledgment."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Elizabeth Elliot",
+        "dimension_label": "Alliance-Validation",
+        "axis_name": "From shared vanity to stable mutual reinforcement",
+        "pole_start": "He begins already closely aligned with Elizabeth, valuing her because she mirrors his tastes, shares his snobbery, and supports his self-image.",
+        "pole_end": "He ends in essentially the same place, but with their alliance strengthened by shared Bath life, shared social ambitions, and shared delight in status connections.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Initial mutual vanity",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Elizabeth is his favored daughter because she reflects his values and helps sustain the household's social self-conception. Their bond is intimate, but built on vanity rather than emotional depth.",
+            "key_moments": [
+              "Self-validation through family line",
+              "Preference for Elizabeth reinforced",
+              "Shared resentment toward Mr Elliot",
+              "Elizabeth's preference shapes the move"
+            ]
+          },
+          {
+            "phase": "Bath-based alignment",
+            "chapter_range": [
+              13,
+              18
+            ],
+            "position_description": "Their alliance becomes even more visible in Bath: they share delight in Camden Place, in social exclusiveness, and in managing the family's public image.",
+            "key_moments": [
+              "Shared pride in Camden Place",
+              "Shared excitement over Dalrymple connection",
+              "Aligned in excluding the Crofts"
+            ]
+          },
+          {
+            "phase": "Stable mutual reinforcement",
+            "chapter_range": [
+              20,
+              22
+            ],
+            "position_description": "The relationship remains strong and mutually validating. Elizabeth continues to be the daughter who most fully participates in Sir Walter's social worldview.",
+            "key_moments": [
+              "Social judgments remain in tune with Elizabeth's",
+              "Family sanctioning of Anne's marriage does not disturb their bond"
+            ]
+          }
+        ],
+        "evidence_summary": "Elizabeth is Sir Walter's most stable relational mirror. Their connection does not deepen emotionally so much as remain securely aligned around vanity, status, and social performance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Mr Elliot",
+        "dimension_label": "Admiration-Disillusion",
+        "axis_name": "From flattering admiration to quiet disappointment",
+        "pole_start": "He initially sees Mr Elliot as elegant, sensible, and highly desirable, a relation who flatters the Elliot name and his own sense of family consequence.",
+        "pole_end": "He is disappointed by Mr Elliot's withdrawal, but without deep insight; admiration weakens only because the social performance falters, not because he morally re-evaluates him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Rising admiration",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "He is warmly disposed toward Mr Elliot, enjoying his attentions and treating him as a socially valuable heir-like figure.",
+            "key_moments": [
+              "Delighted by Mr Elliot's renewed attentions",
+              "Continues to value him as elegant and desirable",
+              "Still strongly approving"
+            ]
+          },
+          {
+            "phase": "Exposure and withdrawal",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Mrs Smith's revelations expose Mr Elliot's motives, and Sir Walter's admiration is damaged mainly because the flattering social fantasy collapses and the connection becomes unreliable.",
+            "key_moments": [
+              "Mr Elliot is revealed as manipulative",
+              "Sir Walter is disappointed by his withdrawal"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship is driven by surfaces rather than insight. Sir Walter does not become wiser; he simply loses a flattering fantasy when Mr Elliot proves unreliable."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Admiral Croft",
+        "dimension_label": "Snobbery-Acceptance",
+        "axis_name": "From naval contempt to socially managed acceptance",
+        "pole_start": "Openly contemptuous of Croft as a sailor and representative of the navy, treating him as socially inferior and initially unsuitable for Kellynch.",
+        "pole_end": "Cautiously approving and then comfortably accepting of Croft as a respectable, wealthy, and socially manageable tenant, though still beneath him in rank.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial resistance",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "He begins with class prejudice against the navy and suspicion of naval men as socially intrusive and physically degraded.",
+            "key_moments": [
+              "Initial contempt for Admiral Croft as a sailor",
+              "Only tolerates him once his respectability and fortune are clear"
+            ]
+          },
+          {
+            "phase": "Qualified approval",
+            "chapter_range": [
+              4,
+              11
+            ],
+            "position_description": "He accepts the Crofts because the arrangement flatters his dignity and solves the Kellynch problem without overt humiliation.",
+            "key_moments": [
+              "Lease is settled in a face-saving way",
+              "Crofts remain accepted as tenants of Kellynch"
+            ]
+          },
+          {
+            "phase": "Stable condescension",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "He continues to treat the Crofts as acceptable but inferior, with no real warmth or egalitarian shift.",
+            "key_moments": [
+              "Condescending but not hostile toward Admiral Croft",
+              "Continued social acceptance of the Crofts"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Walter moves from naval disdain to practical acceptance. The change is limited, but it is real: status management replaces outright contempt."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Lady Russell",
+        "dimension_label": "Deference-Antagonism",
+        "axis_name": "From qualified deference to condescending dismissal",
+        "pole_start": "He begins with practical deference to Lady Russell as a household adviser, though his esteem is always limited by vanity and sensitivity to criticism.",
+        "pole_end": "He ends more openly dismissive, using her judgment only when convenient and otherwise treating her as inferior in taste and social discernment.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Qualified respect",
+            "chapter_range": [
+              1,
+              2
+            ],
+            "position_description": "Lady Russell is consulted in the financial crisis and her advice matters, but Sir Walter resents any implication that she can direct him.",
+            "key_moments": [
+              "Forced to confront financial distress with her in the household",
+              "Outraged by her retrenchment proposal",
+              "Adopts Bath partly on her recommendation"
+            ]
+          },
+          {
+            "phase": "Resentful dependence",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "He continues to rely on her socially while feeling affronted by her practical authority. Her advice becomes something he accepts only when it can be reframed as his own choice.",
+            "key_moments": [
+              "Secrecy around letting managed indirectly",
+              "Relies more on intermediaries than on her"
+            ]
+          },
+          {
+            "phase": "Dismissive superiority",
+            "chapter_range": [
+              20,
+              20
+            ],
+            "position_description": "By the time Mr Elliot is being welcomed, Sir Walter is openly contemptuous of Lady Russell's judgment and appearance, showing that deference has given way to condescension.",
+            "key_moments": [
+              "Dismisses Lady Russell with vanity and condescension"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Russell remains an authority figure Sir Walter cannot fully ignore, but his emotional stance shifts from reluctant consultation to sharper contempt whenever her judgment challenges his vanity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Sir Walter Elliot",
+        "target_character": "Mrs Clay",
+        "dimension_label": "Flattery-Suspicion",
+        "axis_name": "From useful flattery to embarrassed distrust",
+        "pole_start": "He treats Mrs Clay as a pleasant, useful, and flattering presence in the household, with some attraction and little self-awareness about the risks she poses.",
+        "pole_end": "He ends shocked and mortified by her disappearance and deception, though the reaction is mainly social embarrassment rather than moral insight.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Flattering usefulness",
+            "chapter_range": [
+              3,
+              18
+            ],
+            "position_description": "Mrs Clay is valued because she supports his prejudices, flatters his taste, and fits into his social arrangements.",
+            "key_moments": [
+              "Finds her agreeable insofar as she supports his views",
+              "Uses her as a convenient assistant",
+              "Openly attentive and pleased by her presence",
+              "Still socially pleased by her"
+            ]
+          },
+          {
+            "phase": "Embarrassed loss",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Her disappearance becomes a source of humiliation and disruption, and his attitude cools sharply because the social arrangement has been compromised.",
+            "key_moments": [
+              "Mrs Clay's role is implicated in Mr Elliot's scheme",
+              "Shocked and mortified by her departure and deception"
+            ]
+          }
+        ],
+        "evidence_summary": "Sir Walter never develops genuine trust or intimacy with Mrs Clay. The change is from pleased usefulness to embarrassed distrust, driven by the collapse of a flattering arrangement."
+      }
+    ]
+  },
+  "Elizabeth Elliot": {
+    "character": "Elizabeth Elliot",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From rank-guarding social command to constrained relational dependence",
+            "set_b_axis": "From status-seeking self-assertion to guarded social self-preservation",
+            "overlap_description": "Both describe Elizabeth as fundamentally agency-coded, status-conscious, and socially defensive, with only limited softening under pressure rather than a deep moral transformation."
+          },
+          {
+            "set_a_axis": "From trusting polish to recognizing social deception",
+            "set_b_axis": null,
+            "overlap_description": "Set A's appearance-truth axis is partially echoed in Set B's emphasis on Elizabeth's continued investment in polished surfaces, but Set B does not independently develop a true epistemic disillusionment arc."
+          },
+          {
+            "set_a_axis": "From unshaken social pride to mortified self-doubt",
+            "set_b_axis": null,
+            "overlap_description": "Set A isolates a humiliation/self-confidence axis that is compatible with Set B's account of defensive self-preservation, though Set B treats the ending as mostly stable rather than meaningfully self-doubting."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From trusting polish to recognizing social deception",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unshaken social pride to mortified self-doubt",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From admired prospect to exposed deceiver",
+            "set_b_axis": "From resentful disappointment to gratified approval",
+            "overlap_description": "Both track Elizabeth's relation to Mr Elliot as a status-laden attraction that becomes favorable in Bath; Set A continues into disillusionment, while Set B stops at approval."
+          },
+          {
+            "set_a_axis": "From favored companion to compromised associate",
+            "set_b_axis": "From approving companionship to embarrassed loss",
+            "overlap_description": "Both identify Elizabeth's attachment to Mrs Clay as initially warm/comfortable and ending in mortification after deception and departure."
+          },
+          {
+            "set_a_axis": "From dismissive superiority to threatened marginality",
+            "set_b_axis": "From nonrecognition to continued cold dismissal",
+            "overlap_description": "Both agree Elizabeth remains cold and superior toward Anne/Wentworth-adjacent moral authority, though Set A emphasizes Anne's rising centrality while Set B focuses on Elizabeth's static dismissal of Wentworth."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From dismissive superiority to threatened marginality",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From confident alliance to shared vulnerability",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From dismissive nonrecognition to reluctant social acknowledgment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From resentful disappointment to gratified approval",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From approving companionship to embarrassed loss",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From nonrecognition to continued cold dismissal",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From status-assertive self-protection to guarded tactical preservation",
+        "pole_start": "High agency, low communion: Elizabeth begins as self-protective, rank-conscious, and invested in asserting the Elliots' superiority through appearances, control, and social distinction.",
+        "pole_end": "Still agency-leaning and emotionally guarded: by the end she remains proud and socially defensive, but her control is more tactical than absolute, shaped by pressure, embarrassment, and the need to preserve appearances.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Established vanity and social command",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Elizabeth is strongly agency-coded: she aligns with Sir Walter's pride, resists retrenchment, and treats social rank as something to defend and display. She is emotionally distant from Anne and selectively warm only where status is reinforced.",
+            "key_moments": [
+              "Shares Sir Walter's distress over financial decline",
+              "Resists retrenchment because it threatens consequence",
+              "Dismisses Anne's warnings about Mrs Clay"
+            ]
+          },
+          {
+            "phase": "Performative control in Bath",
+            "chapter_range": [
+              12,
+              19
+            ],
+            "position_description": "Her posture remains essentially unchanged, but her agency is exercised through social orchestration rather than household authority. She manages introductions, invitations, and elite visibility while continuing to rely on appearances.",
+            "key_moments": [
+              "Bath social life reinforces her sense of consequence",
+              "Welcomes Mr Elliot's attentions as status-confirming",
+              "Refuses to acknowledge Captain Wentworth"
+            ]
+          },
+          {
+            "phase": "Tactical preservation under pressure",
+            "chapter_range": [
+              20,
+              22
+            ],
+            "position_description": "Elizabeth remains on the agency side, but her agency becomes more tactical than declarative. She adapts social arrangements to avoid visible reduction, yet the collapse of preferred alliances leaves her more constrained and mortified.",
+            "key_moments": [
+              "Reframes the Musgrove invitation to preserve dignity",
+              "Continues to cultivate elite connections in Bath",
+              "Is mortified by Mrs Clay's departure because it damages her social position"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Elizabeth shows little true inward development. She remains strongly agency-coded, status-defending, and socially controlling. The main movement is not toward communion but toward more cautious, tactical self-preservation under pressure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "appearance-truth",
+        "axis_name": "From confidence in polish to chastened awareness of deception",
+        "pole_start": "She begins with strong faith that polished manners, rank, and family connection reliably indicate worth and trustworthiness.",
+        "pole_end": "She ends with a damaged but real awareness that elegant surfaces can conceal calculation, self-interest, and betrayal.",
+        "confidence": "high",
+        "source": "event_only",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Initial confidence in appearances",
+            "chapter_range": [
+              1,
+              13
+            ],
+            "position_description": "Elizabeth repeatedly reads social polish as evidence of merit, whether in Mr Elliot's restored standing, Bath society, or her own family's distinction.",
+            "key_moments": [
+              "Her resentment toward William Walter Elliot is tied to status and proper alliance",
+              "Her acceptance of Mr Elliot's favorable explanations",
+              "Her pleasure in Bath's social display"
+            ]
+          },
+          {
+            "phase": "First cracks in judgment",
+            "chapter_range": [
+              15,
+              20
+            ],
+            "position_description": "She begins to encounter situations where appearances are less stable than she assumes, but she still tries to preserve her interpretive framework by managing the room and sustaining social forms.",
+            "key_moments": [
+              "Her disdain for Anne's association with Mrs Smith",
+              "Her continued elevation of Mr Elliot",
+              "Her guarded handling of Wentworth's presence"
+            ]
+          },
+          {
+            "phase": "Exposure and disillusionment",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Mrs Smith's revelations force Elizabeth to confront the fact that Mr Elliot's elegance masked opportunism. Her trust in social surfaces is not fully replaced by insight, but it is clearly shaken and no longer secure.",
+            "key_moments": [
+              "Mrs Smith reveals Mr Elliot's strategic motives",
+              "The old letter and account of mercenary conduct",
+              "Mr Elliot's withdrawal and Mrs Clay's deception"
+            ]
+          }
+        ],
+        "evidence_summary": "Elizabeth's most meaningful internal change is epistemic: she moves from near-complete confidence in social appearance to a chastened recognition that appearance can be manipulative. The change is partial, but substantial enough to count as a real disillusionment arc."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "pride-humility",
+        "axis_name": "From robust social pride to mortified self-doubt",
+        "pole_start": "She begins with robust pride in rank, household consequence, and her own judgment.",
+        "pole_end": "She ends humiliated and less secure in her own social discernment, though not transformed into humility in a deep moral sense.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Pride as identity",
+            "chapter_range": [
+              1,
+              18
+            ],
+            "position_description": "Elizabeth consistently treats social superiority as self-evident and uses it to dismiss rivals, inferiors, and warnings.",
+            "key_moments": [
+              "Her contempt for Anne's caution",
+              "Her delight in Bath prestige",
+              "Her dismissal of Mrs Smith and confidence in Mr Elliot"
+            ]
+          },
+          {
+            "phase": "Public embarrassment",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "The exposure of Mr Elliot and Mrs Clay humiliates her. She is forced to recognize that her preferred social world can be outmaneuvered, and that her judgment has been compromised by vanity.",
+            "key_moments": [
+              "Mrs Smith's revelations",
+              "The collapse of Mr Elliot as a match",
+              "The final mortification over Mrs Clay"
+            ]
+          }
+        ],
+        "evidence_summary": "Elizabeth remains proud, but the narrative repeatedly punctures that pride. The result is not moral humility so much as wounded self-confidence and social embarrassment."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Elizabeth Elliot",
+        "target_character": "Mr Elliot",
+        "dimension_label": "status attraction",
+        "axis_name": "From resentful disappointment to gratified approval and later disillusionment",
+        "pole_start": "She begins resentful and disappointed over his earlier failure to marry her, while also morally offended by his conduct.",
+        "pole_end": "She ends in distrust and mortification after his duplicity and self-interest are exposed.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Wounded vanity and resentment",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Elizabeth's feelings are mixed: she still feels the loss of Mr Elliot as a match, but the disappointment is already hardened into resentment and moral disapproval.",
+            "key_moments": [
+              "Wounded vanity over Mr. Elliot's failure to marry her",
+              "Condemns him for his marriage and alleged disrespect"
+            ]
+          },
+          {
+            "phase": "Renewed interest and social gratification",
+            "chapter_range": [
+              12,
+              15
+            ],
+            "position_description": "Her attitude warms as Mr Elliot's attentions resume in Bath. She interprets them as confirmation of the Elliot family's importance and as flattering recognition of herself and her circle.",
+            "key_moments": [
+              "Bath chapters show her pleased and energized by his visits",
+              "She appears to cultivate the possibility of closer connection",
+              "Her renewed admiration for Mr Elliot in Bath"
+            ]
+          },
+          {
+            "phase": "Suspicion and destabilization",
+            "chapter_range": [
+              19,
+              20
+            ],
+            "position_description": "Mrs Smith's disclosures undermine her confidence in him, but she still has to host and manage him socially, so the relationship becomes guarded rather than fully severed.",
+            "key_moments": [
+              "Mrs Smith reveals his strategic motives",
+              "The old letter and account of mercenary conduct",
+              "Elizabeth's cool, defensive manner toward him"
+            ]
+          },
+          {
+            "phase": "Collapse of esteem",
+            "chapter_range": [
+              22,
+              22
+            ],
+            "position_description": "His withdrawal and the full revelation of his double game destroy the remaining basis for admiration or trust.",
+            "key_moments": [
+              "Mr Elliot is revealed as deceptive and opportunistic",
+              "Elizabeth is shocked and mortified by the loss"
+            ]
+          }
+        ],
+        "evidence_summary": "Elizabeth's clearest relational arc moves from wounded resentment to renewed approval and then to complete disillusionment. The change is not moral growth so much as a collapse of trust in a prestige-bearing figure."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Elizabeth Elliot",
+        "target_character": "Mrs Clay",
+        "dimension_label": "social utility",
+        "axis_name": "From approving companionship to compromised loss",
+        "pole_start": "She begins warm, approving, and comfortable with Mrs Clay as a pleasing companion and useful household presence.",
+        "pole_end": "She ends feeling cold, mortified, and deprived by Mrs Clay's departure and deception.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Friendly utility",
+            "chapter_range": [
+              2,
+              18
+            ],
+            "position_description": "Elizabeth consistently values Mrs Clay for her agreeable manners and practical usefulness. The relationship is not intimate in a deep sense, but it is socially comfortable and mutually convenient.",
+            "key_moments": [
+              "Warm and approving regard in early Bath chapters",
+              "Keeps Mrs Clay in the household orbit",
+              "Uses her as a companion in social and domestic arrangements"
+            ]
+          },
+          {
+            "phase": "Entangled tolerance",
+            "chapter_range": [
+              14,
+              20
+            ],
+            "position_description": "Elizabeth continues to keep Mrs Clay near, but the relationship is increasingly entangled with social maneuvering and blind spots about Mrs Clay's ambitions.",
+            "key_moments": [
+              "Mrs Clay's public compliment scene",
+              "Their shared interest in Mr Elliot"
+            ]
+          },
+          {
+            "phase": "Shock and loss",
+            "chapter_range": [
+              22,
+              22
+            ],
+            "position_description": "Mrs Clay's departure and deception produce embarrassment and a sense of social loss. Elizabeth's attitude cools sharply because the relationship has failed to remain useful and harmless.",
+            "key_moments": [
+              "Shocked by Mrs Clay's departure",
+              "Mortified by the deception",
+              "Feels the loss of a socially useful companion"
+            ]
+          }
+        ],
+        "evidence_summary": "Elizabeth's relation to Mrs Clay is mostly stable, but the ending reveals a meaningful negative turn: from comfortable approval to mortified disappointment. The change is driven less by affection than by the collapse of a useful social arrangement."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Elizabeth Elliot",
+        "target_character": "Captain Wentworth",
+        "dimension_label": "social recognition",
+        "axis_name": "From nonrecognition to continued cold dismissal",
+        "pole_start": "She begins with no meaningful recognition or esteem, treating him as beneath notice.",
+        "pole_end": "She remains cold and dismissive, refusing to acknowledge him even when they meet in Bath.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Initial indifference",
+            "chapter_range": [
+              13,
+              16
+            ],
+            "position_description": "Elizabeth registers Wentworth only as a social presence, not as an emotionally significant person. Her attention is elsewhere, especially on Mr Elliot and elite society.",
+            "key_moments": [
+              "Bath social scenes center on status and display",
+              "Wentworth is not treated as a meaningful relational figure"
+            ]
+          },
+          {
+            "phase": "Pointed coldness",
+            "chapter_range": [
+              17,
+              18
+            ],
+            "position_description": "When she sees Wentworth, she turns away and refuses to acknowledge him. This is not a change in feeling so much as a crystallization of her existing exclusiveness.",
+            "key_moments": [
+              "Turns away with unalterable coldness",
+              "Continues to treat him as socially beneath notice"
+            ]
+          }
+        ],
+        "evidence_summary": "There is no real arc toward warmth or recognition. Elizabeth's relation to Wentworth is static, but the chapter evidence makes her coldness explicit and socially meaningful."
+      }
+    ]
+  },
+  "Lady Russell": {
+    "character": "Lady Russell",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From protective moral authority to benevolent relational attachment",
+            "set_b_axis": "From socially directive guardianship to reconciled relational support",
+            "overlap_description": "Both describe Lady Russell moving from directive, protective moral authority toward a warmer, less controlling, more affectionate support of Anne, with her authority softened by humility and attachment."
+          },
+          {
+            "set_a_axis": "From confident prudence to chastened self-knowledge",
+            "set_b_axis": "From confidence in appearances to chastened moral realism",
+            "overlap_description": "Both track a correction of Lady Russell's judgment: she begins confident in prudential/social standards and ends more humbled, recognizing that appearances can mislead and that her own discernment is fallible."
+          },
+          {
+            "set_a_axis": "From settled guardianship to anxious vigilance and then softened concern",
+            "set_b_axis": "From untroubled confidence to chastened self-questioning",
+            "overlap_description": "Both capture the same pressure arc: Lady Russell's initial composure gives way to anxiety and self-protective uncertainty, then to a more yielding, less controlling stance."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From preserving hierarchy to accepting emotional truth",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From socially secure moral adviser to benevolent relational attachment",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From confidence in appearances to chastened moral realism",
+            "assessment": "borderline"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From authoritative guardian to affectionate equal supporter",
+            "set_b_axis": "From authoritative guardianship to humbled companionship",
+            "overlap_description": "Both describe the Anne relationship as moving from asymmetrical guardianship toward a more companionate, humbled affection in which Lady Russell accepts Anne's independent judgment."
+          },
+          {
+            "set_a_axis": "From rejected suitor to accepted son-in-law",
+            "set_b_axis": "From principled suspicion to reluctant respect",
+            "overlap_description": "Both track Lady Russell's relationship with Wentworth from disapproval and suspicion toward eventual acceptance, though Set A emphasizes full familial attachment while Set B stresses more restrained respect."
+          },
+          {
+            "set_a_axis": "From ideal prospect to discredited suitor",
+            "set_b_axis": "From idealized approval to disillusioned rejection",
+            "overlap_description": "Both identify Lady Russell's trust in Mr Elliot as a major failed judgment that collapses after his duplicity is revealed."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From rejected suitor to accepted son-in-law",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From wary disapproval to confirmed distrust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From protective moral authority to benevolent relational attachment",
+        "pole_start": "Begins as a socially secure, self-possessed moral adviser who exercises agency through judgment, correction, and protective intervention in Anne's life.",
+        "pole_end": "Ends still morally serious, but more communion-oriented: she subordinates her own judgment to Anne's happiness and attaches herself warmly to Anne and Wentworth as family.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Established guardian authority",
+            "chapter_range": [
+              1,
+              4
+            ],
+            "position_description": "Lady Russell is a trusted family confidante whose agency is expressed through prudent guidance, moral management, and protective care for Anne and the Elliots.",
+            "key_moments": [
+              "Helps manage retrenchment and preserve family dignity",
+              "Acts as Anne's moral adviser and surrogate maternal guide",
+              "Exercises social authority on Anne's behalf"
+            ]
+          },
+          {
+            "phase": "Protective intervention and social authority",
+            "chapter_range": [
+              4,
+              18
+            ],
+            "position_description": "Her authority remains strong but becomes more costly and defensive as she opposes Wentworth, favors Mr Elliot, and tries to shape Anne's future according to her own standards.",
+            "key_moments": [
+              "Strongly opposes Anne's engagement to Wentworth",
+              "Worries Anne may make another unsuitable attachment",
+              "Becomes increasingly favorable toward Mr Elliot",
+              "Imagines Anne restored to Kellynch and family continuity"
+            ]
+          },
+          {
+            "phase": "Humbling revision and relational acceptance",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Her agency is checked by events and corrected by reality; she yields pride to Anne's happiness and becomes a warmer, less controlling supporter of Anne and Wentworth.",
+            "key_moments": [
+              "Mr Elliot's duplicity undermines her confidence",
+              "Wentworth's self-criticism redistributes blame for the broken engagement",
+              "Anne recognizes Lady Russell must revise her judgments",
+              "She attaches herself benevolently to Wentworth as family"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Russell begins as a highly agentic moral guardian and ends as a more communal, affectionate, and humbled relation. The arc is not a loss of seriousness but a redefinition of authority through attachment, humility, and Anne's happiness."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Judgment-Humility",
+        "axis_name": "From confident prudence to chastened self-knowledge",
+        "pole_start": "Starts with strong confidence that her moral and social judgment is sound, especially regarding rank, propriety, and suitable matches.",
+        "pole_end": "Ends with a humbler self-understanding: she recognizes that appearances misled her and that Anne's happiness matters more than vindicating her own discernment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Confident prudential worldview",
+            "chapter_range": [
+              1,
+              15
+            ],
+            "position_description": "She assumes her standards are reliable and useful, reinforcing her identity as a prudent adviser and social judge.",
+            "key_moments": [
+              "Supports retrenchment and respectable relocation",
+              "Distrusts Mrs Clay as socially improper",
+              "Approves Mr Elliot and imagines him as a proper match",
+              "Feels justified by her own standards"
+            ]
+          },
+          {
+            "phase": "Anxiety and defensive watchfulness",
+            "chapter_range": [
+              6,
+              20
+            ],
+            "position_description": "Wentworth's return, his social success, and her investment in Mr Elliot pressure her confidence, while the exposure of Mr Elliot makes her judgment visibly vulnerable.",
+            "key_moments": [
+              "Wentworth's return becomes socially validated",
+              "Louisa's remark revives the broken engagement story",
+              "Wentworth's heroism at Lyme complicates condemnation",
+              "Mr Elliot's duplicity destabilizes her confidence"
+            ]
+          },
+          {
+            "phase": "Correction and revision",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Her certainty is finally broken open: she is forced to revise her judgments of Wentworth and Mr Elliot and accept the limits of her discernment.",
+            "key_moments": [
+              "Wentworth's conversation reduces her share of blame",
+              "Anne recognizes Lady Russell must revise her judgments",
+              "Narrative implies she is less gifted than Anne in character discernment",
+              "She accepts Anne's happiness over her own pride"
+            ]
+          }
+        ],
+        "evidence_summary": "A major internal arc runs from confidence in prudential judgment to chastened humility. The novel does not make her foolish; it makes her corrigible, and that correction is central to her psychological movement."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Propriety-Truth",
+        "axis_name": "From preserving hierarchy to accepting emotional truth",
+        "pole_start": "Starts with a strong investment in rank, propriety, family continuity, and socially fitting matches.",
+        "pole_end": "Ends with those values still present, but subordinated to emotional truth and Anne's actual happiness.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Order-preserving outlook",
+            "chapter_range": [
+              2,
+              5
+            ],
+            "position_description": "She tries to preserve dignity in retrenchment, dislikes disorder, and imagines socially proper arrangements as morally desirable.",
+            "key_moments": [
+              "Gentler retrenchment scheme to spare Sir Walter's feelings",
+              "Disapproval of Mrs Clay's intimacy",
+              "Interest in respectable household continuity"
+            ]
+          },
+          {
+            "phase": "Ideal restoration fantasy",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "Her social-order instinct intensifies in the Mr Elliot match, which she imagines as restoring Kellynch, Anne's mother's place, and the proper family line.",
+            "key_moments": [
+              "Approves renewed Dalrymple connection",
+              "Becomes convinced Mr Elliot means to marry Anne",
+              "Imagines Anne as mistress of Kellynch and revived Lady Elliot"
+            ]
+          },
+          {
+            "phase": "Order revised by reality",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "She must accept that appearances and social polish do not guarantee worth, and that emotional fidelity to Anne matters more than restoring a perfect social arrangement.",
+            "key_moments": [
+              "Mr Elliot is exposed as morally corrupt",
+              "She is prepared to hear the truth about him",
+              "Wentworth becomes the true partner Anne chooses",
+              "She values Anne's happiness above her own pride"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Russell's attachment to propriety remains stable but is reweighted by the end: social order is no longer the highest good when it conflicts with Anne's real happiness."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Lady Russell",
+        "target_character": "Anne Elliot",
+        "dimension_label": "Protective Intimacy",
+        "axis_name": "From authoritative guardianship to humbled companionship",
+        "pole_start": "Deep affection expressed through guidance, protection, and moral authority; Anne is the person she most wants to shelter and direct.",
+        "pole_end": "Still deeply affectionate, but more companionate and yielding: she accepts Anne's happiness and softens her authority in favor of Anne's own judgment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Trusted guardian",
+            "chapter_range": [
+              1,
+              12
+            ],
+            "position_description": "Lady Russell is Anne's most trusted confidante and moral support, but the relationship is asymmetrical: she advises, Anne listens, and Lady Russell assumes the right to guide Anne's choices.",
+            "key_moments": [
+              "Anne is seen as Lady Elliot revived in Anne",
+              "She consults Anne on retrenchment",
+              "She continues to shape Anne's prospects"
+            ]
+          },
+          {
+            "phase": "Misguided protector",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "Her affection remains strong, but her judgment becomes more visibly problematic because she favors Mr Elliot and once opposed Wentworth. Anne's inner life increasingly outstrips Lady Russell's understanding.",
+            "key_moments": [
+              "Lady Russell strongly approves Mr Elliot",
+              "Anne fears disappointing her about Mr Elliot",
+              "The narrative exposes the danger of her earlier advice",
+              "Her protective role is strained by her misjudgments"
+            ]
+          },
+          {
+            "phase": "Reconciled affection",
+            "chapter_range": [
+              21,
+              22
+            ],
+            "position_description": "Lady Russell remains loving, but she accepts Anne's choice and subordinates her own preferences to Anne's happiness. The bond becomes less directive and more mutually affectionate.",
+            "key_moments": [
+              "Anne defends having obeyed her",
+              "Wentworth's self-criticism softens the old blame",
+              "Lady Russell is forced to accept Wentworth",
+              "She begins to attach herself to the marriage"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Lady Russell's central relationship arc. It moves from protective authority to a more humbled, companionate affection. The intimacy stays high throughout, but the balance of power and confidence shifts noticeably."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Lady Russell",
+        "target_character": "Captain Frederick Wentworth",
+        "dimension_label": "Suspicion-Respect",
+        "axis_name": "From principled suspicion to reluctant respect",
+        "pole_start": "Low trust and low esteem: she sees Wentworth as an unsuitable, imprudent match and remains emotionally cool toward him.",
+        "pole_end": "Reluctant respect and eventual acceptance as Anne's true partner, even if her earlier opposition is not fully erased.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Fixed suspicion",
+            "chapter_range": [
+              1,
+              18
+            ],
+            "position_description": "Lady Russell consistently remains cool toward Wentworth, especially after the broken engagement and the Lyme events. Even when he is not central, her earlier skepticism persists.",
+            "key_moments": [
+              "Anne expects tension between them",
+              "She interprets Wentworth through prudence and rank",
+              "She remains hostile or contemptuous when he is associated with Louisa"
+            ]
+          },
+          {
+            "phase": "Moral reversal",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "As Mr Elliot is exposed and Anne's happiness with Wentworth becomes undeniable, Lady Russell is compelled to soften. She does not become exuberant, but she begins to respect Wentworth as the man who truly suits Anne.",
+            "key_moments": [
+              "Mr Elliot's duplicity makes Wentworth look comparatively sound",
+              "Anne's happiness forces a reassessment",
+              "Lady Russell begins to attach herself to the marriage"
+            ]
+          }
+        ],
+        "evidence_summary": "Lady Russell's relationship with Wentworth changes less in emotional warmth than in moral judgment. She moves from principled suspicion to reluctant respect, which is a meaningful but restrained relational shift."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Lady Russell",
+        "target_character": "Mr Elliot",
+        "dimension_label": "Social Trust",
+        "axis_name": "From idealized approval to disillusioned rejection",
+        "pole_start": "Warm approval and trust: she sees Mr Elliot as polished, proper, and a potentially ideal match for Anne.",
+        "pole_end": "Complete distrust and moral rejection once his duplicity is revealed.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Cautious curiosity",
+            "chapter_range": [
+              12,
+              13
+            ],
+            "position_description": "She is open to reconsidering him and willing to observe before judging, which already marks a softening from earlier dismissal.",
+            "key_moments": [
+              "She becomes willing to see Mr Elliot",
+              "Her judgment shifts from dismissal to curiosity"
+            ]
+          },
+          {
+            "phase": "Strong approval",
+            "chapter_range": [
+              14,
+              18
+            ],
+            "position_description": "Her confidence in him grows into admiration. She sees him as a stable, respectable, and socially reassuring figure, and she imagines him as a suitable husband for Anne.",
+            "key_moments": [
+              "She becomes highly favorable toward Mr Elliot",
+              "She encourages Anne to think well of him",
+              "She imagines Anne restored to Kellynch"
+            ]
+          },
+          {
+            "phase": "Collapse of trust",
+            "chapter_range": [
+              19,
+              22
+            ],
+            "position_description": "Mr Elliot is exposed as manipulative and morally corrupt, and Lady Russell's prior approval is rendered untenable. She moves toward rejection and chastened recognition of error.",
+            "key_moments": [
+              "Mr Elliot's true character is revealed",
+              "Anne fears Lady Russell might have recommended him",
+              "Lady Russell is forced toward partial revision and disillusionment"
+            ]
+          }
+        ],
+        "evidence_summary": "This is the clearest relational reversal in Lady Russell's arc. Her trust in Mr Elliot rises sharply because he fits her social ideals, then collapses when his moral emptiness is exposed."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Lady Russell",
+        "target_character": "Mrs Clay",
+        "dimension_label": "Social Suspicion",
+        "axis_name": "From wary disapproval to confirmed distrust",
+        "pole_start": "Low trust and low esteem: she sees Mrs Clay as socially inferior, intrusive, and dangerous.",
+        "pole_end": "Still distrustful, with her suspicion confirmed by Mrs Clay's proximity to Sir Walter and the threat she poses to family order.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Early suspicion",
+            "chapter_range": [
+              2,
+              4
+            ],
+            "position_description": "Lady Russell quickly identifies Mrs Clay as a problematic influence, especially in relation to Elizabeth and Sir Walter.",
+            "key_moments": [
+              "She is suspicious of Mrs Clay in Chapter 2",
+              "She is alarmed by Mrs Clay's usefulness to Sir Walter and Elizabeth in Chapter 4"
+            ]
+          },
+          {
+            "phase": "Persistent distrust",
+            "chapter_range": [
+              11,
+              18
+            ],
+            "position_description": "Her dislike remains steady and is reinforced by the social contrast between Mrs Clay and the respectable circles Lady Russell values.",
+            "key_moments": [
+              "She remains irritated by Mrs Clay's influence",
+              "She continues to see her as a threat to propriety"
+            ]
+          }
+        ],
+        "evidence_summary": "This relationship is stable rather than transformative, but it is still worth tracking because Lady Russell's distrust of Mrs Clay is one of the consistent pressures shaping her social judgments."
+      }
+    ]
+  }
+}

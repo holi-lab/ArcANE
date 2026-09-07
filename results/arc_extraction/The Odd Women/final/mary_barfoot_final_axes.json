@@ -1,0 +1,455 @@
+{
+  "character": "Mary Barfoot",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From practical communal reformer to restrained mediator",
+          "set_b_axis": "From disciplined reformer to emotionally entangled reformer",
+          "overlap_description": "Both track Mary’s movement from a controlled, practical reforming identity toward a more cautious, relationally complicated stance shaped by sympathy, emotional burden, and limits on intervention."
+        },
+        {
+          "set_a_axis": "From confident judgment to chastened ambiguity",
+          "set_b_axis": "From confident observer to self-questioning participant",
+          "overlap_description": "Both describe Mary’s growing awareness that her judgments are not fully secure or detached, especially under the pressure of Monica/Everard/Rhoda crises."
+        },
+        {
+          "set_a_axis": "From militant optimism to chastened compassion",
+          "set_b_axis": "From practical feminism to quasi-religious feminist exaltation",
+          "overlap_description": "Both identify a shift in Mary’s feminist outlook: she begins with practical reform confidence, briefly intensifies into stronger ideological affirmation, and ends in a more tempered, humane, and cautious reformism."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From practical communal reformer to restrained mediator",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From confident judgment to chastened ambiguity",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From militant optimism to chastened compassion",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From disciplined reformer to emotionally entangled reformer",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From principled severity to humane moral complexity",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From confident observer to self-questioning participant",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From practical feminism to quasi-religious feminist exaltation",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From close partnership to strained but enduring alliance",
+          "set_b_axis": "From stable feminist alliance to affectionate but emotionally strained partnership",
+          "overlap_description": "Both describe Mary and Rhoda’s bond as fundamentally intact but increasingly strained by disagreement, emotional hurt, and Mary’s moderating role."
+        },
+        {
+          "set_a_axis": "From guarded censure to partial trust and renewed caution",
+          "set_b_axis": "From moral suspicion to guarded, emotionally charged ambivalence",
+          "overlap_description": "Both track Mary’s relation to Everard as moving from distrust toward partial reassessment, but without full trust or intimacy."
+        },
+        {
+          "set_a_axis": "From beneficent intervention to chastened, enduring concern",
+          "set_b_axis": "From prospective helper to worried, humane mentor",
+          "overlap_description": "Both see Mary’s bond with Monica as a movement from hopeful practical help toward protective concern tempered by awareness of limits."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From close partnership to strained but enduring alliance",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From guarded censure to partial trust and renewed caution",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From beneficent intervention to chastened, enduring concern",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From stable feminist alliance to affectionate but emotionally strained partnership",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From moral suspicion to guarded, emotionally charged ambivalence",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From prospective helper to worried, humane mentor",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From disciplined reformer to emotionally restrained mediator",
+      "pole_start": "Mary begins as a practical, self-possessed reformer whose agency serves communal care: she organizes help for vulnerable women, values humane improvement, and acts with steady purpose.",
+      "pole_end": "She ends still agentic and reform-minded, but more restrained and self-limiting: she remains committed to sympathy and mediation while recognizing the dangers of intrusive intervention and the emotional costs of attachment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Practical self-command",
+          "chapter_range": [
+            1,
+            7
+          ],
+          "position_description": "Mary is presented as steady, organized, and socially competent. Her reforming energy is grounded in usefulness, sympathy, and practical support for women like Monica, rather than abstract doctrine.",
+          "key_moments": [
+            "Indirect references to her as practical and professionally engaged",
+            "ch3_evt02: Miss Nunn suggests Mary can help Monica leave exhausting shop work",
+            "ch6_evt01: Mary distinguishes tenderness from mere opposition",
+            "ch7_evt01: Monica’s improved lodgings validate Mary’s humane method"
+          ]
+        },
+        {
+          "phase": "Moral and emotional pressure",
+          "chapter_range": [
+            8,
+            13
+          ],
+          "position_description": "Her agency becomes more assertive in judgment and feminist conviction, but crises around Everard, Bella, and Monica expose the limits of control. She grows more aware that care can wound as well as help.",
+          "key_moments": [
+            "ch8_evt03: She rebukes Everard’s selfish individualism",
+            "ch8_evt05: Feminist solidarity intensifies her reformist self-understanding",
+            "ch11_evt01: Monica’s collapse shakes confidence in intervention",
+            "ch13_evt01: Bella Royston’s suicide wounds her faith in rescue"
+          ]
+        },
+        {
+          "phase": "Chastened mediation",
+          "chapter_range": [
+            13,
+            30
+          ],
+          "position_description": "Mary remains deeply committed to women’s welfare, but her mode shifts toward caution, forgiveness, and restraint. She intervenes less directly, worries about causing harm, and increasingly chooses not to intrude into intimate crises.",
+          "key_moments": [
+            "ch13_evt03: She warns Rhoda to preserve tenderness and humanity",
+            "ch13_evt05: She reconciles with Rhoda",
+            "ch26_evt01: She fears her letter-writing may do 'lamentable mischief'",
+            "ch30_evt01: She withholds information and reproves herself for meddling"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary remains a communal reformer throughout, but the arc shows her agency becoming more ethically self-aware and more constrained by sympathy, grief, and respect for others’ privacy."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral certainty",
+      "axis_name": "From confident moral judgment to chastened ethical ambiguity",
+      "pole_start": "Mary begins with strong confidence in her ability to read character, marriage, and social conduct, and to distinguish sound reform from selfishness or error.",
+      "pole_end": "She ends with a more cautious and provisional moral stance: she still judges, but she recognizes that appearances mislead and that private lives cannot be safely mastered from the outside.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Firm evaluator",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "Mary speaks with assurance about charity, marriage, and male selfishness. Her judgments feel reliable to her, and she treats her moral perceptions as dependable.",
+          "key_moments": [
+            "ch6_evt02: She insists a past mistake should not condemn Bella for life",
+            "ch8_evt03: She rebukes Everard’s philosophy as selfish sophistry",
+            "ch10_evt03: Tom’s unhappy marriage seems to confirm her warnings"
+          ]
+        },
+        {
+          "phase": "Uncertainty under strain",
+          "chapter_range": [
+            11,
+            28
+          ],
+          "position_description": "The Monica/Widdowson crisis destabilizes her certainty. She cannot fully know who is guilty, what is misunderstanding, or how much her own intervention has contributed to harm.",
+          "key_moments": [
+            "ch11_evt01: Monica’s collapse makes Mary suspect her help may have harmed her",
+            "ch26_evt01: Widdowson’s accusation burdens Mary with suspicion and possible culpability",
+            "ch27_evt02: She admits only partial doubt and cannot claim full certainty",
+            "ch28_evt01: She remains skeptical but no longer secure in judgment"
+          ]
+        },
+        {
+          "phase": "Qualified trust and discretion",
+          "chapter_range": [
+            29,
+            30
+          ],
+          "position_description": "Monica’s confession clarifies the scandal, but instead of restoring simple certainty, it leaves Mary more aware of the fragility of moral knowledge and the wisdom of discretion.",
+          "key_moments": [
+            "ch29_evt01: Monica’s confession relieves suspicion and shows appearances were misleading",
+            "ch29_evt02: The episode reinforces her belief that rumor is unreliable",
+            "ch30_evt01: She decides not to interfere further and reproves herself for meddling"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary’s moral confidence is steadily chastened by experience. She does not abandon judgment, but she learns to pair it with humility, caution, and a stronger sense of epistemic limits."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "feminist temper",
+      "axis_name": "From practical feminism to chastened feminist conviction",
+      "pole_start": "Mary’s feminism begins as practical, work-centered, and socially reformist: it emphasizes training, independence, and humane improvement for women.",
+      "pole_end": "It ends as a still-committed but more tempered feminism, one that retains conviction while insisting on compassion, humility, and awareness of suffering and limits.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Practical reform",
+          "chapter_range": [
+            3,
+            7
+          ],
+          "position_description": "Mary believes women can be uplifted through work, better conditions, and companionship. Her feminism is constructive and enabling rather than punitive.",
+          "key_moments": [
+            "ch3_evt02: She is imagined as a practical path out of shop work for Monica",
+            "ch7_evt01: Monica’s improvement validates her reforming method",
+            "ch7_evt02: Monica’s growth strengthens belief in gradual uplift"
+          ]
+        },
+        {
+          "phase": "Heightened feminist confidence",
+          "chapter_range": [
+            8,
+            13
+          ],
+          "position_description": "Her feminism becomes more rhetorically forceful and ideologically vivid. She celebrates women’s strength, criticizes male selfishness, and speaks with greater public authority.",
+          "key_moments": [
+            "ch8_evt05: She and Rhoda share triumphant feminist confidence",
+            "ch13_evt04: She gives a militant public address on 'Woman as an Invader'",
+            "Chapter 13: public speech restores authority without restoring innocence"
+          ]
+        },
+        {
+          "phase": "Humane revision",
+          "chapter_range": [
+            13,
+            30
+          ],
+          "position_description": "Losses around Bella and Monica temper her militancy. She remains a feminist reformer, but now insists that strength must be joined to tenderness, and that reform must respect the limits of intervention.",
+          "key_moments": [
+            "ch13_evt03: She warns Rhoda against hardness and theory without feeling",
+            "ch13_evt05: She restores friendship through forgiveness",
+            "ch21_evt03: Her sleepless worry shows the emotional cost of reform",
+            "ch30_evt01: She decides not to intrude further into intimate affairs"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary’s feminism does not weaken; it matures. The arc moves from practical uplift, through a brief phase of militant confidence, to a more sober ethic of compassion and restraint."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Mary Barfoot",
+      "target_character": "Rhoda Nunn",
+      "dimension_label": "ideological intimacy",
+      "axis_name": "From stable feminist alliance to affectionate but strained partnership",
+      "pole_start": "Mary and Rhoda begin as high-trust feminist collaborators, united by shared work, mutual admiration, and a common reformist mission.",
+      "pole_end": "They remain deeply allied and affectionate, but the bond is complicated by disagreement, hurt, jealousy, and Mary’s growing awareness of Rhoda’s emotional vulnerability and secrecy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Shared mission",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "Mary and Rhoda are aligned in reformist purpose. Mary admires Rhoda but already senses her severity and tries to moderate it without breaking partnership.",
+          "key_moments": [
+            "ch6_evt01: Mary distinguishes her tenderness from Rhoda’s harsher stance",
+            "ch6_evt03: She asserts moderation without severing alliance",
+            "ch8_evt05: Their feminist confidence deepens mutual admiration"
+          ]
+        },
+        {
+          "phase": "Open strain",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "Bella’s crisis and Monica’s suffering create a rupture. Mary blames Rhoda’s severity, contemplates ending the partnership, and then seeks reconciliation by appealing to shared feeling.",
+          "key_moments": [
+            "ch11_evt02: Their difference over Monica reveals Mary’s protective temperament",
+            "ch13_evt02: Mary tells Rhoda their partnership may have to end",
+            "ch13_evt03: She warns Rhoda to preserve her womanhood in working for women",
+            "ch13_evt05: They reconcile"
+          ]
+        },
+        {
+          "phase": "Emotionally charged loyalty",
+          "chapter_range": [
+            14,
+            21
+          ],
+          "position_description": "Mary remains loyal and intimate, but the relationship becomes more emotionally complicated as Rhoda’s involvement with Everard stirs Mary’s jealousy, concern, and unresolved hurt.",
+          "key_moments": [
+            "ch14_evt03: Mary’s influence on Rhoda is acknowledged",
+            "ch17_evt02: Rhoda consults Mary about Everard, reinforcing closeness",
+            "ch21_evt01: Mary feels the relationship under strain",
+            "ch21_evt03: Rhoda’s secrecy deepens Mary’s alarm"
+          ]
+        },
+        {
+          "phase": "Careful support without control",
+          "chapter_range": [
+            26,
+            30
+          ],
+          "position_description": "Mary acts as a loyal confidante and warning voice, but increasingly refuses to manage Rhoda’s choices directly. She supports without dominating.",
+          "key_moments": [
+            "ch26_evt01: She fears her letter-writing may do harm",
+            "ch27_evt05: Mary gently questions Rhoda’s account",
+            "ch30_evt01: She protects Rhoda by withholding information rather than directing her"
+          ]
+        }
+      ],
+      "evidence_summary": "Rhoda remains Mary’s central relational bond, but the alliance becomes more layered: admiration and loyalty persist while conflict, jealousy, and restraint complicate the partnership."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Mary Barfoot",
+      "target_character": "Everard Barfoot",
+      "dimension_label": "moral trust",
+      "axis_name": "From distrust to guarded, emotionally charged ambivalence",
+      "pole_start": "Mary begins with low trust and moral resistance toward Everard, seeing him as clever, self-excusing, and unsafe.",
+      "pole_end": "She never fully trusts him, but her stance becomes more complex: partial reassessment, embarrassment, old attachment, and disciplined caution coexist without resolving into intimacy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Initial suspicion",
+          "chapter_range": [
+            8,
+            10
+          ],
+          "position_description": "Mary is wary of Everard’s charm and arguments about marriage. His philosophy and past conduct reinforce her distrust.",
+          "key_moments": [
+            "ch8_evt01: She invites him while remaining morally guarded",
+            "ch8_evt02: She notes his improved manners but not his reliability",
+            "ch8_evt03: She rebukes his selfish individualism",
+            "ch9_evt01: The old scandal further darkens her view"
+          ]
+        },
+        {
+          "phase": "Emotional reactivation",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "Everard’s declaration and Rhoda’s involvement make Mary’s response more charged. She remains skeptical, but old feeling and jealousy complicate her stance.",
+          "key_moments": [
+            "ch18_evt01: His reckless joking and public declaration of love strengthen her wariness",
+            "ch21_evt01: She remains distrustful as the crisis intensifies",
+            "ch21_evt03: Partial self-recognition of old feeling and jealousy"
+          ]
+        },
+        {
+          "phase": "Restraint without trust",
+          "chapter_range": [
+            26,
+            30
+          ],
+          "position_description": "Mary does not soften into trust; instead she becomes more careful, fair, and non-interventionist, keeping suspicion while refusing to overplay her role in the dispute.",
+          "key_moments": [
+            "ch26_evt01: Widdowson’s accusation makes her uneasy",
+            "ch27_evt03: She accepts Everard’s letter and urges Rhoda to trust it",
+            "ch29_evt01: Monica’s confession clears him of suspicion",
+            "ch30_evt01: She remains courteous but guarded, refusing to mediate his love affair"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary’s relation to Everard never becomes trusting, but it becomes psychologically richer: suspicion is joined by embarrassment, old attachment, and a disciplined refusal to let feeling dictate action."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Mary Barfoot",
+      "target_character": "Monica Madden / Monica Widdowson",
+      "dimension_label": "protective sympathy",
+      "axis_name": "From hopeful mentorship to worried, humane concern",
+      "pole_start": "Mary begins as a benevolent prospective mentor who sees Monica as someone she can help through work, training, and improved conditions.",
+      "pole_end": "She ends as a compassionate but chastened protector who recognizes Monica’s vulnerability and the limits of her own judgment and intervention.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Prospective mentorship",
+          "chapter_range": [
+            3,
+            7
+          ],
+          "position_description": "Mary is positioned as a practical benefactor and trainer for Monica, with warmth and encouragement. Monica’s improvement seems to confirm Mary’s method.",
+          "key_moments": [
+            "ch3_evt02: Mary is imagined as a path out of shop work",
+            "ch7_evt01: Monica’s lodgings and atmosphere improve her well-being",
+            "ch7_evt02: Monica’s growth confirms Mary’s influence"
+          ]
+        },
+        {
+          "phase": "Concern over dependence",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "Monica’s collapse and engagement deepen Mary’s worry; she sees Monica as vulnerable to economic and emotional dependence, and her sympathy is sharpened by guilt and uncertainty.",
+          "key_moments": [
+            "ch11_evt01: Monica’s collapse makes Mary question whether the move harmed her",
+            "ch11_evt02: Mary imagines marriage as a possible rescue",
+            "ch12_evt01: She initially sees Monica’s marriage as a workable compromise",
+            "ch13_evt01: Bella’s suicide intensifies Mary’s sense of precariousness"
+          ]
+        },
+        {
+          "phase": "Cautious sympathy and mediation",
+          "chapter_range": [
+            26,
+            29
+          ],
+          "position_description": "During the scandal, Mary becomes a careful intermediary, trying to prevent injustice and communicate facts without condemning Monica. Monica’s confession restores sympathy, but not the illusion of simple rescue.",
+          "key_moments": [
+            "ch26_evt01: Widdowson’s accusation alarms Mary",
+            "ch27_evt02: She cannot offer full certainty about Monica",
+            "ch28_evt01: Monica’s suffering deepens Mary’s protective concern",
+            "ch29_evt01: Monica’s confession relieves suspicion and elicits Mary’s sympathy"
+          ]
+        }
+      ],
+      "evidence_summary": "Mary’s bond with Monica is one of her clearest reforming relationships: it moves from hopeful help to protective concern, teaching Mary that sympathy cannot guarantee rescue and that care must coexist with humility."
+    }
+  ]
+}

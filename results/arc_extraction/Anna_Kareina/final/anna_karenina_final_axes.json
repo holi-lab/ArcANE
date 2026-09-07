@@ -1,0 +1,631 @@
+{
+  "character": "Anna Arkadyevna Karenina",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From socially managed composure to desperate self-assertion through attachment",
+          "set_b_axis": "From socially composed interdependence to desperate self-assertion and self-erasure",
+          "overlap_description": "Both track Anna's shift from socially skilled relational composure into increasingly desperate, destabilized agency under the pressure of attachment, shame, and collapse."
+        },
+        {
+          "set_a_axis": "From moral confidence to self-condemning shame",
+          "set_b_axis": "From humane forgiveness to moral absolutism and nihilistic despair",
+          "overlap_description": "Both describe the erosion of Anna's moral confidence into shame, self-condemnation, and finally a bleak, death-oriented moral outlook."
+        },
+        {
+          "set_a_axis": "From interpretive composure to destabilized, dream-haunted perception",
+          "set_b_axis": "From partial social self-awareness to lucid but destructive self-recognition",
+          "overlap_description": "Both concern Anna's increasing inner instability: her perception becomes more fractured, self-aware, and corrosive rather than clarifying or stabilizing."
+        },
+        {
+          "set_a_axis": "From stable mothering to fractured, desperate motherhood",
+          "set_b_axis": "From stable maternal tenderness to tragic, guilt-laden separation",
+          "overlap_description": "Both capture the same maternal arc: Seryozha initially grounds Anna, but motherhood becomes painful, divided, and finally defined by loss and guilt."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From interpretive composure to destabilized, dream-haunted perception",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From partial social self-awareness to lucid but destructive self-recognition",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From flirtatious fascination to consuming, destabilizing dependence",
+          "set_b_axis": "From guarded attraction to possessive dependence and mistrust",
+          "overlap_description": "Both describe the Anna-Vronsky bond as beginning in attraction and ending in intense dependence, jealousy, and mistrust."
+        },
+        {
+          "set_a_axis": "From formal respect to open hostility and moral severance",
+          "set_b_axis": "From socially functional marriage to emotional estrangement and repudiation",
+          "overlap_description": "Both track the marriage's movement from outwardly intact civility to complete emotional alienation and practical rupture."
+        },
+        {
+          "set_a_axis": "From secure maternal warmth to desperate, guilt-ridden longing",
+          "set_b_axis": "From stable maternal tenderness to tragic, guilt-laden separation",
+          "overlap_description": "Both treat Anna's relation to Seryozha as a stable maternal bond that becomes tragic through separation, longing, and guilt."
+        },
+        {
+          "set_a_axis": "From intimate sympathy to strained but enduring moral witness",
+          "set_b_axis": "From compassionate confidante to morally validating witness",
+          "overlap_description": "Both see Dolly as a key female confidante whose role shifts from warm sympathy to a more strained need for moral recognition and validation."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency communion",
+      "axis_name": "From socially composed interdependence to desperate self-assertion and self-erasure",
+      "pole_start": "Begins as socially radiant, relationally attuned, and oriented toward harmony, mediation, and emotional connection with others; her agency is expressed mainly through tactful social management rather than overt self-assertion.",
+      "pole_end": "Ends in a collapse of agency into fatalistic self-erasure: she can no longer sustain relational harmony, and her final acts become desperate assertions of control that sever communion altogether.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Socially fused mediator",
+          "chapter_range": [
+            18,
+            23
+          ],
+          "position_description": "Anna is warm, graceful, and socially responsive, using her agency to repair and soothe others rather than to assert separateness.",
+          "key_moments": [
+            "Consoles Dolly over Stiva's infidelity",
+            "Supports Dolly and Stiva's reconciliation",
+            "Manages the ball with poise while suppressing Vronsky-related disturbance"
+          ]
+        },
+        {
+          "phase": "Divided self and concealed attachment",
+          "chapter_range": [
+            28,
+            45
+          ],
+          "position_description": "She tries to preserve social order while privately recognizing desire, shame, and the impossibility of clean communion with Vronsky and Karenin.",
+          "key_moments": [
+            "Leaves Moscow to avoid Vronsky",
+            "Admits a hidden 'skeleton' and the seriousness of the affair",
+            "Confession and consummation produce shame and self-division"
+          ]
+        },
+        {
+          "phase": "Attachment becomes crisis-management",
+          "chapter_range": [
+            56,
+            124
+          ],
+          "position_description": "Her agency narrows into attempts to secure clarity, legitimacy, and emotional rescue, but she remains dependent on others and unable to stabilize her life.",
+          "key_moments": [
+            "Pregnancy intensifies the impossibility of her position",
+            "Presses Vronsky for commitment and fears Karenin's authority",
+            "Seeks divorce and practical settlement"
+          ]
+        },
+        {
+          "phase": "Defensive self-management and social performance",
+          "chapter_range": [
+            131,
+            180
+          ],
+          "position_description": "She regains outward control through cultivated domesticity and aesthetic management, but this is defensive rather than autonomous.",
+          "key_moments": [
+            "Creates a polished life with Vronsky",
+            "Manages jealousy and social appearances",
+            "Hosts Dolly while defending her choices"
+          ]
+        },
+        {
+          "phase": "Isolation and self-destruction",
+          "chapter_range": [
+            181,
+            220
+          ],
+          "position_description": "Agency deteriorates into panic, jealousy, and compulsive attempts to force certainty from Vronsky, ending in suicidal annihilation.",
+          "key_moments": [
+            "Oscillates between reconciliation and suspicion",
+            "Feels abandoned and humiliated in Moscow",
+            "Chooses death as escape and final assertion"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna begins as a highly relational figure whose agency is expressed through tact, mediation, and emotional attunement. Over time, attachment and social rupture convert that balance into defensive self-assertion, then crisis-driven control, and finally self-erasure. The arc is fundamentally ambivalent: communion narrows into dependency while agency becomes increasingly destructive."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral self-trust",
+      "axis_name": "From humane forgiveness to self-condemning shame and nihilism",
+      "pole_start": "Begins with a humane, forgiving moral imagination that believes reconciliation is possible and can distinguish human weakness from total moral failure.",
+      "pole_end": "Ends in self-condemnation and moral exhaustion, with life experienced as false, love as doomed, and death as the only remaining release.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Forgiving moral voice",
+          "chapter_range": [
+            19,
+            21
+          ],
+          "position_description": "Anna speaks confidently about forgiveness, adultery, and marital truth, presenting herself as morally perceptive and generous.",
+          "key_moments": [
+            "Tells Dolly that a man may love his family despite infidelity",
+            "Argues for forgiveness as a moral ideal",
+            "Supports reconciliation between Dolly and Stiva"
+          ]
+        },
+        {
+          "phase": "Shame enters moral self-understanding",
+          "chapter_range": [
+            28,
+            63
+          ],
+          "position_description": "She recognizes the gap between outward propriety and inner truth, and shame begins to contaminate her moral confidence.",
+          "key_moments": [
+            "Admits she feels 'nasty' and guilty",
+            "Recognizes Kitty's humiliation and her own role in it",
+            "Calls the affair wrong while still desiring it"
+          ]
+        },
+        {
+          "phase": "Open moral fracture",
+          "chapter_range": [
+            41,
+            124
+          ],
+          "position_description": "Her moral language becomes conflicted and practical: she seeks confession, divorce, and a bearable settlement, but cannot restore moral order.",
+          "key_moments": [
+            "Confesses love and hatred to Karenin",
+            "Seeks divorce as a practical route to legitimacy",
+            "Briefly acknowledges Karenin's suffering"
+          ]
+        },
+        {
+          "phase": "Self-condemnation hardens into fatalism",
+          "chapter_range": [
+            153,
+            220
+          ],
+          "position_description": "Shame becomes identity; she sees herself as morally contaminated, socially excluded, and beyond repair.",
+          "key_moments": [
+            "Feels guilty after seeing Seryozha",
+            "Interprets others as secretly hating her",
+            "Imagines death as the only release",
+            "Prays for forgiveness before the train death"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna's moral imagination begins generous and reconciling, but the affair steadily erodes that stance. Her ethics shift from forgiveness to defensive practicality and finally to self-condemning nihilism, as she loses faith in both social morality and the possibility of a livable reconciliation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "self-knowledge",
+      "axis_name": "From partial self-awareness to lucid but destructive self-recognition",
+      "pole_start": "Begins with limited awareness of her own emotional depth; she notices feelings and manages them tactically, but does not yet fully interpret their significance.",
+      "pole_end": "Ends with sharp, painful awareness of her jealousy, humiliation, falsity, and despair, though this clarity is not integrated into stable self-understanding and instead feeds collapse.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Perceptive but unreflective",
+          "chapter_range": [
+            18,
+            33
+          ],
+          "position_description": "She is highly perceptive about others and partially aware of her own discomfort, but still treats her reactions as manageable social disturbances rather than signs of deeper conflict.",
+          "key_moments": [
+            "Notices Vronsky's effect on her but does not name it",
+            "Recognizes discomfort around his presence and tries to redirect conversation",
+            "Minimizes troubling events as insignificant"
+          ]
+        },
+        {
+          "phase": "Defensive recognition",
+          "chapter_range": [
+            28,
+            63
+          ],
+          "position_description": "She begins to admit hidden truth: she has a 'skeleton,' is not innocent, and is living in falsehood. Self-knowledge grows, but remains defensive and incomplete.",
+          "key_moments": [
+            "Confesses to Dolly that she is not entirely clear or innocent",
+            "Recognizes concealment as a conscious strategy",
+            "Names herself as Vronsky's mistress"
+          ]
+        },
+        {
+          "phase": "Fragmented lucidity",
+          "chapter_range": [
+            84,
+            122
+          ],
+          "position_description": "She becomes more aware of her divided life, her dependence, and the impossibility of reconciling her roles, but this awareness is unstable and often mediated by panic or others' interpretations.",
+          "key_moments": [
+            "Recognizes her own self-deception about the future",
+            "Sees that she cannot be both wife/mother and lover without rupture",
+            "Briefly acknowledges Karenin's suffering"
+          ]
+        },
+        {
+          "phase": "Cynical self-clarity",
+          "chapter_range": [
+            212,
+            220
+          ],
+          "position_description": "She sees herself and the world with brutal clarity: jealousy, humiliation, social falsity, and the decay of love are all named, but this lucidity is destructive rather than healing.",
+          "key_moments": [
+            "Recognizes recurring cycles of jealousy and self-reproach",
+            "Interprets society as hypocritical and hateful",
+            "Concludes that love decays into aversion",
+            "Moves from insight into fatalistic self-destruction"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna's self-awareness steadily increases across the novel, but it does not become stabilizing wisdom. Instead, she moves from partial social awareness to explicit recognition of her falsehood, then to fragmented lucidity, and finally to a devastating clarity that confirms her despair."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "maternal identity",
+      "axis_name": "From stable mothering to fractured, guilt-laden separation",
+      "pole_start": "Begins as a woman whose maternal feeling provides warmth, identity, and emotional grounding alongside her other roles.",
+      "pole_end": "Ends as a mother defined by loss, exclusion, guilt, and impossible longing, with ordinary maternal presence no longer sustainable.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Maternal grounding",
+          "chapter_range": [
+            20,
+            33
+          ],
+          "position_description": "Seryozha restores Anna's serenity and gives her a sense of innocence and moral steadiness.",
+          "key_moments": [
+            "Retreats to the nursery and regains calm",
+            "Uses thoughts of Seryozha to stabilize herself",
+            "Shows his photograph as a source of reassurance"
+          ]
+        },
+        {
+          "phase": "Maternal conflict with passion",
+          "chapter_range": [
+            56,
+            105
+          ],
+          "position_description": "Motherhood becomes a site of conflict, guilt, and fear as Seryozha stands in the way of leaving Karenin and securing a new life.",
+          "key_moments": [
+            "Hears Seryozha nearby and breaks off intimacy with Vronsky",
+            "Begs not to lose her son",
+            "Fears Karenin will take him away"
+          ]
+        },
+        {
+          "phase": "Exclusion and mediated contact",
+          "chapter_range": [
+            147,
+            176
+          ],
+          "position_description": "She is denied direct access to Seryozha and experiences motherhood as socially policed and humiliating.",
+          "key_moments": [
+            "Requests to see Seryozha through Lidia Ivanovna",
+            "Receives refusal",
+            "Feels superfluous in the nursery with her daughter"
+          ]
+        },
+        {
+          "phase": "Brief reunion and renewed fracture",
+          "chapter_range": [
+            153,
+            220
+          ],
+          "position_description": "Reunions with Seryozha briefly restore her sense of self, but they are immediately followed by separation, jealousy, and guilt.",
+          "key_moments": [
+            "Secretly visits and embraces Seryozha",
+            "Tells him to love his father",
+            "Leaves without giving him the toys",
+            "Recalls him in self-condemnation before death"
+          ]
+        }
+      ],
+      "evidence_summary": "Motherhood is one of Anna's most important stable identities, but it becomes increasingly fractured by her affair and by social exclusion. The arc moves from maternal grounding to maternal desperation, then to exclusion and guilt, and finally to a tragic fusion of love, loss, and self-reproach."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Anna Arkadyevna Karenina",
+      "target_character": "Alexey Vronsky",
+      "dimension_label": "desire trust",
+      "axis_name": "From guarded attraction to possessive dependence and mistrust",
+      "pole_start": "Begins with intrigued, socially contained attraction: she is drawn to Vronsky but tries to keep the interaction decorous, distant, and under control.",
+      "pole_end": "Ends in obsessive attachment mixed with jealousy, suspicion, and desperate dependence; she needs him absolutely but trusts him less and less.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Charged curiosity",
+          "chapter_range": [
+            18,
+            23
+          ],
+          "position_description": "She notices Vronsky's attention, feels excitement, but still attempts to maintain social distance and composure.",
+          "key_moments": [
+            "Railway accident and omen-like foreboding",
+            "Ball scenes where she withholds recognition and manages contact"
+          ]
+        },
+        {
+          "phase": "Openly conflicted attachment",
+          "chapter_range": [
+            28,
+            45
+          ],
+          "position_description": "Attraction becomes explicit and morally charged; she confesses, consummates, and begins to feel the bond as both bliss and shame.",
+          "key_moments": [
+            "Leaves Moscow to avoid him, then admits the attraction",
+            "Confession and consummation",
+            "Begins to conceal the affair from Karenin"
+          ]
+        },
+        {
+          "phase": "Dependence under pressure",
+          "chapter_range": [
+            56,
+            124
+          ],
+          "position_description": "She relies on Vronsky for emotional and practical rescue, but his hesitation and her own fear make trust unstable.",
+          "key_moments": [
+            "Pregnancy and demand for commitment",
+            "Presses him for certainty after the race accident",
+            "Confronts him and Karenin over the affair"
+          ]
+        },
+        {
+          "phase": "Domestic possession",
+          "chapter_range": [
+            131,
+            180
+          ],
+          "position_description": "In Italy and later at home, she is deeply attached and proud of their life together, but jealousy and the need to control his attention intensify.",
+          "key_moments": [
+            "Cultivated domestic life abroad",
+            "Jealousy of the nurse",
+            "Need to secure Dolly's approval and Vronsky's attention"
+          ]
+        },
+        {
+          "phase": "Jealous collapse",
+          "chapter_range": [
+            181,
+            220
+          ],
+          "position_description": "Trust breaks down into repeated cycles of accusation, fear of abandonment, and retaliatory fantasy. She remains attached, but the attachment is now corrosive and unstable.",
+          "key_moments": [
+            "Fears Vronsky's coldness and possible infidelity",
+            "Interprets delays and ordinary remarks as betrayal",
+            "Uses jealousy to test him",
+            "Ends in suicidal despair"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna's relationship with Vronsky is the central relational arc of the novel. It moves from guarded attraction to full passion, then into dependence, possessiveness, and mistrust. The bond remains intense throughout, but trust steadily erodes while need and jealousy intensify."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Anna Arkadyevna Karenina",
+      "target_character": "Alexey Alexandrovitch Karenin",
+      "dimension_label": "intimacy alienation",
+      "axis_name": "From socially functional marriage to emotional estrangement and repudiation",
+      "pole_start": "Begins as a marriage that is formally intact and socially functional, with Anna still capable of civility, tact, and limited respect.",
+      "pole_end": "Ends in complete emotional alienation: Karenin becomes a legal, moral, and punitive presence rather than a husband in any meaningful sense.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Formal civility",
+          "chapter_range": [
+            18,
+            33
+          ],
+          "position_description": "She treats Karenin as part of ordinary domestic life, still able to smile at his oddities and maintain outward composure.",
+          "key_moments": [
+            "Returns to Petersburg and resumes domestic routine",
+            "Writes to Dolly while preserving the marriage facade"
+          ]
+        },
+        {
+          "phase": "Concealment and moral distance",
+          "chapter_range": [
+            41,
+            63
+          ],
+          "position_description": "As the affair deepens, Karenin becomes a figure to evade, lie to, and emotionally exclude.",
+          "key_moments": [
+            "Hides the affair behind 'impenetrable armor of falsehood'",
+            "Feels disgust at his kiss and moral seriousness",
+            "Confesses only when forced by crisis"
+          ]
+        },
+        {
+          "phase": "Legal and social obstacle",
+          "chapter_range": [
+            84,
+            123
+          ],
+          "position_description": "He is no longer a husband in Anna's emotional world but the source of legal captivity, shame, and custody conflict.",
+          "key_moments": [
+            "Karenin's letter and control over Seryozha",
+            "Confrontations over divorce and the child",
+            "Anna's fear and aversion intensify"
+          ]
+        },
+        {
+          "phase": "Final repudiation",
+          "chapter_range": [
+            212,
+            220
+          ],
+          "position_description": "Karenin is absorbed into the larger structure of social falsehood and oppression; he is no longer a person she can relate to, only part of the world she wants to escape.",
+          "key_moments": [
+            "She sees him as part of the trap and humiliation",
+            "His legal and moral authority remains, but intimacy is gone"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna's relation to Karenin steadily cools from formal marriage into total alienation. The marriage remains legally and socially consequential, but emotionally it is emptied out and finally experienced as oppressive, false, and punitive."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Anna Arkadyevna Karenina",
+      "target_character": "Seryozha",
+      "dimension_label": "maternal bond",
+      "axis_name": "From stable maternal tenderness to tragic, guilt-laden separation",
+      "pole_start": "Begins as a warm, stable, loving maternal attachment that anchors Anna's identity and emotional life.",
+      "pole_end": "Ends as a painful, irreparable bond marked by longing, guilt, and the knowledge that she has lost ordinary access to her son.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Maternal anchor",
+          "chapter_range": [
+            20,
+            33
+          ],
+          "position_description": "Seryozha is a source of warmth, identity, and moral reassurance; thinking of him restores Anna's composure.",
+          "key_moments": [
+            "Shows his photograph and uses maternal feeling to stabilize herself",
+            "Returns to domestic order through thoughts of him"
+          ]
+        },
+        {
+          "phase": "Maternal crisis",
+          "chapter_range": [
+            56,
+            85
+          ],
+          "position_description": "Pregnancy and marital collapse make motherhood a source of pain, shame, and impossible choice.",
+          "key_moments": [
+            "Fears the consequences of pregnancy",
+            "Tries to leave with Seryozha",
+            "Feels the child as a moral witness and burden"
+          ]
+        },
+        {
+          "phase": "Secret reunion and rupture",
+          "chapter_range": [
+            147,
+            155
+          ],
+          "position_description": "She desperately seeks and briefly regains contact with Seryozha, but the reunion only intensifies grief because she must leave him again.",
+          "key_moments": [
+            "Plans secret visit",
+            "Reunion with Seryozha and overwhelming tenderness",
+            "Forced departure and renewed separation"
+          ]
+        },
+        {
+          "phase": "Absence and internalization",
+          "chapter_range": [
+            188,
+            209
+          ],
+          "position_description": "Seryozha becomes an absent, painful center of longing; Anna's maternal bond persists but is now mediated by letters, intermediaries, and the knowledge that he is learning to suppress memory of her.",
+          "key_moments": [
+            "Writes to see him",
+            "Feels wounded by denial of access",
+            "Hears that he is learning to forget her"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna's maternal bond with Seryozha is one of the novel's most stable relationships, but it becomes increasingly tragic. It begins as emotional grounding and ends as a source of irreparable grief, guilt, and longing, with the bond surviving only as pain and memory."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Anna Arkadyevna Karenina",
+      "target_character": "Darya Alexandrovna (Dolly)",
+      "dimension_label": "sympathetic intimacy",
+      "axis_name": "From compassionate confidante to morally validating witness",
+      "pole_start": "Begins with warm, compassionate intimacy: Anna is a consoling interpreter of Dolly's marital crisis and a trusted emotional presence.",
+      "pole_end": "Ends with Dolly as a hoped-for moral witness and sympathetic refuge, though the intimacy is strained by Anna's need for validation and by Dolly's moral distance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Compassionate counselor",
+          "chapter_range": [
+            19,
+            21
+          ],
+          "position_description": "Anna comforts Dolly, interprets Stiva charitably, and helps her think through forgiveness.",
+          "key_moments": [
+            "Consoles Dolly over Stiva's infidelity",
+            "Frames forgiveness as possible and humane"
+          ]
+        },
+        {
+          "phase": "Confessional ally",
+          "chapter_range": [
+            28,
+            63
+          ],
+          "position_description": "Dolly becomes the person Anna confesses to, seeking understanding, reassurance, and moral cover.",
+          "key_moments": [
+            "Admits her 'skeleton' to Dolly",
+            "Uses Dolly as a sympathetic listener during crisis"
+          ]
+        },
+        {
+          "phase": "Moral witness and refuge",
+          "chapter_range": [
+            174,
+            181
+          ],
+          "position_description": "Anna seeks Dolly's approval of her life with Vronsky and her refusal of more children, wanting Dolly to validate her choices.",
+          "key_moments": [
+            "Welcomes Dolly to the estate",
+            "Argues for the legitimacy of her life and suffering",
+            "Seeks sympathy for her position"
+          ]
+        },
+        {
+          "phase": "Strained dependence",
+          "chapter_range": [
+            212,
+            218
+          ],
+          "position_description": "Dolly becomes a refuge in crisis, but Anna also feels exposed and judged before her, making the relationship both intimate and defensive.",
+          "key_moments": [
+            "Turns to Dolly when Vronsky seems absent",
+            "Feels shame and seeks support",
+            "Uses Dolly as a witness to her suffering"
+          ]
+        }
+      ],
+      "evidence_summary": "Anna and Dolly move from mutual sympathy to a more complicated intimacy in which Anna seeks not just comfort but moral validation. Dolly remains one of the few people Anna trusts, but the relationship becomes increasingly burdened by Anna's need to be understood and excused."
+    }
+  ]
+}

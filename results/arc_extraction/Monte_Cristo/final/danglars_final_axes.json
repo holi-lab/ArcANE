@@ -1,0 +1,538 @@
+{
+  "character": "Danglars",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-protective mastery to shattered dependence",
+          "set_b_axis": "From covert self-assertion to defensive isolation",
+          "overlap_description": "Both describe Danglars as beginning with manipulative, self-protective agency and ending in a diminished, defensive state under pressure. A emphasizes collapse into dependence; B emphasizes retreat into isolation, but the core arc is the same."
+        },
+        {
+          "set_a_axis": "From financial invulnerability to exposed fragility",
+          "set_b_axis": "From composed opportunism to exposed panic",
+          "overlap_description": "Both track the erosion of his confidence in wealth, credit, and control. A stresses vulnerability and psychological breaking; B stresses panic and loss of safety, which are closely aligned."
+        },
+        {
+          "set_a_axis": "From opportunistic suspicion to terrified moral recognition",
+          "set_b_axis": "From amoral rationalization to threatened self-justification",
+          "overlap_description": "Both concern his moral self-understanding under pressure. A allows a partial guilt/punishment recognition; B argues he mostly evades guilt. The shared core is that consequences force some form of self-reckoning, even if incomplete."
+        },
+        {
+          "set_a_axis": "From patriarchal control to household collapse",
+          "set_b_axis": "From manager of appearances to man overwhelmed by hidden forces",
+          "overlap_description": "Both capture the breakdown of his domestic and social control. A focuses on the family sphere specifically; B broadens it to control of appearances and hidden instability, which is a compatible generalization."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-protective mastery to shattered dependence",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From financial invulnerability to exposed fragility",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From opportunistic suspicion to terrified moral recognition",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From patriarchal control to household collapse",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From covert self-assertion to defensive isolation",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From composed opportunism to exposed panic",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From amoral rationalization to threatened self-justification",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From manager of appearances to man overwhelmed by hidden forces",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From jealous rivalry to covert enmity and fear",
+          "set_b_axis": "From envious rival to feared avenger",
+          "overlap_description": "Both identify the Dantès relationship as the foundational hostile arc: envy becomes betrayal, then fear of retaliation and punishment."
+        },
+        {
+          "set_a_axis": "From useful acquaintance to feared avenger",
+          "set_b_axis": "From useful contact to overpowering threat",
+          "overlap_description": "Both describe Monte Cristo as moving from socially useful and not fully legible to a dominant, intimidating force who controls Danglars's fate."
+        },
+        {
+          "set_a_axis": "From transactional marriage to open domestic hostility",
+          "set_b_axis": "From social partnership to cold abandonment",
+          "overlap_description": "Both track the deterioration of the marriage into suspicion, emotional severance, and abandonment. A emphasizes hostility; B emphasizes cold instrumental breakup."
+        },
+        {
+          "set_a_axis": "From instrumental fatherhood to filial rupture",
+          "set_b_axis": "From paternal control to failed command",
+          "overlap_description": "Both capture Danglars's loss of authority over Eugénie, from treating her as a transactional asset to being openly resisted and rejected."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From jealous rivalry to covert enmity and fear",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From useful acquaintance to feared avenger",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From transactional marriage to open domestic hostility",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From instrumental fatherhood to filial rupture",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From envious rival to feared avenger",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From useful contact to overpowering threat",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From social partnership to cold abandonment",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From paternal control to failed command",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-control",
+      "axis_name": "From predatory mastery to defensive retreat",
+      "pole_start": "Starts as a highly agentic, self-protective manipulator who uses secrecy, money, and social leverage to dominate outcomes and harm rivals.",
+      "pole_end": "Ends still oriented toward self-preservation, but in a diminished form: isolated, frightened, and no longer able to sustain mastery, only retreat and survival.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Predatory self-assertion",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Danglars begins by converting resentment into strategy, engineering Dantès's ruin while preserving plausible deniability and treating relationships as instruments.",
+          "key_moments": [
+            "anonymous denunciation of Dantès",
+            "covert betrayal of a rival",
+            "sees social life as a field for manipulation"
+          ]
+        },
+        {
+          "phase": "Defensive mastery under pressure",
+          "chapter_range": [
+            6,
+            11
+          ],
+          "position_description": "He still tries to control money, household, and information, but the control becomes brittle and reactive as Monte Cristo and domestic conflict expose his limits.",
+          "key_moments": [
+            "horse and credit humiliation",
+            "tries to manage Eugénie and Madame Danglars",
+            "uses caution, appearances, and leverage to preserve status"
+          ]
+        },
+        {
+          "phase": "Retreat and collapse",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "His agency narrows into panic and survival behavior: he destroys papers, gathers cash, prepares to flee, and is finally broken by captivity and exposure.",
+          "key_moments": [
+            "Andrea scandal triggers panic",
+            "passport and cash preparations",
+            "Vampa captivity and forced spending",
+            "psychological collapse"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that Danglars begins as a calculating, controlling operator and ends stripped of effective mastery. The merged reading emphasizes a shift from predatory agency to frightened self-preservation rather than any growth in communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "confidence-vulnerability",
+      "axis_name": "From composed opportunism to exposed panic",
+      "pole_start": "Starts with high confidence in his own cunning, financial intelligence, and ability to manage danger without consequence.",
+      "pole_end": "Ends in exposed vulnerability: cornered, frightened, and aware that money, credit, and appearances no longer guarantee safety.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Controlled schemer",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "He believes he can act maliciously while remaining secure, treating danger as something he can calculate around.",
+          "key_moments": [
+            "orchestrates Dantès's denunciation",
+            "preserves a sense of professional safety",
+            "treats success as proof of control"
+          ]
+        },
+        {
+          "phase": "Threatened banker",
+          "chapter_range": [
+            6,
+            9
+          ],
+          "position_description": "Monte Cristo humiliates and outmaneuvers him, while financial shocks and social embarrassment undermine his confidence in wealth as protection.",
+          "key_moments": [
+            "horse and credit humiliation",
+            "telegraph loss",
+            "public stings to his status"
+          ]
+        },
+        {
+          "phase": "Crisis and panic",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Confidence collapses into panic as scandal, family resistance, and exposure close in; he shifts from managing risk to escaping it.",
+          "key_moments": [
+            "Eugénie's resistance",
+            "Andrea scandal",
+            "preparations to flee",
+            "captivity and forced humiliation"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged evidence shows a steady erosion of Danglars's belief that wealth and calculation make him safe. The end state is not just vulnerability but panic under conditions he can no longer control."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "moral reckoning",
+      "axis_name": "From rationalized malice to defensive self-justification",
+      "pole_start": "Starts by knowingly acting from hatred while recasting wrongdoing as prudence and strategy.",
+      "pole_end": "Ends still evasive, but under intense pressure from consequences; he oscillates between fear of punishment and attempts to frame collapse as misfortune rather than moral reckoning.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Rationalized wrongdoing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He understands the malicious nature of his actions but suppresses moral hesitation, treating betrayal as a legitimate tactic.",
+          "key_moments": [
+            "anonymous denunciation of Dantès",
+            "self-disguised hatred as prudence"
+          ]
+        },
+        {
+          "phase": "Practical fear, weak guilt",
+          "chapter_range": [
+            2,
+            11
+          ],
+          "position_description": "As danger accumulates, he becomes more aware of exposure, but his response is mainly practical: he fears retaliation, scandal, and financial instability more than ethical judgment.",
+          "key_moments": [
+            "fears Dantès's return",
+            "tracks hidden liabilities",
+            "shifts blame to Monte Cristo",
+            "uses information as leverage"
+          ]
+        },
+        {
+          "phase": "Punitive self-awareness without repentance",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "In crisis, he briefly senses punishment and guilt, but this does not become stable repentance; he continues to externalize responsibility and seek escape.",
+          "key_moments": [
+            "panic over scandal",
+            "accusatory letter to Madame Danglars",
+            "believes he is being punished",
+            "begs for mercy while fleeing responsibility"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A sees a partial moral recognition; Set B sees continued evasion. The merged result treats Danglars's moral arc as ambivalent: he is forced into moments of self-recognition, but they remain unstable and largely defensive."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "domestic authority",
+      "axis_name": "From patriarchal control to household collapse",
+      "pole_start": "Starts as a man who assumes he can manage family life through money, rank, and command.",
+      "pole_end": "Ends as a failed patriarch whose wife and daughter no longer recognize his authority and whose household has ceased to function as a stable unit.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Assumed household command",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "He treats domestic life as an extension of financial power, expecting obedience from Madame Danglars and compliance from Eugénie.",
+          "key_moments": [
+            "horse affair exposes strain with Madame Danglars",
+            "accuses his wife of draining his fortune",
+            "manages the household as a status display"
+          ]
+        },
+        {
+          "phase": "Authority contested",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "His family stops functioning as a controllable unit. Eugénie rejects his marriage scheme, Madame Danglars becomes emotionally severed, and his authority becomes merely performative.",
+          "key_moments": [
+            "Eugénie's refusal",
+            "pressure around Andrea marriage",
+            "public scandal and domestic strain"
+          ]
+        },
+        {
+          "phase": "Household collapse",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "The family sphere disintegrates into abandonment and humiliation, leaving Danglars without obedience, loyalty, or domestic legitimacy.",
+          "key_moments": [
+            "Eugénie's departure",
+            "cold letter to Madame Danglars",
+            "flight preparations and ruined household"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Danglars's family life is a major measure of his decline. The merged axis keeps the specific domestic focus from Set A while incorporating Set B's broader emphasis on control, display, and collapse."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Danglars",
+      "target_character": "Edmond Dantès",
+      "dimension_label": "hostility-fear",
+      "axis_name": "From envious betrayal to enduring fear of retribution",
+      "pole_start": "Starts as covert envy and resentment toward Dantès, whom Danglars sees as a rival whose rise must be blocked.",
+      "pole_end": "Ends as persistent fear of Dantès as an avenger and source of punishment, even when Dantès is absent or masked by Monte Cristo.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Jealous rivalry and betrayal",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Danglars channels resentment into conspiracy, helping denounce Dantès and participating in the betrayal that destroys him.",
+          "key_moments": [
+            "anonymous denunciation of Dantès",
+            "desire to block promotion and marriage",
+            "co-authoring the accusation"
+          ]
+        },
+        {
+          "phase": "Retreating dread",
+          "chapter_range": [
+            2,
+            13
+          ],
+          "position_description": "Once Dantès survives imprisonment, Danglars treats him as a possible avenger and buries the past in fear, later reading Monte Cristo's actions as Dantès's revenge.",
+          "key_moments": [
+            "fears Dantès may return",
+            "abandons the sea and flees to Spain",
+            "interprets Monte Cristo as linked to Dantès's retaliation"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Danglars's foundational hostile relationship. The merged reading preserves both the betrayal structure and the long tail of fear that shapes his later psychology."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Danglars",
+      "target_character": "Monte Cristo",
+      "dimension_label": "suspicion-intimidation",
+      "axis_name": "From useful contact to overpowering threat",
+      "pole_start": "Starts as a socially useful but not fully legible newcomer whom Danglars tries to assess and manage.",
+      "pole_end": "Ends as a superior force Danglars cannot read, control, or safely oppose, and who effectively dominates his downfall.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Testing the newcomer",
+          "chapter_range": [
+            6,
+            7
+          ],
+          "position_description": "Danglars judges Monte Cristo's solvency and status, but is already being outclassed and embarrassed by his poise and hidden power.",
+          "key_moments": [
+            "horse episode",
+            "credit arrangement",
+            "Monte Cristo's social and financial superiority"
+          ]
+        },
+        {
+          "phase": "Information asymmetry",
+          "chapter_range": [
+            8,
+            10
+          ],
+          "position_description": "Monte Cristo increasingly appears to know too much and to manipulate hidden histories, making Danglars wary, dependent, and defensive.",
+          "key_moments": [
+            "insinuations about buried secrets",
+            "probing about Fernand and scandals",
+            "tactical use of Monte Cristo's hints"
+          ]
+        },
+        {
+          "phase": "Overmatched and cornered",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "Danglars is no longer merely suspicious; he is intimidated by Monte Cristo's control of events and forced into crisis management and flight.",
+          "key_moments": [
+            "financial destabilization",
+            "collapse of marriage strategy",
+            "preparations to flee",
+            "captivity and punitive humiliation"
+          ]
+        }
+      ],
+      "evidence_summary": "Monte Cristo becomes the dominant intelligence in Danglars's world. The relationship moves from cautious utility to intimidation, helplessness, and eventual submission."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Danglars",
+      "target_character": "Madame Danglars",
+      "dimension_label": "marital control",
+      "axis_name": "From transactional marriage to cold abandonment",
+      "pole_start": "Starts as a marriage of convenience in which she is part of his social display and financial world, with limited warmth and strong instrumentalism.",
+      "pole_end": "Ends as a discarded liability, blamed for household ruin and cut off from trust, intimacy, and shared future.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Managed domesticity",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "He remains controlling and dismissive, but the marriage still functions as part of his public image and household management.",
+          "key_moments": [
+            "household tension over finances and social life",
+            "Madame Danglars as part of the display",
+            "control through suspicion and leverage"
+          ]
+        },
+        {
+          "phase": "Cold severance",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "In crisis, he writes to her in a cold, accusatory way and effectively abandons her as he prepares to flee.",
+          "key_moments": [
+            "accusatory letter",
+            "blaming her for ruin",
+            "departure preparations"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship is less central than Danglars's ties to Dantès, Monte Cristo, or Eugénie, but both sets agree it shows a clear movement from instrumental domestic partnership to abandonment under pressure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Danglars",
+      "target_character": "Eugénie Danglars",
+      "dimension_label": "paternal authority",
+      "axis_name": "From instrumental fatherhood to filial rupture",
+      "pole_start": "Starts as a father who treats Eugénie as a transactional asset within his marriage strategy.",
+      "pole_end": "Ends with complete rupture: Eugénie rejects his plans, sees through his motives, and leaves him without emotional allegiance or domestic control.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Transactional parenting",
+          "chapter_range": [
+            8,
+            12
+          ],
+          "position_description": "He manages Eugénie's marriage as a financial and social arrangement, assuming paternal control will suffice.",
+          "key_moments": [
+            "marriage negotiations with Andrea",
+            "household surveillance",
+            "treating her as part of the family display"
+          ]
+        },
+        {
+          "phase": "Open resistance",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Eugénie resists directly, and Danglars is forced into defensive improvisation; his authority no longer guarantees obedience.",
+          "key_moments": [
+            "Eugénie's refusal",
+            "pressure to accept Andrea",
+            "collapse of the marriage plan"
+          ]
+        },
+        {
+          "phase": "Final severing",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "Her departure confirms his inability to command the family sphere and turns her into a sign of his broader collapse.",
+          "key_moments": [
+            "Eugénie's departure",
+            "Danglars's panic and flight preparations"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets identify Eugénie as a decisive site of Danglars's loss of authority. The merged axis preserves the specific filial rupture while integrating the broader collapse of command."
+    }
+  ]
+}

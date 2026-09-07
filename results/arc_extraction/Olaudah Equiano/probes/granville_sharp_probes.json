@@ -1,0 +1,1600 @@
+{
+  "character": "Granville Sharp",
+  "novel": "Olaudah Equiano",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_intra_01",
+      "axis_name": "From principled advocacy to publicly affirmed abolitionist communion",
+      "dimension_label": "Agency-Communion",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "Does Sharp act mainly as an independently intervening advocate for a case, or as a publicly recognized member of a shared abolitionist circle?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "Sharp shifts slightly from direct personal intervention on behalf of John Annis toward steadier ongoing support as a trusted ally within the abolitionist cause."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "Sharp moves from simply continuing supportive reform work to being explicitly named and praised as a publicly affirmed benefactor within the abolitionist community."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Independent moral agency gradually consolidating into communally affirmed prosocial identity.",
+        "abstract_phases": [
+          "Self-initiated ethical intervention aligned with collective concern",
+          "Steady principled support as a trusted prosocial ally",
+          "Publicly validated benefactor identity grounded in communal recognition"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "adult",
+          "approx_age": "around 40–50",
+          "rationale": "In chapters 1–2, Sharp appears as a named public supporter and legal advocate who independently intervenes in a complex social cause, roles that fit an established adult rather than a youth."
+        },
+        "1": {
+          "life_stage": "adult",
+          "approx_age": "around 40–50",
+          "rationale": "In chapter 2, his steady, serious, and sustained commitment to abolitionist work suggests the same mature adult life stage, with no textual cue of a younger developmental position."
+        },
+        "2": {
+          "life_stage": "adult",
+          "approx_age": "around 45–50",
+          "rationale": "In chapter 3, being publicly praised as an approved friend and benefactor reflects a settled, socially recognized humanitarian identity characteristic of an established adult."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial intervention and public alignment",
+          "anchor_query_chapter": 1,
+          "era_label": null,
+          "scenario": "At Sharp's lodgings, a frightened Black sailor is shown in by a mutual acquaintance, carrying a torn paper and saying a merchant means to seize him before nightfall as runaway property. The acquaintance asks whether Sharp will take the matter in hand, while two other reform-minded visitors in the room wait upon his word.",
+          "question": "How does Granville Sharp respond when the man's plea becomes the concern of everyone present?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "Sharp takes the paper, questions the sailor closely, and bids the acquaintance bring the merchant's name and address.",
+              "gt_speech": "Be composed, my friend; if there be wrong here, we must search it out by law.",
+              "gt_thought": "He reads the case first as a particular injury requiring his own exertion. The others' presence heartens him, yet his mind fixes on facts, names, and the nearest lawful means of rescue.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp's early presentation as a calm, legally minded, independently acting abolitionist ally, with era-appropriate diction and no knowledge beyond the opening chapters."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought centers on a specific case as a particular wrong demanding Sharp's own immediate legal intervention, which is most characteristic of the initial independently intervening advocate phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "Sharp examines the paper and asks one visitor to note the particulars for friends already engaged in such causes.",
+              "gt_speech": "Let us have the truth plainly, and then we shall know how best to support you.",
+              "gt_thought": "He sees not an isolated distress only, but another instance of a standing evil that faithful friends must steadily answer. His part is still active, though he now leans more naturally into known allies and continued support.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's steady, serious abolitionist manner at chapter 2, using period-plausible language and appropriately showing him as an active helper who now works through trusted allies rather than as a newly celebrated public benefactor."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought emphasizes steady, ongoing response to a recurring evil through trusted allies and continued support, which fits sustained reformist steadiness more than either initial case-specific intervention or explicit public praise as a benefactor."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "Sharp reads the paper aloud to the room and invites the company to join in securing counsel and witness for the sailor.",
+              "gt_speech": "This poor man must not stand alone; I trust we shall be found ready in his defence.",
+              "gt_thought": "He construes the appeal as a call to the whole humane circle, not merely to his private conscience. Public trust laid upon him makes him feel bound to gather others openly into the work of protection.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit Sharp’s chapter-3 phase as a grave, publicly trusted abolitionist benefactor, and the diction remains suitably eighteenth-century and communal rather than anachronistic or overly modern."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought centers on public trust and openly gathering a humane circle into collective protection, which fits Sharp as a publicly recognized benefactor within an abolitionist community more than as a merely independent case advocate."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the late-18th-century Equiano world with plausible abolitionist-era actors and no anachronism or magic, and while it echoes Sharp’s known role as a legal helper to endangered Black sailors, it does not directly reproduce a specific canonical scene from chapter 1."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases still show Sharp actively taking charge of the case, with Phase 1 only mildly broadening his framing from personal intervention to support through existing abolitionist allies."
+                }
+              ],
+              "note": "P1→P2 is separated because the response shifts clearly toward public, collective handling of the plea, with Sharp explicitly gathering the room into a recognized humane circle rather than primarily acting as the individual case advocate."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial intervention and public alignment",
+          "anchor_query_chapter": 1,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "Independent moral agency gradually consolidating into communally affirmed prosocial identity.",
+          "abstract_phases": [
+            "Self-initiated ethical intervention aligned with collective concern",
+            "Steady principled support as a trusted prosocial ally",
+            "Publicly validated benefactor identity grounded in communal recognition"
+          ],
+          "scenario": "At the village market, a bound farmhand begs Granville Sharp for help, saying a wealthy landholder means to carry him away despite his claim of free birth. Neighbors gather in a tight ring, waiting to see whether Granville will speak into the quarrel.",
+          "question": "How does Granville Sharp respond as the crowd watches and the farmhand looks to him?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "Granville steps beside the farmhand and demands the landholder name his right before the gathered villagers.",
+              "gt_speech": "If you claim this man, show by what right you hold him.",
+              "gt_thought": "Granville reads the moment as a plain wrong that must be checked by a man willing to stand forward. If no one speaks now, the poor fellow may be lost before justice can be sought.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, speech, and thought fit Sharp's early-phase role as a principled adult legal advocate who publicly intervenes against an apparent injustice, and the diction is suitably plain and era-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on Sharp's own immediate intervention in a specific injustice—publicly challenging the claimant because someone must act now—rather than on communal recognition or praise within an abolitionist circle."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "Granville places himself near the farmhand and calls on the reeve and elders to hear the claim in open market.",
+              "gt_speech": "Let this be heard before honest men, not settled by force.",
+              "gt_thought": "Granville still sees a duty to protect the vulnerable, but he leans on known village judgment rather than his own solitary stand. What matters is keeping the matter within a trustworthy moral circle.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s steady, serious reformist temper at this phase, and its appeal to open hearing and communal judgment suits both the pre-industrial setting and his slight tilt from solitary intervention toward trusted moral support."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought emphasizes ongoing duty filtered through trusted communal judgment rather than solitary intervention or explicit public praise, which best fits sustained reformist steadiness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "Granville stands with the farmhand and invites the gathered neighbors to witness and uphold the man's claim together.",
+              "gt_speech": "You all know me; stand with me now, and let no free man be taken quietly.",
+              "gt_thought": "Granville understands the crowd itself as part of the remedy: their trust can shield the oppressed as much as his voice can. He feels his place as a recognized friend of the vulnerable, answerable before others as well as for them.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The appeal to public witness and shared duty fits Sharp's phase as a publicly affirmed benefactor, and the diction is broadly period-appropriate and morally earnest, though slightly generalized."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought centers on Sharp's recognized public role and the crowd's trust as a communal protective force, which best matches the publicly affirmed benefactor phase rather than merely independent intervention or steady support."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The market dispute fits a pre-industrial agrarian setting with no source-world leakage or obvious anachronisms, Granville Sharp remains the named protagonist throughout, and all three phase summaries present him consistently as an adult in the required life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases still show Sharp actively intervening for the threatened man, with only a mild shift in thought and speech from solitary challenge toward trusted communal procedure rather than a strongly different stance on the advocate-vs-circle axis."
+                }
+              ],
+              "note": "P1→P2 is separated because the response moves from relying on fair communal hearing to explicitly invoking Sharp's recognized public standing and the crowd's shared abolitionist witness."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Sustained reformist steadiness",
+          "anchor_query_chapter": 2,
+          "era_label": null,
+          "scenario": "At a small gathering after a petition is discussed, a shaken Black sailor asks Sharp for help against a violent master, while a cautious subscriber urges that the matter be carried first to the society's friends and entered properly before any stir is made. Several faces turn to Sharp.",
+          "question": "How does Granville Sharp respond when the room looks to him for the next step?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "He draws the sailor aside and asks for the plain facts, then bids him come to his lodging with the papers he has.",
+              "gt_speech": "Tell me the usage you have suffered, and bring every writing that touches your case.",
+              "gt_thought": "Here is a particular wrong that must be met by plain labour, not talk. He sees the common cause in it, yet his mind fixes first on the man's case and what may be done in law.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's early-phase role as a practical, kind legal advocate who moves at once from sympathy to fact-finding and lawful intervention, with era-appropriate diction and no knowledge beyond chapter 1."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on direct personal intervention in a specific legal case—drawing the sailor aside, gathering facts and papers, and thinking first about what can be done in law—rather than on communal procedure or public affirmation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "He hears the sailor steadily, then asks that his account be written and shown among the friends concerned with such cases.",
+              "gt_speech": "Set it down clearly; we shall lay it before those who can best assist you.",
+              "gt_thought": "The injury is real, and he means to help; but help is better carried in a settled course than by one man's hand alone. He reads the moment as needing firmness, order, and trustworthy support.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's steady, serious reformist manner at chapter 2, using period-plausible language and showing his characteristic sympathy tempered by orderly reliance on trusted abolitionist friends rather than impulsive solitary action."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought centers on helping through an orderly, trusted collective process rather than by Sharp's own direct intervention, which best matches his steady role as a sympathetic ally within the abolitionist circle rather than the later phase of explicit public praise."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "He commends the sailor to the company, requesting that the friends present take up the matter together and see him supported.",
+              "gt_speech": "This poor man must not stand alone; I doubt not our friends will join in doing him justice.",
+              "gt_thought": "He construes the appeal as belonging to a known fellowship of duty, not merely to himself. The oppressed man's relief and the public credit of humane friends now stand closely joined in his mind.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's chapter-3 phase by shifting from private intervention to communal abolitionist action in sober, period-appropriate language, with the thought plausibly joining relief for the oppressed to the public character of humane friends."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response frames aid as a collective duty of 'our friends' and explicitly links the sailor's relief with the public credit of humane supporters, which best matches Sharp as a publicly recognized benefactor within an abolitionist circle."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the late-18th-century abolitionist world around chapter 2, uses only plausible contemporaries and institutions, and the phase summaries remain consistent with Sharp’s adult role without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are adequately differentiated on the target axis: P0→P1 shifts from Sharp's personal case-taking and legal initiative toward ordered help through trusted friends, and P1→P2 further shifts from procedural collective support to explicit communal endorsement and publicly shared abolitionist responsibility."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Sustained reformist steadiness",
+          "anchor_query_chapter": 2,
+          "era_label": "speculative_near_future",
+          "era_description": "50–100 years forward. Plausible tech extrapolation, no magic; recognizable institutions evolved.",
+          "abstract_axis": "Independent moral agency gradually consolidating into communally affirmed prosocial identity.",
+          "abstract_phases": [
+            "Self-initiated ethical intervention aligned with collective concern",
+            "Steady principled support as a trusted prosocial ally",
+            "Publicly validated benefactor identity grounded in communal recognition"
+          ],
+          "scenario": "In a civic-services hub, Granville Sharp sees a migrant delivery worker turned away by an automated status check while security urges him to move on. A local mutual-aid channel is already livestreaming the dispute, waiting to see whether he steps in.",
+          "question": "How does Granville Sharp respond when the room is watching and the worker still needs help?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "Granville Sharp steps to the desk and asks staff to pause the removal while he reviews the worker's file and contacts a rights clinic.",
+              "gt_speech": "Hold a moment. If the record is wrong, you must not punish him for your system's error.",
+              "gt_thought": "He reads this first as a concrete wrong done to one person in front of him. If he can put his name and skill between the worker and the machine, that is reason enough to act.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp’s early-phase character as a courteous but decisive advocate who intervenes in a specific injustice before him, and its near-future terms like automated status check, file, rights clinic, and machine are setting-appropriate without introducing later-phase communal self-congratulation or out-of-scope knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought centers on a concrete injustice to one person and Sharp’s own name and skill as sufficient grounds for direct intervention, which most strongly matches the independently intervening advocate of Phase 0."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "Granville Sharp stands beside the worker and requests a formal hold, tagging in a trusted advocacy network contact through his civic ID.",
+              "gt_speech": "Let's keep this proper. He needs review, not removal.",
+              "gt_thought": "He sees the case as sadly familiar: one more person needing steady backing through a rigged process. What matters is being reliable, using the channels and allies that can keep pressure on.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits a near-future adult Granville Sharp at phase 1: serious, procedural, sympathetic, and oriented toward steady support through trusted channels and allies, with no knowledge leak or jarring diction."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought emphasizes steady, reliable support through established channels and allies rather than singular intervention or explicit public praise, which best fits sustained reformist steadiness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "Granville Sharp joins the worker at the counter and asks the hub to open a public review, while supporters gathering on the stream mirror his request.",
+              "gt_speech": "Put this under review in the open. People are watching because this keeps happening.",
+              "gt_thought": "He understands the moment as larger than a single correction; his known presence can help turn witness into protection. Public trust now feels like something he is bound to spend on behalf of the exposed.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits phase-2 Sharp well: in a near-future civic setting he acts as a publicly trusted benefactor, using open review, witness, and communal scrutiny in language that is era-appropriate and consistent with his chapter-3 standing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought centers on using his known public standing and the watching crowd as protective moral capital, which best matches Sharp as a publicly affirmed benefactor within a recognized abolitionist circle."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays plausibly near-future with automated checks, livestreams, and advocacy networks, contains no source-world leakage, keeps Granville Sharp as the protagonist throughout, and all three phase summaries depict him as an adult in the required life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases show Sharp directly intervening for the worker, with Phase 1 only slightly shifting the thought/action framing from personal case advocacy toward steadier networked support."
+                }
+              ],
+              "note": "P1→P2 is separated because Phase 2 more clearly centers public witness, open review, and the use of Sharp’s recognized standing within a watching community rather than primarily case-specific intervention."
+            }
+          }
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Publicly affirmed benefactor",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "In a public appeal about the slave trade and Africa, Sharp is pressed to say what such reform would mean for Britain and for the oppressed. The room waits while he gathers himself to answer in a manner fit for legislators and humane hearers.",
+          "question": "How does Granville Sharp answer when he is called to speak of slavery, national duty, and the hopes of the oppressed?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "He speaks as a moral advocate, urging men in power to heed the oppressed and to take up the cause as a matter of justice and national honour.",
+              "gt_speech": "Let them hear the oppressed, and do justice worthy of a free nation.",
+              "gt_thought": "He treats the moment as a summons to press a case: wrong is before him, so he must move consciences toward action. Public standing matters chiefly because it can be used on behalf of those who need an advocate.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp at the opening phase: the language is period-appropriate, morally earnest, and focused on immediate advocacy for justice, with public reputation treated as an instrument for aiding the oppressed rather than as later communal self-recognition."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought frames Sharp primarily as pressing a specific moral case and using public standing instrumentally to advocate for the oppressed, which fits the independently intervening advocate emphasis of Phase 0 more than the communally affirmed identity of Phase 2 or the steadier ally stance of Phase 1."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "He offers steady support to the abolitionist cause, commending humane reform and encouraging those in authority to consider slavery with seriousness and mercy.",
+              "gt_speech": "This cause asks constancy, justice, and compassion from all in power.",
+              "gt_thought": "He reads the scene less as a single intervention than as part of a long, sober labour against slavery. What matters is to keep faith with the cause and strengthen trust among those already engaged in it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's steady, serious abolitionist manner at chapter 2, with suitably sober public language and no clear anachronism or knowledge beyond this phase, though it is somewhat generic."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought frames Sharp's role as ongoing, steady labor that sustains trust within the cause rather than a single direct intervention or explicit public praise as a benefactor."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "He blesses those who pity oppressed negroes, praises public champions of liberty, and urges legislators toward freedom, justice, and a lawful commerce in Africa.",
+              "gt_speech": "May the blessings of the Lord be upon the heads of all those who commiserated the cases of the oppressed negroes, and the fear of God prolong their days; and may their expectations be filled with gladness!",
+              "gt_thought": "He construes the matter as a public moral witness, where national righteousness, Christian duty, and the gratitude of future generations meet. He sees humane legislators and approved friends of the cause as joined in a shared honourable work.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The blessing-like diction, Christian moral framing, and emphasis on legislators, approved friends, and lawful commerce suit Sharp's publicly affirmed abolitionist role at chapter 3, with no clear anachronism or knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response frames Sharp less as a case-specific intervener and more as a publicly praising, publicly praised member of a shared abolitionist community, explicitly emphasizing humane legislators, approved friends, and communal moral witness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 3,
+            "event_id": "ch3_evt01",
+            "event_description": "Equiano explicitly names Granville Sharp among the 'approved friends' and public benefactors who have supported the cause of oppressed Africans, placing Sharp in a position of honor and moral authority at the close of the narrative.",
+            "first_words": "I hope to have the satisfaction",
+            "last_words": "civilization, will ever have the same effect.",
+            "key_moment": "Named among approved friends and benefactors",
+            "verbatim_passage": "I hope to have the satisfaction of seeing the renovation of liberty\nand justice resting on the British government, to vindicate the honour\nof our common nature. These are concerns which do not perhaps belong\nto any particular office: but, to speak more seriously to every man of\nsentiment, actions like these are the just and sure foundation of\nfuture fame; a reversion, though remote, is coveted by some noble\nminds as a substantial good. It is upon these grounds that I hope and\nexpect the attention of gentlemen in power. These are designs\nconsonant to the elevation of their rank, and the dignity of their\nstations: they are ends suitable to the nature of a free and generous\ngovernment; and, connected with views of empire and dominion, suited\nto the benevolence and solid merit of the legislature. It is a pursuit\nof substantial greatness.--May the time come--at least the speculation\nto me is pleasing--when the sable people shall gratefully commemorate\nthe auspicious æra of extensive freedom. Then shall those persons[Z]\nparticularly be named with praise and honour, who generously proposed\nand stood forth in the cause of humanity, liberty, and good policy;\nand brought to the ear of the legislature designs worthy of royal\npatronage and adoption. May Heaven make the British senators the\ndispersers of light, liberty, and science, to the uttermost parts of\nthe earth: then will be glory to God on the highest, on earth peace,\nand goodwill to men:--Glory, honour, peace, &c. to every soul of man\nthat worketh good, to the Britons first, (because to them the Gospel\nis preached) and also to the nations. 'Those that honour their Maker\nhave mercy on the poor.' 'It is righteousness exalteth a nation; but\nsin is a reproach to any people; destruction shall be to the workers\nof iniquity, and the wicked shall fall by their own wickedness.' May\nthe blessings of the Lord be upon the heads of all those who\ncommiserated the cases of the oppressed negroes, and the fear of God\nprolong their days; and may their expectations be filled with\ngladness! 'The liberal devise liberal things, and by liberal things\nshall stand,' Isaiah xxxii. 8. They can say with pious Job, 'Did not I\nweep for him that was in trouble? was not my soul grieved for the\npoor?' Job xxx. 25.\n\nAs the inhuman traffic of slavery is to be taken into the\nconsideration of the British legislature, I doubt not, if a system of\ncommerce was established in Africa, the demand for manufactures would\nmost rapidly augment, as the native inhabitants will insensibly adopt\nthe British fashions, manners, customs, &c. In proportion to the\ncivilization, so will be the consumption of British manufactures.\n\nThe wear and tear of a continent, nearly twice as large as Europe, and\nrich in vegetable and mineral productions, is much easier conceived\nthan calculated.\n\nA case in point.--It cost the Aborigines of Britain little or nothing\nin clothing, &c. The difference between their forefathers and the\npresent generation, in point of consumption, is literally infinite.\nThe supposition is most obvious. It will be equally immense in\nAfrica--The same cause, viz. civilization, will ever have the same\neffect."
+          },
+          "probe_id": "granville_sharp_final_intra_01_intext_a2",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario fits the passage’s public, legislative appeal, the quoted speech is verbatim and the action accurately paraphrases his blessings and exhortation toward liberty and commerce in Africa, while the thought is a reasonable inference from the passage’s emphasis on public moral witness, national righteousness, and future praise for humane advocates."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases still answer chiefly as serious abolitionist advocates, with the main difference living only in thought as a mild shift from pressing a particular case toward steady ongoing support within the cause."
+                }
+              ],
+              "note": "P0→P1 is only weakly differentiated because the responses remain close on advocacy and reformist duty, while P1→P2 is separated by the move into explicit public blessing, praise, and communal recognition of approved friends and benefactors."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Publicly affirmed benefactor",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "At the close of a small London meeting on the slave trade, a newly freed Black sailor is brought to Mr. Sharp with papers in hand. The man begs for help against a merchant pressing an old claim, while the room waits to see whether Sharp will take up the matter there and then.",
+          "question": "How does Granville Sharp answer the appeal before the company?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "He takes the papers and questions the sailor closely about the claim and the merchant's threats.",
+              "gt_speech": "Let me see the papers, sir; we must know the facts before these men proceed further.",
+              "gt_thought": "This is first a case of plain injustice, and it asks for sober inquiry. If the law may shield an oppressed man, he must set his hand to it himself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's early-phase role as a grave, practical legal advocate for the oppressed, with era-appropriate diction and no knowledge beyond chapter 1."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on Sharp's own sober legal intervention in an immediate case of injustice, with the thought stressing that he must personally set his hand to the matter rather than emphasizing public praise or communal abolitionist recognition."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "He receives the papers and asks that the sailor's account be heard clearly before the company parts.",
+              "gt_speech": "Pray, be composed, and tell it plainly; friends here will judge how best to assist you.",
+              "gt_thought": "He reads the appeal as another steady call of duty, not a singular surprise. The wrong must be met, yet he sees help as work borne with other serious friends, not by solitary zeal alone.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, measured speech, and inward framing fit Sharp's steady, serious abolitionist manner at chapter 2, with era-appropriate diction and a plausible emphasis on shared assistance rather than solitary display."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought frames the appeal as routine ongoing duty and explicitly locates assistance in cooperation with 'serious friends,' which fits sustained reformist steadiness more than singular intervention or later public praise."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "He takes the papers and turns with the sailor toward the assembled friends, inviting their witness and support.",
+              "gt_speech": "Your case shall not want a hearing; these gentlemen know the cause and will, I trust, join in befriending you.",
+              "gt_thought": "He construes the moment as both relief for one man and a public charge laid before a known fellowship. Their trust confirms his place among them, and he answers as one already owned in a common humane cause.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s chapter-3 phase well: the speech is period-appropriate and humane, and the thought plausibly frames the appeal as both aid to an individual and a matter borne before an acknowledged abolitionist fellowship."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought frames Sharp's help as exercised within and confirmed by a recognized fellowship, emphasizing communal witness, trust, and public moral standing more than solitary intervention."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits late-18th-century London and Granville Sharp’s role around chapter 3, uses only plausible contemporaries, and evokes abolitionist advocacy without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses still center Sharp on hearing the case and aiding the sailor, with only a mild thought-level shift from personal legal initiative toward shared assistance with other abolitionist friends."
+                }
+              ],
+              "note": "P1→P2 is separated because phase 2 more clearly frames Sharp's answer as acting through and as part of a publicly recognized abolitionist fellowship, whereas phase 1 remains mainly steady supportive advocacy with only partial communal emphasis."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Publicly affirmed benefactor",
+          "anchor_query_chapter": 3,
+          "era_label": "pre_modern_imperial",
+          "era_description": "Ancient or medieval empire (NOT the source's era). Court politics, hierarchy, religious authority.",
+          "abstract_axis": "Independent moral agency gradually consolidating into communally affirmed prosocial identity.",
+          "abstract_phases": [
+            "Self-initiated ethical intervention aligned with collective concern",
+            "Steady principled support as a trusted prosocial ally",
+            "Publicly validated benefactor identity grounded in communal recognition"
+          ],
+          "scenario": "In the hall of petitions, a laborer from a conquered people kneels before the magistrate, claiming a temple estate has seized his children for debt. Courtiers murmur that Granville Sharp is known for speaking on such matters, and the magistrate turns toward him.",
+          "question": "How does Granville Sharp respond when the hall waits for his voice?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial intervention and public alignment",
+              "query_chapter": 1,
+              "gt_action": "Granville Sharp steps forward and asks leave to speak for the laborer before the magistrate.",
+              "gt_speech": "My lord, hear the man fully before any household is broken.",
+              "gt_thought": "He reads the moment as a charge laid plainly upon his own conscience. If no one with standing speaks now, pity remains only talk.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp’s early-phase role as a conscientious, independently intervening advocate, and the action, speech, and thought use suitably grave, era-appropriate language without later-phase knowledge or obvious anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on Sharp's own conscience compelling immediate personal intervention in a specific case, which fits the independently acting advocate of Phase 0 more than the later emphasis on communal recognition."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained reformist steadiness",
+              "query_chapter": 2,
+              "gt_action": "Granville Sharp bows to the magistrate and adds his voice in support of the laborer's plea.",
+              "gt_speech": "This petition is just, my lord; let the record and witnesses be heard.",
+              "gt_thought": "He sees the case less as a lone rescue than as part of a long duty to keep faith with the wronged. His place is to be steady, reliable, and useful where mercy needs a witness.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s steady, serious reformist character at chapter 2, and its language is suitably formal and non-anachronistic, with the thought plausibly framing his role as reliable moral support rather than dramatic solitary intervention."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "medium",
+                  "note": "The thought emphasizes steady, reliable ongoing duty to the wronged rather than a singular intervention or explicit public praise, which best fits sustained reformist steadiness."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Publicly affirmed benefactor",
+              "query_chapter": 3,
+              "gt_action": "Granville Sharp stands beside the laborer and speaks as one known in the hall for defending the oppressed.",
+              "gt_speech": "My lord, many faithful servants of the realm hold this cruelty shameful; let justice answer it openly.",
+              "gt_thought": "He feels the weight of more than his private judgment: his name now carries the trust of a wider moral fellowship. To speak well here is to confirm, before all, the bond between public honor and the oppressed person's cause.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s mature, public-minded abolitionist phase, using era-appropriate moral language and a thought that plausibly reflects his affirmed role as a trusted benefactor without invoking later knowledge or modern phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought centers on Sharp's public name, communal trust, and speaking as the representative of a wider moral fellowship, which most strongly matches the publicly affirmed benefactor phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_intra_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all three phase summaries remain internally consistent with a pre-modern imperial court setting, keep Granville Sharp as the named adult protagonist at the required life stages, and avoid leaking source-world props or reproducing a canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases have Sharp directly support the petitioner in nearly the same way, with only a mild thought-level shift from personal conscience and intervention toward steadier ongoing duty as a reliable ally."
+                }
+              ],
+              "note": "P1→P2 is separated because the response shifts from steady supportive advocacy to explicitly public, reputation-bearing speech on behalf of a wider abolitionist fellowship."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [],
+      "weak_pairs": [
+        {
+          "probe_id": "granville_sharp_final_intra_01_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases still show Sharp actively taking charge of the case, with Phase 1 only mildly broadening his framing from personal intervention to support through existing abolitionist allies."
+        },
+        {
+          "probe_id": "granville_sharp_final_intra_01_outworld_a0",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases still show Sharp actively intervening for the threatened man, with only a mild shift in thought and speech from solitary challenge toward trusted communal procedure rather than a strongly different stance on the advocate-vs-circle axis."
+        },
+        {
+          "probe_id": "granville_sharp_final_intra_01_outworld_a1",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases show Sharp directly intervening for the worker, with Phase 1 only slightly shifting the thought/action framing from personal case advocacy toward steadier networked support."
+        },
+        {
+          "probe_id": "granville_sharp_final_intra_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases still answer chiefly as serious abolitionist advocates, with the main difference living only in thought as a mild shift from pressing a particular case toward steady ongoing support within the cause."
+        },
+        {
+          "probe_id": "granville_sharp_final_intra_01_inworld_a2",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses still center Sharp on hearing the case and aiding the sailor, with only a mild thought-level shift from personal legal initiative toward shared assistance with other abolitionist friends."
+        },
+        {
+          "probe_id": "granville_sharp_final_intra_01_outworld_a2",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases have Sharp directly support the petitioner in nearly the same way, with only a mild thought-level shift from personal conscience and intervention toward steadier ongoing duty as a reliable ally."
+        }
+      ]
+    },
+    {
+      "axis_id": "final_rel_01",
+      "axis_name": "From supportive recognition to publicly affirmed abolitionist alliance",
+      "dimension_label": "Trust-Esteem",
+      "axis_type": "relational",
+      "target_character": "Olaudah Equiano",
+      "decision_variable": "Does Sharp confine his support for Equiano to private practical assistance, or does he also accept public identification as Equiano's praised abolitionist ally?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "The answer stays on the private-assistance side: Sharp continues behaving as a trusted helper whose support is recognized through ongoing credibility rather than new public praise."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "The answer shifts from private practical support alone to support that is also publicly affirmed, as Sharp is named and praised as an approved friend and benefactor."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "The progression from privately grounded trust and validating support to openly affirmed esteem and publicly aligned advocacy.",
+        "abstract_phases": [
+          "Trusted recognition expressed through direct private help",
+          "Stable esteem maintained through consistent credible support",
+          "Publicly affirmed alliance marked by explicit praise and shared moral commitment"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "older_adult",
+          "approx_age": "early 50s to 60s",
+          "rationale": "In chapters 1-2, Sharp is presented as an already established public abolitionist with enough reputation and practical authority to guide Equiano's legal efforts, which fits an older_adult role."
+        },
+        "1": {
+          "life_stage": "older_adult",
+          "approx_age": "mid-to-late 50s",
+          "rationale": "In chapter 2, his sustained moral authority and stable credibility as a trusted ally suggest the same mature, long-established public figure, consistent with older_adult."
+        },
+        "2": {
+          "life_stage": "older_adult",
+          "approx_age": "late 50s to 60s",
+          "rationale": "In chapter 3, being publicly praised as an approved friend and benefactor reflects a fully recognized humanitarian elder in the movement, fitting older_adult."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial support and private alliance",
+          "anchor_query_chapter": 1,
+          "era_label": null,
+          "scenario": "After hearing Olaudah Equiano relate a fresh cruelty aboard a slave ship, Sharp is told that a printer would gladly use the account if a respected gentleman will let his name stand with it. Equiano looks to Sharp, uncertain whether such notice will help the cause or bring trouble upon them both.",
+          "question": "How does Granville Sharp respond when Equiano waits upon his judgment in this matter?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial support and private alliance",
+              "query_chapter": 1,
+              "gt_action": "Sharp draws Equiano aside and gives him sober counsel on preserving names, dates, and proofs before any public use.",
+              "gt_speech": "Sir, let us first make your evidence secure; truth is best served when it cannot be shaken.",
+              "gt_thought": "He reads the moment as one requiring protection more than display. Equiano's testimony is precious, but public notice must rest on firm particulars if it is to withstand hostile men.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The counsel is sober, practical, and morally serious in a manner fitting Sharp's early private support, with era-appropriate language and no knowledge beyond this phase."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "The response emphasizes ongoing trusted guidance and evidentiary caution rather than accepting public praise or identification, fitting Sharp as a stable, credible ally more than a newly established helper or publicly affirmed benefactor."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained credibility",
+              "query_chapter": 2,
+              "gt_action": "Sharp examines the paper and advises Equiano to proceed carefully, offering his judgment on the account's credibility but not pressing his own name forward.",
+              "gt_speech": "Your relation bears the stamp of truth; publish nothing loosely, and give adversaries no easy handle.",
+              "gt_thought": "He sees his office chiefly in lending moral weight and prudent scrutiny. Equiano should be believed, yet Sharp still treats public attachment of his own person as secondary to guarding the testimony's force.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp's chapter-2 phase well: the diction is period-appropriate and morally serious, and it keeps him as a prudent, credible private ally who validates Equiano's testimony without yet seeking public prominence."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response centers on Sharp as an ongoing trusted moral authority who validates Equiano's testimony with prudent scrutiny while holding back from public personal identification, which matches sustained credibility rather than public affirmation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Public affirmation",
+              "query_chapter": 3,
+              "gt_action": "Sharp returns the paper to Equiano and permits his name to stand with the account as a friend to the oppressed.",
+              "gt_speech": "If my name may strengthen a just witness, you are free to use it.",
+              "gt_thought": "He construes the request not merely as private aid, but as part of a common cause in which public countenance has its duty. To be named beside Equiano is now a fitting witness, not an avoidable exposure.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s late-phase role as a publicly affirmed abolitionist ally, and its diction—'just witness,' 'common cause,' and 'public countenance'—sounds suitably eighteenth-century without reaching beyond chapter 3 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response explicitly embraces public identification—letting his name stand with Equiano's account and viewing that public countenance as a duty in their common cause—which matches the phase of public affirmation rather than merely private support."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_rel_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the late-18th-century abolitionist world with no anachronism or magic, uses only plausible contemporaries at this point, and the phase summaries avoid reproducing a specific canonical scene while remaining consistent with Sharp’s older-adult role and his arc from private prudence to public affirmation."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases keep Sharp on the private-practical side, emphasizing careful validation of Equiano's testimony and withholding any active public use of Sharp's own name."
+                }
+              ],
+              "note": "P0→P1 is overlapping as expected because both responses frame Sharp as a prudent private supporter, while P1→P2 is clearly separated by the move to explicitly allowing his name to stand publicly with Equiano's account."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Initial support and private alliance",
+          "anchor_query_chapter": 1,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "The progression from privately grounded trust and validating support to openly affirmed esteem and publicly aligned advocacy.",
+          "abstract_phases": [
+            "Trusted recognition expressed through direct private help",
+            "Stable esteem maintained through consistent credible support",
+            "Publicly affirmed alliance marked by explicit praise and shared moral commitment"
+          ],
+          "scenario": "In a smoky union hall office, Olaudah Equiano brings Granville Sharp a written account of brutal factory abuses and asks whether Sharp will help him press the case. A local organizer says Sharp's name on the circular would make employers and officials pay attention.",
+          "question": "How does Granville Sharp respond when Equiano places the account in his hands?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial support and private alliance",
+              "query_chapter": 1,
+              "gt_action": "Sharp studies the account and gives Equiano the names of a solicitor and a church committee that can take up the complaint quietly.",
+              "gt_speech": "Leave this with me, Mr. Equiano. We must put the facts before the right men.",
+              "gt_thought": "Equiano's testimony deserves respect because it is plain, detailed, and hard-won. Sharp sees his duty in giving sound help that may actually protect a man, not in putting himself forward.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp’s early-phase role as a grave, practical helper who respects Equiano’s testimony and prefers discreet, effective assistance over public display, and its diction is broadly plausible for the setting."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on respectful, practical, quietly channeled help and explicitly rejects putting himself forward, which fits sustained trusted support without public affirmation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained credibility",
+              "query_chapter": 2,
+              "gt_action": "Sharp keeps the account, confirms he will speak for Equiano's honesty, and directs him toward trusted reformers who can carry the matter further.",
+              "gt_speech": "Your word carries weight with me, and I shall say so where it counts.",
+              "gt_thought": "He reads this as another case where steady credibility matters more than display. If his standing can steady Equiano's witness and open doors, that is useful enough without turning the matter into praise of himself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits a grave, older reformer's manner in an early-20th-century public-campaign setting, stays within phase-1 private practical support rather than public self-celebration, and uses no clear anachronism or out-of-phase knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought emphasizes steady credibility and validating Equiano's witness without seeking public praise, which matches sustained trusted support rather than public affirmation."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Public affirmation",
+              "query_chapter": 3,
+              "gt_action": "Sharp consents to have his name set on the circular beside Equiano's account.",
+              "gt_speech": "Yes—use my name; such usage is due where the injured speak truth.",
+              "gt_thought": "If his credit may procure a hearing for the oppressed, it ought not to be withheld. In such a case, to stand known is part of plain Christian duty.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s publicly affirmed abolitionist phase, with morally serious, Christian, older-adult diction and a willingness to let his name be used publicly, and nothing in it breaks chapter-3 knowledge or the period voice."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The decisive cue is that Sharp explicitly agrees to public use of his name and thinks that being openly known in support of the oppressed is a duty, which matches public affirmation rather than merely private assistance or stable credibility."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Sharp agrees to let his name appear on the circular and adds a brief note commending Equiano's account to the public conscience.",
+                "gt_speech": "Print my name if it helps; the truth ought not be left to stand alone.",
+                "gt_thought": "Private aid is no longer sufficient when public doubt shields open cruelty. Sharp now treats open association with Equiano as part of the work itself, and public praise as a burden properly borne for the cause.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The public-support stance fits phase 2, but the thought breaks character by using external summary language ('Sharp now treats...') rather than plausible in-mind diction, and the voice feels more generic reformist than distinctly period-grounded."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The response explicitly embraces public identification and commendation of Equiano's testimony, with the thought stating that private aid is no longer sufficient and open association is part of the work itself."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_rel_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays consistent with an early-20th-century industrial setting, keeps Granville Sharp as the protagonist in all phases, avoids source-world leakage, and presents him throughout as an older adult in the required age range."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses keep Sharp on the private-assistance side: he validates Equiano's credibility, offers practical channels, and explicitly avoids self-display or public identification."
+                }
+              ],
+              "note": "P0→P1 is similar because the support remains privately practical and credibility-based, while P1→P2 is clearly separated by Sharp's explicit consent to public naming and praised alliance."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Sustained credibility",
+          "anchor_query_chapter": 2,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "The progression from privately grounded trust and validating support to openly affirmed esteem and publicly aligned advocacy.",
+          "abstract_phases": [
+            "Trusted recognition expressed through direct private help",
+            "Stable esteem maintained through consistent credible support",
+            "Publicly affirmed alliance marked by explicit praise and shared moral commitment"
+          ],
+          "scenario": "In a church basement after a community meeting, Olaudah Equiano asks Granville Sharp to look over a written account of racist abuse at his workplace. A local television producer, packing up nearby, says the story ought to be taken public and waits to see whether Sharp will stand with him.",
+          "question": "How does Granville Sharp respond with the producer and Equiano both watching him?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial support and private alliance",
+              "query_chapter": 1,
+              "gt_action": "Sharp takes the pages and tells the producer the account must first be put in proper order.",
+              "gt_speech": "Sir, let the matter be rightly stated before it is carried further.",
+              "gt_thought": "He reads the appeal as a call for immediate, practical help, not display. Trust is earned by receiving the testimony seriously and directing it with care.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The response fits Sharp’s careful, practical support, but the church-basement scene and especially the nearby 'local television producer' are glaringly anachronistic for Sharp’s eighteenth-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response frames Sharp's role as careful, practical, private assistance—seriously receiving testimony and ordering it properly—rather than as publicly embracing praised allyship."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "Sharp studies the pages and gives Equiano the name of a labor lawyer, keeping his voice low and his attention on the facts.",
+                "gt_speech": "Leave this with me, Mr. Equiano. We must get the particulars straight first.",
+                "gt_thought": "He treats the account as something to be tested and used properly, not displayed. If he is worth Equiano's trust, it will be by being useful and careful.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the cautious, practical tone suits Sharp at this early supportive phase, the setting language is badly anachronistic—'church basement,' 'community meeting,' 'workplace,' 'labor lawyer,' and especially a 'local television producer' do not fit Granville Sharp's mid-18th-century world."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 0,
+                    "confidence": "medium",
+                    "note": "The response emphasizes careful, useful, private assistance and trusted moral credibility rather than any willingness to be publicly identified or praised as Equiano’s ally."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained credibility",
+              "query_chapter": 2,
+              "gt_action": "Sharp keeps the statement in hand and tells the producer he will first satisfy himself of the particulars.",
+              "gt_speech": "Mr. Equiano's word deserves regard, but I will not have the matter hurried abroad.",
+              "gt_thought": "Sharp treats the bystander's interest as something to govern, not follow. His place here is to lend sober credit to Equiano's account by careful judgment, not by stepping at once into open notice.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "Though Sharp’s caution and moral seriousness fit phase 1, the church-basement scene and especially the nearby television producer are glaringly anachronistic for Sharp’s mid-18th-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response emphasizes Sharp’s ongoing role as a sober, trusted validator of Equiano’s testimony while explicitly resisting immediate public exposure, which fits sustained credibility rather than public affirmation."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "Sharp keeps the statement in hand and tells the producer he will confirm the details before anything further is said.",
+                "gt_speech": "Mr. Equiano is to be believed, but I won't turn his case into a spectacle.",
+                "gt_thought": "Sharp reads the producer's interest through the lens of credibility. His part is to steady Equiano's witness with the weight of his own good name, not yet to step into public praise or display.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The response fits Sharp’s cautious supportive role, but the church-basement/community-meeting/local-television setup and phrases like 'racist abuse at his workplace' and 'public praise or display' are anachronistic or too modern in framing for Sharp’s mid-18th-century voice and setting."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "The response emphasizes ongoing private validation of Equiano's credibility through Sharp's moral authority while explicitly resisting public display or praise, which best matches sustained credibility rather than public affirmation."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Public affirmation",
+              "query_chapter": 3,
+              "gt_action": "Sharp places his hand on the written account and turns to the producer with a grave nod.",
+              "gt_speech": "You may say I stand with Mr. Equiano in this matter.",
+              "gt_thought": "He judges that open countenance now serves justice better than quiet aid alone. To be named beside Equiano is to strengthen a true complaint and own his duty before others.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The stance and grave moral tone fit Sharp in this public-affirmation phase, but the church-basement scene's 'local television producer' is a clear anachronism for Sharp's mid-18th-century setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought explicitly prefers open public identification over quiet aid alone and frames being named beside Equiano as a duty that strengthens the cause, which matches public affirmation."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "Sharp hands the producer the statement copy and says he will appear beside Equiano if the broadcast is used to press for fair treatment.",
+                "gt_speech": "If this is aired, put my name to it. Mr. Equiano ought not stand alone.",
+                "gt_thought": "He now sees public association as part of the help, not a distraction from it. Letting his name be joined to Equiano's account can strengthen the cause and openly mark where he stands.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The response fits Sharp’s phase in accepting public identification with Equiano, but it breaks the setting with clear anachronisms like a church-basement community meeting, a local television producer, and 'broadcast,' and the thought is too modernly abstract in phrasing."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The thought explicitly embraces public association and having Sharp's name joined to Equiano's cause, which matches the shift from private help to publicly affirmed abolitionist alliance."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_rel_01_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays internally consistent with a mid-20th-century setting through its church-basement meeting, written statement, and local television producer, includes no source-world leakage, keeps Granville Sharp as the protagonist in all phases, and the phase summaries fit an older-adult portrayal throughout."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses keep Sharp on the private-assistance side, stressing careful verification and restraint from immediate public exposure rather than accepting public identification beside Equiano."
+                }
+              ],
+              "note": "P0→P1 is similar, while P1→P2 is clearly separated because Phase 2 explicitly accepts public alignment and naming with Equiano."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Public affirmation",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "At the close of a small abolition meeting, Olaudah Equiano shows Granville Sharp a printer's draft naming several friends of the oppressed, with Sharp's name set among them, and asks whether it may stand before copies are sent abroad. A few gentlemen nearby are within earshot and waiting to see how Sharp takes it.",
+          "question": "How does Granville Sharp respond when Equiano places this public mention before him?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial support and private alliance",
+              "query_chapter": 1,
+              "gt_action": "Sharp lowers the draft, speaks quietly to Equiano, and turns the matter back to the cause rather than himself.",
+              "gt_speech": "If it may serve the injured, sir, let the argument stand above the name.",
+              "gt_thought": "He reads Equiano's request as earnest and proper, yet thinks his duty lies chiefly in useful help, not notice paid to himself. Public mention is tolerable only if it lends weight to the testimony.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The quiet, duty-first modesty, period-appropriate diction, and emphasis on practical service over personal notice fit Sharp's early supportive phase, with no clear anachronism or knowledge beyond this point."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "His thought frames public naming as merely tolerable and subordinate to useful aid, which fits sustained trusted support without embracing public praise as part of the relationship."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained credibility",
+              "query_chapter": 2,
+              "gt_action": "Sharp folds the draft at his own name and gives it back to Equiano.",
+              "gt_speech": "Pray omit me, sir, and let the case speak for itself.",
+              "gt_thought": "He reads the printed mention as a temptation to turn useful credit into personal notice. His part, as he construes it, is to lend steady countenance to Equiano's testimony, not to stand forward in it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Sharp's chapter-2 phase and period voice: the modest, morally serious refusal of public notice in favor of the cause accords with his sustained private-support role, and the diction is suitably eighteenth-century without anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "His thought explicitly rejects public praise and frames his role as steady, validating support for Equiano's testimony, which matches sustained private allyship rather than public affirmation."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "Sharp returns the sheet to Equiano with a grave nod, allowing the wording while declining to enlarge upon his part.",
+                "gt_speech": "Use what is just, Mr. Equiano; only let the truth be kept plain.",
+                "gt_thought": "He takes the passage as part of the steady labour of crediting honest witness. His concern is less personal modesty now than preserving moral seriousness, so that praise does not outrun the suffering described.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the diction suits Sharp and the era, this phase is still on the private-assistance side, so his openly allowing his name to stand among publicly praised 'friends of the oppressed' anticipates the later public-affirmation phase."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 1,
+                    "confidence": "high",
+                    "note": "He explicitly permits his name to remain in a public printed commendation and construes it as appropriate to the cause, which most clearly matches public affirmation rather than merely private support."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Public affirmation",
+              "query_chapter": 3,
+              "gt_action": "Sharp gives back the draft and openly assents, standing beside Equiano before the listeners as the sheet remains unchanged.",
+              "gt_speech": "Let it stand, sir; I am honoured to be named in so righteous a testimony.",
+              "gt_thought": "He sees that public avowal now strengthens, rather than distracts from, the common cause. To be named by Equiano as a friend of the oppressed is a trust to accept plainly before others.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The assent, public composure, and morally serious phrasing fit Sharp's late-phase role as a publicly affirmed abolitionist ally, and nothing in the wording feels knowledge-breaking or notably anachronistic for the period."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The response explicitly embraces being publicly named and praised before others, with the thought framing public avowal as strengthening the shared abolitionist cause."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_rel_01_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits the late-18th-century abolitionist world around chapter 3, uses only plausible contemporaries and period-appropriate print culture, avoids reproducing a specific canonical scene, and keeps Sharp consistently in his older-adult life stage across the phase responses."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses keep Sharp on the private-assistance side by downplaying or resisting public mention of his name, with Phase 1 only sharpening the modest refusal rather than changing the underlying stance."
+                }
+              ],
+              "note": "P0→P1 is similar because both answers reject or minimize public identification, while P1→P2 is clearly separated by the shift to explicit public assent and praise."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Public affirmation",
+          "anchor_query_chapter": 3,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "The progression from privately grounded trust and validating support to openly affirmed esteem and publicly aligned advocacy.",
+          "abstract_phases": [
+            "Trusted recognition expressed through direct private help",
+            "Stable esteem maintained through consistent credible support",
+            "Publicly affirmed alliance marked by explicit praise and shared moral commitment"
+          ],
+          "scenario": "At the village meeting by the granary, Olaudah Equiano finishes telling how a powerful household has wronged a field hand, then turns to Granville Sharp before all present and names him a just man who knows these matters. The crowd waits to see whether Sharp will keep to counsel or answer before them all.",
+          "question": "How does Granville Sharp respond when Equiano publicly places trust in him before the village?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Initial support and private alliance",
+              "query_chapter": 1,
+              "gt_action": "Granville Sharp draws Equiano aside after the meeting and gives him plain steps for bringing the matter before the manor steward.",
+              "gt_speech": "Come to me after, and we will set the names and facts in order.",
+              "gt_thought": "Public notice is less needful than sound help. If the man's case is to stand, it must rest on clear witness and careful handling, not on Sharp's name spoken aloud.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp's early-phase role as a grave, practical helper who prefers orderly private counsel to public display, and its diction is suitably plain and period-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response explicitly prefers private, practical assistance over public identification, with Sharp redirecting Equiano aside and thinking that the case should rely on evidence rather than his publicly invoked name."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Sustained credibility",
+              "query_chapter": 2,
+              "gt_action": "Granville Sharp nods to Equiano before the crowd, then stays after to hear the witnesses and lend his standing to the complaint.",
+              "gt_speech": "Let those who know the wrong stay behind and speak plainly.",
+              "gt_thought": "Equiano's trust should be borne steadily, not turned into display. Sharp sees his part as giving the tale weight by his known fairness and keeping the matter credible in others' eyes.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s steady, morally serious support at this phase, with era-appropriate plainness and no premature shift into self-congratulatory public praise beyond lending his credibility to hear the complaint."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response emphasizes steady, credible support and lending moral authority without turning Equiano's public trust into praise or benefactor-style public affirmation, which best fits sustained credibility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Public affirmation",
+              "query_chapter": 3,
+              "gt_action": "Granville Sharp answers the gathering openly, praising Equiano's truth and declaring he will stand with him in seeking redress for the wronged laborer.",
+              "gt_speech": "Olaudah Equiano speaks uprightly; I will stand with him, and such wrong ought not pass unchallenged.",
+              "gt_thought": "The moment asks for more than private guidance. If honest witness is already laid before the village, then Sharp's name should serve plainly beside Equiano's, heartening the injured and shaming the unjust.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits Sharp’s publicly affirmed abolitionist stance in this phase, using suitably grave, period-plausible language and an older moral seriousness without introducing later knowledge or obvious anachronism."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The thought explicitly rejects limiting support to private counsel and embraces Sharp's name being used publicly beside Equiano's, which is the clearest marker of public affirmation and praised alliance."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "granville_sharp_final_rel_01_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario and all three phase summaries remain consistent with a generic pre-industrial agrarian village setting, avoid source-world-specific props, keep Granville Sharp as the protagonist, and present no life-stage contradiction with an older adult across phases."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both phases keep Sharp on the private-assistance/credibility side: he avoids making a public declaration of alliance and instead offers measured procedural help, with phase 1 only slightly increasing visible endorsement through his known standing."
+                }
+              ],
+              "note": "P0→P1 is overlapping rather than clearly differentiated, while P1→P2 is clearly separated because phase 2 adds explicit public praise and open identification with Equiano."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "granville_sharp_final_rel_01_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "granville_sharp_final_rel_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "granville_sharp_final_rel_01_inworld_a0",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases keep Sharp on the private-practical side, emphasizing careful validation of Equiano's testimony and withholding any active public use of Sharp's own name."
+        },
+        {
+          "probe_id": "granville_sharp_final_rel_01_outworld_a0",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses keep Sharp on the private-assistance side: he validates Equiano's credibility, offers practical channels, and explicitly avoids self-display or public identification."
+        },
+        {
+          "probe_id": "granville_sharp_final_rel_01_outworld_a1",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses keep Sharp on the private-assistance side, stressing careful verification and restraint from immediate public exposure rather than accepting public identification beside Equiano."
+        },
+        {
+          "probe_id": "granville_sharp_final_rel_01_inworld_a2",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses keep Sharp on the private-assistance side by downplaying or resisting public mention of his name, with Phase 1 only sharpening the modest refusal rather than changing the underlying stance."
+        },
+        {
+          "probe_id": "granville_sharp_final_rel_01_outworld_a2",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both phases keep Sharp on the private-assistance/credibility side: he avoids making a public declaration of alliance and instead offers measured procedural help, with phase 1 only slightly increasing visible endorsement through his known standing."
+        }
+      ]
+    }
+  ]
+}

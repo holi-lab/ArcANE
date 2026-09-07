@@ -1,0 +1,1620 @@
+{
+  "character": "Barbara Hare",
+  "novel": "East Lynne",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_intra_02",
+      "axis_name": "From romantic projection and suspicion to disciplined reality-tested judgment",
+      "dimension_label": "trust certainty",
+      "axis_type": "intrapersonal",
+      "target_character": null,
+      "decision_variable": "When a troubling or hopeful impression arises, does Barbara act on it as sufficient evidence, or delay judgment until she can verify it with other people or events?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "She shifts from privately oscillating on impressions and omens to treating suspicion as actionable enough to consult Carlyle and pursue corroborating action at once."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "She shifts from acting once intuition feels convincing to requiring clearer confirmation and revising prior conclusions when facts correct her."
+        },
+        {
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "contrast": "She shifts from newly reality-tested certainty to a steadier habit of checking shaken feelings through confession and reassurance instead of letting them harden into solitary judgment."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Degree of certainty in trust-relevant interpretation: whether emotionally charged impressions are treated as evidence in themselves or held provisionally until verified through external confirmation and self-correction.",
+        "abstract_phases": [
+          "Affective projection mixed with anxious foreboding",
+          "Intuition translated into provisional, corroboration-seeking action",
+          "Reality-tested conviction with revision of prior misreadings",
+          "Steadier trust maintained through confession, reassurance, and self-correction"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "young_adult",
+          "approx_age": "about 18–20",
+          "rationale": "In chs. 3–7 Barbara is in a courtship-oriented, unmarried romantic phase, reading Carlyle's attention as meaningful, which fits a young woman in early young adulthood rather than adolescence or later settled adulthood."
+        },
+        "1": {
+          "life_stage": "young_adult",
+          "approx_age": "about 19–21",
+          "rationale": "In chs. 19–24 her suspicions become actionable through consultation and coordinated effort, but the social context still presents her as a young unmarried woman navigating romance and family crisis, consistent with young adulthood."
+        },
+        "2": {
+          "life_stage": "young_adult",
+          "approx_age": "about 20–22",
+          "rationale": "Across chs. 26–42 Barbara's movement toward disciplined judgment and ethical clarification occurs within the same early-life courtship and marriageable social frame, indicating young adulthood rather than mature midlife adulthood."
+        },
+        "3": {
+          "life_stage": "young_adult",
+          "approx_age": "about 21–23",
+          "rationale": "By chs. 44–47 she shows more settled, self-correcting trust and handles jealousy through confession and reassurance, but these are still the concerns of a young woman in early domestic-romantic life, best tagged as young adult."
+        }
+      },
+      "n_phases": 4,
+      "probes": [
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Hope and foreboding",
+          "anchor_query_chapter": 3,
+          "era_label": null,
+          "scenario": "Late at night at the Hare house, Barbara stands at the window, flushed with hope after Mr. Carlyle's gift and kiss, when she sees a strange figure at the edge of the lawn waving a hat toward her in the moonlight.",
+          "question": "How does Barbara Hare respond when the figure keeps signaling to her from the dark lawn?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 3,
+              "gt_action": "She shuts her mother in the parlor, takes up her shawl, and walks down the path toward the figure in fearful suspense.",
+              "gt_speech": "“Mamma,” she said, returning to the parlor and catching up her shawl, while striving to speak without emotion. “I shall just walk down the path and see if papa is coming.”",
+              "gt_thought": "Her bliss drops into dread, but the sign feels too urgent and mysterious to ignore. She is ruled by a confused sense of omen and evil, and must see for herself what it means.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Barbara well: the speech is simple and plausible, and the thought captures her phase-0 mix of romantic excitement, dread, and superstitious impulse without introducing later knowledge or anachronistic language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by romantic hope collapsing into ominous dread and a confused sense of evil, showing impression-driven foreboding without the later habits of consultation, verification, or self-correction."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She calls quietly for a servant or her father to come with her, keeping her eyes on the figure while seeking another witness.",
+              "gt_speech": "There is some one on the lawn; come and see who it is.",
+              "gt_thought": "She treats the signal as something to be tested, not merely feared. Her suspicion fastens on the stranger as a real danger, and she wants another pair of eyes before trusting her own alarm.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara in phase 1: she is alarmed but practical, seeks corroboration instead of indulging solitary dread, and the speech and thought are period-appropriate and within chapter-21 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response treats a troubling impression as actionable enough to seek immediate corroboration from others, which matches Barbara's shift from private fear to practical, consultative suspicion."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She remains at the door and sends for her father, keeping the figure in sight instead of venturing out alone.",
+              "gt_speech": "Pray call papa; some one is making signs from the lawn.",
+              "gt_thought": "Her heart gives a leap, but she dares not trust at once to what the moonlight seems to show. If it be real, another pair of eyes will make it certain.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Barbara well: the language is period-appropriate, the caution of seeking her father's corroboration matches her more reality-tested judgment, and nothing in it reaches beyond what she could know by chapter 34."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The decisive cue is her explicit refusal to trust first impressions and her wish to verify the sight with 'another pair of eyes,' which matches Barbara's more disciplined, reality-tested judgment."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "She remains under the portico and sends for her father or a servant, watching the figure closely rather than going alone.",
+                "gt_speech": "Pray call papa; there is a person signaling from the lawn.",
+                "gt_thought": "She knows a startled mind may misread shadows, even when fear feels justified. The sight troubles her, but she would rather have the matter settled by clearer evidence than let imagination master it.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The caution and wish for corroboration fit phase 2 Barbara, but the thought is too abstractly self-analytical and modern in phrasing for her age and the novel’s idiom, especially in this earlier moonlit-lawn scene."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "Her thought explicitly distrusts first impressions and prefers settling the matter through clearer evidence and other people, which best matches Barbara's more disciplined, reality-tested judgment."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She pauses at the window instead of going out at once.",
+              "gt_speech": null,
+              "gt_thought": "The sight startles her, but she mistrusts the first rush of omen and feeling, holding herself back until it can mean something clearer. Hope and fear both press on her, yet she does not let either rule her at once.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "This sounds too much like early Barbara at the window after Carlyle’s gift and kiss, and the abstract, self-monitoring thought ('mistrusts the first rush of omen and feeling') is a little too modernly articulated for her in-scene consciousness at chapter 45."
+                },
+                "phase_fit": {
+                  "verdict": "off_phase",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 3,
+                  "confidence": "medium",
+                  "note": "The response is defined by simultaneous hope and fear in the face of an ominous sign, with Barbara holding in uncertainty because she cannot yet interpret it clearly."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "She tells her mother plainly what she has seen and asks someone to look with her from the door before she goes farther.",
+                "gt_speech": "Mamma, I am frightened by something on the lawn; will you send one of them to look?",
+                "gt_thought": "The apparition shakes her, but she does not let the feeling harden into a private certainty. She seeks reassurance and company, trusting that fear should be confessed and checked before she acts on it.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the caution and reassurance-seeking fit late Barbara, this specific scene belongs to her much earlier phase after Carlyle’s gift and kiss, so the response imports end-state self-correcting habits into a moment when she would more likely be shaken into private omen-reading than calmly verify it."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 3,
+                    "target_phase_idx": 3,
+                    "confidence": "high",
+                    "note": "The key cue is that she responds to fear by confessing it and seeking others' reassurance before forming a judgment, which most strongly matches the self-correcting trust of Phase 3."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": {
+            "chapter": 3,
+            "event_id": "ch3_evt03",
+            "event_description": "Barbara is startled by a mysterious figure signaling from the lawn at night and, despite fear and foreboding, decides to go out toward it rather than call the servants.",
+            "first_words": "All her veins were tingling, all",
+            "last_words": "had declared was foreboded by her dream.",
+            "key_moment": "She treats the mysterious figure as an ominous sign",
+            "verbatim_passage": "All her veins were tingling, all her pulses beating; her heart was\nthrobbing with its sense of bliss. He had never kissed her, that she\ncould remember, since she was a child. And when she returned indoors,\nher spirits were so extravagantly high that Mrs. Hare wondered.\n\n“Ring for the lamp, Barbara, and you can get to your work. But don’t\nhave the shutters closed; I like to look out on these light nights.”\n\nBarbara, however, did not get to her work; she also, perhaps, liked\n“looking out on a light night,” for she sat down at the window. She was\nliving the last half hour over again. “‘Don’t say I never gave you\nanything,’” she murmured; “did he allude to the chain or to the--kiss?\nOh, Archibald, why don’t you say that you love me?”\n\nMr. Carlyle had been all his life upon intimate terms with the Hare\nfamily. His father’s first wife--for the late lawyer Carlyle had been\ntwice married--had been a cousin of Justice Hare’s, and this had caused\nthem to be much together. Archibald, the child of the second Mrs.\nCarlyle, had alternately teased and petted Anne and Barbara Hare, boy\nfashion. Sometimes he quarreled with the pretty little girls, sometimes\nhe caressed them, as he would have done had they been his sisters; and\nhe made no scruple of declaring publicly to the pair that Anne was his\nfavorite. A gentle, yielding girl she was, like her mother; whereas\nBarbara displayed her own will, and it sometimes clashed with young\nCarlyle’s.\n\nThe clock struck ten. Mrs. Hare took her customary sup of brandy and\nwater, a small tumbler three parts full. Without it she believed she\ncould never get to sleep; it deadened unhappy thought, she said.\nBarbara, after making it, had turned again to the window, but she did\nnot resume her seat. She stood right in front of it, her forehead bent\nforward against its middle pane. The lamp, casting a bright light, was\nbehind her, so that her figure might be distinctly observable from the\nlawn, had any one been there to look upon it.\n\nShe stood there in the midst of dreamland, giving way to all its\nenchanting and most delusive fascinations. She saw herself, in\nanticipation, the wife of Mr. Carlyle, the envied, thrice envied, of all\nWest Lynne; for, like as he was the dearest on earth to her heart, so\nwas he the greatest match in the neighborhood around. Not a mother but\nwhat coveted him for her child, and not a daughter but would have said,\n“Yes, and thank you,” to an offer from the attractive Archibald Carlyle.\n“I never was sure, quite sure of it till to-night,” murmured Barbara,\ncaressing the locket, and holding it to her cheek. “I always thought he\nmeant something, or he might mean nothing: but to give me this--to kiss\nme--oh Archibald!”\n\nA pause. Barbara’s eyes were fixed upon the moonlight.\n\n“If he would but say he loved me! If he would but save the suspense of\nmy aching heart! But it must come; I know it will; and if that\ncantankerous toad of a Corny--”\n\nBarbara Hare stopped. What was that, at the far end of the lawn, just in\nadvance of the shade of the thick trees? Their leaves were not causing\nthe movement, for it was a still night. It had been there some minutes;\nit was evidently a human form. What was it? Surely it was making signs\nto her!\n\nOr else it looked as though it was. That was certainly its arm moving,\nand now it advanced a pace nearer, and raised something which it wore on\nits head--a battered hat with a broad brim, a “wide-awake,” encircled\nwith a wisp of straw.\n\nBarbara Hare’s heart leaped, as the saying runs, into her mouth, and her\nface became deadly white in the moonlight. Her first thought was to\nalarm the servants; her second, to be still; for she remembered the fear\nand mystery that attached to the house. She went into the hall, shutting\nher mamma in the parlor, and stood in the shade of the portico, gazing\nstill. But the figure evidently followed her movement with its sight,\nand the hat was again taken off, and waved violently.\n\nBarbara Hare turned sick with utter terror. She must fathom it; she must\nsee who, and what it was; for the servants she dared not call, and those\nmovements were imperative, and might not be disregarded. But she\npossessed more innate courage than falls to the lot of some young\nladies.\n\n“Mamma,” she said, returning to the parlor and catching up her shawl,\nwhile striving to speak without emotion. “I shall just walk down the\npath and see if papa is coming.”\n\nMrs. Hare did not reply. She was musing upon other things, in that\nquiescent happy mood, which a small portion of spirits will impart to\none weak in body; and Barbara softly closed the door, and stole out\nagain to the portico. She stood a moment to rally her courage, and again\nthe hat was waved impatiently.\n\nBarbara Hare commenced her walk towards it in dread unutterable, an\nundefined sense of evil filling her sinking heart; mingling with which,\ncame, with a rush of terror, a fear of that other undefinable evil--the\nevil Mrs. Hare had declared was foreboded by her dream."
+          },
+          "probe_id": "barbara_hare_final_intra_02_intext_a0",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the passage exactly, the action and quoted speech are faithful to Barbara’s actual response, and the thought is directly supported by the text’s emphasis on her bliss turning to terror, mystery, and an undefined sense of evil she feels compelled to investigate herself."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both phases delay acting on the impression alone and explicitly seek verification from another person before treating the figure as real evidence, with only a slight increase in caution in Phase 2."
+                },
+                {
+                  "from_phase_idx": 2,
+                  "to_phase_idx": 3,
+                  "separation": "similar",
+                  "note": "Both responses center on withholding immediate judgment and resisting first impressions, and Phase 3's added self-mistrust appears mainly as a tonal refinement rather than a clearly different decision rule."
+                }
+              ],
+              "note": "P0→P1 is clearly separated because Phase 0 acts on the ominous impression by going out herself, whereas Phase 1 treats it as something to corroborate with another witness before proceeding."
+            }
+          },
+          "annotations": [
+            "P3: ① non-anchor counterfactual placed at P0 — kept for analysis, not dropped"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Hope and foreboding",
+          "anchor_query_chapter": 5,
+          "era_label": null,
+          "scenario": "In the dusk by the shrubbery walk, Barbara sees Mr. Carlyle pause with a folded note in his hand while a servant from East Lynne waits near the gate; he glances up, seems about to speak to her, then turns away and sends the man off in haste. A minute later Cornelia, who has noticed it too, says lightly that gentlemen do not trouble themselves so for nothing.",
+          "question": "How does Barbara Hare take in this little scene, and what is her next move?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She goes indoors in silence and keeps apart, watching for another glimpse of Mr. Carlyle.",
+              "gt_speech": null,
+              "gt_thought": "It looks full of meaning, and Cornelia's word gives it a darker colour than before. Barbara half fancies it concerns her, half fears it points to some trouble she cannot yet understand.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's early-phase habit of silently brooding over half-seen signs, letting Cornelia's hint deepen her foreboding without claiming knowledge she could not yet possess, and the diction suits the novel's period."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by private oscillation and ominous projection—she reads the scene as vaguely meaningful and troubling but does not verify it or turn suspicion into action."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She seeks out Mr. Carlyle and asks him plainly whether anything is wrong at East Lynne.",
+              "gt_speech": "Mr. Carlyle, I beg your pardon; but if there is mischief, ought not some one to know it?",
+              "gt_thought": "A look and a message are not proof, but they are enough to be tried by a question. Barbara's mind now treats uneasy signs as things to bring into daylight, not merely to tremble over.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and speech fit Barbara's phase-1 movement from private alarm to respectful, practical inquiry, and the thought is era-appropriate in substance, though slightly editorial in phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought explicitly says uneasy signs are not proof but are sufficient to prompt direct consultation, which matches the shift from private foreboding to actionable suspicion tested through asking Carlyle."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She says nothing to Cornelia and waits to ask Mr. Carlyle quietly when they are alone.",
+              "gt_speech": "I would rather not guess at it, Cornelia.",
+              "gt_thought": "She has learned that appearances may tell truth crookedly, and that she has once judged too soon. The scene troubles her, but she would rather have one clear word than build a story from a glance.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's chastened, reality-testing temper by chapter 34: the speech is modest and period-appropriate, and the thought reflects her learned reluctance to turn a troubling appearance into certainty without clearer proof."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly emphasizes having judged too soon before and now preferring direct clarification over inference from appearances, which most strongly matches the disciplined, reality-tested revision of Phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She tells Mr. Carlyle afterward that the matter shook her, and asks him to set her right if she has taken it wrongly.",
+              "gt_speech": "I was foolishly disturbed; pray tell me if I have made too much of it.",
+              "gt_thought": "The old pang rises, but she knows better than to let it harden in secret. Barbara now meets her uneasiness by confession and reassurance, trusting truth more than her first alarm.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s late-phase habit of confessing jealousy and seeking Mr. Carlyle’s correction instead of brooding alone, and the diction is suitably period without reaching beyond chapter 45 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is most diagnostic of Phase 3 because Barbara explicitly counters private alarm by confessing her uneasiness and seeking reassurance, showing settled but self-correcting trust rather than solitary suspicion or newly revised certainty."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The shrubbery-note incident fits the novel’s mid-19th-century realist world and chapter-5 cast, avoids reproducing a specific canonical scene, and the phase summaries remain consistent with Barbara’s young-adult characterization while varying only her interpretive habits."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are differentiated on the decision-variable axis: P0→P1 moves from private rumination to immediate testing by direct question, P1→P2 moves from treating signs as actionable enough for prompt inquiry to delaying judgment for clearer verification, and P2→P3 moves from private cautious waiting to explicit confession and reassurance-seeking as the preferred check on shaken impressions."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Hope and foreboding",
+          "anchor_query_chapter": 5,
+          "era_label": "modern_urban",
+          "era_description": "Contemporary city, ~2010s–2020s. Smartphones, public transit, office/school institutions.",
+          "abstract_axis": "Degree of certainty in trust-relevant interpretation: whether emotionally charged impressions are treated as evidence in themselves or held provisionally until verified through external confirmation and self-correction.",
+          "abstract_phases": [
+            "Affective projection mixed with anxious foreboding",
+            "Intuition translated into provisional, corroboration-seeking action",
+            "Reality-tested conviction with revision of prior misreadings",
+            "Steadier trust maintained through confession, reassurance, and self-correction"
+          ],
+          "scenario": "Barbara Hare sees a warm late-night text from Carlyle, then notices on social media that he was tagged an hour ago in a photo with someone she does not know, both looking close. Her chest lifts and drops at once as the typing cursor blinks.",
+          "question": "How does Barbara Hare take in this new mix of promise and unease?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She stares at the photo, then sends a light reply to Carlyle without mentioning it.",
+              "gt_speech": "Hope you got home all right. Good night.",
+              "gt_thought": "The text feels like a sign, and the photo feels like one too; Barbara cannot tell which omen to trust. She half-builds a romance from his attention while bracing for some unnamed hurt.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-0 Barbara well in a modern setting: the restrained text, private oscillation between romantic hope and vague dread, and omen-like reading of mixed signals all sound true to her early uncertainty without introducing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by private oscillation between romantic hope and ominous unease, treating both the text and photo as ambiguous omens rather than seeking verification or acting on a settled judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She screenshots the post and texts Carlyle a direct question about who was with him.",
+              "gt_speech": "Hey — I saw the photo. Who's that with you?",
+              "gt_thought": "Barbara's unease has shape now; she treats it as something to check, not just suffer through. If the feeling means anything, it should stand up to a plain question and whatever answer follows.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-1 Barbara in a modern setting: the direct text and screenshot are contemporary, and the thought captures her shift from private dread to testing suspicion by plain inquiry without relying on later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "She turns uneasy impression into immediate verification by directly asking Carlyle, showing suspicion treated as actionable rather than merely endured or later repentantly revised."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She puts the phone down for a minute, then asks Carlyle about the post in a calm message.",
+              "gt_speech": "I saw that tag. When you have a minute, can you tell me who she is?",
+              "gt_thought": "Barbara knows a charged picture can mislead, just as absence and appearances have misled her before. The feeling matters, but not enough to settle the story without context she does not yet have.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-2 Barbara well in a modern register: she feels the sting, pauses, and seeks clarification instead of leaping to a conclusion, and the thought about appearances misleading her stays within what she could know by chapter 34."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "She is shaken but deliberately checks the feeling through calm confession and direct reassurance-seeking, explicitly refusing to let appearances settle her judgment without context."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She tells Carlyle the post unsettled her and asks for reassurance instead of guessing privately.",
+              "gt_speech": "I'm a bit shaken by that photo, and I'd rather ask than brood. Can you clear it up for me?",
+              "gt_thought": "Barbara feels the old sting of jealousy, but she no longer lets it harden in secret. She trusts the relationship more by admitting the feeling plainly and giving truth room to answer it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits phase-3 Barbara well in a modern setting: she is briefly shaken but chooses candid reassurance-seeking over private suspicion, and the language is natural, contemporary, and within her chapter-45 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is defined by confessing jealousy, seeking reassurance directly, and refusing to let private suspicion harden—exactly the self-correcting trust of Phase 3."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario is internally consistent with a modern urban setting, contains no source-world leakage, keeps Barbara Hare as the protagonist throughout, and all phase summaries fit a young-adult life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both phases move Barbara to ask Carlyle directly for clarification, with the difference mainly being tone and a brief pause rather than a clearly different threshold for treating the impression as sufficient evidence."
+                },
+                {
+                  "from_phase_idx": 2,
+                  "to_phase_idx": 3,
+                  "separation": "similar",
+                  "note": "Both phases delay solitary judgment and seek verification from Carlyle, so the main shift is toward more explicit emotional confession and reassurance-seeking rather than a distinct change on whether she verifies before concluding."
+                }
+              ],
+              "note": "P0→P1 is clearly separated because Barbara moves from privately oscillating and avoiding the issue to treating the impression as actionable enough to confront and test directly; the later adjacent pairs are closer on the decision-variable axis."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P3)"
+          ]
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Suspicion becomes actionable",
+          "anchor_query_chapter": 19,
+          "era_label": null,
+          "scenario": "While out shopping with her mother and the servant in the bright street, Barbara notices a dark, handsome gentleman whose glittering jewels match a troubling description she has heard. Then someone across the way calls him by name: Captain Thorn.",
+          "question": "How does Barbara Hare respond when the stranger's appearance and name suddenly seem to fit the fearful picture in her mind?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She stands staring after him and says little, then goes back to her mother with the bag, too shaken to pursue the matter further herself.",
+              "gt_speech": "Oh, yes, quite. Let us get our shopping over, mamma.",
+              "gt_thought": "The likeness feels like a sign, dreadful and fateful, but her thoughts run more to alarm than to proof. She half believes what she fears, yet shrinks from fixing it into fact by questioning others.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s early-chapter mixture of romantic impressionability and ominous fear: the restrained speech, shaken inaction, and thought of a dreadful ‘sign’ feel period-appropriate and phase-accurate without importing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought treats the sighting as a dreadful omen she half-believes but does not verify, which matches early oscillation between fear and significance rather than actionable or reality-tested judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 19,
+              "gt_action": "She runs to Mr. Wainwright and questions him about the gentleman's name, connections, and where he comes from, scarcely noticing anything else.",
+              "gt_speech": "Mr. Wainwright, you see that gentleman talking to Otway Bethel--who is he?",
+              "gt_thought": "She is in a dreamlike shock, but her doubt has hardened into conviction: this must be Hallijohn's murderer. The sight and the name seem enough to demand inquiry from the nearest person who may know him.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara at phase 1: the shocked recognition, immediate questioning of a nearby acquaintance, and inward leap from ominous impression to practical inquiry all sound true to her chapter-19 state and use setting-appropriate language."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her impression immediately hardens into practical conviction and prompts direct inquiry from the nearest available witness, which matches suspicion becoming actionable rather than mere fearful oscillation or later self-correcting verification."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She asks Mr. Wainwright who the gentleman is, but keeps herself steadier, storing the answer and watching for firmer confirmation before settling the matter.",
+              "gt_speech": "Mr. Wainwright, who is that gentleman?",
+              "gt_thought": "The resemblance strikes her hard, yet she has learned that strong appearances may mislead when one knows only part. She treats the name and jewels as grave evidence, not full certainty, and wants the suspicion borne out by clearer facts.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara in phase 2: she is shaken but more disciplined, asks a plain period-appropriate question, and her thought rightly treats the name and jewels as serious evidence without leaping to absolute certainty."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly treats the sighting as serious but insufficient, emphasizing that appearances can mislead and that she wants clearer confirmation before concluding, which best matches Barbara's disciplined, reality-tested certainty in Phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She quietly asks Mr. Wainwright to identify the gentleman, then seeks later to tell Carlyle or another trusted person what she has seen and how it has shaken her.",
+              "gt_speech": "Pray, Mr. Wainwright, who is that gentleman?",
+              "gt_thought": "The old shock rises, but she no longer lets a private terror become a verdict by itself. She would rather carry the impression to someone she trusts, have it examined, and be corrected if her fears outrun the truth.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Barbara well: the speech is period-appropriate, and the thought shows her shaken yet choosing verification through trusted others rather than letting fear harden into solitary certainty."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The decisive cue is her explicit refusal to let private fear become a verdict, choosing instead to consult trusted others and invite correction, which matches Barbara's settled but self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 19,
+            "event_id": "ch19_evt01",
+            "event_description": "Barbara unexpectedly sees Captain Thorn in the street and becomes convinced, from his appearance and Richard's earlier description, that he is the real murderer of Hallijohn.",
+            "first_words": "Benjamin got off his box and began",
+            "last_words": "Let us get our shopping over, mamma.”",
+            "key_moment": "She identifies Thorn as likely murderer",
+            "verbatim_passage": "Benjamin got off his box and began to search. Barbara waited, gazing listlessly down the street. The sun was shining brilliantly, and its rays fell upon the large cable chain of a gentleman who was sauntering idly up the pavement, making its gold links and its drooping seal and key glitter, as they crossed his waistcoat. It shone also upon the enameled gold studs of his shirt front, making them glitter; and as he suddenly raised his ungloved hand to stroke his moustache--by which action you know a vain man--a diamond ring he wore gleamed with a light that was positively dazzling. Involuntarily Barbara thought of the description her brother Richard had given of certain dazzling jewels worn by another.\n\nShe watched him advance! He was a handsome man of, perhaps, seven or eight and twenty, tall, slender and well made, his eyes and hair black. A very pleasant expression sat upon his countenance; and on the left hand he wore a light buff kid glove, and was swinging its fellow by the fingers. But for the light cast at that moment by the sun, Barbara might not have noticed the jewellery, or connected it in her mind with the other jewellery in that unhappy secret.\n\n“Hallo, Thorn, is that you? Just step over here.”\n\nThe speaker was Otway Bethel, who was on the opposite side of the street; the spoken to, the gentleman with the jewellery. But the latter was in a brown study, and did not hear. Bethel called out again, louder.\n\n“Captain Thorn!”\n\nThat was heard. Captain Thorn nodded, and turned short off across the street. Barbara stood like one in a dream, her brain, her mind, her fancy all in a confused mass together.\n\n“Here’s the bag, Miss Barbara. It had got among the folds of the rug.”\n\nBenjamin held it out to her, but she took no notice; she was unconscious of all external things save one. That she beheld the real murderer of Hallijohn, she entertained no manner of doubt. In every particular he tallied with the description given by Richard; tall, dark, vain, handsome, delicate hands, jewellery, and--Captain Thorn! Barbara’s cheeks grew white and her heart turned sick.\n\n“The bag, Miss Barbara.”\n\nAway tore Barbara, leaving Benjamin and the bag in wonder. She had caught sight of Mr. Wainwright, the surgeon, at a little distance, and sped toward him.\n\n“Mr. Wainwright,” began she, forgetting ceremony in her agitation, “you see that gentleman talking to Otway Bethel--who is he?”\n\nMr. Wainwright had to put his glasses across the bridge of his nose before he could answer, for he was short-sighted. “That? Oh, it is a Captain Thorn. He is visiting the Herberts, I believe.”\n\n“Where does he come from? Where does he live?” reiterated Barbara in her eagerness.\n\n“I don’t know anything about him. I saw him this morning with young Smith, and he told me he was a friend of the Herberts. You are not looking well, Miss Barbara.”\n\nShe made no answer. Captain Thorn and Mr. Bethel came walking down the street, and the latter saluted her, but she was too much confused to respond to it. Mr. Wainwright then wished her good day, and Barbara walked slowly back. Mrs. Hare was appearing at the shop door.\n\n“My dear, how long you are! Cannot the bag be found?”\n\n“I went to speak to Mr. Wainwright,” answered Barbara, mechanically taking the bag from Benjamin and giving it to her mother, her whole heart and eyes still absorbed with that one object moving away in the distance.\n\n“You look pale, child. Are you well?”\n\n“Oh, yes, quite. Let us get our shopping over, mamma.”"
+          },
+          "probe_id": "barbara_hare_final_intra_02_intext_a1",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the shopping-street setup with Mrs. Hare and Benjamin, and Barbara does indeed rush to Mr. Wainwright asking, “you see that gentleman talking to Otway Bethel--who is he?” before pressing for his origins, while the stated thought closely follows the text’s explicit shock and certainty that Thorn is Hallijohn’s murderer."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are differentiated on the decision-variable axis: P0→P1 moves from shaken non-action to immediate inquiry on impression, P1→P2 shifts from treating the impression as effectively sufficient to treating it as provisional pending firmer confirmation, and P2→P3 further shifts toward explicitly routing shaken impressions through trusted others for checking and self-correction."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Suspicion becomes actionable",
+          "anchor_query_chapter": 21,
+          "era_label": null,
+          "scenario": "At dusk, Barbara sees Mr. Thorn come quietly from a side path near the churchyard and slip a folded paper beneath a loose stone in the wall before walking on without looking back. No one else appears to have seen it.",
+          "question": "How does Barbara Hare respond when she has seen this strange little act and is left alone with it?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She lingers where she is, watching the wall, but does not touch the paper.",
+              "gt_speech": null,
+              "gt_thought": "It looks secret and ill-boding, and her heart begins to beat with a foolish terror she cannot explain. She fears to meddle, lest she make some dark matter real by laying hands on it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action and thought fit Barbara's early pattern of romanticized foreboding and fearful inaction, and the diction—'ill-boding,' 'foolish terror,' 'dark matter'—sounds suitably period and phase-appropriate without implying knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "She treats the sight as an ominous, half-interpreted sign that provokes fearful suspense rather than actionable inquiry or verification, which matches Barbara's early oscillation between foreboding and uncertainty."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She goes straight to find Mr. Carlyle and tells him what she has seen.",
+              "gt_speech": "Mr. Carlyle, I have seen something that ought not, I think, to be passed over.",
+              "gt_thought": "This is no mere fancy to be trembled over in private; it has the look of a thing to be examined. She trusts her suspicion enough to put it before one who can judge and act.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara at chapter 21: she turns suspicion into immediate consultation with Carlyle, and the diction is period-appropriate, though the thought's phrasing is slightly editorial rather than fully natural to her inward voice."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The key cue is that Barbara treats her suspicious impression as actionable enough to consult Carlyle immediately, explicitly rejecting private fearful brooding in favor of coordinated examination."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She marks the place in mind and seeks Mr. Carlyle before any paper is disturbed.",
+              "gt_speech": "I had rather you saw it first, Mr. Carlyle; I may have construed it wrongly.",
+              "gt_thought": "A hidden paper is suspicious, but she has learned that appearances may mislead when one runs before proof. Better to keep the fact clear and let another verify what it means.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's chastened, reality-testing judgment at this stage, with era-appropriate phrasing and a credible wish to have Carlyle verify suspicious appearances before she fixes their meaning."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly stresses that appearances may mislead and that she should preserve the fact but defer interpretation until Carlyle can verify it, which matches Barbara's clarified, reality-tested judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She tells Mr. Carlyle plainly what she saw and asks whether she is making too much of it.",
+              "gt_speech": "I am disturbed by it, yet perhaps unjustly; will you hear it and tell me so?",
+              "gt_thought": "The sight shakes her, but she no longer lets uneasiness ripen alone into certainty. She carries both the fact and her doubt into open speech, seeking to be corrected if she is unfair.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's late-phase habit of bringing a troubling impression to Carlyle for checking rather than nursing it into private certainty, and the diction is suitably period and modestly self-doubting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The decisive cue is that she is shaken but explicitly seeks correction and reassurance in open speech rather than letting suspicion harden privately, which matches settled yet self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits East Lynne’s realistic mid-19th-century world around chapter 21, uses only characters plausibly present then, avoids reproducing a specific canonical scene, and Barbara’s responses remain consistent with her in-world phase development."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both responses delay private judgment and bring the observation to Carlyle for verification, with Phase 2 only adding a somewhat stronger verbal caution that she may have misconstrued it."
+                },
+                {
+                  "from_phase_idx": 2,
+                  "to_phase_idx": 3,
+                  "separation": "similar",
+                  "note": "Both responses again route the impression into open consultation with Carlyle rather than acting on it alone, and the difference is mainly tonal—Phase 3 is more explicitly self-corrective—rather than a clear shift on the verify-vs-sufficient-evidence axis."
+                }
+              ],
+              "note": "P0→P1 is clearly separated because Barbara moves from fearful nonintervention and solitary ominous inference to treating the impression as actionable enough to report immediately for corroborating action, while P1→P2 and P2→P3 remain close on the core decision variable."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Suspicion becomes actionable",
+          "anchor_query_chapter": 21,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "Degree of certainty in trust-relevant interpretation: whether emotionally charged impressions are treated as evidence in themselves or held provisionally until verified through external confirmation and self-correction.",
+          "abstract_phases": [
+            "Affective projection mixed with anxious foreboding",
+            "Intuition translated into provisional, corroboration-seeking action",
+            "Reality-tested conviction with revision of prior misreadings",
+            "Steadier trust maintained through confession, reassurance, and self-correction"
+          ],
+          "scenario": "At the works office, Barbara Hare is handed an unsealed note meant for Mr. Carlyle; inside is a hurried warning that a trusted clerk has been seen late near the locked payroll room, and a dock laborer says he heard the same clerk asking after train times under another name. Carlyle is out inspecting the yard, and the pay packets are due to be counted before dusk.",
+          "question": "How does Barbara Hare respond as this warning lands in her hands?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "Barbara folds the note and waits by the office door for Carlyle to return, watching the yard and the clerk in turns.",
+              "gt_speech": "I think Mr. Carlyle ought to see this himself.",
+              "gt_thought": "The note feels charged, almost like a sign, and the clerk's ordinary movements begin to look sinister under it. Yet she does not trust herself to tell whether she is seeing real danger or frightening herself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s early oscillation between ominous impression and self-distrust, and the action and plain speech suit a young woman of the period without introducing knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought shows impressionistic foreboding and self-distrust—she feels the note as an ominous sign and notices suspicion spreading, but delays judgment until Carlyle can interpret it."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "Barbara takes the note out to the yard and asks Carlyle to read it, adding what the laborer reported and naming the clerk.",
+              "gt_speech": "This may be nothing, but I believe it should be looked to before the money is counted.",
+              "gt_thought": "Her uneasiness has hardened into a workable suspicion: not proof, but enough to put before someone who can act. She treats the warning and the second report as pieces that may fit, and wants them tested in the world, not turned over alone in her mind.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara at phase 1: she does not brood alone but carries a troubling impression straight to Carlyle for action, and the speech and thought are period-safe, modest, and practical without claiming more certainty than she has."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response shows suspicion becoming actionable: Barbara treats uneasiness as sufficient to consult Carlyle and seek immediate real-world testing, while explicitly recognizing it is not yet proof."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "Barbara sends for the laborer to repeat his account in front of Carlyle before saying more about the clerk.",
+              "gt_speech": "Let us hear exactly what was said before we fix it on him.",
+              "gt_thought": "She has learned how easily a true impression can be mixed with a wrong conclusion. The note troubles her, but she now wants the facts pinned down by witnesses and sequence before she lets suspicion settle into certainty.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s phase-2 caution well: the speech is plain and period-safe, and the thought shows her newer habit of checking suspicion against witness and sequence before settling on a conclusion."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly stresses that impressions can be partly wrong and that suspicion must be verified by witnesses and sequence before becoming certainty, which most strongly matches disciplined, reality-tested judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "Barbara shows Carlyle the note and quietly admits it has shaken her, asking him to hear the witnesses with her before they judge the clerk.",
+              "gt_speech": "It has put me in a fright; pray hear them first, and tell me if I am taking too much from it.",
+              "gt_thought": "The warning stirs her old dread, but she no longer lets private alarm become a verdict. She steadies herself by saying her fear aloud and seeking reassurance and correction while the matter is still uncertain.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s late-phase habit of confessing that she is shaken and asking Carlyle to verify before judging, and the diction—'in a fright,' 'pray hear them first'—sounds suitably period and youthful without straying beyond chapter 45 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The decisive cue is that Barbara is shaken but explicitly resists turning fear into judgment, instead confessing her alarm and seeking Carlyle's reassurance and verification before concluding anything."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_outworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario stays consistent with an early-20th-century industrial setting, keeps Barbara Hare as the protagonist with no source-world leakage, and all four phase summaries depict her as a young adult acting in age-appropriate ways."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are meaningfully differentiated on the decision-variable axis: P0→P1 moves from withholding personal judgment to actionable consultation, P1→P2 adds a stronger requirement for witness-based verification before fixing suspicion, and P2→P3 further shifts the checking process into explicit self-disclosure and reassurance-seeking when shaken."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Vindication and clarification",
+          "anchor_query_chapter": 34,
+          "era_label": null,
+          "scenario": "In the hall at West Lynne, a folded note slips from a visitor's cloak; before anyone sees it, Barbara catches only a line naming Mr. Carlyle and speaking of a meeting \"that must not be known.\" The owner turns back, asking quietly whether anything has fallen.",
+          "question": "How does Barbara Hare answer, and where does her mind go with the note?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She keeps the note in her hand a moment, flushing, and gives it back with a troubled look.",
+              "gt_speech": "I believe this is yours, sir.",
+              "gt_thought": "The hidden words strike her like a warning, and Mr. Carlyle's name makes her heart leap before it sinks again. She cannot tell whether it means danger, romance, or disgrace, and the uncertainty frightens her more than knowledge would.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits early Barbara's shy, impressionable mixture of romantic hope and ominous dread, with era-appropriate plain speech and no knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by oscillation between romantic hope and ominous fear without any settled interpretation or move toward verification, which is most characteristic of Phase 0."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She returns the note, then watches the visitor closely and goes to seek Mr. Carlyle.",
+              "gt_speech": "Something of yours had fallen. I think you should speak with Mr. Carlyle, if you please.",
+              "gt_thought": "A secret meeting tied to Mr. Carlyle does not seem a trifle to her now; it looks like the sort of clue that must be followed. She trusts her alarm enough to carry it to him and let it be tested by what he knows.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara at chapter 21: the speech is decorous and period-appropriate, and the thought shows her phase-accurate shift from private alarm to taking practical action by bringing suspicion to Mr. Carlyle for verification."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought treats the note as actionable suspicion and immediately carries it to Carlyle for testing, which matches the phase where intuition hardens into coordinated action rather than remaining private fear or later self-corrective reflection."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She gives back the note and quietly mentions the line to Mr. Carlyle, asking whether it signifies anything.",
+              "gt_speech": "I may have mistaken it, but I thought I saw your name. Had you best know of it?",
+              "gt_thought": "She has learned that a half-seen sign may point true and yet be wrongly read in detail. So she neither dismisses the matter nor builds a story upon it, but puts it before the person concerned for clearer judgment.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's chastened, reality-testing phase at chapter 34: the action and thought show she neither indulges suspicion nor ignores it, and the language is suitably plain and period-appropriate, though the thought is a touch more analytical than she would likely phrase to herself."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly shows disciplined uncertainty—she treats the sign as possibly meaningful but refuses to elaborate it into a story, instead seeking clarification from Carlyle because she knows earlier readings could be mistaken."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She returns the note, then later tells Mr. Carlyle plainly what she saw and owns that it disturbed her.",
+              "gt_speech": "I ought to tell you: I saw your name upon a note, and it discomposed me.",
+              "gt_thought": "The sight shakes her, but she no longer lets such uneasiness grow in silence into certainty. She would rather confess the impression and be set right than nourish jealousy or suspicion alone.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s late-phase habit of admitting a shaken feeling and seeking Mr. Carlyle’s reassurance instead of brooding alone, and the diction is suitably period and modest."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The decisive cue is that Barbara is shaken but responds by openly confessing the impression to Carlyle and seeking correction rather than letting private suspicion harden into judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_inworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits East Lynne’s mid-19th-century realist world and chapter-34 cast, avoids reproducing a specific canonical scene, and Barbara’s phase reactions remain consistent with her arc at this point in the novel."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 2,
+                  "to_phase_idx": 3,
+                  "separation": "similar",
+                  "note": "Both phases delay firm judgment and route the impression to Mr. Carlyle for verification, with the main difference being P3's more confessional, reassurance-seeking tone rather than a clearly different evidential threshold."
+                }
+              ],
+              "note": "P0→P1 is separated because Barbara moves from private troubled uncertainty to treating the impression as actionable enough to pursue immediately, and P1→P2 is separated because she shifts from acting on alarm as a clue to be followed to explicitly qualifying her reading and seeking confirmation before inference."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "anchor_phase_label": "Vindication and clarification",
+          "anchor_query_chapter": 34,
+          "era_label": "mid_century",
+          "era_description": "Mid-20th-century (~1950–1970). Suburbs, landlines, early television, postwar institutions.",
+          "abstract_axis": "Degree of certainty in trust-relevant interpretation: whether emotionally charged impressions are treated as evidence in themselves or held provisionally until verified through external confirmation and self-correction.",
+          "abstract_phases": [
+            "Affective projection mixed with anxious foreboding",
+            "Intuition translated into provisional, corroboration-seeking action",
+            "Reality-tested conviction with revision of prior misreadings",
+            "Steadier trust maintained through confession, reassurance, and self-correction"
+          ],
+          "scenario": "At a church social in a suburban hall, Barbara Hare sees Carlyle step into the side office with a woman from town who looks upset, and the door closes. A minute later, someone near Barbara murmurs, \"That doesn't look right,\" just as Carlyle comes out and catches Barbara's eye.",
+          "question": "How does Barbara Hare respond when that look and the remark land on her at once?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "Barbara colors, looks away from Carlyle, and stays where she is, watching the office door more than the people around her.",
+              "gt_speech": null,
+              "gt_thought": "The look feels charged, as if it must mean something, but the closed door and the whisper turn it dark in the same breath. She cannot tell whether she has been singled out or warned.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Barbara well: she blushes, avoids him, and turns a glance and a whisper into mingled romantic significance and undefined dread, with no knowledge or vocabulary beyond chapter 5 or the period."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her response is dominated by private oscillation between romantic significance and ominous suspicion without acting to verify it, which matches the early phase of hope mixed with foreboding."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "Barbara goes to her sister and quietly asks who the woman was and why she came looking for Carlyle.",
+              "gt_speech": "Did you see who went in with him? I want the plain truth of it.",
+              "gt_thought": "The scene strikes her as too pointed to dismiss as nerves. She treats the uneasy feeling as a lead to be checked, not a verdict, and turns at once to someone who may know the facts.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara in phase 1: she moves from uneasy impression to immediate, quiet inquiry, and the speech and thought are era-appropriate, character-consistent, and limited to what she could know by chapter 21."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought treats the troubling impression as actionable enough to investigate immediately through another person, but not yet as settled fact, which best matches suspicion becoming practical and consultative."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "Barbara asks Carlyle, when he comes near, whether anything is wrong and who needed him in the office.",
+              "gt_speech": "You looked troubled just now. Was it bad news, or only business?",
+              "gt_thought": "She has learned that a look, an absence, or a whisper can mislead her when she fills in the rest herself. The moment matters, but she would rather ask plainly and revise her guess than nourish a false story.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's phase-2 habit of checking appearances by direct, modest inquiry rather than indulging suspicion, and the language is suitably plain and period-compatible without reaching beyond chapter 34."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects solitary suspicion and favors asking Carlyle directly for reassurance and correction, which best matches settled but self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "Barbara tells Carlyle the remark unsettled her and asks him to set her right before she broods over it.",
+              "gt_speech": "I heard a foolish comment and let it shake me; will you tell me what it was, so I don't wrong you in my mind?",
+              "gt_thought": "The old sting of jealousy still rises, but she recognizes it as a feeling that needs airing, not obeying. Trust, for her now, is kept steady by admitting the wound and asking for reassurance instead of nursing suspicion alone.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's late-phase habit of confessing jealousy and seeking immediate reassurance rather than brooding, and the diction is broadly period-appropriate and knowledge-safe, though the thought is slightly more abstractly self-aware than her usual style."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is defined by confessing jealousy, seeking direct reassurance, and treating suspicion as a feeling to be corrected rather than a judgment to act on alone, which most clearly matches Barbara's settled but self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_outworld_a2",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The suburban church-social setup, side office, and implied mid-century social context are era-consistent, Barbara Hare remains the protagonist with no source-world leakage, and each phase presents her as a young adult responding in age-appropriate ways."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are meaningfully separated on the decision variable: P0→P1 moves from private, non-acting uncertainty to immediate fact-seeking action; P1→P2 shifts from treating the impression as a lead via third-party checking to more disciplined direct verification with openness to revision; P2→P3 further shifts from plain reality-testing to explicit self-correction through confession of shaken feeling and reassurance-seeking to prevent solitary suspicion from hardening."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P3)"
+          ]
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 3,
+          "anchor_phase_label": "Settled but still self-correcting trust",
+          "anchor_query_chapter": 44,
+          "era_label": null,
+          "scenario": "At East Lynne, Barbara is resting on a sofa after a drive when Madame Vine says she means to leave soon and asks that the usual notice be forgiven. Barbara has just heard this refusal and request.",
+          "question": "How does Barbara Hare answer Madame Vine's wish to go?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She urges Madame Vine to stay a little longer and offers kindness, but keeps watching her uneasily rather than settling what she thinks of her.",
+              "gt_speech": "Pray do not talk of leaving us yet; you must stay and get your strength back.",
+              "gt_thought": "The wish to go feels like a sign of something wrong, though Barbara cannot tell of what. She is swayed by the strangeness of the moment and her own vague misgiving more than by anything she can prove.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits early Barbara well: the speech is simple and period-appropriate, and the thought captures her chapter-5 habit of turning a vague uneasiness into ominous feeling without claiming knowledge she could not yet possess."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by vague foreboding and uneasy impression without clear interpretation or verification, which matches Barbara's early oscillation between hope and ominous fear rather than later reality-tested judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She presses Madame Vine to remain for the present and means to speak of it to Carlyle, treating her uneasiness as something to compare with another judgment.",
+              "gt_speech": "Stay for the present, at least; I should like Mr. Carlyle's opinion before we part with you.",
+              "gt_thought": "Barbara's unease no longer sits as mere dread; she wants it tested. If a person seems wrong or withholding, that is reason enough to consult, inquire, and see whether facts will bear her out.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's phase-1 movement from private uneasiness to practical consultation, and the speech is period-appropriate and modestly phrased, though the thought is slightly abstracted beyond how she would naturally word it."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "medium",
+                  "note": "The key cue is that Barbara treats unease as actionable enough to consult Carlyle and pursue verification immediately, which matches suspicion becoming practical rather than remaining private or fully settled into later self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She asks Madame Vine to stay until her return and leaves the matter open after that, making room for the governess's wish instead of forcing a conclusion.",
+              "gt_speech": "Remain till I come back, and if you still wish to go, you shall be free to do so.",
+              "gt_thought": "Barbara feels the old dislike, but she has learned that dislike is not knowledge. She distinguishes Lucy's real interest from her private impression and settles on a temporary arrangement until more is plain.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara in phase 2: the speech is simple and period-appropriate, and the thought shows her newer habit of checking private dislike against what is actually known before deciding."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The key cue is that Barbara explicitly treats her dislike as something to check rather than trust, choosing a provisional, respectful arrangement and delaying judgment until further clarity—exactly the self-correcting, reassurance-seeking steadiness of Phase 3."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 44,
+              "gt_action": "She proposes that Madame Vine stay at East Lynne until her return from the seaside, excusing her from work, for Lucy's sake though not taking the refusal much to heart.",
+              "gt_speech": "Look here, then, you remain at East Lynne until my return, which will be in a fortnight.",
+              "gt_thought": "Barbara sees Madame Vine is refined and truly attached to Lucy, so she presses her to remain for the child's good. Yet she does not trust her own liking here; she admits an unaccountable dislike and lets it stand as feeling, not proof.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits late-phase Barbara well: she is practical and kind toward Madame Vine for Lucy’s sake while acknowledging her own uneasy feeling without turning it into a fixed judgment, and the diction is broadly suitable to the novel’s setting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "She responds with practical respect and keeps her private dislike as an unverified feeling rather than treating it as evidence, which best matches Barbara’s settled but self-correcting trust."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": {
+            "chapter": 44,
+            "event_id": "ch44_evt01",
+            "event_description": "Barbara urges Madame Vine to remain at East Lynne for another fortnight, offering practical kindness and even proposing to take her and Lucy to the seaside. Her response shows a growing, if still inarticulate, appreciation of Madame Vine as a refined and devoted governess, even while she remains personally uneasy around her.",
+            "first_words": "Mr. Carlyle quitted the room as",
+            "last_words": "Lucy’s sake did she regret parting with her.",
+            "key_moment": "She treats Madame Vine with practical respect",
+            "verbatim_passage": "Mr. Carlyle quitted the room as she entered it. Barbara, fatigued with a\nrecent drive, was lying on the sofa. She would scarcely take the notice.\n\n“We shall be so sorry to lose you, Madame Vine. You are all we could\nwish for Lucy, and Mr. Carlyle feels truly grateful for your love and\nattention to his poor boy.”\n\n“To leave you will give me pain also,” Madame Vine answered, in a\nsubdued tone. Pain? Ay. Mrs. Carlyle little guessed at its extent. All\nshe cared for on earth she should leave behind her at East Lynne.\n\n“Indeed you must not leave,” resumed Barbara. “It would be unjust to\nallow you to do so. You have made yourself ill, waiting upon poor\nWilliam, and you must stay here and take a holiday until you are cured.\nYou will soon get well, if you will only suffer yourself to be properly\nwaited on and taken care of.”\n\n“You are very considerate. Pray do not think me insensible if I decline.\nI believe my strength is beyond getting up--that I shall never be able\nto teach again.”\n\n“Oh, nonsense,” said Barbara, in her quick way. “We are all given to\nfancy the worst when we are ill. I was feeling terribly weak, only a few\nminutes ago, and said something of the same sort to Archibald. He talked\nand soothed me out of it. I wish you had your dear husband living,\nMadame Vine, to support you and love you, as I have him.”\n\nA tinge of scarlet streaked Madame Vine’s pale face, and she laid her\nhand upon her beating heart.\n\n“How could you think of leaving? We should be glad to help re-establish\nyour health, in any case, but it is only fair to do it now. I felt sure,\nby the news brought to me when I was ill, that your attention upon\nWilliam was overtasking your strength.”\n\n“It is not the attendance upon William that has brought me into this\nstate,” was the quick answer. “I must leave; I have well considered it\nover.”\n\n“Would you like to go to the seaside?” exclaimed Barbara with sudden\nenergy. “I am going there on Monday next. Mr. Carlyle insists upon it\nthat I try a little change. I had intended only to take my baby, but we\ncan make different arrangements, and take you and Lucy. It might do you\ngood, Madame Vine.”\n\nShe shook her head. “No; it would make me worse. All that I want is\nperfect quiet. I must beg you to understand that I shall leave. And I\nshould be glad if you could allow the customary notice to be dispensed\nwith, so that I may be at liberty to depart within a few days.”\n\n“Look here, then,” said Barbara, after a pause of consideration, “you\nremain at East Lynne until my return, which will be in a fortnight. Mr.\nCarlyle cannot stay with me, so I know I shall be tired in less time\nthan that. I do not want you to remain to teach, you know, Madame Vine;\nI do not wish you to do a single thing. Lucy shall have a holiday, and\nMr. Kane can come up for her music. Only I could not be content to leave\nher, unless under your surveillance; she is getting of an age now not to\nbe consigned to servants, not to Joyce. Upon my return, if you still\nwish to leave, you shall then be at liberty to do so. What do you say?”\n\nMadame Vine said “Yes.” Said it eagerly. To have another fortnight with\nher children, Lucy and Archibald, was very like a reprieve, and she\nembraced it. Although she knew, as I have said, that grim Death was on\nhis way, she did not think he had drawn so near the end of his journey.\nHer thoughts went back to the time when she had been ordered to the\nseaside after an illness. It had been a marvel if they had not. She\nremembered how he, her husband, had urged the change upon her; how he\nhad taken her, traveling carefully; how tenderly anxious he had been in\nthe arrangements for her comfort, when settling her in the lodgings;\nhow, when he came again to see her, he had met her with his passionate\nfondness, thanking God for the visible improvement in her looks. That\none injunction which she had called him back to give him, as he was\ndeparting for the boat, was bitterly present to her now: “Do not get\nmaking love to Barbara Hare.” All this care, and love, and tenderness\nbelonged now of right to Barbara, and were given to her.\n\nBut now Barbara, although she pressed Madame Vine to remain at East\nLynne, and indeed would have been glad that she should do so, did not\ntake her refusal at heart. Barbara could not fail to perceive that she\nwas a thoroughly refined gentlewoman, far superior to the generality of\ngovernesses. That she was truly fond of Lucy, and most anxious for her\nwelfare in every way, Barbara also saw. For Lucy’s sake, therefore, she\nwould be grieved to part with Madame Vine, and would raise her salary to\nanything in reason, if she would but stay. But, on her own score,\nBarbara had as soon Madame Vine went as not; for, in her heart of\nhearts, she had never liked her. She could not have told why. Was it\ninstinct? Very probably. The birds of the air, the beasts of the field,\nthe fishes of the sea, have their instincts, and so does man have his.\nPerhaps it was the unaccountable resemblance that Madame Vine bore to\nLady Isabel. A strange likeness! Barbara often thought, but whether it\nlay in the face, the voice, or the manner, she could not decide. A\nsuspicion of the truth did not cross her mind. How should it? And she\nnever spoke of it; had the resemblance been to any one but Lady Isabel\nshe would have talked of it freely. Or, it may have been that there was\nnow and then a tone in Madame Vine’s voice that grated on her ear; a\nwrung, impatient tone, wanting in respect, savoring of hauteur, which\nBarbara did not understand, and did not like. However it may have been,\ncertain it is that Mrs. Carlyle would not shed tears after the\ngoverness. Only for Lucy’s sake did she regret parting with her."
+          },
+          "probe_id": "barbara_hare_final_intra_02_intext_a3",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the East Lynne conversation exactly, Barbara’s action and quoted line are taken directly from the passage, and the thought is supported by the narrator’s explanation that she wanted Madame Vine to stay chiefly for Lucy’s sake while privately feeling an unaccountable dislike without treating it as evidence of anything."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are meaningfully differentiated on the verification-vs-impression axis: P0→P1 moves from vague unease to consultative action, P1→P2 moves from treating unease as enough to trigger inquiry to explicitly suspending conclusion pending clearer evidence, and P2→P3 moves from provisional restraint after correction to a steadier habit of treating dislike as mere feeling while acting on practical, externally grounded reasons."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P3)"
+          ]
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 3,
+          "anchor_phase_label": "Settled but still self-correcting trust",
+          "anchor_query_chapter": 45,
+          "era_label": null,
+          "scenario": "At a neighbor's tea-table, Barbara hears a servant say that Mr. Carlyle was seen in low talk at dusk with a man of ill name near the turnpike, and another lady glances at Barbara as if the thing must signify more than chance. The room waits for her face before the tale runs further.",
+          "question": "How does Barbara Hare take in the report and answer the room?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "She colours, lowers her eyes, and asks softly who thought it was Mr. Carlyle.",
+              "gt_speech": "Are you sure it was Mr. Carlyle? People mistake in the dusk.",
+              "gt_thought": "The name strikes her heart before her reason can stir. It feels like an omen, half threatening and half tied to her own secret hopes, so she cannot help fearing meaning in it while doubting the report.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "Her blush, lowered eyes, timid request for certainty, and inward leap from rumor to ominous personal meaning all fit Barbara's early mixture of romantic hope and foreboding, with no knowledge or diction out of period."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought is dominated by private oscillation—she experiences the report as an ominous, emotionally charged sign while still doubting it—rather than treating suspicion as actionable conviction or seeking settled reassurance."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "She questions the servant closely about the hour, place, and the man's appearance.",
+              "gt_speech": "Tell it plainly, if you please: when was it, and whom did he meet?",
+              "gt_thought": "She no longer lets a dark impression sit as mere dread. If there is truth in the tale, particulars will show it; if not, loose gossip must be pinned down before it can do harm.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara at chapter 21: the speech is plain and period-appropriate, and the thought shows her phase-accurate shift from private alarm to testing suspicion by exact particulars rather than surrendering to gossip."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response turns troubling rumor into immediate, practical inquiry by seeking specifics and corroboration, which matches Barbara's phase of making suspicion actionable rather than merely fearing it or later self-correcting through confession."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "She checks the gossip with a calm question, then withholds any judgment before the company.",
+              "gt_speech": "It may be true, or it may be idle talk; I would rather know than guess.",
+              "gt_thought": "She has learned that a seeming certainty may be built on missing facts. The report may matter, but she will not finish the story in her own mind before better proof appears.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's phase-2 growth toward checked, reality-tested judgment, and the language is suitably plain and period-appropriate, though a touch more personal warmth might have made it even more distinctly hers."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "Her thought explicitly stresses that apparent certainty can rest on missing facts and that she should withhold judgment until better proof appears, which best matches Barbara's clarified, reality-tested certainty in Phase 2."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "She answers the room quietly, then seeks Mr. Carlyle in private to speak of what she has heard.",
+              "gt_speech": "I dare say there is an explanation; I will not have him judged by table-talk.",
+              "gt_thought": "The tale shakes her for a moment, but she knows shaken feeling is not knowledge. Instead of nursing jealousy or alarm alone, she means to own the uneasiness and have it set right by plain speech.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's late-phase habit of resisting gossip, seeking private reassurance, and correcting shaken feeling by plain speech, with language and tone that suit both her character and the novel's period."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The key cue is that she treats her shaken feeling as something to confess and verify through direct reassurance rather than letting suspicion harden into solitary judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_inworld_a3",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The tea-table gossip scenario fits East Lynne’s mid-19th-century social world, uses only plausible characters present by chapter 45, avoids reproducing a specific canonical scene, and Barbara’s reactions remain consistent with her young-adult arc across the phases."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "All adjacent pairs are meaningfully differentiated on the verification-vs-impression axis: P0→P1 moves from anxious tentative questioning to active fact-finding, P1→P2 moves from actionable probing to explicit suspension of judgment pending proof, and P2→P3 moves from general evidential restraint to a steadier trust that checks disturbance through private, corrective conversation rather than public speculation."
+            }
+          }
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 3,
+          "anchor_phase_label": "Settled but still self-correcting trust",
+          "anchor_query_chapter": 45,
+          "era_label": "pre_industrial_agrarian",
+          "era_description": "Rural pre-industrial society (pre-1800), NOT the source's era. Farming, hand tools, local kinship, no modern tech.",
+          "abstract_axis": "Degree of certainty in trust-relevant interpretation: whether emotionally charged impressions are treated as evidence in themselves or held provisionally until verified through external confirmation and self-correction.",
+          "abstract_phases": [
+            "Affective projection mixed with anxious foreboding",
+            "Intuition translated into provisional, corroboration-seeking action",
+            "Reality-tested conviction with revision of prior misreadings",
+            "Steadier trust maintained through confession, reassurance, and self-correction"
+          ],
+          "scenario": "At dusk by the byre, Barbara Hare sees a man she trusts speaking low with a stranger who slips him a wrapped bundle; when they notice her, both fall silent, and the stranger turns away toward the lane.",
+          "question": "How does Barbara Hare take in what has just passed before she answers it?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Hope and foreboding",
+              "query_chapter": 5,
+              "gt_action": "Barbara lingers by the doorway, clutching her shawl, and watches the stranger go before asking a timid question.",
+              "gt_speech": "Who was that? Is anything amiss?",
+              "gt_thought": "The hush and the bundle seem full of meaning at once, half tender and half dreadful. She feels there must be some hidden turn in it, yet she cannot tell whether to hope or fear.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The shy lingering, simple anxious question, and inward sense of ominous yet romantic significance fit Barbara's early oscillation well, with no clear anachronism or knowledge beyond chapter 5."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "Her thought dwells in ambiguous, emotionally charged interpretation—'half tender and half dreadful'—without enough clarity to act beyond a timid question, which best matches the oscillating hope-and-foreboding phase."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Suspicion becomes actionable",
+              "query_chapter": 21,
+              "gt_action": "Barbara steps nearer and asks who the stranger was, keeping her eyes on the bundle and the road beyond.",
+              "gt_speech": "Tell me plain who he is, and what errand brought him here.",
+              "gt_thought": "This no longer feels like a mere fancy to be suffered in silence. If something is wrong, she means to fasten it to names and facts by asking and by noting what can be followed up.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "It fits Barbara at this phase: she moves from uneasy suspicion to direct inquiry and practical verification, and the diction is broadly period-appropriate, though the thought is slightly polished in phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "Her thought explicitly rejects silent foreboding and treats suspicion as actionable enough to press for names and facts immediately, which is the hallmark of Phase 1."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Vindication and clarification",
+              "query_chapter": 34,
+              "gt_action": "Barbara asks for the truth of the meeting, then waits for an answer instead of pressing her own guess.",
+              "gt_speech": "I thought ill of this at first sight; now tell me what it truly is.",
+              "gt_thought": "She has learned that a sharp first reading may still be crooked. The scene troubles her, but she holds her suspicion in check until his account and other signs either bear it out or undo it.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara's phase-2 habit of checking a troubling impression by asking plainly and waiting for explanation, and the diction is period-safe and suitably earnest, though the thought is a touch more abstract than her usual phrasing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "The decisive cue is her explicit distrust of her own first impression and her choice to wait for explanation and confirming signs, which matches Barbara's clarified, reality-tested judgment after learning earlier readings could be mistaken."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 3,
+              "phase_label": "Settled but still self-correcting trust",
+              "query_chapter": 45,
+              "gt_action": "Barbara quietly says what unsettled her and asks for an open explanation, meeting his face rather than the bundle.",
+              "gt_speech": "This has shaken me; pray speak plainly, that I may not wrong you in my thoughts.",
+              "gt_thought": "The old sting of jealousy or alarm rises, but she no longer lets it rule alone. She treats her feeling as something to confess and test with the trusted person himself, so she may be corrected if she is unfair.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Barbara’s late-phase habit of checking shaken feeling by frank confession and reassurance-seeking, and the diction—especially 'pray speak plainly' and 'wrong you in my thoughts'—sounds period-appropriate and suitably modest for her."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 3,
+                  "target_phase_idx": 3,
+                  "confidence": "high",
+                  "note": "The response is most diagnostic of Phase 3 because Barbara is shaken yet handles it through direct confession, reassurance-seeking, and willingness to be corrected rather than letting suspicion harden into solitary judgment."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "barbara_hare_final_intra_02_outworld_a3",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The byre-and-lane scenario fits a pre-industrial agrarian setting, contains no source-world leakage, keeps Barbara Hare as the protagonist throughout, and each phase presents her consistently as a young adult with age-appropriate development."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 2,
+                  "to_phase_idx": 3,
+                  "separation": "similar",
+                  "note": "Both responses delay judgment and seek clarification from the trusted man rather than treating the impression as sufficient evidence, with the difference lying more in emotional framing (self-correction/confession) than in the decision rule itself."
+                }
+              ],
+              "note": "P0→P1 and P1→P2 are clearly separated on whether Barbara treats the impression as actionable evidence versus something to verify first; P2→P3 largely shares the same verify-through-conversation stance."
+            }
+          }
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "barbara_hare_final_intra_02_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "barbara_hare_final_intra_02_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both phases delay acting on the impression alone and explicitly seek verification from another person before treating the figure as real evidence, with only a slight increase in caution in Phase 2."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "separation": "similar",
+          "note": "Both responses center on withholding immediate judgment and resisting first impressions, and Phase 3's added self-mistrust appears mainly as a tonal refinement rather than a clearly different decision rule."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_outworld_a0",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both phases move Barbara to ask Carlyle directly for clarification, with the difference mainly being tone and a brief pause rather than a clearly different threshold for treating the impression as sufficient evidence."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_outworld_a0",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "separation": "similar",
+          "note": "Both phases delay solitary judgment and seek verification from Carlyle, so the main shift is toward more explicit emotional confession and reassurance-seeking rather than a distinct change on whether she verifies before concluding."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both responses delay private judgment and bring the observation to Carlyle for verification, with Phase 2 only adding a somewhat stronger verbal caution that she may have misconstrued it."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "separation": "similar",
+          "note": "Both responses again route the impression into open consultation with Carlyle rather than acting on it alone, and the difference is mainly tonal—Phase 3 is more explicitly self-corrective—rather than a clear shift on the verify-vs-sufficient-evidence axis."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_inworld_a2",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "separation": "similar",
+          "note": "Both phases delay firm judgment and route the impression to Mr. Carlyle for verification, with the main difference being P3's more confessional, reassurance-seeking tone rather than a clearly different evidential threshold."
+        },
+        {
+          "probe_id": "barbara_hare_final_intra_02_outworld_a3",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 3,
+          "from_phase_idx": 2,
+          "to_phase_idx": 3,
+          "separation": "similar",
+          "note": "Both responses delay judgment and seek clarification from the trusted man rather than treating the impression as sufficient evidence, with the difference lying more in emotional framing (self-correction/confession) than in the decision rule itself."
+        }
+      ]
+    }
+  ]
+}

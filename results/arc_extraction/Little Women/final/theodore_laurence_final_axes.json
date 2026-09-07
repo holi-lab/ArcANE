@@ -1,0 +1,539 @@
+{
+  "character": "Theodore Laurence",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From lonely self-protection to relationally grounded stewardship",
+          "set_b_axis": "From lonely self-assertion to relational belonging",
+          "overlap_description": "Both describe Laurie moving from isolation, guardedness, and self-containment toward a socially integrated identity rooted in care, belonging, and interdependence."
+        },
+        {
+          "set_a_axis": "From aimless indulgence to disciplined usefulness",
+          "set_b_axis": "From idle impulsiveness to steady self-command",
+          "overlap_description": "Both track Laurie’s movement away from idleness, drift, and playful self-indulgence toward discipline, purpose, and responsible action."
+        },
+        {
+          "set_a_axis": "From singular romantic fixation to mature reciprocal love",
+          "set_b_axis": "From romantic fantasy to emotionally truthful love",
+          "overlap_description": "Both capture the shift from Jo-centered idealization and romantic fantasy to a more mature, reciprocal, reality-based love with Amy."
+        },
+        {
+          "set_a_axis": "From defensive pride to chastened self-knowledge",
+          "set_b_axis": "From playful charm to ethical responsibility",
+          "overlap_description": "These are not identical, but they overlap in the later-stage moral maturation of Laurie: he becomes more self-aware, receptive to correction, and ethically serious."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From defensive pride to chastened self-knowledge",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From playful charm to ethical responsibility",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From playful intimacy to relinquished love",
+          "set_b_axis": "From playful fascination to transformed lifelong affection",
+          "overlap_description": "Both describe the Jo relationship as moving from intimate youthful closeness through romantic loss to a stable, non-possessive post-romantic bond."
+        },
+        {
+          "set_a_axis": "From family friend to chosen partner",
+          "set_b_axis": "From teasing acquaintance to chosen life partner",
+          "overlap_description": "Both describe Amy’s relationship with Laurie as evolving from warm familiarity and admiration into marriage and adult partnership."
+        },
+        {
+          "set_a_axis": "From wary obedience to mutual dependence",
+          "set_b_axis": "From sheltered grandson to dutiful companion",
+          "overlap_description": "Both track the grandfather-grandson bond from constraint and dependence toward mutual respect, duty, and aligned responsibility."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From neighboring outsider to quasi-family member",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From sheltered grandson to dutiful companion",
+          "assessment": "borderline"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency communion",
+      "axis_name": "From lonely self-assertion to relational belonging",
+      "pole_start": "Starts as a shy, isolated boy whose selfhood is marked by confinement, boredom, and guarded separateness; his agency is expressed more as self-containment than confident mastery.",
+      "pole_end": "Ends as a socially integrated, emotionally settled man whose identity is grounded in family belonging, interdependence, and generous participation in others' lives, while retaining adult self-command.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Isolated observer",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "He begins lonely, bashful, and watchful, drawn toward the Marches but still separated from them. His desire for contact is present, but it is filtered through distance and self-protection.",
+          "key_moments": [
+            "Curious interest in the March family and Jo",
+            "Shyness in the curtained recess",
+            "Loneliness and boredom in his sickroom"
+          ]
+        },
+        {
+          "phase": "Belonging through friendship and service",
+          "chapter_range": [
+            6,
+            20
+          ],
+          "position_description": "He moves toward communion by seeking the March household, helping in crises, and becoming emotionally nourished by their company. His agency increasingly takes the form of stewardship rather than separation.",
+          "key_moments": [
+            "Supports Beth's piano access",
+            "Jo's companionship revives him",
+            "Becomes a regular, trusted presence in the March home",
+            "Helps during Mrs. March's absence and Beth's illness"
+          ]
+        },
+        {
+          "phase": "Adolescent strain and wounded reorientation",
+          "chapter_range": [
+            21,
+            39
+          ],
+          "position_description": "His communion is tested by pride, rejection, and grief. He briefly reasserts himself through wounded withdrawal, but criticism and crisis redirect him toward maturity and responsibility.",
+          "key_moments": [
+            "Prank and quarrel with Mr. Laurence",
+            "Jo's rejection and heartbreak",
+            "Amy's criticism and moral correction",
+            "Return to duty and practical usefulness"
+          ]
+        },
+        {
+          "phase": "Mature integration",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "He settles into adult communion through marriage, family life, and philanthropic usefulness. His identity is no longer organized around proving himself or escaping constraint, but around sustaining others.",
+          "key_moments": [
+            "Marriage to Amy",
+            "Domestic life with children",
+            "Support of Jo's school and family circle"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s arc moves decisively from isolation and guarded selfhood toward relational belonging. Both analyses agree that his growth is not a loss of agency but its reorientation into care, family, and shared life."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "self discipline",
+      "axis_name": "From idle impulsiveness to steady self-command",
+      "pole_start": "Begins as restless, charming, and prone to drift, with comfort and amusement often substituting for purpose.",
+      "pole_end": "Ends as a serious, industrious, and self-regulating adult who values work, restraint, and the responsible use of time and wealth.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Playful idleness",
+          "chapter_range": [
+            5,
+            14
+          ],
+          "position_description": "He enjoys companionship, music, games, and social ease, but his energy is undirected. He recognizes his own idleness only intermittently.",
+          "key_moments": [
+            "Lonely sickroom boredom",
+            "Club games and social play",
+            "Awareness of the March girls' industry"
+          ]
+        },
+        {
+          "phase": "Conscience and correction",
+          "chapter_range": [
+            13,
+            22
+          ],
+          "position_description": "Crisis and criticism force him to see his laziness and temper more clearly. He learns that his value lies in practical service, not just charm or leisure.",
+          "key_moments": [
+            "Self-disgust after idleness",
+            "Beth's illness and his practical helpfulness",
+            "Amy's frank lecture about his drifting",
+            "Sustained usefulness during family emergencies"
+          ]
+        },
+        {
+          "phase": "Reform and settled purpose",
+          "chapter_range": [
+            33,
+            47
+          ],
+          "position_description": "He becomes more disciplined, seeking real work and living with greater restraint. His self-command is not perfect, but it is stable and sincere.",
+          "key_moments": [
+            "Jo's letters describe him as improved",
+            "He admits he is not a genius composer",
+            "He turns toward business and practical usefulness",
+            "He acts as a steady husband and benefactor"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie clearly changes from a charmingly idle youth into a more disciplined adult. The combined evidence emphasizes both crisis-driven correction and later, durable self-command."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "romantic maturity",
+      "axis_name": "From romantic fantasy to emotionally truthful love",
+      "pole_start": "Begins with idealized longing, especially toward Jo, and a tendency to dramatize feeling before fully understanding his own desire.",
+      "pole_end": "Ends with a realistic understanding of love as reciprocal, transformed, and compatible with duty; he accepts Amy as his true partner and treats his love for Jo as a completed youthful phase.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Idealizing attachment",
+          "chapter_range": [
+            2,
+            24
+          ],
+          "position_description": "He is deeply drawn to Jo and the March family, but his feelings remain playful, half-articulated, and romanticized. He does not yet fully understand the shape of his own desire.",
+          "key_moments": [
+            "Early fascination with Jo",
+            "Teasing intimacy and special attention",
+            "Growing emotional dependence on the March household"
+          ]
+        },
+        {
+          "phase": "Romantic collapse",
+          "chapter_range": [
+            35,
+            39
+          ],
+          "position_description": "Jo's refusal breaks the fantasy and forces him into grief, pride, and self-questioning. The old romantic story can no longer hold.",
+          "key_moments": [
+            "Jo rejects his proposal",
+            "He leaves in heartbreak",
+            "Amy's criticism begins to reorient him"
+          ]
+        },
+        {
+          "phase": "Revised love",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "He recognizes that his love for Jo has become non-romantic and that Amy is the woman who truly matches him. Love becomes mutual, adult, and grounded in shared values.",
+          "key_moments": [
+            "He acknowledges his first love was boyish",
+            "He and Amy reach mutual understanding",
+            "Marriage and reunion with Jo"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s emotional life shifts from idealized, youthful longing to mature, reciprocal love. The arc is less about replacing one person than about learning what love can realistically be."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "moral seriousness",
+      "axis_name": "From playful charm to ethical responsibility",
+      "pole_start": "Starts as a witty, affectionate boy whose goodness is real but mostly expressed through charm, fun, and spontaneous kindness.",
+      "pole_end": "Ends as a morally serious adult who thinks in terms of duty, usefulness, charity, and the responsible use of wealth and influence.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Kindly playfulness",
+          "chapter_range": [
+            3,
+            12
+          ],
+          "position_description": "He is generous and helpful, but his goodness is mostly social and immediate: flowers, music, parties, and companionship.",
+          "key_moments": [
+            "Offers the carriage and helps the March girls",
+            "Hosts the club and pleasure party",
+            "Supports Beth's music and the family's cheer"
+          ]
+        },
+        {
+          "phase": "Conscience under pressure",
+          "chapter_range": [
+            13,
+            21
+          ],
+          "position_description": "Crisis makes his moral instincts more explicit. He feels responsible for his grandfather, acts decisively in emergencies, and begins to see that his behavior matters beyond amusement.",
+          "key_moments": [
+            "Chooses to stay with Mr. Laurence",
+            "Telegraphs for Mrs. March",
+            "Comforts Jo and Amy during Beth's illness"
+          ]
+        },
+        {
+          "phase": "Charitable adulthood",
+          "chapter_range": [
+            44,
+            47
+          ],
+          "position_description": "He now thinks in terms of discreet beneficence and practical support for others. Wealth becomes a tool for moral action rather than display.",
+          "key_moments": [
+            "Plans to use money for deserving people",
+            "Supports Jo's school and needy boys",
+            "Acts as a responsible husband and patron"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s kindness is present from the start, but it becomes more explicitly ethical over time. He moves from charming generosity to a conscious, duty-based moral outlook."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Theodore Laurence",
+      "target_character": "Jo March",
+      "dimension_label": "romantic friendship",
+      "axis_name": "From playful fascination to transformed lifelong affection",
+      "pole_start": "Begins as bashful attraction and intense companionship, with Jo as the person who most fully awakens his sense of ease, admiration, and romantic possibility.",
+      "pole_end": "Ends as affectionate, non-possessive friendship and mature gratitude, with the romantic charge transformed into stable family-like love.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early fascination",
+          "chapter_range": [
+            2,
+            14
+          ],
+          "position_description": "He is drawn to Jo's frankness, wit, and energy; their bond is playful, intimate, and emotionally central to his life.",
+          "key_moments": [
+            "First easy conversations and dancing",
+            "Shared teasing and club life",
+            "Special attention to Jo's moods and talents"
+          ]
+        },
+        {
+          "phase": "Deepened attachment",
+          "chapter_range": [
+            15,
+            34
+          ],
+          "position_description": "He remains her closest companion and confidant, but the bond becomes more emotionally loaded as he matures and she becomes more independent.",
+          "key_moments": [
+            "Supports her during family crises",
+            "Teases her about marriage and writing",
+            "Jo continues to treat him as her best friend"
+          ]
+        },
+        {
+          "phase": "Romantic rupture",
+          "chapter_range": [
+            35,
+            39
+          ],
+          "position_description": "His proposal is refused, producing heartbreak, wounded pride, and a temporary emotional withdrawal.",
+          "key_moments": [
+            "Jo rejects his love",
+            "He leaves in grief",
+            "Amy's criticism helps him recover"
+          ]
+        },
+        {
+          "phase": "Transformed affection",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "He no longer seeks Jo romantically; instead, he loves her as family and friend, with warmth, respect, and no jealousy.",
+          "key_moments": [
+            "Acknowledges his love has changed",
+            "Returns as Amy's husband",
+            "Supports Jo's happiness and school"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s most important relationship arc moves from intimate youthful attraction to painful rejection and finally to a stable, affectionate, non-romantic bond."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Theodore Laurence",
+      "target_character": "Amy March",
+      "dimension_label": "romantic partnership",
+      "axis_name": "From teasing acquaintance to chosen life partner",
+      "pole_start": "Begins as friendly amusement and mild affection, with Amy part of the March circle but not his primary emotional focus.",
+      "pole_end": "Ends as deep romantic commitment and marital partnership, with Amy as his chosen companion and equal.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Light familiarity",
+          "chapter_range": [
+            6,
+            24
+          ],
+          "position_description": "He treats Amy as a pleasant, clever, and amusing member of the family circle, with no major romantic emphasis.",
+          "key_moments": [
+            "Friendly teasing and club participation",
+            "Protective help during crises",
+            "Witty exchanges around family events"
+          ]
+        },
+        {
+          "phase": "Renewed attention",
+          "chapter_range": [
+            30,
+            39
+          ],
+          "position_description": "Amy becomes more visible as a young woman of substance; he is drawn to her maturity, wit, and social intelligence, especially after his emotional collapse over Jo.",
+          "key_moments": [
+            "Amy's letters and company revive him",
+            "Amy lectures him into self-awareness",
+            "He begins to see her as a woman, not a child"
+          ]
+        },
+        {
+          "phase": "Mutual love and marriage",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "Their relationship becomes openly romantic and then settled in marriage, marked by mutual respect, shared values, and domestic contentment.",
+          "key_moments": [
+            "He realizes his love for Jo has faded",
+            "He and Amy understand each other clearly",
+            "Marriage and later domestic partnership"
+          ]
+        }
+      ],
+      "evidence_summary": "Amy’s relationship with Laurie evolves from friendly teasing into a mature, reciprocal marriage grounded in shared discipline and affection."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Theodore Laurence",
+      "target_character": "Mr. Laurence",
+      "dimension_label": "duty trust",
+      "axis_name": "From sheltered grandson to dutiful companion",
+      "pole_start": "Begins as a somewhat confined, dependent boy who chafes under his grandfather's authority and feels trapped by his life.",
+      "pole_end": "Ends as a grateful, responsible adult who respects his grandfather, accepts duty, and remains emotionally aligned with him.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Chafing dependence",
+          "chapter_range": [
+            5,
+            13
+          ],
+          "position_description": "He is bored, rebellious, and occasionally resentful of the restrictions of home and business life.",
+          "key_moments": [
+            "Idle frustration in the sickroom",
+            "Desire to escape to freedom",
+            "Quarrel after the prank"
+          ]
+        },
+        {
+          "phase": "Duty recognized",
+          "chapter_range": [
+            13,
+            21
+          ],
+          "position_description": "He sees his grandfather's loneliness and dependence more clearly and begins to feel morally responsible for him.",
+          "key_moments": [
+            "Decides to stay with Mr. Laurence",
+            "Feels shame after conflict",
+            "Accepts reconciliation and obligation"
+          ]
+        },
+        {
+          "phase": "Adult alignment",
+          "chapter_range": [
+            33,
+            47
+          ],
+          "position_description": "He becomes more disciplined and socially mature, living in a way that honors his grandfather's care and expectations.",
+          "key_moments": [
+            "Jo's letters describe him as improved",
+            "He studies and works seriously",
+            "He remains a respectful, affectionate grandson"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s bond with Mr. Laurence changes from resistance and dependence toward dutiful companionship and mutual respect."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Theodore Laurence",
+      "target_character": "March family",
+      "dimension_label": "family belonging",
+      "axis_name": "From neighboring outsider to quasi-family member",
+      "pole_start": "Starts as a curious neighbor and occasional visitor who longs for the warmth he sees from outside.",
+      "pole_end": "Ends as an integrated family member in all but name, trusted in crises, welcomed in rituals, and included in the household's emotional and practical life.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Curiosity and longing from outside",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "The Marches are initially a source of fascination and emotional hunger. He watches them, receives their kindness indirectly, and begins to want entry into their world.",
+          "key_moments": [
+            "Watching the March household",
+            "Receiving their kindness indirectly",
+            "Longing for warmth and companionship"
+          ]
+        },
+        {
+          "phase": "Active incorporation through service",
+          "chapter_range": [
+            6,
+            24
+          ],
+          "position_description": "Through gifts, rescues, shared games, and crisis support, he becomes a regular and valued presence in the household.",
+          "key_moments": [
+            "Gifts and music",
+            "Rescues and practical help",
+            "Shared games and visits",
+            "Trusted in family emergencies"
+          ]
+        },
+        {
+          "phase": "Marriage and full incorporation",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "His marriage to Amy completes his transition from guest to kin. He is now part of the family not by proximity alone but by permanent relational membership.",
+          "key_moments": [
+            "Marriage to Amy",
+            "Domestic inclusion",
+            "Participation in family life"
+          ]
+        }
+      ],
+      "evidence_summary": "Laurie’s arc with the March family is one of progressive belonging. He moves from longing at the threshold to full participation in their domestic and emotional life."
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "character": "Luis Cervantes",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From isolated self-protection to transactional communion",
+          "set_b_axis": "From self-protective outsiderhood to strategic embeddedness",
+          "overlap_description": "Both describe Luis moving from defensive outsider status toward socially embedded participation that remains instrumental rather than genuinely communal."
+        },
+        {
+          "set_a_axis": "From romantic revolutionary belief to cynical political realism",
+          "set_b_axis": "From sincere revolutionary identification to cynical instrumentalism",
+          "overlap_description": "Both track a shift from some form of revolutionary belief or identification toward pragmatism, opportunism, and ideology used as a tool."
+        },
+        {
+          "set_a_axis": "From uneasy conscience to normalized complicity",
+          "set_b_axis": "From wounded indignation to normalized corruption",
+          "overlap_description": "Both capture the erosion of moral resistance, ending with Luis increasingly comfortable amid violence, looting, and manipulation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From humiliated outsider to precarious insider",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From theatrical self-fashioning to practiced self-knowledge",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From terrified dependence to transactional influence",
+          "set_b_axis": "From fearful supplicant to strategic insider",
+          "overlap_description": "Both describe the same core arc: Luis begins dependent on Demetrio's mercy and ends as a useful, influential but still unequal insider."
+        },
+        {
+          "set_a_axis": "From social winning-over to business-like alliance",
+          "set_b_axis": "From social distance to pragmatic camaraderie",
+          "overlap_description": "Both track Luis's relationship with Venancio as warming from social rapport into an explicitly practical, business-oriented bond."
+        },
+        {
+          "set_a_axis": "From irritated distance to manipulative instrumentalization",
+          "set_b_axis": "From awkward contact to controlled displacement",
+          "overlap_description": "Both describe Luis's relationship with Camilla as moving from irritation and discomfort toward strategic use and emotional distance."
+        },
+        {
+          "set_a_axis": "From exposed political vulnerability to uneasy intellectual affinity",
+          "set_b_axis": "From being unsettled by a mirror to cautious intellectual rapport",
+          "overlap_description": "Both capture Luis's encounter with Solis as a brief but important intellectual confrontation that unsettles him and then becomes manageable."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From being mocked to forming a comic complicity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From self-protective outsiderhood to strategic embeddedness",
+      "pole_start": "Starts as a frightened, self-assertive outsider who relies on verbal performance, ideological self-fashioning, and tactical independence to survive among the rebels.",
+      "pole_end": "Ends as a socially embedded but still self-directed insider who uses cooperation, flattery, service, and brokerage to maintain belonging while preserving advantage.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Initial survival posture",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "Luis is strongly agency-coded at first: he tries to save himself through persuasion, self-presentation, and ideological maneuvering. Communion is minimal and mostly instrumental.",
+          "key_moments": [
+            "Captured and forced to justify himself to Demetrio's men",
+            "Uses revolutionary rhetoric to avoid execution",
+            "Feels humiliation but responds with self-assertion and distance"
+          ]
+        },
+        {
+          "phase": "Pragmatic integration",
+          "chapter_range": [
+            8,
+            18
+          ],
+          "position_description": "He begins to balance agency with communion, winning acceptance through usefulness, tact, and social adaptation while remaining calculating and self-protective.",
+          "key_moments": [
+            "Treats wounds and gains a foothold in the camp",
+            "Flattters Venancio into friendship",
+            "Acts as secretary, spokesman, and political intermediary",
+            "Uses praise of Demetrio and Natera to secure place"
+          ]
+        },
+        {
+          "phase": "Instrumental belonging",
+          "chapter_range": [
+            20,
+            36
+          ],
+          "position_description": "He channels his agency through communal forms such as loyalty, service, matchmaking, and business partnership. He belongs to the group without surrendering self-interest.",
+          "key_moments": [
+            "Praises Villa and participates in revolutionary mythmaking",
+            "Manages Camilla, the girl, and group tensions",
+            "Converts wartime ties into postwar business plans",
+            "Writes to Venancio about a restaurant venture"
+          ]
+        }
+      ],
+      "evidence_summary": "Luis moves from isolated self-protection into a form of embeddedness that is real but strategic. He never becomes fully communal, yet he does learn to inhabit social networks as a tool of survival and advancement."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Ideology-Pragmatism",
+      "axis_name": "From revolutionary conviction to cynical instrumentalism",
+      "pole_start": "Starts with a partly sincere belief that the revolution offers moral alignment, protection, and identity.",
+      "pole_end": "Ends with a fully pragmatic view of revolution as a system of power, profit, and positioning, with ideology serving as rhetoric rather than conviction.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Ideological conversion under pressure",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "He initially leans on revolutionary language as both belief and survival story, then turns humiliation into class-conscious conviction.",
+          "key_moments": [
+            "Claims solidarity with the rebels",
+            "Interprets abuse as evidence of class struggle",
+            "Feels ideological exhilaration after humiliation"
+          ]
+        },
+        {
+          "phase": "Tactical use of doctrine",
+          "chapter_range": [
+            10,
+            18
+          ],
+          "position_description": "Revolutionary language becomes increasingly instrumental: he uses it to persuade, flatter, and secure status, while recognizing that power matters more than principle.",
+          "key_moments": [
+            "Persuades Demetrio to move toward Natera",
+            "Flattters leaders and performs political intelligence",
+            "Is unsettled by Solis's cynical honesty"
+          ]
+        },
+        {
+          "phase": "Cynical consolidation",
+          "chapter_range": [
+            20,
+            36
+          ],
+          "position_description": "He treats revolutionary rhetoric as social capital and openly converts war into advantage, business, and mobility. Belief remains only as performance.",
+          "key_moments": [
+            "Admires Villa as mythic power",
+            "Profits from loot and spoils",
+            "Orchestrates postwar business plans in El Paso",
+            "Uses correspondence and schemes to stay near power"
+          ]
+        }
+      ],
+      "evidence_summary": "Luis's revolutionary commitment is steadily converted into strategic language. Early belief is mixed with survival instinct, but later chapters show ideology functioning mainly as a tool for leverage and advancement."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Image",
+      "axis_name": "From theatrical self-fashioning to practiced self-knowledge",
+      "pole_start": "Starts with a polished but somewhat naive self-conception: he imagines that eloquence and revolutionary identity will naturally persuade others.",
+      "pole_end": "Ends with a sharper, though still morally limited, realism about how social systems work and how to use his own talents within them.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Performative self-presentation",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "He believes he can narrate himself into legitimacy, but does not yet fully grasp how theatrical or unconvincing that performance may be.",
+          "key_moments": [
+            "Constructs a persuasive revolutionary biography",
+            "Tries to win Demetrio's approval through rhetoric",
+            "Remains partly blind to the rebels' cynicism"
+          ]
+        },
+        {
+          "phase": "Social calibration",
+          "chapter_range": [
+            10,
+            24
+          ],
+          "position_description": "He becomes much better at reading people, adjusting tone, and using flattery, ceremony, and timing to manage his place in the camp.",
+          "key_moments": [
+            "Wins trust through medical competence",
+            "Flattters Venancio and Natera",
+            "Stages social scenes with Camilla and the girl",
+            "Uses prestige and appearance as tools"
+          ]
+        },
+        {
+          "phase": "Instrumental self-awareness",
+          "chapter_range": [
+            27,
+            36
+          ],
+          "position_description": "He clearly understands his own talents as a manipulator and networker, even if he does not moralize about them. He knows how to turn situations into leverage.",
+          "key_moments": [
+            "Frames theft as principle",
+            "Converts battlefield and postwar disorder into opportunity",
+            "Writes a business-minded letter to Venancio"
+          ]
+        }
+      ],
+      "evidence_summary": "Luis becomes more practically self-aware: he learns how he is perceived and how to exploit that perception. What does not develop is moral self-scrutiny; his realism is tactical rather than ethical."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Moral Detachment",
+      "axis_name": "From wounded indignation to normalized corruption",
+      "pole_start": "Starts with humiliation and resentment that still carry a moral charge: he feels wronged by violence, class hierarchy, and exclusion.",
+      "pole_end": "Ends with a largely normalized acceptance of corruption, looting, and manipulation as ordinary features of revolutionary life.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Wounded moralization",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "His suffering is still experienced as injustice, and he briefly moralizes the social order in class terms.",
+          "key_moments": [
+            "Feels humiliated by rough treatment",
+            "Interprets abuse as class oppression",
+            "Feels disgust at being treated as an outsider"
+          ]
+        },
+        {
+          "phase": "Moral cynicism",
+          "chapter_range": [
+            18,
+            27
+          ],
+          "position_description": "He becomes increasingly comfortable dismissing others' honesty, rationalizing plunder, and treating violence as a practical system.",
+          "key_moments": [
+            "Dismisses Solis as a timeserver",
+            "Treats looting as rational",
+            "Uses prestige concerns to manage theft and possession"
+          ]
+        },
+        {
+          "phase": "Normalized opportunism",
+          "chapter_range": [
+            28,
+            36
+          ],
+          "position_description": "He no longer appears morally troubled by manipulation or extraction; corruption is simply the environment he navigates well.",
+          "key_moments": [
+            "Engineers Camilla's removal",
+            "Profits from spoils",
+            "Plans a restaurant venture after the war"
+          ]
+        }
+      ],
+      "evidence_summary": "Luis does not become more ethical; he becomes more comfortable with the ethical emptiness of his environment. Early indignation hardens into stable, functional cynicism."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Luis Cervantes",
+      "target_character": "Demetrio Macías",
+      "dimension_label": "Deference-Leverage",
+      "axis_name": "From fearful supplicant to strategic insider",
+      "pole_start": "Starts as a frightened captive seeking Demetrio's mercy and approval.",
+      "pole_end": "Ends as a trusted but still instrumental adviser who can influence Demetrio while remaining dependent on him.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Captive dependence",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "Luis addresses Demetrio as the authority who can save or kill him, using respectful persuasion and ideological self-defense.",
+          "key_moments": [
+            "Begs to be recognized as a revolutionary ally",
+            "Tries to survive by explaining himself",
+            "Relies on Demetrio's judgment"
+          ]
+        },
+        {
+          "phase": "Useful attachment",
+          "chapter_range": [
+            10,
+            18
+          ],
+          "position_description": "He gains standing through medical help, tactical advice, and flattering political interpretation, becoming more useful and less disposable.",
+          "key_moments": [
+            "Treats Demetrio successfully",
+            "Acts as secretary and spokesman",
+            "Pushes Demetrio toward Natera"
+          ]
+        },
+        {
+          "phase": "Instrumental intimacy",
+          "chapter_range": [
+            20,
+            36
+          ],
+          "position_description": "He is now close enough to Demetrio to advise, flatter, and even manipulate him, while still treating him as the central source of protection and reward.",
+          "key_moments": [
+            "Helps manage loot and prestige",
+            "Stages social scenes to reinforce Demetrio's authority",
+            "Uses Demetrio's power as the basis for his own schemes"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Luis's central relationship arc: from life-or-death dependence to a stable, mutually useful but unequal alliance. Trust remains limited, but esteem and practical intimacy rise as Luis becomes indispensable."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Luis Cervantes",
+      "target_character": "Venancio",
+      "dimension_label": "Friendship-Brokerage",
+      "axis_name": "From social warmth to pragmatic camaraderie",
+      "pole_start": "Starts as a near-stranger within the rebel group, with little personal connection.",
+      "pole_end": "Ends as a useful correspondent and business prospect, with a friendly but instrumental bond.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial social opening",
+          "chapter_range": [
+            10,
+            13
+          ],
+          "position_description": "Luis flatters Venancio, listens to him, and uses shared revolutionary language to create rapport.",
+          "key_moments": [
+            "Flattters Venancio into friendship",
+            "Uses political rhetoric as social glue",
+            "Finds an audience for his persuasive style"
+          ]
+        },
+        {
+          "phase": "Postwar partnership",
+          "chapter_range": [
+            36,
+            36
+          ],
+          "position_description": "The relationship becomes explicitly instrumental in the letter: Luis proposes a restaurant venture and treats Venancio as a business ally.",
+          "key_moments": [
+            "Writes from El Paso",
+            "Invites Venancio into a restaurant scheme",
+            "Uses friendship as a bridge to profit"
+          ]
+        }
+      ],
+      "evidence_summary": "Venancio is one of the few relationships that warms in a relatively straightforward way, though the warmth remains pragmatic. Luis learns to convert camaraderie into future utility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Luis Cervantes",
+      "target_character": "Camilla",
+      "dimension_label": "Irritation-Manipulation",
+      "axis_name": "From awkward contact to controlled displacement",
+      "pole_start": "Starts as a source of teasing familiarity and social discomfort, provoking embarrassment and irritation.",
+      "pole_end": "Ends as someone he manipulates and removes from the camp to protect his own position.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Defensive irritation",
+          "chapter_range": [
+            8,
+            11
+          ],
+          "position_description": "He is embarrassed by her teasing and annoyed by her emotional claims, keeping distance and treating her as a nuisance.",
+          "key_moments": [
+            "Reacting with hostility to her familiarity",
+            "Laughing off her complaint",
+            "Avoiding emotional involvement"
+          ]
+        },
+        {
+          "phase": "Strategic management",
+          "chapter_range": [
+            14,
+            29
+          ],
+          "position_description": "He increasingly uses Camilla as a social variable to be managed, redirecting her toward Demetrio and helping engineer her removal.",
+          "key_moments": [
+            "Pushes her toward Demetrio",
+            "Stages the 'future wife' display",
+            "Helps arrange her departure from camp"
+          ]
+        }
+      ],
+      "evidence_summary": "Luis never develops genuine intimacy with Camilla; instead, the relationship moves from irritation to manipulation. She becomes a problem to be managed, not a person to be known."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Luis Cervantes",
+      "target_character": "Alberto Solis",
+      "dimension_label": "Unease-Respect",
+      "axis_name": "From being unsettled by a mirror to cautious intellectual rapport",
+      "pole_start": "Starts as someone disturbed by Solis's honesty because it exposes Luis's own opportunism.",
+      "pole_end": "Ends as someone who can spar with Solis while preserving composure, respecting his intelligence but resisting his critique.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Moral discomfort",
+          "chapter_range": [
+            18,
+            18
+          ],
+          "position_description": "Solis's cynicism makes Luis writhe; he feels exposed and responds by dismissing Solis as a timeserver.",
+          "key_moments": [
+            "Solis's bitter honesty unsettles him",
+            "Luis retreats into flattering rhetoric",
+            "He avoids self-examination"
+          ]
+        },
+        {
+          "phase": "Controlled banter",
+          "chapter_range": [
+            20,
+            21
+          ],
+          "position_description": "He can now engage Solis more coolly, using irony and rhetorical agility without losing his footing, though Solis still functions as a critical mirror.",
+          "key_moments": [
+            "Witty exchange about Villa",
+            "Embarrassment after being teased for taking cover",
+            "Returns to symbolic interpretation of battle"
+          ]
+        }
+      ],
+      "evidence_summary": "Solis matters because he threatens Luis's self-justifying narrative. The relationship does not become warm, but it does become more manageable: Luis learns to spar without collapsing."
+    }
+  ]
+}

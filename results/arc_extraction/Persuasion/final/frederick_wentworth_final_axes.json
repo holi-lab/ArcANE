@@ -1,0 +1,570 @@
+{
+  "character": "Captain Frederick Wentworth",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-protective independence to chosen relational openness",
+          "set_b_axis": "From proud self-assertion to mutual attachment",
+          "overlap_description": "Both describe Wentworth moving from defensive autonomy and emotional guardedness toward a healthier, reciprocal openness with Anne."
+        },
+        {
+          "set_a_axis": "From vindicated pride to chastened self-knowledge",
+          "set_b_axis": "From wounded pride to self-correcting humility",
+          "overlap_description": "Both track the same moral correction: Wentworth comes to see his pride, delay, and misreading as part of the separation rather than treating himself as only wronged."
+        },
+        {
+          "set_a_axis": "From absolutist firmness to tempered judgment",
+          "set_b_axis": "From fixed judgments to revised moral understanding",
+          "overlap_description": "Both focus on his revision of the 'firmness' ideal after the Lyme crisis, shifting from rigid evaluative certainty to more nuanced judgment."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From self-protective independence to chosen relational openness",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From vindicated pride to chastened self-knowledge",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From absolutist firmness to tempered judgment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From proud self-assertion to mutual attachment",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From wounded pride to self-correcting humility",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From fixed judgments to revised moral understanding",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From guarded composure to candid emotional declaration",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From guarded estrangement to mutual emotional recognition",
+          "set_b_axis": "From wounded distance to reciprocal intimacy",
+          "overlap_description": "Both describe the central Anne-Wentworth arc from hurt distance and restraint to mutual recognition, trust, and renewed commitment."
+        },
+        {
+          "set_a_axis": "From flirtatious courtship to burdened responsibility",
+          "set_b_axis": "From courtship interest to respectful release",
+          "overlap_description": "Both capture the Louisa relationship as a courtship that collapses after the Cobb accident into guilt, distance, and non-romantic responsibility."
+        },
+        {
+          "set_a_axis": "From suspected rival to morally dismissed pretender",
+          "set_b_axis": "From wary rivalry to contemptuous irrelevance",
+          "overlap_description": "Both treat Mr Elliot as a late rival whose apparent threat is undone by exposure of his moral falseness."
+        },
+        {
+          "set_a_axis": "From former obstacle to forgiven family ally",
+          "set_b_axis": "From injured distrust to softened forgiveness",
+          "overlap_description": "Both describe Wentworth's softened stance toward Lady Russell, moving from resentment over the broken engagement toward reconciliation and forgiveness."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From former obstacle to forgiven family ally",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wounded distance to reciprocal intimacy",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From courtship interest to respectful release",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From wary rivalry to contemptuous irrelevance",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From injured distrust to softened forgiveness",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From guarded composure to candid emotional declaration",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From attraction and testing to respectful release",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From friendly fellowship to confessional trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From proud self-protection to reciprocal attachment",
+      "pole_start": "Strongly agency-oriented: independent, self-possessed, proud, and emotionally guarded after Anne's rejection, using distance and control to preserve dignity.",
+      "pole_end": "More communion-oriented: still self-respecting and independent, but willing to trust, reconcile, and enter mutual attachment without defensive isolation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive independence",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "Wentworth begins by managing hurt through composure, avoidance, and social performance, keeping Anne at a distance while maintaining a confident exterior.",
+          "key_moments": [
+            "Clarification of the broken engagement and his sense of injury",
+            "Avoidance of meaningful contact at the Cottage",
+            "His remark that Anne is 'so altered he should not have known her again'",
+            "Outward confidence and flirtatious sociability in the Musgrove circle"
+          ]
+        },
+        {
+          "phase": "Agency strained by attachment",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "The Lyme crisis and later Bath encounters weaken his self-mastery: guilt, jealousy, embarrassment, and reliance on Anne's judgment reveal that emotional need is pressing through his independence.",
+          "key_moments": [
+            "Silently helping Anne into the gig",
+            "Louisa's fall on the Cobb and his panic",
+            "Turning to Anne for direction in the crisis",
+            "Visible unease and jealousy on seeing Anne with Mr Elliot",
+            "The Octagon Room conversation reopening intimacy"
+          ]
+        },
+        {
+          "phase": "Chosen mutuality",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "He moves into a stable form of communion: he receives Anne's reciprocal love, confesses himself openly, and accepts shared life without losing dignity or agency.",
+          "key_moments": [
+            "The letter scene and emotional reconciliation",
+            "Explicit confession of enduring love",
+            "Publicly recognized engagement and future partnership"
+          ]
+        }
+      ],
+      "evidence_summary": "Wentworth's arc is a movement from defensive self-protection toward a mature reciprocity. He does not abandon independence; rather, he learns that independence can coexist with trust, tenderness, and mutual commitment."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Pride-Humility",
+      "axis_name": "From wounded pride to self-correcting humility",
+      "pole_start": "Proud, offended, and convinced that Anne's refusal and Lady Russell's influence justified his resentment; he initially protects himself by treating himself as the wronged party.",
+      "pole_end": "Humility tempered by self-knowledge: he recognizes his own pride, delay, and misreading as part of the separation and can accept shared fault without self-abasement.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Offended self-protection",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "He preserves self-respect through emotional distance and a proud interpretation of the past, reading Anne through the lens of injury and perceived disloyalty.",
+          "key_moments": [
+            "Retrospective account of his naval rise and wounded pride",
+            "Avoidant behavior toward Anne",
+            "Assumption that Anne lacked firmness and was persuaded by others"
+          ]
+        },
+        {
+          "phase": "Pride destabilized",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Louisa's accident punctures his certainty and exposes the limits of his earlier confidence in firmness, decisiveness, and his own judgment.",
+          "key_moments": [
+            "Louisa's fall on the Cobb",
+            "Terror, guilt, and practical urgency",
+            "Withdrawal and recovery through restraint"
+          ]
+        },
+        {
+          "phase": "Self-reproach and correction",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "In Bath, renewed intimacy and the letter scene bring explicit self-correction: he sees that his pride and delay helped prolong the separation and that Anne's conduct was shaped by duty.",
+          "key_moments": [
+            "Emotional exposure in Bath",
+            "The Octagon Room exchange",
+            "Explicit recognition that he misread Anne and stayed silent too long"
+          ]
+        },
+        {
+          "phase": "Humility stabilized",
+          "chapter_range": [
+            22,
+            22
+          ],
+          "position_description": "His humility settles into a mature moral stance: he can forgive, act generously, and live with the past without needing to defend his pride.",
+          "key_moments": [
+            "Secure engagement",
+            "Practical generosity and loyalty"
+          ]
+        }
+      ],
+      "evidence_summary": "Wentworth's pride is not simply defeated; it is corrected into humility. The novel culminates in his ability to acknowledge shared fault while retaining self-respect."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Judgment-Reassessment",
+      "axis_name": "From fixed firmness to revised moral understanding",
+      "pole_start": "He begins with simplified judgments about character: firmness is good, persuasion is weakness, and Anne's earlier choice proves her lack of resolve.",
+      "pole_end": "He ends with a more nuanced moral understanding: firmness must be joined to judgment, constancy can coexist with vulnerability, and his earlier interpretations were incomplete.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Fixed evaluative framework",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "He reads people through a rigid code of firmness, decision, and practical sense, using that code to judge Anne and to admire Louisa.",
+          "key_moments": [
+            "Desire for a wife of strong mind and sweetness",
+            "Belief that Anne was over-persuaded and therefore unfit"
+          ]
+        },
+        {
+          "phase": "Framework challenged",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Louisa's accident exposes the danger of valuing decisiveness without prudence, forcing him to question whether his standards are sufficient.",
+          "key_moments": [
+            "Louisa's fall destabilizes his admiration for firmness",
+            "His caution and restraint show a more complex practical ethic"
+          ]
+        },
+        {
+          "phase": "Revised understanding",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "He comes to see that Anne's apparent weakness was shaped by duty, and that his own certainty about her was mistaken; his moral framework becomes more balanced and humane.",
+          "key_moments": [
+            "Renewed interpretive openness toward Anne",
+            "Explicit recognition that he misread Anne and delayed too long"
+          ]
+        }
+      ],
+      "evidence_summary": "Wentworth does not abandon his values, but he revises them. He moves from a narrow code of firmness to a more mature ethic that includes judgment, patience, and emotional intelligence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Restraint-Expressiveness",
+      "axis_name": "From guarded composure to candid emotional declaration",
+      "pole_start": "He begins highly restrained, using composure, politeness, and silence to conceal injury and desire.",
+      "pole_end": "He ends able to express love directly and act on it without hiding behind defensive reserve.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Polished concealment",
+          "chapter_range": [
+            6,
+            9
+          ],
+          "position_description": "He keeps his feelings hidden behind social ease, avoiding direct engagement with Anne while remaining outwardly charming.",
+          "key_moments": [
+            "Coldly polite distance from Anne",
+            "Social confidence as performance",
+            "Controlled sociability in Lyme"
+          ]
+        },
+        {
+          "phase": "Emotional leakage",
+          "chapter_range": [
+            10,
+            18
+          ],
+          "position_description": "His restraint weakens under pressure; fear, jealousy, embarrassment, and tenderness become visible in action and speech.",
+          "key_moments": [
+            "Terror and guilt after Louisa's accident",
+            "Flushed embarrassment in Bath",
+            "Emotionally charged conversation and withdrawal"
+          ]
+        },
+        {
+          "phase": "Direct expression",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "He moves beyond concealment into explicit declaration and open commitment, no longer needing emotional disguise.",
+          "key_moments": [
+            "Letter to Anne and mutual understanding",
+            "Public, settled engagement"
+          ]
+        }
+      ],
+      "evidence_summary": "Wentworth's emotional life becomes progressively less containable. The culmination is the letter scene, where restraint gives way to directness and emotional truth."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Captain Frederick Wentworth",
+      "target_character": "Anne Elliot",
+      "dimension_label": "Distance-Intimacy",
+      "axis_name": "From wounded distance to reciprocal intimacy",
+      "pole_start": "Emotionally distant, guarded, and resentful; he keeps Anne at arm's length to protect himself from renewed vulnerability.",
+      "pole_end": "Deeply intimate, trusting, and mutually committed; Anne becomes his acknowledged emotional partner and future wife.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive estrangement",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "He is polite but avoidant, treating Anne as a painful reminder of past injury rather than as an available emotional partner.",
+          "key_moments": [
+            "First direct meeting marked by restraint and distance",
+            "He helps her into the carriage, revealing hidden tenderness beneath resentment"
+          ]
+        },
+        {
+          "phase": "Uneasy reactivation",
+          "chapter_range": [
+            10,
+            18
+          ],
+          "position_description": "His feelings for Anne become increasingly active and visible; he relies on her judgment in crisis, then grows embarrassed and jealous in Bath as intimacy becomes imaginable again.",
+          "key_moments": [
+            "Turns to Anne in the Cobb crisis",
+            "Visibly unsettled by seeing her in Bath",
+            "Hopeful, attentive conversation that signals renewed attachment",
+            "Octagon Room exchange about enduring love"
+          ]
+        },
+        {
+          "phase": "Mutual recognition",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "He receives confirmation of Anne's love, declares himself, and enters a stable reciprocal bond with her.",
+          "key_moments": [
+            "Letter and emotional reconciliation",
+            "Engagement becomes settled and socially recognized"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Wentworth's central relational arc: from protective distance after heartbreak to full intimacy grounded in mutual recognition, trust, and love."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Captain Frederick Wentworth",
+      "target_character": "Louisa Musgrove",
+      "dimension_label": "Courtship-Responsibility",
+      "axis_name": "From courtship interest to respectful release",
+      "pole_start": "He is attracted to Louisa as a spirited, decisive woman who seems to fit his ideal of firmness and liveliness.",
+      "pole_end": "He is disappointed but no longer romantically attached, treating her with respect and relinquishing her claim without bitterness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Attraction and testing",
+          "chapter_range": [
+            7,
+            9
+          ],
+          "position_description": "He increasingly favors Louisa as the more decisive and lively of the Musgrove sisters, and she becomes the likely object of his courtship.",
+          "key_moments": [
+            "Lively social attention and flirtatious engagement",
+            "Louisa's firmness confirms his admiration",
+            "Continued favor and esteem"
+          ]
+        },
+        {
+          "phase": "Shock and guilt",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Louisa's accident transforms attraction into anguish, self-reproach, and protective concern.",
+          "key_moments": [
+            "Terror and guilt after the fall on the Cobb",
+            "Cautious distance to avoid harming her recovery"
+          ]
+        },
+        {
+          "phase": "Respectful release",
+          "chapter_range": [
+            16,
+            16
+          ],
+          "position_description": "He accepts Louisa's engagement to Benwick without public bitterness, showing that the romantic claim has been relinquished.",
+          "key_moments": [
+            "Letter and report indicate calm acceptance of Louisa's choice"
+          ]
+        }
+      ],
+      "evidence_summary": "Louisa matters greatly to Wentworth for a stretch of the novel, but the relationship ends in respectful disengagement rather than lasting attachment. Her role is crucial because it exposes the limits of his earlier ideals and clears the way back to Anne."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Captain Frederick Wentworth",
+      "target_character": "Mr Elliot",
+      "dimension_label": "Suspicion-Dismissal",
+      "axis_name": "From wary rivalry to contemptuous irrelevance",
+      "pole_start": "He initially registers Mr Elliot as a possible rival and source of social threat in Anne's orbit.",
+      "pole_end": "He dismisses Mr Elliot as morally false and no longer a meaningful obstacle once Anne's feelings are clarified.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Emerging rivalry",
+          "chapter_range": [
+            17,
+            18
+          ],
+          "position_description": "Seeing Mr Elliot near Anne produces embarrassment, caution, and jealousy; Wentworth treats him as a real competitor.",
+          "key_moments": [
+            "Immediate notice of Mr Elliot in Bath",
+            "Jealousy and heightened sensitivity to his presence"
+          ]
+        },
+        {
+          "phase": "Rival removed",
+          "chapter_range": [
+            19,
+            21
+          ],
+          "position_description": "Anne's rejection of Mr Elliot and the exposure of his character strip him of romantic significance and confirm Wentworth's suspicions.",
+          "key_moments": [
+            "Indirect clearing of the emotional field around Anne",
+            "Contempt and suspicion sharpen as Anne's position becomes clearer",
+            "Mr Elliot ceases to matter as a rival"
+          ]
+        }
+      ],
+      "evidence_summary": "Mr Elliot functions as a late-stage rival whose importance is real but temporary. Wentworth's relation to him moves from anxious suspicion to moral dismissal."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Captain Frederick Wentworth",
+      "target_character": "Lady Russell",
+      "dimension_label": "Resentment-Forgiveness",
+      "axis_name": "From injured distrust to softened forgiveness",
+      "pole_start": "He distrusts and resents Lady Russell as the force behind Anne's refusal and his own heartbreak.",
+      "pole_end": "He can forgive her and regard her with softened judgment once he understands the fuller truth of Anne's situation and his own role in the separation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Original grievance",
+          "chapter_range": [
+            4,
+            8
+          ],
+          "position_description": "Lady Russell is associated with the broken engagement and remains a figure of low trust and low esteem in Wentworth's implied memory.",
+          "key_moments": [
+            "Retrospective sense of being ill used by her opposition",
+            "Belief that Anne was persuaded by Lady Russell hardens his judgment"
+          ]
+        },
+        {
+          "phase": "Softening through self-knowledge",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Once he recognizes Anne's constancy and his own pride, his resentment toward Lady Russell becomes less absolute and more forgiving.",
+          "key_moments": [
+            "Self-reproach reduces the need to blame only Lady Russell",
+            "Respectful forgiveness is possible"
+          ]
+        }
+      ],
+      "evidence_summary": "Lady Russell remains a significant but secondary relational axis. The change is meaningful because Wentworth's forgiveness marks the completion of his moral maturation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Captain Frederick Wentworth",
+      "target_character": "Captain Harville",
+      "dimension_label": "Camaraderie-Trust",
+      "axis_name": "From naval fellowship to confessional trust",
+      "pole_start": "Warm, respectful naval camaraderie with a trusted fellow officer.",
+      "pole_end": "A relationship of deep trust and emotional usefulness, culminating in Harville as the confidant through whom Wentworth can finally speak to Anne.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Established fellowship",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "He values Harville's domestic warmth, loyalty, and practical goodness as part of the naval world he admires.",
+          "key_moments": [
+            "Strong friendship and admiration for Harville",
+            "Harville's steadiness in the crisis reinforces trust"
+          ]
+        },
+        {
+          "phase": "Confidential conduit",
+          "chapter_range": [
+            18,
+            21
+          ],
+          "position_description": "Harville becomes the trusted conversational partner through whom Wentworth articulates his feelings and writes the decisive letter to Anne.",
+          "key_moments": [
+            "Conversation about love and constancy",
+            "Harville as the immediate witness to the letter and confession"
+          ]
+        }
+      ],
+      "evidence_summary": "Harville is not a romantic target but a crucial relational support. The arc matters because it shows Wentworth's trust in male friendship as a bridge to emotional truth."
+    }
+  ]
+}

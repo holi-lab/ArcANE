@@ -1,0 +1,580 @@
+{
+  "character": "Elizabeth March",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From shy self-effacement to loving, trusted communion",
+          "set_b_axis": "From self-effacing communion to spiritually grounded selfhood",
+          "overlap_description": "Both describe Beth as fundamentally communion-oriented, with growth occurring not toward independence but toward a more secure, conscious, and meaningful inner life."
+        },
+        {
+          "set_a_axis": "From fearful withdrawal to quiet brave action",
+          "set_b_axis": "From timid composure to serene acceptance",
+          "overlap_description": "Both track Beth's movement from timidity and vulnerability toward a steadier form of courage or composure under pressure, especially in illness and death."
+        },
+        {
+          "set_a_axis": "From believing her wants must be postponed to recognizing her life has value",
+          "set_b_axis": "From unselfconscious modesty to acknowledged inner life",
+          "overlap_description": "Both focus on Beth's growing self-recognition: she comes to name her own needs, pain, and worth rather than remaining wholly self-effacing."
+        },
+        {
+          "set_a_axis": "From anxious hopefulness to peaceful acceptance of loss",
+          "set_b_axis": "From timid composure to serene acceptance",
+          "overlap_description": "Both include Beth's final acceptance of mortality and suffering, though Set B frames it more explicitly as spiritual serenity."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From anxious hopefulness to peaceful acceptance of loss",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From self-effacing communion to spiritually grounded selfhood",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unselfconscious modesty to acknowledged inner life",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From timid composure to serene acceptance",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From affectionate sisterhood to intimate emotional confidante",
+          "set_b_axis": "From gentle sisterly closeness to final confidante bond",
+          "overlap_description": "Both describe Beth and Jo's bond as deepening from warm sisterhood into final confessional intimacy around Beth's dying and emotional truth."
+        },
+        {
+          "set_a_axis": "From obedient daughter to cherished maternal confidante",
+          "set_b_axis": "From loving dependence to protected farewell",
+          "overlap_description": "Both capture Beth's stable but deepening bond with Marmee, emphasizing dependence, trust, and the emotional meaning of separation and care."
+        },
+        {
+          "set_a_axis": "From timid fear to affectionate trust",
+          "set_b_axis": "From cautious friendliness to warm, trusting affection",
+          "overlap_description": "Both identify Beth's relationship with Mr. Laurence as moving from fear or caution to warm trust through his kindness and generosity."
+        },
+        {
+          "set_a_axis": "From shy acquaintance to trusted emotional ally",
+          "set_b_axis": "From cautious friendliness to warm, trusting affection",
+          "overlap_description": "Both treat Beth's bond with Laurie as a gentle, non-romantic affection that becomes more secure, familiar, and emotionally integrated over time."
+        },
+        {
+          "set_a_axis": "From gentle caretaking to mutual admiration",
+          "set_b_axis": "From gentle sisterly closeness to final confidante bond",
+          "overlap_description": "This is not a direct one-to-one match, but Set B's emphasis on Beth's relational centrality and moral exemplarity partially overlaps with Set A's reciprocal esteem between Beth and Amy."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From gentle caretaking to mutual admiration",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From loving dependence to protected farewell",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Communion-Agency",
+      "axis_name": "From self-effacing communion to spiritually grounded selfhood",
+      "pole_start": "Beth begins as deeply communion-oriented: shy, yielding, service-focused, and defined by care, harmony, and domestic duty rather than self-assertion.",
+      "pole_end": "Beth remains communion-oriented, but ends with a clearer, more secure inner self: she can name her pain, recognize her limits, accept her life and death as meaningful, and speak with quiet confidence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early domestic communion",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Beth lives almost entirely on the communion side of the axis. She seeks peace, serves others, and treats her own wishes as secondary, yet her gentleness already carries moral purpose.",
+          "key_moments": [
+            "She frames duty and gratitude through her father's letter and Marmee's teaching.",
+            "She comforts the Hummels and helps sustain family harmony.",
+            "She delights in music and Mr. Laurence's kindness without becoming self-assertive."
+          ]
+        },
+        {
+          "phase": "Communion under strain",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Illness, grief, and caretaking test Beth's relational identity. She continues to serve and preserve order, but now her fragility, self-denial, and quiet endurance become more visible and costly.",
+          "key_moments": [
+            "Father's illness and Marmee's departure intensify her domestic responsibility.",
+            "The Hummel baby episode leads to fever and delirium.",
+            "She longs for the seaside but immediately suppresses her own claim on it."
+          ]
+        },
+        {
+          "phase": "Conscious selfhood within communion",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Beth becomes more inwardly articulate. She recognizes that she is dying, can name her sorrow, and understands that her life has value even without outward ambition or mastery.",
+          "key_moments": [
+            "She tells Jo she has long known she is dying.",
+            "She asks for companionship without false hope.",
+            "She receives Jo's poem as confirmation that her life mattered."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth does not move toward independence in a strong sense; instead, she deepens and clarifies a communion-based identity. The merged evidence shows a shift from shy self-effacement to spiritually grounded selfhood, with greater inner security, self-recognition, and acceptance."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Timidity-Courage",
+      "axis_name": "From fearful withdrawal to quiet brave action",
+      "pole_start": "Beth begins timid, bashful, and easily intimidated by unfamiliar adults, public exposure, and bodily discomfort.",
+      "pole_end": "Beth remains shy, but can act with quiet courage when love, duty, or truth require it, especially in illness and final confession.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Baseline shyness",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Beth is marked by fear of people and a preference for sheltered domestic safety.",
+          "key_moments": [
+            "She names fear of people as one of her burdens.",
+            "She is too bashful to attend school.",
+            "She retreats into homebound routines."
+          ]
+        },
+        {
+          "phase": "First brave openings",
+          "chapter_range": [
+            6,
+            14
+          ],
+          "position_description": "Beth begins to test her fear through small acts of social courage and trust.",
+          "key_moments": [
+            "She approaches and thanks Mr. Laurence.",
+            "She accepts and plays the piano.",
+            "She speaks up in the club and includes Laurie."
+          ]
+        },
+        {
+          "phase": "Courage as endurance",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Her courage becomes less social and more sacrificial: she endures illness, keeps helping, and accepts discomfort without complaint.",
+          "key_moments": [
+            "She continues household duty during Marmee's absence.",
+            "She sings or comforts others through grief.",
+            "She resists claiming the seaside trip as a selfish gift."
+          ]
+        },
+        {
+          "phase": "Courage in truth-telling and acceptance",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Beth's bravest acts are emotional rather than outward: she tells Jo the truth about dying, asks for realistic companionship, and accepts her fate without panic.",
+          "key_moments": [
+            "She confides that she knows she is dying.",
+            "She asks Jo not to hope too much.",
+            "She receives Jo's poem as a final affirmation."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth never becomes bold in an extroverted sense, but she does move from fear-driven withdrawal to quiet, meaningful courage: approaching feared people, speaking honestly, and enduring suffering with composure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-Recognition",
+      "axis_name": "From self-effacing modesty to acknowledged inner life",
+      "pole_start": "Beth begins almost entirely unselfconscious: she knows she is shy and dutiful, but she rarely treats her own feelings, pain, or worth as significant.",
+      "pole_end": "Beth ends with a clearer recognition of her own feelings, value, and mortality; she can name her sorrow, her fear of burdening others, and her need for reassurance that her life mattered.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Quiet self-effacement",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Beth understands herself mainly as a helper and peacemaker. She notices longing or hurt, but rarely interprets those feelings as worthy of attention.",
+          "key_moments": [
+            "She accepts chores and hardship without complaint.",
+            "She shows shy delight in music and praise.",
+            "She is briefly hurt by exclusion from Jo's confidences."
+          ]
+        },
+        {
+          "phase": "Growing awareness through suffering",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Illness and family crisis make Beth more aware of her vulnerability. She still suppresses self-focus, but her body and emotions become harder to ignore.",
+          "key_moments": [
+            "She recognizes symptoms and consults Marmee's book.",
+            "She endures delirious illness and recovery.",
+            "She quietly longs for the seaside, then denies herself it."
+          ]
+        },
+        {
+          "phase": "Explicit self-recognition",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Beth becomes able to articulate inward pain and difference from her sisters. She recognizes that she is dying, that her life has not followed the others' paths, and that she needs reassurance that her life has had value.",
+          "key_moments": [
+            "Chapter 32's unnamed heart-pain.",
+            "Her confession to Jo that she knows she is dying.",
+            "Her fear that she has done too little.",
+            "Her relief and self-acceptance in Chapter 40."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth's arc includes a real but quiet movement from self-effacing innocence toward explicit self-recognition. She does not become self-assertive, but she does become more conscious of her own inner life, especially under the pressure of illness and death."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Serenity-Acceptance",
+      "axis_name": "From timid composure to serene acceptance",
+      "pole_start": "Beth begins calm but timid, with a serenity that is real yet vulnerable to fear, bodily discomfort, and social intimidation.",
+      "pole_end": "Beth ends in a deeper, tested serenity: she accepts suffering and death with spiritual peace, gratitude, and trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Gentle baseline",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Beth is generally serene, but her calmness is paired with shyness, bodily sensitivity, and occasional overwhelm by disorder or grandeur.",
+          "key_moments": [
+            "Timidity before Mr. Laurence.",
+            "Headaches and physical fragility.",
+            "Small irritation when the household is disorderly."
+          ]
+        },
+        {
+          "phase": "Serenity tested by illness",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Sickness and family crisis strain Beth's composure, but she repeatedly returns to quiet endurance. Her serenity becomes more resilient because it must coexist with fear, grief, and weakness.",
+          "key_moments": [
+            "Father's illness.",
+            "The Hummel baby's death.",
+            "Fever and delirium.",
+            "Recovery and seaside longing."
+          ]
+        },
+        {
+          "phase": "Peaceful resignation",
+          "chapter_range": [
+            36,
+            40
+          ],
+          "position_description": "Beth's serenity becomes explicitly spiritual and final. She no longer merely stays calm; she actively accepts death, comforts others, and experiences peace as a conscious moral state.",
+          "key_moments": [
+            "Telling Jo she knows she is dying.",
+            "Acceptance of her limited life-path.",
+            "Calm gratitude and joy in Chapter 40."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth's emotional arc is quiet but meaningful: her early composure is tested by suffering and then transformed into a more mature serenity grounded in acceptance rather than mere temperament."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Elizabeth March",
+      "target_character": "Jo March",
+      "dimension_label": "Intimacy-Confession",
+      "axis_name": "From affectionate sisterhood to intimate confidante bond",
+      "pole_start": "Warm, loving sisterly closeness, with Beth often in a receptive and supporting role rather than a fully confiding one.",
+      "pole_end": "Deep emotional intimacy in which Beth trusts Jo with her fears, dying, and private self-understanding.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early affectionate support",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Beth loves Jo and supports her, but the bond is mostly expressed through care, comfort, admiration, and shared family life rather than direct confession.",
+          "key_moments": [
+            "She comforts Jo after the hair-burning accident.",
+            "She supports Jo's imaginative ventures.",
+            "She celebrates Jo's printed story."
+          ]
+        },
+        {
+          "phase": "Jo as protector and witness",
+          "chapter_range": [
+            15,
+            30
+          ],
+          "position_description": "As Beth grows weaker, Jo becomes the sister Beth relies on for protection, consolation, and emotional steadiness.",
+          "key_moments": [
+            "Beth leans on Jo during Marmee's absence and illness.",
+            "Beth comforts Jo after disappointment over Amy's trip.",
+            "Beth asks Jo to help her enjoy the remaining time."
+          ]
+        },
+        {
+          "phase": "Confession and legacy",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Their relationship becomes the novel's most intimate sister bond: Beth reveals her knowledge of dying, and Jo becomes the witness who can finally affirm her worth.",
+          "key_moments": [
+            "Beth admits she has long known she is dying.",
+            "She explains her self-silencing and asks Jo not to hope too much.",
+            "She reads Jo's poem and is comforted by it."
+          ]
+        }
+      ],
+      "evidence_summary": "Jo is Beth's primary emotional counterpart. The relationship moves from loving sisterhood to full confessional intimacy, with Beth increasingly trusting Jo to hold her deepest truths."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Elizabeth March",
+      "target_character": "Mrs. March",
+      "dimension_label": "Dependence-Bond",
+      "axis_name": "From loving dependence to protected farewell",
+      "pole_start": "Beth is deeply dependent, trusting, and soothed by her mother; Marmee is the center of home, order, and moral security.",
+      "pole_end": "Beth remains dependent, but the bond becomes a conscious farewell shaped by illness, maternal care, and the knowledge of separation by death.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Stable maternal attachment",
+          "chapter_range": [
+            1,
+            14
+          ],
+          "position_description": "Beth is consistently comforted by Marmee's presence and guidance. She wants to please her mother and aligns herself with her values of kindness, duty, and domestic peace.",
+          "key_moments": [
+            "Beth cherishes Marmee's kindness at Christmas.",
+            "Beth aligns with Marmee's moral framing of duty.",
+            "Beth relies on Marmee as the household's emotional center."
+          ]
+        },
+        {
+          "phase": "Dependence under strain",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "When Marmee leaves for Washington and later returns to care for Beth, the dependence becomes more visible and emotionally charged. Beth tries to keep house so her mother will not worry, showing both attachment and protective concern.",
+          "key_moments": [
+            "Marmee's departure during Mr. March's illness.",
+            "Beth keeping house faithfully.",
+            "Beth's illness and reunion in Marmee's arms."
+          ]
+        },
+        {
+          "phase": "Farewell and spiritual continuation",
+          "chapter_range": [
+            36,
+            40
+          ],
+          "position_description": "Beth remains deeply attached to Marmee, but the relationship now includes the knowledge of separation by death. Beth continues to spare her mother pain and accepts being led home with maternal tenderness still central to her peace.",
+          "key_moments": [
+            "Beth's confession to Jo about dying.",
+            "Beth's concern not to burden Marmee.",
+            "Beth's final calm acceptance in Chapter 40."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth's bond with Marmee is one of the novel's most stable relationships, but its emotional meaning changes from ordinary loving dependence to a protected farewell relationship shaped by illness, maternal care, and impending loss."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Elizabeth March",
+      "target_character": "James Laurence",
+      "dimension_label": "Fear-Trust",
+      "axis_name": "From timid fear to affectionate trust",
+      "pole_start": "Beth is initially frightened of Mr. Laurence and experiences him as a potentially judging adult.",
+      "pole_end": "She trusts him warmly, thanks him directly, and relates to him with familial affection.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial fear",
+          "chapter_range": [
+            5,
+            6
+          ],
+          "position_description": "Beth's fear of Mr. Laurence is strong enough to make his house and attention intimidating.",
+          "key_moments": [
+            "She is afraid to approach him.",
+            "She needs his tactful kindness to feel safe."
+          ]
+        },
+        {
+          "phase": "Kindness dissolves fear",
+          "chapter_range": [
+            6,
+            6
+          ],
+          "position_description": "His gentle treatment, the piano, and his generosity transform him from a source of dread into a benefactor.",
+          "key_moments": [
+            "She accepts the piano invitation.",
+            "She receives the piano gift and is overwhelmed with gratitude.",
+            "She kisses him and loses fear forever."
+          ]
+        },
+        {
+          "phase": "Familial affection",
+          "chapter_range": [
+            23,
+            23
+          ],
+          "position_description": "Later, their bond is openly warm and protective, with physical closeness and easy companionship.",
+          "key_moments": [
+            "He sits with her and holds her hand.",
+            "Beth appears cheerful and at ease with him."
+          ]
+        }
+      ],
+      "evidence_summary": "This is one of Beth's clearest relational transformations: fear is replaced by trust through repeated acts of tact, generosity, and mutual tenderness."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Elizabeth March",
+      "target_character": "Laurie Laurence",
+      "dimension_label": "Trust-Affection",
+      "axis_name": "From cautious friendliness to warm, trusting affection",
+      "pole_start": "Beth begins with polite, distant friendliness toward Laurie, seeing him as kind but not yet emotionally central.",
+      "pole_end": "Beth ends with warm, trusting affection and a quiet sibling-like bond, firmly non-romantic and integrated into the family circle.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial warmth at a distance",
+          "chapter_range": [
+            5,
+            14
+          ],
+          "position_description": "Beth is pleased by Laurie's kindness, his piano, and his inclusion in family life, but she remains shy and indirect in her regard.",
+          "key_moments": [
+            "Laurie's piano and Beth's musical delight.",
+            "Beth's kittens as a gift to Laurie.",
+            "Laurie's praise of Beth's music."
+          ]
+        },
+        {
+          "phase": "Growing trust and comfort",
+          "chapter_range": [
+            15,
+            27
+          ],
+          "position_description": "Laurie becomes a trusted family friend and a source of practical and emotional support. Beth welcomes him into family play and feels comfortable around him.",
+          "key_moments": [
+            "Laurie's help during Mr. March's illness.",
+            "Beth's inclusion of Laurie in the club and outings.",
+            "Beth's quiet concern when Laurie seems troubled."
+          ]
+        },
+        {
+          "phase": "Sibling-like affection and clarification",
+          "chapter_range": [
+            32,
+            40
+          ],
+          "position_description": "Beth's relationship to Laurie is clarified as affectionate but not romantic. She frames him as a brother while still valuing him warmly as part of the family circle.",
+          "key_moments": [
+            "Chapter 32's emotional confusion around Laurie.",
+            "Beth's clarification that Laurie is 'only a brother' in Chapter 36.",
+            "Continued gratitude toward Laurie in Beth's final illness."
+          ]
+        }
+      ],
+      "evidence_summary": "Beth's bond with Laurie grows from shy appreciation into warm trust, but the late clarification is that her affection is familial rather than romantic. The relationship becomes more secure and emotionally integrated, yet remains modest and non-possessive."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Elizabeth March",
+      "target_character": "Amy March",
+      "dimension_label": "Caretaking-Esteem",
+      "axis_name": "From gentle caretaking to mutual admiration",
+      "pole_start": "Beth begins as Amy's patient helper and protector, especially in reading and emotional distress.",
+      "pole_end": "Amy comes to admire Beth as a moral model, while Beth increasingly respects Amy's capacity for generosity and growth.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Caretaking and protection",
+          "chapter_range": [
+            2,
+            17
+          ],
+          "position_description": "Beth helps Amy with reading, comforts her after humiliation, and worries about her safety during illness.",
+          "key_moments": [
+            "She helps Amy with difficult words.",
+            "She comforts Amy after school humiliation.",
+            "She worries about Amy's exposure to scarlet fever."
+          ]
+        },
+        {
+          "phase": "Beth as moral exemplar",
+          "chapter_range": [
+            20,
+            30
+          ],
+          "position_description": "Amy explicitly names Beth as the standard of selfless goodness, while Beth in turn praises Amy's forgiveness and kindness.",
+          "key_moments": [
+            "Amy compares herself to Beth and calls Beth unselfish.",
+            "Beth praises Amy's conduct at the fair and admires her forgiveness."
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship becomes reciprocal in esteem: Beth remains the caretaker, but Amy increasingly sees her as an ideal, and Beth learns to respect Amy's moral growth."
+    }
+  ]
+}

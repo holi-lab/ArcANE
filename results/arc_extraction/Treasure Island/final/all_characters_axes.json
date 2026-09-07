@@ -1,0 +1,2751 @@
+{
+  "Jim Hawkins": {
+    "character": "Jim Hawkins",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From dependent boyhood to self-directed, relationally anchored agency",
+            "set_b_axis": "From sheltered dependence to self-directed, tactical agency",
+            "overlap_description": "Both track Jim's movement from childlike dependence toward independent action, with continued loyalty to others rather than pure isolation."
+          },
+          {
+            "set_a_axis": "From trusting appearances to hard-won discernment",
+            "set_b_axis": "From impressionable trust to tactical reading of danger",
+            "overlap_description": "Both describe Jim learning to read people and situations more accurately, especially after Silver's betrayal."
+          },
+          {
+            "set_a_axis": "From terror-driven reaction to steadied courage under pressure",
+            "set_b_axis": "From reactive terror to disciplined bravery",
+            "overlap_description": "Both emphasize fear becoming manageable rather than disappearing, with Jim acting despite danger."
+          },
+          {
+            "set_a_axis": "From adventure fantasy to morally scarred realism",
+            "set_b_axis": "From romantic adventure to morally serious responsibility",
+            "overlap_description": "Both show the voyage stripping away boyish romance and replacing it with a sobered sense of cost, duty, and trauma."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From charmed admiration to wary, morally detached hostility",
+            "set_b_axis": "From charmed trust to wary, strategic distrust",
+            "overlap_description": "Both describe Jim's relationship with Silver moving from admiration and trust to disillusionment and tactical caution."
+          },
+          {
+            "set_a_axis": "From grateful reliance to mature alliance and moral intimacy",
+            "set_b_axis": "From reassuring authority to trusted moral ally",
+            "overlap_description": "Both present Livesey as Jim's most stable positive adult bond, deepening from dependence into durable trust and alliance."
+          },
+          {
+            "set_a_axis": "From boyish admiration to qualified respect",
+            "set_b_axis": "From irritation at authority to admiration for disciplined command",
+            "overlap_description": "Both capture Jim's revised view of Trelawney/Smollett-like authority figures, though Smollett is the stronger and clearer arc."
+          },
+          {
+            "set_a_axis": "From offended hostility to disciplined trust in authority",
+            "set_b_axis": "From irritation at authority to admiration for disciplined command",
+            "overlap_description": "Both identify Jim's shift from resentment toward Smollett to respect for his competence and leadership."
+          },
+          {
+            "set_a_axis": "From wary stranger to trusted odd ally",
+            "set_b_axis": "From frightened uncertainty to affectionate usefulness",
+            "overlap_description": "Both describe Jim's relationship with Ben Gunn evolving from fear/suspicion to practical trust and appreciation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From boyish admiration to qualified respect",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From irritation at authority to admiration for disciplined command",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From sheltered dependence to self-directed, relationally anchored agency",
+        "pole_start": "Jim begins as a frightened, sheltered inn boy whose sense of self is shaped by family attachment, adult protection, and reactive obedience. He watches, fetches, and follows more than he initiates.",
+        "pole_end": "Jim ends as a self-possessed young agent who can act independently, improvise tactically, and take command when needed, while still remaining loyal to the humane and lawful side.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Inn-bound dependence",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Jim is frightened by threats, obeys adults, and mainly learns by observing. His agency is limited to reporting, hiding, and helping in emergencies.",
+            "key_moments": [
+              "Fear of the captain and the one-legged man",
+              "Black Dog and Pew crises",
+              "Protecting the household during the raid"
+            ]
+          },
+          {
+            "phase": "Guided emergence",
+            "chapter_range": [
+              6,
+              13
+            ],
+            "position_description": "Jim becomes more outward-facing and is included by adults in the expedition, but his confidence is still largely relationally granted. He is learning to act, yet still under guidance.",
+            "key_moments": [
+              "Brought into Livesey and Trelawney's confidence",
+              "Departure for Bristol and the Hispaniola",
+              "Overhearing Silver's conspiracy and warning the loyal party"
+            ]
+          },
+          {
+            "phase": "Independent initiative",
+            "chapter_range": [
+              14,
+              24
+            ],
+            "position_description": "Jim crosses into genuine self-directed action: he moves alone, meets Ben Gunn, seizes the Hispaniola, and makes tactical decisions under pressure.",
+            "key_moments": [
+              "Secret shore excursion and Tom's murder",
+              "Meeting Ben Gunn",
+              "Solo seizure of the Hispaniola",
+              "Coracle navigation and improvisation"
+            ]
+          },
+          {
+            "phase": "Mature self-command",
+            "chapter_range": [
+              25,
+              34
+            ],
+            "position_description": "Jim becomes capable of command, bargaining, and disciplined judgment. His independence is now tempered by loyalty, honor, and a chosen alignment with the loyal adults.",
+            "key_moments": [
+              "Taking command of the Hispaniola",
+              "Fight with Israel Hands",
+              "Keeping parole to Silver",
+              "Final return and resolution"
+            ]
+          }
+        ],
+        "evidence_summary": "Jim's central arc is a movement from sheltered dependence to competent self-direction. Both analyses agree that his maturity is not solitary autonomy but agency disciplined by loyalty, duty, and relational bonds."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "fear-courage",
+        "axis_name": "From reactive terror to disciplined bravery",
+        "pole_start": "Jim begins highly frightened, impressionable, and easily overwhelmed by danger, with fear shaping his perception and bodily response.",
+        "pole_end": "Jim ends able to function under extreme danger, managing fear rather than being ruled by it.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Vague dread",
+            "chapter_range": [
+              1,
+              3
+            ],
+            "position_description": "Threats feel immediate and overwhelming: the captain, Black Dog, and Pew produce terror before Jim can respond effectively.",
+            "key_moments": [
+              "Nightmares about the one-legged man",
+              "Black Dog's appearance",
+              "Pew's arrival and the captain's death"
+            ]
+          },
+          {
+            "phase": "Operational fear",
+            "chapter_range": [
+              4,
+              14
+            ],
+            "position_description": "Fear becomes practical and situational. Jim is hunted and traumatized, but he begins to function by hiding, observing, warning others, and making split-second decisions.",
+            "key_moments": [
+              "Hiding with his mother during the raid",
+              "Overhearing Silver's conspiracy",
+              "Witnessing Tom's murder"
+            ]
+          },
+          {
+            "phase": "Fear managed by action",
+            "chapter_range": [
+              15,
+              27
+            ],
+            "position_description": "Jim's fear remains intense, but action increasingly overrides paralysis. He navigates the island, boards the Hispaniola, and fights Hands despite exhaustion and danger.",
+            "key_moments": [
+              "Meeting Ben Gunn",
+              "Solo sabotage of the Hispaniola",
+              "Duel with Israel Hands"
+            ]
+          },
+          {
+            "phase": "Enduring fear without collapse",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "Jim still feels dread and shame, but he no longer breaks under them. He can bargain, keep parole, and survive the final conflict with steadier nerves.",
+            "key_moments": [
+              "Facing Silver in the pirate camp",
+              "Refusing to break parole",
+              "Final resolution and departure"
+            ]
+          }
+        ],
+        "evidence_summary": "Jim's courage is not the absence of fear but the ability to act through it. The novel repeatedly shows him trembling and then proceeding anyway, which is the clearest sign of growth."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "naivety-judgment",
+        "axis_name": "From impressionable trust to tactical reading of danger",
+        "pole_start": "Jim begins impressionable and credulous, responding strongly to charisma, appearance, and immediate feeling.",
+        "pole_end": "Jim ends able to infer motives, detect deception, and use timing, observation, and bargaining to survive.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Surface impressions",
+            "chapter_range": [
+              1,
+              8
+            ],
+            "position_description": "Jim is easily moved by visible performance: he fears obvious threats, admires respectable adults, and is charmed by Silver's warmth and competence.",
+            "key_moments": [
+              "Initial fascination with the captain",
+              "Rapid trust in Silver at the Spy-glass",
+              "Limited suspicion of outwardly respectable figures"
+            ]
+          },
+          {
+            "phase": "Suspicion and confirmation",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "Jim begins reading beneath appearances. He recognizes mutiny, hidden alliances, and the instability of adult authority, and learns that charm can conceal danger.",
+            "key_moments": [
+              "Overhearing Silver recruit the crew",
+              "Recognizing the ship as a site of conspiracy",
+              "Meeting Ben Gunn and revising first impressions"
+            ]
+          },
+          {
+            "phase": "Tactical intelligence",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "Jim increasingly thinks in terms of leverage, timing, and hidden information. He exploits weakness, interprets signals, and treats social performance as potentially strategic.",
+            "key_moments": [
+              "Inferring Ben Gunn's effect on the mutineers",
+              "Seizing the Hispaniola",
+              "Negotiating with Silver while keeping parole",
+              "Tracking pirate morale and division"
+            ]
+          }
+        ],
+        "evidence_summary": "Jim matures into a more strategically literate reader of people and situations. He becomes less credulous without becoming cynical, balancing caution with moral judgment."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "adventure-duty",
+        "axis_name": "From romantic adventure to morally serious responsibility",
+        "pole_start": "Jim begins eager for excitement, novelty, and the sea-dream of adventure, with danger initially exciting as much as frightening.",
+        "pole_end": "Jim ends seeing action as ethically accountable, governed by loyalty, restraint, honor, and responsibility rather than mere thrill.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Excitement and curiosity",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "The treasure map and the voyage to Bristol awaken Jim's adventure fantasy; he is thrilled by ships, sailors, and the prospect of participation.",
+            "key_moments": [
+              "Treasure map revelation",
+              "Bristol harbor excitement",
+              "Charmed response to Silver"
+            ]
+          },
+          {
+            "phase": "Adventure darkens",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "The voyage becomes morally unstable and dangerous. Jim's excitement is replaced by suspicion, fear, and the realization that the expedition is a serious conflict, not a game.",
+            "key_moments": [
+              "Captain Smollett's warnings",
+              "Discovery of the mutiny",
+              "Tom's murder and island landing"
+            ]
+          },
+          {
+            "phase": "Duty and honor",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "Jim increasingly acts from duty: he helps defend the stockade, keeps parole, and aligns himself with lawful authority. Adventure remains, but it is subordinated to moral obligation and survival.",
+            "key_moments": [
+              "Defending the stockade",
+              "Refusing to break parole",
+              "Final sense that the island is corrupt and not worth returning to"
+            ]
+          }
+        ],
+        "evidence_summary": "Jim does not abandon adventure, but he matures into a view of action as morally accountable. The voyage becomes a test of honor and responsibility rather than a simple boyish quest."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Jim Hawkins",
+        "target_character": "Long John Silver",
+        "dimension_label": "trust-distrust",
+        "axis_name": "From charmed trust to wary, strategic distrust",
+        "pole_start": "Jim begins impressed by Silver's warmth, competence, and apparent honesty, treating him as a friendly and trustworthy seaman.",
+        "pole_end": "Jim ends seeing Silver as brilliant but fundamentally untrustworthy: dangerous, self-serving, and only temporarily aligned with anyone else.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "disillusionment",
+        "trajectory": [
+          {
+            "phase": "Initial charm",
+            "chapter_range": [
+              7,
+              8
+            ],
+            "position_description": "Jim is quickly won over by Silver's sociability and practical knowledge, despite a brief flicker of suspicion when Black Dog appears.",
+            "key_moments": [
+              "Silver's warm reception at the Spy-glass",
+              "Jim's rapid admiration",
+              "Black Dog briefly reactivating suspicion"
+            ]
+          },
+          {
+            "phase": "Confirmed betrayal",
+            "chapter_range": [
+              10,
+              18
+            ],
+            "position_description": "Jim overhears Silver's mutiny planning and sees him as the leader of a deadly conspiracy. Trust collapses into fear and moral revulsion.",
+            "key_moments": [
+              "Overhearing Silver recruit the crew",
+              "Witnessing the island landing and Tom's murder",
+              "Recognizing Silver as the mutiny's center"
+            ]
+          },
+          {
+            "phase": "Wary dependence",
+            "chapter_range": [
+              25,
+              34
+            ],
+            "position_description": "Jim is forced into temporary bargaining with Silver, which adds tactical dependence without restoring trust. He recognizes Silver's intelligence and adaptability, but never his loyalty.",
+            "key_moments": [
+              "Silver's protection in the pirate camp",
+              "Jim's refusal to break parole",
+              "Silver's final opportunism and survival"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver is Jim's most important relational reversal: from admired companion to exposed traitor to dangerous, unstable ally-of-convenience. Trust collapses, but strategic recognition of Silver's power remains."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Jim Hawkins",
+        "target_character": "Dr. Livesey",
+        "dimension_label": "dependence-alliance",
+        "axis_name": "From reassuring authority to trusted moral ally",
+        "pole_start": "Jim begins as a child who looks up to Livesey as calm, civilized, and protective authority.",
+        "pole_end": "Jim ends as a loyal ally who trusts Livesey deeply and sees him as a partner in lawful, humane action.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early reassurance",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Livesey is the clearest adult counterweight to pirate menace. Jim admires his calmness and moral clarity and relies on him for safety.",
+            "key_moments": [
+              "Livesey's intervention at the inn",
+              "His handling of the captain's papers",
+              "His role in decoding the treasure map"
+            ]
+          },
+          {
+            "phase": "Trusted strategic center",
+            "chapter_range": [
+              7,
+              24
+            ],
+            "position_description": "As the expedition unfolds, Jim increasingly treats Livesey as the safest interpreter of events and the person most worthy of his loyalty and information.",
+            "key_moments": [
+              "Jim bringing the papers to Livesey",
+              "Livesey's role in the loyal council",
+              "Jim repeatedly aligning with his judgment"
+            ]
+          },
+          {
+            "phase": "Moral anchor",
+            "chapter_range": [
+              25,
+              34
+            ],
+            "position_description": "Even when separated, Jim continues to orient himself toward Livesey's standards. He feels shame at disappointing him, but also relief and confidence when reunited with him or acting on his behalf.",
+            "key_moments": [
+              "Jim's shame at the meeting in chapter 30",
+              "Passing crucial information to the doctor",
+              "Final loyalty and gratitude"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey remains the most stable positive relationship in Jim's arc. The relationship deepens from childlike admiration into a durable alliance grounded in trust, competence, and moral authority."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Jim Hawkins",
+        "target_character": "Captain Smollett",
+        "dimension_label": "resentment-respect",
+        "axis_name": "From irritation at authority to admiration for disciplined command",
+        "pole_start": "Jim initially experiences Smollett as harsh, dismissive, and unfair, especially when the captain speaks sharply to him and excludes him from work.",
+        "pole_end": "Jim ends deeply respecting Smollett as the model of competent, disciplined, and morally reliable leadership.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial friction",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Jim resents Smollett's bluntness and feels excluded, even while beginning to suspect that the captain is probably right about the danger.",
+            "key_moments": [
+              "Smollett's criticism of the voyage",
+              "Jim's anger at being treated as a boy"
+            ]
+          },
+          {
+            "phase": "Growing trust",
+            "chapter_range": [
+              11,
+              21
+            ],
+            "position_description": "As mutiny becomes real, Jim increasingly sees Smollett as the clearest adult authority and the best defender of the loyal party.",
+            "key_moments": [
+              "Smollett's warnings about the crew",
+              "His calm leadership during the attack",
+              "Jim's repeated alignment with his judgment"
+            ]
+          },
+          {
+            "phase": "Full admiration",
+            "chapter_range": [
+              22,
+              34
+            ],
+            "position_description": "Jim's independent actions still take place under the moral shadow of Smollett's authority. He measures himself against the captain and ends with deep respect for his discipline and command.",
+            "key_moments": [
+              "Jim's covert actions to help the loyal side",
+              "His continued identification with the captain's party",
+              "Final return and loyalty"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett becomes the adult authority Jim most fully respects. The relationship shifts from irritation to admiration because Smollett proves correct, disciplined, and effective under pressure."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Jim Hawkins",
+        "target_character": "Ben Gunn",
+        "dimension_label": "suspicion-alliance",
+        "axis_name": "From frightened uncertainty to affectionate usefulness",
+        "pole_start": "Jim first encounters Ben Gunn as a strange, potentially threatening unknown and is initially frightened and suspicious.",
+        "pole_end": "Jim ends regarding Ben as an odd but valuable ally, with affectionate approval and practical trust.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Fear of the unknown",
+            "chapter_range": [
+              15,
+              15
+            ],
+            "position_description": "Jim initially assumes the island figure may be dangerous, and his fear of the unknown is strong.",
+            "key_moments": [
+              "First sight of the hidden figure in the woods"
+            ]
+          },
+          {
+            "phase": "Provisional trust",
+            "chapter_range": [
+              15,
+              19
+            ],
+            "position_description": "Ben's story and odd harmlessness lead Jim to revise him into a possible ally. Jim becomes cautiously hopeful and begins to value his knowledge and resources.",
+            "key_moments": [
+              "Ben Gunn's explanation of his situation",
+              "The coracle and white-marked meeting place",
+              "Ben's likely role in weakening the mutineers"
+            ]
+          },
+          {
+            "phase": "Affectionate approval",
+            "chapter_range": [
+              20,
+              34
+            ],
+            "position_description": "Jim increasingly sees Ben as useful, endearing, and central to the loyal party's success, even if still eccentric and not fully reliable in ordinary terms.",
+            "key_moments": [
+              "Recognition of Ben's covert help",
+              "Gratitude for his practical contribution",
+              "Final approval of Ben's value"
+            ]
+          }
+        ],
+        "evidence_summary": "Ben Gunn is one of the few relationships that moves from fear to warmth. Jim's response to him shows Jim's growing ability to revise first impressions and form practical alliances."
+      }
+    ]
+  },
+  "Long John Silver": {
+    "character": "Long John Silver",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From charismatic self-assertion to transactional interdependence",
+            "set_b_axis": "From self-assertive social operator to tactical ally-survivor",
+            "overlap_description": "Both describe Silver as fundamentally agency-driven at the start, then forced into pragmatic alliance-making and reciprocal dependence when dominance fails."
+          },
+          {
+            "set_a_axis": "From unflappable mask to exposed survivalist",
+            "set_b_axis": "From seamless mask to exposed tactical improviser",
+            "overlap_description": "Both track the same shift in self-presentation: Silver begins with near-effortless composure and ends as a visibly pressured improviser whose control is now defensive rather than dominant."
+          },
+          {
+            "set_a_axis": "From pirate loyalty to pure expediency",
+            "set_b_axis": "From hidden confidence to exposed but managed fear",
+            "overlap_description": "Both capture a move from apparent certainty and stable pirate leadership toward a more openly survivalist posture shaped by fear, bargaining, and opportunistic self-preservation."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From pirate loyalty to pure expediency",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From hidden confidence to exposed but managed fear",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From grooming trust to wary mutual dependence",
+            "set_b_axis": "From charming mentor to tactical ally-hostage bond",
+            "overlap_description": "Both describe Silver’s relationship with Jim as beginning in manipulative warmth and ending in a fragile, survival-based interdependence that never becomes genuine trust."
+          },
+          {
+            "set_a_axis": "From strategic civility to open enmity",
+            "set_b_axis": "From exploitable obstacle to formidable opponent",
+            "overlap_description": "Both track Silver’s relation to Smollett as moving from tactical politeness and underestimation toward direct confrontation, defeat, and grudging recognition of the captain’s strength."
+          },
+          {
+            "set_a_axis": "From commanding captain to precarious manipulator",
+            "set_b_axis": "From charismatic captaincy to brittle control",
+            "overlap_description": "Both describe Silver’s relationship to the pirate crew as declining from effective command to unstable, fear-based management and eventual abandonment."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From strategic civility to open enmity",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From polished distance to bargaining dependence",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency-communion",
+        "axis_name": "From charismatic self-assertion to tactical interdependence",
+        "pole_start": "Predominantly agency-driven: Silver begins as a self-assertive, mastery-oriented manipulator who uses charm, timing, and dominance to secure his position and control others while remaining socially separate.",
+        "pole_end": "Still self-interested and agency-led, but more communion-adaptive: by the end he survives through bargaining, alliance, and reciprocal dependence with Jim and the loyal party rather than through pure dominance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Social mastery and covert control",
+            "chapter_range": [
+              7,
+              14
+            ],
+            "position_description": "Silver is strongly agency-coded: he secures trust, performs geniality, recruits followers, and manages appearances while concealing his true loyalties.",
+            "key_moments": [
+              "Hired as ship's cook and gains a foothold aboard the Hispaniola",
+              "Deflects suspicion after Black Dog is mentioned",
+              "Leads the crew in song and strengthens his standing",
+              "Recruits Dick and lays out delayed-violence strategy"
+            ]
+          },
+          {
+            "phase": "Strategic pressure and defensive bargaining",
+            "chapter_range": [
+              15,
+              26
+            ],
+            "position_description": "He remains highly agentic but is increasingly constrained. His control becomes precarious as Smollett, Jim, and the loyal party force him into negotiation, concealment, and tactical retreat.",
+            "key_moments": [
+              "Disappointed by Smollett's chart and forced to conceal it",
+              "Uses warmth with Jim as a weapon",
+              "Tom rejects him and he kills Tom",
+              "Negotiates under flag of truce after open violence stalls",
+              "Jim retakes the ship and Silver's dominance erodes"
+            ]
+          },
+          {
+            "phase": "Collapse of command, rise of survival alliance",
+            "chapter_range": [
+              27,
+              33
+            ],
+            "position_description": "Silver is deposed, cornered, and repeatedly forced into compromise. He does not become genuinely communal, but he increasingly relies on reciprocal dependence, especially with Jim and briefly with Livesey.",
+            "key_moments": [
+              "Receives the black spot and is formally deposed",
+              "Bargains with Jim for navigation and survival",
+              "Pleads for mercy with Livesey",
+              "Forms a fragile back-to-back survival alliance with Jim"
+            ]
+          },
+          {
+            "phase": "Final opportunism and escape",
+            "chapter_range": [
+              34,
+              34
+            ],
+            "position_description": "Silver returns to a narrower form of agency: not command, but opportunistic self-preservation. He survives by exploiting remaining relationships and then vanishes with loot.",
+            "key_moments": [
+              "Treasure pit is empty and his plan collapses",
+              "Kills George Merry during the mutineers' breakdown",
+              "Submits outwardly to the victors while preserving himself",
+              "Secretly escapes with a sack of coin"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver's core arc is not moral reform but a shift in how agency is exercised: from commanding, manipulative dominance toward precarious, transactional interdependence when dominance fails."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "mask-improvisation",
+        "axis_name": "From seamless mask to exposed tactical improviser",
+        "pole_start": "At the start of his active arc, Silver appears almost perfectly self-possessed: genial, trustworthy, and socially fluent, with little visible gap between performance and role.",
+        "pole_end": "By the end, his performance remains strong but is more visibly strained and openly tactical; he is no longer a convincing stable persona so much as a rapid improviser adapting to collapse.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Effortless public mask",
+            "chapter_range": [
+              7,
+              12
+            ],
+            "position_description": "Silver's social performance is smooth and apparently natural. He can charm gentlemen, crew, and Jim while concealing his intentions, and he seems to believe appearances can fully manage suspicion.",
+            "key_moments": [
+              "Trelawney's account frames him as respectable and capable",
+              "He turns the Black Dog incident into camaraderie",
+              "He maintains geniality even when the map is revealed"
+            ]
+          },
+          {
+            "phase": "Mask under strain",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "His performance becomes more labor-intensive. He must constantly soothe the crew, manage fear, and switch between civility and threat as the mutiny and siege destabilize his position.",
+            "key_moments": [
+              "He calms mutinous sailors through songs and friendliness",
+              "He kills Tom and then resumes composure",
+              "He shifts from pirate authority to diplomatic truce under pressure",
+              "Smollett's refusal visibly corners him"
+            ]
+          },
+          {
+            "phase": "Openly adaptive survival performance",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "Silver's mask is still effective, but now it is transparently strategic. He performs fear for Livesey, warmth for Jim, authority for the pirates, and compliance for the victors, revealing a fragmented but highly skilled improvisational self.",
+            "key_moments": [
+              "He calls Jim his 'last card'",
+              "He uses trembling supplication with the doctor",
+              "He survives the treasure's loss by instantly adopting obedience",
+              "He escapes with loot rather than maintaining a stable public identity"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver never becomes authentic in a moral sense, but his mode of self-presentation changes: from apparently effortless social mastery to visibly adaptive, situation-specific performance under pressure."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "fear-control",
+        "axis_name": "From hidden confidence to managed fear",
+        "pole_start": "Initially Silver seems almost unshakably confident, with fear largely hidden beneath wit and composure.",
+        "pole_end": "By the end, fear is real and visible, but he has learned to manage it publicly and convert it into strategy rather than collapse.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Fear concealed by confidence",
+            "chapter_range": [
+              8,
+              14
+            ],
+            "position_description": "Silver's fear is mostly invisible. He remains calm under suspicion and uses confidence as a shield, only revealing pressure indirectly through increased control and violence.",
+            "key_moments": [
+              "Handles Black Dog without visible panic",
+              "Keeps his mask intact as the voyage tightens",
+              "Kills Tom when control is challenged"
+            ]
+          },
+          {
+            "phase": "Fear becomes explicit pressure",
+            "chapter_range": [
+              20,
+              32
+            ],
+            "position_description": "His fear becomes more legible: he is cornered by Smollett, threatened by mutinous crew, shaken by eerie voices, and finally forced to bargain for survival. Yet he repeatedly recovers by rationalizing, bluffing, or shifting allegiance.",
+            "key_moments": [
+              "Smollett's refusal strips away his composure",
+              "He performs fear to the doctor as a tactic",
+              "The ghostly voices briefly unman him",
+              "The empty cache shocks him but does not break him"
+            ]
+          },
+          {
+            "phase": "Fear integrated into survival",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "Fear is no longer hidden, but it is controlled. Silver accepts defeat quickly, stays composed, and uses retreat and theft to preserve himself.",
+            "key_moments": [
+              "He abandons open ambition after the treasure is gone",
+              "He escapes with a stolen sack of coin"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver's emotional life is not deeply introspective, but the summaries show a clear movement from concealed confidence to openly managed fear. He does not become brave in a moral sense; he becomes better at surviving fear."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Long John Silver",
+        "target_character": "Jim Hawkins",
+        "dimension_label": "predatory trust",
+        "axis_name": "From charming mentor to tactical ally-hostage bond",
+        "pole_start": "Silver begins by presenting himself as a warm, flattering, almost paternal companion to Jim, using friendliness to gain trust and shape the boy's loyalties.",
+        "pole_end": "He ends by treating Jim as a protected hostage, witness, and bargaining asset—still warm in tone, but now openly instrumental and survival-driven.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Charm and grooming",
+            "chapter_range": [
+              8,
+              13
+            ],
+            "position_description": "Silver cultivates Jim through humor, instruction, and special attention. The relationship is warm on the surface but clearly manipulative.",
+            "key_moments": [
+              "He escorts Jim and speaks to him familiarly",
+              "He continues to cultivate Jim while hiding his true loyalties",
+              "He calls to Jim as he escapes, keeping him psychologically close"
+            ]
+          },
+          {
+            "phase": "Instrumental dependence",
+            "chapter_range": [
+              27,
+              31
+            ],
+            "position_description": "Jim becomes more than a target of charm: Silver now needs him. He protects Jim as a witness and 'last card,' openly recognizing that the boy may save his life.",
+            "key_moments": [
+              "Silver seizes Jim in the stockade ambush",
+              "He flatters Jim as his 'last card'",
+              "He keeps Jim alive as leverage with Livesey"
+            ]
+          },
+          {
+            "phase": "Survival alliance",
+            "chapter_range": [
+              32,
+              34
+            ],
+            "position_description": "The bond becomes a tactical alliance under duress. Silver still manipulates Jim, but the relationship now includes real dependence: Jim is one of the few people Silver can use to survive the collapse of his own side.",
+            "key_moments": [
+              "Jim remains physically tethered to Silver during the treasure hunt",
+              "Silver passes Jim a pistol and keeps him close",
+              "Silver escapes while preserving whatever advantage Jim's testimony may provide"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Silver's most important relationship arc. It moves from seductive manipulation to pragmatic interdependence, without ever becoming genuinely trusting or affectionate."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Long John Silver",
+        "target_character": "Captain Smollett",
+        "dimension_label": "respect-antagonism",
+        "axis_name": "From exploitable obstacle to formidable opponent",
+        "pole_start": "Silver initially treats Smollett as a competent but manageable obstacle, someone whose seamanship can be used while his authority is still hidden.",
+        "pole_end": "He ends by recognizing Smollett as a disciplined victor whose authority must be avoided or accommodated, not challenged directly.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Managed obstacle",
+            "chapter_range": [
+              9,
+              13
+            ],
+            "position_description": "Smollett is a serious but still exploitable obstacle. Silver respects his competence while assuming he can be outmaneuvered.",
+            "key_moments": [
+              "Silver registers Smollett's precautions",
+              "He continues to use the captain's seamanship for the voyage"
+            ]
+          },
+          {
+            "phase": "Open confrontation",
+            "chapter_range": [
+              18,
+              20
+            ],
+            "position_description": "Smollett becomes the clearest external check on Silver's power. Their meeting under truce reveals Silver's frustration and growing respect for the captain's discipline.",
+            "key_moments": [
+              "Silver uses a flag of truce",
+              "Smollett refuses his terms and counters his threats",
+              "Silver's composure is visibly strained"
+            ]
+          },
+          {
+            "phase": "Defeat and accommodation",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "After the mutiny collapses, Smollett becomes part of the winning order. Silver no longer tries to dominate him; he becomes deferential and avoids direct conflict.",
+            "key_moments": [
+              "Silver adopts a compliant posture after the treasure is found empty",
+              "He survives by aligning with the victors rather than opposing Smollett"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver's relation to Smollett shifts from strategic underestimation to grudging respect and finally to tactical submission. Smollett is one of the few characters who consistently forces Silver out of pure dominance."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Long John Silver",
+        "target_character": "Dr. Livesey",
+        "dimension_label": "instrumental respect",
+        "axis_name": "From polished distance to bargaining dependence",
+        "pole_start": "Silver initially treats Livesey as a respectable gentleman whose approval matters only as part of his public mask.",
+        "pole_end": "He ends by treating Livesey as a powerful negotiator whose mercy and pragmatism he must actively court.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Respectful masking",
+            "chapter_range": [
+              7,
+              12
+            ],
+            "position_description": "Livesey is a dangerous but socially valuable observer. Silver keeps him at a distance while performing civility.",
+            "key_moments": [
+              "Livesey is part of the respectable audience for Silver's mask",
+              "Silver remains polite and controlled around him"
+            ]
+          },
+          {
+            "phase": "Strategic caution",
+            "chapter_range": [
+              18,
+              20
+            ],
+            "position_description": "Livesey is now clearly part of the opposition. Silver respects his intelligence and treats him as someone to bargain with carefully rather than deceive easily.",
+            "key_moments": [
+              "Silver's truce and negotiation are aimed at the doctor's side as well as Smollett's"
+            ]
+          },
+          {
+            "phase": "Dependence and supplication",
+            "chapter_range": [
+              28,
+              33
+            ],
+            "position_description": "Silver increasingly needs Livesey's mercy. He performs fear, asks for survival, and accepts that the doctor controls the situation.",
+            "key_moments": [
+              "Silver flatters and pleads with Livesey",
+              "He thanks the doctor after the treasure is found empty",
+              "He shifts into a compliant posture within the doctor's party"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey moves from being part of Silver's respectable audience to being one of the few people whose judgment can save him. The relationship becomes less about deception and more about negotiated survival."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Long John Silver",
+        "target_character": "The pirate crew",
+        "dimension_label": "command-collapse",
+        "axis_name": "From charismatic captaincy to brittle control",
+        "pole_start": "Silver begins as a charismatic leader who can recruit, soothe, and direct rough men through charm and authority.",
+        "pole_end": "He ends with a broken, unreliable crew that he can no longer truly command, only manage or abandon.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Charismatic command",
+            "chapter_range": [
+              7,
+              14
+            ],
+            "position_description": "Silver's authority is strong. He recruits, disciplines, and coordinates the pirates through social intelligence and fear.",
+            "key_moments": [
+              "He is credited with improving the crew",
+              "He recruits Dick and disciplines others",
+              "He kills Tom to enforce obedience"
+            ]
+          },
+          {
+            "phase": "Strained management",
+            "chapter_range": [
+              18,
+              29
+            ],
+            "position_description": "The crew becomes increasingly unstable, drunken, and unreliable. Silver still leads them, but now through constant management, intimidation, and improvisation.",
+            "key_moments": [
+              "He tries to keep the crew supplied and disciplined",
+              "He faces mutiny from within his own side",
+              "He must bluff and reassert authority repeatedly"
+            ]
+          },
+          {
+            "phase": "Broken utility",
+            "chapter_range": [
+              32,
+              34
+            ],
+            "position_description": "The crew is no longer a stable base of power. Silver's connection to them is reduced to survival logistics and eventual abandonment.",
+            "key_moments": [
+              "The crew is frightened by the eerie voices",
+              "The treasure hunt collapses",
+              "Silver escapes rather than remaining with them"
+            ]
+          }
+        ],
+        "evidence_summary": "Silver's leadership over the pirates is one of the novel's clearest relational declines: from effective charisma to brittle, fear-based management and finally to abandonment."
+      }
+    ]
+  },
+  "Dr. Livesey": {
+    "character": "Dr. Livesey",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From detached authority to embedded command ally",
+            "set_b_axis": "From civic authority to cooperative leadership",
+            "overlap_description": "Both describe Livesey moving from a solitary, authoritative civic figure toward a more collaborative leadership role within the loyal coalition."
+          },
+          {
+            "set_a_axis": "From confident discernment to wary, evidence-based judgment",
+            "set_b_axis": "From moral indignation to disciplined wartime realism",
+            "overlap_description": "Both track a shift from early confidence in moral/social judgment toward a more cautious, pragmatic, evidence-based stance under the pressure of betrayal and crisis."
+          },
+          {
+            "set_a_axis": "From healer of bodies to strategist under fire",
+            "set_b_axis": "From unruffled calm to tested but resilient strain",
+            "overlap_description": "Both capture Livesey's adaptation to crisis: his professional identity broadens into tactical leadership, while his composure is tested but remains intact."
+          },
+          {
+            "set_a_axis": "From humane restraint to hard-edged necessity",
+            "set_b_axis": "From moral indignation to disciplined wartime realism",
+            "overlap_description": "Both emphasize Livesey's movement toward harder, more realistic decisions in wartime, while retaining humane limits."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From detached authority to embedded command ally",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From confident discernment to wary, evidence-based judgment",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From healer of bodies to strategist under fire",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From humane restraint to hard-edged necessity",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From civic authority to cooperative leadership",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From moral indignation to disciplined wartime realism",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unruffled calm to tested but resilient strain",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From reassuring adult to trusted guardian",
+            "set_b_axis": "From benevolent adult to trusted guardian and ally",
+            "overlap_description": "Both describe the Jim relationship as deepening from protective adult guidance into a durable bond of trust and alliance."
+          },
+          {
+            "set_a_axis": "From cautious respect to full strategic alliance",
+            "set_b_axis": "From respectful caution to full tactical partnership",
+            "overlap_description": "Both present Livesey and Smollett as moving from mutual respect into a stable command partnership."
+          },
+          {
+            "set_a_axis": "From misplaced approval to strategic hostility",
+            "set_b_axis": "From surface civility to wary strategic engagement",
+            "overlap_description": "Both track the Silver relationship from early misreading to hard distrust, with limited tactical engagement later."
+          },
+          {
+            "set_a_axis": "From restrained skepticism to disciplined partnership",
+            "set_b_axis": "From cordial confidence to restrained correction",
+            "overlap_description": "Both show Livesey maintaining respect for Trelawney while increasingly correcting his impulsiveness and relying on him only within a disciplined crisis context."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From clinical concern to legal antagonism",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From reassuring adult to trusted guardian",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From restrained skepticism to disciplined partnership",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From misplaced approval to strategic hostility",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From unknown oddity to valued ally",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From benevolent adult to trusted guardian and ally",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From respectful caution to full tactical partnership",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From cordial confidence to restrained correction",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From surface civility to wary strategic engagement",
+            "assessment": "valid_missed"
+          },
+          {
+            "axis": "From neutral acceptance to confirmed trust",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From civic authority to cooperative command leadership",
+        "pole_start": "Strongly self-possessed and authoritative: Livesey begins as a magistrate-doctor who asserts order through calm mastery, legal standing, and professional control.",
+        "pole_end": "A disciplined coalition leader: still authoritative, but now embedded in mutual dependence with Smollett, Trelawney, Jim, Gray, and other loyal allies.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Establishing authority",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Livesey starts from a position of detached civic authority, confronting Billy Bones, stabilizing crises medically, and acting as a calm organizer from outside the main conflict.",
+            "key_moments": [
+              "Ch. 1: warns Billy Bones as magistrate and asserts legal oversight",
+              "Ch. 2: treats Billy Bones while maintaining professional distance",
+              "Ch. 6: manages Jim and the packet with composed authority"
+            ]
+          },
+          {
+            "phase": "Strategic cooperation",
+            "chapter_range": [
+              6,
+              13
+            ],
+            "position_description": "He remains highly agentic, but begins working through shared planning and secrecy, joining the expedition and aligning with Smollett's caution rather than relying on solitary judgment.",
+            "key_moments": [
+              "Ch. 6: agrees to the expedition and stresses secrecy",
+              "Ch. 9-12: coordinates with Smollett and helps manage the mutiny threat",
+              "Ch. 13: participates in the cabin council and accepts tactical delay"
+            ]
+          },
+          {
+            "phase": "Coalition leadership",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "Under siege, Livesey becomes fully embedded in a shared command structure. His authority now functions through teamwork, shared risk, and practical loyalty rather than detached oversight.",
+            "key_moments": [
+              "Ch. 16: helps organize evacuation of supplies and arms",
+              "Ch. 18-22: coordinates defense, assigns roles, and functions as battlefield leader",
+              "Ch. 33-34: remains steady within the loyal group through victory and departure"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey never loses authority, but the novel shifts him from solitary civic oversight toward cooperative wartime leadership. The strongest synthesis of both analyses is a movement from detached command to embedded command."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Trust Calibration",
+        "axis_name": "From confident discernment to disciplined, evidence-based judgment",
+        "pole_start": "He begins with strong confidence in his ability to read people and situations, assuming that calm observation and gentlemanly discernment can identify character reliably.",
+        "pole_end": "He ends as a more cautious but better-calibrated judge, trusting only provisionally and grounding conclusions in repeated evidence, strategic necessity, and hard experience.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early confidence",
+            "chapter_range": [
+              1,
+              9
+            ],
+            "position_description": "Livesey initially trusts his own reading of people too readily at times, even while correctly identifying obvious threats like Billy Bones.",
+            "key_moments": [
+              "Ch. 1-3: identifies Billy Bones as dangerous and commits to surveillance",
+              "Ch. 8: endorses Silver as suitable, showing confidence in discernment",
+              "Ch. 9: tentatively credits Silver and the captain as honest men"
+            ]
+          },
+          {
+            "phase": "Betrayal and recalibration",
+            "chapter_range": [
+              11,
+              14
+            ],
+            "position_description": "The apple-barrel overhearing and the widening mutiny force him to abandon naive trust in appearances and adopt a more skeptical, evidence-driven judgment.",
+            "key_moments": [
+              "Ch. 11: overhears Silver manipulating crewmen and sees the mask drop",
+              "Ch. 11-12: realizes the mutiny is broader and deadlier than expected",
+              "Ch. 14: violence confirms that trust in the pirates is impossible"
+            ]
+          },
+          {
+            "phase": "Provisional trust under siege",
+            "chapter_range": [
+              15,
+              34
+            ],
+            "position_description": "He does not become cynical across the board; instead, he learns to trust selectively, especially Jim, Smollett, Gray, and Ben Gunn, while maintaining hard distrust of Silver and the mutineers.",
+            "key_moments": [
+              "Ch. 15: accepts Ben Gunn as a possible ally",
+              "Ch. 16-22: repeatedly validates loyal men through action",
+              "Ch. 34: finalizes his judgment that Silver is self-serving and dangerous"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey's arc is not from trust to distrust in general, but from overconfidence in personal discernment to disciplined, evidence-based trust. Silver's betrayal is the key turning point."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Medical-Warrior",
+        "axis_name": "From healer of bodies to strategist under fire",
+        "pole_start": "He begins as a physician whose authority comes from diagnosis, treatment, and moral steadiness rather than combat or command.",
+        "pole_end": "He ends as a hybrid healer-strategist who can treat wounds, make tactical decisions, and function effectively in violent conflict.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Medical authority",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Livesey's identity is initially grounded in medicine and civic order: he treats Billy Bones, gives preventive advice, and manages danger through professional calm.",
+            "key_moments": [
+              "Ch. 2: saves Billy Bones from collapse and prescribes rest and abstinence",
+              "Ch. 6: feeds and protects Jim while examining the packet"
+            ]
+          },
+          {
+            "phase": "Strategic expansion",
+            "chapter_range": [
+              9,
+              19
+            ],
+            "position_description": "As the mutiny threat grows, he begins thinking like a military planner: securing arms, supporting the captain, and helping shape defensive strategy.",
+            "key_moments": [
+              "Ch. 9: helps convert the ship into a defensive stronghold",
+              "Ch. 12-13: participates in war councils",
+              "Ch. 16-19: organizes supplies and endorses attritional survival tactics"
+            ]
+          },
+          {
+            "phase": "Battlefield competence",
+            "chapter_range": [
+              20,
+              34
+            ],
+            "position_description": "He fully inhabits a wartime role, including sentry duty, direct combat, triage, and hard choices about enemies and survivors. Medicine remains central, but now as part of a larger survival practice.",
+            "key_moments": [
+              "Ch. 20: takes a defensive watch",
+              "Ch. 21: engages in close-quarters fighting",
+              "Ch. 22 and 30: tends the wounded while also acting strategically",
+              "Ch. 34: supports abandoning the mutineers with limited provisions"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey's professional identity broadens rather than disappears. He remains a doctor, but the novel steadily converts him into a crisis leader whose healing role coexists with tactical violence and command."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Mercy-Resolve",
+        "axis_name": "From humane restraint to disciplined wartime realism",
+        "pole_start": "He begins with a humane, orderly temperament that prefers prevention, restraint, and lawful containment over punishment or violence.",
+        "pole_end": "He ends with a morally burdened but firm acceptance that harsh measures, including abandonment and armed resistance, are sometimes necessary for the greater good.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Restrained humanitarianism",
+            "chapter_range": [
+              1,
+              6
+            ],
+            "position_description": "Livesey's early responses emphasize care, legality, and containment rather than vengeance. Even when he condemns Billy Bones, he frames the response in terms of duty and medical management.",
+            "key_moments": [
+              "Ch. 2: treats Billy Bones and recommends rest rather than punishment",
+              "Ch. 6: protects Jim and handles the packet carefully"
+            ]
+          },
+          {
+            "phase": "Hardening under siege",
+            "chapter_range": [
+              11,
+              21
+            ],
+            "position_description": "As Silver's treachery becomes clear and violence escalates, Livesey's moral reasoning hardens. He accepts that enemies may need to be outlasted, fought, and denied mercy in practical terms.",
+            "key_moments": [
+              "Ch. 11-14: realizes the mutiny is murderous",
+              "Ch. 19: endorses attrition warfare",
+              "Ch. 21: fights directly in the stockade assault"
+            ]
+          },
+          {
+            "phase": "Disciplined mercy",
+            "chapter_range": [
+              22,
+              34
+            ],
+            "position_description": "By the end, he is neither cruel nor naive. He can pity the abandoned mutineers while still supporting the decision to leave them behind, showing a mature balance of compassion and necessity.",
+            "key_moments": [
+              "Ch. 22: continues to heal while pursuing strategy",
+              "Ch. 34: supports leaving supplies for the marooned mutineers but not rescuing them"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey does not become less humane; he becomes more capable of bearing the moral cost of hard decisions. His mercy is increasingly disciplined by survival logic."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_05",
+        "dimension_label": "Composure-Intensity",
+        "axis_name": "From unruffled calm to tested but resilient strain",
+        "pole_start": "Cool, composed, and almost unshakably controlled, with little visible fear or emotional volatility.",
+        "pole_end": "Still composed, but now visibly burdened by grief, fatigue, and pressure while remaining functional and steady.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Baseline composure",
+            "chapter_range": [
+              1,
+              10
+            ],
+            "position_description": "Livesey is consistently brisk, calm, and professionally detached, even in sudden danger.",
+            "key_moments": [
+              "faces Billy Bones without panic",
+              "treats the collapse clinically",
+              "remains steady during the expedition's preparations"
+            ]
+          },
+          {
+            "phase": "Pressure and grief",
+            "chapter_range": [
+              16,
+              19
+            ],
+            "position_description": "The siege and Tom Redruth's death expose strain, but he channels it into action rather than breakdown.",
+            "key_moments": [
+              "worries for Jim during evacuation",
+              "responds to the stockade crisis",
+              "grieves Tom Redruth",
+              "keeps working despite exhaustion"
+            ]
+          },
+          {
+            "phase": "Controlled relief",
+            "chapter_range": [
+              20,
+              34
+            ],
+            "position_description": "He remains under pressure but becomes more openly relieved as the loyal party gains the upper hand. His emotional life stays disciplined, with satisfaction and pity replacing earlier tension.",
+            "key_moments": [
+              "withstands Silver's parley",
+              "stays calm through battle",
+              "shows relief after the mutiny breaks",
+              "pities the defeated mutineers"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey is not emotionally transformed in a dramatic way, but the novel tests his composure repeatedly. The result is a stable, resilient temperament that absorbs strain without losing clarity."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Dr. Livesey",
+        "target_character": "Jim Hawkins",
+        "dimension_label": "Protective Trust",
+        "axis_name": "From benevolent adult to trusted guardian and ally",
+        "pole_start": "Respectful, benevolent adult presence with high esteem but limited intimacy at the outset.",
+        "pole_end": "Deeply trusted protector and tactical ally, with sustained affection, confidence, and shared purpose.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial benevolence",
+            "chapter_range": [
+              1,
+              5
+            ],
+            "position_description": "Livesey is already seen as safe, respectable, and protective, but the bond is still mostly adult-to-child and not yet collaborative.",
+            "key_moments": [
+              "Jim admires him as a reassuring adult",
+              "Livesey is invoked as household protection",
+              "Jim instinctively wants to bring him the mysterious papers"
+            ]
+          },
+          {
+            "phase": "Trusted inclusion",
+            "chapter_range": [
+              6,
+              12
+            ],
+            "position_description": "Livesey begins treating Jim as capable and trustworthy, bringing him into the circle of secrecy and action.",
+            "key_moments": [
+              "keeps Jim close during the papers discovery",
+              "trusts Jim with information and caution",
+              "uses Jim as an observer and messenger"
+            ]
+          },
+          {
+            "phase": "Protective solidarity",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "Under siege, the relationship becomes more mutual: Livesey is protective, but Jim is also a valued ally whose safety and usefulness matter to the whole loyal party.",
+            "key_moments": [
+              "is alarmed when Jim goes missing",
+              "worries about Jim during evacuation",
+              "continues to treat Jim as brave and reliable"
+            ]
+          },
+          {
+            "phase": "Moral seriousness and affection",
+            "chapter_range": [
+              30,
+              34
+            ],
+            "position_description": "Livesey is disappointed by Jim's disobedience but remains forgiving, morally serious, and warmly protective. The bond is now both ethical and affectionate.",
+            "key_moments": [
+              "responds to Jim's parole situation with concern rather than anger",
+              "speaks to Jim with practical compassion",
+              "continues to value Jim as a brave, earnest boy"
+            ]
+          }
+        ],
+        "evidence_summary": "This is one of Livesey's strongest relational arcs: Jim moves from admired child to trusted junior ally. The relationship deepens in trust, intimacy, and mutual reliance without losing its protective asymmetry."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Dr. Livesey",
+        "target_character": "Captain Smollett",
+        "dimension_label": "Command Trust",
+        "axis_name": "From respectful caution to full tactical partnership",
+        "pole_start": "Respectful but not yet fully aligned, with Livesey as the steadier observer and Smollett as a new authority figure.",
+        "pole_end": "Deep professional trust and tactical partnership, with Livesey openly deferring to Smollett's command in crisis.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial respect",
+            "chapter_range": [
+              8,
+              10
+            ],
+            "position_description": "Livesey recognizes Smollett as competent and increasingly preferable to the squire's impulsiveness.",
+            "key_moments": [
+              "accepts Smollett's practical warnings",
+              "grows more skeptical of Trelawney",
+              "endorses defensive precautions"
+            ]
+          },
+          {
+            "phase": "Shared suspicion and planning",
+            "chapter_range": [
+              12,
+              17
+            ],
+            "position_description": "As mutiny becomes undeniable, Livesey and Smollett operate as a unified command center, with Livesey supporting the captain's tactical judgment.",
+            "key_moments": [
+              "coordinates around Jim's warning",
+              "supports the stockade plan",
+              "follows Smollett's leadership during evacuation"
+            ]
+          },
+          {
+            "phase": "Confirmed partnership",
+            "chapter_range": [
+              18,
+              34
+            ],
+            "position_description": "Their alliance hardens into full trust. Livesey repeatedly treats Smollett as the central tactical authority and measures his own role against the captain's discipline.",
+            "key_moments": [
+              "judges Smollett a better man than himself",
+              "relies on Smollett in battle",
+              "works with him through the final recovery and departure"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett becomes Livesey's clearest adult counterpart: disciplined, practical, and trustworthy. Their relationship evolves into a stable command partnership grounded in mutual respect."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Dr. Livesey",
+        "target_character": "Squire Trelawney",
+        "dimension_label": "Corrective Respect",
+        "axis_name": "From cordial confidence to restrained correction",
+        "pole_start": "Warm respect and shared expedition purpose, with Livesey treating Trelawney as a valued social superior and ally.",
+        "pole_end": "Continued respect, but with clearer awareness of Trelawney's impulsiveness and need for discipline.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Cordial alliance",
+            "chapter_range": [
+              5,
+              8
+            ],
+            "position_description": "Livesey works smoothly with Trelawney and values his energy, but already sees the need to temper him.",
+            "key_moments": [
+              "coordinates on the expedition",
+              "handles Trelawney's enthusiasm with tact",
+              "keeps plans secret from careless talk"
+            ]
+          },
+          {
+            "phase": "Growing correction",
+            "chapter_range": [
+              9,
+              13
+            ],
+            "position_description": "As danger mounts, Livesey becomes more openly corrective, especially when Trelawney's judgment or temper threatens discipline.",
+            "key_moments": [
+              "interrupts Trelawney's overtalking",
+              "privately aligns with Smollett's caution",
+              "treats Trelawney as well-meaning but careless"
+            ]
+          },
+          {
+            "phase": "Crisis solidarity",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "The crisis softens tension: Livesey remains the steadier mind, but Trelawney is now a fellow loyalist whose grief and courage are accepted without contempt.",
+            "key_moments": [
+              "works with Trelawney in the stockade",
+              "accepts his remorse and grief",
+              "maintains practical camaraderie through the end"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey never loses respect for Trelawney, but he increasingly sees him as impulsive and in need of correction. The relationship stays cordial, with tension moderated by shared loyalty."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Dr. Livesey",
+        "target_character": "Long John Silver",
+        "dimension_label": "Suspicion-Management",
+        "axis_name": "From surface civility to wary strategic engagement",
+        "pole_start": "Initially willing to judge Silver by appearances and practical competence, with only limited trust.",
+        "pole_end": "Deeply distrustful but strategically attentive, recognizing Silver's intelligence, adaptability, and bargaining power without granting real confidence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Pragmatic openness",
+            "chapter_range": [
+              8,
+              10
+            ],
+            "position_description": "Livesey is briefly willing to credit Silver's apparent honesty and competence, though this remains cautious and provisional.",
+            "key_moments": [
+              "gives Silver cautious surface approval",
+              "continues to monitor him indirectly",
+              "does not yet fully read him as the central threat"
+            ]
+          },
+          {
+            "phase": "Confirmed suspicion",
+            "chapter_range": [
+              12,
+              20
+            ],
+            "position_description": "Silver's duplicity becomes clear, and Livesey's attitude hardens into moral repulsion and tactical wariness.",
+            "key_moments": [
+              "recognizes Silver as a manipulator",
+              "treats his civility as dangerous",
+              "supports defensive measures against him"
+            ]
+          },
+          {
+            "phase": "Strategic containment",
+            "chapter_range": [
+              28,
+              34
+            ],
+            "position_description": "Livesey no longer expects trust, but he does recognize Silver as someone who can be negotiated with, threatened, or temporarily managed through hope and self-interest.",
+            "key_moments": [
+              "engages Silver in bargaining",
+              "uses conditional mercy and legal pressure",
+              "keeps Silver alive under supervision after the crisis"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey's relationship with Silver is not one of trust but of increasingly sophisticated strategic management. He moves from cautious openness to hard suspicion, then to controlled, tactical engagement."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_05",
+        "source_character": "Dr. Livesey",
+        "target_character": "Ben Gunn",
+        "dimension_label": "Suspicion-Alliance",
+        "axis_name": "From unknown oddity to valued ally",
+        "pole_start": "He begins with no direct relationship and only the possibility of an unknown islander being a threat or curiosity.",
+        "pole_end": "He ends regarding Ben Gunn as a trusted and useful ally whose local knowledge materially helps the loyal party.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Emergent possibility",
+            "chapter_range": [
+              15,
+              20
+            ],
+            "position_description": "Ben Gunn enters Livesey's strategic world as a potentially crucial helper, and his usefulness becomes increasingly clear.",
+            "key_moments": [
+              "Jim discovers Ben Gunn and his hidden boat",
+              "Livesey infers that Gunn has already attacked the pirates"
+            ]
+          },
+          {
+            "phase": "Confirmed usefulness",
+            "chapter_range": [
+              20,
+              34
+            ],
+            "position_description": "Livesey's confidence in Gunn solidifies as the loyal side benefits from Gunn's actions and knowledge.",
+            "key_moments": [
+              "realizes Gunn has weakened the mutineers",
+              "the final outcome indirectly validates Gunn's role in the loyal victory"
+            ]
+          }
+        ],
+        "evidence_summary": "Ben Gunn is not a central emotional relationship, but he becomes a meaningful strategic ally. The arc is real, though narrower than Livesey's major interpersonal shifts."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_06",
+        "source_character": "Dr. Livesey",
+        "target_character": "Gray",
+        "dimension_label": "Earned Confidence",
+        "axis_name": "From neutral acceptance to confirmed trust",
+        "pole_start": "Gray begins as a practical subordinate figure with limited personal significance.",
+        "pole_end": "A trusted and respected loyalist whose competence and steadiness are clearly valued.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Functional acceptance",
+            "chapter_range": [
+              7,
+              16
+            ],
+            "position_description": "Livesey treats Gray as part of the expedition's working structure, with no strong personal bond yet.",
+            "key_moments": [
+              "Gray functions as part of the loyal party",
+              "Livesey includes him in practical arrangements"
+            ]
+          },
+          {
+            "phase": "Battle-confirmed trust",
+            "chapter_range": [
+              17,
+              22
+            ],
+            "position_description": "Gray proves himself in crisis, and Livesey's regard warms into genuine confidence and approval.",
+            "key_moments": [
+              "Gray helps in the defense",
+              "Livesey accepts him as dependable",
+              "Gray's loyalty is confirmed in action"
+            ]
+          }
+        ],
+        "evidence_summary": "Gray is a smaller but meaningful relational gain: Livesey's trust becomes more explicit once Gray proves himself under pressure."
+      }
+    ]
+  },
+  "Squire Trelawney": {
+    "character": "Squire Trelawney",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From blustering self-assertion to disciplined interdependence",
+            "set_b_axis": "From impulsive self-assertion to disciplined communal loyalty",
+            "overlap_description": "Both describe Trelawney's movement from overconfident, self-driven leadership toward cooperative, deferential participation in a shared survival effort."
+          },
+          {
+            "set_a_axis": "From swaggering certainty to chastened realism",
+            "set_b_axis": "From unexamined certainty to chastened practical realism",
+            "overlap_description": "Both capture the erosion of Trelawney's overconfidence into a more sober, realistic understanding of danger, competence, and his own fallibility."
+          },
+          {
+            "set_a_axis": "From gentlemanly display to hard-nosed survival ethics",
+            "set_b_axis": "From wounded pride to humbled service",
+            "overlap_description": "Both identify a shift away from status-driven, performative self-conception toward humility, discipline, and practical service under crisis."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From gentlemanly display to hard-nosed survival ethics",
+            "assessment": "borderline"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From adventure fantasy to military realism",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From offended resistance to sincere deference",
+            "set_b_axis": "From offended resistance to disciplined trust",
+            "overlap_description": "Both track Trelawney's relationship with Smollett from wounded pride and resistance to genuine reliance on the captain's superior judgment."
+          },
+          {
+            "set_a_axis": "From admiring trust to absolute enmity",
+            "set_b_axis": "From admiring trust to moral distrust",
+            "overlap_description": "Both describe the collapse of Trelawney's trust in Silver into lasting hostility and moral condemnation after Silver's treachery is revealed."
+          },
+          {
+            "set_a_axis": "From benevolent patron to humbled companion",
+            "set_b_axis": "From genial patronage to warm comradeship",
+            "overlap_description": "Both see Trelawney's bond with Jim Hawkins becoming less hierarchical and more mutually trusting, forgiving, and companionable."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From independent pride to quiet reliance",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From independent pride to quiet reliance",
+            "assessment": "valid_missed"
+          }
+        ]
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "agency communion",
+        "axis_name": "From impulsive self-assertion to disciplined communal loyalty",
+        "pole_start": "Highly agentic: proud, impulsive, socially dominant, and convinced he can drive the expedition on his own terms.",
+        "pole_end": "More communally oriented: cooperative, deferential to shared leadership, and invested in the survival and cohesion of the loyal party.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Expansive organizer",
+            "chapter_range": [
+              6,
+              10
+            ],
+            "position_description": "Trelawney begins in a triumphal, self-authorizing mode: he rushes the expedition forward, boasts of the ship and crew, and treats his own initiative as sufficient.",
+            "key_moments": [
+              "Discovers Flint's papers and immediately turns them into a treasure plan",
+              "Fits out the Hispaniola and boasts about the voyage's success",
+              "Trusts Silver too readily and bristles at Smollett's criticism"
+            ]
+          },
+          {
+            "phase": "Chastened by crisis",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "The mutiny and deaths force him to yield to practical leadership and to work within the loyal group rather than above it.",
+            "key_moments": [
+              "Admits Smollett was right after the warning signs become undeniable",
+              "Accepts the cabin council and defensive reorganization",
+              "Helps retreat to the stockade and grieves Redruth's death"
+            ]
+          },
+          {
+            "phase": "Disciplined loyalist",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "He settles into a stable cooperative posture, supporting the group, following Smollett's command, and valuing shared survival over personal display.",
+            "key_moments": [
+              "Endures siege conditions under Smollett's direction",
+              "Acts as part of the loyal defense rather than as a solo leader",
+              "Returns to the camp and helps secure the recovered treasure"
+            ]
+          }
+        ],
+        "evidence_summary": "Across both analyses, Trelawney's core internal movement is from impulsive self-assertion toward disciplined cooperation. He does not lose agency, but it becomes subordinated to collective survival, practical leadership, and loyal fellowship."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "confidence realism",
+        "axis_name": "From unexamined certainty to chastened practical realism",
+        "pole_start": "Unquestioning confidence in his own judgment, with little awareness of risk, gullibility, or the limits of his competence.",
+        "pole_end": "A sober realism that recognizes error, accepts danger, and relies on practical judgment rather than romantic confidence.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Overconfident patron",
+            "chapter_range": [
+              6,
+              10
+            ],
+            "position_description": "He assumes the expedition will succeed and that his social instincts are enough to manage men and circumstances.",
+            "key_moments": [
+              "Treats the treasure hunt as unquestionably attainable",
+              "Praises Silver as trustworthy and useful",
+              "Dismisses Smollett's warnings as offensive rather than instructive"
+            ]
+          },
+          {
+            "phase": "Public correction",
+            "chapter_range": [
+              12,
+              13
+            ],
+            "position_description": "His confidence is punctured by events; he admits error and begins to see the voyage as genuinely dangerous.",
+            "key_moments": [
+              "Says he 'owns' himself an ass",
+              "Accepts that the crew is mutinous",
+              "Submits to Smollett's tactical leadership"
+            ]
+          },
+          {
+            "phase": "Practical survivor",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "He becomes steadier and more realistic, focusing on defense, endurance, and survival rather than prestige or bravado.",
+            "key_moments": [
+              "Helps move supplies to the stockade",
+              "Acts with discipline under fire",
+              "Ends relieved rather than triumphant"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree that Trelawney's inflated certainty is corrected by the mutiny into practical realism. The result is not self-erasure but a durable, chastened judgment shaped by danger."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "pride humility",
+        "axis_name": "From wounded pride to humbled service",
+        "pole_start": "Proud, status-conscious, and easily affronted by criticism; he experiences disagreement as insult.",
+        "pole_end": "More humble in practice: he acknowledges error, defers to others, and accepts a supporting rather than commanding role.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Defensive gentleman",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "He reacts to Smollett's bluntness as a personal affront and resists any challenge to his authority.",
+            "key_moments": [
+              "Feels insulted by Smollett's criticism",
+              "Despises the captain's caution",
+              "Wants his role as organizer vindicated"
+            ]
+          },
+          {
+            "phase": "Humbling shock",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "Events publicly correct him, and he begins to act with humility, especially in relation to Smollett and Redruth.",
+            "key_moments": [
+              "Admits he was wrong",
+              "Yields authority to the captain",
+              "Kneels by Tom Redruth and asks forgiveness"
+            ]
+          },
+          {
+            "phase": "Restored but chastened",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "His pride remains, but it is no longer governing; he functions as a loyal gentleman rather than a self-justifying one.",
+            "key_moments": [
+              "Supports the loyal camp without trying to dominate it",
+              "Shows controlled anger toward Silver rather than swagger",
+              "Ends in relief and social composure"
+            ]
+          }
+        ],
+        "evidence_summary": "Trelawney's pride is not eliminated, but it is redirected into service, discipline, and loyalty. The arc is one of humiliation transformed into mature humility."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "romance realism",
+        "axis_name": "From adventure fantasy to military realism",
+        "pole_start": "He sees the voyage as a grand, romantic adventure full of prestige, excitement, and gentlemanly display.",
+        "pole_end": "He understands it as a grim, practical struggle requiring arms, rationing, vigilance, and endurance.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Adventure-minded enthusiasm",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "He treats the expedition as a thrilling enterprise and delights in its outward signs of success.",
+            "key_moments": [
+              "Celebrates the ship and crew as proof of triumph",
+              "Admires Silver as a colorful and useful figure",
+              "Feels buoyant and triumphant about departure"
+            ]
+          },
+          {
+            "phase": "Reality check",
+            "chapter_range": [
+              9,
+              18
+            ],
+            "position_description": "Smollett's warnings, Jim's revelations, and the mutiny force him to abandon romantic assumptions.",
+            "key_moments": [
+              "Smollett criticizes the voyage's setup",
+              "Jim reveals Silver's treachery",
+              "The loyal party retreats to the stockade and fights for survival"
+            ]
+          },
+          {
+            "phase": "Siege mentality",
+            "chapter_range": [
+              19,
+              34
+            ],
+            "position_description": "He fully inhabits a military, survival-first mindset; the adventure has become a campaign.",
+            "key_moments": [
+              "Endures rationing and siege conditions",
+              "Fights in the stockade defense",
+              "Helps secure the treasure and leave the island"
+            ]
+          }
+        ],
+        "evidence_summary": "This axis is strongly supported by the psychological summary and complements the other internal axes: Trelawney's romantic expeditionary fantasy is replaced by hard-edged realism and siege discipline."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Squire Trelawney",
+        "target_character": "Captain Smollett",
+        "dimension_label": "respect defiance",
+        "axis_name": "From offended resistance to disciplined trust",
+        "pole_start": "Initially defensive, contemptuous, and resistant to Smollett's criticism; he experiences the captain's warnings as an insult to his competence.",
+        "pole_end": "Fully trusting, deferential, and reliant on Smollett as the rightful tactical leader of the loyal party.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Conflict and offense",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Trelawney is irritated by Smollett's bluntness and sees him as obstructive rather than helpful.",
+            "key_moments": [
+              "Smollett criticizes the voyage's arrangements",
+              "Trelawney bristles and despises the captain's caution"
+            ]
+          },
+          {
+            "phase": "Correction and submission",
+            "chapter_range": [
+              12,
+              16
+            ],
+            "position_description": "He accepts that Smollett was right and begins to defer to his command.",
+            "key_moments": [
+              "Admits he was wrong after Jim's warning",
+              "Accepts the cabin council",
+              "Helps carry out Smollett's retreat to the stockade"
+            ]
+          },
+          {
+            "phase": "Stable reliance",
+            "chapter_range": [
+              17,
+              34
+            ],
+            "position_description": "Their relationship settles into strong trust and practical solidarity; Smollett becomes the model of competence Trelawney follows.",
+            "key_moments": [
+              "Fights under Smollett's direction",
+              "Supports the siege defense",
+              "Continues to treat Smollett as the authoritative leader"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett is the corrective to Trelawney's impulsiveness and the leader whose competence earns lasting deference. Their relationship moves from friction to trust and practical solidarity."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Squire Trelawney",
+        "target_character": "Long John Silver",
+        "dimension_label": "trust suspicion",
+        "axis_name": "From admiring trust to moral distrust",
+        "pole_start": "Initially highly trusting, admiring, and socially receptive toward Silver, whom he sees as capable, respectable, and useful.",
+        "pole_end": "Fully distrustful and morally contemptuous, seeing Silver as a traitor, manipulator, and enemy leader.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Admiration and reliance",
+            "chapter_range": [
+              7,
+              10
+            ],
+            "position_description": "Trelawney is taken in by Silver's performance and treats him as a valuable, trustworthy man.",
+            "key_moments": [
+              "Calls Silver a 'perfect trump'",
+              "Trusts him as cook and intermediary",
+              "Remains blind to the danger of appearances"
+            ]
+          },
+          {
+            "phase": "Collapse of trust",
+            "chapter_range": [
+              12,
+              13
+            ],
+            "position_description": "Jim's warning and the mutiny force a complete reversal in his view of Silver.",
+            "key_moments": [
+              "Learns the crew is mutinous",
+              "Recognizes Silver as a dangerous manipulator",
+              "Aligns with Smollett against the pirates"
+            ]
+          },
+          {
+            "phase": "Fixed enmity",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "Silver becomes the emblem of treachery and pirate cunning; Trelawney's attitude remains hostile and contemptuous.",
+            "key_moments": [
+              "Treats Silver as the enemy during the siege",
+              "Denounces him at the end",
+              "Feels relief when Silver disappears"
+            ]
+          }
+        ],
+        "evidence_summary": "Trelawney's trust in Silver undergoes a sharp reversal: admiration becomes suspicion, then enduring moral distrust after treachery is exposed."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Squire Trelawney",
+        "target_character": "Jim Hawkins",
+        "dimension_label": "patronage comradeship",
+        "axis_name": "From genial patronage to warm comradeship",
+        "pole_start": "Fond but somewhat patronizing approval of Jim as a promising boy and useful companion.",
+        "pole_end": "Warm, trusting, and affectionate comradeship, with Jim treated as a valued ally and brave participant.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Welcoming patron",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "He likes Jim, praises him, and imagines him as part of the expedition's household.",
+            "key_moments": [
+              "Calls Jim a 'trump'",
+              "Wants him to join the voyage quickly",
+              "Treats him as a welcome young companion"
+            ]
+          },
+          {
+            "phase": "Trusted ally",
+            "chapter_range": [
+              12,
+              18
+            ],
+            "position_description": "Jim becomes a crucial source of information and a trusted helper, deepening Trelawney's affection and reliance.",
+            "key_moments": [
+              "Places 'prodigious faith' in Jim",
+              "Relies on Jim's warning about Silver",
+              "Maintains concern for Jim's safety"
+            ]
+          },
+          {
+            "phase": "Cordial survivor",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "After the crisis, he is openly kind and approving toward Jim, with no lingering strain.",
+            "key_moments": [
+              "Does not reproach Jim for earlier actions",
+              "Appears relieved and warmly aligned with him at the end"
+            ]
+          }
+        ],
+        "evidence_summary": "Trelawney's relationship with Jim remains positive but deepens from patronizing fondness into genuine trust and affection as Jim proves himself in crisis."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Squire Trelawney",
+        "target_character": "Dr. Livesey",
+        "dimension_label": "independence deference",
+        "axis_name": "From independent pride to quiet reliance",
+        "pole_start": "He initially acts independently of Livesey's caution, treating his own arrangements and instincts as sufficient.",
+        "pole_end": "He ends by trusting Livesey as a steady, competent ally whose judgment helps keep the group alive.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Independent confidence",
+            "chapter_range": [
+              6,
+              8
+            ],
+            "position_description": "Livesey's warnings are respected in principle, but Trelawney still behaves as if he can manage the expedition on his own terms.",
+            "key_moments": [
+              "Accepts secrecy after the map is revealed",
+              "Proceeds with outfitting the ship",
+              "Acts without fully sharing authority"
+            ]
+          },
+          {
+            "phase": "Practical dependence",
+            "chapter_range": [
+              12,
+              22
+            ],
+            "position_description": "As the mutiny unfolds, Livesey's judgment becomes increasingly valuable. Trelawney relies on the doctor's calm intelligence and tactical clarity.",
+            "key_moments": [
+              "Accepts the defensive plan",
+              "Recognizes loyal allies",
+              "Livesey's calm initiative in the stockade and beyond"
+            ]
+          },
+          {
+            "phase": "Post-crisis respect",
+            "chapter_range": [
+              30,
+              34
+            ],
+            "position_description": "Livesey's composure in negotiations and the final recovery of the treasure reinforce Trelawney's trust in him as a stabilizing force.",
+            "key_moments": [
+              "Livesey handles tense exchanges at the block house",
+              "Trelawney aligns with the doctor's judgment about Silver",
+              "The expedition ends under the doctor's practical leadership"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey functions as the quiet corrective to Trelawney's impulsiveness. The relationship shifts from partial independence to genuine reliance on the doctor's steadiness and judgment."
+      }
+    ]
+  },
+  "Captain Smollett": {
+    "character": "Captain Smollett",
+    "comparison": {
+      "intrapersonal": {
+        "matched": [
+          {
+            "set_a_axis": "From solitary command to allied command",
+            "set_b_axis": "From isolated command to disciplined cooperative leadership",
+            "overlap_description": "Both describe Smollett as beginning in strongly self-contained, hierarchical command and ending in a more cooperative but still authoritative leadership mode."
+          },
+          {
+            "set_a_axis": "From wary suspicion to confirmed judgment",
+            "set_b_axis": "From wary suspicion to confirmed tactical certainty",
+            "overlap_description": "Both track the same psychological movement: Smollett starts distrustful and ends with his suspicions vindicated by events."
+          },
+          {
+            "set_a_axis": "From commanding control to resilient endurance",
+            "set_b_axis": "From threatened bodily collapse to resilient command under injury",
+            "overlap_description": "Both focus on Smollett learning to sustain authority under physical strain, scarcity, and injury rather than through direct mastery alone."
+          }
+        ],
+        "unique_to_a": [
+          {
+            "axis": "From rigid professional command to adaptive battlefield leadership",
+            "assessment": "valid_missed"
+          }
+        ],
+        "unique_to_b": [
+          {
+            "axis": "From threatened bodily collapse to resilient command under injury",
+            "assessment": "borderline"
+          },
+          {
+            "axis": "From rigid professional command to adaptive battlefield leadership",
+            "assessment": "valid_missed"
+          }
+        ]
+      },
+      "relational": {
+        "matched": [
+          {
+            "set_a_axis": "From guarded suspicion to open enmity",
+            "set_b_axis": "From wary suspicion to hard-eyed strategic hostility",
+            "overlap_description": "Both describe the same arc from initial wariness toward Silver to full antagonism, with only slight differences in how much grudging respect is emphasized."
+          },
+          {
+            "set_a_axis": "From professional reserve to trusted partnership",
+            "set_b_axis": "From irritation to trusted professional alliance",
+            "overlap_description": "Both capture the Smollett-Livesey relationship as moving from reserve/friction into durable professional trust and alliance."
+          },
+          {
+            "set_a_axis": "From open friction to grudging practical respect",
+            "set_b_axis": "From contemptuous friction to pragmatic cooperation",
+            "overlap_description": "Both identify a Trelawney arc from conflict and criticism toward workable, if limited, cooperation grounded in shared survival."
+          },
+          {
+            "set_a_axis": "From formal distance to warm, earned respect",
+            "set_b_axis": "From dismissive hierarchy to protective trust",
+            "overlap_description": "Both describe Smollett's relationship with Jim as moving from hierarchical distance to genuine trust and appreciation."
+          }
+        ],
+        "unique_to_a": [],
+        "unique_to_b": []
+      }
+    },
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-Communion",
+        "axis_name": "From isolated command to disciplined cooperative leadership",
+        "pole_start": "Highly agentic: self-assertive, suspicious, professionally separate, and oriented toward maintaining authority through distance and control.",
+        "pole_end": "Still strongly agentic, but more integrated with a loyal command circle; he remains authoritative while functioning as part of a cooperative defensive unit.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial command and boundary-setting",
+            "chapter_range": [
+              2,
+              10
+            ],
+            "position_description": "Smollett begins as a sharply self-possessed captain who insists on hierarchy, distrusts disorder, and keeps emotional distance from others while trying to preserve authority.",
+            "key_moments": [
+              "Rejects favoritism and insists on discipline",
+              "Shows irritation toward Livesey and suspicion of the voyage",
+              "Frames leadership as control, separation, and procedural order"
+            ]
+          },
+          {
+            "phase": "Professional isolation hardens under threat",
+            "chapter_range": [
+              11,
+              15
+            ],
+            "position_description": "Once the mutiny threat becomes visible, his agency intensifies: he becomes more guarded and strategically self-reliant, but begins to coordinate with the loyal few as necessity demands.",
+            "key_moments": [
+              "Overhears Silver's conspiracy and recognizes organized treachery",
+              "Takes command of the loyal response and plans defensively",
+              "Begins functioning with Livesey, Jim, and Trelawney as a defensive circle"
+            ]
+          },
+          {
+            "phase": "Command fused with loyal cooperation",
+            "chapter_range": [
+              16,
+              22
+            ],
+            "position_description": "Smollett remains dominant in temperament, but leadership now operates through interdependence: he relies on allies, coordinates defense, and preserves morale under siege.",
+            "key_moments": [
+              "Organizes evacuation and stockade defense",
+              "Trusts the loyal party in battle conditions",
+              "Maintains authority while sharing practical responsibility"
+            ]
+          },
+          {
+            "phase": "Settled authority in a coalition",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "By the end, Smollett is still clearly the commanding center, but his authority is validated inside a functioning coalition rather than through solitary command alone.",
+            "key_moments": [
+              "Returns as the recognized captain of the loyal survivors",
+              "Continues directing the voyage home while recovering",
+              "Embodies disciplined authority embedded in mutual dependence"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett never becomes communion-dominant; agency remains his defining trait. The meaningful change is that his authority shifts from defensive isolation to disciplined collaboration with trusted allies, especially after the mutiny is confirmed."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Suspicion-Certainty",
+        "axis_name": "From wary suspicion to confirmed tactical certainty",
+        "pole_start": "Suspicious but still testing reality: he senses danger, distrusts the voyage, and suspects treachery without full proof.",
+        "pole_end": "Certain and strategically lucid: he fully accepts the mutiny and responds with clear-eyed tactical realism.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Initial professional unease",
+            "chapter_range": [
+              2,
+              10
+            ],
+            "position_description": "Smollett begins with instinctive distrust of people and conditions, reading disorder as a sign of danger while still trying to determine the scale of the threat.",
+            "key_moments": [
+              "Distrusts crew looseness and secrecy",
+              "Criticizes unsafe management and poor discipline",
+              "Treats Silver and the voyage as potentially compromised"
+            ]
+          },
+          {
+            "phase": "Suspicion becomes near-certainty",
+            "chapter_range": [
+              11,
+              12
+            ],
+            "position_description": "Silver's open recruitment and the mutiny's visible structure confirm what Smollett feared; he no longer merely suspects corruption, he knows the ship is compromised.",
+            "key_moments": [
+              "Overhears Silver's conspiracy",
+              "Sees the mutiny organize itself openly",
+              "Shifts from warning to containment"
+            ]
+          },
+          {
+            "phase": "Confirmed tactical realism",
+            "chapter_range": [
+              13,
+              21
+            ],
+            "position_description": "He now operates from certainty. The question is not whether there is treachery, but how to survive it, so his thinking becomes measured, unsentimental, and tactical.",
+            "key_moments": [
+              "Lets the enemy expose itself",
+              "Evacuates to the stockade",
+              "Manages assault and scarcity with calm"
+            ]
+          },
+          {
+            "phase": "Post-victory confirmation",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "After the mutiny collapses, his certainty remains but is no longer defensive; the outcome confirms his worldview and allows orderly completion.",
+            "key_moments": [
+              "Treasure recovered and order restored",
+              "Continues homeward under disciplined control",
+              "Treats survival as vindication of his judgment"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett's psychological movement is from alert distrust to fully validated certainty. He does not become more trusting; instead, the narrative proves him right, and his suspicion matures into tactical clarity."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Control-Endurance",
+        "axis_name": "From rigid command to resilient endurance",
+        "pole_start": "Believes leadership means actively controlling events through order, planning, and direct authority.",
+        "pole_end": "Accepts that leadership also means absorbing damage, scarcity, injury, and temporary helplessness without surrendering standards.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Procedural command and correction",
+            "chapter_range": [
+              9,
+              13
+            ],
+            "position_description": "He initially treats leadership as the ability to impose structure, secure resources, and manage risk through decisive action and strict procedure.",
+            "key_moments": [
+              "Demands arms and powder be secured",
+              "Criticizes loose management and insists on precautions",
+              "Chooses patience and concealment over impulsive confrontation"
+            ]
+          },
+          {
+            "phase": "Damage, scarcity, and bodily strain",
+            "chapter_range": [
+              14,
+              19
+            ],
+            "position_description": "Repeated losses force him to recognize that command is no longer about mastery alone; it is about surviving setbacks, conserving resources, and absorbing failure.",
+            "key_moments": [
+              "Loses stores and guns",
+              "Registers the party as a besieged remnant",
+              "Feels the ship's loss as a personal blow"
+            ]
+          },
+          {
+            "phase": "Endurance under injury and constraint",
+            "chapter_range": [
+              20,
+              34
+            ],
+            "position_description": "After battle wounds and convalescence, he remains authoritative even when immobilized, showing that his identity can survive the loss of direct control.",
+            "key_moments": [
+              "Keeps composure during Silver's truce parley",
+              "Survives grievous wounds and prolonged silence",
+              "Commands from a mattress during the return voyage"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett begins as a captain who equates leadership with control, but the island crisis teaches him that true command also includes absorbing damage, managing scarcity, and remaining morally and professionally steady when direct control is impossible."
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Command-Style",
+        "axis_name": "From rigid professional command to adaptive battlefield leadership",
+        "pole_start": "Rigidly procedural: he values hierarchy, secrecy, and formal authority, and initially frames problems as failures of discipline.",
+        "pole_end": "Adaptive and situational: he still values hierarchy, but now uses flexibility, timing, and morale management as part of command.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Procedural command and complaint",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "He begins by insisting on proper shipboard order, secure stores, and strict hierarchy. His leadership style is formal and corrective, with little tolerance for improvisation.",
+            "key_moments": [
+              "Demands powder and arms be secured",
+              "Criticizes Trelawney's loose management",
+              "Threatens resignation if precautions are ignored"
+            ]
+          },
+          {
+            "phase": "Command under crisis",
+            "chapter_range": [
+              12,
+              20
+            ],
+            "position_description": "As mutiny becomes real, he adapts. He still commands, but now he uses timing, deception, and controlled exposure to keep the upper hand.",
+            "key_moments": [
+              "Organizes a defensive council",
+              "Allows shore leave to test loyalty",
+              "Rejects Silver's negotiation without losing composure"
+            ]
+          },
+          {
+            "phase": "Battlefield command and morale management",
+            "chapter_range": [
+              21,
+              34
+            ],
+            "position_description": "He becomes a practical battlefield leader: assigning posts, conserving resources, maintaining morale, and symbolically embodying resistance.",
+            "key_moments": [
+              "Directs defense during attack",
+              "Refuses to strike the colours",
+              "Manages scarcity and recovery after victory"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett's leadership does not soften, but it becomes more flexible. He learns to combine strict authority with tactical adaptation, especially once the crisis makes ordinary command insufficient."
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Captain Smollett",
+        "target_character": "Long John Silver",
+        "dimension_label": "Distrust-Respect",
+        "axis_name": "From wary suspicion to hard-eyed strategic hostility",
+        "pole_start": "Initially wary and only partially suspicious: Smollett notices Silver's behavior and keeps distance, but has not yet fully identified him as the central enemy.",
+        "pole_end": "Openly hostile, with grudging respect for Silver's intelligence and adaptability; Silver is recognized as a formidable mutineer to be defeated, not trusted.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Early wariness",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Smollett is already uneasy about Silver, but the suspicion is still embedded in his broader distrust of the crew.",
+            "key_moments": [
+              "Maintains distance from Silver",
+              "Frames the ship as unsafe and loosely governed",
+              "Treats Silver as a potential threat to order"
+            ]
+          },
+          {
+            "phase": "Confirmed enemy",
+            "chapter_range": [
+              11,
+              12
+            ],
+            "position_description": "Silver's open mutiny confirms Smollett's fears. The relationship hardens from caution into clear antagonism.",
+            "key_moments": [
+              "Silver openly recruits the crew",
+              "Smollett recognizes the mutiny as real",
+              "He begins organized containment"
+            ]
+          },
+          {
+            "phase": "Strategic hostility",
+            "chapter_range": [
+              13,
+              20
+            ],
+            "position_description": "Smollett treats Silver as the intelligent center of the threat. He does not underestimate him, but he refuses to yield psychologically, answering Silver with composure and firmness.",
+            "key_moments": [
+              "Lets Silver's side expose itself",
+              "Rejects Silver's embassy and terms",
+              "Maintains calm authority in direct confrontation"
+            ]
+          },
+          {
+            "phase": "Post-conflict contempt",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "After the mutiny collapses, Silver is no longer an immediate tactical problem, but Smollett's distrust and contempt remain. Any respect is strictly instrumental and does not become warmth.",
+            "key_moments": [
+              "Treasure recovered",
+              "Order restored",
+              "Silver remains untrusted"
+            ]
+          }
+        ],
+        "evidence_summary": "This is Smollett's most significant relationship arc. He moves from guarded suspicion to full recognition of Silver as a dangerous, intelligent enemy, while still acknowledging his cunning. Trust never rises; respect stays tactical and limited."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Captain Smollett",
+        "target_character": "Dr. Livesey",
+        "dimension_label": "Distance-Alliance",
+        "axis_name": "From irritation to trusted professional alliance",
+        "pole_start": "Initially irritated and distrustful, with Smollett experiencing Livesey as a possible adversary or moral superior rather than a partner.",
+        "pole_end": "A strong, stable alliance built on mutual respect, practical judgment, and shared command responsibility.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Early friction",
+            "chapter_range": [
+              2,
+              3
+            ],
+            "position_description": "Smollett is irritated by Livesey's presence and authority, though the doctor's competence is already visible.",
+            "key_moments": [
+              "Snorts indignantly at Livesey",
+              "Shows resentment and distrust during the inn crisis"
+            ]
+          },
+          {
+            "phase": "Constructive recognition",
+            "chapter_range": [
+              9,
+              12
+            ],
+            "position_description": "Livesey becomes the one person Smollett can treat as rational and useful. Their relationship shifts from friction to practical respect.",
+            "key_moments": [
+              "Livesey engages him constructively",
+              "They coordinate on ship security",
+              "They form a defensive alliance"
+            ]
+          },
+          {
+            "phase": "Stable command partnership",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "Livesey is now a trusted co-strategist. Smollett relies on him in crisis, and the relationship remains steady through battle, recovery, and aftermath.",
+            "key_moments": [
+              "Evacuation and stockade defense",
+              "Battle coordination",
+              "Post-victory recovery and shipboard command"
+            ]
+          }
+        ],
+        "evidence_summary": "Livesey is Smollett's clearest positive relationship. The arc is not dramatic but important: irritation gives way to durable professional trust, with both men functioning as disciplined allies."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Captain Smollett",
+        "target_character": "Squire Trelawney",
+        "dimension_label": "Friction-Cooperation",
+        "axis_name": "From contemptuous friction to pragmatic cooperation",
+        "pole_start": "Smollett begins by seeing Trelawney as careless, overbearing, and professionally irresponsible.",
+        "pole_end": "He ends in a workable, if still measured, partnership with Trelawney as a fellow survivor and leader.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Open friction",
+            "chapter_range": [
+              9,
+              10
+            ],
+            "position_description": "Smollett is openly critical of Trelawney's management and treats him as the source of the voyage's disorder.",
+            "key_moments": [
+              "Criticizes loose speech and planning",
+              "Threatens resignation if precautions are not taken"
+            ]
+          },
+          {
+            "phase": "Crisis-based cooperation",
+            "chapter_range": [
+              12,
+              21
+            ],
+            "position_description": "As danger escalates, Smollett accepts Trelawney as part of the loyal command group, though without fully warming to him.",
+            "key_moments": [
+              "Defensive council",
+              "Shared evacuation and defense",
+              "Trelawney's marksmanship and labor become useful"
+            ]
+          },
+          {
+            "phase": "Post-crisis pragmatism",
+            "chapter_range": [
+              33,
+              34
+            ],
+            "position_description": "The relationship remains professionally corrective but no longer combative. Smollett's earlier contempt is softened by shared survival, though not replaced by intimacy.",
+            "key_moments": [
+              "Treasure recovered",
+              "Order restored",
+              "Continued cooperation on the voyage home"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett never becomes warm toward Trelawney, but the relationship improves from open friction to practical cooperation. The arc is one of moderated hostility, not reconciliation."
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_04",
+        "source_character": "Captain Smollett",
+        "target_character": "Jim Hawkins",
+        "dimension_label": "Hierarchy-Trust",
+        "axis_name": "From dismissive hierarchy to protective trust",
+        "pole_start": "At first Smollett treats Jim as a subordinate boy, useful but not fully trusted or respected as an equal.",
+        "pole_end": "He ends with Jim as a trusted, brave, and valued helper whose loyalty and initiative matter to the defense.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Hierarchical distance",
+            "chapter_range": [
+              2,
+              9
+            ],
+            "position_description": "Jim is initially a subordinate witness/helper. Smollett's attitude is formal and distant, with low esteem and limited trust.",
+            "key_moments": [
+              "Uses Jim for practical help during the inn crisis",
+              "Excludes him from authority and privileged space"
+            ]
+          },
+          {
+            "phase": "Instrumental reliance",
+            "chapter_range": [
+              3,
+              13
+            ],
+            "position_description": "Smollett begins to use Jim more actively as a messenger and observer, showing medium trust but still within a strict hierarchy.",
+            "key_moments": [
+              "Relies on him for information and assistance",
+              "Treats him as a useful ally rather than an equal"
+            ]
+          },
+          {
+            "phase": "Protective confidence",
+            "chapter_range": [
+              16,
+              34
+            ],
+            "position_description": "Jim becomes a trusted part of the loyal party. Smollett values his bravery, observation, and usefulness, and his attitude becomes more protective and approving.",
+            "key_moments": [
+              "Treats Jim as a loyal helper in evacuation and defense",
+              "Continues to trust him during battle and aftermath",
+              "Acknowledges Jim as brave and useful"
+            ]
+          }
+        ],
+        "evidence_summary": "Smollett's relationship with Jim moves from strict hierarchy to genuine protective trust. He never stops seeing Jim as younger and subordinate, but he increasingly values him as a dependable member of the loyal group."
+      }
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "character": "Gustavus Vassa",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From dependent survival to self-directed public witness",
+          "set_b_axis": "From relational dependence to public self-assertion",
+          "overlap_description": "Both describe a shift from dependence on others and constrained selfhood toward greater agency, public voice, and self-authorized advocacy."
+        },
+        {
+          "set_a_axis": "From trust in law to recognition of racialized legal failure",
+          "set_b_axis": "From cautious admiration to sharpened structural distrust",
+          "overlap_description": "Both track increasing skepticism toward institutions, especially white colonial authority, though B frames it more broadly as distrust of institutions and white Christian hypocrisy."
+        },
+        {
+          "set_a_axis": "From terror and outrage to disciplined providential endurance",
+          "set_b_axis": "From private providential trust to politicized moral interpretation",
+          "overlap_description": "Both emphasize religion/providence as a stabilizing framework, but A centers emotional discipline and endurance while B emphasizes the political expansion of providential interpretation."
+        },
+        {
+          "set_a_axis": "From suffering observer to abolitionist spokesman",
+          "set_b_axis": "From endured injury to weaponized testimony",
+          "overlap_description": "Both describe the conversion of suffering into public testimony and abolitionist advocacy."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From trust in law to recognition of racialized legal failure",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From private providential trust to politicized moral interpretation",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From cautious admiration to sharpened structural distrust",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From dependence to fatherly attachment",
+          "set_b_axis": "From grateful dependence to stable allied trust",
+          "overlap_description": "Both identify Captain Farmer as a consistently benevolent protector whose relationship with Gustavus deepens into warm, trusted attachment."
+        },
+        {
+          "set_a_axis": "From labor dependence to confirmed exploitation",
+          "set_b_axis": "From owned dependence to negotiated respect",
+          "overlap_description": "Both concern Robert King and the master-slave power imbalance, but A emphasizes exploitation and B emphasizes strategic, conditional respect under ownership."
+        },
+        {
+          "set_a_axis": "From possible authority to naked tyranny",
+          "set_b_axis": "From cautious engagement to moral repudiation",
+          "overlap_description": "Both capture Gustavus's hardening rejection of white colonial authority after betrayal, abuse, and denial of justice."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From trust-esteem to grateful esteem",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From attachment to bereavement",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From stranger to hospitable ally",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From respectful hope to courteous refusal",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From petitioning subject to encouraged advocate",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From lonely witness to allied reformer",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From relational dependence to public self-assertion",
+      "pole_start": "More communion-leaning: Gustavus begins rooted in family affection, providential belonging, and dependence on patrons and protectors for safety, recognition, and survival.",
+      "pole_end": "More agency-leaning: he ends as a self-directing public witness and advocate, using his experience strategically in petitions, reform projects, and abolitionist argument.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Relationally anchored selfhood",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He begins with a selfhood defined through family bonds, moral seriousness, providential framing, and the desire to be believed by readers and authorities.",
+          "key_moments": [
+            "Tenderness toward mother and sister",
+            "Respect for father and elders",
+            "Narrative framed as providential witness",
+            "Desire to defend African dignity to British readers"
+          ]
+        },
+        {
+          "phase": "Practical self-making",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He gains agency through labor, seamanship, money, and manumission, while still relying on selective benefactors and moral allies.",
+          "key_moments": [
+            "Saves money to buy freedom",
+            "Learns navigation and seamanship",
+            "Experiences freedom as a concrete achievement",
+            "Maintains gratitude to benefactors while seeking autonomy"
+          ]
+        },
+        {
+          "phase": "Public self-authorization",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "He increasingly acts as an independent moral and political agent, petitioning authorities, supporting reform, and turning private suffering into public testimony.",
+          "key_moments": [
+            "Petitioning officials and the Queen",
+            "Supporting Sierra Leone",
+            "Protesting corruption as commissary",
+            "Arguing abolition through moral and economic reasoning"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge on a strong arc from dependence toward public agency. Gustavus does not abandon relationality, but he increasingly authorizes himself as a witness, strategist, and reformer."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "law-distrust",
+      "axis_name": "From trust in law to structural distrust",
+      "pole_start": "He begins with residual confidence that legal status, oaths, and formal authority might protect a free Black man or at least provide a hearing.",
+      "pole_end": "He ends convinced that law and colonial authority are racially compromised, so protection must come from selective allies, mobility, and public moral witness rather than institutions.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Residual legal faith",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He still entertains the possibility that formal recognition, fair dealing, and institutional authority might matter, even as he notices corruption and prejudice.",
+          "key_moments": [
+            "Early respect for European order and government",
+            "Expectation that free status should count",
+            "Desire to persuade British readers"
+          ]
+        },
+        {
+          "phase": "Institutional betrayal",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Repeated abuse, wage theft, refusal to hear his oath, and denial of justice teach him that law is unreliable when racial power is involved.",
+          "key_moments": [
+            "Beaten and jailed in Savannah",
+            "Magistrates refuse to hear black testimony",
+            "Captains withhold wages and threaten violence",
+            "Colonial systems ignore his claims"
+          ]
+        },
+        {
+          "phase": "Strategic skepticism",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "He no longer treats law as a dependable safeguard and instead channels his energy into departure, patronage, and public argument.",
+          "key_moments": [
+            "Leaves Jamaica rather than rely on justice",
+            "Petitions and reformist advocacy replace faith in local remedies"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged evidence shows a clear movement from residual trust in law toward structural distrust. The arc is not total cynicism, but a durable recognition that legal institutions are compromised by racial power."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "faith-politics",
+      "axis_name": "From providential trust to politicized moral critique",
+      "pole_start": "He begins with providential trust: life is interpreted as morally meaningful under divine governance, with suffering and deliverance folded into faith.",
+      "pole_end": "He ends with providential faith sharpened into political critique, using religious conviction to expose hypocrisy, justify reform, and support abolition.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Providential baseline",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His narration already treats experience as morally significant and divinely framed, though not yet fully politicized.",
+          "key_moments": [
+            "Providential framing of his life",
+            "Moral seriousness in narration",
+            "Critique of slavery in ethical terms"
+          ]
+        },
+        {
+          "phase": "Faith under pressure",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Danger and repeated deliverance deepen his faith while also teaching him to regulate fear and interpret events as part of a larger moral order.",
+          "key_moments": [
+            "Prayer and scripture restrain revenge",
+            "Survival and rescue read as providential",
+            "Endurance becomes spiritually disciplined"
+          ]
+        },
+        {
+          "phase": "Politicized providence",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "Providence becomes a basis for public critique: he targets white Christian hypocrisy, frames abolition as morally necessary, and turns faith into reformist argument.",
+          "key_moments": [
+            "White Christian hypocrisy becomes a central target",
+            "Petitions to authorities",
+            "Abolition and African uplift framed as morally and economically necessary"
+          ]
+        }
+      ],
+      "evidence_summary": "The combined analyses show continuity in faith but a major expansion in function: providence moves from personal consolation to public moral and political critique."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "suffering-advocacy",
+      "axis_name": "From endured injury to weaponized testimony",
+      "pole_start": "He begins as one who suffers injustice, separation, humiliation, and danger as personal wrongs that must be borne and survived.",
+      "pole_end": "He ends as an advocate-witness who converts suffering into evidence, using it to petition, persuade, and argue for abolition and African dignity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Pain as personal ordeal",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Suffering is initially experienced as grief, moral injury, and the trauma of enslavement and separation.",
+          "key_moments": [
+            "Grief over separation from sister",
+            "Moral indignation at injustice",
+            "Narrative as testimony"
+          ]
+        },
+        {
+          "phase": "Pain as endurance",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He endures exploitation and danger through practical effort, prayer, and selective trust, beginning to see his pain as socially patterned rather than merely private.",
+          "key_moments": [
+            "Humiliation and fear",
+            "Repeated injustice",
+            "Purchasing freedom despite vulnerability"
+          ]
+        },
+        {
+          "phase": "Pain as political evidence",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "His suffering becomes explicitly rhetorical and political, deployed in petitions, reformist projects, and abolitionist argumentation.",
+          "key_moments": [
+            "Suffering framed as evidence of systemic oppression",
+            "Petitions to officials and the Queen",
+            "Abolitionist argumentation",
+            "Public moral witness"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Gustavus transforms injury into testimony. The final form is not mere endurance but rhetorically weaponized suffering in the service of reform."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Gustavus Vassa",
+      "target_character": "Captain Thomas Farmer",
+      "dimension_label": "trust-dependence",
+      "axis_name": "From grateful dependence to stable allied trust",
+      "pole_start": "He begins dependent on Farmer’s protection and nursing, with gratitude shaped by vulnerability and need.",
+      "pole_end": "He ends with stable, warmly trusted alliance: Farmer remains a humane protector and a confirming example of benevolent support.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Rescue and reliance",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Farmer rescues and cares for Gustavus after violence, creating immediate trust rooted in survival.",
+          "key_moments": [
+            "Rescued and nursed by Captain Farmer",
+            "Warm gratitude and trust toward Farmer"
+          ]
+        },
+        {
+          "phase": "Consolidated alliance",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "The relationship stabilizes as a durable bond of esteem and practical loyalty rather than a fleeting rescue.",
+          "key_moments": [
+            "Farmer as a practical protector",
+            "Farmer remains a consistently benevolent figure"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses treat Farmer as one of the strongest positive relational anchors in the narrative. The arc is less dramatic than confirmatory: dependence becomes trusted alliance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Gustavus Vassa",
+      "target_character": "Robert King",
+      "dimension_label": "respect-power",
+      "axis_name": "From constrained dependence to negotiated respect",
+      "pole_start": "He begins under King’s ownership, so his stance is shaped by caution, labor, and the need to appear useful within an unequal power structure.",
+      "pole_end": "He ends with a more strategic and conditional respect, recognizing King as a figure who can be persuaded by honesty and usefulness, though never fully trusted because of the master-slave imbalance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Constrained dependence",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Gustavus navigates the relationship tactically, using labor and honesty to secure manumission while remaining under King’s authority.",
+          "key_moments": [
+            "Efforts to buy freedom",
+            "Mixed but increasingly respectful attitude toward Robert King"
+          ]
+        },
+        {
+          "phase": "Conditional respect",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "The relationship remains structurally unequal, but Gustavus learns to preserve dignity and negotiate within it rather than simply submit.",
+          "key_moments": [
+            "Strategic trust in King",
+            "Respect without full intimacy"
+          ]
+        }
+      ],
+      "evidence_summary": "The merged reading preserves both the emotional caution in A and the strategic respect in B. This is not a simple positive arc; it is a negotiated, power-limited relation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Gustavus Vassa",
+      "target_character": "White colonial officials and traders",
+      "dimension_label": "deference-contempt",
+      "axis_name": "From cautious engagement to moral repudiation",
+      "pole_start": "He begins able to engage European authority with some respect and hope for fairness, even while noticing prejudice and corruption.",
+      "pole_end": "He ends in open distrust, anger, and contempt for white colonial authority’s hypocrisy, predation, and refusal of justice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early mixed regard",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He respects European civilization in general while already perceiving slavery and prejudice.",
+          "key_moments": [
+            "Admiration for European arts and government",
+            "Emerging critique of slavery"
+          ]
+        },
+        {
+          "phase": "Growing suspicion",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Exploitation and the precariousness of free Black life intensify distrust of colonial society and its officials.",
+          "key_moments": [
+            "Deepening distrust of white colonial officials and traders",
+            "Recognition of white Christian hypocrisy"
+          ]
+        },
+        {
+          "phase": "Open repudiation",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "He now treats magistrates and exploitative captains as morally illegitimate, especially when they deny black testimony and legal protection.",
+          "key_moments": [
+            "Refusal to hear a black man's oath",
+            "Hostility toward exploitative captains",
+            "Contempt for colonial injustice"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a strong negative relational arc: respect for authority gives way to principled repudiation of its moral credibility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Gustavus Vassa",
+      "target_character": "Quakers / abolitionist allies",
+      "dimension_label": "isolation-solidarity",
+      "axis_name": "From lonely witness to allied reformer",
+      "pole_start": "He begins as a morally serious but relatively isolated witness who needs allies to make his case heard.",
+      "pole_end": "He ends as part of a reformist moral community, marked by admiration, solidarity, and shared anti-slavery purpose.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Seeking moral allies",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He identifies and values people whose conduct aligns with his moral convictions, especially those who support him sincerely.",
+          "key_moments": [
+            "Warm admiration for Quakers and abolitionist allies"
+          ]
+        },
+        {
+          "phase": "Shared reformist identity",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "His relationship to abolitionist allies becomes collective and political through petitions, Sierra Leone support, and public argument.",
+          "key_moments": [
+            "Supporting Sierra Leone project",
+            "Presenting petition to the Queen",
+            "Abolitionist advocacy"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures a communal dimension not explicit in Set A: Gustavus’s growing solidarity with reform-minded allies gives his witness a collective political form."
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "character": "Josephine March",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-assertive independence to chosen interdependence",
+          "set_b_axis": "From boyish self-assertion to chosen interdependence",
+          "overlap_description": "Both describe Jo's movement from defiant self-assertion and resistance to feminine/domestic constraint toward a mature, chosen interdependence grounded in love, family, and shared purpose."
+        },
+        {
+          "set_a_axis": "From fame-seeking ambition to vocation grounded in service",
+          "set_b_axis": "From vanity and insecurity to grounded self-respect",
+          "overlap_description": "Both track Jo's revaluation of success: early striving for distinction and self-display gives way to a more grounded identity shaped by usefulness, moral seriousness, and service."
+        },
+        {
+          "set_a_axis": "From impulsive temper to disciplined self-command",
+          "set_b_axis": "From impulsive anger to disciplined self-command",
+          "overlap_description": "Both identify Jo's temper as a central internal problem and show her learning restraint, self-governance, and morally informed emotional control without losing vitality."
+        },
+        {
+          "set_a_axis": "From feeling overlooked to knowing she is deeply loved",
+          "set_b_axis": "From vanity and insecurity to grounded self-respect",
+          "overlap_description": "Both include Jo's insecurity about appearance, value, and belonging, and her eventual arrival at a steadier self-worth rooted in love and recognition."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From fame-seeking ambition to vocation grounded in service",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From anti-romantic resistance to mature love",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From combative rivalry to hard-won sisterly respect",
+          "set_b_axis": "From teasing antagonism to affectionate respect",
+          "overlap_description": "Both describe the Jo-Amy relationship as moving from sibling antagonism and teasing conflict toward mutual respect and affectionate acceptance."
+        },
+        {
+          "set_a_axis": "From affectionate sisterhood to sacred caregiving devotion",
+          "set_b_axis": "From affectionate fondness to reverent devotion",
+          "overlap_description": "Both track Jo's deepening bond with Beth from warm affection into reverence, caregiving, grief, and moral inheritance."
+        },
+        {
+          "set_a_axis": "From mischievous companionship to transformed lifelong affection",
+          "set_b_axis": "From kindred playmate to relinquished beloved and brotherly friend",
+          "overlap_description": "Both describe Jo and Laurie's bond as beginning in playful equality, passing through romantic rupture, and ending in a durable non-romantic affection."
+        },
+        {
+          "set_a_axis": "From moral admiration to reciprocal romantic love",
+          "set_b_axis": "From moral admiration to reciprocal romantic partnership",
+          "overlap_description": "Both identify Bhaer as the relationship through which Jo's admiration and moral growth become mutual romantic commitment and marriage."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From resisting maternal correction to trusting Marmee’s moral authority",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From eager approval-seeking to mature internalization of guidance",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-assertive independence to chosen interdependence",
+      "pole_start": "Jo begins as intensely self-assertive: she resists feminine constraint, prizes freedom and mastery, and defines herself through independence, wit, and force of will.",
+      "pole_end": "Jo ends still independent, but her agency is now freely expressed through interdependence: marriage, family duty, caregiving, teaching, and shared labor.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Rebellious self-assertion",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Jo is strongly agency-driven, longing for boyish freedom, resisting domestic expectations, and treating self-mastery as a way to preserve autonomy.",
+          "key_moments": [
+            "Christmas wish to be a boy",
+            "defiance of feminine roles",
+            "early delight in Laurie as a kindred spirit"
+          ]
+        },
+        {
+          "phase": "Agency disciplined by duty",
+          "chapter_range": [
+            6,
+            18
+          ],
+          "position_description": "Her independence remains strong, but it is increasingly redirected toward service: household labor, care for Beth, support for Marmee, and practical responsibility for others.",
+          "key_moments": [
+            "selling her hair for family need",
+            "household labor during Marmee's absence",
+            "nursing Beth",
+            "learning usefulness as strength"
+          ]
+        },
+        {
+          "phase": "Agency tested by loss",
+          "chapter_range": [
+            19,
+            35
+          ],
+          "position_description": "Grief, ambition, and relational change complicate Jo's self-direction. She seeks self-support through work and writing, but loss forces her to accept limits and choose honesty over self-display.",
+          "key_moments": [
+            "publication success",
+            "Meg's marriage",
+            "Amy's departure and growth",
+            "Laurie's proposal and Jo's refusal",
+            "Beth's decline"
+          ]
+        },
+        {
+          "phase": "Chosen communion",
+          "chapter_range": [
+            36,
+            47
+          ],
+          "position_description": "Jo's agency becomes the power to love, nurture, teach, and build a shared home. She does not surrender selfhood; she integrates it into reciprocal adult life.",
+          "key_moments": [
+            "Beth's death and renunciation of old ambitions",
+            "Bhaer's return and proposal",
+            "marriage",
+            "Plumfield and shared domestic life"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo's arc moves from resisting dependence and domesticity toward embracing interdependence as a chosen, dignified form of life. Her agency remains intact, but it is increasingly fulfilled through communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "ambition-duty",
+      "axis_name": "From fame-seeking ambition to vocation grounded in service",
+      "pole_start": "Jo begins with a strong desire for distinction, literary genius, and public achievement, imagining fame as proof of her exceptional self.",
+      "pole_end": "Jo ends valuing talent and work, but understanding vocation as service, honest labor, and care within family and marriage rather than fame for its own sake.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Grand aspiration",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Jo openly imagines a future of literary greatness, riches, and renown. Her ambition is expansive, public, and self-defining.",
+          "key_moments": [
+            "dreams of fame and literary success",
+            "early writing aspirations",
+            "desire to do something splendid"
+          ]
+        },
+        {
+          "phase": "Success and moral testing",
+          "chapter_range": [
+            27,
+            34
+          ],
+          "position_description": "Publication and money confirm her talent, but also expose the costs of ambition: compromise, secrecy, and the temptation to value success over integrity.",
+          "key_moments": [
+            "publication success",
+            "earning money through writing",
+            "moral criticism of sensational fiction",
+            "pressure to compromise"
+          ]
+        },
+        {
+          "phase": "Reorientation through grief and duty",
+          "chapter_range": [
+            40,
+            42
+          ],
+          "position_description": "Beth's death and the family's losses revise Jo's priorities. She recognizes that love, duty, and family service matter more than public distinction.",
+          "key_moments": [
+            "Beth's deathbed and death",
+            "renunciation of old ambitions",
+            "acceptance of grief as moral instruction"
+          ]
+        },
+        {
+          "phase": "Vocation in shared life",
+          "chapter_range": [
+            46,
+            47
+          ],
+          "position_description": "Jo's writing remains important, but it is integrated into a larger life of mutual labor, marriage, and home-making. Success is measured by usefulness and affection.",
+          "key_moments": [
+            "Bhaer's proposal and mutual commitment",
+            "shared plans for work and home",
+            "Plumfield as lived vocation"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo never stops being ambitious, but the novel steadily revises what ambition is for: from distinction and genius toward care, support, and meaningful work within relationships."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "temper-control",
+      "axis_name": "From impulsive anger to disciplined self-command",
+      "pole_start": "Jo begins volatile, quick to mock or flare up, and prone to letting pride and irritation govern her speech and actions.",
+      "pole_end": "Jo ends with a stable capacity for restraint, patience, and reflective self-governance, while retaining wit and energy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Temper as identity",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Jo's anger and sarcasm are part of her forceful personality. She often acts first and reflects later, especially in conflict with Amy.",
+          "key_moments": [
+            "defiance in early chapters",
+            "mocking Amy",
+            "manuscript-burning conflict",
+            "remorse after crisis"
+          ]
+        },
+        {
+          "phase": "Learning restraint",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "She begins to practice self-command, learning from Marmee and from painful consequences that temper is a moral danger rather than a harmless quirk.",
+          "key_moments": [
+            "controlled anger in social settings",
+            "household labor and frustration",
+            "Marmee's guidance",
+            "Beth's illness and care"
+          ]
+        },
+        {
+          "phase": "Temper subordinated to conscience",
+          "chapter_range": [
+            19,
+            47
+          ],
+          "position_description": "Jo still has flashes of irritation, but they are increasingly brief and managed. Her energy is redirected into work, honesty, caregiving, and mature love.",
+          "key_moments": [
+            "writing criticism and moral re-evaluation",
+            "Laurie's proposal handled honestly",
+            "Beth's deathbed endurance",
+            "Bhaer relationship grounded in seriousness"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo's temper is a clear internal problem that gradually yields to disciplined, morally informed self-control without extinguishing her vitality."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "self-worth",
+      "axis_name": "From insecurity and comparison to grounded self-respect",
+      "pole_start": "Jo begins with a conflicted self-image: proud and defensive, yet vulnerable about femininity, appearance, and whether she is valued.",
+      "pole_end": "Jo ends with a steadier sense of worth rooted in usefulness, love, and moral seriousness rather than looks, fame, or comparison.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive pride",
+          "chapter_range": [
+            1,
+            15
+          ],
+          "position_description": "Jo resists feminine expectations, craves approval, and is privately wounded by embarrassment, awkwardness, and the fear of not being enough.",
+          "key_moments": [
+            "wish to be a boy",
+            "party awkwardness",
+            "hair sacrifice and shame",
+            "first literary success mixed with insecurity"
+          ]
+        },
+        {
+          "phase": "Worth through usefulness",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "Jo increasingly measures herself by what she can do for others: work, earn money, nurse, teach, and write honestly. Competence replaces display as the basis of self-respect.",
+          "key_moments": [
+            "household labor",
+            "earning money through writing",
+            "nursing Beth",
+            "moral rejection of sensational fiction"
+          ]
+        },
+        {
+          "phase": "Mature self-acceptance",
+          "chapter_range": [
+            35,
+            47
+          ],
+          "position_description": "Jo no longer needs fame or beauty to justify herself. She accepts love, marriage, and domestic work as worthy forms of life, and her identity becomes anchored in service and mutual devotion.",
+          "key_moments": [
+            "honest refusal of Laurie",
+            "Beth's deathbed teaching",
+            "acceptance of Bhaer",
+            "Plumfield and motherhood"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo's self-esteem is repeatedly tested by vanity, criticism, and comparison, but the arc ends in a more grounded and less defensive self-regard."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "romantic openness",
+      "axis_name": "From anti-romantic resistance to mature love",
+      "pole_start": "Jo begins suspicious of romance and marriage, treating them as threats to freedom, family intimacy, and self-determination.",
+      "pole_end": "Jo ends capable of deep, reciprocal romantic love that integrates with independence, duty, and shared purpose.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Romance as disruption",
+          "chapter_range": [
+            1,
+            23
+          ],
+          "position_description": "Jo resists romance in principle and practice. She is protective of family bonds and inclined to see love as something that separates people.",
+          "key_moments": [
+            "rejection of feminine roles",
+            "Meg's courtship and engagement",
+            "hostility to Brooke",
+            "fear of losing Laurie and family closeness"
+          ]
+        },
+        {
+          "phase": "Reluctant recognition",
+          "chapter_range": [
+            24,
+            35
+          ],
+          "position_description": "Jo begins to see that love can be serious and morally binding, but she still experiences it as loss. Laurie's proposal and her refusal mark the turning point toward emotional honesty.",
+          "key_moments": [
+            "Meg's wedding",
+            "Amy's engagement",
+            "Laurie's proposal and Jo's rejection",
+            "growing loneliness after family changes"
+          ]
+        },
+        {
+          "phase": "Reciprocal love",
+          "chapter_range": [
+            43,
+            47
+          ],
+          "position_description": "Jo becomes romantically open in a full adult sense. Bhaer is a companion in work, ethics, and home-making; her love is mutual, practical, and emotionally secure.",
+          "key_moments": [
+            "Laurie's emotional closure",
+            "Bhaer's renewed presence",
+            "proposal and acceptance",
+            "marriage and shared life at Plumfield"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo moves from anti-romantic defensiveness to a mature acceptance of love as compatible with independence, labor, and moral seriousness."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Josephine March",
+      "target_character": "Amy March",
+      "dimension_label": "sibling rivalry",
+      "axis_name": "From teasing antagonism to affectionate respect",
+      "pole_start": "Jo begins as a mocking, exasperated older sister who finds Amy vain and irritating, even when the conflict remains affectionate rather than cruel.",
+      "pole_end": "Jo ends as a sister who still teases Amy but genuinely admires her tact, generosity, and social competence, with rivalry softened into warm respect.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Comic sparring",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Jo and Amy are in familiar sibling conflict: teasing, retaliation, and emotional closeness coexist.",
+          "key_moments": [
+            "early teasing and mockery",
+            "Amy's punishment and Jo's protective anger",
+            "manuscript-burning quarrel"
+          ]
+        },
+        {
+          "phase": "Protective rivalry",
+          "chapter_range": [
+            9,
+            30
+          ],
+          "position_description": "Jo becomes more protective of Amy's dignity even while still judging her vanity. Amy's competence and composure increasingly force Jo to revise her contempt.",
+          "key_moments": [
+            "Amy's social ambitions",
+            "Aunt Carrol choosing Amy",
+            "Jo's self-reproach over her tongue"
+          ]
+        },
+        {
+          "phase": "Affectionate acceptance",
+          "chapter_range": [
+            31,
+            47
+          ],
+          "position_description": "Amy becomes less a rival than a beloved sister whose happiness Jo can finally celebrate. Jo accepts Amy's marriage to Laurie and sees her as part of family harmony.",
+          "key_moments": [
+            "Amy and Laurie's engagement",
+            "Jo's loneliness and acceptance",
+            "family reunion and domestic peace"
+          ]
+        }
+      ],
+      "evidence_summary": "Jo's relationship with Amy is one of the most dynamic sibling arcs: rivalry never disappears, but it matures into respect as Amy's social intelligence and generosity become clearer."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Josephine March",
+      "target_character": "Beth March",
+      "dimension_label": "protective devotion",
+      "axis_name": "From affectionate fondness to reverent devotion",
+      "pole_start": "Jo begins loving Beth warmly as a gentle, soothing sister, but Beth is initially one beloved sibling among others.",
+      "pole_end": "Jo ends regarding Beth as her conscience, saintly model, and irreplaceable emotional center, with love sharpened into reverence and grief.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Gentle affection",
+          "chapter_range": [
+            1,
+            10
+          ],
+          "position_description": "Jo is tender toward Beth from the start, valuing her peace-making and sweetness, but Beth is still part of the family whole rather than singularly central.",
+          "key_moments": [
+            "Beth soothing family tensions",
+            "Jo's protectiveness in early chapters",
+            "Beth's quiet goodness in the Laurence connection"
+          ]
+        },
+        {
+          "phase": "Protective admiration",
+          "chapter_range": [
+            11,
+            19
+          ],
+          "position_description": "Beth's goodness becomes more precious to Jo as domestic competence, illness, and family strain reveal Beth's quiet strength. Jo increasingly turns to Beth for moral balance and comfort.",
+          "key_moments": [
+            "Beth's support during household failures",
+            "Beth's role in the family crisis",
+            "Beth's illness and Jo's guilt"
+          ]
+        },
+        {
+          "phase": "Reverence and grief",
+          "chapter_range": [
+            20,
+            47
+          ],
+          "position_description": "Beth becomes Jo's moral touchstone. Her decline and death transform Jo's love into reverence, sorrow, and a lasting sense of obligation to live well in Beth's memory.",
+          "key_moments": [
+            "Beth's worsening illness",
+            "deathbed scenes",
+            "Beth's death and Jo's renunciation",
+            "Beth's continuing spiritual presence"
+          ]
+        }
+      ],
+      "evidence_summary": "Beth is the emotional and moral center of Jo's later arc; the relationship deepens from affection into a sacred bond shaped by caregiving, loss, and ethical inheritance."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Josephine March",
+      "target_character": "Theodore Laurence",
+      "dimension_label": "friendship-love",
+      "axis_name": "From kindred playmate to relinquished beloved and brotherly friend",
+      "pole_start": "Jo begins with Laurie as a rare kindred spirit who shares her wit, freedom, and love of play.",
+      "pole_end": "Jo ends with Laurie as a cherished brotherly friend, no longer a romantic possibility but still a beloved part of her emotional world.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Instant camaraderie",
+          "chapter_range": [
+            2,
+            14
+          ],
+          "position_description": "Jo delights in Laurie as a companion in mischief, performance, and intellectual play. Their bond is warm, easy, and unusually equal.",
+          "key_moments": [
+            "first meeting and immediate liking",
+            "party and skating companionship",
+            "Pickwick Club and shared jokes",
+            "Jo's literary confidence with Laurie"
+          ]
+        },
+        {
+          "phase": "Strain and misreading",
+          "chapter_range": [
+            15,
+            35
+          ],
+          "position_description": "As Jo's life changes, Laurie becomes emotionally more complicated: he is a helper, confidant, and eventually a suitor. Jo's refusal of him is an act of honesty that wounds both of them.",
+          "key_moments": [
+            "hair sacrifice and crisis support",
+            "Beth's illness and Laurie's help",
+            "Jo's suspicion of Laurie's feelings",
+            "Laurie's proposal and Jo's rejection"
+          ]
+        },
+        {
+          "phase": "Brotherly settlement",
+          "chapter_range": [
+            41,
+            47
+          ],
+          "position_description": "Laurie is finally redefined as family. Jo accepts his marriage to Amy, welcomes his happiness, and no longer experiences him as a romantic threat or unresolved possibility.",
+          "key_moments": [
+            "Laurie's emotional release after Beth's death",
+            "Amy and Laurie's engagement and marriage",
+            "Laurie's return and mature friendship",
+            "Jo's settled warmth toward him"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Jo's most important relational arc: a friendship of equals becomes a painful romantic near-miss, then resolves into mature, non-romantic affection."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Josephine March",
+      "target_character": "Mrs. March",
+      "dimension_label": "moral dependence",
+      "axis_name": "From eager approval-seeking to mature internalization of guidance",
+      "pole_start": "Jo begins deeply admiring and dependent on Marmee, wanting to please her and borrowing her moral authority.",
+      "pole_end": "Jo ends with Marmee's values internalized: she still loves her mother, but now acts from an inwardly owned ethic of duty, love, and practical goodness.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Approval-seeking daughter",
+          "chapter_range": [
+            1,
+            8
+          ],
+          "position_description": "Jo looks to Marmee for moral framing and comfort, especially when her temper or pride is at issue.",
+          "key_moments": [
+            "father's letter filtered through Marmee's teaching",
+            "morning readings and charity",
+            "Marmee's confession about temper"
+          ]
+        },
+        {
+          "phase": "Guided self-correction",
+          "chapter_range": [
+            9,
+            27
+          ],
+          "position_description": "Jo increasingly uses Marmee's standards to judge herself: temper, work, writing, and social tact all become matters of internalized maternal teaching.",
+          "key_moments": [
+            "household experiment",
+            "Beth's illness and Marmee's absence",
+            "writing success and moral criticism",
+            "hair sacrifice and family crisis"
+          ]
+        },
+        {
+          "phase": "Internalized motherhood",
+          "chapter_range": [
+            28,
+            47
+          ],
+          "position_description": "Jo no longer merely seeks Marmee's approval; she acts as a moral adult in her own right, though still within Marmee's loving orbit. Marmee's values now structure Jo's marriage, work, and caregiving.",
+          "key_moments": [
+            "Beth's deathbed lessons",
+            "Laurie's proposal and Jo's honesty",
+            "Bhaer relationship and marriage",
+            "Plumfield as a home shaped by inherited maternal ethics"
+          ]
+        }
+      ],
+      "evidence_summary": "Marmee is the primary moral influence in Jo's life, and the arc moves from dependence to internalization rather than rebellion."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Josephine March",
+      "target_character": "Professor Friedrich Bhaer",
+      "dimension_label": "admiration-love",
+      "axis_name": "From moral admiration to reciprocal romantic partnership",
+      "pole_start": "Jo begins with curiosity and esteem for Bhaer as a kind, intelligent, morally serious man who sees and corrects her honestly.",
+      "pole_end": "Jo ends in committed love and marriage, seeing Bhaer as her true companion in work, ethics, and home-making.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respectful admiration",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "Jo is drawn to Bhaer's warmth, intelligence, and moral seriousness. His criticism of her writing hurts, but it also deepens her respect.",
+          "key_moments": [
+            "New York teaching life",
+            "Bhaer's guidance and kindness",
+            "moral rejection of sensation writing"
+          ]
+        },
+        {
+          "phase": "Shy emotional attachment",
+          "chapter_range": [
+            43,
+            45
+          ],
+          "position_description": "Bhaer becomes emotionally central. Jo is shy, hopeful, and increasingly aware that her feelings are more than admiration, especially as he participates in the children's world.",
+          "key_moments": [
+            "Bhaer's return",
+            "family scenes with the children",
+            "Jo's visible delight and self-consciousness"
+          ]
+        },
+        {
+          "phase": "Reciprocal love and marriage",
+          "chapter_range": [
+            46,
+            47
+          ],
+          "position_description": "Bhaer's confession and proposal transform admiration into mutual love. Jo accepts a partnership grounded in shared labor, moral purpose, and domestic creation.",
+          "key_moments": [
+            "Bhaer's confession",
+            "Jo's acceptance",
+            "shared plans for work and home",
+            "marriage and Plumfield"
+          ]
+        }
+      ],
+      "evidence_summary": "Bhaer is the final romantic destination of Jo's arc: he converts her ideals of goodness and usefulness into a lived partnership."
+    }
+  ]
+}

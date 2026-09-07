@@ -1,0 +1,563 @@
+{
+  "character": "Virginia Madden",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From sheltered dependence to damaged, supervised interdependence",
+          "set_b_axis": "From sheltered dependence to strained self-assertion",
+          "overlap_description": "Both identify Virginia's movement away from protected domestic dependence, but Set A emphasizes the final collapse into managed dependence while Set B emphasizes the unstable, partial emergence of agency before that collapse."
+        },
+        {
+          "set_a_axis": "From quiet self-worth to degraded self-contempt",
+          "set_b_axis": "From unexamined gentility to chastened moral awareness",
+          "overlap_description": "Both track Virginia's internal moral decline and later self-knowledge under pressure: Set A foregrounds shame and self-disgust, while Set B foregrounds moral recognition, confession, and externally guided reform."
+        },
+        {
+          "set_a_axis": "From rescue optimism to chastened realism",
+          "set_b_axis": "From protected contentment to unstable hope under pressure",
+          "overlap_description": "Both describe an emotional arc shaped by hope, disappointment, and the failure of easy solutions; Set A stresses disillusionment, while Set B stresses oscillation between hope and strain."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From sheltered dependence to damaged, supervised interdependence",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From quiet self-worth to degraded self-contempt",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From rescue optimism to chastened realism",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From sheltered dependence to strained self-assertion",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unexamined gentility to chastened moral awareness",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From protected contentment to unstable hope under pressure",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From admired friend to weakened but formative influence",
+          "set_b_axis": "From curious respect to shaken dependence on Rhoda's authority",
+          "overlap_description": "Both describe Rhoda as Virginia's key intellectual and reformist influence, beginning in admiration and ending in a less reciprocal, weakened relation as Virginia's own stability declines."
+        },
+        {
+          "set_a_axis": "From hopeful guidance to strained, diminished support",
+          "set_b_axis": "From protective sisterhood to anxious, guilt-laden guardianship",
+          "overlap_description": "Both capture Virginia's protective bond with Monica and its deterioration into strain, burden, and reduced mutual trust as family crises and Virginia's own decline intensify."
+        },
+        {
+          "set_a_axis": "From tentative acceptance to resentment and hatred",
+          "set_b_axis": "From tentative acceptance to fear-driven opposition",
+          "overlap_description": "Both identify a shift in Virginia's relation to Widdowson from pragmatic acceptance to hostility, with Set A emphasizing resentment and Set B emphasizing fear, surveillance, and resistance."
+        },
+        {
+          "set_a_axis": "From mutual support to caretaking dependence",
+          "set_b_axis": "From stable sisterly reliance to intensified caregiving dependence",
+          "overlap_description": "Both see Alice as Virginia's most stable relational anchor, with the bond moving from sibling partnership toward unequal care and guardianship."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From sheltered attachment to irrevocable loss",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From impressed visitor to dependent admirer",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From respectful curiosity to dependent admiration",
+          "assessment": "artifact"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From curious respect to shaken dependence on Rhoda's authority",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From stable sisterly reliance to intensified caregiving dependence",
+          "assessment": "artifact"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From sheltered dependence to damaged, supervised interdependence",
+      "pole_start": "Communion-dominant dependence: Virginia begins as a protected daughter whose identity is organized around family warmth, feminine domesticity, and reliance on paternal and sisterly care rather than self-assertion.",
+      "pole_end": "A compromised form of communion: by the end she is no longer independent but is instead a dependent subject of care, treatment, and planned usefulness within Alice's household.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Domestic shelter and passive belonging",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Virginia begins in a warm but highly dependent domestic position, secure within family affection yet lacking independent agency.",
+          "key_moments": [
+            "Dr. Madden's affectionate protection",
+            "the father's death",
+            "the family's financial crisis"
+          ]
+        },
+        {
+          "phase": "Tentative awakening toward self-direction",
+          "chapter_range": [
+            2,
+            12
+          ],
+          "position_description": "Rhoda and Miss Barfoot expose Virginia to female independence, work, and planning; she briefly imagines herself as someone who can act, support herself, and participate in a larger reforming cause.",
+          "key_moments": [
+            "Rhoda's letter and visit",
+            "the school and work plans",
+            "identification with female solidarity and reform"
+          ]
+        },
+        {
+          "phase": "Unstable self-assertion under pressure",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "Virginia's agency becomes visible in secrecy, evasiveness, and resistance to Widdowson, but it is morally and emotionally unstable rather than liberating.",
+          "key_moments": [
+            "the first lie to Widdowson",
+            "concealed visits and attachments",
+            "marital conflict and flight from control"
+          ]
+        },
+        {
+          "phase": "Collapse into managed dependence",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "Her self-command erodes under drinking, shame, and exposure, ending not in autonomy but in supervised recovery and future usefulness under Alice's care.",
+          "key_moments": [
+            "secret drinking",
+            "Alice discovering her intoxication",
+            "institutional treatment",
+            "planned life with Alice"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia's arc moves from sheltered dependence through a brief, fragile opening toward agency, then into collapse and managed recovery. The ending does not restore independence; it converts dependence into a supervised, compromised form of interdependence."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Moral Awareness",
+      "axis_name": "From unexamined gentility to chastened moral awareness",
+      "pole_start": "Unreflective conventionality: Virginia initially accepts domestic respectability, self-sacrifice, and feminine propriety without much self-scrutiny.",
+      "pole_end": "Painful but incomplete self-knowledge: she recognizes deception, drinking, and dependence as moral failures, though this insight remains tied to shame, confession, and external correction.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Conventional innocence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Virginia begins with little self-analysis, embedded in domestic routine and not yet forced into moral self-division.",
+          "key_moments": [
+            "quiet family life",
+            "passive domestic role"
+          ]
+        },
+        {
+          "phase": "Awakening to constraint",
+          "chapter_range": [
+            2,
+            7
+          ],
+          "position_description": "Economic pressure and Rhoda's influence make Virginia newly aware that dependence and self-sacrifice are limiting rather than simply proper.",
+          "key_moments": [
+            "poverty and rent anxiety",
+            "Rhoda's challenge to self-sacrifice",
+            "interest in self-support"
+          ]
+        },
+        {
+          "phase": "Moral fracture",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "Lying to Widdowson and hiding her drinking produce a crisis of self-division, shame, and self-disgust.",
+          "key_moments": [
+            "first lie to Widdowson",
+            "self-disgust after deception",
+            "fear and hatred"
+          ]
+        },
+        {
+          "phase": "Confession and reformist remorse",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Virginia acknowledges her drinking as a serious vice and accepts abstinence and treatment, but her insight remains moralistic and externally guided rather than fully liberating.",
+          "key_moments": [
+            "gin exposure",
+            "confession and pledge",
+            "institutional treatment plan"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia develops from a largely unexamined daughter into someone capable of naming her own deception and addiction as wrong. The change is real but limited: it produces chastened awareness more than emancipation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Hope-Resignation",
+      "axis_name": "From protected contentment to unstable hope under pressure",
+      "pole_start": "Stable, sheltered contentment: Virginia begins emotionally secure in family life and not yet burdened by adult uncertainty.",
+      "pole_end": "Fragile, oscillating hope: she is repeatedly buoyed by reformist possibilities, then undermined by shame, illness, and dependence.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Secure domestic calm",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Her early mood is calm and secure, with no major anxiety or aspiration.",
+          "key_moments": [
+            "family comfort",
+            "quiet evening routine"
+          ]
+        },
+        {
+          "phase": "Anxious deprivation and brief revival",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Poverty and loss create anxiety, but Rhoda's kindness briefly restores hope and excitement.",
+          "key_moments": [
+            "economic fear",
+            "Rhoda's visit",
+            "renewed energy"
+          ]
+        },
+        {
+          "phase": "Reformist enthusiasm",
+          "chapter_range": [
+            4,
+            12
+          ],
+          "position_description": "Virginia becomes animated by the school idea, Monica's prospects, and the promise of practical female independence.",
+          "key_moments": [
+            "Rhoda's letter",
+            "Miss Barfoot's influence",
+            "the school project"
+          ]
+        },
+        {
+          "phase": "Collapse into strain",
+          "chapter_range": [
+            20,
+            31
+          ],
+          "position_description": "Hope is repeatedly destabilized by secrecy, marital conflict, Monica's crisis, and Virginia's own drinking; she ends in chastened dependence rather than confident expectation.",
+          "key_moments": [
+            "marital conflict",
+            "Monica's illness",
+            "exposure of drinking",
+            "institutional reform"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia's emotional life is unstable rather than linear: moments of hope arise from contact with stronger women or practical plans, only to be undermined by fear, shame, and material vulnerability."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Virginia Madden",
+      "target_character": "Dr. Madden",
+      "dimension_label": "Paternal Security",
+      "axis_name": "From sheltered attachment to irrevocable loss",
+      "pole_start": "Warm, secure filial attachment: Virginia begins within a bond of affection, protection, and paternal confidence in her future.",
+      "pole_end": "Bereaved absence: Dr. Madden is no longer available as a source of guidance or security.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Affectionate dependence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Virginia is held within her father's idealized family circle, where his tenderness and assumptions about women create a secure but limiting bond.",
+          "key_moments": [
+            "Dr. Madden's affectionate view of his daughters",
+            "family domestic calm"
+          ]
+        },
+        {
+          "phase": "Sudden rupture",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His abrupt illness and death transform the bond from living support into grief and destabilization.",
+          "key_moments": [
+            "medical emergency",
+            "fatal accident"
+          ]
+        }
+      ],
+      "evidence_summary": "This is a clear relational arc from secure paternal intimacy to permanent loss, and it provides the foundational rupture for Virginia's later vulnerability."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Virginia Madden",
+      "target_character": "Rhoda Nunn",
+      "dimension_label": "Female Mentorship",
+      "axis_name": "From admired friend to weakened but formative influence",
+      "pole_start": "Renewed admiration and trust: Virginia feels remembered and intellectually awakened by Rhoda.",
+      "pole_end": "Still respected, but no longer energizing: Rhoda remains important as a moral model, though Virginia's later drift and shame weaken the active force of the bond.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Reconnection and awakening",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Rhoda's letter and visit restore Virginia's sense of being valued and introduce her to a woman who embodies independence and authority.",
+          "key_moments": [
+            "Rhoda's warm letter",
+            "Virginia's visit to Rhoda",
+            "practical advice about work and capital"
+          ]
+        },
+        {
+          "phase": "Intensified admiration and alignment",
+          "chapter_range": [
+            3,
+            13
+          ],
+          "position_description": "Virginia increasingly treats Rhoda as a source of judgment, courage, and reforming possibility; Rhoda's ideas shape Virginia's thinking about work, female solidarity, and men.",
+          "key_moments": [
+            "the school proposal",
+            "public speeches",
+            "identification with reforming women",
+            "critique of men like Everard"
+          ]
+        },
+        {
+          "phase": "Diminished practical influence",
+          "chapter_range": [
+            15,
+            28
+          ],
+          "position_description": "Rhoda remains respected, but Virginia's energy fades and her life becomes dominated by Monica's crisis and her own drinking, making Rhoda less sustaining in practice.",
+          "key_moments": [
+            "subdued state at Herne Hill",
+            "distance in the Monica crisis",
+            "sense of inadequacy"
+          ]
+        }
+      ],
+      "evidence_summary": "Rhoda is Virginia's most important intellectual and reformist influence, but the relationship shifts from active inspiration to a more distant allegiance as Virginia's own agency collapses."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Virginia Madden",
+      "target_character": "Monica Madden",
+      "dimension_label": "Protective Sisterhood",
+      "axis_name": "From hopeful guidance to strained, diminished support",
+      "pole_start": "Protective, optimistic sisterly concern: Virginia tries to guide Monica toward safer work and a more stable future.",
+      "pole_end": "Distanced and burdened attachment: Virginia is no longer a reliable support, and Monica's contempt and exclusion weaken the bond.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Protective planning",
+          "chapter_range": [
+            2,
+            7
+          ],
+          "position_description": "Virginia is deeply invested in Monica's welfare and imagines that Rhoda, Miss Barfoot, and work training can rescue her from shop labor.",
+          "key_moments": [
+            "urging Monica to visit Rhoda",
+            "pressing Monica to accept Miss Barfoot's offer",
+            "treating Monica's future as a shared project"
+          ]
+        },
+        {
+          "phase": "Hope undermined",
+          "chapter_range": [
+            11,
+            15
+          ],
+          "position_description": "Monica's engagement and later coolness toward the school plan weaken Virginia's confidence in her ability to guide Monica, though affection remains.",
+          "key_moments": [
+            "Monica's engagement to Widdowson",
+            "cautious approval at Herne Hill",
+            "thinning enthusiasm"
+          ]
+        },
+        {
+          "phase": "Crisis, exclusion, and burden",
+          "chapter_range": [
+            23,
+            31
+          ],
+          "position_description": "Monica excludes Virginia from immediate confidence, and Virginia's own drinking becomes a burden that Alice and Monica must manage. The relationship remains emotionally charged but no longer reciprocal or stabilizing.",
+          "key_moments": [
+            "Monica's message not to come until called",
+            "Virginia's visible decline",
+            "family management of her condition"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia's bond with Monica begins as protective and aspirational, but Monica's choices and Virginia's own collapse turn it into one marked by distance, burden, and reduced mutual trust."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Virginia Madden",
+      "target_character": "Edmund Widdowson",
+      "dimension_label": "Marital Trust",
+      "axis_name": "From tentative acceptance to fear-driven opposition",
+      "pole_start": "Tentative approval of a serious, wealthy husband as a practical solution to hardship.",
+      "pole_end": "Fear, revulsion, and active resistance to his surveillance and control.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Practical approval",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Virginia sees Widdowson as a respectable solution to Monica's hardship and treats him with cautious gratitude.",
+          "key_moments": [
+            "Monica's engagement",
+            "wedding and social arrangements"
+          ]
+        },
+        {
+          "phase": "Marital confinement",
+          "chapter_range": [
+            20,
+            24
+          ],
+          "position_description": "Widdowson becomes the figure of surveillance and authority; Virginia lies to him, feels degraded, and comes to hate his trust and control.",
+          "key_moments": [
+            "first lie to Widdowson",
+            "self-disgust",
+            "violent accusation and flight"
+          ]
+        },
+        {
+          "phase": "Ongoing fear and concealment",
+          "chapter_range": [
+            27,
+            31
+          ],
+          "position_description": "She remains fearful and subordinate, but the relationship is now defined by concealment, suspicion, and the practical need to escape his control.",
+          "key_moments": [
+            "Widdowson's suspicion",
+            "Virginia's evasive behavior",
+            "crisis aftermath"
+          ]
+        }
+      ],
+      "evidence_summary": "Virginia's relation to Widdowson changes from pragmatic acceptance to open hostility. Marriage does not secure freedom; it intensifies surveillance, shame, and fear."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Virginia Madden",
+      "target_character": "Alice Madden",
+      "dimension_label": "Sisterly Care",
+      "axis_name": "From mutual support to caretaking dependence",
+      "pole_start": "Shared reliance and practical solidarity: Virginia and Alice begin as co-survivors, mutually managing poverty and family crisis.",
+      "pole_end": "Asymmetric care: Alice becomes the protector, confessor, and future guardian, while Virginia is the dependent sister in need of treatment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Shared hardship",
+          "chapter_range": [
+            2,
+            7
+          ],
+          "position_description": "The sisters calculate finances together, conceal weakness from each other, and collaborate on Monica's future. Their bond is intimate and practical.",
+          "key_moments": [
+            "financial reckoning",
+            "shared concealment of weakness",
+            "plan to guide Monica"
+          ]
+        },
+        {
+          "phase": "Collaborative idealism",
+          "chapter_range": [
+            7,
+            15
+          ],
+          "position_description": "Alice and Virginia imagine a school and a purposeful future together, though Virginia increasingly drifts and loses energy.",
+          "key_moments": [
+            "Alice's governess position",
+            "the school plan",
+            "Virginia's subdued state"
+          ]
+        },
+        {
+          "phase": "Caretaking and rescue",
+          "chapter_range": [
+            28,
+            31
+          ],
+          "position_description": "Alice discovers Virginia's drinking, takes charge of the crisis, and arranges treatment and future housing. The relationship becomes explicitly protective and supervisory.",
+          "key_moments": [
+            "Alice discovering Virginia intoxicated",
+            "confession of prolonged drinking",
+            "decision to place Virginia in an institution",
+            "plan for Virginia to live with Alice after recovery"
+          ]
+        }
+      ],
+      "evidence_summary": "Alice remains Virginia's most stable relational anchor, but the balance shifts decisively from partnership to care-taking dependence."
+    }
+  ]
+}

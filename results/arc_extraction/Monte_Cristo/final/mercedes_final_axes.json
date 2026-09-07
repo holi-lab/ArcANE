@@ -1,0 +1,562 @@
+{
+  "character": "Mercédès",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational dependence to sacrificial maternal agency",
+          "set_b_axis": "From relational dependence to sacrificial self-withdrawal",
+          "overlap_description": "Both describe Mercédès moving from attachment-defined dependence toward a self-effacing, duty-driven form of agency centered on Albert and survival rather than personal fulfillment."
+        },
+        {
+          "set_a_axis": "From hopeful waiting to resigned mourning",
+          "set_b_axis": "From raw despair to disciplined sorrow",
+          "overlap_description": "Both track her grief arc from acute longing and near-collapse into a more contained, resigned mode of mourning."
+        },
+        {
+          "set_a_axis": "From concealed feeling to disciplined self-command",
+          "set_b_axis": "From raw despair to disciplined sorrow",
+          "overlap_description": "Both emphasize increasing emotional regulation: visible distress gives way to composure, restraint, and controlled public presentation."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From social pride to humbled endurance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From innocent beloved to self-condemning penitent",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From constrained piety to wounded but interpretive faith",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From betrothed hope to mournful memory",
+          "set_b_axis": "From idealized betrothal to fearful reverent recognition",
+          "overlap_description": "Both trace the Edmond bond from romantic attachment through loss into a transformed, grief-laden recognition of Monte Cristo as the surviving form of that past love."
+        },
+        {
+          "set_a_axis": "From grateful companionship to emotionally emptied marriage",
+          "set_b_axis": "From tolerated marriage to moral rejection",
+          "overlap_description": "Both describe Mercédès and Fernand as a compromised marriage that lacks true intimacy and ends in emotional and moral collapse."
+        },
+        {
+          "set_a_axis": "From reverent gratitude to haunted suspicion and loss",
+          "set_b_axis": "From idealized betrothal to fearful reverent recognition",
+          "overlap_description": "Both capture the shift from gratitude and admiration toward fear, suspicion, and morally charged intimacy with Monte Cristo/Edmond."
+        },
+        {
+          "set_a_axis": "From maternal concern to protective guardianship",
+          "set_b_axis": "From supportive concern to sacrificial guardianship",
+          "overlap_description": "Both show Mercédès becoming increasingly active in protecting Albert, culminating in sacrifice and crisis intervention."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From indirect pity to moral distance with lingering charity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From relational dependence to sacrificial maternal agency",
+      "pole_start": "Communion-dominant: Mercédès is defined by attachment, longing, and dependence on Edmond's return or on relational continuity for meaning and stability.",
+      "pole_end": "More agency-leaning while still communion-oriented: she acts decisively for Albert's protection and survival, accepting loss and dependence as the cost of duty.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Waiting and emotional dependence",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Mercédès begins in a state of longing and suspended life, emotionally organized around Edmond's absence and the possibility of reunion, then forced into compromise by loneliness and grief.",
+          "key_moments": [
+            "She waits anxiously for Edmond's return",
+            "She nearly collapses by the sea in despair",
+            "She remarries under loneliness and perceived abandonment"
+          ]
+        },
+        {
+          "phase": "Public composure under emotional pressure",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "She remains emotionally bound to the past, but begins exercising restraint and interpretive caution, managing appearances while privately shaken by Monte Cristo's presence.",
+          "key_moments": [
+            "She thanks Monte Cristo with intense gratitude",
+            "She questions Albert and warns him prudently",
+            "She masters her expression in public despite distress"
+          ]
+        },
+        {
+          "phase": "Maternal action and moral endurance",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "Her agency becomes concrete and protective: she tracks Albert, defends him, accepts financial help, and chooses exile or obscurity over social collapse.",
+          "key_moments": [
+            "She secretly follows Albert and prepares for crisis",
+            "She defends Monte Cristo when necessary",
+            "She accepts money for survival and leaves with Albert"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Mercédès remains fundamentally communion-oriented, but her later life shows a clear increase in practical, sacrificial agency directed toward Albert and moral endurance rather than self-assertion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Pride-Humility",
+      "axis_name": "From social pride to humbled endurance",
+      "pole_start": "Pride-leaning: Mercédès retains dignity, reserve, and a sense of rightful happiness and social self-possession, even when wounded by grief.",
+      "pole_end": "Humility-leaning: she accepts disgrace, dependence, and loss of status, choosing endurance, prayer, and maternal duty over pride.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Dignity and social self-possession",
+          "chapter_range": [
+            1,
+            3
+          ],
+          "position_description": "Her early identity includes dignity and emotional reserve; even as grief dominates, she remains socially composed and marked by a strong sense of self-command.",
+          "key_moments": [
+            "She is established as a dignified Catalan woman",
+            "She appears as a countess whose inner life remains wounded"
+          ]
+        },
+        {
+          "phase": "Exposure and loss of worldly pride",
+          "chapter_range": [
+            6,
+            11
+          ],
+          "position_description": "Monte Cristo's return and the Morcerf scandal expose her to vulnerability and public scrutiny, stripping away the protections of rank and family name.",
+          "key_moments": [
+            "She is shaken by gratitude and fear in Monte Cristo's presence",
+            "She struggles to maintain composure in public",
+            "The Morcerf name is publicly humiliated"
+          ]
+        },
+        {
+          "phase": "Chosen humility and endurance",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She explicitly subordinates pride to survival and maternal obligation, accepting financial help and leaving Parisian status behind for a humbler life.",
+          "key_moments": [
+            "She accepts practical help for survival",
+            "She chooses the convent or obscurity over destitution",
+            "She departs in sorrow, living by memory and prayer"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is strongly supported by Set A's emphasis on dignity, scandal, and humbled endurance, and it complements the other analyses by showing how Mercédès' social pride is stripped into morally dignified humility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Hope-Resignation",
+      "axis_name": "From hopeful waiting to resigned mourning",
+      "pole_start": "Hopeful expectation: Mercédès initially sustains emotional openness to Edmond's return and the restoration of the past.",
+      "pole_end": "Resigned mourning: she accepts that worldly reconciliation is impossible and lives in memory, prayer, and endurance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Expectation and suspended life",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "Her emotional life is suspended in anticipation of Edmond's return, though loneliness and grief begin eroding hope almost immediately.",
+          "key_moments": [
+            "She waits anxiously for Edmond",
+            "She nearly chooses death under despair"
+          ]
+        },
+        {
+          "phase": "Belief in loss and substitute life",
+          "chapter_range": [
+            3,
+            10
+          ],
+          "position_description": "She comes to believe Edmond is dead or irretrievably lost, so marriage and public life become compromises rather than fulfillment; hope survives only as private sorrow.",
+          "key_moments": [
+            "Her remarriage is framed as necessity under grief",
+            "Her elevated social life does not heal the wound",
+            "Monte Cristo's presence reactivates buried memory"
+          ]
+        },
+        {
+          "phase": "Resigned separation",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "By the end, she no longer expects restoration in worldly terms and instead accepts separation, leaving with Albert and turning inward toward endurance and prayer.",
+          "key_moments": [
+            "She accepts the practical terms of ruin",
+            "She murmurs Edmond's name and accepts a life defined by loss"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets converge on a clear movement from waiting to irreversible loss: Mercédès does not recover the past, but learns to bear it with resignation and inward devotion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Public-Private",
+      "axis_name": "From concealed feeling to disciplined self-command",
+      "pole_start": "Emotionally transparent and overwhelmed: grief and longing are immediate, bodily, and difficult to contain.",
+      "pole_end": "Self-controlled and guarded: she learns to conceal distress, manage appearances, and speak cautiously in public.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Open grief",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Her suffering is visible and nearly unmediated, from tears and despair to the burden of old Dantès's death.",
+          "key_moments": [
+            "She wanders in despair and contemplates suicide",
+            "She grieves at old Dantès's death"
+          ]
+        },
+        {
+          "phase": "Controlled disturbance",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "She increasingly contains her reactions, questioning privately, watching carefully, and maintaining composure while internally shaken by Monte Cristo's presence.",
+          "key_moments": [
+            "She questions Albert in private",
+            "She leaves and returns with a controlled expression",
+            "Her earlier intimacy with Monte Cristo becomes publicly readable"
+          ]
+        },
+        {
+          "phase": "Discreet crisis management",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She acts under pressure without theatrical display, preparing for departure, arranging survival, and leaving with inward sorrow rather than outward collapse.",
+          "key_moments": [
+            "She secretly follows Albert and prepares for crisis",
+            "She makes practical arrangements for survival",
+            "She departs in quiet mourning"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A provides the clearest support for Mercédès' increasing self-command, showing a movement from visible grief to disciplined restraint and quiet crisis management."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Moral Self-View",
+      "axis_name": "From innocent beloved to self-condemning penitent",
+      "pole_start": "Self-understanding as a cherished, morally unproblematic beloved whose life is organized by love and expectation.",
+      "pole_end": "Self-understanding as culpable and spiritually burdened, seeing her suffering as tied to her own past choices and cowardice.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unselfconscious beloved",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "She is framed externally as the ideal fiancée, with no explicit self-reproach or moral conflict.",
+          "key_moments": [
+            "Introduced through Edmond's hopes",
+            "No sign of guilt or self-scrutiny"
+          ]
+        },
+        {
+          "phase": "Despair without full blame",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "She suffers intensely, but the emphasis remains on grief and endurance rather than explicit moral culpability.",
+          "key_moments": [
+            "Contemplates suicide but is restrained by religion",
+            "Shows distress at Monte Cristo's presence",
+            "Maintains dignity amid uncertainty"
+          ]
+        },
+        {
+          "phase": "Penitential self-judgment",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She explicitly names herself as morally at fault, interpreting her life as ruined by her own cowardice and first fault, and accepts a providential reading of suffering.",
+          "key_moments": [
+            "Recognizes Monte Cristo as Edmond",
+            "Accepts the family's guilt and ruin",
+            "Calls herself cowardly/base",
+            "Sees her suffering through a providential lens"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis captures a distinct psychological deepening not fully covered by the event-graph set: Mercédès becomes not only sorrowful but morally self-judging, reading her life through penitence and responsibility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_06",
+      "dimension_label": "Faith-Providence",
+      "axis_name": "From constrained piety to wounded but interpretive faith",
+      "pole_start": "Religion functions mainly as a restraint on despair, preventing suicide and preserving moral order.",
+      "pole_end": "Faith becomes a framework for interpreting suffering, guilt, and Monte Cristo's vengeance as part of Providence, even if her trust is wounded.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Moral restraint",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Her religious feeling blocks self-destruction but is not yet a developed interpretive lens.",
+          "key_moments": [
+            "Suicidal thoughts checked by religious scruples"
+          ]
+        },
+        {
+          "phase": "Providential reading",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She increasingly frames events in theological terms, seeing Monte Cristo as an instrument of justice and herself as abandoned yet still oriented toward heaven.",
+          "key_moments": [
+            "Recognizes the moral logic of Fernand's ruin",
+            "Sees Monte Cristo as terrible but just",
+            "Turns toward resignation, prayer, and spiritual release"
+          ]
+        }
+      ],
+      "evidence_summary": "Set B adds a valuable spiritual dimension: Mercédès' piety evolves from mere restraint into an interpretive faith that helps her bear suffering and judgment."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Mercédès",
+      "target_character": "Edmond Dantès / Monte Cristo",
+      "dimension_label": "Love-Recognition",
+      "axis_name": "From idealized betrothal to fearful reverent recognition",
+      "pole_start": "A mutually idealized romantic bond: Edmond is her beloved fiancé and future husband, trusted and emotionally central.",
+      "pole_end": "A conflicted relation to a transformed Edmond: she recognizes him beneath Monte Cristo, feels fear and grief, yet retains reverence, admiration, and lingering intimacy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Romantic union",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Their relationship is presented as loving, mutual, and future-oriented.",
+          "key_moments": [
+            "Mercédès established as Edmond's betrothed",
+            "Marriage and shared future are expected"
+          ]
+        },
+        {
+          "phase": "Loss and mourning",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "Edmond becomes absent and possibly lost; her attachment remains high, but the relationship is now defined by grief and uncertainty.",
+          "key_moments": [
+            "She wanders in tears",
+            "Edmond's disappearance is mourned"
+          ]
+        },
+        {
+          "phase": "Disturbing recognition",
+          "chapter_range": [
+            6,
+            11
+          ],
+          "position_description": "She senses and then fully recognizes Monte Cristo as Edmond, producing alarm, reverence, and pleading rather than simple romantic attachment.",
+          "key_moments": [
+            "She is shaken by Monte Cristo's presence",
+            "She questions Albert about him",
+            "She pleads for Albert's life",
+            "She recognizes him as Edmond"
+          ]
+        },
+        {
+          "phase": "Spiritualized attachment",
+          "chapter_range": [
+            13,
+            13
+          ],
+          "position_description": "Her bond to Edmond is no longer romantic in a worldly sense; it becomes a sorrowful, almost devotional recognition of his justice and suffering.",
+          "key_moments": [
+            "She sees him as providential agent",
+            "She feels gratitude and admiration alongside grief"
+          ]
+        }
+      ],
+      "evidence_summary": "Mercédès' central bond to Edmond survives as memory and moral recognition, but it is transformed by loss, vengeance, and revelation into a deeply ambivalent intimacy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Mercédès",
+      "target_character": "Albert de Morcerf",
+      "dimension_label": "Maternal Protection",
+      "axis_name": "From supportive concern to sacrificial guardianship",
+      "pole_start": "Warm, protective affection for her son, with high trust and intimacy but no urgent crisis yet.",
+      "pole_end": "Active sacrificial guardianship: she prioritizes Albert's life, honor, and future over her own status and comfort.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Established maternal bond",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "She is already oriented toward Albert's welfare and social safety, but the bond is still stable and protective rather than crisis-driven.",
+          "key_moments": [
+            "Questions him about Monte Cristo",
+            "Urges prudence",
+            "Maintains concern for his safety"
+          ]
+        },
+        {
+          "phase": "Crisis intervention",
+          "chapter_range": [
+            11,
+            11
+          ],
+          "position_description": "Her concern becomes urgent and active as she intervenes directly to save him from the consequences of the duel and family disgrace.",
+          "key_moments": [
+            "Plea to Monte Cristo for Albert's life",
+            "Albert spared"
+          ]
+        },
+        {
+          "phase": "Exile and renunciation",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She accepts the collapse of the Morcerf household and chooses to leave with Albert, sacrificing her own social position for his future.",
+          "key_moments": [
+            "Leaves the Morcerf house with Albert",
+            "Accepts poverty/obscurity",
+            "Lets Albert depart for Africa"
+          ]
+        }
+      ],
+      "evidence_summary": "Her relationship with Albert becomes the most active and morally decisive in her arc, shifting from ordinary maternal concern to self-sacrificing protection under catastrophe."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Mercédès",
+      "target_character": "Fernand de Morcerf",
+      "dimension_label": "Marital Estrangement",
+      "axis_name": "From tolerated marriage to moral rejection",
+      "pole_start": "A socially accepted marriage that exists within her life, though already shadowed by emotional distance and lack of true intimacy.",
+      "pole_end": "A relationship marked by detachment, low trust, and moral repudiation of Fernand's guilt and the ruin he has brought upon the family.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Shadowed marriage",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "Fernand is present as a source of care or social position, but Mercédès' emotional center remains elsewhere and the marriage is already emotionally compromised.",
+          "key_moments": [
+            "She accepts Fernand's care after Edmond's disappearance",
+            "Her unease around the past remains"
+          ]
+        },
+        {
+          "phase": "Recognition of guilt",
+          "chapter_range": [
+            11,
+            13
+          ],
+          "position_description": "She no longer defends Fernand; instead she accepts that his betrayal and guilt have destroyed the family and deserve judgment.",
+          "key_moments": [
+            "Morcerf ruin becomes explicit",
+            "She accepts the collapse of the household",
+            "Her stance becomes morally resigned"
+          ]
+        }
+      ],
+      "evidence_summary": "Mercédès' relation to Fernand moves from compromised domestic coexistence to emotional detachment and moral rejection, with no real restoration of intimacy."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Mercédès",
+      "target_character": "Caderousse",
+      "dimension_label": "Pity-Remoteness",
+      "axis_name": "From indirect pity to moral distance with lingering charity",
+      "pole_start": "Compassionate pity: she remains responsive to the suffering of Edmond's old circle despite her changed status.",
+      "pole_end": "Remote but charitable regard: she does not re-enter the relationship directly, but her generosity preserves a moral link to the past.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Anonymous generosity",
+          "chapter_range": [
+            3,
+            3
+          ],
+          "position_description": "She gives money to Caderousse from behind a blind, showing pity while preserving distance.",
+          "key_moments": [
+            "She secretly gives money to Caderousse"
+          ]
+        }
+      ],
+      "evidence_summary": "This minor axis is supported by the event graph and shows Mercédès maintaining a charitable moral link to Edmond's old world without restoring personal closeness."
+    }
+  ]
+}

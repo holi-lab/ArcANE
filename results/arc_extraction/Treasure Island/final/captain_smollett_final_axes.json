@@ -1,0 +1,537 @@
+{
+  "character": "Captain Smollett",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From solitary command to allied command",
+          "set_b_axis": "From isolated command to disciplined cooperative leadership",
+          "overlap_description": "Both describe Smollett as beginning in strongly self-contained, hierarchical command and ending in a more cooperative but still authoritative leadership mode."
+        },
+        {
+          "set_a_axis": "From wary suspicion to confirmed judgment",
+          "set_b_axis": "From wary suspicion to confirmed tactical certainty",
+          "overlap_description": "Both track the same psychological movement: Smollett starts distrustful and ends with his suspicions vindicated by events."
+        },
+        {
+          "set_a_axis": "From commanding control to resilient endurance",
+          "set_b_axis": "From threatened bodily collapse to resilient command under injury",
+          "overlap_description": "Both focus on Smollett learning to sustain authority under physical strain, scarcity, and injury rather than through direct mastery alone."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From rigid professional command to adaptive battlefield leadership",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From threatened bodily collapse to resilient command under injury",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From rigid professional command to adaptive battlefield leadership",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From guarded suspicion to open enmity",
+          "set_b_axis": "From wary suspicion to hard-eyed strategic hostility",
+          "overlap_description": "Both describe the same arc from initial wariness toward Silver to full antagonism, with only slight differences in how much grudging respect is emphasized."
+        },
+        {
+          "set_a_axis": "From professional reserve to trusted partnership",
+          "set_b_axis": "From irritation to trusted professional alliance",
+          "overlap_description": "Both capture the Smollett-Livesey relationship as moving from reserve/friction into durable professional trust and alliance."
+        },
+        {
+          "set_a_axis": "From open friction to grudging practical respect",
+          "set_b_axis": "From contemptuous friction to pragmatic cooperation",
+          "overlap_description": "Both identify a Trelawney arc from conflict and criticism toward workable, if limited, cooperation grounded in shared survival."
+        },
+        {
+          "set_a_axis": "From formal distance to warm, earned respect",
+          "set_b_axis": "From dismissive hierarchy to protective trust",
+          "overlap_description": "Both describe Smollett's relationship with Jim as moving from hierarchical distance to genuine trust and appreciation."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From isolated command to disciplined cooperative leadership",
+      "pole_start": "Highly agentic: self-assertive, suspicious, professionally separate, and oriented toward maintaining authority through distance and control.",
+      "pole_end": "Still strongly agentic, but more integrated with a loyal command circle; he remains authoritative while functioning as part of a cooperative defensive unit.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial command and boundary-setting",
+          "chapter_range": [
+            2,
+            10
+          ],
+          "position_description": "Smollett begins as a sharply self-possessed captain who insists on hierarchy, distrusts disorder, and keeps emotional distance from others while trying to preserve authority.",
+          "key_moments": [
+            "Rejects favoritism and insists on discipline",
+            "Shows irritation toward Livesey and suspicion of the voyage",
+            "Frames leadership as control, separation, and procedural order"
+          ]
+        },
+        {
+          "phase": "Professional isolation hardens under threat",
+          "chapter_range": [
+            11,
+            15
+          ],
+          "position_description": "Once the mutiny threat becomes visible, his agency intensifies: he becomes more guarded and strategically self-reliant, but begins to coordinate with the loyal few as necessity demands.",
+          "key_moments": [
+            "Overhears Silver's conspiracy and recognizes organized treachery",
+            "Takes command of the loyal response and plans defensively",
+            "Begins functioning with Livesey, Jim, and Trelawney as a defensive circle"
+          ]
+        },
+        {
+          "phase": "Command fused with loyal cooperation",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "Smollett remains dominant in temperament, but leadership now operates through interdependence: he relies on allies, coordinates defense, and preserves morale under siege.",
+          "key_moments": [
+            "Organizes evacuation and stockade defense",
+            "Trusts the loyal party in battle conditions",
+            "Maintains authority while sharing practical responsibility"
+          ]
+        },
+        {
+          "phase": "Settled authority in a coalition",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "By the end, Smollett is still clearly the commanding center, but his authority is validated inside a functioning coalition rather than through solitary command alone.",
+          "key_moments": [
+            "Returns as the recognized captain of the loyal survivors",
+            "Continues directing the voyage home while recovering",
+            "Embodies disciplined authority embedded in mutual dependence"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett never becomes communion-dominant; agency remains his defining trait. The meaningful change is that his authority shifts from defensive isolation to disciplined collaboration with trusted allies, especially after the mutiny is confirmed."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Suspicion-Certainty",
+      "axis_name": "From wary suspicion to confirmed tactical certainty",
+      "pole_start": "Suspicious but still testing reality: he senses danger, distrusts the voyage, and suspects treachery without full proof.",
+      "pole_end": "Certain and strategically lucid: he fully accepts the mutiny and responds with clear-eyed tactical realism.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial professional unease",
+          "chapter_range": [
+            2,
+            10
+          ],
+          "position_description": "Smollett begins with instinctive distrust of people and conditions, reading disorder as a sign of danger while still trying to determine the scale of the threat.",
+          "key_moments": [
+            "Distrusts crew looseness and secrecy",
+            "Criticizes unsafe management and poor discipline",
+            "Treats Silver and the voyage as potentially compromised"
+          ]
+        },
+        {
+          "phase": "Suspicion becomes near-certainty",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Silver's open recruitment and the mutiny's visible structure confirm what Smollett feared; he no longer merely suspects corruption, he knows the ship is compromised.",
+          "key_moments": [
+            "Overhears Silver's conspiracy",
+            "Sees the mutiny organize itself openly",
+            "Shifts from warning to containment"
+          ]
+        },
+        {
+          "phase": "Confirmed tactical realism",
+          "chapter_range": [
+            13,
+            21
+          ],
+          "position_description": "He now operates from certainty. The question is not whether there is treachery, but how to survive it, so his thinking becomes measured, unsentimental, and tactical.",
+          "key_moments": [
+            "Lets the enemy expose itself",
+            "Evacuates to the stockade",
+            "Manages assault and scarcity with calm"
+          ]
+        },
+        {
+          "phase": "Post-victory confirmation",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "After the mutiny collapses, his certainty remains but is no longer defensive; the outcome confirms his worldview and allows orderly completion.",
+          "key_moments": [
+            "Treasure recovered and order restored",
+            "Continues homeward under disciplined control",
+            "Treats survival as vindication of his judgment"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett's psychological movement is from alert distrust to fully validated certainty. He does not become more trusting; instead, the narrative proves him right, and his suspicion matures into tactical clarity."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Control-Endurance",
+      "axis_name": "From rigid command to resilient endurance",
+      "pole_start": "Believes leadership means actively controlling events through order, planning, and direct authority.",
+      "pole_end": "Accepts that leadership also means absorbing damage, scarcity, injury, and temporary helplessness without surrendering standards.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Procedural command and correction",
+          "chapter_range": [
+            9,
+            13
+          ],
+          "position_description": "He initially treats leadership as the ability to impose structure, secure resources, and manage risk through decisive action and strict procedure.",
+          "key_moments": [
+            "Demands arms and powder be secured",
+            "Criticizes loose management and insists on precautions",
+            "Chooses patience and concealment over impulsive confrontation"
+          ]
+        },
+        {
+          "phase": "Damage, scarcity, and bodily strain",
+          "chapter_range": [
+            14,
+            19
+          ],
+          "position_description": "Repeated losses force him to recognize that command is no longer about mastery alone; it is about surviving setbacks, conserving resources, and absorbing failure.",
+          "key_moments": [
+            "Loses stores and guns",
+            "Registers the party as a besieged remnant",
+            "Feels the ship's loss as a personal blow"
+          ]
+        },
+        {
+          "phase": "Endurance under injury and constraint",
+          "chapter_range": [
+            20,
+            34
+          ],
+          "position_description": "After battle wounds and convalescence, he remains authoritative even when immobilized, showing that his identity can survive the loss of direct control.",
+          "key_moments": [
+            "Keeps composure during Silver's truce parley",
+            "Survives grievous wounds and prolonged silence",
+            "Commands from a mattress during the return voyage"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett begins as a captain who equates leadership with control, but the island crisis teaches him that true command also includes absorbing damage, managing scarcity, and remaining morally and professionally steady when direct control is impossible."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Command-Style",
+      "axis_name": "From rigid professional command to adaptive battlefield leadership",
+      "pole_start": "Rigidly procedural: he values hierarchy, secrecy, and formal authority, and initially frames problems as failures of discipline.",
+      "pole_end": "Adaptive and situational: he still values hierarchy, but now uses flexibility, timing, and morale management as part of command.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Procedural command and complaint",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "He begins by insisting on proper shipboard order, secure stores, and strict hierarchy. His leadership style is formal and corrective, with little tolerance for improvisation.",
+          "key_moments": [
+            "Demands powder and arms be secured",
+            "Criticizes Trelawney's loose management",
+            "Threatens resignation if precautions are ignored"
+          ]
+        },
+        {
+          "phase": "Command under crisis",
+          "chapter_range": [
+            12,
+            20
+          ],
+          "position_description": "As mutiny becomes real, he adapts. He still commands, but now he uses timing, deception, and controlled exposure to keep the upper hand.",
+          "key_moments": [
+            "Organizes a defensive council",
+            "Allows shore leave to test loyalty",
+            "Rejects Silver's negotiation without losing composure"
+          ]
+        },
+        {
+          "phase": "Battlefield command and morale management",
+          "chapter_range": [
+            21,
+            34
+          ],
+          "position_description": "He becomes a practical battlefield leader: assigning posts, conserving resources, maintaining morale, and symbolically embodying resistance.",
+          "key_moments": [
+            "Directs defense during attack",
+            "Refuses to strike the colours",
+            "Manages scarcity and recovery after victory"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett's leadership does not soften, but it becomes more flexible. He learns to combine strict authority with tactical adaptation, especially once the crisis makes ordinary command insufficient."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Captain Smollett",
+      "target_character": "Long John Silver",
+      "dimension_label": "Distrust-Respect",
+      "axis_name": "From wary suspicion to hard-eyed strategic hostility",
+      "pole_start": "Initially wary and only partially suspicious: Smollett notices Silver's behavior and keeps distance, but has not yet fully identified him as the central enemy.",
+      "pole_end": "Openly hostile, with grudging respect for Silver's intelligence and adaptability; Silver is recognized as a formidable mutineer to be defeated, not trusted.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early wariness",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "Smollett is already uneasy about Silver, but the suspicion is still embedded in his broader distrust of the crew.",
+          "key_moments": [
+            "Maintains distance from Silver",
+            "Frames the ship as unsafe and loosely governed",
+            "Treats Silver as a potential threat to order"
+          ]
+        },
+        {
+          "phase": "Confirmed enemy",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Silver's open mutiny confirms Smollett's fears. The relationship hardens from caution into clear antagonism.",
+          "key_moments": [
+            "Silver openly recruits the crew",
+            "Smollett recognizes the mutiny as real",
+            "He begins organized containment"
+          ]
+        },
+        {
+          "phase": "Strategic hostility",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "Smollett treats Silver as the intelligent center of the threat. He does not underestimate him, but he refuses to yield psychologically, answering Silver with composure and firmness.",
+          "key_moments": [
+            "Lets Silver's side expose itself",
+            "Rejects Silver's embassy and terms",
+            "Maintains calm authority in direct confrontation"
+          ]
+        },
+        {
+          "phase": "Post-conflict contempt",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "After the mutiny collapses, Silver is no longer an immediate tactical problem, but Smollett's distrust and contempt remain. Any respect is strictly instrumental and does not become warmth.",
+          "key_moments": [
+            "Treasure recovered",
+            "Order restored",
+            "Silver remains untrusted"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Smollett's most significant relationship arc. He moves from guarded suspicion to full recognition of Silver as a dangerous, intelligent enemy, while still acknowledging his cunning. Trust never rises; respect stays tactical and limited."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Captain Smollett",
+      "target_character": "Dr. Livesey",
+      "dimension_label": "Distance-Alliance",
+      "axis_name": "From irritation to trusted professional alliance",
+      "pole_start": "Initially irritated and distrustful, with Smollett experiencing Livesey as a possible adversary or moral superior rather than a partner.",
+      "pole_end": "A strong, stable alliance built on mutual respect, practical judgment, and shared command responsibility.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Early friction",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Smollett is irritated by Livesey's presence and authority, though the doctor's competence is already visible.",
+          "key_moments": [
+            "Snorts indignantly at Livesey",
+            "Shows resentment and distrust during the inn crisis"
+          ]
+        },
+        {
+          "phase": "Constructive recognition",
+          "chapter_range": [
+            9,
+            12
+          ],
+          "position_description": "Livesey becomes the one person Smollett can treat as rational and useful. Their relationship shifts from friction to practical respect.",
+          "key_moments": [
+            "Livesey engages him constructively",
+            "They coordinate on ship security",
+            "They form a defensive alliance"
+          ]
+        },
+        {
+          "phase": "Stable command partnership",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "Livesey is now a trusted co-strategist. Smollett relies on him in crisis, and the relationship remains steady through battle, recovery, and aftermath.",
+          "key_moments": [
+            "Evacuation and stockade defense",
+            "Battle coordination",
+            "Post-victory recovery and shipboard command"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey is Smollett's clearest positive relationship. The arc is not dramatic but important: irritation gives way to durable professional trust, with both men functioning as disciplined allies."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Captain Smollett",
+      "target_character": "Squire Trelawney",
+      "dimension_label": "Friction-Cooperation",
+      "axis_name": "From contemptuous friction to pragmatic cooperation",
+      "pole_start": "Smollett begins by seeing Trelawney as careless, overbearing, and professionally irresponsible.",
+      "pole_end": "He ends in a workable, if still measured, partnership with Trelawney as a fellow survivor and leader.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Open friction",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "Smollett is openly critical of Trelawney's management and treats him as the source of the voyage's disorder.",
+          "key_moments": [
+            "Criticizes loose speech and planning",
+            "Threatens resignation if precautions are not taken"
+          ]
+        },
+        {
+          "phase": "Crisis-based cooperation",
+          "chapter_range": [
+            12,
+            21
+          ],
+          "position_description": "As danger escalates, Smollett accepts Trelawney as part of the loyal command group, though without fully warming to him.",
+          "key_moments": [
+            "Defensive council",
+            "Shared evacuation and defense",
+            "Trelawney's marksmanship and labor become useful"
+          ]
+        },
+        {
+          "phase": "Post-crisis pragmatism",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "The relationship remains professionally corrective but no longer combative. Smollett's earlier contempt is softened by shared survival, though not replaced by intimacy.",
+          "key_moments": [
+            "Treasure recovered",
+            "Order restored",
+            "Continued cooperation on the voyage home"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett never becomes warm toward Trelawney, but the relationship improves from open friction to practical cooperation. The arc is one of moderated hostility, not reconciliation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Captain Smollett",
+      "target_character": "Jim Hawkins",
+      "dimension_label": "Hierarchy-Trust",
+      "axis_name": "From dismissive hierarchy to protective trust",
+      "pole_start": "At first Smollett treats Jim as a subordinate boy, useful but not fully trusted or respected as an equal.",
+      "pole_end": "He ends with Jim as a trusted, brave, and valued helper whose loyalty and initiative matter to the defense.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Hierarchical distance",
+          "chapter_range": [
+            2,
+            9
+          ],
+          "position_description": "Jim is initially a subordinate witness/helper. Smollett's attitude is formal and distant, with low esteem and limited trust.",
+          "key_moments": [
+            "Uses Jim for practical help during the inn crisis",
+            "Excludes him from authority and privileged space"
+          ]
+        },
+        {
+          "phase": "Instrumental reliance",
+          "chapter_range": [
+            3,
+            13
+          ],
+          "position_description": "Smollett begins to use Jim more actively as a messenger and observer, showing medium trust but still within a strict hierarchy.",
+          "key_moments": [
+            "Relies on him for information and assistance",
+            "Treats him as a useful ally rather than an equal"
+          ]
+        },
+        {
+          "phase": "Protective confidence",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "Jim becomes a trusted part of the loyal party. Smollett values his bravery, observation, and usefulness, and his attitude becomes more protective and approving.",
+          "key_moments": [
+            "Treats Jim as a loyal helper in evacuation and defense",
+            "Continues to trust him during battle and aftermath",
+            "Acknowledges Jim as brave and useful"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett's relationship with Jim moves from strict hierarchy to genuine protective trust. He never stops seeing Jim as younger and subordinate, but he increasingly values him as a dependable member of the loyal group."
+    }
+  ]
+}

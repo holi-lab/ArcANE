@@ -1,0 +1,392 @@
+{
+  "character": "Elizabeth Elliot",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From rank-guarding social command to constrained relational dependence",
+          "set_b_axis": "From status-seeking self-assertion to guarded social self-preservation",
+          "overlap_description": "Both describe Elizabeth as fundamentally agency-coded, status-conscious, and socially defensive, with only limited softening under pressure rather than a deep moral transformation."
+        },
+        {
+          "set_a_axis": "From trusting polish to recognizing social deception",
+          "set_b_axis": null,
+          "overlap_description": "Set A's appearance-truth axis is partially echoed in Set B's emphasis on Elizabeth's continued investment in polished surfaces, but Set B does not independently develop a true epistemic disillusionment arc."
+        },
+        {
+          "set_a_axis": "From unshaken social pride to mortified self-doubt",
+          "set_b_axis": null,
+          "overlap_description": "Set A isolates a humiliation/self-confidence axis that is compatible with Set B's account of defensive self-preservation, though Set B treats the ending as mostly stable rather than meaningfully self-doubting."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From trusting polish to recognizing social deception",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From unshaken social pride to mortified self-doubt",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From admired prospect to exposed deceiver",
+          "set_b_axis": "From resentful disappointment to gratified approval",
+          "overlap_description": "Both track Elizabeth's relation to Mr Elliot as a status-laden attraction that becomes favorable in Bath; Set A continues into disillusionment, while Set B stops at approval."
+        },
+        {
+          "set_a_axis": "From favored companion to compromised associate",
+          "set_b_axis": "From approving companionship to embarrassed loss",
+          "overlap_description": "Both identify Elizabeth's attachment to Mrs Clay as initially warm/comfortable and ending in mortification after deception and departure."
+        },
+        {
+          "set_a_axis": "From dismissive superiority to threatened marginality",
+          "set_b_axis": "From nonrecognition to continued cold dismissal",
+          "overlap_description": "Both agree Elizabeth remains cold and superior toward Anne/Wentworth-adjacent moral authority, though Set A emphasizes Anne's rising centrality while Set B focuses on Elizabeth's static dismissal of Wentworth."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From dismissive superiority to threatened marginality",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From confident alliance to shared vulnerability",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From dismissive nonrecognition to reluctant social acknowledgment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From resentful disappointment to gratified approval",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From approving companionship to embarrassed loss",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From nonrecognition to continued cold dismissal",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From status-assertive self-protection to guarded tactical preservation",
+      "pole_start": "High agency, low communion: Elizabeth begins as self-protective, rank-conscious, and invested in asserting the Elliots' superiority through appearances, control, and social distinction.",
+      "pole_end": "Still agency-leaning and emotionally guarded: by the end she remains proud and socially defensive, but her control is more tactical than absolute, shaped by pressure, embarrassment, and the need to preserve appearances.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Established vanity and social command",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Elizabeth is strongly agency-coded: she aligns with Sir Walter's pride, resists retrenchment, and treats social rank as something to defend and display. She is emotionally distant from Anne and selectively warm only where status is reinforced.",
+          "key_moments": [
+            "Shares Sir Walter's distress over financial decline",
+            "Resists retrenchment because it threatens consequence",
+            "Dismisses Anne's warnings about Mrs Clay"
+          ]
+        },
+        {
+          "phase": "Performative control in Bath",
+          "chapter_range": [
+            12,
+            19
+          ],
+          "position_description": "Her posture remains essentially unchanged, but her agency is exercised through social orchestration rather than household authority. She manages introductions, invitations, and elite visibility while continuing to rely on appearances.",
+          "key_moments": [
+            "Bath social life reinforces her sense of consequence",
+            "Welcomes Mr Elliot's attentions as status-confirming",
+            "Refuses to acknowledge Captain Wentworth"
+          ]
+        },
+        {
+          "phase": "Tactical preservation under pressure",
+          "chapter_range": [
+            20,
+            22
+          ],
+          "position_description": "Elizabeth remains on the agency side, but her agency becomes more tactical than declarative. She adapts social arrangements to avoid visible reduction, yet the collapse of preferred alliances leaves her more constrained and mortified.",
+          "key_moments": [
+            "Reframes the Musgrove invitation to preserve dignity",
+            "Continues to cultivate elite connections in Bath",
+            "Is mortified by Mrs Clay's departure because it damages her social position"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Elizabeth shows little true inward development. She remains strongly agency-coded, status-defending, and socially controlling. The main movement is not toward communion but toward more cautious, tactical self-preservation under pressure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "appearance-truth",
+      "axis_name": "From confidence in polish to chastened awareness of deception",
+      "pole_start": "She begins with strong faith that polished manners, rank, and family connection reliably indicate worth and trustworthiness.",
+      "pole_end": "She ends with a damaged but real awareness that elegant surfaces can conceal calculation, self-interest, and betrayal.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial confidence in appearances",
+          "chapter_range": [
+            1,
+            13
+          ],
+          "position_description": "Elizabeth repeatedly reads social polish as evidence of merit, whether in Mr Elliot's restored standing, Bath society, or her own family's distinction.",
+          "key_moments": [
+            "Her resentment toward William Walter Elliot is tied to status and proper alliance",
+            "Her acceptance of Mr Elliot's favorable explanations",
+            "Her pleasure in Bath's social display"
+          ]
+        },
+        {
+          "phase": "First cracks in judgment",
+          "chapter_range": [
+            15,
+            20
+          ],
+          "position_description": "She begins to encounter situations where appearances are less stable than she assumes, but she still tries to preserve her interpretive framework by managing the room and sustaining social forms.",
+          "key_moments": [
+            "Her disdain for Anne's association with Mrs Smith",
+            "Her continued elevation of Mr Elliot",
+            "Her guarded handling of Wentworth's presence"
+          ]
+        },
+        {
+          "phase": "Exposure and disillusionment",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Mrs Smith's revelations force Elizabeth to confront the fact that Mr Elliot's elegance masked opportunism. Her trust in social surfaces is not fully replaced by insight, but it is clearly shaken and no longer secure.",
+          "key_moments": [
+            "Mrs Smith reveals Mr Elliot's strategic motives",
+            "The old letter and account of mercenary conduct",
+            "Mr Elliot's withdrawal and Mrs Clay's deception"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's most meaningful internal change is epistemic: she moves from near-complete confidence in social appearance to a chastened recognition that appearance can be manipulative. The change is partial, but substantial enough to count as a real disillusionment arc."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "pride-humility",
+      "axis_name": "From robust social pride to mortified self-doubt",
+      "pole_start": "She begins with robust pride in rank, household consequence, and her own judgment.",
+      "pole_end": "She ends humiliated and less secure in her own social discernment, though not transformed into humility in a deep moral sense.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Pride as identity",
+          "chapter_range": [
+            1,
+            18
+          ],
+          "position_description": "Elizabeth consistently treats social superiority as self-evident and uses it to dismiss rivals, inferiors, and warnings.",
+          "key_moments": [
+            "Her contempt for Anne's caution",
+            "Her delight in Bath prestige",
+            "Her dismissal of Mrs Smith and confidence in Mr Elliot"
+          ]
+        },
+        {
+          "phase": "Public embarrassment",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "The exposure of Mr Elliot and Mrs Clay humiliates her. She is forced to recognize that her preferred social world can be outmaneuvered, and that her judgment has been compromised by vanity.",
+          "key_moments": [
+            "Mrs Smith's revelations",
+            "The collapse of Mr Elliot as a match",
+            "The final mortification over Mrs Clay"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth remains proud, but the narrative repeatedly punctures that pride. The result is not moral humility so much as wounded self-confidence and social embarrassment."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Elizabeth Elliot",
+      "target_character": "Mr Elliot",
+      "dimension_label": "status attraction",
+      "axis_name": "From resentful disappointment to gratified approval and later disillusionment",
+      "pole_start": "She begins resentful and disappointed over his earlier failure to marry her, while also morally offended by his conduct.",
+      "pole_end": "She ends in distrust and mortification after his duplicity and self-interest are exposed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Wounded vanity and resentment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Elizabeth's feelings are mixed: she still feels the loss of Mr Elliot as a match, but the disappointment is already hardened into resentment and moral disapproval.",
+          "key_moments": [
+            "Wounded vanity over Mr. Elliot's failure to marry her",
+            "Condemns him for his marriage and alleged disrespect"
+          ]
+        },
+        {
+          "phase": "Renewed interest and social gratification",
+          "chapter_range": [
+            12,
+            15
+          ],
+          "position_description": "Her attitude warms as Mr Elliot's attentions resume in Bath. She interprets them as confirmation of the Elliot family's importance and as flattering recognition of herself and her circle.",
+          "key_moments": [
+            "Bath chapters show her pleased and energized by his visits",
+            "She appears to cultivate the possibility of closer connection",
+            "Her renewed admiration for Mr Elliot in Bath"
+          ]
+        },
+        {
+          "phase": "Suspicion and destabilization",
+          "chapter_range": [
+            19,
+            20
+          ],
+          "position_description": "Mrs Smith's disclosures undermine her confidence in him, but she still has to host and manage him socially, so the relationship becomes guarded rather than fully severed.",
+          "key_moments": [
+            "Mrs Smith reveals his strategic motives",
+            "The old letter and account of mercenary conduct",
+            "Elizabeth's cool, defensive manner toward him"
+          ]
+        },
+        {
+          "phase": "Collapse of esteem",
+          "chapter_range": [
+            22,
+            22
+          ],
+          "position_description": "His withdrawal and the full revelation of his double game destroy the remaining basis for admiration or trust.",
+          "key_moments": [
+            "Mr Elliot is revealed as deceptive and opportunistic",
+            "Elizabeth is shocked and mortified by the loss"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's clearest relational arc moves from wounded resentment to renewed approval and then to complete disillusionment. The change is not moral growth so much as a collapse of trust in a prestige-bearing figure."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Elizabeth Elliot",
+      "target_character": "Mrs Clay",
+      "dimension_label": "social utility",
+      "axis_name": "From approving companionship to compromised loss",
+      "pole_start": "She begins warm, approving, and comfortable with Mrs Clay as a pleasing companion and useful household presence.",
+      "pole_end": "She ends feeling cold, mortified, and deprived by Mrs Clay's departure and deception.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Friendly utility",
+          "chapter_range": [
+            2,
+            18
+          ],
+          "position_description": "Elizabeth consistently values Mrs Clay for her agreeable manners and practical usefulness. The relationship is not intimate in a deep sense, but it is socially comfortable and mutually convenient.",
+          "key_moments": [
+            "Warm and approving regard in early Bath chapters",
+            "Keeps Mrs Clay in the household orbit",
+            "Uses her as a companion in social and domestic arrangements"
+          ]
+        },
+        {
+          "phase": "Entangled tolerance",
+          "chapter_range": [
+            14,
+            20
+          ],
+          "position_description": "Elizabeth continues to keep Mrs Clay near, but the relationship is increasingly entangled with social maneuvering and blind spots about Mrs Clay's ambitions.",
+          "key_moments": [
+            "Mrs Clay's public compliment scene",
+            "Their shared interest in Mr Elliot"
+          ]
+        },
+        {
+          "phase": "Shock and loss",
+          "chapter_range": [
+            22,
+            22
+          ],
+          "position_description": "Mrs Clay's departure and deception produce embarrassment and a sense of social loss. Elizabeth's attitude cools sharply because the relationship has failed to remain useful and harmless.",
+          "key_moments": [
+            "Shocked by Mrs Clay's departure",
+            "Mortified by the deception",
+            "Feels the loss of a socially useful companion"
+          ]
+        }
+      ],
+      "evidence_summary": "Elizabeth's relation to Mrs Clay is mostly stable, but the ending reveals a meaningful negative turn: from comfortable approval to mortified disappointment. The change is driven less by affection than by the collapse of a useful social arrangement."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Elizabeth Elliot",
+      "target_character": "Captain Wentworth",
+      "dimension_label": "social recognition",
+      "axis_name": "From nonrecognition to continued cold dismissal",
+      "pole_start": "She begins with no meaningful recognition or esteem, treating him as beneath notice.",
+      "pole_end": "She remains cold and dismissive, refusing to acknowledge him even when they meet in Bath.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Initial indifference",
+          "chapter_range": [
+            13,
+            16
+          ],
+          "position_description": "Elizabeth registers Wentworth only as a social presence, not as an emotionally significant person. Her attention is elsewhere, especially on Mr Elliot and elite society.",
+          "key_moments": [
+            "Bath social scenes center on status and display",
+            "Wentworth is not treated as a meaningful relational figure"
+          ]
+        },
+        {
+          "phase": "Pointed coldness",
+          "chapter_range": [
+            17,
+            18
+          ],
+          "position_description": "When she sees Wentworth, she turns away and refuses to acknowledge him. This is not a change in feeling so much as a crystallization of her existing exclusiveness.",
+          "key_moments": [
+            "Turns away with unalterable coldness",
+            "Continues to treat him as socially beneath notice"
+          ]
+        }
+      ],
+      "evidence_summary": "There is no real arc toward warmth or recognition. Elizabeth's relation to Wentworth is static, but the chapter evidence makes her coldness explicit and socially meaningful."
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "character": "William, Earl of Mount Severn",
+  "novel": "East Lynne",
+  "version": "1.0",
+  "axis_source": "final_auto",
+  "families": [
+    {
+      "axis_id": "final_rel_01",
+      "axis_name": "From proud paternal affection to chastened protective responsibility",
+      "dimension_label": "Paternal Protection",
+      "axis_type": "relational",
+      "target_character": "Lady Isabel Vane / Lady Isabel Carlyle",
+      "decision_variable": "When Isabel is disgraced or vulnerable, does he mainly enforce status-based judgment and distance, or does he step in with practical paternal care?",
+      "phase_contrasts": [
+        {
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "contrast": "He moves from chiefly protecting and managing her as a prized daughter within family standing to responding to scandal with stern judgment but then actively providing material guardianship despite her disgrace."
+        },
+        {
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "contrast": "He moves from still being able to intervene directly in her life through guarded support to caring for her only through pitying remembrance and concrete duties toward her name, burial, and memory."
+        }
+      ],
+      "axis_re_expression": {
+        "abstract_axis": "Protective attachment shifting from pride-inflected control to chastened, duty-centered care under conditions of moral injury and dependency.",
+        "abstract_phases": [
+          "Affectionate guardianship fused with pride and status-conscious oversight",
+          "Judgment-laden distancing tempered by pity and practical caretaking",
+          "Sorrowful responsibility expressed through memorial concern and residual care"
+        ]
+      },
+      "life_stages": {
+        "0": {
+          "life_stage": "older_adult",
+          "approx_age": "about 60-70",
+          "rationale": "In chapters 1-9 he is already an earl with a marriageable daughter whose beauty and future he supervises, marking him as an older father in late-life aristocratic guardianship rather than a younger adult."
+        },
+        "1": {
+          "life_stage": "older_adult",
+          "approx_age": "about 60-70",
+          "rationale": "In chapters 14-27 his response to Isabel's marriage, disgrace, and need for material support is that of an elderly parent exercising stern judgment and practical guardianship, with no cue of a major age shift from the opening phase."
+        },
+        "2": {
+          "life_stage": "older_adult",
+          "approx_age": "about 65-75",
+          "rationale": "By chapters 35-47 he is dealing with forgiveness, death, burial, and family memory for his daughter, which places him firmly in an older-adult stage and slightly later in life than the earlier phases."
+        }
+      },
+      "n_phases": 3,
+      "probes": [
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Affectionate pride",
+          "anchor_query_chapter": 1,
+          "era_label": null,
+          "scenario": "At dinner in his house, the earl sits with Mr. Carlyle when Lady Isabel, beautifully dressed for an evening visit, comes to the table and prepares to leave in her carriage. Just before she goes out, she comes up to bid her father good-night.",
+          "question": "How does William, Earl of Mount Severn respond as Isabel takes her leave for the evening?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Affectionate pride",
+              "query_chapter": 1,
+              "gt_action": "He draws Isabel toward him, kisses her, and sends a message through her about not being kept out too late.",
+              "gt_speech": "Good-night, my love. Tell Mrs. Vane I will not have you kept out till morning hours. You are but a child yet.",
+              "gt_thought": "He is softened and gratified by her beauty and grace, proud to show her and tender with her. His care comes out as affectionate management: she is his cherished girl, and he must still guard her youth.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Mount Severn's early affectionate-proud phase: the gesture, paternal warning about late hours, and inward mix of tenderness, pride, and protective management are all period-appropriate and consistent with chapter-1 knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The response centers on tender pride in Isabel’s beauty and socially managed, affectionate protection of her as a cherished daughter, with no trace of scandal, judgment, or posthumous remembrance."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Shock, judgment, and renewed guardianship",
+              "query_chapter": 20,
+              "gt_action": "He kisses Isabel with reserve and charges her to come home early, watching her more as a father on guard than as a host displaying her.",
+              "gt_speech": "Good-night, Isabel. Do not be led into late hours; remember what is due to yourself.",
+              "gt_thought": "Her beauty no longer feels merely like a family triumph; it sits under the shadow of how frail a young woman's safety and name can be. He judges more sternly now, yet that sternness presses him toward oversight and practical care, not neglect.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The reserve, admonitory tenderness, and emphasis on her safety and reputation fit Mount Severn's chapter-20 phase well, and the diction is period-appropriate and knowledge-bounded."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought explicitly combines sterner judgment with active oversight and practical paternal care, which is the hallmark of Phase 1 rather than Phase 0's proud tenderness or Phase 2's posthumous remembrance."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Posthumous pity and memory",
+              "query_chapter": 41,
+              "gt_action": "He gives Isabel a formal kiss and lets her go.",
+              "gt_speech": "Good-night, Isabel.",
+              "gt_thought": "He receives her leave-taking with constrained tenderness, feeling the old paternal claim more than any wish to direct her. The parting settles in his mind as a family moment to be borne with gravity and remembered.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "This places Isabel alive and taking leave at his table, which is impossible by chapter 41 in this phase, and the thought's retrospective, memorial tone belongs to posthumous remembrance rather than an ordinary dinner parting."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The thought emphasizes restrained, memorializing paternal feeling—bearing the parting with gravity and remembering it—more than active management or practical intervention, which fits the posthumous-pity-and-memory stance best."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He holds Isabel's hand a moment, blesses her quietly, and lets her go with a grave caution to take care of herself.",
+                "gt_speech": "Good-night, my dear. God keep you, and do not overtask yourself.",
+                "gt_thought": "He would feel the moment with sorrow before pride, as if any ordinary parting might one day be all that remains. His care is chastened and pitying now; he thinks less of display or command than of the sad duty to cherish her while he may.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The response imports his later, posthumous pitying attitude into a scene where Isabel is still alive and socially present, so the thought and tone are phase-inappropriate despite the period-plausible wording."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 2,
+                    "confidence": "medium",
+                    "note": "The thought frames his care as chastened, sorrowful, and duty-bound toward a still-living Isabel, which fits renewed guardianship more than the proud tenderness of phase 0 or the purely memorial orientation of phase 2."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": {
+            "chapter": 1,
+            "event_id": "ch1_evt04",
+            "event_description": "He introduces Lady Isabel to Mr. Carlyle at dinner and openly praises her beauty and goodness, showing pride in her and concern for her future.",
+            "first_words": "At seven o’clock the dinner was announced,",
+            "last_words": "And she is as good as she\nis beautiful.",
+            "key_moment": "He is softened by the sight of his daughter.",
+            "verbatim_passage": "At seven o’clock the dinner was announced, and the earl wheeled into the\nadjoining room. As he and Mr. Carlyle entered it at one door, some one\nelse came in by the opposite one. Who--what--was it? Mr. Carlyle looked,\nnot quite sure whether it was a human being--he almost thought it more\nlike an angel.\n\nA light, graceful, girlish form; a face of surpassing beauty, beauty\nthat is rarely seen, save from the imagination of a painter; dark\nshining curls falling on her neck and shoulders, smooth as a child’s;\nfair, delicate arms decorated with pearls, and a flowing dress of costly\nwhite lace. Altogether the vision did indeed look to the lawyer as one\nfrom a fairer world than this.\n\n“My daughter, Mr. Carlyle, the Lady Isabel.”\n\nThey took their seats at the table, Lord Mount Severn at its head, in\nspite of his gout and his footstool. And the young lady and Mr. Carlyle\nopposite each other. Mr. Carlyle had not deemed himself a particular\nadmirer of women’s beauty, but the extraordinary loveliness of the young\ngirl before him nearly took away his senses and his self-possession. Yet\nit was not so much the perfect contour or the exquisite features that\nstruck him, or the rich damask of the delicate cheek, or the luxuriant\nfalling hair; no, it was the sweet expression of the soft dark eyes.\nNever in his life had he seen eyes so pleasing. He could not keep his\ngaze from her, and he became conscious, as he grew more familiar with\nher face, that there was in its character a sad, sorrowful look; only at\ntimes was it to be noticed, when the features were at repose, and it lay\nchiefly in the very eyes he was admiring. Never does this unconsciously\nmournful expression exist, but it is a sure index of sorrow and\nsuffering; but Mr. Carlyle understood it not. And who could connect\nsorrow with the anticipated brilliant future of Isabel Vane?\n\n“Isabel,” observed the earl, “you are dressed.”\n\n“Yes, papa. Not to keep old Mrs. Levison waiting tea. She likes to take\nit early, and I know Mrs. Vane must have kept her waiting dinner. It was\nhalf-past six when she drove from here.”\n\n“I hope you will not be late to-night, Isabel.”\n\n“It depends upon Mrs. Vane.”\n\n“Then I am sure you will be. When the young ladies in this fashionable\nworld of ours turn night into day, it is a bad thing for their roses.\nWhat say you, Mr. Carlyle?”\n\nMr. Carlyle glanced at the roses on the cheeks opposite to him; they\nlooked too fresh and bright to fade lightly.\n\nAt the conclusion of dinner a maid entered the room with a white\ncashmere mantle, placing it over the shoulders of her young lady, as she\nsaid the carriage was waiting.\n\nLady Isabel advanced to the earl. “Good-bye, papa.”\n\n“Good-night, my love,” he answered, drawing her toward him, and kissing\nher sweet face. “Tell Mrs. Vane I will not have you kept out till\nmorning hours. You are but a child yet. Mr. Carlyle, will you ring? I am\ndebarred from seeing my daughter to the carriage.”\n\n“If your lordship will allow me--if Lady Isabel will pardon the\nattendance of one little used to wait upon young ladies, I shall be\nproud to see her to her carriage,” was the somewhat confused answer of\nMr. Carlyle as he touched the bell.\n\nThe earl thanked him, and the young lady smiled, and Mr. Carlyle\nconducted her down the broad, lighted staircase and stood bareheaded by\nthe door of the luxurious chariot, and handed her in. She put out her\nhand in her frank, pleasant manner, as she wished him good night. The\ncarriage rolled on its way, and Mr. Carlyle returned to the earl.\n\n“Well, is she not a handsome girl?” he demanded.\n\n“Handsome is not the word for beauty such as hers,” was Mr. Carlyle’s\nreply, in a low, warm tone. “I never saw a face half so beautiful.”\n\n“She caused quite a sensation at the drawing-room last week--as I hear.\nThis everlasting gout kept me indoors all day. And she is as good as she\nis beautiful.”"
+          },
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_intext_a0",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the dinner-leave-taking scene, and the earl indeed draws Isabel to him, kisses her, and says, “Good-night, my love… Tell Mrs. Vane I will not have you kept out till morning hours. You are but a child yet,” while the thought is a fair inference from his proud introduction of her and tender, protective manner."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses still show him actively giving affectionate paternal oversight at leave-taking, with phase 1 adding sterner inward framing but not a clearly different balance on the judgment-versus-practical-care axis in this scene."
+                }
+              ],
+              "note": "P1→P2 is separated because he shifts from guarded supervisory care and admonition to largely formal, non-directive tenderness oriented toward memory rather than intervention."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Affectionate pride",
+          "anchor_query_chapter": 5,
+          "era_label": null,
+          "scenario": "At a small evening gathering, Isabel laughs over a folded note just brought in for her; when she sees her father watching, she colors, slips it into her sash, and says it is of no consequence. A lady near the fire glances up with that sharpened look which breeds talk, and the room falls just quiet enough to notice.",
+          "question": "How does the Earl of Mount Severn answer Isabel in that hush?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Affectionate pride",
+              "query_chapter": 5,
+              "gt_action": "He holds out his hand for the note, then draws Isabel to his side instead of pressing her before the room.",
+              "gt_speech": "Nay, my dear; if it be nothing, keep it so. Sit by me now.",
+              "gt_thought": "He sees first her blush, her beauty, and the eyes upon her. She must be guarded from foolish notice and from her own little vanities, for her good name is part of her future.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The gesture and speech fit his early paternal mixture of tenderness, authority, and concern for Isabel's reputation, and the thought uses period-appropriate, phase-appropriate language without importing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought centers on Isabel's blush, beauty, vanity, and good name as part of her future, showing tender, status-conscious paternal management rather than scandal-era judgment or posthumous pity."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Shock, judgment, and renewed guardianship",
+              "query_chapter": 20,
+              "gt_action": "He dismisses the watching lady with a hard look and quietly asks Isabel for the note in private.",
+              "gt_speech": "Come away, Isabel. I will see what folly has been sent you.",
+              "gt_thought": "He reads danger in concealment now, and shame follows fast upon imprudence. Yet if harm is brewing, it is still for him to stand between her and the world's tongue, then judge the matter himself.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Mount Severn in phase 1: the stern, proprietary summons, suspicion of concealed impropriety, and impulse to shield Isabel from public gossip while reserving judgment to himself all sound era-appropriate and true to his chastened paternal guardianship."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The thought combines suspicion and moral judgment about concealment with an active resolve to shield Isabel from gossip and personally manage the danger, which is most characteristic of shock/judgment joined to renewed guardianship."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Posthumous pity and memory",
+              "query_chapter": 41,
+              "gt_action": "He turns from the little pause with a grave inclination of his head, as though the matter were beneath remark.",
+              "gt_speech": "Pray proceed.",
+              "gt_thought": "Such a moment comes to him less as something to govern than as one of those small beginnings from which misery and shame are afterward remembered. His impulse is not to correct her now, but to spare her name from fastening itself to idle observation.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits his late-phase, chastened paternal protectiveness: the grave outward composure and inward concern for her name and remembered shame are era-appropriate, in character, and do not presume knowledge beyond chapter 41."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "His thought frames the scene as the possible beginning of future shame and focuses on shielding Isabel's name from gossip, which fits the phase where judgment about disgrace is joined to protective guardianship."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He takes the note from Isabel's trembling hand and puts it aside, turning the company back to their talk.",
+                "gt_speech": "There has been enough notice taken. Let the child be.",
+                "gt_thought": "The old heat of censure is worn down by sorrow; public exposure seems a cruelty added to weakness. What remains to him is to spare her what humiliation he can, and think afterward what duty requires.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the protective impulse fits his later softened pity, this scene wrongly treats Isabel as publicly present and directly manageable in chapter-41 terms, and 'Let the child be' sounds too generic and paternal for his posthumous, memory-governed phase."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The thought combines worn-down judgment with active shielding and a resolve to decide later what duty requires, which fits his phase of stern moral appraisal joined to practical paternal guardianship toward a living, vulnerable Isabel."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_inworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits East Lynne’s mid-19th-century social world, uses only plausible contemporaneous elements and unnamed attendees, avoids reproducing a specific canonical scene, and the responses remain consistent with Mount Severn’s older-adult characterization around this point in the story."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are differentiated on the decision variable: P0→P1 shifts from gently protective, status-conscious management to suspicion plus private paternal intervention, and P1→P2 shifts from active direct guardianship to detached protection of her name through non-intervention and memorializing restraint."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 0,
+          "anchor_phase_label": "Affectionate pride",
+          "anchor_query_chapter": 5,
+          "era_label": "industrial_early_20th",
+          "era_description": "Early 20th-century industrial society (~1900–1940). Factories, telegrams, urbanization, before mass media.",
+          "abstract_axis": "Protective attachment shifting from pride-inflected control to chastened, duty-centered care under conditions of moral injury and dependency.",
+          "abstract_phases": [
+            "Affectionate guardianship fused with pride and status-conscious oversight",
+            "Judgment-laden distancing tempered by pity and practical caretaking",
+            "Sorrowful responsibility expressed through memorial concern and residual care"
+          ],
+          "scenario": "At a small railway station, William, Earl of Mount Severn is handed a telegram saying Lady Isabel Vane, travelling under the name Lady Isabel Carlyle, has been taken ill in cheap lodgings nearby and is asking for him. A station clerk glances up, already curious about the name.",
+          "question": "How does William, Earl of Mount Severn answer this summons under the clerk's eye?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Affectionate pride",
+              "query_chapter": 5,
+              "gt_action": "He rises at once and asks for the address.",
+              "gt_speech": "My daughter is unwell? Give me the direction immediately.",
+              "gt_thought": "He scarcely attends to the altered surname; the alarming point is that Isabel is ill and calling for him. Under the clerk's look, he feels only a father's quick concern and the old habit of answering for her without delay.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits an older, paternal aristocrat in an early-20th-century station setting, and its urgent, protective focus on Isabel’s illness rather than scandal matches his phase-0 affectionate pride without introducing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The decisive cue is that he ignores the social embarrassment of the altered name and public scrutiny in order to respond immediately with direct paternal care to Isabel's illness, which fits judgment-yet-guarding Phase 1 more than proud Phase 0 or posthumous Phase 2."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He folds the telegram, asks for his motorcar, and goes to the lodgings himself.",
+                "gt_speech": "Tell them Lady Isabel is my daughter, and I am coming.",
+                "gt_thought": "The place offends his pride, and the clerk's curiosity pricks him; Isabel ought never to be found in such quarters. But she is his child, and her distress outweighs the indignity.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "Though the proud, paternal impulse fits early Mount Severn, the response fails chapter-5 plausibility because it accepts 'Lady Isabel Carlyle' and a disgraced-lodgings crisis that belongs to much later knowledge, not his affectionate-pride phase."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 0,
+                    "confidence": "high",
+                    "note": "His pride and status-conscious discomfort are still active, but he overrides them to claim Isabel publicly as his daughter and go to her in person, which most strongly matches judgment joined to practical paternal guardianship."
+                  }
+                }
+              }
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Shock, judgment, and renewed guardianship",
+              "query_chapter": 20,
+              "gt_action": "He pays the clerk no confidence, sends for the address, and goes with money in his pocket.",
+              "gt_speech": "No gossip, if you please. Write the direction plainly.",
+              "gt_thought": "The false name hardens him at once: shame, folly, and lowered station are written all over it. Yet illness strips scandal of some of its defiance; if she has fallen, she is still one he must keep from utter want.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The response fits his phase well: the curt suppression of gossip, the class-conscious recoil at the alias and cheap lodgings, and the immediate resolve to bring money and practical aid all sound like Mount Severn's stern yet reawakening paternal guardianship, with no obvious knowledge leak or era-jarring diction."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response combines stern status-conscious judgment of her false name and disgrace with immediate practical paternal intervention—going to her with money—which is the hallmark of phase 1."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Posthumous pity and memory",
+              "query_chapter": 41,
+              "gt_action": "He takes the telegram, asks quietly who signed it, and prepares to see to the necessary arrangements.",
+              "gt_speech": "I will attend to it. Give me the exact address.",
+              "gt_thought": "The alias and the lodging strike him less as insult now than as the sad measure of what became of her. His mind turns to what may still be done for her name, her body, and the mercy one hopes God has shown her.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The quiet, formal speech and sorrow-tempered practical resolve fit Mount Severn’s late-phase paternal pity, and the telegram/railway diction suits the early-20th-century setting without introducing knowledge beyond chapter 41."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "high",
+                  "note": "His thought centers not on intervening in her ongoing life but on her name, body, and hoped-for divine mercy, which strongly matches posthumous pity and memorial responsibility."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_outworld_a0",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The railway station, telegram, clerk, and cheap lodgings fit the early-20th-century setting, no source-world elements appear, William remains the protagonist throughout, and nothing in the phase summaries conflicts with his required older-adult life stage."
+            },
+            "discrimination": {
+              "weak_pairs": [],
+              "note": "Both adjacent pairs are clearly separated on the judgment-versus-practical-care axis: P0→P1 adds explicit status-conscious shame and guardedness while still intervening materially, and P1→P2 shifts from direct living guardianship to sorrowful, memorial-oriented duty."
+            }
+          },
+          "annotations": [
+            "P0: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        },
+        {
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Shock, judgment, and renewed guardianship",
+          "anchor_query_chapter": 14,
+          "era_label": null,
+          "scenario": "At Isabel's modest home, Lord Mount Severn has just had her leave the room so he may speak privately with Mr. Carlyle, having learned of her marriage from the newspapers and not from his family. He turns to face the man who has married Lady Isabel.",
+          "question": "How does Lord Mount Severn meet Mr. Carlyle in this first private moment about Isabel's marriage?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Affectionate pride",
+              "query_chapter": 5,
+              "gt_action": "He questions Mr. Carlyle with offended dignity, demanding how the match was made and why he was not properly consulted about Isabel.",
+              "gt_speech": "How came this marriage about, sir, and why was I not told of it?",
+              "gt_thought": "He feels less personal insult than anxious paternal alarm: Isabel is precious, young, and easily led, and her future ought not to have been settled out of his sight. His pride is touched, but chiefly because her welfare and family credit seem to have been handled carelessly.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits Mount Severn in the early phase: the speech is period-appropriate and dignified, and the thought rightly blends wounded family pride with genuine paternal anxiety for Isabel's welfare and standing."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "medium",
+                  "note": "The response centers on paternal anxiety for Isabel’s welfare and offended family dignity before any settled scandal-response or practical guardianship, which fits his affectionate, status-conscious protectiveness most closely."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Shock, judgment, and renewed guardianship",
+              "query_chapter": 14,
+              "gt_action": "He dismisses Isabel, wheels on Mr. Carlyle, refuses his hand, and sternly accuses him of taking advantage of his absence to marry her clandestinely.",
+              "gt_speech": "How came this marriage about, sir? Do you possess so little honor, that, taking advantage of my absence, you must intrude yourself into my family, and clandestinely espouse Lady Isabel Vane?",
+              "gt_thought": "He construes the marriage first as an affront to his guardianship and to Isabel's rank, a dishonorable seizure made while he was away. His mind is full of injured authority and suspicion, so he begins by judging and demanding account.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The action, accusation, and inward emphasis on wounded paternal authority and rank fit Mount Severn exactly at chapter 14, and the diction is suitably nineteenth-century without importing later knowledge."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response is dominated by outraged judgment, injured paternal authority, and suspicion around Isabel's clandestine marriage, which matches the early shock-and-judgment stance of Phase 1 rather than Phase 0's tender pride or Phase 2's posthumous pity."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Posthumous pity and memory",
+              "query_chapter": 41,
+              "gt_action": "He regards Mr. Carlyle with pained reserve, asking for an account of how Isabel was brought to this marriage.",
+              "gt_speech": "Tell me how this marriage with my daughter was brought about.",
+              "gt_thought": "He cannot move to guard or reclaim her now; what presses on him is how this union must stand in the story of her life and name. He listens as a father who can only gather the shape of what befell her and bear it sorrowfully.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "fail",
+                  "note": "The speech fits his earlier stern interview on learning of Isabel's marriage, but the thought is phase-wrong and knowledge-wrong for chapter 41, casting her as beyond his protection and as a figure of posthumous memory rather than a living daughter whose disgrace still calls forth judgment mixed with practical paternal care."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 2,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The thought frames Isabel less as a living dependent he can still manage and more as a sorrowful matter of her life-story, name, and what befell her, which is most characteristic of posthumous pity and memory."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": true,
+              "previous_attempt": {
+                "gt_action": "He still questions Mr. Carlyle gravely, but with less heat, seeking the truth of how Isabel came to this marriage before he condemns either of them.",
+                "gt_speech": "Tell me plainly how this came to pass with Isabel.",
+                "gt_thought": "He has learned what ruin and sorrow can lie under appearances, and scandal no longer satisfies him as an explanation. Even while pain and shame stir, his thought turns toward Isabel's vulnerability and what duty remains to those bound to her.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "This places him in a later, softened phase than chapter 41 allows: the grave, low-heat inquiry and reflective thought about 'what duty remains' fit his chastened posthumous pity, not the sharper shock and stern judgment of his earlier confrontation with Carlyle."
+                  },
+                  "phase_fit": {
+                    "verdict": "adjacent",
+                    "most_likely_phase_idx": 1,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The response centers on moving past scandal and judgment toward discovering the truth and considering Isabel's vulnerability and remaining duty to her, which is most characteristic of the phase of shock tempered by renewed guardianship."
+                  }
+                }
+              },
+              "unavailable_reason": "validator still fails after retry"
+            }
+          ],
+          "anchor_source": {
+            "chapter": 14,
+            "event_id": "ch14_evt03",
+            "event_description": "William confronts Mr. Carlyle about the marriage, initially accusing him of clandestine conduct, then learns that Carlyle had written to him and that the marriage was prompted by Isabel's misery and ill-treatment at home.",
+            "first_words": "Before Isabel could reply, Mr. Carlyle entered.",
+            "last_words": "the circumstances under which I found her calling it forth.",
+            "key_moment": "He assumes scandal, then learns the truth about the marriage.",
+            "verbatim_passage": "Before Isabel could reply, Mr. Carlyle entered. He held out his hand to\nthe earl; the earl did not appear to see it.\n\n“Isabel,” said he, “I am sorry to turn you out, but I suppose you have\nbut this one sitting-room. I wish to say a few words to Mr. Carlyle.”\n\nShe quitted them, and the earl wheeled round and faced Mr. Carlyle,\nspeaking in a stern, haughty tone.\n\n“How came this marriage about, sir? Do you possess so little honor,\nthat, taking advantage of my absence, you must intrude yourself into my\nfamily, and clandestinely espouse Lady Isabel Vane?”\n\nMr. Carlyle stood confounded, and confused. He drew himself up to his\nfull height, looking every whit as fearless and far more noble than the\npeer. “My lord, I do not understand you.”\n\n“Yet I speak plainly. What is it but a clandestine procedure to take\nadvantage of a guardian’s absence and beguile a young girl into a\nmarriage beneath her?”\n\n“There has been nothing clandestine in my conduct toward Lady Isabel\nVane; there shall be nothing but honor in my conduct toward Lady Isabel\nCarlyle. Your lordship has been misinformed.”\n\n“I have not been informed at all,” retorted the earl. “I was allowed to\nlearn this from the public papers--I, the only relative of Lady Isabel.”\n\n“When I proposed for Lady Isabel--”\n\n“But a month ago,” sarcastically interrupted the earl.\n\n“But a month ago,” calmly repeated Mr. Carlyle, “my first action, after\nIsabel accepted me, was to write to you. But that I imagine you may not\nhave received the letter, by stating you first heard of our marriage\nthrough the papers, I should say, the want of courtesy lay on your\nlordship’s side for having vouchsafed me no reply to it.”\n\n“What were the contents of the letter?”\n\n“I stated what had occurred, mentioning what I was able to do in the way\nof settlements, and also that both Isabel and myself wished the ceremony\nto take place as soon as might be.”\n\n“And pray where did you address the letter?”\n\n“Lady Mount Severn could not give me the address. She said if I would\nintrust the letter to her, she would forward it with the rest she wrote,\nfor she expected daily to hear from you. I did give her the letter, and\nI heard no more of the matter, except that her ladyship sent me a\nmessage when Isabel was writing to me, that as you had returned no\nreply, you of course approved.”\n\n“Is this the fact?” cried the earl.\n\n“My lord,” coldly replied Mr. Carlyle, “whatever may be my defects in\nyour eyes, I am at least a man of truth. Until this moment, the\nsuspicion that you were in ignorance of the contemplated marriage never\noccurred to me.”\n\n“So far, then, I beg your pardon, Mr. Carlyle. But how came the marriage\nabout at all--how came it to be hurried over in this unseemly fashion?\nYou made the offer at Easter, Isabel tells me, and you married her three\nweeks after it.”\n\n“And I would have married her and brought her away with me the day I did\nmake it, had it been practicable,” returned Mr. Carlyle. “I have acted\nthroughout for her comfort and happiness.”\n\n“Oh, indeed!” exclaimed the earl, returning to his disagreeable tone.\n“Perhaps you will put me in possession of the facts, and of your\nmotives.”\n\n“I warn you that the facts to you will not bear a pleasant sound, Lord\nMount Severn.”\n\n“Allow me to be the judge of that,” said the earl.\n\n“Business took me to Castle Marling on Good Friday. On the following day\nI called at your house; after your own and Isabel’s invitation, it was\nnatural I should; in fact, it would have been a breach of good feeling\nnot to do so, I found Isabel ill-treated and miserable; far from\nenjoying a happy home in your house--”\n\n“What, sir?” interrupted the earl. “Ill-treated and miserable?”\n\n“Ill-treated even to blows, my lord.”\n\nThe earl stood as one petrified, staring at Mr. Carlyle.\n\n“I learnt it, I must premise, through the chattering revelations of your\nlittle son; Isabel, of course, would not have mentioned it to me; but\nwhen the child had spoken, she did not deny it. In short she was too\nbroken-hearted, too completely bowed in spirit to deny it. It aroused\nall my feelings of indignation--it excited in me an irresistible desire\nto emancipate her from this cruel life, and take her where she would\nfind affection, and I hope happiness. There was only one way which I\ncould do this, and I risked it. I asked her to become my wife, and to\nreturn to her home at East Lynne.”\n\nThe earl was slowly recovering from his petrifaction. “Then, am I to\nunderstand, that when you called that day at my house, you carried no\nintention with you of proposing to Isabel?”\n\n“Not any. It was an impromptu step, the circumstances under which I\nfound her calling it forth.”"
+          },
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_intext_a1",
+          "probe_check": {
+            "anchor": {
+              "verdict": "pass",
+              "note": "The scenario matches the scene’s setup and tension, and the response faithfully reflects the earl’s actual first private behavior—having Isabel leave, ignoring Carlyle’s offered hand, turning on him with a stern accusation of clandestine, dishonorable marriage—while the thought is a reasonable inference from his words about guardianship and rank."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 0,
+                  "to_phase_idx": 1,
+                  "separation": "similar",
+                  "note": "Both responses stage the same basic move—an offended, interrogative confrontation centered on injured guardianship and family standing—though Phase 1 is harsher and more explicitly accusatory."
+                }
+              ],
+              "note": "P1→P2 is separated because the stance shifts from active status-based accusation and judgment toward sorrowful, retrospective inquiry shaped by pity and the loss of any direct protective intervention."
+            }
+          }
+        },
+        {
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "anchor_phase_label": "Shock, judgment, and renewed guardianship",
+          "anchor_query_chapter": 20,
+          "era_label": null,
+          "scenario": "At a small evening gathering, Isabel's hand trembles and she drops a folded note; a lady near the fire glances at the seal and smiles as if she has guessed too much. Isabel stoops, flushes deeply, and looks toward her father for help before anyone speaks.",
+          "question": "How does William, Earl of Mount Severn answer Isabel's look in that moment?",
+          "phase_responses": [
+            {
+              "phase_idx": 0,
+              "phase_label": "Affectionate pride",
+              "query_chapter": 5,
+              "gt_action": "He steps to Isabel, picks up the note, and offers her his arm, drawing her from the circle.",
+              "gt_speech": "Come, my dear; the room is over-warm for you.",
+              "gt_thought": "He reads her confusion as girlish weakness under observation, and the first duty is to spare her from notice. She is his cherished child, too fair and gentle to be left exposed to idle eyes.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "This fits his early paternal tenderness and pride: the protective action, simple genteel speech, and thought of shielding his beautiful daughter from notice are era-appropriate and consistent with chapter-5 Mount Severn."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 0,
+                  "target_phase_idx": 0,
+                  "confidence": "high",
+                  "note": "The thought frames Isabel as a cherished, delicate daughter whose embarrassment must be shielded from social notice, emphasizing tender pride and protective management rather than disgrace-aware judgment or posthumous pity."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 1,
+              "phase_label": "Shock, judgment, and renewed guardianship",
+              "query_chapter": 20,
+              "gt_action": "He takes up the note, dismisses the onlookers with a hard glance, and keeps Isabel beside him.",
+              "gt_speech": "You will remain with me, Isabel.",
+              "gt_thought": "Her agitation smells of danger, perhaps folly; he feels the shame of it before the company and judges her weakness bitterly. Yet she is still his daughter, and if there is mischief, it must be checked under his own hand.",
+              "gt_typicality": "typical",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The stern, possessive protection, public concern for appearances, and inward mixture of shame, judgment, and paternal duty fit Mount Severn in this middle phase, and the diction is broadly period-appropriate."
+                },
+                "phase_fit": {
+                  "verdict": "pass",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 1,
+                  "confidence": "high",
+                  "note": "The response combines sharp social judgment and shame before others with immediate paternal control and practical containment, which is characteristic of his scandal-era renewed guardianship rather than simple proud tenderness or posthumous pity."
+                }
+              },
+              "retry_count": 0,
+              "unavailable": false
+            },
+            {
+              "phase_idx": 2,
+              "phase_label": "Posthumous pity and memory",
+              "query_chapter": 41,
+              "gt_action": "He takes up the note and keeps it in his hand, his face set against the room.",
+              "gt_speech": "Say no more.",
+              "gt_thought": "Her look comes to him now less as a daughter's claim upon his pride than as a call upon his compassion. He thinks first of shielding her from further humiliation, and of the sorrow that has made such small mercies his part.",
+              "gt_typicality": "plausible_tail",
+              "quality": {
+                "voice": {
+                  "verdict": "pass",
+                  "note": "The restrained intervention and inward turn from family pride to sorrowful, practical compassion fit Mount Severn's late-phase paternal voice, and nothing in the wording feels knowledge-breaking or anachronistic for the novel's setting."
+                },
+                "phase_fit": {
+                  "verdict": "adjacent",
+                  "most_likely_phase_idx": 1,
+                  "target_phase_idx": 2,
+                  "confidence": "medium",
+                  "note": "The thought centers on active shielding and compassion toward a living, vulnerable Isabel—practical paternal care after disgrace—rather than proud display (Phase 0) or purely posthumous remembrance (Phase 2)."
+                }
+              },
+              "retry_count": 1,
+              "unavailable": false,
+              "previous_attempt": {
+                "gt_action": "He takes the note from the floor and puts it away in silence, his eyes resting on Isabel with grave pity.",
+                "gt_speech": "Poor child.",
+                "gt_thought": "The old pride is spent; what rises now is sorrow for all that has been lost and cannot be mended. He thinks less of display than of her misery, and of the sad office left him toward her name and memory.",
+                "gt_typicality": "typical",
+                "quality": {
+                  "voice": {
+                    "verdict": "fail",
+                    "note": "The pitying, memorial tone fits his late arc, but at chapter 41 Isabel is still living and present, so thinking of his 'office left him toward her name and memory' sounds prematurely posthumous and slightly out of phase."
+                  },
+                  "phase_fit": {
+                    "verdict": "pass",
+                    "most_likely_phase_idx": 2,
+                    "target_phase_idx": 2,
+                    "confidence": "high",
+                    "note": "The thought centers on old pride being exhausted and on his remaining duty toward her name and memory, which is the distinctive posthumous, sorrowful orientation of Phase 2 rather than active living guardianship."
+                  }
+                }
+              }
+            }
+          ],
+          "anchor_source": null,
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_inworld_a1",
+          "probe_check": {
+            "world": {
+              "verdict": "pass",
+              "note": "The scenario fits East Lynne’s mid-19th-century social world with no anachronism or magic, uses only plausible contemporaries around chapter 20, and the responses evoke Mount Severn’s attitudes without reproducing a specific canonical scene."
+            },
+            "discrimination": {
+              "weak_pairs": [
+                {
+                  "from_phase_idx": 1,
+                  "to_phase_idx": 2,
+                  "separation": "similar",
+                  "note": "Both responses answer her look primarily with shielding paternal care rather than distance, with the difference living mostly in tone—stern guardianship in Phase 1 versus sorrowful compassion in Phase 2—rather than a clearly different decision-variable choice."
+                }
+              ],
+              "note": "P0→P1 is separated because Phase 0 frames intervention as tender, status-conscious protection of a prized daughter, while Phase 1 adds explicit judgment, control, and containment under his authority; P1→P2 remains close because both still step in protectively, despite the shift from stern oversight to pitying remembrance."
+            }
+          },
+          "annotations": [
+            "P2: auto-marked plausible_tail (Q-PhaseFit placed response at P1)"
+          ]
+        }
+      ],
+      "dropped_probes": [
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_outworld_a1",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 1,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_intext_a2",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "anchor"
+          ]
+        },
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_inworld_a2",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "world"
+          ]
+        },
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_outworld_a2",
+          "probe_type": "out_of_world",
+          "anchor_phase_idx": 2,
+          "failed_verdicts": [
+            "world"
+          ]
+        }
+      ],
+      "weak_pairs": [
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_intext_a0",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 0,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses still show him actively giving affectionate paternal oversight at leave-taking, with phase 1 adding sterner inward framing but not a clearly different balance on the judgment-versus-practical-care axis in this scene."
+        },
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_intext_a1",
+          "probe_type": "in_text",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 0,
+          "to_phase_idx": 1,
+          "separation": "similar",
+          "note": "Both responses stage the same basic move—an offended, interrogative confrontation centered on injured guardianship and family standing—though Phase 1 is harsher and more explicitly accusatory."
+        },
+        {
+          "probe_id": "william_earl_of_mount_severn_final_rel_01_inworld_a1",
+          "probe_type": "in_world",
+          "anchor_phase_idx": 1,
+          "from_phase_idx": 1,
+          "to_phase_idx": 2,
+          "separation": "similar",
+          "note": "Both responses answer her look primarily with shielding paternal care rather than distance, with the difference living mostly in tone—stern guardianship in Phase 1 versus sorrowful compassion in Phase 2—rather than a clearly different decision-variable choice."
+        }
+      ]
+    }
+  ]
+}

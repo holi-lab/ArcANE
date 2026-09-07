@@ -1,0 +1,438 @@
+{
+  "character": "Fernand Mondego",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relational longing to coercive self-assertion",
+          "set_b_axis": "From possessive relational dependence to socially defensive self-assertion",
+          "overlap_description": "Both describe Fernand moving from attachment-driven dependence on Mercédès toward a more agency-centered stance shaped by retaliation, control, and self-protection."
+        },
+        {
+          "set_a_axis": "From relational longing to coercive self-assertion",
+          "set_b_axis": "From wounded grievance to concealed culpability",
+          "overlap_description": "Both capture the same early-to-late moral hardening: hurt and jealousy are converted into betrayal, with no sign of repentance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From relational longing to coercive self-assertion",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From possessive relational dependence to socially defensive self-assertion",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From wounded grievance to concealed culpability",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From romantic desperation to conditional, then threatened hope",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From emotionally aware jealousy to psychologically opaque concealment",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From hopeful suitor to possessive, humiliated attachment",
+          "set_b_axis": "From wounded devotion to endangered social bond",
+          "overlap_description": "Both track Fernand's relationship with Mercédès as emotionally central, possessive, and increasingly damaged by rejection, then later by public disgrace."
+        },
+        {
+          "set_a_axis": "From rival to existential enemy",
+          "set_b_axis": "From rival obstacle to enduring enemy",
+          "overlap_description": "Both describe Fernand's relation to Edmond as escalating from jealous rivalry into sustained hostility, with betrayal and murderous fantasy as the endpoint."
+        },
+        {
+          "set_a_axis": "From opportunistic alliance to betrayal-enabled complicity",
+          "set_b_axis": "From useful accomplice to distant liability",
+          "overlap_description": "Both identify Danglars as a brief, instrumental partner in the denunciation plot, with no durable trust or genuine alliance."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From hopeful suitor to possessive, humiliated attachment",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From rival to existential enemy",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From opportunistic alliance to betrayal-enabled complicity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From wounded devotion to endangered social bond",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From rival obstacle to enduring enemy",
+          "assessment": "borderline"
+        },
+        {
+          "axis": "From useful accomplice to distant liability",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From possessive dependence to defensive self-assertion",
+      "pole_start": "Fernand begins emotionally fused to Mercédès, defining himself through longing, jealousy, and the hope of being chosen.",
+      "pole_end": "He ends more agency-oriented, but in a defensive and coercive form: focused on retaliation, control, honor, and self-protection rather than mutual relation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Rejected attachment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Mercédès's rejection leaves Fernand dependent on her choice and emotionally destabilized by exclusion.",
+          "key_moments": [
+            "Mercédès rejects Fernand and affirms love for Edmond",
+            "Fernand is overwhelmed by jealousy and humiliation"
+          ]
+        },
+        {
+          "phase": "Suppressed aggression and betrayal",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "His longing curdles into hostile agency, and he converts private resentment into indirect harm.",
+          "key_moments": [
+            "Fernand reaches for his knife but withdraws",
+            "He takes the accusation against Edmond and carries it away"
+          ]
+        },
+        {
+          "phase": "Possessive waiting",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "He briefly reopens hope through Mercédès's farewell, but that hope remains dependent, insecure, and bound to rivalry.",
+          "key_moments": [
+            "He reads Mercédès's farewell as possible future hope",
+            "He watches for Edmond's return and imagines violent resolution"
+          ]
+        },
+        {
+          "phase": "Defensive selfhood",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Later exposure shifts his center of gravity away from romance and toward preserving honor, status, and social survival.",
+          "key_moments": [
+            "Public scandal activates concern for reputation",
+            "His past betrayal becomes socially irreversible"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Fernand moves from attachment-based dependence to a defensive, coercive form of agency. The arc is not moral improvement; it is a shift from romantic fusion and grievance into retaliation, concealment, and status-preservation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "moral self-justification",
+      "axis_name": "From wounded grievance to exposed culpability",
+      "pole_start": "Fernand begins by rationalizing betrayal as a justified response to humiliation and loss.",
+      "pole_end": "He ends with his treachery publicly exposed but without any demonstrated remorse, confession, or ethical reckoning.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Justified revenge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He converts emotional pain into moral permission for betrayal, treating Edmond's removal as acceptable.",
+          "key_moments": [
+            "Jealous anguish turns into vengeful hostility",
+            "He joins the anonymous accusation against Edmond"
+          ]
+        },
+        {
+          "phase": "Passive moral drift",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He does not develop self-knowledge; instead, he lets circumstance and hope govern his conduct.",
+          "key_moments": [
+            "Dantès' disappearance gives temporary relief",
+            "Mercédès' farewell is read as emotional capital"
+          ]
+        },
+        {
+          "phase": "Public exposure",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "His earlier treachery becomes socially legible, but the available summaries show no inward reckoning.",
+          "key_moments": [
+            "The Yanina affair surfaces publicly",
+            "Scandal destroys concealment without showing repentance"
+          ]
+        }
+      ],
+      "evidence_summary": "Fernand's moral arc is one of exposure rather than reform: he begins by justifying betrayal and ends with that betrayal revealed, still psychologically unrepentant."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "hope-despair",
+      "axis_name": "From romantic desperation to threatened hope",
+      "pole_start": "Fernand starts in humiliation, rage, and near-total despair after Mercédès chooses Edmond.",
+      "pole_end": "He ends with hope displaced by disgrace, as public ruin overtakes the possibility of romantic fulfillment.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Humiliated desperation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Rejection leaves him emotionally overwhelmed, with hope reduced to fantasies of removing Edmond.",
+          "key_moments": [
+            "Jealous anguish over Mercédès and Edmond",
+            "Rising rage and vengefulness"
+          ]
+        },
+        {
+          "phase": "Suspended optimism",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Dantès' absence and Mercédès' farewell create a brief, guarded hope that time may make her available.",
+          "key_moments": [
+            "Dantès disappears",
+            "Mercédès' farewell encourages him"
+          ]
+        },
+        {
+          "phase": "Hope eclipsed",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "The emotional center shifts from romantic expectation to defensive alarm as scandal threatens his honor and family standing.",
+          "key_moments": [
+            "Yanina revelations surface",
+            "Public disgrace intensifies"
+          ]
+        }
+      ],
+      "evidence_summary": "Fernand briefly moves from despair into conditional hope, but that hope is later overwhelmed by exposure and social collapse."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "self-knowledge",
+      "axis_name": "From recognized jealousy to opaque concealment",
+      "pole_start": "Fernand begins aware of his jealousy and suffering, though not reflective enough to judge his own moral descent.",
+      "pole_end": "He ends still psychologically opaque, with no shown self-awareness, remorse, or insight into the meaning of his actions.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Aware but unexamined",
+          "chapter_range": [
+            1,
+            2
+          ],
+          "position_description": "He knows he is jealous and hurt, but interprets those feelings as justified.",
+          "key_moments": [
+            "Acknowledges pain over Mercédès",
+            "Converts suffering into revenge"
+          ]
+        },
+        {
+          "phase": "Opaque aftermath",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Once his past is exposed, the summaries provide no access to inner reckoning.",
+          "key_moments": [
+            "Public scandal unfolds without interior voice",
+            "No evidence of confession or remorse"
+          ]
+        }
+      ],
+      "evidence_summary": "Fernand shows emotional awareness early, but not self-knowledge; later he remains morally unreadable even as his past becomes public."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Fernand Mondego",
+      "target_character": "Mercédès",
+      "dimension_label": "intimacy-esteem",
+      "axis_name": "From possessive attachment to ruined bond",
+      "pole_start": "Fernand begins intensely attached to Mercédès in a dependent, resentful, possessive way.",
+      "pole_end": "He ends with the bond damaged by scandal and public ruin, with intimacy and trust effectively collapsed.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Jealous attachment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Mercédès's choice of Edmond triggers humiliation, envy, and betrayal.",
+          "key_moments": [
+            "Mercédès rejects Fernand and chooses Edmond",
+            "Fernand joins the plot against Edmond"
+          ]
+        },
+        {
+          "phase": "Fragile reopening",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Her farewell briefly suggests possible future attachment, but the hope remains insecure and dependent.",
+          "key_moments": [
+            "Mercédès' farewell strengthens him",
+            "He reads gratitude as possible future love"
+          ]
+        },
+        {
+          "phase": "Ruin and estrangement",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Public exposure of his past transforms the relationship into one marked by shame, distance, and collapse.",
+          "key_moments": [
+            "Scandal implicates his past betrayal",
+            "His honor and family standing are destroyed"
+          ]
+        }
+      ],
+      "evidence_summary": "Mercédès remains the emotional center of Fernand's early life, but the relationship moves from possessive longing to a bond fatally compromised by exposure and disgrace."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Fernand Mondego",
+      "target_character": "Edmond Dantès",
+      "dimension_label": "rival hatred",
+      "axis_name": "From rival obstacle to enduring enemy",
+      "pole_start": "Fernand begins as a jealous rival who sees Edmond as the man blocking his love and honor.",
+      "pole_end": "He ends with hostility unresolved, now folded into the larger catastrophe of Edmond's exposure of his past and the destruction of his own standing.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Conversion to hostility",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Fernand turns despair into active hatred and participates in anonymous denunciation.",
+          "key_moments": [
+            "Jealous hostility toward Edmond",
+            "Fernand carries away the accusation"
+          ]
+        },
+        {
+          "phase": "Suspended enmity",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Edmond's absence temporarily reduces immediate conflict but does not resolve the hostility.",
+          "key_moments": [
+            "Dantès disappears",
+            "Fernand's rage softens into waiting"
+          ]
+        },
+        {
+          "phase": "Enemy in absentia",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Even without direct interaction, Edmond/Monte Cristo becomes the force exposing Fernand's past and dismantling his public identity.",
+          "key_moments": [
+            "Monte Cristo orchestrates exposure",
+            "Fernand's disgrace deepens"
+          ]
+        }
+      ],
+      "evidence_summary": "Fernand's hostility toward Edmond begins as romantic rivalry and remains antagonistic, later shifting into reputational destruction rather than direct confrontation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Fernand Mondego",
+      "target_character": "Danglars",
+      "dimension_label": "instrumental alliance",
+      "axis_name": "From opportunistic accomplice to distant liability",
+      "pole_start": "Fernand begins as a tentative ally who values Danglars for his usefulness in the plot against Edmond.",
+      "pole_end": "He ends with Danglars no longer a meaningful source of support, reduced to indirect entanglement within scandal and manipulation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Shared resentment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Fernand sees Danglars as a useful partner in the denunciation scheme, though not someone he deeply trusts.",
+          "key_moments": [
+            "Danglars guides the accusation plot",
+            "Fernand participates in the scheme"
+          ]
+        },
+        {
+          "phase": "Indirect entanglement",
+          "chapter_range": [
+            10,
+            12
+          ],
+          "position_description": "Later chapters show Danglars as part of the same social field of exposure and collapse, but without direct relational development from Fernand's side.",
+          "key_moments": [
+            "No direct renewed alliance",
+            "Public scandal spreads through the same world"
+          ]
+        }
+      ],
+      "evidence_summary": "Danglars functions mainly as a tool in the initial conspiracy; the relationship never becomes intimate or stable, and later chapters add only indirect entanglement."
+    }
+  ]
+}

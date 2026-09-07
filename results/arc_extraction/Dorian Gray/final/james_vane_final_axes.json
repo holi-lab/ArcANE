@@ -1,0 +1,361 @@
+{
+  "character": "James Vane",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From protective attachment to isolated vengeance",
+          "set_b_axis": "From protective fusion to isolated pursuit",
+          "overlap_description": "Both describe the same core shift: James begins as a relationally defined protector of Sibyl and ends as a solitary avenger pursuing Dorian through surveillance and threat."
+        },
+        {
+          "set_a_axis": "From moral certainty to destabilized uncertainty",
+          "set_b_axis": "From absolute righteous certainty to shaken but unreformed doubt",
+          "overlap_description": "Both track James's erosion of certainty when his assumptions about Dorian are challenged, especially by the archway encounter and the uncanny testimony about Dorian's unchanged appearance."
+        },
+        {
+          "set_a_axis": "From righteous avenger to near-murderous self-recognition",
+          "set_b_axis": "From anxious protectiveness to fixed vengeance",
+          "overlap_description": "Both capture the same vengeance arc from protective concern into punitive violence, with Set A emphasizing moral self-recognition and Set B emphasizing the hardening of protectiveness into fixed revenge."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From righteous avenger to near-murderous self-recognition",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From anxious protectiveness to fixed vengeance",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From brotherly care to sacrificial guardianship",
+          "set_b_axis": "From familial tenderness to posthumous idealization",
+          "overlap_description": "Both describe James's bond with Sibyl as beginning in genuine affection and ending as a grief-frozen, duty-bound attachment that fuels revenge."
+        },
+        {
+          "set_a_axis": "From suspected predator to uncanny hunted enemy",
+          "set_b_axis": "From suspicious rival to hunted enemy",
+          "overlap_description": "Both trace the same hostility toward Dorian: initial suspicion becomes lethal vendetta, then covert pursuit and fearful vigilance."
+        },
+        {
+          "set_a_axis": "From filial anger to strained pity",
+          "set_b_axis": "From filial dependence to contemptuous distrust",
+          "overlap_description": "Both identify a damaged relationship with Mrs. Vane marked by distrust, disappointment, and some residual pity, though Set A stresses reconciliation more than Set B."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From filial anger to strained pity",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From filial dependence to contemptuous distrust",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion",
+      "axis_name": "From protective fusion to isolated pursuit",
+      "pole_start": "Communion-dominant protectiveness: James begins oriented toward Sibyl's welfare, family duty, and relational loyalty, defining himself through care and guardianship.",
+      "pole_end": "Agency-dominant isolation: he ends as a solitary avenger, acting through surveillance, confrontation, and punitive self-assertion rather than mutual care.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Protective communion",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James is strongly relationally oriented, with tenderness and alarm for Sibyl shaping his identity and behavior.",
+          "key_moments": [
+            "Warns Sibyl about her suitor",
+            "Feels protective concern for her safety",
+            "Frames his departure and return in terms of her welfare"
+          ]
+        },
+        {
+          "phase": "Protective duty hardens",
+          "chapter_range": [
+            4,
+            14
+          ],
+          "position_description": "After Sibyl's death and the revelation about his family, his care for her is increasingly routed through anger and solitary purpose.",
+          "key_moments": [
+            "Learns of Sibyl's death",
+            "Learns of his mother's compromised marriage history",
+            "Fixes his identity on avenging Sibyl"
+          ]
+        },
+        {
+          "phase": "Predatory pursuit",
+          "chapter_range": [
+            14,
+            18
+          ],
+          "position_description": "He becomes a watchful, forceful pursuer of Dorian, with communion narrowed to a single grievance and agency expressed as control and threat.",
+          "key_moments": [
+            "Confronts Dorian in the archway",
+            "Stalks Dorian after the opium-house testimony",
+            "Observes Dorian from concealment at Selby Royal",
+            "His pursuit ends in death"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree that James moves from relational protectiveness toward isolated vengeance. The merged reading emphasizes that this is not a full moral conversion but a hardening of care into solitary, punitive agency."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Certainty-Doubt",
+      "axis_name": "From moral certainty to shaken suspicion",
+      "pole_start": "Certain moral judgment: James begins convinced that he can identify danger clearly and that violence is justified if Sibyl is harmed.",
+      "pole_end": "Shaken suspicion: he loses simple certainty about Dorian and must operate from unstable, uncanny doubt rather than confident moral clarity.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "disillusionment",
+      "trajectory": [
+        {
+          "phase": "Initial certainty",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He treats the suitor as dangerous and trusts his own judgment as morally reliable.",
+          "key_moments": [
+            "Warns Sibyl about the stranger",
+            "Vows revenge if Dorian harms her"
+          ]
+        },
+        {
+          "phase": "Certainty damaged",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "The revelation about his mother's marriage destabilizes his confidence in family truth and moral order, though not yet his judgment about Dorian.",
+          "key_moments": [
+            "Confronts Mrs. Vane",
+            "Learns of his illegitimacy"
+          ]
+        },
+        {
+          "phase": "Moral shock and suspicion",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "The archway encounter and the opium-house testimony force him into uncertainty, making him more tactical and less certain about who deserves punishment.",
+          "key_moments": [
+            "Nearly kills the wrong man",
+            "Hears testimony that Dorian has not aged normally",
+            "Watches Dorian from concealment and recalibrates his pursuit"
+          ]
+        }
+      ],
+      "evidence_summary": "James's certainty is repeatedly undermined, but the result is not ethical growth so much as a shift from confident judgment to unstable suspicion. He becomes less sure, not more humane."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Protective Rage",
+      "axis_name": "From anxious protectiveness to fixed vengeance",
+      "pole_start": "Anxious protectiveness: James begins with fear for Sibyl's safety, jealousy, and a desire to shield her from exploitation.",
+      "pole_end": "Fixed vengeance: his protective feeling hardens into a singular punitive obsession with punishing the man he believes destroyed her.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Alarm and jealousy",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "His concern for Sibyl is emotionally mixed with jealousy and humiliation, but the dominant impulse is still to protect her.",
+          "key_moments": [
+            "Feels alarm about Sibyl's vulnerability",
+            "Suspects the suitor",
+            "Wants to keep her safe"
+          ]
+        },
+        {
+          "phase": "Grief-driven fixation",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "After Sibyl's death, protectiveness no longer has a living object and becomes vengeance; his emotional energy is redirected into tracking and punishing Dorian.",
+          "key_moments": [
+            "Learns of Sibyl's death",
+            "Pursues Dorian with lethal intent",
+            "Appears as a looming threat at the conservatory"
+          ]
+        }
+      ],
+      "evidence_summary": "James's violence is rooted in care for Sibyl, but that care becomes increasingly indistinguishable from punitive obsession. This axis captures the emotional fuel of his revenge most directly."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "James Vane",
+      "target_character": "Sibyl Vane",
+      "dimension_label": "Protective Bond",
+      "axis_name": "From familial tenderness to posthumous idealization",
+      "pole_start": "Warm sibling loyalty: James begins with deep affection, trust, and protective concern for Sibyl as a vulnerable younger sister.",
+      "pole_end": "Frozen idealization: by the end, Sibyl remains the emotional center of his identity only as memory and moral cause rather than as a living relationship.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Living protectiveness",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James is emotionally close to Sibyl, worried for her safety, and motivated by a desire to shield her from harm.",
+          "key_moments": [
+            "Warns about her suitor",
+            "Feels tenderness and alarm",
+            "Considers staying connected to her welfare"
+          ]
+        },
+        {
+          "phase": "Grief and fixation",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "Sibyl becomes the wound that organizes James's vengeance; the relationship is no longer reciprocal but memorial and obsessive.",
+          "key_moments": [
+            "Sibyl's death drives his rage",
+            "He pursues Dorian as her avenger"
+          ]
+        },
+        {
+          "phase": "Afterlife of loyalty",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "The relationship persists only as narrative residue: his loyalty to Sibyl is completed in death and no longer develops psychologically.",
+          "key_moments": [
+            "James is dead",
+            "Sibyl remains the basis of his avenger identity"
+          ]
+        }
+      ],
+      "evidence_summary": "James's bond with Sibyl is emotionally constant even as its form changes: affection becomes protective fixation, then grief-frozen idealization that fuels revenge."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "James Vane",
+      "target_character": "Dorian Gray",
+      "dimension_label": "Hostility-Vengeance",
+      "axis_name": "From suspicious rival to hunted enemy",
+      "pole_start": "Suspicious hostility: James initially sees Dorian as a dangerous, socially powerful suitor and possible corrupter of Sibyl.",
+      "pole_end": "Deadly vendetta: Dorian becomes the fixed object of James's pursuit, moral condemnation, and attempted murder.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Initial suspicion",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "James imagines the unknown suitor as morally suspect and threatening to Sibyl.",
+          "key_moments": [
+            "Distrusts the gentleman caller",
+            "Interprets him as a threat"
+          ]
+        },
+        {
+          "phase": "Vengeful pursuit",
+          "chapter_range": [
+            14,
+            15
+          ],
+          "position_description": "After Sibyl's death, Dorian is no longer merely suspicious but the target of lethal revenge; James stalks him and seeks confrontation.",
+          "key_moments": [
+            "Mistakenly confronts Dorian",
+            "Feels horror at possible misidentification",
+            "Continues pursuit after the opium-house testimony",
+            "Dorian sees his face at the conservatory window"
+          ]
+        },
+        {
+          "phase": "Extinguished threat",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "James's hostility ends with his death; the relationship ceases to be active from his side, though it remains consequential for Dorian.",
+          "key_moments": [
+            "James is found dead in the stable",
+            "Pursuit ends"
+          ]
+        }
+      ],
+      "evidence_summary": "James's relationship to Dorian externalizes his internal moral rigidity: it moves from suspicion to obsession to fatal pursuit, with no reconciliation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "James Vane",
+      "target_character": "Mrs. Vane",
+      "dimension_label": "Trust-Esteem",
+      "axis_name": "From filial anger to strained pity",
+      "pole_start": "Distrust and wounded esteem: James begins angry at his mother for secrecy and morally compromised family history.",
+      "pole_end": "Partial pity without restored trust: he softens toward her vulnerability, but the relationship remains damaged and morally uneasy.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Confrontation and accusation",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "He reacts to the revelation of illegitimacy with anger and a sense that his family has deceived him.",
+          "key_moments": [
+            "Confronts Mrs. Vane after learning she was never legally married"
+          ]
+        },
+        {
+          "phase": "Pity and partial softening",
+          "chapter_range": [
+            4,
+            4
+          ],
+          "position_description": "His anger is moderated by pity for his mother, but the relationship remains damaged rather than restored.",
+          "key_moments": [
+            "Is briefly softened by her vulnerability"
+          ]
+        }
+      ],
+      "evidence_summary": "This relationship changes only modestly, but it reinforces James's distrust of moral concealment and his sense of family injury, with pity never fully overcoming resentment."
+    }
+  ]
+}

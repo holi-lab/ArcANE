@@ -1,0 +1,986 @@
+{
+  "character": "Edmond Dantès",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From relationally embedded sailor to self-authoring avenger-protector",
+          "set_b_axis": "From innocent relational trust to sovereign, then humbled, interdependent agency",
+          "overlap_description": "Both track Edmond's movement from socially embedded trust and duty into powerful self-directed agency, then toward a chastened, more relationally responsible end-state."
+        },
+        {
+          "set_a_axis": "From trusting innocence to hard-won interpretive mastery",
+          "set_b_axis": "From moral innocence to disciplined vengeance and then to remorseful restraint",
+          "overlap_description": "Both identify the shift from innocence to knowledge/power after imprisonment, with revenge becoming possible through that new understanding and later being morally checked."
+        },
+        {
+          "set_a_axis": "From expectant fulfillment to wounded endurance and renewed hope",
+          "set_b_axis": "From shattered despair to disciplined hope and then to redemptive humility",
+          "overlap_description": "Both describe a hope/despair cycle: early optimism is shattered, then rebuilt into a more mature, restrained hope grounded in rescue and humility."
+        },
+        {
+          "set_a_axis": "From righteous revenge to chastened justice and care",
+          "set_b_axis": "From moral innocence to disciplined vengeance and then to remorseful restraint",
+          "overlap_description": "Both center the revenge arc, especially the later correction from punitive obsession toward mercy, restraint, and protection."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From righteous revenge to chastened justice and care",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From unguarded confidence to hyper-controlled mastery and finally to vulnerable self-knowledge",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From grateful pupil to internalized son of Faria",
+          "set_b_axis": "From desperate isolation to filial intellectual devotion",
+          "overlap_description": "Both treat Faria as the central father-mentor bond: from loneliness to total trust, education, inheritance, and internalized moral authority."
+        },
+        {
+          "set_a_axis": "From employer admiration to protective indebtedness",
+          "set_b_axis": "From loyal dependence to protective filial gratitude",
+          "overlap_description": "Both see Morrel as a stable moral anchor whose goodness Edmond repays through rescue and enduring protective loyalty."
+        },
+        {
+          "set_a_axis": "From promised marital intimacy to mournful emotional distance",
+          "set_b_axis": "From idealized betrothal to wounded, enduring love and remorse",
+          "overlap_description": "Both capture the loss-transformed bond with Mercédès: idealized love becomes sorrowful distance, remorse, and unresolved attachment."
+        },
+        {
+          "set_a_axis": "From old friction to sustained, strategic enmity",
+          "set_b_axis": "From wary colleague to contemptuous instrument of revenge",
+          "overlap_description": "Both describe Danglars as a long-term enemy whose relationship with Edmond hardens into strategic, indirect antagonism."
+        },
+        {
+          "set_a_axis": "From unsuspected official to exposed architect of betrayal",
+          "set_b_axis": "From trusted magistrate to concealed architect of ruin",
+          "overlap_description": "Both identify Villefort as the key legal betrayer, moving from presumed authority to exposed moral corruption and revenge target."
+        },
+        {
+          "set_a_axis": "From distant sympathy to protective guardianship",
+          "set_b_axis": "From rescued dependent to intimate emotional refuge",
+          "overlap_description": "Both show Edmond's bond with Haydée becoming protective and intimate, though B emphasizes emotional refuge more strongly."
+        },
+        {
+          "set_a_axis": "From benefactor's son to adopted son under protection",
+          "set_b_axis": "From admired youth to beloved son figure",
+          "overlap_description": "Both portray Maximilian as a son-like figure Edmond protects, consoles, and ultimately entrusts to a hopeful future."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From rescued dependent to cherished companion in departure",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From shadowed rivalry to exposed moral condemnation",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency communion",
+      "axis_name": "From trusting social embeddedness to humbled, interdependent agency",
+      "pole_start": "Begins as a socially open, duty-bound young man whose agency is expressed through loyalty, service, and faith that the world will reward merit and reciprocal bonds.",
+      "pole_end": "Ends as a powerful but chastened man who still acts decisively, yet now understands that agency must be limited by humility, mercy, Providence, and dependence on others he protects.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Open, merit-based belonging",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Edmond is confident, affectionate, and future-facing; his selfhood is embedded in captaincy hopes, marriage, family duty, and trust in Morrel and the moral order.",
+          "key_moments": [
+            "Returns with the Pharaon's cargo intact",
+            "Anticipates captaincy, marriage to Mercédès, and reunion with his father",
+            "Insists on seeing family before advancement"
+          ]
+        },
+        {
+          "phase": "Shattered dependence and isolation",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Imprisonment destroys his communal world and forces him into radical isolation, despair, and the first stirrings of self-reliance.",
+          "key_moments": [
+            "Prison abandonment and inspector indifference",
+            "Psychological collapse and suicidal calm",
+            "Answers Faria's scratching and regains contact"
+          ]
+        },
+        {
+          "phase": "Self-making through knowledge and strategy",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Through Faria, escape, and treasure, Edmond reconstructs himself as an intelligent, strategic agent capable of shaping events.",
+          "key_moments": [
+            "Studies under Faria",
+            "Learns of the treasure and becomes heir",
+            "Escapes and claims wealth as power"
+          ]
+        },
+        {
+          "phase": "Sovereign mastery and concealment",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "He becomes a hidden planner, benefactor, and judge, using disguise, wealth, and social systems to control outcomes and punish enemies.",
+          "key_moments": [
+            "Anonymous rescue of the Morrel family",
+            "Enters Parisian society under disguise",
+            "Uses staged revelations and indirect interventions"
+          ]
+        },
+        {
+          "phase": "Moral recoil and protective humility",
+          "chapter_range": [
+            11,
+            14
+          ],
+          "position_description": "Love, grief, and collateral damage force him to recognize limits; he redirects agency toward rescue, accepts divine supremacy, and withdraws.",
+          "key_moments": [
+            "Mercédès destabilizes his avenger identity",
+            "Protects Valentine and Maximilian",
+            "Admits he thought himself equal to God",
+            "Leaves with 'wait and hope'"
+          ]
+        }
+      ],
+      "evidence_summary": "Edmond moves from trusting social embeddedness into a phase of sovereign self-making, then into a humbled form of agency that remains strong but is subordinated to mercy, Providence, and relational responsibility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "innocence knowledge",
+      "axis_name": "From moral innocence to interpretive mastery and restrained judgment",
+      "pole_start": "Begins with a straightforward, trusting worldview that assumes merit, loyalty, and justice are visible and will be rewarded.",
+      "pole_end": "Ends with a deeply interpretive intelligence that can read hidden motives and systems, but now uses that knowledge with greater caution and moral restraint.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Naive moral legibility",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He assumes honorable conduct is visible and that affection, merit, and social order are stable facts.",
+          "key_moments": [
+            "Trusts Mercédès's fidelity",
+            "Believes Morrel's admiration will lead to promotion",
+            "Treats Danglars's hostility as limited"
+          ]
+        },
+        {
+          "phase": "Disillusionment through betrayal",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Imprisonment reveals that authority can misread, conceal, and destroy innocence; his trust in official justice collapses.",
+          "key_moments": [
+            "Inspector labels him dangerous",
+            "Experiences breakdown and despair"
+          ]
+        },
+        {
+          "phase": "Education in hidden structures",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "Faria teaches him to read history, evidence, and power; Edmond learns to interpret buried causes and concealed crimes.",
+          "key_moments": [
+            "Studies under Faria",
+            "Learns the treasure story",
+            "Reads Auteuil as an archive of crime"
+          ]
+        },
+        {
+          "phase": "Master reader of secrets",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "He becomes a specialist in uncovering guilt, corruption, and vulnerability, using interpretation as a form of power and judgment.",
+          "key_moments": [
+            "Deciphers Bertuccio's confession",
+            "Reads the Villefort household and Noirtier's silent will",
+            "Exposes Andrea, the buried infant, and Madame de Villefort's poison"
+          ]
+        },
+        {
+          "phase": "Knowledge tempered by caution",
+          "chapter_range": [
+            12,
+            14
+          ],
+          "position_description": "He still sees hidden truths, but now recognizes that knowledge must serve rescue and moral restraint, not only exposure.",
+          "key_moments": [
+            "Intervenes to save Valentine",
+            "Reveals himself to Maximilian",
+            "Returns to Faria's memory and ends with humility"
+          ]
+        }
+      ],
+      "evidence_summary": "Edmond's arc moves from trusting moral transparency to forensic interpretive mastery, and finally to a wiser use of knowledge that is tempered by mercy and restraint."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "hope despair",
+      "axis_name": "From shattered despair to disciplined hope and redemptive humility",
+      "pole_start": "Begins in emotional devastation: imprisonment, isolation, and betrayal destroy his earlier optimism and leave him near collapse.",
+      "pole_end": "Ends with a quieter, more mature hope grounded in rescue, love, and moral restraint rather than triumph.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Collapse into despair",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "He is crushed by imprisonment and uncertainty, moving through despair, rage, and spiritual survival.",
+          "key_moments": [
+            "Years of isolation",
+            "Prison indifference",
+            "Renewed will to live after meeting Faria"
+          ]
+        },
+        {
+          "phase": "Hope revived through possibility",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Faria, learning, and treasure restore a future to him; hope becomes active and strategic rather than innocent.",
+          "key_moments": [
+            "Meets Faria",
+            "Learns from him",
+            "Becomes heir to the Spada treasure"
+          ]
+        },
+        {
+          "phase": "Hope under strain",
+          "chapter_range": [
+            5,
+            11
+          ],
+          "position_description": "Hope is complicated by revenge, by the return of the past, and by the emotional cost of seeing former loved ones and enemies again.",
+          "key_moments": [
+            "Sees the Morcerfs and feels buried pain",
+            "Haydée and the Morrels offer refuge",
+            "Mercédès's plea destabilizes him"
+          ]
+        },
+        {
+          "phase": "Redemptive hope",
+          "chapter_range": [
+            12,
+            14
+          ],
+          "position_description": "He reorients hope toward saving others and preserving life, especially Valentine and Maximilian, rather than toward personal vindication.",
+          "key_moments": [
+            "Prevents murder and suicide",
+            "Restores the lovers' future",
+            "Withdraws after acts of mercy"
+          ]
+        }
+      ],
+      "evidence_summary": "Edmond's hope is destroyed, rebuilt, strained by revenge, and finally restored as a disciplined moral practice centered on the survival and happiness of others."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "vengeance mercy",
+      "axis_name": "From disciplined vengeance to chastened justice and care",
+      "pole_start": "Begins with suffering that crystallizes into a justified revenge mission against those who destroyed his life.",
+      "pole_end": "Ends with a more balanced ethic in which punishment is subordinated to mercy, rescue, and Providence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Vengeance born from injury",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "His suffering becomes an oath against Danglars, Fernand, and Villefort.",
+          "key_moments": [
+            "Breakdown in prison",
+            "Learns of lost years after escape",
+            "Swears revenge"
+          ]
+        },
+        {
+          "phase": "Vengeance as system",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "He executes revenge through indirect, theatrical mechanisms: financial ruin, exposure, and psychological terror.",
+          "key_moments": [
+            "Telegraph manipulation against Danglars",
+            "Auteuil revelation",
+            "Public exposure of Andrea and the Villefort household"
+          ]
+        },
+        {
+          "phase": "Moral crisis and corrective turn",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Valentine's poisoning and Maximilian's despair force him to see the human cost of detached punishment.",
+          "key_moments": [
+            "Calls himself a wicked angel",
+            "Intervenes to save Valentine",
+            "Takes responsibility for Maximilian"
+          ]
+        },
+        {
+          "phase": "Mercy and relinquishment",
+          "chapter_range": [
+            13,
+            14
+          ],
+          "position_description": "He no longer seeks total punitive mastery; instead he preserves life, honors memory, and departs in humility.",
+          "key_moments": [
+            "Revisits Château d'If and Faria's manuscript",
+            "Farewell letter balances grief and happiness",
+            "Leaves with Haydée and entrusts others to the future"
+          ]
+        }
+      ],
+      "evidence_summary": "Revenge is central to Edmond's middle arc, but the later chapters show a decisive ethical correction: he becomes less an avenger than a protector who recognizes Providence and limits."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "control vulnerability",
+      "axis_name": "From unguarded confidence to hyper-controlled mastery and vulnerable self-knowledge",
+      "pole_start": "Starts with open confidence and little self-protection; he assumes his happiness is secure and that others will act in good faith.",
+      "pole_end": "Ends with a more vulnerable but clearer self-awareness: he knows he is emotionally dependent, morally limited, and unable to fully control outcomes.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unprotected confidence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "He is buoyant, trusting, and not yet defensive; he does not see himself as a target.",
+          "key_moments": [
+            "Plans marriage and promotion openly",
+            "Feels only faint unease about Danglars"
+          ]
+        },
+        {
+          "phase": "Defensive reconstruction",
+          "chapter_range": [
+            2,
+            6
+          ],
+          "position_description": "Prison and betrayal force him into secrecy, discipline, disguise, and calculated control over information and timing.",
+          "key_moments": [
+            "Learns that innocence will not save him",
+            "Adopts patience and strategy from Faria",
+            "Uses wealth, disguise, and social performance"
+          ]
+        },
+        {
+          "phase": "Control as obsession",
+          "chapter_range": [
+            7,
+            10
+          ],
+          "position_description": "He becomes intensely managing and theatrical, trying to control every revelation, emotional response, and social consequence.",
+          "key_moments": [
+            "Orchestrates dinners, testimony, and symbolic exposures",
+            "Uses fear and shame as tools",
+            "Keeps his identity and motives masked"
+          ]
+        },
+        {
+          "phase": "Limits of control",
+          "chapter_range": [
+            11,
+            14
+          ],
+          "position_description": "Love, grief, and collateral damage reveal the limits of his mastery. He becomes more self-aware, less certain, and more willing to yield to mercy and providence.",
+          "key_moments": [
+            "Mercédès and Haydée destabilize his certainty",
+            "He grieves the consequences of revenge",
+            "He saves rather than destroys",
+            "He acknowledges divine supremacy"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis adds an important psychological layer: Edmond's movement from trust to control, and then to the recognition that control is incomplete and costly."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Edmond Dantès",
+      "target_character": "Abbé Faria",
+      "dimension_label": "mentor fatherhood",
+      "axis_name": "From desperate isolation to internalized father-mentor",
+      "pole_start": "Begins as a solitary prisoner with no meaningful companionship or guidance.",
+      "pole_end": "Ends with Faria as a permanent internal authority: a father-mentor whose teachings shape Edmond's identity, strategy, and moral vocabulary.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Isolation",
+          "chapter_range": [
+            2,
+            2
+          ],
+          "position_description": "Edmond is psychologically isolated and near despair before Faria appears.",
+          "key_moments": [
+            "Prison despair",
+            "Need for companionship and meaning"
+          ]
+        },
+        {
+          "phase": "Formation",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Faria becomes teacher, rescuer, and emotional father; Edmond's trust and admiration become total.",
+          "key_moments": [
+            "Deep admiration and dependence",
+            "Learns patience, strategy, and self-education",
+            "Faria reveals the treasure"
+          ]
+        },
+        {
+          "phase": "Inheritance and grief",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "Faria's death intensifies Edmond's loyalty into obligation and provides the material and moral basis for his new identity.",
+          "key_moments": [
+            "Faria dies in Edmond's arms",
+            "Edmond escapes using Faria's body",
+            "He inherits treasure and purpose"
+          ]
+        },
+        {
+          "phase": "Internalized guide",
+          "chapter_range": [
+            4,
+            14
+          ],
+          "position_description": "Faria's teachings become an inner voice during escape, revenge, and later self-reckoning, especially when Edmond revisits the prison and reassesses his life.",
+          "key_moments": [
+            "Uses Faria's lessons to survive and plan",
+            "Finds treasure and builds new identity",
+            "Returns to Château d'If and recovers Faria's manuscript"
+          ]
+        }
+      ],
+      "evidence_summary": "Faria is Edmond's most important relational transformation: from accidental fellow prisoner to mentor, father figure, inheritance source, and enduring internal conscience."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Edmond Dantès",
+      "target_character": "Monsieur Morrel",
+      "dimension_label": "gratitude loyalty",
+      "axis_name": "From loyal dependence to protective filial gratitude",
+      "pole_start": "Begins with warm trust in a benefactor and employer whose fairness confirms Edmond's faith in the world.",
+      "pole_end": "Ends with enduring reverence and protective devotion: Morrel becomes one of the few moral anchors Edmond actively preserves.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Initial loyalty",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Morrel is a trusted employer and moral authority; Edmond expects recognition through merit.",
+          "key_moments": [
+            "Receives Morrel's praise",
+            "Anticipates captaincy"
+          ]
+        },
+        {
+          "phase": "Surviving bond",
+          "chapter_range": [
+            2,
+            4
+          ],
+          "position_description": "Even in prison and after gaining treasure, Morrel remains a figure of loyalty and rescue, not revenge.",
+          "key_moments": [
+            "Morrel remains a source of hope",
+            "Edmond anonymously saves the Morrel family"
+          ]
+        },
+        {
+          "phase": "Protective attachment",
+          "chapter_range": [
+            7,
+            14
+          ],
+          "position_description": "Morrel and his family become a moral refuge and proof that goodness survives; Edmond's attachment becomes almost paternal.",
+          "key_moments": [
+            "Warm admiration for Maximilian and the Morrels",
+            "Continued concern for Morrel's happiness",
+            "Protects Maximilian from despair"
+          ]
+        }
+      ],
+      "evidence_summary": "Morrel remains one of the most stable and positive relationships in the novel, deepening from professional loyalty into protective, almost filial gratitude."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Edmond Dantès",
+      "target_character": "Mercédès",
+      "dimension_label": "love loss",
+      "axis_name": "From idealized betrothal to wounded, enduring love and remorse",
+      "pole_start": "Begins in hopeful, innocent love: Mercédès is the promised future and emotional center of Edmond's life.",
+      "pole_end": "Ends in sorrowful, mature attachment marked by loss, remorse, and the recognition that love survives even after vengeance has altered everything.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Promise",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Mercédès is the beloved future wife, part of Edmond's expected happiness.",
+          "key_moments": [
+            "Plans marriage",
+            "Radiant anticipation of reunion"
+          ]
+        },
+        {
+          "phase": "Loss and longing",
+          "chapter_range": [
+            2,
+            5
+          ],
+          "position_description": "Imprisonment and time transform love into longing and uncertainty, but it remains idealized.",
+          "key_moments": [
+            "Fear she may be gone forever",
+            "Lingering love amid revenge"
+          ]
+        },
+        {
+          "phase": "Emotional rupture",
+          "chapter_range": [
+            7,
+            13
+          ],
+          "position_description": "Mercédès's presence breaks through his avenger identity and forces him into grief, tenderness, and self-reproach, but not restoration.",
+          "key_moments": [
+            "Ball at Morcerf house",
+            "Refusal of food and drink as symbolic distance",
+            "Mercédès's plea interrupts revenge",
+            "He feels wounded pride and genuine tenderness"
+          ]
+        },
+        {
+          "phase": "Final separation",
+          "chapter_range": [
+            14,
+            14
+          ],
+          "position_description": "He leaves her behind as part of the life he cannot recover, choosing peace over restoration.",
+          "key_moments": [
+            "Farewell letter",
+            "Departure with Haydée"
+          ]
+        }
+      ],
+      "evidence_summary": "Mercédès is the relationship that most clearly reveals Edmond's split between revenge and human attachment. The bond does not resolve into reunion; it remains emotionally real but irrecoverable."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Edmond Dantès",
+      "target_character": "Danglars",
+      "dimension_label": "suspicion contempt",
+      "axis_name": "From wary colleague to contemptuous instrument of revenge",
+      "pole_start": "Begins with polite caution and a faint sense that Danglars may be hostile.",
+      "pole_end": "Ends with cold contempt and strategic use: Danglars is no longer a peer but a manipulable target.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Early wariness",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Edmond senses Danglars' hostility but remains restrained and professional.",
+          "key_moments": [
+            "Faint undercurrent of unease around Danglars"
+          ]
+        },
+        {
+          "phase": "Confirmed treachery",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Suspicion hardens into certainty that Danglars participated in the betrayal.",
+          "key_moments": [
+            "Identifies Danglars as conspirator",
+            "Hatred and revenge sharpen"
+          ]
+        },
+        {
+          "phase": "Instrumental humiliation",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "Danglars is handled through financial and social manipulation rather than direct confrontation.",
+          "key_moments": [
+            "Uses wealth and social position against him",
+            "Treats him as greedy and easy to manipulate"
+          ]
+        }
+      ],
+      "evidence_summary": "Danglars moves from a suspicious colleague to a contemptible object of Edmond's strategic revenge, with trust and esteem collapsing early and staying low."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Edmond Dantès",
+      "target_character": "Villefort",
+      "dimension_label": "trust betrayal",
+      "axis_name": "From trusted magistrate to concealed architect of ruin",
+      "pole_start": "Begins with trust, gratitude, and reliance on Villefort as a legal authority who should protect justice.",
+      "pole_end": "Ends in cold hostility toward Villefort as the emblem of hidden guilt, domestic corruption, and moral failure, even as Edmond's concern for Valentine complicates pure revenge.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Trust and expectation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Villefort is not yet an enemy; Edmond assumes the legal order will work properly.",
+          "key_moments": [
+            "No suspicion of legal betrayal",
+            "Faith in justice remains intact"
+          ]
+        },
+        {
+          "phase": "Betrayal recognized",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Imprisonment and later knowledge transform Villefort into the likely architect of Edmond's ruin.",
+          "key_moments": [
+            "Stunned betrayal after the denunciation",
+            "Latent hatred forms"
+          ]
+        },
+        {
+          "phase": "Targeted exposure",
+          "chapter_range": [
+            4,
+            10
+          ],
+          "position_description": "Villefort becomes a central target in Edmond's revenge, especially through Auteuil, poison, and domestic collapse.",
+          "key_moments": [
+            "Auteuil revelations",
+            "Madame de Villefort's poison",
+            "Staged exposure and psychological pressure"
+          ]
+        },
+        {
+          "phase": "Moral shock and partial reversal",
+          "chapter_range": [
+            11,
+            14
+          ],
+          "position_description": "Valentine's poisoning forces Edmond to move from pure antagonism toward protective intervention, though Villefort remains morally condemned.",
+          "key_moments": [
+            "Mercédès's plea and the duel context",
+            "Deaths in the Villefort household",
+            "Saves Valentine and recognizes vengeance has gone too far"
+          ]
+        }
+      ],
+      "evidence_summary": "Villefort is the key legal betrayer in Edmond's arc: from presumed protector of justice to exposed source of ruin, with later protective concern for Valentine complicating but not erasing hostility."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Edmond Dantès",
+      "target_character": "Valentine de Villefort",
+      "dimension_label": "protective concern",
+      "axis_name": "From distant sympathy to protective guardianship",
+      "pole_start": "Begins with no direct relationship, only a growing awareness of Valentine as a victim within the Villefort household.",
+      "pole_end": "Ends with intense protective care, trust, and a quasi-paternal commitment to save her life and future.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "First sympathetic recognition",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "He sees her as isolated and trapped, which softens his view of her household.",
+          "key_moments": [
+            "Hears Valentine describe her situation",
+            "Observes her emotional isolation"
+          ]
+        },
+        {
+          "phase": "Strategic respect",
+          "chapter_range": [
+            8,
+            8
+          ],
+          "position_description": "Noirtier's resistance and Valentine's loyalty make her more legible as innocent and worthy of protection.",
+          "key_moments": [
+            "Witnesses Noirtier's silent will"
+          ]
+        },
+        {
+          "phase": "Active rescue",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "When poisoning is revealed, Edmond becomes urgently protective and intervenes repeatedly.",
+          "key_moments": [
+            "Morrel reveals Valentine is being poisoned",
+            "Monte Cristo tests the drink himself",
+            "He saves Valentine from the poison"
+          ]
+        },
+        {
+          "phase": "Redeemed future",
+          "chapter_range": [
+            12,
+            14
+          ],
+          "position_description": "He entrusts her future to Maximilian and includes her in the circle of lives he has chosen to preserve.",
+          "key_moments": [
+            "Valentine's apparent death and later restoration",
+            "Farewell letter to Morrel and Valentine"
+          ]
+        }
+      ],
+      "evidence_summary": "Valentine is one of the clearest examples of Edmond's shift from avenging observer to guardian. The relationship is deeply protective and morally restorative."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Edmond Dantès",
+      "target_character": "Maximilian Morrel",
+      "dimension_label": "paternal care",
+      "axis_name": "From benefactor's son to adopted son under protection",
+      "pole_start": "Begins indirectly, as the son of Edmond's beloved benefactor Morrel, with no personal bond yet formed.",
+      "pole_end": "Ends as a son-like figure whom Edmond actively shelters, consoles, and entrusts to a hopeful future.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Indirect inheritance of loyalty",
+          "chapter_range": [
+            3,
+            4
+          ],
+          "position_description": "Edmond's rescue of M. Morrel lays the groundwork for later attachment to Maximilian.",
+          "key_moments": [
+            "Saves M. Morrel from bankruptcy and suicide"
+          ]
+        },
+        {
+          "phase": "Recognition through grief",
+          "chapter_range": [
+            11,
+            12
+          ],
+          "position_description": "Maximilian's despair after Valentine's apparent death awakens Edmond's compassion and responsibility.",
+          "key_moments": [
+            "Morrel reveals Valentine's poisoning",
+            "Maximilian collapses in grief"
+          ]
+        },
+        {
+          "phase": "Adoption and care",
+          "chapter_range": [
+            12,
+            12
+          ],
+          "position_description": "Edmond reveals himself as the benefactor and becomes Maximilian's emotional anchor.",
+          "key_moments": [
+            "Reveals himself as Edmond Dantès",
+            "Supports Maximilian's recovery and suicide prevention"
+          ]
+        },
+        {
+          "phase": "Entrusted future",
+          "chapter_range": [
+            14,
+            14
+          ],
+          "position_description": "He leaves Maximilian with the injunction to wait and hope, completing a paternal transfer of hope and duty.",
+          "key_moments": [
+            "Farewell letter",
+            "Wait and hope"
+          ]
+        }
+      ],
+      "evidence_summary": "Maximilian becomes the clearest living recipient of Edmond's restored capacity for care. Their bond transforms Edmond from avenger into guardian-father."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_08",
+      "source_character": "Edmond Dantès",
+      "target_character": "Haydée",
+      "dimension_label": "protective intimacy",
+      "axis_name": "From rescued dependent to cherished companion in departure",
+      "pole_start": "Begins with Haydée as a protected dependent whose suffering Edmond manages and honors.",
+      "pole_end": "Ends with a transformed bond of gratitude and intimacy, marked by departure together rather than simple restoration to the old world.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Protector and interpreter",
+          "chapter_range": [
+            5,
+            10
+          ],
+          "position_description": "He carefully controls the disclosure of her past and preserves her dignity.",
+          "key_moments": [
+            "Reveals Haydée to Albert",
+            "Lets her recount Ali Tepelini's destruction under controlled conditions"
+          ]
+        },
+        {
+          "phase": "Household of care",
+          "chapter_range": [
+            12,
+            12
+          ],
+          "position_description": "Her presence is part of Edmond's domestic sphere of protection and trust.",
+          "key_moments": [
+            "Haydée noted in the household around Maximilian"
+          ]
+        },
+        {
+          "phase": "Separation with gratitude",
+          "chapter_range": [
+            14,
+            14
+          ],
+          "position_description": "He departs with her, but the relationship remains emotionally guarded and transformed rather than fully resolved.",
+          "key_moments": [
+            "Farewell letter",
+            "Edmond departs with Haydée"
+          ]
+        }
+      ],
+      "evidence_summary": "Haydée is a significant relational figure because Edmond protects, curates, and ultimately departs with her. The bond is intimate but guarded, and its emotional meaning remains somewhat unresolved."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_09",
+      "source_character": "Edmond Dantès",
+      "target_character": "Fernand Mondego / Count of Morcerf",
+      "dimension_label": "rival hatred",
+      "axis_name": "From shadowed rivalry to exposed moral condemnation",
+      "pole_start": "Begins as a vague rival and possible accomplice, not yet fully analyzed.",
+      "pole_end": "Ends as a fully condemned enemy whose betrayal is publicly exposed and morally annihilated.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Suspicion",
+          "chapter_range": [
+            2,
+            3
+          ],
+          "position_description": "Fernand is increasingly seen as a rival and possible accomplice in Edmond's betrayal.",
+          "key_moments": [
+            "Suspicion of Fernand's role in betrayal"
+          ]
+        },
+        {
+          "phase": "Recognition and fixation",
+          "chapter_range": [
+            5,
+            7
+          ],
+          "position_description": "The Morcerf household, the portrait, and Haydée's reactions make Fernand a deeply personal target.",
+          "key_moments": [
+            "Portrait scene triggers buried pain",
+            "Haydée's reaction confirms guilt",
+            "Hostility intensifies"
+          ]
+        },
+        {
+          "phase": "Public exposure and collapse",
+          "chapter_range": [
+            8,
+            11
+          ],
+          "position_description": "Edmond engineers the revelation of Fernand's past, leading to disgrace and collapse; hatred remains mixed with recognition of vengeance's cost.",
+          "key_moments": [
+            "Haydée's testimony",
+            "Morcerf's social ruin",
+            "Mercédès's plea and Edmond's emotional destabilization"
+          ]
+        }
+      ],
+      "evidence_summary": "Fernand becomes one of Edmond's most emotionally charged enemies because the betrayal is tied to love, memory, and the destruction of a shared past."
+    }
+  ]
+}

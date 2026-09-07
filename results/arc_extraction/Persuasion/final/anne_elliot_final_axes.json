@@ -1,0 +1,633 @@
+{
+  "character": "Anne Elliot",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From self-effacing dependence to emotionally integrated agency",
+          "set_b_axis": "From self-effacing resignation to relationally empowered agency",
+          "overlap_description": "Both describe Anne’s movement from quiet self-erasure and accommodation toward a more self-possessed agency that remains relational rather than domineering."
+        },
+        {
+          "set_a_axis": "From diminished self-concept to restored personal value",
+          "set_b_axis": "From muted self-doubt to clarified self-trust",
+          "overlap_description": "Both track Anne’s internal recovery of self-regard: she begins socially minimized and ends with stronger confidence in her own worth and perceptions."
+        },
+        {
+          "set_a_axis": "From over-obedient prudence to discriminating moral confidence",
+          "set_b_axis": "From over-cautious prudence to chastened romantic conviction",
+          "overlap_description": "Both focus on Anne revising the meaning of prudence, moving away from submissive deference toward mature, independent judgment that recognizes the value of constancy and feeling."
+        },
+        {
+          "set_a_axis": "From resigned loss to hopeful emotional fulfillment",
+          "set_b_axis": "From settled melancholy to sustained hopeful happiness",
+          "overlap_description": "Both capture Anne’s emotional movement from long sadness and resignation toward fulfilled, secure happiness at the novel’s end."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From resigned loss to hopeful emotional fulfillment",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From muted self-doubt to clarified self-trust",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From wounded estrangement to reciprocal trust and love",
+          "set_b_axis": "From wounded separation to reciprocal reunion",
+          "overlap_description": "Both describe the central Anne-Wentworth arc: a painful separation that becomes restored mutual love, trust, and emotional equality."
+        },
+        {
+          "set_a_axis": "From dependent confidence to respectful independence",
+          "set_b_axis": "From deferential dependence to respectful independence",
+          "overlap_description": "Both show Anne’s relationship with Lady Russell shifting from near-dependence and authority to affectionate but autonomous respect."
+        },
+        {
+          "set_a_axis": "From cautious admiration to settled distrust",
+          "set_b_axis": "From cautious social admiration to firm moral repudiation",
+          "overlap_description": "Both track Anne’s view of Mr Elliot from polite openness and attraction to clear moral rejection after his duplicity is exposed."
+        },
+        {
+          "set_a_axis": "From renewed sympathy to trusted moral alliance",
+          "set_b_axis": "From sympathetic acquaintance to trusted moral confidante",
+          "overlap_description": "Both describe Mrs Smith becoming a trusted, morally clarifying friend whose suffering and testimony matter deeply to Anne."
+        },
+        {
+          "set_a_axis": "From brief intellectual contact to respectful but secondary attachment",
+          "set_b_axis": "From pity-interest to mild romantic possibility",
+          "overlap_description": "Both treat Benwick as a minor but meaningful relational axis: a brief sympathetic/intellectual connection that never displaces Wentworth."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency-communion",
+      "axis_name": "From self-effacing dependence to relationally empowered agency",
+      "pole_start": "Anne begins socially diminished, deferential, and accustomed to letting others’ wishes override her own. Her agency is real but muted, expressed through quiet usefulness, restraint, and endurance rather than self-assertion.",
+      "pole_end": "Anne ends with a stronger, self-possessed agency that remains warmly relational: she can speak her feelings, trust her judgment, and act decisively without losing tenderness, loyalty, or attentiveness to others.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Marginalized endurance",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Anne is overlooked in her family and has little formal power. She survives by accommodation, patience, and usefulness, maintaining moral steadiness while suppressing her own preferences.",
+          "key_moments": [
+            "Family neglect and being treated as secondary",
+            "Her advice is overridden in family decisions",
+            "She manages Uppercross tensions through quiet mediation"
+          ]
+        },
+        {
+          "phase": "Useful but constrained",
+          "chapter_range": [
+            6,
+            12
+          ],
+          "position_description": "Anne’s agency becomes more visible in practical crises and emotional interpretation, but it is still mostly exercised in service of others. She is competent and steady, yet often valued chiefly for what she can do.",
+          "key_moments": [
+            "She responds effectively at Lyme during the accident",
+            "She offers moral guidance to Benwick",
+            "Wentworth increasingly relies on her judgment"
+          ]
+        },
+        {
+          "phase": "Self-trust and voiced feeling",
+          "chapter_range": [
+            13,
+            21
+          ],
+          "position_description": "Anne increasingly trusts her own perceptions and begins to act from inward conviction rather than mere duty. Her emotional life becomes less hidden as she recognizes her love and participates in the decisive exchange with Wentworth.",
+          "key_moments": [
+            "She reads social motives more actively, especially around Mr Elliot",
+            "She grows more open in her preferences and feelings",
+            "Her conversation with Harville and Wentworth’s letter bring direct self-expression"
+          ]
+        },
+        {
+          "phase": "Integrated agency in love and judgment",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "By the end, Anne’s agency is no longer opposed to communion. She can love, choose, and judge without losing emotional warmth, settling into calm self-command and mutual attachment.",
+          "key_moments": [
+            "She returns to the party composed and secure",
+            "She pities Lady Russell without resentment",
+            "She enters a future shaped by mutual choice"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne’s arc moves from self-effacement and social invisibility toward a more integrated selfhood. She remains relational throughout, but by the end she can act and speak from her own convictions without severing connection to others."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "self-worth",
+      "axis_name": "From diminished self-concept to restored personal value",
+      "pole_start": "Anne begins with a deeply diminished sense of self-worth: she is treated as faded, secondary, and of little consequence, and she internalizes much of that neglect into a quiet assumption that she is less visible, less admired, and less entitled to desire.",
+      "pole_end": "Anne ends with a restored sense of value: she knows she is loved, admired, and morally worthy. Her self-esteem remains tender, but it is no longer dependent on family approval, rank, or external validation.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Internalized insignificance",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Repeated family neglect and comparison with Elizabeth reinforce Anne’s sense that she is overlooked and no longer socially prized.",
+          "key_moments": [
+            "She is repeatedly treated as 'only Anne'",
+            "Elizabeth’s beauty and centrality contrast with her own invisibility",
+            "The broken engagement deepens regret and self-reproach"
+          ]
+        },
+        {
+          "phase": "Worth through usefulness",
+          "chapter_range": [
+            6,
+            15
+          ],
+          "position_description": "Anne gains moments of competence and usefulness, but these often confirm that she is valued instrumentally rather than personally. Her self-worth improves only partially because it is still tied to service and being needed.",
+          "key_moments": [
+            "She takes charge in crisis and is praised for steadiness",
+            "Wentworth values her judgment, but she fears she is only useful",
+            "Mrs Smith and Wentworth begin to validate her more fully"
+          ]
+        },
+        {
+          "phase": "Recognition as lovable and admirable",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "Anne increasingly receives evidence that she is not merely useful but genuinely valued: Wentworth loves her, Benwick admires her mind, and her own judgment proves sound. Her self-regard becomes steadier and less apologetic.",
+          "key_moments": [
+            "She realizes her feelings are alive and meaningful",
+            "Wentworth’s jealousy confirms her significance to him",
+            "The letter makes her happiness and worth explicit"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne’s self-concept moves from habitual diminishment toward secure worth. The novel repeatedly tests whether she can feel valuable without rank, beauty, or family support, and by the end she can."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "prudence-romance",
+      "axis_name": "From over-cautious prudence to chastened romantic conviction",
+      "pole_start": "Anne starts with an internalized belief that prudence, restraint, and deference to authority are safest, even when they suppress desire and damage happiness.",
+      "pole_end": "Anne ends believing that prudence without emotional truth is incomplete; she still values judgment, but now trusts constancy, feeling, and the claims of love more fully.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Prudential inheritance",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Her early self-concept is shaped by having been 'forced into prudence.' She accepts the logic of caution, even as she privately suffers from it.",
+          "key_moments": [
+            "Family and Lady Russell’s authority define her early position",
+            "She frames the broken engagement as a prudent sacrifice",
+            "Memory of Wentworth reopens the emotional cost"
+          ]
+        },
+        {
+          "phase": "Prudence under pressure",
+          "chapter_range": [
+            5,
+            12
+          ],
+          "position_description": "Repeated contact with Wentworth and the emotional consequences of his presence strain her old prudential framework. She becomes more aware that caution can conceal fear and that feeling may be more truthful than social wisdom.",
+          "key_moments": [
+            "Wentworth’s return makes the past emotionally active again",
+            "The Lyme crisis reveals the value of practical feeling over abstract firmness",
+            "She notices the irony of preaching patience while privately longing"
+          ]
+        },
+        {
+          "phase": "Romantic vindication",
+          "chapter_range": [
+            13,
+            22
+          ],
+          "position_description": "Her earlier sacrifice is morally re-evaluated. She does not reject prudence altogether, but she now sees that love and constancy were right to matter, and that her youthful attachment was not foolish in the way she once feared.",
+          "key_moments": [
+            "She grows suspicious of socially polished but insincere alternatives",
+            "Mrs Smith’s account of Mr Elliot sharpens her moral discrimination",
+            "Wentworth’s letter confirms that constancy can survive time and separation"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne revises prudence rather than abandoning it: she moves from accepting caution as the highest good to recognizing that excessive caution can impoverish life, while enduring love and mutual recognition deserve trust."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "self-trust",
+      "axis_name": "From muted self-doubt to clarified self-trust",
+      "pole_start": "Anne begins with a low sense of personal weight: she is accustomed to being overlooked, and her own judgment is present but not yet fully trusted as socially authoritative.",
+      "pole_end": "Anne ends with firmer confidence in her own perceptions, moral discrimination, and emotional truth, even when these differ from family or society.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Overlooked intelligence",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "She knows she is sensible, but her intelligence is largely private and unvalidated. She sees clearly, yet others do not treat her judgment as important.",
+          "key_moments": [
+            "Her advice is ignored in family decisions",
+            "She privately prefers honesty and practicality over vanity",
+            "She recognizes the narrowness of her social world"
+          ]
+        },
+        {
+          "phase": "Interpretive testing",
+          "chapter_range": [
+            6,
+            15
+          ],
+          "position_description": "Anne repeatedly tests her own perceptions against events: Wentworth’s behavior, the Musgroves, Benwick, Mr Elliot, and Mrs Smith all become occasions for judgment. She becomes more confident that her instincts are often right.",
+          "key_moments": [
+            "She reads Wentworth’s conduct for signs of feeling",
+            "She judges the Lyme and Bath social worlds with increasing irony",
+            "Mrs Smith’s revelations validate her suspicions about Mr Elliot"
+          ]
+        },
+        {
+          "phase": "Confirmed self-trust",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "Her interpretations are borne out by events, especially regarding Wentworth and Mr Elliot. She ends able to trust her own moral and emotional reading of the world without needing family approval.",
+          "key_moments": [
+            "She correctly infers the significance of Wentworth’s altered manner",
+            "She recognizes Mr Elliot’s duplicity",
+            "Wentworth’s letter confirms the truth of her hopes"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne’s arc includes a substantial increase in self-trust: she begins as someone whose intelligence is socially minimized and ends as someone whose judgments are repeatedly validated and internally secure."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "melancholy-hope",
+      "axis_name": "From settled melancholy to secure hopeful happiness",
+      "pole_start": "Anne begins in habitual sadness, with emotional life organized around loss, restraint, and the memory of what was given up.",
+      "pole_end": "Anne ends in secure romantic happiness, tempered by realism about the future and the fragility of joy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Habitual sadness",
+          "chapter_range": [
+            1,
+            5
+          ],
+          "position_description": "Her emotional baseline is quiet melancholy: she is neglected, inward, and resigned, with hope only faintly present.",
+          "key_moments": [
+            "Opening portrait of neglect and self-effacement",
+            "Wentworth’s possible return reawakens feeling",
+            "Uppercross social life remains emotionally taxing"
+          ]
+        },
+        {
+          "phase": "Agitated longing",
+          "chapter_range": [
+            6,
+            18
+          ],
+          "position_description": "Hope becomes active but unstable. She oscillates between tenderness, jealousy, mortification, and expectation as Wentworth’s presence becomes central to her inner life.",
+          "key_moments": [
+            "First reunion wounds and excites her",
+            "Lyme and Bath intensify her emotional suspense",
+            "The concert and letter produce near-overwhelming hope"
+          ]
+        },
+        {
+          "phase": "Fulfilled but sober happiness",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "The revelation about Mr Elliot clears away false alternatives, and Wentworth’s letter secures her happiness. Her joy is reflective rather than naive, aware of risk and future uncertainty.",
+          "key_moments": [
+            "Mrs Smith’s disclosures disillusion her about Mr Elliot",
+            "Wentworth’s letter confirms mutual love",
+            "She ends with happiness tempered by realism"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne’s emotional arc moves from chronic melancholy through intense suspense to stable, earned happiness, with realism preserved throughout."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Anne Elliot",
+      "target_character": "Captain Frederick Wentworth",
+      "dimension_label": "distance-reunion",
+      "axis_name": "From wounded separation to reciprocal reunion",
+      "pole_start": "Anne begins emotionally separated from Wentworth: he is a painful memory, a lost attachment, and a source of private regret rather than present reciprocity.",
+      "pole_end": "Anne ends in confirmed mutual love and engagement, with emotional distance replaced by restored intimacy and trust.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Dormant attachment",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Wentworth is absent but emotionally central in memory. Anne’s feelings are hidden, regretful, and unresolved.",
+          "key_moments": [
+            "His possible return revives old feeling",
+            "She revises her judgment of the broken engagement"
+          ]
+        },
+        {
+          "phase": "Painful proximity",
+          "chapter_range": [
+            5,
+            12
+          ],
+          "position_description": "His return makes the relationship emotionally active but unstable. Anne reads his reserve as possible resentment, while his attention to others intensifies her pain.",
+          "key_moments": [
+            "First meetings in Uppercross",
+            "His apparent coldness and attention to Louisa",
+            "The Lyme crisis reveals his reliance on her judgment"
+          ]
+        },
+        {
+          "phase": "Hope under uncertainty",
+          "chapter_range": [
+            13,
+            20
+          ],
+          "position_description": "Anne becomes increasingly convinced that his feelings persist, though she cannot yet know their outcome. The concert and their mutual attention create intense suspense.",
+          "key_moments": [
+            "Bath encounters heighten emotional tension",
+            "His speech and withdrawal at the concert",
+            "Her acute sensitivity to his looks and movements"
+          ]
+        },
+        {
+          "phase": "Reunion",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Wentworth’s letter and the social acceptance of the engagement transform the relationship into open reciprocity. Anne’s hope becomes secure happiness.",
+          "key_moments": [
+            "The letter declaring enduring love",
+            "Her immediate emotional reversal into joy",
+            "The engagement is socially settled"
+          ]
+        }
+      ],
+      "evidence_summary": "This is Anne’s central relational arc: from loss and silence to mutual recognition, with repeated phases of hope, misreading, and confirmation."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Anne Elliot",
+      "target_character": "Lady Russell",
+      "dimension_label": "obedience-autonomy",
+      "axis_name": "From deferential dependence to respectful independence",
+      "pole_start": "Anne begins deeply trusting Lady Russell as a surrogate maternal authority and moral guide, with her own judgment subordinated to Lady Russell’s prudence.",
+      "pole_end": "Anne ends still affectionate and respectful, but no longer governed by Lady Russell’s judgment; she can disagree while preserving love.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Trusted authority",
+          "chapter_range": [
+            1,
+            4
+          ],
+          "position_description": "Lady Russell is Anne’s closest confidante and moral anchor. Anne values her highly and initially accepts her prudential influence.",
+          "key_moments": [
+            "Lady Russell helps shape the family’s decisions",
+            "Anne’s broken engagement is tied to Lady Russell’s advice"
+          ]
+        },
+        {
+          "phase": "Quiet divergence",
+          "chapter_range": [
+            5,
+            15
+          ],
+          "position_description": "Anne remains loyal, but her own experience increasingly diverges from Lady Russell’s assumptions. She begins to see that Lady Russell can be mistaken, especially about feeling and character.",
+          "key_moments": [
+            "Anne’s private hope about Wentworth grows",
+            "She notices differences in judgment about Benwick and Mr Elliot",
+            "She becomes wary of Lady Russell’s social assumptions"
+          ]
+        },
+        {
+          "phase": "Corrective independence",
+          "chapter_range": [
+            16,
+            22
+          ],
+          "position_description": "Anne no longer lets Lady Russell’s views determine her own. She still loves her, but she can correct her, protect her from deception, and retain her own moral center.",
+          "key_moments": [
+            "Mrs Smith’s revelations force a reassessment of Mr Elliot",
+            "Anne intends to warn Lady Russell",
+            "She ends with self-possession rather than submission"
+          ]
+        }
+      ],
+      "evidence_summary": "Anne’s relationship with Lady Russell matures rather than collapses: she moves from filial deference to affectionate independence, keeping trust but reducing authority."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Anne Elliot",
+      "target_character": "Mr Elliot",
+      "dimension_label": "admiration-distrust",
+      "axis_name": "From cautious social admiration to firm moral repudiation",
+      "pole_start": "Anne initially finds Mr Elliot polished, intelligent, and socially pleasing, though never fully trusted.",
+      "pole_end": "Anne ends convinced that he is insincere, self-serving, and morally dangerous.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Polite interest",
+          "chapter_range": [
+            13,
+            15
+          ],
+          "position_description": "Anne is impressed by his manners and intelligence and briefly entertains the social fantasy that he might be a suitable match or ally.",
+          "key_moments": [
+            "First evening at Camden Place goes well",
+            "He appears agreeable and attentive",
+            "The Kellynch/Lady Elliot fantasy briefly tempts her"
+          ]
+        },
+        {
+          "phase": "Suspicion grows",
+          "chapter_range": [
+            16,
+            18
+          ],
+          "position_description": "As Wentworth re-enters her life, Mr Elliot becomes less central and more suspect. His attentions feel strategic and obstructive rather than genuinely affectionate.",
+          "key_moments": [
+            "Anne notices his possible motives toward Elizabeth",
+            "His presence complicates her hopes with Wentworth"
+          ]
+        },
+        {
+          "phase": "Exposure and rejection",
+          "chapter_range": [
+            19,
+            22
+          ],
+          "position_description": "Mrs Smith’s revelations confirm Anne’s worst suspicions. She now sees him as manipulative, selfish, and unworthy of trust or esteem.",
+          "key_moments": [
+            "Mrs Smith reveals his conduct toward her and others",
+            "Anne resolves to warn Lady Russell",
+            "He is fully displaced by Wentworth as emotional center"
+          ]
+        }
+      ],
+      "evidence_summary": "Mr Elliot’s arc in Anne’s mind is a clear reversal: from socially attractive possibility to morally repudiated threat."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Anne Elliot",
+      "target_character": "Mrs Smith",
+      "dimension_label": "sympathy-intimacy",
+      "axis_name": "From sympathetic acquaintance to trusted moral confidante",
+      "pole_start": "Anne begins with polite concern and curiosity toward Mrs Smith, seeing her as unfortunate but not yet central.",
+      "pole_end": "Anne ends in warm gratitude and moral intimacy, valuing Mrs Smith as a source of truth and resilience.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Respectful sympathy",
+          "chapter_range": [
+            15,
+            16
+          ],
+          "position_description": "Anne is moved by Mrs Smith’s cheerfulness under suffering and begins to admire her deeply.",
+          "key_moments": [
+            "First substantial visit and conversation",
+            "Anne recognizes Mrs Smith’s fortitude and wit"
+          ]
+        },
+        {
+          "phase": "Trusted disclosure",
+          "chapter_range": [
+            19,
+            20
+          ],
+          "position_description": "Mrs Smith’s revelations about Mr Elliot transform the relationship into one of moral trust. Anne relies on her account as decisive evidence.",
+          "key_moments": [
+            "The letter and account of Mr Elliot’s conduct",
+            "Anne accepts the disclosure as morally clarifying"
+          ]
+        },
+        {
+          "phase": "Grateful alliance",
+          "chapter_range": [
+            21,
+            22
+          ],
+          "position_description": "Anne’s gratitude deepens as Mrs Smith’s truth-telling helps clear the path to her own happiness. The relationship becomes one of affectionate moral alliance.",
+          "key_moments": [
+            "Anne’s judgment of Mr Elliot is confirmed",
+            "She values Mrs Smith’s insight and courage"
+          ]
+        }
+      ],
+      "evidence_summary": "Mrs Smith becomes one of Anne’s most important non-romantic relationships: from a sympathetic acquaintance she becomes a trusted witness and moral ally."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Anne Elliot",
+      "target_character": "Captain Benwick",
+      "dimension_label": "sympathy-interest",
+      "axis_name": "From compassionate instruction to mild romantic possibility",
+      "pole_start": "Anne first relates to Benwick as a grieving young man deserving sympathy and gentle moral encouragement.",
+      "pole_end": "Anne ends with only mild, unresolved interest; the relationship never becomes central, but it does move beyond mere pity.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Sympathetic instruction",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "Anne speaks to him with compassion and offers literary and moral guidance, feeling useful and benevolent.",
+          "key_moments": [
+            "Conversation at Lyme",
+            "Her advice on grief and reading"
+          ]
+        },
+        {
+          "phase": "Curious possibility",
+          "chapter_range": [
+            12,
+            16
+          ],
+          "position_description": "She becomes aware that others think he may admire her, and she is mildly flattered and open to the idea without pursuing it.",
+          "key_moments": [
+            "Mary’s mockery and social speculation",
+            "Anne’s receptive but restrained response"
+          ]
+        },
+        {
+          "phase": "Secondary interest",
+          "chapter_range": [
+            17,
+            22
+          ],
+          "position_description": "Benwick remains a pleasant, morally legible figure, but he is displaced by Wentworth and never becomes a serious emotional alternative.",
+          "key_moments": [
+            "Louisa-Benwick engagement is reported",
+            "Anne’s attention returns decisively to Wentworth"
+          ]
+        }
+      ],
+      "evidence_summary": "Benwick matters as a brief relational possibility and as a test of Anne’s sympathy, but his arc remains secondary to the Wentworth plot."
+    }
+  ]
+}

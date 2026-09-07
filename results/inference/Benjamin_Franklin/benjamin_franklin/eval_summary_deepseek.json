@@ -1,0 +1,499 @@
+{
+  "novel": "Benjamin_Franklin",
+  "character": "benjamin_franklin",
+  "judge_model": "deepseek/deepseek-v4-flash",
+  "score_scale": 100,
+  "by_model": {
+    "Qwen/Qwen3-8B": {
+      "summary": {
+        "apf": 47.49,
+        "rpf": 47.405,
+        "rae": 38.887,
+        "average": 44.594,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 47.391,
+        "rpf": 46.898,
+        "rae": 37.676,
+        "average": 43.988,
+        "n": 256
+      },
+      "vanilla": {
+        "apf": 43.521,
+        "rpf": 44.825,
+        "rae": 35.253,
+        "average": 41.2,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 46.922,
+        "rpf": 47.907,
+        "rae": 39.047,
+        "average": 44.625,
+        "n": 257
+      },
+      "arc": {
+        "apf": 50.642,
+        "rpf": 50.214,
+        "rae": 40.984,
+        "average": 47.28,
+        "n": 257
+      },
+      "rag": {
+        "apf": 48.93,
+        "rpf": 49.152,
+        "rae": 41.607,
+        "average": 46.563,
+        "n": 257
+      }
+    },
+    "Qwen/Qwen3-32B": {
+      "timechara": {
+        "apf": 52.961,
+        "rpf": 53.401,
+        "rae": 45.16,
+        "average": 50.507,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 51.401,
+        "rpf": 51.626,
+        "rae": 43.307,
+        "average": 48.778,
+        "n": 257
+      },
+      "arc": {
+        "apf": 57.354,
+        "rpf": 56.654,
+        "rae": 48.611,
+        "average": 54.206,
+        "n": 257
+      },
+      "summary": {
+        "apf": 54.796,
+        "rpf": 54.439,
+        "rae": 47.373,
+        "average": 52.203,
+        "n": 255
+      },
+      "lifechoice": {
+        "apf": 55.52,
+        "rpf": 55.34,
+        "rae": 48.184,
+        "average": 53.014,
+        "n": 256
+      },
+      "rag": {
+        "apf": 56.074,
+        "rpf": 56.097,
+        "rae": 49.195,
+        "average": 53.788,
+        "n": 257
+      }
+    },
+    "deepseek/deepseek-v4-pro": {
+      "lifechoice": {
+        "apf": 64.716,
+        "rpf": 63.537,
+        "rae": 59.584,
+        "average": 62.612,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 60.813,
+        "rpf": 60.553,
+        "rae": 55.412,
+        "average": 58.926,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 61.039,
+        "rpf": 61.089,
+        "rae": 55.778,
+        "average": 59.302,
+        "n": 257
+      },
+      "summary": {
+        "apf": 66.175,
+        "rpf": 65.424,
+        "rae": 61.027,
+        "average": 64.209,
+        "n": 257
+      },
+      "rag": {
+        "apf": 63.132,
+        "rpf": 62.899,
+        "rae": 56.732,
+        "average": 60.921,
+        "n": 257
+      },
+      "arc": {
+        "apf": 67.175,
+        "rpf": 66.132,
+        "rae": 62.455,
+        "average": 65.254,
+        "n": 257
+      }
+    },
+    "deepseek/deepseek-v4-flash": {
+      "summary": {
+        "apf": 65.479,
+        "rpf": 65.086,
+        "rae": 60.58,
+        "average": 63.715,
+        "n": 257
+      },
+      "arc": {
+        "apf": 65.525,
+        "rpf": 65.564,
+        "rae": 60.008,
+        "average": 63.699,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 63.755,
+        "rpf": 63.21,
+        "rae": 57.887,
+        "average": 61.617,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 60.42,
+        "rpf": 60.432,
+        "rae": 54.907,
+        "average": 58.586,
+        "n": 257
+      },
+      "rag": {
+        "apf": 61.907,
+        "rpf": 62.152,
+        "rae": 55.541,
+        "average": 59.866,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 60.533,
+        "rpf": 60.712,
+        "rae": 54.798,
+        "average": 58.681,
+        "n": 257
+      }
+    },
+    "arcane-8B-dpo": {
+      "lifechoice": {
+        "apf": 59.327,
+        "rpf": 58.482,
+        "rae": 52.984,
+        "average": 56.931,
+        "n": 257
+      },
+      "summary": {
+        "apf": 58.903,
+        "rpf": 57.712,
+        "rae": 51.132,
+        "average": 55.916,
+        "n": 257
+      },
+      "arc": {
+        "apf": 68.016,
+        "rpf": 66.362,
+        "rae": 62.315,
+        "average": 65.565,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 56.984,
+        "rpf": 56.381,
+        "rae": 51.058,
+        "average": 54.808,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 56.245,
+        "rpf": 56.226,
+        "rae": 50.07,
+        "average": 54.18,
+        "n": 257
+      },
+      "rag": {
+        "apf": 58.724,
+        "rpf": 58.603,
+        "rae": 51.852,
+        "average": 56.393,
+        "n": 257
+      }
+    },
+    "arcane-32B-dpo": {
+      "arc": {
+        "apf": 73.568,
+        "rpf": 70.907,
+        "rae": 69.638,
+        "average": 71.371,
+        "n": 257
+      },
+      "rag": {
+        "apf": 59.611,
+        "rpf": 59.066,
+        "rae": 52.327,
+        "average": 57.001,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 62.549,
+        "rpf": 61.984,
+        "rae": 56.603,
+        "average": 60.379,
+        "n": 257
+      },
+      "summary": {
+        "apf": 60.047,
+        "rpf": 59.689,
+        "rae": 53.019,
+        "average": 57.585,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 59.086,
+        "rpf": 58.619,
+        "rae": 52.198,
+        "average": 56.634,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 60.895,
+        "rpf": 60.712,
+        "rae": 54.245,
+        "average": 58.618,
+        "n": 257
+      }
+    },
+    "arcane-8B-sft": {
+      "timechara": {
+        "apf": 54.268,
+        "rpf": 53.56,
+        "rae": 47.346,
+        "average": 51.725,
+        "n": 257
+      },
+      "rag": {
+        "apf": 57.918,
+        "rpf": 57.724,
+        "rae": 52.07,
+        "average": 55.904,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 53.32,
+        "rpf": 53.301,
+        "rae": 46.23,
+        "average": 50.951,
+        "n": 256
+      },
+      "lifechoice": {
+        "apf": 57.218,
+        "rpf": 57.296,
+        "rae": 51.265,
+        "average": 55.26,
+        "n": 257
+      },
+      "summary": {
+        "apf": 58.268,
+        "rpf": 58.054,
+        "rae": 51.86,
+        "average": 56.061,
+        "n": 257
+      },
+      "arc": {
+        "apf": 62.218,
+        "rpf": 61.031,
+        "rae": 56.315,
+        "average": 59.855,
+        "n": 257
+      }
+    },
+    "arcane-32B-sft": {
+      "rag": {
+        "apf": 64.533,
+        "rpf": 63.696,
+        "rae": 59.732,
+        "average": 62.654,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 61.409,
+        "rpf": 60.467,
+        "rae": 56.043,
+        "average": 59.306,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 63.358,
+        "rpf": 62.436,
+        "rae": 58.253,
+        "average": 61.349,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 61.895,
+        "rpf": 61.451,
+        "rae": 56.696,
+        "average": 60.014,
+        "n": 257
+      },
+      "arc": {
+        "apf": 67.008,
+        "rpf": 65.623,
+        "rae": 62.825,
+        "average": 65.152,
+        "n": 257
+      },
+      "summary": {
+        "apf": 62.568,
+        "rpf": 61.401,
+        "rae": 57.265,
+        "average": 60.411,
+        "n": 257
+      }
+    },
+    "Neph0s/CoSER-Llama-3.1-8B": {
+      "summary": {
+        "apf": 39.747,
+        "rpf": 42.588,
+        "rae": 32.568,
+        "average": 38.301,
+        "n": 257
+      },
+      "arc": {
+        "apf": 41.148,
+        "rpf": 44.3,
+        "rae": 33.969,
+        "average": 39.806,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 38.113,
+        "rpf": 40.584,
+        "rae": 31.148,
+        "average": 36.615,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 40.097,
+        "rpf": 42.101,
+        "rae": 32.529,
+        "average": 38.243,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 41.128,
+        "rpf": 44.163,
+        "rae": 34.105,
+        "average": 39.799,
+        "n": 257
+      },
+      "rag": {
+        "apf": 40.136,
+        "rpf": 42.879,
+        "rae": 33.872,
+        "average": 38.963,
+        "n": 257
+      }
+    },
+    "Neph0s/CoSER-Llama-3.1-70B": {
+      "summary": {
+        "apf": 46.206,
+        "rpf": 47.296,
+        "rae": 39.572,
+        "average": 44.358,
+        "n": 257
+      },
+      "arc": {
+        "apf": 49.086,
+        "rpf": 49.708,
+        "rae": 42.335,
+        "average": 47.043,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 46.751,
+        "rpf": 47.879,
+        "rae": 40.292,
+        "average": 44.974,
+        "n": 257
+      },
+      "rag": {
+        "apf": 48.054,
+        "rpf": 49.066,
+        "rae": 42.062,
+        "average": 46.394,
+        "n": 257
+      },
+      "vanilla": {
+        "apf": 45.529,
+        "rpf": 46.794,
+        "rae": 38.35,
+        "average": 43.558,
+        "n": 257
+      },
+      "timechara": {
+        "apf": 44.751,
+        "rpf": 45.957,
+        "rae": 37.825,
+        "average": 42.845,
+        "n": 257
+      }
+    },
+    "HER-32B": {
+      "timechara": {
+        "apf": 50.782,
+        "rpf": 50.276,
+        "rae": 43.525,
+        "average": 48.195,
+        "n": 257
+      },
+      "lifechoice": {
+        "apf": 52.397,
+        "rpf": 52.65,
+        "rae": 45.245,
+        "average": 50.098,
+        "n": 257
+      },
+      "arc": {
+        "apf": 54.245,
+        "rpf": 53.914,
+        "rae": 46.872,
+        "average": 51.677,
+        "n": 257
+      },
+      "rag": {
+        "apf": 54.785,
+        "rpf": 53.848,
+        "rae": 47.664,
+        "average": 52.099,
+        "n": 256
+      },
+      "vanilla": {
+        "apf": 51.984,
+        "rpf": 51.051,
+        "rae": 44.28,
+        "average": 49.105,
+        "n": 257
+      },
+      "summary": {
+        "apf": 54.047,
+        "rpf": 52.977,
+        "rae": 46.79,
+        "average": 51.271,
+        "n": 257
+      }
+    }
+  },
+  "include_thought": true,
+  "this_run": {
+    "responses_scored": 92,
+    "input_tokens": 151900,
+    "output_tokens": 2982,
+    "cost_usd": 0.0221
+  }
+}

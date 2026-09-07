@@ -1,0 +1,501 @@
+{
+  "character": "Squire Trelawney",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From blustering self-assertion to disciplined interdependence",
+          "set_b_axis": "From impulsive self-assertion to disciplined communal loyalty",
+          "overlap_description": "Both describe Trelawney's movement from overconfident, self-driven leadership toward cooperative, deferential participation in a shared survival effort."
+        },
+        {
+          "set_a_axis": "From swaggering certainty to chastened realism",
+          "set_b_axis": "From unexamined certainty to chastened practical realism",
+          "overlap_description": "Both capture the erosion of Trelawney's overconfidence into a more sober, realistic understanding of danger, competence, and his own fallibility."
+        },
+        {
+          "set_a_axis": "From gentlemanly display to hard-nosed survival ethics",
+          "set_b_axis": "From wounded pride to humbled service",
+          "overlap_description": "Both identify a shift away from status-driven, performative self-conception toward humility, discipline, and practical service under crisis."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From gentlemanly display to hard-nosed survival ethics",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From adventure fantasy to military realism",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From offended resistance to sincere deference",
+          "set_b_axis": "From offended resistance to disciplined trust",
+          "overlap_description": "Both track Trelawney's relationship with Smollett from wounded pride and resistance to genuine reliance on the captain's superior judgment."
+        },
+        {
+          "set_a_axis": "From admiring trust to absolute enmity",
+          "set_b_axis": "From admiring trust to moral distrust",
+          "overlap_description": "Both describe the collapse of Trelawney's trust in Silver into lasting hostility and moral condemnation after Silver's treachery is revealed."
+        },
+        {
+          "set_a_axis": "From benevolent patron to humbled companion",
+          "set_b_axis": "From genial patronage to warm comradeship",
+          "overlap_description": "Both see Trelawney's bond with Jim Hawkins becoming less hierarchical and more mutually trusting, forgiving, and companionable."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From independent pride to quiet reliance",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From independent pride to quiet reliance",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "agency communion",
+      "axis_name": "From impulsive self-assertion to disciplined communal loyalty",
+      "pole_start": "Highly agentic: proud, impulsive, socially dominant, and convinced he can drive the expedition on his own terms.",
+      "pole_end": "More communally oriented: cooperative, deferential to shared leadership, and invested in the survival and cohesion of the loyal party.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Expansive organizer",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "Trelawney begins in a triumphal, self-authorizing mode: he rushes the expedition forward, boasts of the ship and crew, and treats his own initiative as sufficient.",
+          "key_moments": [
+            "Discovers Flint's papers and immediately turns them into a treasure plan",
+            "Fits out the Hispaniola and boasts about the voyage's success",
+            "Trusts Silver too readily and bristles at Smollett's criticism"
+          ]
+        },
+        {
+          "phase": "Chastened by crisis",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "The mutiny and deaths force him to yield to practical leadership and to work within the loyal group rather than above it.",
+          "key_moments": [
+            "Admits Smollett was right after the warning signs become undeniable",
+            "Accepts the cabin council and defensive reorganization",
+            "Helps retreat to the stockade and grieves Redruth's death"
+          ]
+        },
+        {
+          "phase": "Disciplined loyalist",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "He settles into a stable cooperative posture, supporting the group, following Smollett's command, and valuing shared survival over personal display.",
+          "key_moments": [
+            "Endures siege conditions under Smollett's direction",
+            "Acts as part of the loyal defense rather than as a solo leader",
+            "Returns to the camp and helps secure the recovered treasure"
+          ]
+        }
+      ],
+      "evidence_summary": "Across both analyses, Trelawney's core internal movement is from impulsive self-assertion toward disciplined cooperation. He does not lose agency, but it becomes subordinated to collective survival, practical leadership, and loyal fellowship."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "confidence realism",
+      "axis_name": "From unexamined certainty to chastened practical realism",
+      "pole_start": "Unquestioning confidence in his own judgment, with little awareness of risk, gullibility, or the limits of his competence.",
+      "pole_end": "A sober realism that recognizes error, accepts danger, and relies on practical judgment rather than romantic confidence.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Overconfident patron",
+          "chapter_range": [
+            6,
+            10
+          ],
+          "position_description": "He assumes the expedition will succeed and that his social instincts are enough to manage men and circumstances.",
+          "key_moments": [
+            "Treats the treasure hunt as unquestionably attainable",
+            "Praises Silver as trustworthy and useful",
+            "Dismisses Smollett's warnings as offensive rather than instructive"
+          ]
+        },
+        {
+          "phase": "Public correction",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "His confidence is punctured by events; he admits error and begins to see the voyage as genuinely dangerous.",
+          "key_moments": [
+            "Says he 'owns' himself an ass",
+            "Accepts that the crew is mutinous",
+            "Submits to Smollett's tactical leadership"
+          ]
+        },
+        {
+          "phase": "Practical survivor",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "He becomes steadier and more realistic, focusing on defense, endurance, and survival rather than prestige or bravado.",
+          "key_moments": [
+            "Helps move supplies to the stockade",
+            "Acts with discipline under fire",
+            "Ends relieved rather than triumphant"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree that Trelawney's inflated certainty is corrected by the mutiny into practical realism. The result is not self-erasure but a durable, chastened judgment shaped by danger."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "pride humility",
+      "axis_name": "From wounded pride to humbled service",
+      "pole_start": "Proud, status-conscious, and easily affronted by criticism; he experiences disagreement as insult.",
+      "pole_end": "More humble in practice: he acknowledges error, defers to others, and accepts a supporting rather than commanding role.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive gentleman",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "He reacts to Smollett's bluntness as a personal affront and resists any challenge to his authority.",
+          "key_moments": [
+            "Feels insulted by Smollett's criticism",
+            "Despises the captain's caution",
+            "Wants his role as organizer vindicated"
+          ]
+        },
+        {
+          "phase": "Humbling shock",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "Events publicly correct him, and he begins to act with humility, especially in relation to Smollett and Redruth.",
+          "key_moments": [
+            "Admits he was wrong",
+            "Yields authority to the captain",
+            "Kneels by Tom Redruth and asks forgiveness"
+          ]
+        },
+        {
+          "phase": "Restored but chastened",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "His pride remains, but it is no longer governing; he functions as a loyal gentleman rather than a self-justifying one.",
+          "key_moments": [
+            "Supports the loyal camp without trying to dominate it",
+            "Shows controlled anger toward Silver rather than swagger",
+            "Ends in relief and social composure"
+          ]
+        }
+      ],
+      "evidence_summary": "Trelawney's pride is not eliminated, but it is redirected into service, discipline, and loyalty. The arc is one of humiliation transformed into mature humility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "romance realism",
+      "axis_name": "From adventure fantasy to military realism",
+      "pole_start": "He sees the voyage as a grand, romantic adventure full of prestige, excitement, and gentlemanly display.",
+      "pole_end": "He understands it as a grim, practical struggle requiring arms, rationing, vigilance, and endurance.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Adventure-minded enthusiasm",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "He treats the expedition as a thrilling enterprise and delights in its outward signs of success.",
+          "key_moments": [
+            "Celebrates the ship and crew as proof of triumph",
+            "Admires Silver as a colorful and useful figure",
+            "Feels buoyant and triumphant about departure"
+          ]
+        },
+        {
+          "phase": "Reality check",
+          "chapter_range": [
+            9,
+            18
+          ],
+          "position_description": "Smollett's warnings, Jim's revelations, and the mutiny force him to abandon romantic assumptions.",
+          "key_moments": [
+            "Smollett criticizes the voyage's setup",
+            "Jim reveals Silver's treachery",
+            "The loyal party retreats to the stockade and fights for survival"
+          ]
+        },
+        {
+          "phase": "Siege mentality",
+          "chapter_range": [
+            19,
+            34
+          ],
+          "position_description": "He fully inhabits a military, survival-first mindset; the adventure has become a campaign.",
+          "key_moments": [
+            "Endures rationing and siege conditions",
+            "Fights in the stockade defense",
+            "Helps secure the treasure and leave the island"
+          ]
+        }
+      ],
+      "evidence_summary": "This axis is strongly supported by the psychological summary and complements the other internal axes: Trelawney's romantic expeditionary fantasy is replaced by hard-edged realism and siege discipline."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Squire Trelawney",
+      "target_character": "Captain Smollett",
+      "dimension_label": "respect defiance",
+      "axis_name": "From offended resistance to disciplined trust",
+      "pole_start": "Initially defensive, contemptuous, and resistant to Smollett's criticism; he experiences the captain's warnings as an insult to his competence.",
+      "pole_end": "Fully trusting, deferential, and reliant on Smollett as the rightful tactical leader of the loyal party.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Conflict and offense",
+          "chapter_range": [
+            9,
+            10
+          ],
+          "position_description": "Trelawney is irritated by Smollett's bluntness and sees him as obstructive rather than helpful.",
+          "key_moments": [
+            "Smollett criticizes the voyage's arrangements",
+            "Trelawney bristles and despises the captain's caution"
+          ]
+        },
+        {
+          "phase": "Correction and submission",
+          "chapter_range": [
+            12,
+            16
+          ],
+          "position_description": "He accepts that Smollett was right and begins to defer to his command.",
+          "key_moments": [
+            "Admits he was wrong after Jim's warning",
+            "Accepts the cabin council",
+            "Helps carry out Smollett's retreat to the stockade"
+          ]
+        },
+        {
+          "phase": "Stable reliance",
+          "chapter_range": [
+            17,
+            34
+          ],
+          "position_description": "Their relationship settles into strong trust and practical solidarity; Smollett becomes the model of competence Trelawney follows.",
+          "key_moments": [
+            "Fights under Smollett's direction",
+            "Supports the siege defense",
+            "Continues to treat Smollett as the authoritative leader"
+          ]
+        }
+      ],
+      "evidence_summary": "Smollett is the corrective to Trelawney's impulsiveness and the leader whose competence earns lasting deference. Their relationship moves from friction to trust and practical solidarity."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Squire Trelawney",
+      "target_character": "Long John Silver",
+      "dimension_label": "trust suspicion",
+      "axis_name": "From admiring trust to moral distrust",
+      "pole_start": "Initially highly trusting, admiring, and socially receptive toward Silver, whom he sees as capable, respectable, and useful.",
+      "pole_end": "Fully distrustful and morally contemptuous, seeing Silver as a traitor, manipulator, and enemy leader.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Admiration and reliance",
+          "chapter_range": [
+            7,
+            10
+          ],
+          "position_description": "Trelawney is taken in by Silver's performance and treats him as a valuable, trustworthy man.",
+          "key_moments": [
+            "Calls Silver a 'perfect trump'",
+            "Trusts him as cook and intermediary",
+            "Remains blind to the danger of appearances"
+          ]
+        },
+        {
+          "phase": "Collapse of trust",
+          "chapter_range": [
+            12,
+            13
+          ],
+          "position_description": "Jim's warning and the mutiny force a complete reversal in his view of Silver.",
+          "key_moments": [
+            "Learns the crew is mutinous",
+            "Recognizes Silver as a dangerous manipulator",
+            "Aligns with Smollett against the pirates"
+          ]
+        },
+        {
+          "phase": "Fixed enmity",
+          "chapter_range": [
+            16,
+            34
+          ],
+          "position_description": "Silver becomes the emblem of treachery and pirate cunning; Trelawney's attitude remains hostile and contemptuous.",
+          "key_moments": [
+            "Treats Silver as the enemy during the siege",
+            "Denounces him at the end",
+            "Feels relief when Silver disappears"
+          ]
+        }
+      ],
+      "evidence_summary": "Trelawney's trust in Silver undergoes a sharp reversal: admiration becomes suspicion, then enduring moral distrust after treachery is exposed."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "Squire Trelawney",
+      "target_character": "Jim Hawkins",
+      "dimension_label": "patronage comradeship",
+      "axis_name": "From genial patronage to warm comradeship",
+      "pole_start": "Fond but somewhat patronizing approval of Jim as a promising boy and useful companion.",
+      "pole_end": "Warm, trusting, and affectionate comradeship, with Jim treated as a valued ally and brave participant.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Welcoming patron",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "He likes Jim, praises him, and imagines him as part of the expedition's household.",
+          "key_moments": [
+            "Calls Jim a 'trump'",
+            "Wants him to join the voyage quickly",
+            "Treats him as a welcome young companion"
+          ]
+        },
+        {
+          "phase": "Trusted ally",
+          "chapter_range": [
+            12,
+            18
+          ],
+          "position_description": "Jim becomes a crucial source of information and a trusted helper, deepening Trelawney's affection and reliance.",
+          "key_moments": [
+            "Places 'prodigious faith' in Jim",
+            "Relies on Jim's warning about Silver",
+            "Maintains concern for Jim's safety"
+          ]
+        },
+        {
+          "phase": "Cordial survivor",
+          "chapter_range": [
+            33,
+            34
+          ],
+          "position_description": "After the crisis, he is openly kind and approving toward Jim, with no lingering strain.",
+          "key_moments": [
+            "Does not reproach Jim for earlier actions",
+            "Appears relieved and warmly aligned with him at the end"
+          ]
+        }
+      ],
+      "evidence_summary": "Trelawney's relationship with Jim remains positive but deepens from patronizing fondness into genuine trust and affection as Jim proves himself in crisis."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Squire Trelawney",
+      "target_character": "Dr. Livesey",
+      "dimension_label": "independence deference",
+      "axis_name": "From independent pride to quiet reliance",
+      "pole_start": "He initially acts independently of Livesey's caution, treating his own arrangements and instincts as sufficient.",
+      "pole_end": "He ends by trusting Livesey as a steady, competent ally whose judgment helps keep the group alive.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Independent confidence",
+          "chapter_range": [
+            6,
+            8
+          ],
+          "position_description": "Livesey's warnings are respected in principle, but Trelawney still behaves as if he can manage the expedition on his own terms.",
+          "key_moments": [
+            "Accepts secrecy after the map is revealed",
+            "Proceeds with outfitting the ship",
+            "Acts without fully sharing authority"
+          ]
+        },
+        {
+          "phase": "Practical dependence",
+          "chapter_range": [
+            12,
+            22
+          ],
+          "position_description": "As the mutiny unfolds, Livesey's judgment becomes increasingly valuable. Trelawney relies on the doctor's calm intelligence and tactical clarity.",
+          "key_moments": [
+            "Accepts the defensive plan",
+            "Recognizes loyal allies",
+            "Livesey's calm initiative in the stockade and beyond"
+          ]
+        },
+        {
+          "phase": "Post-crisis respect",
+          "chapter_range": [
+            30,
+            34
+          ],
+          "position_description": "Livesey's composure in negotiations and the final recovery of the treasure reinforce Trelawney's trust in him as a stabilizing force.",
+          "key_moments": [
+            "Livesey handles tense exchanges at the block house",
+            "Trelawney aligns with the doctor's judgment about Silver",
+            "The expedition ends under the doctor's practical leadership"
+          ]
+        }
+      ],
+      "evidence_summary": "Livesey functions as the quiet corrective to Trelawney's impulsiveness. The relationship shifts from partial independence to genuine reliance on the doctor's steadiness and judgment."
+    }
+  ]
+}
